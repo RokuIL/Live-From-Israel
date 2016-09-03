@@ -2,10 +2,10 @@
 <!--                                                 -->
 <!-- Don't forget to XML Encode the URL as needed    -->
 <!--                                                 -->
-<Config Version="105">
+<Config Version="106">
   <IPTVTeleviz Default="True">
     <![CDATA[
-      #EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-REM-title="Hebrew" ,Channel 1
+      #EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-title="Hebrew" ,Channel 1
       rtmp://iba-s.vidnt.com/iba_channel-511MRepeat/channel-511M_4.stream 
       #EXTINF:16 logo="pkg:/data/Channel 2 News.png" group-title="Hebrew" ,Channel 2 news
       http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
@@ -33,31 +33,6 @@
       http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8 
     ]]>
   </IPTVTeleviz>
-    
-  <IPTV Default="True">
-    <![CDATA[
-      #EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-title="Israel",Channel 1 [B][/B]
-      http://62.90.90.52:1935/iba_channel-511MRepeat/_definst_/smil:channel-511M.smil/chunklist_w1318554670_b1392000.m3u8
-      #EXTINF:333 logo="pkg:/data/Channel 2 News.png" group-title="Israel",Channel 2 news [B][/B]
-      http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
-      #EXTINF:2 logo="pkg:/data/Keshet.jpg" group-title="Israel",Channel 2 (Keshet) [B][/B]
-      http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index_2064.m3u8
-      #EXTINF:21 logo="pkg:/data/Reshet.jpg" group-title="Israel",Channel 2 (Reshet) [B][/B]
-      http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/playlist.m3u8
-      #EXTINF:10 logo="pkg:/data/Channel 10.jpg" group-title="Israel",Channel 10 [B][/B]
-      http://nana10live-lh.akamaihd.net/i/Mob01_0@70462/master.m3u8
-      #EXTINF:24 logo="pkg:/data/Music 24.jpg" group-title="Israel",Music 24 [B][/B]
-      http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8
-      #EXTINF:-1 logo="pkg:/data/Glgltz.jpg" group-title="Israel",Galgaltz [B][/B]
-      http://glzlv01.vds-is.bynetcdn.com/glglz/glglz_aac/playlist.m3u8
-      #EXTINF:-1 logo="pkg:/data/Gltz.jpg" group-title="Israel",Galei Zahal [B][/B]
-      http://glzlv01.vds-is.bynetcdn.com/glz/glz_aac/playlist.m3u8
-      #EXTINF:-1 logo="http://televiz.net/static/img/logos/c601.png" group-title="Israel",NFL Now HD [B][/B]
-      http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8 
-      #EXTINF:-1 logo="http://televiz.net/static/img/logos/c923.png" group-title="Israel",Poker Central [B][/B]
-      http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
-    ]]>
-  </IPTV>
     
   <Exclude>
 <!--
