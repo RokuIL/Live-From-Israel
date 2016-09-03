@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--                                                 -->
+<!-- Don't forget to XML Encode the URL as needed    -->
+<!--                                                 -->
+<Config Version="105">
+  <IPTVTeleviz Default="True">
+    <![CDATA[
+      #EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-REM-title="Hebrew" ,Channel 1
+      rtmp://iba-s.vidnt.com/iba_channel-511MRepeat/channel-511M_4.stream 
+      #EXTINF:16 logo="pkg:/data/Channel 2 News.png" group-title="Hebrew" ,Channel 2 news
+      http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+      #EXTINF:611 logo="pkg:/data/Reshet.jpg" group-REM-title="Hebrew" ,Reshet Sun.-Tue.
+      http://reshet207788-i.akamaihd.net/hls/live/207509/live/encoder_index.m3u8
+      #EXTINF:22 logo="pkg:/data/Keshet.jpg" group-REM-title="Hebrew" ,Keshet Wed.-Sat.
+      http://89.45.186.26:1935/live/333/manifest.m3u8
+      #EXTINF:522 logo="pkg:/data/Channel 2.jpg" group-title="Hebrew" ,Channel 22 all week
+      http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/playlist.m3u8 
+      #EXTINF:10 logo="pkg:/data/Channel 10.jpg" group-title="Hebrew" ,Channel 10
+      http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist.m3u8 
+      #EXTINF:613 logo="pkg:/data/Sport.jpg" group-REM-title="Hebrew" ,Sport - rotating
+      http://sport5_live1-lh.akamaihd.net/i/live3_0@129322/index_2_av-p.m3u8?sd=10&rebase=on
+      #EXTINF:24 logo="pkg:/data/Music 24.jpg" group-title="Hebrew" ,Music 24
+      http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_500_av-b.m3u8 
+      #EXTINF:622 logo="pkg:/data/Glgltz.jpg" group-title="Hebrew" ,Galgaltz
+      http://glzlv01.vds-is.bynetcdn.com/glglz/glglz_aac/playlist.m3u8 
+      #EXTINF:621 logo="pkg:/data/Gltz.jpg" group-title="Hebrew" ,Galei Zahal
+      http://glzlv01.vds-is.bynetcdn.com/glz/glz_aac/playlist.m3u8 
+      #EXTINF:923 logo="pkg:/data/Poker Central.png" group-title="English" ,Poker Central 
+      http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8 
+      #EXTINF:601 logo="pkg:/data/NFL Now.png" group-title="English" ,NFL Now HD
+      http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8 
+      #EXTINF:606 logo="http://televiz.net/static/img/logos/c606.png" group-title="English" ,NASA TV
+      http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8 
+    ]]>
+  </IPTVTeleviz>
+    
+  <IPTV Default="True">
+    <![CDATA[
+      #EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-title="Israel",Channel 1 [B][/B]
+      http://62.90.90.52:1935/iba_channel-511MRepeat/_definst_/smil:channel-511M.smil/chunklist_w1318554670_b1392000.m3u8
+      #EXTINF:333 logo="pkg:/data/Channel 2 News.png" group-title="Israel",Channel 2 news [B][/B]
+      http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+      #EXTINF:2 logo="pkg:/data/Keshet.jpg" group-title="Israel",Channel 2 (Keshet) [B][/B]
+      http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index_2064.m3u8
+      #EXTINF:21 logo="pkg:/data/Reshet.jpg" group-title="Israel",Channel 2 (Reshet) [B][/B]
+      http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/playlist.m3u8
+      #EXTINF:10 logo="pkg:/data/Channel 10.jpg" group-title="Israel",Channel 10 [B][/B]
+      http://nana10live-lh.akamaihd.net/i/Mob01_0@70462/master.m3u8
+      #EXTINF:24 logo="pkg:/data/Music 24.jpg" group-title="Israel",Music 24 [B][/B]
+      http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8
+      #EXTINF:-1 logo="pkg:/data/Glgltz.jpg" group-title="Israel",Galgaltz [B][/B]
+      http://glzlv01.vds-is.bynetcdn.com/glglz/glglz_aac/playlist.m3u8
+      #EXTINF:-1 logo="pkg:/data/Gltz.jpg" group-title="Israel",Galei Zahal [B][/B]
+      http://glzlv01.vds-is.bynetcdn.com/glz/glz_aac/playlist.m3u8
+      #EXTINF:-1 logo="http://televiz.net/static/img/logos/c601.png" group-title="Israel",NFL Now HD [B][/B]
+      http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8 
+      #EXTINF:-1 logo="http://televiz.net/static/img/logos/c923.png" group-title="Israel",Poker Central [B][/B]
+      http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+    ]]>
+  </IPTV>
+    
+  <Exclude>
+<!--
+    <Channel Name="ערוץ 20"/>
+-->
+  </Exclude>
+
+  <Translation>
+    <Channel Source="הערוץ הראשון" Dest="Channel 1"/>
+    <Channel Source="ערוץ 10 ישראל" Dest="Channel 10"/>
+    <Channel Source="ערוץ 22 רשת ראשון-שלישי" Dest="Reshet Sun.-Tue."/>
+    <Channel Source="ערוץ 22 קשת רביעי-שבת" Dest="Keshet Wed.-Sat."/>
+    <Channel Source="ערוץ 22 כל השבוע"  Dest="Channel 22 all week"/>
+    <Channel Source="גלגלצ" Dest="Galgaltz"/>
+    <Channel Source="גלצ" Dest="Galei Zahal"/>
+    <Channel Source="ערוץ הספורט" Dest="Sport channel"/>
+    <Channel Source="ספורט 5 פלוס" Dest="Sport 5 plus"/>
+    <Channel Source="ספורט מתחלף" Dest="Sport - rotating"/>
+    <Channel Source="ספורט מתחלף 2" Dest="Sport - rotating 2"/>
+    <Channel Source="ספורט 5 מובייל" Dest="Sport 5 mobile"/>
+    <Channel Source="חדשות 22" Dest="Channel 2 news"/>
+    <Channel Source="ערוץ המוזיקה" Dest="Music 24"/>
+  </Translation>
+
+  <LocalImage>
+    <Image Source="http://televiz.net/static/img/logos/c11.png" Dest="pkg:/data/Channel 1.jpg"/>
+    <Image Source="http://televiz.net/static/img/logos/c16.png" Dest="pkg:/data/Channel 2 News.png"/>
+    <Image Source="http://televiz.net/static/img/logos/c611.png" Dest="pkg:/data/Reshet.jpg"/>
+    <Image Source="http://televiz.net/static/img/logos/c22.png" Dest="pkg:/data/Keshet.jpg"/>
+    <Image Source="http://televiz.net/static/img/logos/c522.png" Dest="pkg:/data/Channel 2.jpg"/>
+    <Image Source="http://televiz.net/static/img/logos/c10.png" Dest="pkg:/data/Channel 10.jpg"/>
+    <Image Source="http://televiz.net/static/img/logos/c613.png" Dest="pkg:/data/Sport.jpg"/>
+    <Image Source="http://televiz.net/static/img/logos/c503.png" Dest="pkg:/data/Sport.jpg"/>
+    <Image Source="http://televiz.net/static/img/logos/c24.png" Dest="pkg:/data/Music 24.jpg"/>
+    <Image Source="http://televiz.net/static/img/logos/c622.png" Dest="pkg:/data/Glgltz.jpg"/>
+    <Image Source="http://televiz.net/static/img/logos/c621.png" Dest="pkg:/data/Gltz.jpg"/>
+    <Image Source="http://televiz.net/static/img/logos/c601.png" Dest="pkg:/data/NFL Now.png"/>
+    <Image Source="http://televiz.net/static/img/logos/c923.png" Dest="pkg:/data/Poker Central.png"/>
+  </LocalImage>
+</Config>
