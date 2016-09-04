@@ -2,6 +2,7 @@
 <!--                                                 -->
 <!-- Don't forget to XML Encode the URL as needed    -->
 <!--                                                 -->
+<Config Version="110">
   <IPTVTeleviz Default="True">
     <![CDATA[
       #EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-REM-title="Hebrew" ,Channel 1
@@ -17,7 +18,7 @@
       #EXTINF:10 logo="pkg:/data/Channel 10.jpg" group-title="Hebrew" ,Channel 10
       http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist.m3u8 
       #EXTINF:613 logo="pkg:/data/Sport.jpg" group-title="Hebrew" ,Sport - rotating
-      http://sport5_live1-lh.akamaihd.net/i/live3_0@129322/index_2_av-p.m3u8?sd=10&rebase=on
+      http://sport5_live1-lh.akamaihd.net/i/live3_0@129322/index_2_av-p.m3u8
       #EXTINF:24 logo="pkg:/data/Music 24.jpg" group-title="Hebrew" ,Music 24
       http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_500_av-b.m3u8 
       #EXTINF:622 logo="pkg:/data/Glgltz.jpg" group-title="Hebrew" ,Galgaltz
