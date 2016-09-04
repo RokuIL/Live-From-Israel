@@ -2,14 +2,14 @@
 <!--                                                 -->
 <!-- Don't forget to XML Encode the URL as needed    -->
 <!--                                                 -->
-<Config Version="108">
+<Config Version="109">
   <IPTVTeleviz Default="True">
     <![CDATA[
       #EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-REM-title="Hebrew" ,Channel 1
       rtmp://iba-s.vidnt.com/iba_channel-511MRepeat/channel-511M_4.stream 
       #EXTINF:16 logo="pkg:/data/Channel 2 News.png" group-title="Hebrew" ,Channel 2 news
       http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
-      #EXTINF:611 logo="pkg:/data/Reshet.jpg" group-REM-title="Hebrew" ,Reshet Sun.-Tue.
+      #EXTINF:611 logo="pkg:/data/Reshet.jpg" group-title="Hebrew" ,Reshet Sun.-Tue.
       http://reshet207788-i.akamaihd.net/hls/live/207509/live/encoder_index.m3u8
       #EXTINF:22 logo="pkg:/data/Keshet.jpg" group-REM-title="Hebrew" ,Keshet Wed.-Sat.
       http://89.45.186.26:1935/live/333/manifest.m3u8
