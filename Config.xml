@@ -2,11 +2,11 @@
 <!--                                                 -->
 <!-- Don't forget to XML Encode the URL as needed    -->
 <!--                                                 -->
-<Config Version="112">
+<Config Version="113">
   <IPTVTeleviz Default="True">
     <![CDATA[
       #EXTINF:11 logo="pkg:/data/Sport.jpg" group-title="Hebrew" ,Soccer Israel-Italy
-      http://a1.aliez.me:8080/hls/streama47788/index.m3u8
+      http://stream.zetatv.cf/pw/tvb134/chunklist.m3u8 
       #EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-REM-title="Hebrew" ,Channel 1
       rtmp://iba-s.vidnt.com/iba_channel-511MRepeat/channel-511M_4.stream 
       #EXTINF:16 logo="pkg:/data/Channel 2 News.png" group-title="Hebrew" ,Channel 2 news
