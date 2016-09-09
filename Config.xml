@@ -2,11 +2,11 @@
 <!--                                                 -->
 <!-- Don't forget to XML Encode the URL as needed    -->
 <!--                                                 -->
-<Config Version="114">
+<Config Version="115">
   <IPTVTeleviz Default="True">
     <![CDATA[
-      #EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-REM-title="Hebrew" ,Channel 1
-      rtmp://iba-s.vidnt.com/iba_channel-511MRepeat/channel-511M_4.stream 
+      #EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-title="Hebrew" ,Channel 1
+      http://62.113.194.54:9002/Apple/Channel_1/.m3u8
       #EXTINF:16 logo="pkg:/data/Channel 2 News.png" group-title="Hebrew" ,Channel 2 news
       http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
       #EXTINF:611 logo="pkg:/data/Reshet.jpg" group-title="Hebrew" ,Reshet Sun.-Tue.
@@ -22,7 +22,7 @@
       #EXTINF:613 logo="pkg:/data/Sport.jpg" group-title="Hebrew" ,Sport - rotating 2
       http://62.113.194.54:9002/Apple/Sport2_HD/.m3u8
       #EXTINF:24 logo="pkg:/data/Music 24.jpg" group-title="Hebrew" ,Music 24
-      http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_500_av-b.m3u8 
+      http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
       #EXTINF:622 logo="pkg:/data/Glgltz.jpg" group-title="Hebrew" ,Galgaltz
       http://glzlv01.vds-is.bynetcdn.com/glglz/glglz_aac/playlist.m3u8 
       #EXTINF:621 logo="pkg:/data/Gltz.jpg" group-title="Hebrew" ,Galei Zahal
