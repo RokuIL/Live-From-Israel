@@ -2,19 +2,19 @@
 <!--                                                 -->
 <!-- Don't forget to XML Encode the URL as needed    -->
 <!--                                                 -->
-<Config Version="119">
+<Config Version="120">
   <IPTVTeleviz Default="True">
     <![CDATA[
       #EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-title="Hebrew" ,Channel 1
       http://62.113.194.54:9002/Apple/Channel_1/.m3u8
       #EXTINF:16 logo="pkg:/data/Channel 2 News.png" group-title="Hebrew" ,Channel 2 news
       http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
-      #EXTINF:611 logo="pkg:/data/Reshet.jpg" group-title="Hebrew" ,Reshet Sun.-Tue.
+      #EXTINF:611 logo="pkg:/data/Reshet.jpg" group-REM-title="Hebrew" ,Reshet Sun.-Tue.
       http://reshet207788-i.akamaihd.net/hls/live/207509/live/encoder_index.m3u8
       #EXTINF:22 logo="pkg:/data/Keshet.jpg" group-REM-title="Hebrew" ,Keshet Wed.-Sat.
       http://89.45.186.26:1935/live/333/manifest.m3u8
-      #EXTINF:522 logo="pkg:/data/Channel 2.jpg" group-title="Hebrew" ,Channel 22 all week
-      http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/playlist.m3u8 
+      #EXTINF:522 logo="pkg:/data/Channel 2.jpg" group-title="Hebrew" ,Channel 2
+      http://62.113.194.54:9002/Apple/Channel_2/.m3u8
       #EXTINF:10 logo="pkg:/data/Channel 10.jpg" group-title="Hebrew" ,Channel 10
       http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist.m3u8 
       #EXTINF:3 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/Hot%203.png" group-title="Hebrew" ,Hot 3
