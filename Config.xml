@@ -2,7 +2,7 @@
 <!--                                                 -->
 <!-- Don't forget to XML Encode the URL as needed    -->
 <!--                                                 -->
-<Config Version="121">
+<Config Version="122">
   <IPTVTeleviz Default="True">
     <![CDATA[
       #EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-title="Hebrew" ,Channel 1
@@ -17,19 +17,19 @@
       http://62.113.194.54:9002/Apple/Channel_2/.m3u8
       #EXTINF:10 logo="pkg:/data/Channel 10.jpg" group-title="Hebrew" ,Channel 10
       http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist.m3u8 
-      #EXTINF:3 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/Hot%203.png" group-title="Hebrew" ,Hot 3
+      #EXTINF:3 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/Hot%203.png" group-REM-title="Hebrew" ,Hot 3
       http://62.113.194.54:9002/Apple/HOT3/.m3u8
-      #EXTINF:14 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/Hot%20Action.png" group-title="Hebrew" ,Hot Action
+      #EXTINF:14 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/Hot%20Action.png" group-REM-title="Hebrew" ,Hot Action
       http://62.113.194.54:9002/Apple/ACTION_HD_IL/.m3u8 
-      #EXTINF:13 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/Hot%20Gold.png" group-title="Hebrew" ,Hot Gold
+      #EXTINF:13 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/Hot%20Gold.png" group-REM-title="Hebrew" ,Hot Gold
       http://62.113.194.54:9002/Apple/GOLD_HD/.m3u8 
-      #EXTINF:5 logo="pkg:/data/Sports 5.jpg" group-title="Hebrew" ,Sport 5
+      #EXTINF:5 logo="pkg:/data/Sports 5.jpg" group-REM-title="Hebrew" ,Sport 5
       http://62.113.194.54:9002/Apple/Sport5_HD/.m3u8 
-      #EXTINF:24 logo="pkg:/data/One.jpg" group-title="Hebrew" ,Sport One
+      #EXTINF:24 logo="pkg:/data/One.jpg" group-REM-title="Hebrew" ,Sport One
       http://62.113.194.54:9002/Apple/ONE_HD/.m3u8
-      #EXTINF:613 logo="pkg:/data/Sport.jpg" group-title="Hebrew" ,Sport 1
+      #EXTINF:613 logo="pkg:/data/Sport.jpg" group-REM-title="Hebrew" ,Sport 1
       http://62.113.194.54:9002/Apple/Sport1_HD/.m3u8
-      #EXTINF:613 logo="pkg:/data/Sport.jpg" group-title="Hebrew" ,Sport 2
+      #EXTINF:613 logo="pkg:/data/Sport.jpg" group-REM-title="Hebrew" ,Sport 2
       http://62.113.194.54:9002/Apple/Sport2_HD/.m3u8
       #EXTINF:24 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/Baby%20TV.jpg" group-title="Hebrew" ,Baby TV
       http://62.113.194.54:9002/Apple/Baby_TV/.m3u8
@@ -39,7 +39,7 @@
       http://62.113.194.54:9002/Apple/Nickelodeon/.m3u8
       #EXTINF:24 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/Disney.jpg" group-title="Hebrew" ,Disney
       http://62.113.194.54:9002/Apple/Disney/.m3u8
-      #EXTINF:24 logo="pkg:/data/Music 24.jpg" group-title="Hebrew" ,Music 24
+      #EXTINF:24 logo="pkg:/data/Music 24.jpg" group-REM-title="Hebrew" ,Music 24
       http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
       #EXTINF:622 logo="pkg:/data/Glgltz.jpg" group-title="Hebrew" ,Galgaltz
       http://glzlv01.vds-is.bynetcdn.com/glglz/glglz_aac/playlist.m3u8 
