@@ -2,11 +2,11 @@
 <!--                                                 -->
 <!-- Don't forget to XML Encode the URL as needed    -->
 <!--                                                 -->
-<Config Version="130">
+<Config Version="131">
   <IPTVTeleviz Default="True">
     <![CDATA[
       #EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-title="Hebrew" ,Channel 1
-      http://62.113.194.54:9002/Apple/Channel_1/.m3u8
+      http://158.69.228.46:8081/livetv/C1546/playlist.m3u8
       #EXTINF:16 logo="pkg:/data/Channel 2 News.png" group-title="Hebrew" ,Channel 2 news
       http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
       #EXTINF:522 logo="pkg:/data/Channel 2.jpg" group-title="Hebrew" ,Channel 2
@@ -31,7 +31,7 @@
       http://158.69.228.46:8081/livetv/C1525/playlist.m3u8
       #EXTINF:3 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/Hot%20Drama.png" group-title="Hebrew" ,Hot Drama
       http://158.69.228.46:8081/livetv/C1526/playlist.m3u8
-      #EXTINF:3 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/Hot%20Zone.png" group-title="Hebrew" ,Hot Zone
+      #EXTINF:3 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/Hot%20Zone.jpg" group-title="Hebrew" ,Hot Zone
       http://158.69.228.46:8081/livetv/C1529/playlist.m3u8
       #EXTINF:3 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/Hot%203.png" group-title="Hebrew" ,Hot 3
       http://158.69.228.46:8081/livetv/C1537/playlist.m3u8
@@ -43,7 +43,7 @@
       http://158.69.228.46:8081/livetv/C1542/playlist.m3u8
       #EXTINF:24 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/Nick%20Jr.jpg" group-title="Hebrew" ,Nick Jr
       http://158.69.228.46:8081/livetv/C1501/playlist.m3u8
-      #EXTINF:24 logo="pkg:/data/Nick.jpg" group-title="Hebrew" ,Nickelodeon
+      #EXTINF:24 logo="pkg:/data/Nick.jpg" group-title="Hebrew" ,Nick
       http://158.69.228.46:8081/livetv/C1532/playlist.m3u8
       #EXTINF:24 logo="pkg:/data/Hop.jpg" group-title="Hebrew" ,Hop
       http://158.69.228.46:8081/livetv/C1502/playlist.m3u8
