@@ -2,7 +2,7 @@
 <!--                                                 -->
 <!-- Don't forget to XML Encode the URL as needed    -->
 <!--                                                 -->
-<Config Version="138">
+<Config Version="139">
   <IPTVTeleviz Default="True">
     <![CDATA[
       #EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-REM-title="Hebrew" ,Channel 1
@@ -23,8 +23,8 @@
       http://158.69.228.46:8081/livetv/C1522/playlist.m3u8
       #EXTINF:613 logo="pkg:/data/Sport.jpg" group-REM-title="Hebrew" ,Sport 2
       http://158.69.228.46:8081/livetv/C1521/playlist.m3u8
-      #EXTINF:5 logo="pkg:/data/Sports 5.jpg" group-REM-title="Hebrew" ,Sport 5
-      http://158.69.228.46:8081/livetv/C1507/playlist.m3u8
+      #EXTINF:5 logo="pkg:/data/Sports 5.jpg" group-title="Hebrew" ,Sport 5
+      http://sport5_live1-lh.akamaihd.net/i/live3_0@129322/index_2_av-b.m3u8
       #EXTINF:5 logo="pkg:/data/Sports 5.jpg" group-REM-title="Hebrew" ,Sport 5
       http://158.69.228.46:8081/livetv/C1531/playlist.m3u8
       #EXTINF:3 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/Hot%20Plus.png" group-REM-title="Hebrew" ,Hot Plus
