@@ -2,13 +2,15 @@
 <!--                                                 -->
 <!-- Don't forget to XML Encode the URL as needed    -->
 <!--                                                 -->
-<Config Version="140">
+<Config Version="141">
   <IPTVTeleviz Default="True">
     <![CDATA[
       #EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-REM-title="Hebrew" ,Channel 1
       http://158.69.228.46:8081/livetv/C1546/playlist.m3u8
       #EXTINF:16 logo="pkg:/data/Channel 2 News.png" group-title="Hebrew" ,Channel 2 news
       http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+      #EXTINF:522 logo="pkg:/data/Reshet.jpg" group-title="Hebrew" ,Channel 2 Reshet
+      http://reshet207788-i.akamaihd.net/hls/live/207509/live/encoder_index.m3u8  
       #EXTINF:522 logo="pkg:/data/Channel 2.jpg" group-REM-title="Hebrew" ,Channel 2
       http://89.45.186.26:1935/live/121/manifest.m3u8   
       #EXTINF:522 logo="pkg:/data/Channel 2.jpg" group-REM-stitle="Hebrew" ,Channel 2
