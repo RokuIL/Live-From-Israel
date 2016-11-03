@@ -2,7 +2,7 @@
 <!--                                                 -->
 <!-- Don't forget to XML Encode the URL as needed    -->
 <!--                                                 -->
-<Config Version="152">
+<Config Version="153">
   <IPTVTeleviz Default="True">
     <![CDATA[
       #EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-REM-title="Hebrew" ,Channel 1
@@ -12,7 +12,7 @@
       #EXTINF:522 logo="pkg:/data/Reshet.jpg" group-title="Hebrew" ,Reshet Sun.-Tue.
       http://reshet207788-i.akamaihd.net/hls/live/207509/live/encoder_index.m3u8  
       #EXTINF:522 logo="pkg:/data/Channel 2.jpg" group-REM-title="Hebrew" ,Channel 2 All Week
-      http://89.45.186.26:1935/live/124/manifest.m3u8   
+      http://89.45.186.26:1935/live/126/manifest.m3u8   
       #EXTINF:522 logo="pkg:/data/Channel 2.jpg" group-REM-stitle="Hebrew" ,Channel 2
       http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/playlist.m3u8
       #EXTINF:10 logo="pkg:/data/Channel 10.jpg" group-title="Hebrew" ,Channel 10 SD
@@ -25,7 +25,7 @@
       http://158.69.228.46:8081/livetv/C1522/playlist.m3u8
       #EXTINF:613 logo="pkg:/data/Sport.jpg" group-REM-title="Hebrew" ,Sport 2
       http://158.69.228.46:8081/livetv/C1521/playlist.m3u8
-      #EXTINF:5 logo="pkg:/data/Sports 5.jpg" group-title="Hebrew" ,Sport 5
+      #EXTINF:5 logo="pkg:/data/Sports 5.jpg" group-REM-title="Hebrew" ,Sport 5
       http://sport5_live1-lh.akamaihd.net/i/live3_0@129322/index_2_av-b.m3u8
       #EXTINF:5 logo="pkg:/data/Sports 5.jpg" group-REM-title="Hebrew" ,Sport 5
       http://158.69.228.46:8081/livetv/C1531/playlist.m3u8
