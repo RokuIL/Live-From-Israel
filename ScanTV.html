@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<body>
+<script>
+    var counter = 100;
+    var length = 3;
+    var preNumber = "http://89.45.186.26:1935/live/";
+    var postNumber = "/manifest.m3u8";
+    var isNext = true;
+    var timerId = 0;
+
+    function ClickBack()
+    {
+        isNext = false;
+        counter--;
+        var url = preNumber + (counter / Math.pow(10, length)).toFixed(length).toString().substr(2) + postNumber;
+        document.getElementById("URL").innerText = url;
+        document.getElementById('Status').innerText = "";
+        document.getElementById("video").src = url;
+        timerId = setTimeout("OnVideoError()", 5000);
+    }
+    function ClickNext()
+    {
+        isNext = true;
+        counter++;
+        var url = preNumber + (counter / Math.pow(10,length)).toFixed(length).toString().substr(2) + postNumber;
+        document.getElementById("URL").innerText = url;
+        document.getElementById('Status').innerText = "";
+        document.getElementById("video").src = url;
+        timerId = setTimeout("OnVideoError()", 5000);
+    }
+    function OnVideoError()
+    {
+        clearTimeout(timerId);
+        if (isNext)
+        {
+            ClickNext();
+        }
+        else
+        {
+            ClickBack();
+        }
+    }
+    function OnVideoStatus(status)
+    {
+        document.getElementById('Status').innerText = document.getElementById('Status').innerText + " " + status;
+    }
+    function OnLoadData()
+    {
+        clearTimeout(timerId);
+        OnVideoStatus(" onloaddata");
+    }
+    function OnProgress()
+    {
+        clearTimeout(timerId);
+        document.getElementById('Status').innerText = "";
+        OnVideoStatus(" onprogress");
+    }
+    function SetCounter(newCounter)
+    {
+        counter = newCounter;
+    }
+    function SetLength(newLength)
+    {
+        length = newLength;
+    }
+    function SetPreNumber(newPreNumber)
+    {
+        preNumber = newPreNumber;
+    }
+    function SetPostNumber(newPostNumber)
+    {
+        postNumber = newPostNumber;
+    }
+</script>
+    <table>
+        <tr>
+            <td>Starting number:</td>
+            <td><input type="text" value="100" onblur="SetCounter(value)"/></td>
+        </tr>
+        <tr>
+            <td>Number of digits:</td>
+            <td><input type="text" value="3" onblur="SetLength(value)"/></td>
+        </tr>
+        <tr>
+            <td>URL pre number:</td>
+            <td><input type="text" size="75" value="http://89.45.186.26:1935/live/" onblur="SetPreNumber(value)"/></td>
+        </tr>
+        <tr>
+            <td>URL post number:</td>
+            <td><input type="text" size="75" value="/manifest.m3u8" onblur="SetPostNumber(value)"/></td>
+        </tr>
+    </table>
+
+    <p />
+    <button onclick="ClickBack()">Back</button>
+    <button onclick="ClickNext()">Next</button>
+
+    <table>
+        <tr>
+            <td><input type="button" value="Launch" onclick="window.open(document.getElementById('URL').innerText)" /> </td>
+            <td id="URL"/>
+            <td id="Status"/>
+        </tr>
+    </table>
+
+    <video id="video" autoplay="" controls="" width="900" height="600"
+         onerror="OnVideoError()"
+         onloadeddata="OnLoadData()"
+         onended="OnVideoStatus('onended')"
+         onstalled="OnVideoStatus('onstalled')"
+         onwaiting="OnVideoStatus('onwaiting')"
+         onprogress="OnProgress()">
+    </video>
+
+    <p/>
+
+</body>
+</html>
