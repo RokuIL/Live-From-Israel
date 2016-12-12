@@ -2,7 +2,7 @@
 <!--                                                 -->
 <!-- Don't forget to XML Encode the URL as needed    -->
 <!--                                                 -->
-<Config Version="178">
+<Config Version="179">
   <IPTVTeleviz Default="True">
     <![CDATA[
       #EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-REM-title="Hebrew" ,Channel 1
@@ -10,7 +10,7 @@
       #EXTINF:16 logo="pkg:/data/Channel 2 News.png" group-title="Hebrew" ,Channel 2 news
       http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
       #EXTINF:522 logo="pkg:/data/Channel 2.jpg" group-title="Hebrew" ,Channel 2
-      http://89.45.186.26:1935/live/101/manifest.m3u8
+      http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile1.m3u8
       #EXTINF:10 logo="pkg:/data/Channel 10.jpg" group-REM-title="Hebrew" ,Channel 10 SD
       http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:mob_,500,800,1000,/playlist.m3u8
       #EXTINF:10 logo="pkg:/data/Channel 10.jpg" group-title="Hebrew" ,Channel 10 HD
