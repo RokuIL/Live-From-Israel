@@ -2,15 +2,15 @@
 <!--                                                 -->
 <!-- Don't forget to XML Encode the URL as needed    -->
 <!--                                                 -->
-<Config Version="186">
+<Config Version="187">
   <IPTVTeleviz Default="True">
     <![CDATA[
-      #EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-REM-title="Hebrew" ,Channel 1
-      http://iba-s.vidnt.com/iba_channel-511BRepeat/_definst_/channel-511B_4.stream/playlist.m3u8?ttl=1476323617&amp;cdn_token=a40c58445234f2b11017623949401b99
+      #EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-title="Hebrew" ,Channel 1
+      http://62.90.90.39/iba_channel-511BRepeat/_definst_/channel-511B_4.stream/playlist.m3u8?ttl=1482345620&cdn_token=37be597e6045c73020443ed4c9d379a9
       #EXTINF:16 logo="pkg:/data/Channel 2 News.png" group-title="Hebrew" ,Channel 2 news
       http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
       #EXTINF:522 logo="pkg:/data/Channel 2.jpg" group-title="Hebrew" ,Channel 2
-      http://89.45.186.26:1935/live/899/manifest.m3u8
+      http://89.45.186.26:1935/live/987/manifest.m3u8
       #EXTINF:522 logo="pkg:/data/Reshet.jpg" group-title="Hebrew" ,Reshet Wed.-Sat.
       http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
       #EXTINF:10 logo="pkg:/data/Channel 10.jpg" group-REM-title="Hebrew" ,Channel 10 SD
