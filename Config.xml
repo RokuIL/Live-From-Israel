@@ -2,7 +2,7 @@
 <!--                                                 -->
 <!-- Don't forget to XML Encode the URL as needed    -->
 <!--                                                 -->
-<Config Version="194">
+<Config Version="195">
   <IPTVTeleviz Default="True">
     <![CDATA[
       #EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-title="Hebrew" ,Channel 1
@@ -19,9 +19,9 @@
       http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8 
       #EXTINF:24 logo="pkg:/data/One.jpg" group-title="Hebrew" ,Sport One
       http://62.113.194.54:9002/Apple/ONE_HD/.m3u8
-      #EXTINF:613 logo="pkg:/data/Sport.jpg" group-title="Hebrew" ,Sport 1
+      #EXTINF:613 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/Sport%201.jpg" group-title="Hebrew" ,Sport 1
       http://62.113.194.54:9002/Apple/Sport1_HD/.m3u8
-      #EXTINF:613 logo="pkg:/data/Sport.jpg" group-title="Hebrew" ,Sport 2
+      #EXTINF:613 logo="pkg:/data/Sport 2.jpg" group-title="Hebrew" ,Sport 2
       http://62.113.194.54:9002/Apple/Sport2_HD/.m3u8
       #EXTINF:5 logo="pkg:/data/Sports 5.jpg" group-REM-title="Hebrew" ,Sport 5
       http://sport5_live1-lh.akamaihd.net/i/live3_0@129322/index_2_av-b.m3u8
@@ -45,7 +45,7 @@
       http://158.69.228.46:8081/livetv/C1501/playlist.m3u8
       #EXTINF:24 logo="pkg:/data/Nick.jpg" group-REM-title="Hebrew" ,Nick
       http://158.69.228.46:8081/livetv/C1532/playlist.m3u8
-      #EXTINF:24 logo="pkg:/data/Disney.jpg" group-title="Hebrew" ,Disney
+      #EXTINF:24 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/Disney.jpg" group-title="Hebrew" ,Disney
       http://62.113.194.54:9002/Apple/Disney/.m3u8   
       #EXTINF:24 logo="pkg:/data/Hop.jpg" group-title="Hebrew" ,Hop
       http://62.113.194.54:9002/Apple/HOP/.m3u8
