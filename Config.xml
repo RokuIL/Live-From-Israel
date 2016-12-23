@@ -2,7 +2,7 @@
 <!--                                                 -->
 <!-- Don't forget to XML Encode the URL as needed    -->
 <!--                                                 -->
-<Config Version="192">
+<Config Version="193">
   <IPTVTeleviz Default="True">
     <![CDATA[
       #EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-title="Hebrew" ,Channel 1
@@ -10,7 +10,7 @@
       #EXTINF:16 logo="pkg:/data/Channel 2 News.png" group-title="Hebrew" ,Channel 2 news
       http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
       #EXTINF:522 logo="pkg:/data/Channel 2.jpg" group-title="Hebrew" ,Channel 2
-      http://89.45.186.26:1935/live/365/manifest.m3u8
+      http://89.45.186.26:1935/live/888/manifest.m3u8
       #EXTINF:522 logo="pkg:/data/Reshet.jpg" group-title="Hebrew" ,Reshet Wed.-Sat.
       http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
       #EXTINF:10 logo="pkg:/data/Channel 10.jpg" group-REM-title="Hebrew" ,Channel 10 SD
