@@ -2,27 +2,27 @@
 <!--                                                 -->
 <!-- Don't forget to XML Encode the URL as needed    -->
 <!--                                                 -->
-<Config Version="193">
+<Config Version="194">
   <IPTVTeleviz Default="True">
     <![CDATA[
       #EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-title="Hebrew" ,Channel 1
-      http://31.168.228.113/iba_channel-511BRepeat/_definst_/channel-511B_4.stream/playlist.m3u8?ttl=1482526497&cdn_token=827badb508752a830d1d106db8d1f70e
+      http://62.113.194.54:9002/Apple/Channel_1/.m3u8
       #EXTINF:16 logo="pkg:/data/Channel 2 News.png" group-title="Hebrew" ,Channel 2 news
       http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
       #EXTINF:522 logo="pkg:/data/Channel 2.jpg" group-title="Hebrew" ,Channel 2
-      http://89.45.186.26:1935/live/888/manifest.m3u8
+      http://62.113.194.54:9002/Apple/Channel_2/.m3u8
       #EXTINF:522 logo="pkg:/data/Reshet.jpg" group-title="Hebrew" ,Reshet Wed.-Sat.
       http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
       #EXTINF:10 logo="pkg:/data/Channel 10.jpg" group-REM-title="Hebrew" ,Channel 10 SD
       http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:mob_,500,800,1000,/playlist.m3u8
-      #EXTINF:10 logo="pkg:/data/Channel 10.jpg" group-title="Hebrew" ,Channel 10 HD
+      #EXTINF:10 logo="pkg:/data/Channel 10.jpg" group-title="Hebrew" ,Channel 10
       http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8 
-      #EXTINF:24 logo="pkg:/data/One.jpg" group-REM-title="Hebrew" ,Sport One
-      http://158.69.228.46:8081/livetv/C1506/playlist.m3u8
-      #EXTINF:613 logo="pkg:/data/Sport.jpg" group-REM-title="Hebrew" ,Sport 1
-      http://158.69.228.46:8081/livetv/C1522/playlist.m3u8
-      #EXTINF:613 logo="pkg:/data/Sport.jpg" group-REM-title="Hebrew" ,Sport 2
-      http://158.69.228.46:8081/livetv/C1521/playlist.m3u8
+      #EXTINF:24 logo="pkg:/data/One.jpg" group-title="Hebrew" ,Sport One
+      http://62.113.194.54:9002/Apple/ONE_HD/.m3u8
+      #EXTINF:613 logo="pkg:/data/Sport.jpg" group-title="Hebrew" ,Sport 1
+      http://62.113.194.54:9002/Apple/Sport1_HD/.m3u8
+      #EXTINF:613 logo="pkg:/data/Sport.jpg" group-title="Hebrew" ,Sport 2
+      http://62.113.194.54:9002/Apple/Sport2_HD/.m3u8
       #EXTINF:5 logo="pkg:/data/Sports 5.jpg" group-REM-title="Hebrew" ,Sport 5
       http://sport5_live1-lh.akamaihd.net/i/live3_0@129322/index_2_av-b.m3u8
       #EXTINF:3 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/Hot%20Plus.png" group-REM-title="Hebrew" ,Hot Plus
@@ -39,14 +39,16 @@
       http://158.69.228.46:8081/livetv/C1544/playlist.m3u8
       #EXTINF:13 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/Hot%20Gold.png" group-REM-title="Hebrew" ,Hot Gold
       http://158.69.228.46:8081/livetv/C1545/playlist.m3u8
-      #EXTINF:24 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/Baby%20TV.jpg" group-REM-title="Hebrew" ,Baby TV
-      http://158.69.228.46:8081/livetv/C1542/playlist.m3u8
+      #EXTINF:24 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/Baby%20TV.jpg" group-title="Hebrew" ,Baby TV
+      http://62.113.194.54:9002/Apple/Baby_TV/.m3u8
       #EXTINF:24 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/Nick%20Jr.jpg" group-REM-title="Hebrew" ,Nick Jr
       http://158.69.228.46:8081/livetv/C1501/playlist.m3u8
       #EXTINF:24 logo="pkg:/data/Nick.jpg" group-REM-title="Hebrew" ,Nick
       http://158.69.228.46:8081/livetv/C1532/playlist.m3u8
-      #EXTINF:24 logo="pkg:/data/Hop.jpg" group-REM-title="Hebrew" ,Hop
-      http://158.69.228.46:8081/livetv/C1502/playlist.m3u8
+      #EXTINF:24 logo="pkg:/data/Disney.jpg" group-title="Hebrew" ,Disney
+      http://62.113.194.54:9002/Apple/Disney/.m3u8   
+      #EXTINF:24 logo="pkg:/data/Hop.jpg" group-title="Hebrew" ,Hop
+      http://62.113.194.54:9002/Apple/HOP/.m3u8
       #EXTINF:24 logo="pkg:/data/Music 24.jpg" group-title="Hebrew" ,Music 24
       http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
       #EXTINF:622 logo="pkg:/data/Glgltz.jpg" group-title="Hebrew" ,Galgaltz
