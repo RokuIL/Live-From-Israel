@@ -1,28 +1,29 @@
-﻿#EXTINF:11 logo="pkg:/data/Channel 1.jpg" group-title="Hebrew" ,Channel 1
+﻿# 1
+#EXTINF:11 logo="pkg:/data/Channel 1.jpg",Channel 1
 http://62.113.194.54:9002/Apple/Channel_1/.m3u8
-#EXTINF:16 logo="pkg:/data/Channel 2 News.png" group-title="Hebrew" ,Channel 2 news
+#EXTINF:16 logo="pkg:/data/Channel 2 News.png",Channel 2 news
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
-#EXTINF:522 logo="pkg:/data/Channel 2.jpg" group-title="Hebrew" ,Channel 2
+#EXTINF:522 logo="pkg:/data/Channel 2.jpg",Channel 2
 http://62.113.194.54:9002/Apple/Channel_2/.m3u8
-#EXTINF:522 logo="pkg:/data/Reshet.jpg" group-title="Hebrew" ,Reshet Wed.-Sat.
+#EXTINF:522 logo="pkg:/data/Reshet.jpg",Reshet Wed.-Sat.
 http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
-#EXTINF:10 logo="pkg:/data/Channel 10.jpg" group-title="Hebrew" ,Channel 10
+#EXTINF:10 logo="pkg:/data/Channel 10.jpg",Channel 10
 http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8 
-#EXTINF:24 logo="pkg:/data/One.jpg" group-title="Hebrew" ,Sport One
+#EXTINF:24 logo="pkg:/data/One.jpg",Sport One
 http://62.113.194.54:9002/Apple/ONE_HD/.m3u8
-#EXTINF:613 logo="pkg:/data/Sport 1.jpg" group-title="Hebrew" ,Sport 1
+#EXTINF:613 logo="pkg:/data/Sport 1.jpg",Sport 1
 http://62.113.194.54:9002/Apple/Sport1_HD/.m3u8
-#EXTINF:613 logo="pkg:/data/Sport 2.jpg" group-title="Hebrew" ,Sport 2
+#EXTINF:613 logo="pkg:/data/Sport 2.jpg",Sport 2
 http://62.113.194.54:9002/Apple/Sport2_HD/.m3u8
-#EXTINF:24 logo="pkg:/data/Baby TV.jpg" group-title="Hebrew" ,Baby TV
+#EXTINF:24 logo="pkg:/data/Baby TV.jpg",Baby TV
 http://62.113.194.54:9002/Apple/Baby_TV/.m3u8
-#EXTINF:24 logo="pkg:/data/Disney.jpg" group-title="Hebrew" ,Disney
+#EXTINF:24 logo="pkg:/data/Disney.jpg",Disney
 http://62.113.194.54:9002/Apple/Disney/.m3u8   
-#EXTINF:24 logo="pkg:/data/Hop.jpg" group-title="Hebrew" ,Hop
+#EXTINF:24 logo="pkg:/data/Hop.jpg",Hop
 http://62.113.194.54:9002/Apple/HOP/.m3u8
-#EXTINF:24 logo="pkg:/data/Music 24.jpg" group-title="Hebrew" ,Music 24
+#EXTINF:24 logo="pkg:/data/Music 24.jpg",Music 24
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
-#EXTINF:622 logo="pkg:/data/Glgltz.jpg" group-title="Hebrew" ,Galgaltz
+#EXTINF:622 logo="pkg:/data/Glgltz.jpg",Galgaltz
 http://glzlv01.vds-is.bynetcdn.com/glglz/glglz_aac/playlist.m3u8 
-#EXTINF:621 logo="pkg:/data/Gltz.jpg" group-title="Hebrew" ,Galei Zahal
+#EXTINF:621 logo="pkg:/data/Gltz.jpg",Galei Zahal
 http://glzlv01.vds-is.bynetcdn.com/glz/glz_aac/playlist.m3u8
