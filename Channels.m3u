@@ -1,9 +1,9 @@
-# ver="2"
-EXTINF:11 logo="pkg:/data/Channel 1.jpg",Channel 1
+# ver="3"
+#EEXTINF:11 logo="pkg:/data/Channel 1.jpg",Channel 1
 http://62.113.194.54:9002/Apple/Channel_1/.m3u8
 #EXTINF:16 logo="pkg:/data/Channel 2 News.png",Channel 2 news
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
-EXTINF:522 logo="pkg:/data/Channel 2.jpg",Channel 2
+#EEXTINF:522 logo="pkg:/data/Channel 2.jpg",Channel 2
 http://62.113.194.54:9002/Apple/Channel_2/.m3u8
 #EXTINF:522 logo="pkg:/data/Reshet.jpg",Reshet Wed.-Sat.
 http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
