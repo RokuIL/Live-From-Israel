@@ -1,9 +1,9 @@
-# ver="4"
-#EEXTINF:11 logo="pkg:/data/Channel 1.jpg",Channel 1
+﻿# ver="1"
+#EXTINF:11 logo="pkg:/data/Channel 1.jpg",Channel 1
 http://62.113.194.54:9002/Apple/Channel_1/.m3u8
 #EXTINF:16 logo="pkg:/data/Channel 2 News.png",Channel 2 news
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
-#EEXTINF:522 logo="pkg:/data/Channel 2.jpg",Channel 2
+#EXTINF:522 logo="pkg:/data/Channel 2.jpg",Channel 2
 http://62.113.194.54:9002/Apple/Channel_2/.m3u8
 #EXTINF:522 logo="pkg:/data/Reshet.jpg",Reshet Wed.-Sat.
 http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
@@ -23,7 +23,8 @@ http://62.113.194.54:9002/Apple/Disney/.m3u8
 http://62.113.194.54:9002/Apple/HOP/.m3u8
 #EXTINF:24 logo="pkg:/data/Music 24.jpg",Music 24
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
-#EXTINF:622 logo="pkg:/data/Glgltz.jpg",Galgaltz
+
+#EEXTINF:622 logo="pkg:/data/Glgltz.jpg",Galgaltz
 http://glzlv01.vds-is.bynetcdn.com/glglz/glglz_aac/playlist.m3u8 
-#EXTINF:621 logo="pkg:/data/Gltz.jpg",Galei Zahal
+#EEXTINF:621 logo="pkg:/data/Gltz.jpg",Galei Zahal
 http://glzlv01.vds-is.bynetcdn.com/glz/glz_aac/playlist.m3u8
