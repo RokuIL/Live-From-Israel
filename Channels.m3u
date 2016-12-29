@@ -1,4 +1,4 @@
-﻿# ver="4"
+﻿# ver="5"
 #EXTINF:11 logo="pkg:/data/Channel 1.jpg",Channel 1
 http://62.113.194.54:9002/Apple/Channel_1/.m3u8
 #EXTINF:16 logo="pkg:/data/Channel 2 News.png",Channel 2 news
@@ -17,10 +17,14 @@ http://62.113.194.54:9002/Apple/Sport2_HD/.m3u8
 http://62.113.194.54:9002/Apple/Sport5_HD/.m3u8
 #EXTINF:613 logo="pkg:/data/Hot 3.png",Hot 3
 http://62.113.194.54:9002/Apple/HOT3/.m3u8
+#EXTINF:613 logo="pkg:/data/Hot Gold.png",Hot Gold
+http://62.113.194.54:9002/Apple/GOLD_HD/.m3u8
 #EXTINF:24 logo="pkg:/data/Baby TV.jpg",Baby TV
 http://62.113.194.54:9002/Apple/Baby_TV/.m3u8
 #EXTINF:24 logo="pkg:/data/Disney.jpg",Disney
 http://62.113.194.54:9002/Apple/Disney/.m3u8   
+#EXTINF:24 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/disney%20Jr.jpg",Disney Jr.
+http://62.113.194.54:9002/Apple/Disney_Jr/.m3u8 
 #EXTINF:24 logo="pkg:/data/Hop.jpg",Hop
 http://62.113.194.54:9002/Apple/HOP/.m3u8
 #EXTINF:24 logo="pkg:/data/Nick Jr.jpg",Nick Jr.
