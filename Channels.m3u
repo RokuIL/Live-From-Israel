@@ -1,43 +1,16 @@
-﻿# ver="7"
+﻿# ver="8"
+
 #EXTINF:11 logo="pkg:/data/Channel 1.jpg",Channel 1
-http://62.113.194.54:9002/Apple/Channel_1/.m3u8
+http://iba-s.vidnt.com/iba_channel-511BRepeat/_definst_/channel-511B_4.stream/playlist.m3u8?ttl=1483995964&cdn_token=7bb7d838d5e0009a224a17b44d5195f3
+
 #EXTINF:16 logo="pkg:/data/Channel 2 News.png",Channel 2 news
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+
 #EXTINF:522 logo="pkg:/data/Channel 2.jpg",Channel 2
-http://62.113.194.54:9002/Apple/Channel_2/.m3u8
+http://89.45.186.26:1935/live/788/manifest.m3u8
+
 #EXTINF:10 logo="pkg:/data/Channel 10.jpg",Channel 10
-http://62.113.194.54:9002/Apple/Channel_10/.m3u8
-#EXTINF:24 logo="pkg:/data/One.jpg",Sport One
-http://62.113.194.54:9002/Apple/ONE_HD/.m3u8
-#EXTINF:613 logo="pkg:/data/Sport 1.jpg",Sport 1
-http://62.113.194.54:9002/Apple/Sport1_HD/.m3u8
-#EXTINF:613 logo="pkg:/data/Sport 2.jpg",Sport 2
-http://62.113.194.54:9002/Apple/Sport2_HD/.m3u8
-#EXTINF:613 logo="pkg:/data/Sports 5.jpg",Sport 5
-http://62.113.194.54:9002/Apple/Sport5_HD/.m3u8
-#EXTINF:613 logo="pkg:/data/Hot 3.png",Hot 3
-http://62.113.194.54:9002/Apple/HOT3/.m3u8
-#EXTINF:613 logo="pkg:/data/Hot Gold.png",Hot Gold
-http://62.113.194.54:9002/Apple/GOLD_HD/.m3u8
-#EXTINF:24 logo="pkg:/data/Baby TV.jpg",Baby TV
-http://62.113.194.54:9002/Apple/Baby_TV/.m3u8
-#EXTINF:24 logo="pkg:/data/Disney.jpg",Disney
-http://62.113.194.54:9002/Apple/Disney/.m3u8   
-#EXTINF:24 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/disney%20Jr.jpg",Disney Jr.
-http://62.113.194.54:9002/Apple/Disney_Jr/.m3u8 
-#EXTINF:24 logo="pkg:/data/Hop.jpg",Hop
-http://62.113.194.54:9002/Apple/HOP/.m3u8
-#EXTINF:24 logo="pkg:/data/Nick Jr.jpg",Nick Jr.
-http://62.113.194.54:9002/Apple/Nick_jr/.m3u8
-#EXTINF:24 logo="pkg:/data/Nick.jpg",Nickelodeon
-http://62.113.194.54:9002/Apple/Nickelodeon/.m3u8
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
+
 #EXTINF:24 logo="pkg:/data/Music 24.jpg",Music 24
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
-
-# #EEXTINF:622 logo="pkg:/data/Glgltz.jpg",Galgaltz
-# hhttp://glzwizzlv.bynetcdn.com/glglz_mp3
-# #EEXTINF:621 logo="pkg:/data/Gltz.jpg",Galei Zahal
-# hhttp://glzwizzlv.bynetcdn.com/glz_mp3
-
-# #EEXTINF:522 logo="pkg:/data/Reshet.jpg",Reshet Wed.-Sat.
-# hhttp://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
