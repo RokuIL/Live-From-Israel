@@ -1,4 +1,4 @@
-﻿# ver="43"
+﻿# ver="44"
 
 #EXTINF:11 logo="pkg:/data/Channel 1.jpg",Channel 1
 http://iba-s.vidnt.com/iba_channel-511BRepeat/_definst_/channel-511B_4.stream/playlist.m3u8?ttl=1485712209&cdn_token=208647f64d9bec01489127aefd987ac1
@@ -12,8 +12,8 @@ http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 #EXTINF:522 logo="pkg:/data/Reshet.jpg",Reshet
 http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
 
-#EXTINF:522 logo="pkg:/data/Channel 2.jpg",Channel 2
-http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile2.m3u8 
+# #EXTINF:522 logo="pkg:/data/Channel 2.jpg",Channel 2
+# hhttp://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile2.m3u8 
 
 #EXTINF:10 logo="pkg:/data/Channel 10.jpg",Channel 10
 http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
