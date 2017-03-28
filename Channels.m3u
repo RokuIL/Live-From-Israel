@@ -9,8 +9,11 @@ http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 #EXTINF:522 logo="pkg:/data/Reshet.jpg",Reshet
 http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
 
-#EXTINF:22 logo="pkg:/data/Channel 2.jpg",Channel 2
-http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile2.m3u8
+##EEXTINF:22 logo="pkg:/data/Channel 2.jpg",Channel 2
+#hhttp://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile2.m3u8
+
+#EXTINF:22 logo="pkg:/data/Channel 2.jpg",Channel 29
+http://l1.isramedia.net:1935/live/smil:m8.smil/playlist.m3u8
 
 #EXTINF:10 logo="pkg:/data/Channel 10.jpg",Channel 10
 http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
