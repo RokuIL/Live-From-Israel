@@ -1,7 +1,4 @@
-﻿# ver="53"
-
-#EXTINF:11 logo="pkg:/data/Channel 1.jpg",Channel 1
-http://iba-s.vidnt.com/iba_channel-511BRepeat/_definst_/channel-511B_4.stream/playlist.m3u8?ttl=1485712209&cdn_token=208647f64d9bec01489127aefd987ac1
+﻿# ver="54"
 
 #EXTINF:16 logo="pkg:/data/Channel 2 News.png",Channel 2 news
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
