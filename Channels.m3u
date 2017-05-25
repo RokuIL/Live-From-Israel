@@ -1,7 +1,4 @@
-﻿# ver="56"
-
-##EEXTINF:1 logo="http://www.xlrod.com/Roku%20-%20Live%20From%20Israel/kan.png",Channel 1 Kan
-#hhttp://l1.isramedia.net:1935/chan/smil:force1.smil/playlist.m3u8
+﻿# ver="57"
 
 #EXTINF:16 logo="pkg:/data/Channel 2 News.png",Channel 2 news
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
