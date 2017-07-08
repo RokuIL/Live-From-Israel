@@ -1,4 +1,4 @@
-﻿# ver="63"
+﻿# ver="64"
 
 #EXTINF:16 logo="http://www.xlrod.com/roku%20-%20Live%20From%20Israel/Kan.png",Channel 1 Kan
 http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
@@ -16,7 +16,7 @@ http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile2.m3u8
 
 #EXTINF:10 logo="pkg:/data/Channel 10.jpg",Channel 10
-http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:mob_,500,800,1000,/playlist.m3u8
 
 #EXTINF:20 logo="pkg:/data//Channel 20.png",Channel 20
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8 
