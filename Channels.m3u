@@ -1,4 +1,4 @@
-﻿# ver="59"
+﻿# ver="60"
 
 #EXTINF:16 logo="http://www.xlrod.com/roku%20-%20Live%20From%20Israel/Kan.png",Channel 1 Kan
 http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
@@ -17,9 +17,6 @@ http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:mob_,500,800,1000,/playlist
 
 #EXTINF:20 logo="pkg:/data//Channel 20.png",Channel 20
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8 
-
-#EXTINF:23 logo="http://www.xlrod.com/roku%20-%20Live%20From%20Israel/Hinuchit.jpg",Hinuchit 23
-http://212.150.250.7:1935/cellcom_CelCh23SDRepeat/_definst_/smil:CelCh23SD.smil/manifest.m3u8
 
 #EXTINF:24 logo="pkg:/data/Music 24.jpg",Music 24
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
