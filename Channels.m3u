@@ -1,4 +1,4 @@
-﻿# ver="60"
+﻿# ver="61"
 
 #EXTINF:16 logo="http://www.xlrod.com/roku%20-%20Live%20From%20Israel/Kan.png",Channel 1 Kan
 http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
@@ -8,6 +8,9 @@ http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 
 #EXTINF:522 logo="pkg:/data/Reshet.jpg",Reshet
 http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
+
+#EXTINF:522 logo="pkg:/data/Keshet.jpg",Keshet
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 
 #EXTINF:22 logo="pkg:/data/Channel 2.jpg",Channel  2
 http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile2.m3u8
@@ -20,3 +23,14 @@ http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
 
 #EXTINF:24 logo="pkg:/data/Music 24.jpg",Music 24
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
+
+#EXTINF:24 logo="http://www.xlrod.com/roku%20-%20Live%20From%20Israel/Kan.png",Channel 33
+http://82.80.192.27/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
+
+#EXTINF:24 logo="pkg:/data/Glgltz.jpg",Galgalatz
+http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&amp;awEpisodeId=glglz
+
+#EXTINF:24 logo="pkg:/data/Gltz.jpg",Galey Zahal
+http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&amp;awEpisodeId=glz
+
+
