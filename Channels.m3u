@@ -1,21 +1,18 @@
-﻿# ver="69"
-
-#EXTINF:16 logo="pkg:/data/Kan.png",Channel 1 Kan
-http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+﻿# ver="70"
 
 #EXTINF:16 logo="pkg:/data/Channel 2 News.png",Channel 2 news
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 
-#EXTINF:522 logo="pkg:/data/Reshet.jpg",Reshet Wed-Sat
-http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
+#EXTINF:16 logo="pkg:/data/Kan.png",Kan (11)
+http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 
-#EXTINF:522 logo="pkg:/data/Keshet.jpg",Keshet
+#EXTINF:522 logo="pkg:/data/Keshet.jpg",Keshet (12)
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 
-#EXTINF:22 logo="pkg:/data/Channel 2.jpg",Channel  2
-http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile2.m3u8
+#EXTINF:522 logo="pkg:/data/Reshet.jpg",Reshet (13)
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
 
-#EXTINF:10 logo="pkg:/data/Channel 10.jpg",Channel 10
+#EXTINF:10 logo="pkg:/data/Channel 10.jpg",Channel 10 (14)
 http://nana10-hdl-uk-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/chunklist_b1000000.m3u8
 
 #EXTINF:20 logo="pkg:/data//Channel 20.png",Channel 20
