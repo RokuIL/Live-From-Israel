@@ -1,12 +1,9 @@
-﻿# ver="70"
-
-#EXTINF:16 logo="pkg:/data/Channel 2 News.png",Channel 2 news
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+﻿# ver="71"
 
 #EXTINF:16 logo="pkg:/data/Kan.png",Kan (11)
 http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 
-#EXTINF:522 logo="pkg:/data/Keshet.jpg",Keshet (12)
+#EXTINF:522 logo="pkg:/data/Keshet.jpg",Keshet
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 
 #EXTINF:522 logo="pkg:/data/Reshet.jpg",Reshet (13)
