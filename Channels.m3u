@@ -1,4 +1,4 @@
-﻿# ver="72"
+﻿# ver="73"
 
 #EXTINF:16 logo="pkg:/data/Kan.png",Kan (11)
 http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
@@ -14,6 +14,3 @@ http://nana10-hdl-uk-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/
 
 #EXTINF:20 logo="pkg:/data//Channel 20.png",Channel 20
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8 
-
-#EXTINF:24 logo="pkg:/data/Music 24.jpg",Music 24
-http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
