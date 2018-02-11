@@ -1,6 +1,6 @@
-# ver="79"
+# ver="80"
 
-#EXTINF:9 logo="http://RokuIL.github.io/Live-From-Israel/9.png",Russian (9)
+#EXTINF:9 logo="pkg:/data/9.png",Russian (9)
 http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream3.m3u8
 
 #EXTINF:16 logo="pkg:/data/Kan.png",Kan (11)
@@ -9,10 +9,10 @@ http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.
 #EXTINF:522 logo="pkg:/data/Keshet.jpg",Keshet (12)
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 
-#EEXTINF:522 logo="pkg:/data/Reshet.jpg",Reshet (13)
-#Hhttp://besttv2.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
+#EXTINF:522 logo="pkg:/data/Reshet.jpg",Reshet (13)
+http://besttv2.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
 
-#EXTINF:10 logo="http://RokuIL.github.io/Live-From-Israel/10.png",Channel 10 (14)
+#EXTINF:10 logo="pkg:/data/10.png",Channel 10 (14)
 http://nana10-hdl-uk-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/chunklist_b1000000.m3u8
 
 #EXTINF:20 logo="pkg:/data//Channel 20.png",Channel 20
