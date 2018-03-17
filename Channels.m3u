@@ -1,7 +1,7 @@
-# ver="84"
+# ver="85"
 
-#EXTINF:9 logo="pkg:/data/9.png",Russian (9)
-http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream3.m3u8
+#EEXTINF:9 logo="pkg:/data/9.png",Russian (9)
+#hhttp://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream3.m3u8
 
 #EXTINF:16 logo="pkg:/data/Kan.png",Kan (11)
 http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
