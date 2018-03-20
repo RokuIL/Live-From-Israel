@@ -1,4 +1,4 @@
-# ver="86"
+# ver="87"
 
 #EEXTINF:9 logo="pkg:/data/9.png",Russian (9)
 #hhttp://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream3.m3u8
@@ -9,8 +9,8 @@ http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.
 #EXTINF:12 logo="pkg:/data/Keshet.jpg",Keshet (12)
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 
-#EXTINF:13 logo="pkg:/data/Reshet.jpg",Reshet (13)
-http://besttv2.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
+#EEXTINF:13 logo="pkg:/data/Reshet.jpg",Reshet (13)
+#hhttp://besttv2.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
 
 #EXTINF:14 logo="pkg:/data/10.png",Channel 10 (14)
 http://nana10-hdl-uk-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/chunklist_b1000000.m3u8
