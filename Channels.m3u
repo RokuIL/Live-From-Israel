@@ -1,34 +1,34 @@
-# ver="89"
+# ver="90"
 
-#EEXTINF:9 logo="pkg:/data/9.png",Russian (9)
+#EEXTINF:9 logo="pkg:/data/9.png" StreamFormat="hls",Russian (9)
 #hhttp://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream3.m3u8
 
-#EXTINF:11 logo="pkg:/data/Kan.png",Kan (11)
+#EXTINF:11 logo="pkg:/data/Kan.png" StreamFormat="hls",Kan (11)
 http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 
-#EXTINF:12 logo="pkg:/data/Keshet.jpg",Keshet (12)
+#EXTINF:12 logo="pkg:/data/Keshet.jpg" StreamFormat="hls",Keshet (12)
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 
-#EEXTINF:13 logo="pkg:/data/Reshet.jpg",Reshet (13)
+#EEXTINF:13 logo="pkg:/data/Reshet.jpg" StreamFormat="hls",Reshet (13)
 #hhttp://besttv2.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
 
-#EXTINF:14 logo="pkg:/data/10.png",Channel 10 (14)
+#EXTINF:14 logo="pkg:/data/10.png" StreamFormat="hls",Channel 10 (14)
 http://nana10-hdl-uk-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/chunklist_b1000000.m3u8
 
-#EXTINF:20 logo="pkg:/data/Channel 20.png",Channel 20
+#EXTINF:20 logo="pkg:/data/Channel 20.png" StreamFormat="hls",Channel 20
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8 
 
-#EXTINF:20 logo="pkg:/data/Channel 2 News.png",News
+#EXTINF:20 logo="pkg:/data/Channel 2 News.png" StreamFormat="hls",News
 http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8 
 
-#EXTINF:30 logo="pkg:/data/Hinuchit.jpg",Hinuchit
+#EXTINF:30 logo="pkg:/data/Hinuchit.jpg" StreamFormat="hls",Hinuchit
 http://il28.cast-tv.com:1935/25400_LIVE_Live2018_1.stream/_definst_/25400_LIVE_Free734777_1.stream/playlist.m3u8
 
-#EXTINF:24 logo="pkg:/data/Music 24.jpg",Music 24
+#EXTINF:24 logo="pkg:/data/Music 24.jpg" StreamFormat="hls",Music 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
-#EEXTINF:98 logo="pkg:/data/Glgltz.jpg",Glgltz
+#EEXTINF:98 logo="pkg:/data/Glgltz.jpg" StreamFormat="mp3",Glgltz
 #http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
 
-#EEXTINF:98 logo="pkg:/data/Gltz.jpg",Galatz
+#EEXTINF:98 logo="pkg:/data/Gltz.jpg" StreamFormat="mp3",Galatz
 #http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
