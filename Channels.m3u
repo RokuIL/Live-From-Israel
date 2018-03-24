@@ -1,4 +1,4 @@
-# ver="87"
+# ver="88"
 
 #EEXTINF:9 logo="pkg:/data/9.png",Russian (9)
 #hhttp://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream3.m3u8
@@ -9,11 +9,35 @@ http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.
 #EXTINF:12 logo="pkg:/data/Keshet.jpg",Keshet (12)
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 
+#EXTINF:12 logo="pkg:/data/Keshet.jpg",Keshet (12) test 1
+http://keshethlslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/512033/CH2LIVE_HIGH/index.m3u8@@?b=100-1000&@@TICKET@@
+
+#EXTINF:12 logo="pkg:/data/Keshet.jpg",Keshet (12) test 2
+http://keshethlslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/512035/CH2LIVE_LOW/index.m3u8@@?b=100-1000&@@TICKET@@
+
 #EEXTINF:13 logo="pkg:/data/Reshet.jpg",Reshet (13)
 #hhttp://besttv2.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
+
+#EXTINF:13 logo="pkg:/data/Reshet.jpg",Reshet (13) test
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8
 
 #EXTINF:14 logo="pkg:/data/10.png",Channel 10 (14)
 http://nana10-hdl-uk-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/chunklist_b1000000.m3u8
 
-#EXTINF:20 logo="pkg:/data//Channel 20.png",Channel 20
+#EXTINF:20 logo="pkg:/data/Channel 20.png",Channel 20
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8 
+
+#EXTINF:20 logo="pkg:/data/Channel 2 News.png", The News Company
+http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8 
+
+#EXTINF:30 logo="pkg:/data/Hinuchit.jpg", Hinuchit
+http://il28.cast-tv.com:1935/25400_LIVE_Live2018_1.stream/_definst_/25400_LIVE_Free734777_1.stream/playlist.m3u8
+
+#EXTINF:24 logo="pkg:/data/Music 24.jpg", Music 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+
+#EXTINF:98 logo="pkg:/data/Glgltz.jpg", Glgltz
+http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
+
+#EXTINF:98 logo="pkg:/data/Gltz.jpg", Galatz
+http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
