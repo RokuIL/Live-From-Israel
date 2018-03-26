@@ -1,4 +1,4 @@
-# ver="92"
+# ver="93"
 
 #EEXTINF:9 logo="pkg:/data/9.png" StreamFormat="hls",Russian (9)
 #hhttp://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream3.m3u8
@@ -28,7 +28,7 @@ http://il28.cast-tv.com:1935/25400_LIVE_Live2018_1.stream/_definst_/25400_LIVE_F
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
 #EXTINF:98 logo="pkg:/data/Glgltz.jpg" StreamFormat="mp3",Glgltz
-http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
+http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz
 
 #EXTINF:98 logo="pkg:/data/Gltz.jpg" StreamFormat="mp3",Galatz
 http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
