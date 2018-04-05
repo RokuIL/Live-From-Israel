@@ -1,4 +1,4 @@
-# ver="93"
+# ver="94"
 
 #EEXTINF:9 logo="pkg:/data/9.png" StreamFormat="hls",Russian (9)
 #hhttp://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream3.m3u8
@@ -21,8 +21,8 @@ http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
 #EXTINF:20 logo="pkg:/data/Channel 2 News.png" StreamFormat="hls",News
 http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8 
 
-#EXTINF:30 logo="pkg:/data/Hinuchit.jpg" StreamFormat="hls",Hinuchit
-http://il28.cast-tv.com:1935/25400_LIVE_Live2018_1.stream/_definst_/25400_LIVE_Free734777_1.stream/playlist.m3u8
+#EEXTINF:30 logo="pkg:/data/Hinuchit.jpg" StreamFormat="hls",Hinuchit
+#hhttp://il28.cast-tv.com:1935/25400_LIVE_Live2018_1.stream/_definst_/25400_LIVE_Free734777_1.stream/playlist.m3u8
 
 #EXTINF:24 logo="pkg:/data/Music 24.jpg" StreamFormat="hls",Music 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
