@@ -1,4 +1,4 @@
-# ver="95"
+# ver="96"
 
 #EXTINF:11 logo="pkg:/data/Kan.png" StreamFormat="hls",Kan (11)
 http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
@@ -21,8 +21,26 @@ http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8
 #EXTINF:24 logo="pkg:/data/Music 24.jpg" StreamFormat="hls",Music 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
-#EXTINF:98 logo="pkg:/data/Glgltz.jpg" StreamFormat="mp3",Glgltz
+#EXTINF:98 logo="pkg:/data/Glgltz.jpg" StreamFormat="mp3",Radio: Glgltz
 http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz
 
-#EXTINF:98 logo="pkg:/data/Gltz.jpg" StreamFormat="mp3",Galatz
+#EXTINF:98 logo="pkg:/data/Gltz.jpg" StreamFormat="mp3",Radio: Galatz
 http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
+
+#EXTINF:03 logo="https://raw.githubusercontent.com/quartern/iltv/master/images/posters/ipbc_radio_gimmel.png" StreamFormat="aac_adts",Radio: Reshet Gimmel
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCgimmelLAM
+
+#EXTINF:88 logo="https://raw.githubusercontent.com/quartern/iltv/master/images/posters/ipbc_radio_88.png" StreamFormat="aac_adts",Radio: 88 FM
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBC88LAM
+
+#EXTINF:99 logo="https://raw.githubusercontent.com/quartern/iltv/master/images/posters/eco99fm.png" StreamFormat="mp3",Radio: Eco - 99FM
+http://99.livecdn.biz/99fm
+
+#EXTINF:100 logo="https://raw.githubusercontent.com/quartern/iltv/master/images/posters/radius_100fm.png" StreamFormat="mp3",Radio: Radius - 100fm
+http://213.8.143.168/100fmAudio
+
+#EXTINF:102 logo="https://raw.githubusercontent.com/quartern/iltv/master/images/posters/telaviv102fm.png" StreamFormat="aac_adts",Radio: Radio TelAviv - 102fm
+http://102.livecdn.biz/102fm_aac
+
+#EXTINF:103 logo="https://raw.githubusercontent.com/quartern/iltv/master/images/posters/103fm.png" StreamFormat="mp3",Radio: Radio Lelo Hafsaka - 103fm
+http://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio
