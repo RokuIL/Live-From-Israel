@@ -1,4 +1,4 @@
-# ver="97"
+# ver="98"
 
 #EXTINF:11 logo="pkg:/data/Kan.png" StreamFormat="hls",Kan (11)
 http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
@@ -17,6 +17,9 @@ http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
 
 #EXTINF:22 logo="pkg:/data/Channel 2 News.png" StreamFormat="hls",News
 http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8 
+
+#EXTINF:23 logo="pkg:/data/Hinuchit.jpg" StreamFormat="hls",Chinuchit 23
+http://il28.cast-tv.com:1935/25400_LIVE_Live2018_1.stream/_definst_/25400_LIVE_Free734777_1.stream/playlist.m3u8
 
 #EXTINF:24 logo="pkg:/data/Music 24.jpg" StreamFormat="hls",Music 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
