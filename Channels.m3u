@@ -3,16 +3,16 @@
 #EXTINF:11 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan.png" StreamFormat="hls",Kan (11)
 http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 
-#EXTINF:12 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet 12.png" StreamFormat="hls",Keshet (12)
+#EXTINF:12 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" StreamFormat="hls",Keshet (12)
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 
-#EXTINF:13 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet 13.png" StreamFormat="hls" HttpHeaders="Referer:http://reshet.tv/live/",Reshet (13)
+#EXTINF:13 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.png" StreamFormat="hls" HttpHeaders="Referer:http://reshet.tv/live/",Reshet (13)
 http://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8
 
 #EXTINF:14 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/10.png" StreamFormat="hls",Channel 10 (14)
 http://nana10-hdl-uk-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/chunklist_b1000000.m3u8
 
-#EXTINF:20 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Channel 20.png" StreamFormat="hls",Channel 20
+#EXTINF:20 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Channel%2020.png" StreamFormat="hls",Channel 20
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8 
 
 #EXTINF:22 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/News.png" StreamFormat="hls",News
@@ -21,7 +21,7 @@ http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8
 #EXTINF:23 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Hinuchit.jpg" StreamFormat="hls",Chinuchit (23)
 http://il28.cast-tv.com:1935/25400_LIVE_Live2018_1.stream/_definst_/25400_LIVE_Free734777_1.stream/playlist.m3u8
 
-#EXTINF:24 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Music 24.jpg" StreamFormat="hls",Music 24
+#EXTINF:24 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Music%2024.jpg" StreamFormat="hls",Music 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
 #EXTINF:98 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Glgltz.jpg" StreamFormat="mp3",Glgltz
