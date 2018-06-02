@@ -1,49 +1,49 @@
 # ver="99"
 
-#EXTINF:11 logo="pkg:/data/Kan.png" StreamFormat="hls",Kan (11)
+#EXTINF:11 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan.png" StreamFormat="hls",Kan (11)
 http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 
-#EXTINF:12 logo="https://raw.githubusercontent.com/quartern/iltv/master/images/posters/keshet12.png" StreamFormat="hls",Keshet (12)
+#EXTINF:12 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet 12.png" StreamFormat="hls",Keshet (12)
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 
-#EXTINF:13 logo="https://raw.githubusercontent.com/quartern/iltv/master/images/posters/reshet_13.png" StreamFormat="hls" HttpHeaders="Referer:http://reshet.tv/live/",Reshet (13)
+#EXTINF:13 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet 13.png" StreamFormat="hls" HttpHeaders="Referer:http://reshet.tv/live/",Reshet (13)
 http://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8
 
-#EXTINF:14 logo="pkg:/data/10.png" StreamFormat="hls",Channel 10 (14)
+#EXTINF:14 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/10.png" StreamFormat="hls",Channel 10 (14)
 http://nana10-hdl-uk-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/chunklist_b1000000.m3u8
 
-#EXTINF:20 logo="pkg:/data/Channel 20.png" StreamFormat="hls",Channel 20
+#EXTINF:20 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Channel 20.png" StreamFormat="hls",Channel 20
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8 
 
-#EXTINF:22 logo="https://raw.githubusercontent.com/quartern/iltv/master/images/posters/news_co.png" StreamFormat="hls",News
+#EXTINF:22 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/News.png" StreamFormat="hls",News
 http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8 
 
-#EXTINF:23 logo="pkg:/data/Hinuchit.jpg" StreamFormat="hls",Chinuchit (23)
+#EXTINF:23 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Hinuchit.jpg" StreamFormat="hls",Chinuchit (23)
 http://il28.cast-tv.com:1935/25400_LIVE_Live2018_1.stream/_definst_/25400_LIVE_Free734777_1.stream/playlist.m3u8
 
-#EXTINF:24 logo="pkg:/data/Music 24.jpg" StreamFormat="hls",Music 24
+#EXTINF:24 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Music 24.jpg" StreamFormat="hls",Music 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
-#EXTINF:98 logo="pkg:/data/Glgltz.jpg" StreamFormat="mp3",Glgltz
+#EXTINF:98 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Glgltz.jpg" StreamFormat="mp3",Glgltz
 http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz
 
-#EXTINF:98 logo="pkg:/data/Gltz.jpg" StreamFormat="mp3",Galatz
+#EXTINF:98 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Gltz.jpg" StreamFormat="mp3",Galatz
 http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
 
-#EXTINF:03 logo="https://raw.githubusercontent.com/quartern/iltv/master/images/posters/ipbc_radio_gimmel.png" StreamFormat="aac_adts",Reshet Gimmel
+#EXTINF:03 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_gimmel.png" StreamFormat="aac_adts",Reshet Gimmel
 http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCgimmelLAM
 
-#EXTINF:88 logo="https://raw.githubusercontent.com/quartern/iltv/master/images/posters/ipbc_radio_88.png" StreamFormat="aac_adts",88 FM
+#EXTINF:88 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_88.png" StreamFormat="aac_adts",88 FM
 http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBC88LAM
 
-#EXTINF:99 logo="https://raw.githubusercontent.com/quartern/iltv/master/images/posters/eco99fm.png" StreamFormat="mp3",Eco - 99FM
+#EXTINF:99 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/eco99fm.png" StreamFormat="mp3",Eco - 99FM
 http://99.livecdn.biz/99fm
 
-#EXTINF:100 logo="https://raw.githubusercontent.com/quartern/iltv/master/images/posters/radius_100fm.png" StreamFormat="mp3",Radius - 100fm
+#EXTINF:100 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/radius_100fm.png" StreamFormat="mp3",Radius - 100fm
 http://213.8.143.168/100fmAudio
 
-#EXTINF:102 logo="https://raw.githubusercontent.com/quartern/iltv/master/images/posters/telaviv102fm.png" StreamFormat="aac_adts",Radio TelAviv - 102fm
+#EXTINF:102 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/telaviv102fm.png" StreamFormat="aac_adts",Radio TelAviv - 102fm
 http://102.livecdn.biz/102fm_aac
 
-#EXTINF:103 logo="https://raw.githubusercontent.com/quartern/iltv/master/images/posters/103fm.png" StreamFormat="mp3",Radio Lelo Hafsaka - 103fm
+#EXTINF:103 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/103fm.png" StreamFormat="mp3",Radio Lelo Hafsaka - 103fm
 http://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio
