@@ -24,26 +24,77 @@ http://il28.cast-tv.com:1935/25400_LIVE_Live2018_1.stream/_definst_/25400_LIVE_F
 #EXTINF:24 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Music%2024.jpg" StreamFormat="hls",Music 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
-#EXTINF:98 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Glgltz.jpg" StreamFormat="mp3",Glgltz
+#EXTINF:-1 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Glgltz.jpg" StreamFormat="mp3",Glgltz
 http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz
 
-#EXTINF:98 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Gltz.jpg" StreamFormat="mp3",Galatz
+#EXTINF:-1 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Gltz.jpg" StreamFormat="mp3",Galatz
 http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
-
-#EXTINF:03 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_gimmel.png" StreamFormat="aac_adts",Reshet Gimmel
-http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCgimmelLAM
 
 #EXTINF:88 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_88.png" StreamFormat="aac_adts",88 FM
 http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBC88LAM
 
+#EXTINF:90 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/90fm.png" StreamFormat="mp3",Radio Tishim (Emtza Haderech) 90FM
+http://90.cdnwz.net/90fm
+
+#EXTINF:95 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/darom_95.png" StreamFormat="mp3",Radio Darom - 95.8FM
+http://audio-darom.ecast.co.il/darom97fm
+
+#EXTINF:96 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kolrega_96fm.png" StreamFormat="mp3",Kol Rega - 96FM
+http://server1.live1.co.il:8000/96fm
+
 #EXTINF:99 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/eco99fm.png" StreamFormat="mp3",Eco - 99FM
 http://99.livecdn.biz/99fm
 
-#EXTINF:100 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/radius_100fm.png" StreamFormat="mp3",Radius - 100fm
+#EXTINF:100 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/radius_100fm.png" StreamFormat="mp3",Radius - 100FM
 http://213.8.143.168/100fmAudio
 
-#EXTINF:102 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/telaviv102fm.png" StreamFormat="aac_adts",Radio TelAviv - 102fm
+#EXTINF:102 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/telaviv102fm.png" StreamFormat="aac_adts",Radio TelAviv - 102FM
 http://102.livecdn.biz/102fm_aac
 
-#EXTINF:103 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/103fm.png" StreamFormat="mp3",Radio Lelo Hafsaka - 103fm
+#EXTINF:102 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/redsea_102fm.png" StreamFormat="mp3",Voice of the Red Sea - 102FM
+http://eilat.cdnwz.net/102fm
+
+#EXTINF:103 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/103fm.png" StreamFormat="mp3",Radio Lelo Hafsaka - 103FM
 http://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio
+
+#EXTINF:103 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ramat_hasharon_106fm.png" StreamFormat="mp3",Kol Ramat Hasharon - 103.6FM
+http://1036fm.livecast.co.il/live1036fm/
+
+#EXTINF:106 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kol_ramla_106fm.png" StreamFormat="mp3",Radio Kol Ramla - 106FM
+http://84.94.229.99:5693/;
+
+#EXTINF:106 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kolgalim_106.png" StreamFormat="mp3",Kol Galim (Haifa) - 106FM
+http://switch2-streaming-212-83-eu.ilcast.com:8055/;
+
+#EXTINF:106 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/idc_radio.png" StreamFormat="mp3",IDC Radio - 106.2FM
+http://194.153.101.160:8000/idc123.mp3
+
+#EXTINF:107 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/haifa_107.png" StreamFormat="aac_adts",Radio Haifa - 107.5FM
+http://ads11.livecdn.biz:80/radiohaifa
+
+#EXTINF:1 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/1fm.png" StreamFormat="mp3",ClickFM - 1FM
+http://listen.clickfm.co.il/1FM
+
+#EXTINF:-1 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/clickfm_hiphop.png" StreamFormat="mp3",ClickFM - HipHop
+http://listen.clickfm.co.il/hip.mp3
+
+#EXTINF:-1 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/nostalgia_radio.png" StreamFormat="mp3",Radio Nostalgia
+http://194.213.4.197:8000/;
+
+#EXTINF:-1 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/arutz7_radio.png" StreamFormat="mp3",Arutz 7 radio
+http://media.varnish.inn.co.il/a7live
+
+#EXTINF:-1 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_musika.png" StreamFormat="aac_adts",Kol HaMusica
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCkolhamusicaLAM
+
+#EXTINF:-1 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_tarbut.png" StreamFormat="aac_adts",Tarbut
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCtarbutLAM
+
+#EXTINF:-1 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_bet.png" StreamFormat="aac_adts",Reshet Bet
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCbetLAM
+
+#EXTINF:-1 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_gimmel.png" StreamFormat="aac_adts",Reshet Gimmel
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCgimmelLAM
+
+#EXTINF:-1 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_moreshet.png" StreamFormat="aac_adts",Moreshet
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCmoreshetLAM
