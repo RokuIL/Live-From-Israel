@@ -1,4 +1,4 @@
-# ver="101"
+# ver="01"
 
 #EXTINF:11 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" StreamFormat="hls",Kan (11)
 http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
@@ -66,7 +66,7 @@ http://84.94.229.99:5693/;
 #EXTINF:106 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kolgalim_106.png" StreamFormat="mp3",Kol Galim (Haifa) - 106FM
 http://switch2-streaming-212-83-eu.ilcast.com:8055/;
 
-#EXTINF:106 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/idc_radio.png" StreamFormat="mp3",IDC Radio - 106.2FM
+#EXTINF:106 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/IDC.jpg" StreamFormat="mp3",IDC Radio - 106.2FM
 http://194.153.101.160:8000/idc123.mp3
 
 #EXTINF:107 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/haifa_107.png" StreamFormat="aac_adts",Radio Haifa - 107.5FM
