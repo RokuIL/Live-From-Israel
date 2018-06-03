@@ -1,4 +1,4 @@
-# ver="01"
+# ver="02"
 
 #EXTINF:11 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" StreamFormat="hls",Kan (11)
 http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
@@ -59,6 +59,9 @@ http://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio
 
 #EXTINF:103 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ramat_hasharon_106fm.png" StreamFormat="mp3",Kol Ramat Hasharon - 103.6FM
 http://1036fm.livecast.co.il/live1036fm/
+
+#EXTINF:105 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/galilradio_1053.png" StreamFormat="mp3",Galil Radio - 105.3FM
+http://server2.live1.co.il/galil
 
 #EXTINF:106 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kol_ramla_106fm.png" StreamFormat="mp3",Radio Kol Ramla - 106FM
 http://84.94.229.99:5693/;
