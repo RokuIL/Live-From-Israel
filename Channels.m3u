@@ -1,10 +1,10 @@
-# ver="06"
+# ver="07"
 
 #EEXTINF:11 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" StreamFormat="hls",Kan (11)
 #hhttp://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 
-#EXTINF:11 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" StreamFormat="hls",Kan. (11)
-http://ipbc-metadata-rr-d.vidnt.com/live/ipbc/IPBCchannel11Global/hls/redirection_playback_url.m3u8
+#EEXTINF:11 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" StreamFormat="hls",Kan  (11)
+#hhttp://ipbc-metadata-rr-d.vidnt.com/live/ipbc/IPBCchannel11Global/hls/redirection_playback_url.m3u8
 
 #EXTINF:12 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" StreamFormat="hls",Keshet (12)
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
