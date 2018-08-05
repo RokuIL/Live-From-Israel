@@ -1,4 +1,4 @@
-# ver="10"
+# ver="11"
 
 #EXTINF:11 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" StreamFormat="hls",Kan  (11)
 http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
@@ -24,8 +24,8 @@ http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8
 #EXTINF:23 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Hinuchit.jpg" StreamFormat="hls",Chinuchit (23)
 http://il28.cast-tv.com:1935/25400_LIVE_Live2018_1.stream/_definst_/25400_LIVE_Free734777_1.stream/playlist.m3u8
 
-#EXTINF:24 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Music%2024.jpg" StreamFormat="hls",Music 24
-https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EEXTINF:24 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Music%2024.jpg" StreamFormat="hls",Music 24
+#hhttps://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
 #EXTINF:26 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Big%20Brother.png" StreamFormat="hls" HttpHeaders="Referer:http://reshet.tv/home/bb-livestream/",Big Brother (26)
 https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/bb01/chunklist_b3682304.m3u8
@@ -83,12 +83,6 @@ http://194.153.101.160:8000/idc123.mp3
 
 #EXTINF:107 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/haifa_107.png" StreamFormat="aac_adts",Radio Haifa - 107.5FM
 http://ads11.livecdn.biz:80/radiohaifa
-
-#EXTINF:1 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/1fm.png" StreamFormat="mp3",ClickFM - 1FM
-http://listen.clickfm.co.il/1FM
-
-#EXTINF:-1 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/clickfm_hiphop.png" StreamFormat="mp3",ClickFM - HipHop
-http://listen.clickfm.co.il/hip.mp3
 
 #EXTINF:-1 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/nostalgia_radio.png" StreamFormat="mp3",Radio Nostalgia
 http://194.213.4.197:8000/;
