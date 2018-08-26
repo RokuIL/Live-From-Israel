@@ -1,4 +1,4 @@
-# ver="16"
+# ver="17"
 
 #EXTINF:11 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" StreamFormat="hls",Kan  (11)
 http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
@@ -21,8 +21,8 @@ http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
 #EXTINF:22 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/News.png" StreamFormat="hls",News
 http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8 
 
-#EXTINF:23 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Hinuchit.jpg" StreamFormat="hls",Chinuchit (23)
-http://il28.cast-tv.com:1935/25400_LIVE_Live2018_1.stream/_definst_/25400_LIVE_Free734777_1.stream/playlist.m3u8
+#EXTINF:23 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Hinuchit.png" StreamFormat="hls",Kan Chinuchit (23)
+http://82.80.192.13/ipbc_IPBCchannel23LVMRepeat/_definst_/IPBCchannel23_1.stream/playlist.m3u8
 
 #EXTINF:24 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Music%2024.jpg" StreamFormat="hls",Music 24
 http://keshethlslive-lh.akamaihd.net@@MAKO:lp=@@/i/24live_1@195271/master.m3u8@@?b=200-2500&@@TICKET@@
