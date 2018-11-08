@@ -1,7 +1,8 @@
-# ver="28"
+# ver="29"
 
 #EXTINF:11 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" StreamFormat="hls",Kan  (11)
-http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+https://kanlive.akamaized.net/kan11/smil:kan11_mp4.smil/playlist.m3u8
+#hhttp://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 #hhttp://ipbc-metadata-rr-d.vidnt.com/live/ipbc/IPBCchannel11Global/hls/redirection_playback_url.m3u8
 
 #EXTINF:12 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" StreamFormat="hls",Keshet (12)
@@ -19,7 +20,8 @@ http://nana10-hdl-uk-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8 
 
 #EXTINF:22 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/News.png" StreamFormat="hls",News
-http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8 
+http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8
+#hhttps://makostore-hd.ctedgecdn.net/Makostore-Vod/_definst_/amlst:http/SHORT/CH22_NEWS/2018/10/mahadura_full_vtr2_n20181016_v1_em/mahadura_full_vtr2_n20181016_v1_em_,850,.mp4/playlist.m3u8
 
 #EXTINF:23 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Hinuchit.png" StreamFormat="hls",Kan Chinuchit (23)
 http://82.80.192.13/ipbc_IPBCchannel23LVMRepeat/_definst_/IPBCchannel23_1.stream/playlist.m3u8
