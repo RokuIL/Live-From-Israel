@@ -1,4 +1,4 @@
-# ver="42"
+# ver="43"
 
 #EXTINF:11 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" StreamFormat="hls",Kan  (11)
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8
@@ -45,8 +45,7 @@ http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz
 http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
 
 #EXTINF:88 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_88.png" StreamFormat="hls",88 FM
-http://kanlive.bynetcdn.com/kan88/smil:kan88_mp4.smil/playlist.m3u8
-#hhttp://kanlive.akamaized.net/kan88/smil:kan88_mp4.smil/playlist.m3u8
+https://kanlivep2event-i.akamaihd.net/hls/live/749623/749623/playlist.m3u8
 
 #EXTINF:90 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/90fm.png" StreamFormat="mp3",Radio Tishim (Emtza Haderech) 90FM
 http://90.cdnwz.net/90fm
@@ -97,21 +96,16 @@ http://194.213.4.197:8000/;
 http://media.varnish.inn.co.il/a7live
 
 #EXTINF:-1 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_musika.png" StreamFormat="hls",Kol HaMusica
-http://kanlive.bynetcdn.com/kankolhamusica/smil:kankolhamusica_mp4.smil/playlist.m3u8
-#hhttp://kanlive.akamaized.net/kankolhamusica/smil:kankolhamusica_mp4.smil/playlist.m3u8
+https://kanlivep2event-i.akamaihd.net/hls/live/749627/749627/playlist.m3u8
 
 #EXTINF:-1 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_tarbut.png" StreamFormat="hls",Tarbut
-http://kanlive.bynetcdn.com/kantarbut/smil:kantarbut_mp4.smil/playlist.m3u8
-#hhttp://kanlive.akamaized.net/kantarbut/smil:kantarbut_mp4.smil/playlist.m3u8
+https://kanlivep2event-i.akamaihd.net/hls/live/749634/749634/playlist.m3u8
 
 #EXTINF:-1 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_bet.png" StreamFormat="hls",Reshet Bet
-http://kanlive.bynetcdn.com/kanbet/smil:kanbet_mp4.smil/playlist.m3u8
-#http://kanlive.akamaized.net/kanbet/smil:kanbet_mp4.smil/playlist.m3u8
+https://kanlivep2event-i.akamaihd.net/hls/live/749624/749624/playlist.m3u8
 
 #EXTINF:-1 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_gimmel.png" StreamFormat="hls",Reshet Gimmel
-http://kanlive.bynetcdn.com/kangimmel/smil:kangimmel_mp4.smil/playlist.m3u8
-#http://kanlive.akamaized.net/kangimmel/smil:kangimmel_mp4.smil/playlist.m3u8
+https://kanlivep2event-i.akamaihd.net/hls/live/749625/749625/playlist.m3u8
 
 #EXTINF:-1 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_moreshet.png" StreamFormat="hls",Moreshet
-http://kanlive.bynetcdn.com/kanmoreshet/smil:kanmoreshet_mp4.smil/playlist.m3u8
-#hhttp://kanlive.akamaized.net/kanmoreshet/smil:kanmoreshet_mp4.smil/playlist.m3u8
+https://kanlivep2event-i.akamaihd.net/hls/live/749629/749629/playlist.m3u8
