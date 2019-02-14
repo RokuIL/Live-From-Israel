@@ -1,4 +1,4 @@
-# ver="43"
+# ver="44"
 
 #EXTINF:11 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" StreamFormat="hls",Kan  (11)
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8
@@ -91,9 +91,6 @@ http://ads11.livecdn.biz:80/radiohaifa
 
 #EXTINF:-1 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/nostalgia_radio.png" StreamFormat="mp3",Radio Nostalgia
 http://194.213.4.197:8000/;
-
-#EXTINF:-1 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/arutz7_radio.png" StreamFormat="mp3",Arutz 7 radio
-http://media.varnish.inn.co.il/a7live
 
 #EXTINF:-1 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_musika.png" StreamFormat="hls",Kol HaMusica
 https://kanlivep2event-i.akamaihd.net/hls/live/749627/749627/playlist.m3u8
