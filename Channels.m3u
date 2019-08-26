@@ -1,4 +1,4 @@
-# ver="46"
+# ver="47"
 
 #EXTINF:11 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" StreamFormat="hls",Kan  (11)
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8
@@ -14,8 +14,8 @@ http://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8
 #EXTINF:20 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Channel%2020.png" StreamFormat="hls",Channel 20
 http://dvr.ch20-cdnwiz.com/hls/dvr.m3u8
 
-#EXTINF:22 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/News.png" StreamFormat="hls",News
-http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8
+#EEXTINF:22 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/News.png" StreamFormat="hls",News
+#hhttp://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8
 #hhttp://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/master.m3u8
 #hhttp://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 #hhttps://makostore-hd.ctedgecdn.net/Makostore-Vod/_definst_/amlst:http/SHORT/CH22_NEWS/2019/01/mahadura_full_vtr2_n20190129_v1_em/mahadura_full_vtr2_n20190129_v1_em_,850,.mp4/playlist.m3u8
