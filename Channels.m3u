@@ -1,7 +1,8 @@
-# ver="51"
+# ver="52"
 
 #EXTINF:11 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" StreamFormat="hls",Kan  (11)
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8
+#hhttps://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_4k/chunklist.m3u8
 
 #EXTINF:12 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" StreamFormat="hls",Keshet (12)
 http://keshethlslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/512033/CH2LIVE_HIGH/index.m3u8@@?b=100-1000&@@TICKET@@
@@ -9,8 +10,7 @@ http://keshethlslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/512033/CH2LIVE_HIGH/ind
 
 #EXTINF:13 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.png" StreamFormat="hls" HttpHeaders="Referer:http://reshet.tv/live/",Reshet (13)
 https://reshet-live.ctedgecdn.net/13tv-desktop/nodvr/r13.m3u8
-#hhttp://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8
-#hhttp://nana10-hdl-uk-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/chunklist_b1000000.m3u8
+#hhttp://reshet-live-net.ctedgecdn.net/13tv-desktop/r13.m3u8
 
 #EXTINF:20 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Channel%2020.png" StreamFormat="hls",Channel 20
 http://dvr.ch20-cdnwiz.com/hls/dvr.m3u8
