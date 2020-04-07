@@ -1,0 +1,295 @@
+{
+    "TimeZoneOffset": "3",
+    "Channels": [
+        {
+            "Title": "Kan (11)",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
+            "EPGProvider": "Kan",
+            "EPGStationId": "1",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8",
+                "https://kanlivep2event-i.akamaihd.net/hls/live/747610-b/747610/playlist.m3u8"
+            ]
+        },
+        {
+            "Title": "Keshet (12)",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png",
+            "EPGProvider": "Mako",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "http://keshethlslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/512033/CH2LIVE_HIGH/index.m3u8@@?b=100-1000&@@TICKET@@"
+            ]
+        },
+        {
+            "Title": "Reshet (13)",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.png",
+            "EPGProvider": "Reshet",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://reshet-live.ctedgecdn.net/13tv-desktop/nodvr/r13.m3u8",
+                "http://reshet-live-net.ctedgecdn.net/13tv-desktop/r13.m3u8"
+            ]
+        },
+        {
+            "Title": "Channel 20",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Channel%2020.png",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "http://dvr.ch20-cdnwiz.com/hls/dvr.m3u8"
+            ]
+        },
+        {
+            "Title": "N12 News",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/n12.png",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8",
+                "http://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/master.m3u8",
+                "https://makostore-hd.ctedgecdn.net/Makostore-Vod/_definst_/amlst:http/SHORT/CH22_NEWS/2019/01/mahadura_full_vtr2_n20190129_v1_em/mahadura_full_vtr2_n20190129_v1_em_,850,.mp4/playlist.m3u8"
+            ]
+        },
+        {
+            "Title": "Chinuchit (23)",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Hinuchit.png",
+            "EPGProvider": "Kan",
+            "EPGStationId": "19",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8",
+                "https://kanlivep2event-i.akamaihd.net/hls/live/747600-b/747600/playlist.m3u8"
+            ]
+        },
+        {
+            "Title": "Music 24",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Music%2024.jpg",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8",
+                "http://keshethlslive-lh.akamaihd.net@@MAKO:lp=@@/i/24live_1@195271/master.m3u8@@?b=200-2500&@@TICKET@@"
+            ]
+        },
+        {
+            "Title": "Makan (33)",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Makan.png",
+            "EPGProvider": "Kan",
+            "EPGStationId": "2",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/playlist.m3u8",
+                "https://kanlivep2event-i.akamaihd.net/hls/live/747613-b/747613/playlist.m3u8"
+            ]
+        },
+        {
+            "Title": "Sport 5 Radio",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport%205%20Radio.jpg",
+            "EPGProvider": "Sport5",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/master.m3u8"
+            ]
+        },
+        {
+            "Title": "Glgltz",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Glgltz.jpg",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz"
+            ]
+        },
+        {
+            "Title": "Galatz",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Gltz.jpg",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz"
+            ]
+        },
+        {
+            "Title": "88 FM",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_88.png",
+            "EPGProvider": "Kan",
+            "EPGStationId": "4",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://kanlivep2event-i.akamaihd.net/hls/live/749623/749623/playlist.m3u8",
+                "https://kanlivep2event-i.akamaihd.net/hls/live/749623-b/749623/playlist.m3u8"
+            ]
+        },
+        {
+            "Title": "Radio Tishim (Emtza Haderech) 90FM",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/90fm.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://90.cdnwz.net/90fm"
+            ]
+        },
+        {
+            "Title": "Radio Darom - 95.8FM",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/darom_95.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://audio-darom.ecast.co.il/darom97fm"
+            ]
+        },
+        {
+            "Title": "Kol Rega - 96FM",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kolrega_96fm.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://server1.live1.co.il:8000/96fm"
+            ]
+        },
+        {
+            "Title": "Eco - 99FM",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/eco99fm.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://99.livecdn.biz/99fm"
+            ]
+        },
+        {
+            "Title": "Radius - 100FM",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/radius_100fm.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://213.8.143.168/100fmAudio"
+            ]
+        },
+        {
+            "Title": "Radio TelAviv - 102FM",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/telaviv102fm.png",
+            "StreamFormat": "aac_adts",
+            "StreamUrls": [
+                "http://102.livecdn.biz/102fm_aac"
+            ]
+        },
+        {
+            "Title": "Voice of the Red Sea - 102FM",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/redsea_102fm.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://eilat.cdnwz.net/102fm"
+            ]
+        },
+        {
+            "Title": "Radio Lelo Hafsaka - 103FM",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/103fm.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio"
+            ]
+        },
+        {
+            "Title": "Kol Ramat Hasharon - 103.6FM",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ramat_hasharon_106fm.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://1036fm.livecast.co.il/live1036fm/"
+            ]
+        },
+        {
+            "Title": "Galil Radio - 105.3FM",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/galilradio_1053.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://server2.live1.co.il/galil"
+            ]
+        },
+        {
+            "Title": "Radio Kol Ramla - 106FM",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kol_ramla_106fm.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://84.94.229.99:5693/;"
+            ]
+        },
+        {
+            "Title": "Kol Galim (Haifa) - 106FM",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kolgalim_106.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://switch2-streaming-212-83-eu.ilcast.com:8055/;"
+            ]
+        },
+        {
+            "Title": "IDC Radio - 106.2FM",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/IDC.jpg",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://194.153.101.160:8000/idc123.mp3"
+            ]
+        },
+        {
+            "Title": "Radio Haifa - 107.5FM",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/haifa_107.png",
+            "StreamFormat": "aac_adts",
+            "StreamUrls": [
+                "http://ads11.livecdn.biz:80/radiohaifa"
+            ]
+        },
+        {
+            "Title": "Radio Nostalgia",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/nostalgia_radio.png",
+            "StreamFormat": "mp3",
+            "StreamUrls": [
+                "http://194.213.4.197:8000/;"
+            ]
+        },
+        {
+            "Title": "Kol HaMusica",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_musika.png",
+            "EPGProvider": "Kan",
+            "EPGStationId": "5",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://kanlivep2event-i.akamaihd.net/hls/live/749627/749627/playlist.m3u8",
+                "https://kanlivep2event-i.akamaihd.net/hls/live/749627-b/749627/playlist.m3u8"                
+            ]
+        },
+        {
+            "Title": "Tarbut",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_tarbut.png",
+            "EPGProvider": "Kan",
+            "EPGStationId": "7",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://kanlivep2event-i.akamaihd.net/hls/live/749634/749634/playlist.m3u8",
+                "https://kanlivep2event-i.akamaihd.net/hls/live/749634-b/749634/playlist.m3u8"
+            ]
+        },
+        {
+            "Title": "Reshet Bet",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_bet.png",
+            "EPGProvider": "Kan",
+            "EPGStationId": "8",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://kanlivep2event-i.akamaihd.net/hls/live/749624/749624/playlist.m3u8",
+                "https://kanlivep2event-i.akamaihd.net/hls/live/749624-b/749624/playlist.m3u8"
+            ]
+        },
+        {
+            "Title": "Reshet Gimmel",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_gimmel.png",
+            "EPGProvider": "Kan",
+            "EPGStationId": "9",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://kanlivep2event-i.akamaihd.net/hls/live/749625/749625/playlist.m3u8",
+                "https://kanlivep2event-i.akamaihd.net/hls/live/749625-b/749625/playlist.m3u8"
+            ]
+        },
+        {
+            "Title": "Moreshet",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_moreshet.png",
+            "EPGProvider": "Kan",
+            "EPGStationId": "11",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://kanlivep2event-i.akamaihd.net/hls/live/749629/749629/playlist.m3u8",
+                "https://kanlivep2event-i.akamaihd.net/hls/live/749629-b/749629/playlist.m3u8"
+            ]
+        }
+    ]
+}
