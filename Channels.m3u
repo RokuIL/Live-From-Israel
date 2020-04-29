@@ -1,4 +1,4 @@
-# ver="57"
+# ver="58"
 
 #EXTINF:11 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" StreamFormat="hls" EPGProvider="Kan" EPGStationId="1" TimeZoneOffset="3",Kan  (11)
 https://kanlivep2event-i.akamaihd.net/hls/live/747610-b/747610/playlist.m3u8
@@ -12,7 +12,7 @@ https://reshet-live.ctedgecdn.net/13tv-desktop/nodvr/r13.m3u8
 #hhttp://reshet-live-net.ctedgecdn.net/13tv-desktop/r13.m3u8
 
 #EXTINF:20 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Channel%2020.png" StreamFormat="hls",Channel 20
-http://dvr.ch20-cdnwiz.com/hls/dvr.m3u8
+https://dvr.ch20-cdnwiz.com/mobilehls/dvr_low/index.m3u8
 
 #EXTINF:22 logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/n12.png" StreamFormat="hls",N12 News
 https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_3100_av-p.m3u8
