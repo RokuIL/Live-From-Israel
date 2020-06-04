@@ -90,8 +90,7 @@
             "EPGProvider": "Sport5",
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://sport5-lh.akamaihd.net/i/radio5_0@65353/master.m3u8",
-                "https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/master.m3u8"
+                "https://sport5-lh.akamaihd.net/i/radio5_0@65353/master.m3u8"
             ]
         },
         {
