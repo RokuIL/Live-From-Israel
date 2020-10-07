@@ -27,6 +27,7 @@
             "EPGProvider": "Reshet",
             "StreamFormat": "hls",
             "StreamUrls": [
+                "https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8",
                 "http://reshet-live.ctedgecdn.net/13tv-desktop/nodvr/r13.m3u8",
                 "http://reshet-live-net.ctedgecdn.net/13tv-desktop/r13.m3u8",
                 "http://reshet-live-uk.ctedgecdn.net/13tv-desktop/r13.m3u8"
