@@ -19,7 +19,8 @@
             "EPGProvider": "Mako",
             "StreamFormat": "hls",
             "StreamUrls": [
-                "http://keshethlslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/512033/CH2LIVE_HIGH/index.m3u8@@?b=100-1000&@@TICKET@@"
+                "http://keshethlslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/512033/CH2LIVE_HIGH/index.m3u8@@?b=100-1000&@@TICKET@@",
+                "http://keshethlslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/512033/CH2LIVE_LOW/index.m3u8@@?b=100-1000&@@TICKET@@"
             ]
         },
         {
