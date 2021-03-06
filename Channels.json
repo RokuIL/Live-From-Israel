@@ -2,7 +2,7 @@
     "TimeZoneOffset": "2",
     "Channels": [
         {
-            "Title": "Kan (11)",
+            "Title": "כאן 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
             "EPGProvider": "Kan",
             "EPGStationId": "1",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "Title": "Keshet (12)",
+            "Title": "קשת 12",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png",
             "EPGProvider": "Mako",
             "StreamFormat": "hls",
@@ -23,7 +23,7 @@
             ]
         },
         {
-            "Title": "Reshet (13)",
+            "Title": "רשת 13",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.png",
             "EPGProvider": "Reshet",
             "StreamFormat": "hls",
@@ -32,7 +32,7 @@
             ]
         },
         {
-            "Title": "Channel 20",
+            "Title": "ערוץ 20",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Channel%2020.png",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -43,7 +43,7 @@
             ]
         },
         {
-            "Title": "N12 News",
+            "Title": "חדשות N12",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/n12.png",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -53,7 +53,7 @@
             ]
         },
         {
-            "Title": "Chinuchit (23)",
+            "Title": "חינוכית 23",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Hinuchit.png",
             "EPGProvider": "Kan",
             "EPGStationId": "19",
@@ -64,7 +64,7 @@
             ]
         },
         {
-            "Title": "Big Brother (Israel Only)",
+            "Title": "האח הגדול (עובד רק מישראל)",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Big%20Brother.png",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -72,7 +72,7 @@
             ]
         },
         {
-            "Title": "Music 24",
+            "Title": "ערוץ 24 החדש",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Music%2024.jpg",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -81,7 +81,7 @@
             ]
         },
         {
-            "Title": "Makan (33)",
+            "Title": "مكان 33",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Makan.png",
             "EPGProvider": "Kan",
             "EPGStationId": "2",
@@ -92,7 +92,7 @@
             ]
         },
         {
-            "Title": "Sport 5 Radio",
+            "Title": "רדיו ספורט 5",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport%205%20Radio.jpg",
             "EPGProvider": "Sport5",
             "StreamFormat": "hls",
@@ -102,7 +102,7 @@
             ]
         },
         {
-            "Title": "Glgltz",
+            "Title": "גלגל'צ",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Glgltz.jpg",
             "StreamFormat": "mp3",
             "StreamUrls": [
@@ -110,7 +110,7 @@
             ]
         },
         {
-            "Title": "Galatz",
+            "Title": "גל'צ",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Gltz.jpg",
             "StreamFormat": "mp3",
             "StreamUrls": [
@@ -118,7 +118,7 @@
             ]
         },
         {
-            "Title": "88 FM",
+            "Title": "88FM",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_88.png",
             "EPGProvider": "Kan",
             "EPGStationId": "4",
@@ -129,7 +129,7 @@
             ]
         },
         {
-            "Title": "Radio Tishim (Emtza Haderech) 90FM",
+            "Title": "רדיו 90 (אמצע הדרך) 90FM",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/90fm.png",
             "StreamFormat": "mp3",
             "StreamUrls": [
@@ -137,7 +137,7 @@
             ]
         },
         {
-            "Title": "Radio Darom - 95.8FM",
+            "Title": "רדיו דרום 95.8FM",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/darom_95.png",
             "StreamFormat": "mp3",
             "StreamUrls": [
@@ -145,7 +145,7 @@
             ]
         },
         {
-            "Title": "Kol Rega - 96FM",
+            "Title": "קול רגע 96FM",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kolrega_96fm.png",
             "StreamFormat": "mp3",
             "StreamUrls": [
@@ -153,7 +153,7 @@
             ]
         },
         {
-            "Title": "Eco - 99FM",
+            "Title": "אקו 99FM",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/eco99fm.png",
             "StreamFormat": "mp3",
             "StreamUrls": [
@@ -161,7 +161,7 @@
             ]
         },
         {
-            "Title": "Radius - 100FM",
+            "Title": "רדיוס 100FM",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/radius_100fm.png",
             "StreamFormat": "mp3",
             "StreamUrls": [
@@ -169,7 +169,7 @@
             ]
         },
         {
-            "Title": "Radio TelAviv - 102FM",
+            "Title": "רדיו תל-אביב 102FM",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/telaviv102fm.png",
             "StreamFormat": "aac_adts",
             "StreamUrls": [
@@ -177,7 +177,7 @@
             ]
         },
         {
-            "Title": "Voice of the Red Sea - 102FM",
+            "Title": "קול הים האדום 102FM",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/redsea_102fm.png",
             "StreamFormat": "mp3",
             "StreamUrls": [
@@ -185,7 +185,7 @@
             ]
         },
         {
-            "Title": "Radio Lelo Hafsaka - 103FM",
+            "Title": "רדיו ללא הפסקה 103FM",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/103fm.png",
             "StreamFormat": "mp3",
             "StreamUrls": [
@@ -193,7 +193,7 @@
             ]
         },
         {
-            "Title": "Kol Ramat Hasharon - 103.6FM",
+            "Title": "קול רמת השרון 103.6FM",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ramat_hasharon_106fm.png",
             "StreamFormat": "mp3",
             "StreamUrls": [
@@ -201,7 +201,7 @@
             ]
         },
         {
-            "Title": "Galil Radio - 105.3FM",
+            "Title": "קול הגליל העליון 105.3FM",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/galilradio_1053.png",
             "StreamFormat": "mp3",
             "StreamUrls": [
@@ -209,7 +209,7 @@
             ]
         },
         {
-            "Title": "Radio Kol Ramla - 106FM",
+            "Title": "קול רמלה 106FM",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kol_ramla_106fm.png",
             "StreamFormat": "mp3",
             "StreamUrls": [
@@ -217,7 +217,7 @@
             ]
         },
         {
-            "Title": "Kol Galim (Haifa) - 106FM",
+            "Title": "קול גלים 106FM",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kolgalim_106.png",
             "StreamFormat": "mp3",
             "StreamUrls": [
@@ -225,7 +225,7 @@
             ]
         },
         {
-            "Title": "IDC Radio - 106.2FM",
+            "Title": "הרדיו הבינתחומי 106.2FM",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/IDC.jpg",
             "StreamFormat": "mp3",
             "StreamUrls": [
@@ -233,7 +233,7 @@
             ]
         },
         {
-            "Title": "Radio Haifa - 107.5FM",
+            "Title": "רדיו חיפה 107.5FM",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/haifa_107.png",
             "StreamFormat": "aac_adts",
             "StreamUrls": [
@@ -241,7 +241,7 @@
             ]
         },
         {
-            "Title": "Radio Nostalgia",
+            "Title": "רדיו נוסטלגיה",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/nostalgia_radio.png",
             "StreamFormat": "mp3",
             "StreamUrls": [
@@ -249,7 +249,7 @@
             ]
         },
         {
-            "Title": "Kol HaMusica",
+            "Title": "קול המוסיקה",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_musika.png",
             "EPGProvider": "Kan",
             "EPGStationId": "5",
@@ -260,7 +260,7 @@
             ]
         },
         {
-            "Title": "Tarbut",
+            "Title": "תרבות",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_tarbut.png",
             "EPGProvider": "Kan",
             "EPGStationId": "7",
@@ -271,7 +271,7 @@
             ]
         },
         {
-            "Title": "Reshet Bet",
+            "Title": "רשת ב",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_bet.png",
             "EPGProvider": "Kan",
             "EPGStationId": "8",
@@ -282,7 +282,7 @@
             ]
         },
         {
-            "Title": "Reshet Gimmel",
+            "Title": "רשת ג",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_gimmel.png",
             "EPGProvider": "Kan",
             "EPGStationId": "9",
@@ -293,7 +293,7 @@
             ]
         },
         {
-            "Title": "Moreshet",
+            "Title": "מורשת",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_moreshet.png",
             "EPGProvider": "Kan",
             "EPGStationId": "11",
