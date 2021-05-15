@@ -5,8 +5,6 @@
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
-            "EPGProvider": "Kan",
-            "EPGStationId": "1",
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8",
