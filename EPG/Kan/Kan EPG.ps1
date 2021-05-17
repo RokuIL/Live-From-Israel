@@ -34,9 +34,13 @@ Foreach($stationID in 1, 2, 4, 5, 7, 8, 9, 11, 19)
 # Commit and push
 If ($gitCommit)
 {
-    Write-Host "Committing" -ForegroundColor Green
+    Write-Host "Pulling..." -ForegroundColor Green
     Git pull
+
+    Write-Host "Committing..." -ForegroundColor Green
     Git commit -m "Update EPG" --all
+
+    Write-Host "Pushing..." -ForegroundColor Green
     Git push
 }
 
