@@ -19,15 +19,25 @@ Foreach($stationID in 1, 2, 4, 5, 7, 8, 9, 11, 19)
         }
         Catch
         {
+            Write-Host "Caught an error (check geolocation). Will not commit!" -ForegroundColor Red
             $gitCommit = 0
+            break
         }
+    }
+
+    If ($gitCommit -eq 0)
+    {
+        break
     }
 }
 
 # Commit and push
 If ($gitCommit)
 {
+    Write-Host "Committing" -ForegroundColor Green
     Git pull
     Git commit -m "Update EPG" --all
     Git push
 }
+
+Pause
