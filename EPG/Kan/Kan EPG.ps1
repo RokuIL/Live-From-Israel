@@ -3,6 +3,9 @@ $gitCommit = 1
 # Delete previous files
 Del "Kan-*.json"
 
+# Connect VPN to Israel
+"C:\Program Files\Private Internet Access\piactl.exe set region israel"
+
 # Loop through all stations
 Foreach($stationID in 1, 2, 4, 5, 7, 8, 9, 11, 19)
 {
@@ -31,6 +34,9 @@ Foreach($stationID in 1, 2, 4, 5, 7, 8, 9, 11, 19)
     }
 }
 
+# Connect VPN to Seattle
+"C:\Program Files\Private Internet Access\piactl.exe set region us-seattle"
+
 # Commit and push
 If ($gitCommit)
 {
@@ -46,5 +52,3 @@ If ($gitCommit)
     Write-Host "Pushing..." -ForegroundColor Green
     Git push
 }
-
-Pause
