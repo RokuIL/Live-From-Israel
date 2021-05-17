@@ -4,8 +4,8 @@ Del "Kan-*.json"
 # Loop through all stations
 Foreach($stationID in 1, 2, 4, 5, 7, 8, 9, 11, 19)
 {
-    # Get data for 5 days 
-    For ($i = 0; $i -lt 5; $i++)
+    # Get data for 3 days 
+    For ($i = 0; $i -lt 3; $i++)
     { 
         $date = Get-Date -Date (Get-Date).AddDays($i) -Format "d/M/yyyy"
         $fileName = "Kan-$stationID-$date.json".Replace("/", "-")
