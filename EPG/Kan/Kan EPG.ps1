@@ -37,6 +37,9 @@ If ($gitCommit)
     Write-Host "Pulling..." -ForegroundColor Green
     Git pull
 
+    Write-Host "Adding..." -ForegroundColor Green
+    Git add *.json
+
     Write-Host "Committing..." -ForegroundColor Green
     Git commit -m "Update EPG" --all
 
