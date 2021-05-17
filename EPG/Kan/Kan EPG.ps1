@@ -4,7 +4,8 @@ $gitCommit = 1
 Del "Kan-*.json"
 
 # Connect VPN to Israel
-"C:\Program Files\Private Internet Access\piactl.exe set region israel"
+Start-Process 'C:\Program Files\Private Internet Access\piactl.exe' -ArgumentList 'set region israel'
+Start-Sleep -s 10
 
 # Loop through all stations
 Foreach($stationID in 1, 2, 4, 5, 7, 8, 9, 11, 19)
@@ -35,7 +36,7 @@ Foreach($stationID in 1, 2, 4, 5, 7, 8, 9, 11, 19)
 }
 
 # Connect VPN to Seattle
-"C:\Program Files\Private Internet Access\piactl.exe set region us-seattle"
+Start-Process 'C:\Program Files\Private Internet Access\piactl.exe' -ArgumentList 'set region us-seattle'
 
 # Commit and push
 If ($gitCommit)
