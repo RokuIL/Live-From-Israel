@@ -3,10 +3,6 @@ $gitCommit = 1
 # Delete previous files
 Del "Kan-*.json"
 
-# Connect VPN to Israel
-Start-Process 'C:\Program Files\Private Internet Access\piactl.exe' -ArgumentList 'set region israel'
-Start-Sleep -s 10
-
 # Loop through all stations
 Foreach($stationID in 1, 2, 4, 5, 7, 8, 9, 11, 19)
 {
@@ -24,6 +20,7 @@ Foreach($stationID in 1, 2, 4, 5, 7, 8, 9, 11, 19)
         Catch
         {
             Write-Host "Caught an error (check geolocation). Will not commit!" -ForegroundColor Red
+            Write-Host $Error -ForegroundColor Red
             $gitCommit = 0
             break
         }
@@ -35,21 +32,22 @@ Foreach($stationID in 1, 2, 4, 5, 7, 8, 9, 11, 19)
     }
 }
 
-# Connect VPN to Seattle
-Start-Process 'C:\Program Files\Private Internet Access\piactl.exe' -ArgumentList 'set region us-seattle'
-
 # Commit and push
 If ($gitCommit)
 {
+    "Pulling..." | Out-File -FilePath "c:\tmp\Kan EPG.log" -Append
     Write-Host "Pulling..." -ForegroundColor Green
-    Git pull
+    Git pull | Out-File -FilePath "c:\tmp\Kan EPG.log" -Append
 
+    "Adding..." | Out-File -FilePath "c:\tmp\Kan EPG.log" -Append
     Write-Host "Adding..." -ForegroundColor Green
-    Git add *.json
+    Git add *.json | Out-File -FilePath "c:\tmp\Kan EPG.log" -Append
 
+    "Committing..." | Out-File -FilePath "c:\tmp\Kan EPG.log" -Append
     Write-Host "Committing..." -ForegroundColor Green
-    Git commit -m "Update EPG" --all
+    Git commit -m "Update EPG" --all | Out-File -FilePath "c:\tmp\Kan EPG.log" -Append
 
+    "Pushing..." | Out-File -FilePath "c:\tmp\Kan EPG.log" -Append
     Write-Host "Pushing..." -ForegroundColor Green
-    Git push
+    Git push | Out-File -FilePath "c:\tmp\Kan EPG.log" -Append
 }
