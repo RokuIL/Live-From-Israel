@@ -1,3 +1,5 @@
+$gitCommit = 1
+
 # Delete previous files
 Del "Kan-*.json"
 
@@ -11,6 +13,21 @@ Foreach($stationID in 1, 2, 4, 5, 7, 8, 9, 11, 19)
         $fileName = "Kan-$stationID-$date.json".Replace("/", "-")
         $uri = "https://www.kan.org.il/tv-guide/tv_guidePrograms.ashx?stationID=$stationID&day=$date"
 
-        $Response = Invoke-WebRequest -OutFile $fileName -URI $uri
+        Try 
+        {
+            $Response = Invoke-WebRequest -OutFile $fileName -URI $uri
+        }
+        Catch
+        {
+            $gitCommit = 0
+        }
     }
+}
+
+# Commit and push
+If ($gitCommit)
+{
+    Git pull
+    Git commit -m "Update EPG" --all
+    Git push
 }
