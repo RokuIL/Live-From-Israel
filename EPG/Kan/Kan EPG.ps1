@@ -35,19 +35,17 @@ Foreach($stationID in 1, 2, 4, 5, 7, 8, 9, 11, 19)
 # Commit and push
 If ($gitCommit)
 {
-    "Pulling..." | Out-File -FilePath "c:\tmp\Kan EPG.log" -Append
     Write-Host "Pulling..." -ForegroundColor Green
-    Git pull | Out-File -FilePath "c:\tmp\Kan EPG.log" -Append
+    Git pull
 
-    "Adding..." | Out-File -FilePath "c:\tmp\Kan EPG.log" -Append
     Write-Host "Adding..." -ForegroundColor Green
-    Git add *.json | Out-File -FilePath "c:\tmp\Kan EPG.log" -Append
+    Git add *.json
 
-    "Committing..." | Out-File -FilePath "c:\tmp\Kan EPG.log" -Append
     Write-Host "Committing..." -ForegroundColor Green
-    Git commit -m "Update EPG" --all | Out-File -FilePath "c:\tmp\Kan EPG.log" -Append
+    Git commit -m "$(Get-Date): Update EPG" --all
 
-    "Pushing..." | Out-File -FilePath "c:\tmp\Kan EPG.log" -Append
     Write-Host "Pushing..." -ForegroundColor Green
-    Git push | Out-File -FilePath "c:\tmp\Kan EPG.log" -Append
+    Git push
 }
+
+Pause
