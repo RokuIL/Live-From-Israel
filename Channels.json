@@ -227,7 +227,8 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/eco99fm.png",
             "StreamFormat": "mp3",
             "StreamUrls": [
-                "http://99.livecdn.biz/99fm"
+                "http://99.livecdn.biz/99fm",
+                "http://eco-live.mediacast.co.il/99fm"
             ]
         },
         {
@@ -236,7 +237,8 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/radius_100fm.png",
             "StreamFormat": "mp3",
             "StreamUrls": [
-                "http://100fm.streamgates.net/Radios100Fm"
+                "http://100fm.streamgates.net/Radios100Fm",
+                "http://acdn.streamgates.net/100fm"
             ]
         },
         {
@@ -272,7 +274,7 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ramat_hasharon_106fm.png",
             "StreamFormat": "mp3",
             "StreamUrls": [
-                "http://1036fm.livecast.co.il/live1036fm/"
+                "http://krh.cdnwz.net/1036"
             ]
         },
         {
@@ -281,7 +283,8 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/galilradio_1053.png",
             "StreamFormat": "mp3",
             "StreamUrls": [
-                "http://1053.cdnwz.net/galil"
+                "http://1053.cdnwz.net/galil",
+                "http://radio.streamgates.net/stream/galil"
             ]
         },
         {
@@ -317,7 +320,8 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/haifa_107.png",
             "StreamFormat": "aac_adts",
             "StreamUrls": [
-                "http://ads11.livecdn.biz:80/radiohaifa"
+                "http://ads11.livecdn.biz:80/radiohaifa",
+                "http://1075.livecdn.biz/radiohaifa"
             ]
         },
         {
