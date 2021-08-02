@@ -9,6 +9,7 @@
             "EPGStationId": "1",
             "StreamFormat": "hls",
             "StreamUrls": [
+                "http://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8",
                 "https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8",
                 "https://kanlivep2event-i.akamaihd.net/hls/live/747610-b/747610/playlist.m3u8",
                 "https://www.dailymotion.com/player/metadata/video/x7wjmog"
