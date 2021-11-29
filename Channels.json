@@ -45,11 +45,12 @@
                 "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8"
             ]
         },        {
-            "Title": "ערוץ 20",
-            "TitleEng": "Channel 20",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Channel%2020.png",
+            "Title": "עכשיו 14",
+            "TitleEng": "Now 14",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Now14.png",
             "StreamFormat": "hls",
             "StreamUrls": [
+                "https://dvr.ch20-cdnwiz.com/hls/live_360/index.m3u8",
                 "http://dvr.ch20-cdnwiz.com/hls/live.m3u8"
             ],
             "Headers": [
