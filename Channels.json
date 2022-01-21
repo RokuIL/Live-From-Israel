@@ -58,17 +58,6 @@
             ]
         },
         {
-            "Title": "חדשות N12",
-            "TitleEng": "N12 News",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/n12.png",
-            "StreamFormat": "hls",
-            "StreamUrls": [
-                "https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8",
-                "http://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/master.m3u8",
-                "https://makostore-hd.ctedgecdn.net/Makostore-Vod/_definst_/amlst:http/SHORT/CH22_NEWS/2019/01/mahadura_full_vtr2_n20190129_v1_em/mahadura_full_vtr2_n20190129_v1_em_,850,.mp4/playlist.m3u8"
-            ]
-        },
-        {
             "Title": "חינוכית 23",
             "TitleEng": "Chinuchit 23",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Hinuchit.png",
@@ -109,8 +98,7 @@
             "EPGProvider": "Sport5",
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://sport5-lh.akamaihd.net/i/radio5_0@65353/master.m3u8",
-                "https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/index_1_av-p.m3u8"
+                "https://sport5-lh.akamaihd.net/i/radio5_0@65353/master.m3u8"
             ]
         },
         {
@@ -240,8 +228,7 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/radius_100fm.png",
             "StreamFormat": "mp3",
             "StreamUrls": [
-                "http://100fm.streamgates.net/Radios100Fm",
-                "http://acdn.streamgates.net/100fm"
+                "https://cp.multix.co.il/100FmLiveVideo/index.m3u8"
             ]
         },
         {
@@ -268,16 +255,7 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/103fm.png",
             "StreamFormat": "mp3",
             "StreamUrls": [
-                "https://acdn.streamgates.net/103fm"
-            ]
-        },
-        {
-            "Title": "קול רמת השרון 103.6FM",
-            "TitleEng": "103.6FM - Ramat Hasharon",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ramat_hasharon_106fm.png",
-            "StreamFormat": "mp3",
-            "StreamUrls": [
-                "http://krh.cdnwz.net/1036"
+                "https://cdn.cybercdn.live/103FM/Live/icecast.audio"
             ]
         },
         {
