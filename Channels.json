@@ -5,7 +5,7 @@
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
-            "EPGProvider": "Kan-Workaround",
+            "EPGProvider": "Kan",
             "EPGStationId": "1",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -72,7 +72,7 @@
             "Title": "חינוכית 23",
             "TitleEng": "Chinuchit 23",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Hinuchit.png",
-            "EPGProvider": "Kan-Workaround",
+            "EPGProvider": "Kan",
             "EPGStationId": "19",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -104,7 +104,7 @@
             "Title": "مكان 33",
             "TitleEng": "Makan 33",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Makan.png",
-            "EPGProvider": "Kan-Workaround",
+            "EPGProvider": "Kan",
             "EPGStationId": "2",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -198,7 +198,7 @@
             "Title": "88FM",
             "TitleEng": "88FM",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_88.png",
-            "EPGProvider": "Kan-Workaround",
+            "EPGProvider": "Kan",
             "EPGStationId": "4",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -339,7 +339,7 @@
             "Title": "קול המוסיקה",
             "TitleEng": "Kol Hamusica",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_musika.png",
-            "EPGProvider": "Kan-Workaround",
+            "EPGProvider": "Kan",
             "EPGStationId": "5",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -351,7 +351,7 @@
             "Title": "תרבות",
             "TitleEng": "Tarbut",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_tarbut.png",
-            "EPGProvider": "Kan-Workaround",
+            "EPGProvider": "Kan",
             "EPGStationId": "7",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -363,7 +363,7 @@
             "Title": "רשת ב",
             "TitleEng": "Reshet Bet",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_bet.png",
-            "EPGProvider": "Kan-Workaround",
+            "EPGProvider": "Kan",
             "EPGStationId": "8",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -375,7 +375,7 @@
             "Title": "רשת ג",
             "TitleEng": "Reshet Gimel",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_gimmel.png",
-            "EPGProvider": "Kan-Workaround",
+            "EPGProvider": "Kan",
             "EPGStationId": "9",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -387,7 +387,7 @@
             "Title": "מורשת",
             "TitleEng": "Moreshet",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_moreshet.png",
-            "EPGProvider": "Kan-Workaround",
+            "EPGProvider": "Kan",
             "EPGStationId": "11",
             "StreamFormat": "hls",
             "StreamUrls": [
