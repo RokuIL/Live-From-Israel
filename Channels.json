@@ -1,4 +1,5 @@
 {
+    "PID": "ed7cd847ac135",
     "TimeZoneOffset": "2",
     "Channels": [
         {
@@ -68,6 +69,123 @@
                 "http://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/master.m3u8"
             ]
         },        
+        {
+            "Title": "ספורט 1",
+            "TitleEng": "Sport 1",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-1.png",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium140/chunks.m3u8"
+            ],
+            "Headers": [
+                "Referer:https://player.licenses4.me"
+            ]
+        },
+        {
+            "Title": "ספורט 2",
+            "TitleEng": "Sport 2",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-2.png",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium141/chunks.m3u8"
+            ],
+            "Headers": [
+                "Referer:https://player.licenses4.me"
+            ]
+        },
+        {
+            "Title": "ספורט 3",
+            "TitleEng": "Sport 3",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-3.png",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium142/chunks.m3u8"
+            ],
+            "Headers": [
+                "Referer:https://player.licenses4.me"
+            ]
+        },
+        {
+            "Title": "ספורט 4",
+            "TitleEng": "Sport 4",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-4.png",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium143/chunks.m3u8"
+            ],
+            "Headers": [
+                "Referer:https://player.licenses4.me"
+            ]
+        },
+        {
+            "Title": "ספורט 5",
+            "TitleEng": "Sport 5",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5.jpg",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium144/chunks.m3u8"
+            ],
+            "Headers": [
+                "Referer:https://player.licenses4.me"
+            ]
+        },
+        {
+            "Title": "ספורט 5 פלוס",
+            "TitleEng": "Sport 5 Plus",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Plus.jpg",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium145/chunks.m3u8"
+            ],
+            "Headers": [
+                "Referer:https://player.licenses4.me"
+            ]
+        },
+        {
+            "Title": "ספורט 5 לייב",
+            "TitleEng": "Sport 5 Live",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Live.jpg",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium146/chunks.m3u8"
+            ],
+            "Headers": [
+                "Referer:https://player.licenses4.me"
+            ]
+        },
+        {
+            "Title": "ספורט 5 סטארס",
+            "TitleEng": "Sport 5 Stars",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Stars.jpg",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium147/chunks.m3u8"
+            ],
+            "Headers": [
+                "Referer:https://player.licenses4.me"
+            ]
+        },
+        {
+            "Title": "ספורט 5 גולד",
+            "TitleEng": "Sport 5 Gold",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Gold.jpg",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium148/chunks.m3u8"
+            ],
+            "Headers": [
+                "Referer:https://player.licenses4.me"
+            ]
+        },
         {
             "Title": "חינוכית 23",
             "TitleEng": "Chinuchit 23",
@@ -393,6 +511,32 @@
             "StreamUrls": [
                 "https://kanlivep2event-i.akamaihd.net/hls/live/749629/749629/playlist.m3u8",
                 "https://kanlivep2event-i.akamaihd.net/hls/live/749629-b/749629/playlist.m3u8"
+            ]
+        },
+        {
+            "Title": "סי אן אן ארה'ב",
+            "TitleEng": "CNN USA",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium345/chunks.m3u8"
+            ],
+            "Headers": [
+                "Referer:https://player.licenses4.me"
+            ]
+        },
+        {
+            "Title": "פוקס ניוז",
+            "TitleEng": "Fox News",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium347/chunks.m3u8"
+            ],
+            "Headers": [
+                "Referer:https://player.licenses4.me"
             ]
         }
     ]
