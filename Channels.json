@@ -73,6 +73,8 @@
             "Title": "ספורט 1",
             "TitleEng": "Sport 1",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-1.png",
+            "EPGProvider": "Sport1",
+            "EPGStationId": "1",
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -86,6 +88,8 @@
             "Title": "ספורט 2",
             "TitleEng": "Sport 2",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-2.png",
+            "EPGProvider": "Sport1",
+            "EPGStationId": "3",
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -99,6 +103,8 @@
             "Title": "ספורט 3",
             "TitleEng": "Sport 3",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-3.png",
+            "EPGProvider": "Sport1",
+            "EPGStationId": "4",
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -112,6 +118,8 @@
             "Title": "ספורט 4",
             "TitleEng": "Sport 4",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-4.png",
+            "EPGProvider": "Sport1",
+            "EPGStationId": "5",
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -125,6 +133,8 @@
             "Title": "ספורט 5",
             "TitleEng": "Sport 5",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5.jpg",
+            "EPGProvider": "Sport5TV",
+            "EPGStationId": "5",
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -138,6 +148,8 @@
             "Title": "ספורט 5 פלוס",
             "TitleEng": "Sport 5 Plus",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Plus.jpg",
+            "EPGProvider": "Sport5TV",
+            "EPGStationId": "5P",
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -151,6 +163,8 @@
             "Title": "ספורט 5 לייב",
             "TitleEng": "Sport 5 Live",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Live.jpg",
+            "EPGProvider": "Sport5TV",
+            "EPGStationId": "LIVE",
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -164,6 +178,8 @@
             "Title": "ספורט 5 סטארס",
             "TitleEng": "Sport 5 Stars",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Stars.jpg",
+            "EPGProvider": "Sport5TV",
+            "EPGStationId": "5STARS",
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -177,6 +193,8 @@
             "Title": "ספורט 5 גולד",
             "TitleEng": "Sport 5 Gold",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Gold.jpg",
+            "EPGProvider": "Sport5TV",
+            "EPGStationId": "Gold",
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
