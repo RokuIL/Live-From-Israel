@@ -72,7 +72,7 @@
         {
             "Title": "ספורט 1",
             "TitleEng": "Sport 1",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-1.png",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-1.png",
             "EPGProvider": "Sport1",
             "EPGStationId": "1",
             "Private": "True",
@@ -87,7 +87,7 @@
         {
             "Title": "ספורט 2",
             "TitleEng": "Sport 2",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-2.png",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-3.png",
             "EPGProvider": "Sport1",
             "EPGStationId": "3",
             "Private": "True",
@@ -102,7 +102,7 @@
         {
             "Title": "ספורט 3",
             "TitleEng": "Sport 3",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-3.png",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-4.png",
             "EPGProvider": "Sport1",
             "EPGStationId": "4",
             "Private": "True",
@@ -117,10 +117,10 @@
         {
             "Title": "ספורט 4",
             "TitleEng": "Sport 4",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-4.png",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-5.png",
             "EPGProvider": "Sport1",
             "EPGStationId": "5",
-            "Private": "True",
+           "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://www.mireasa-live.com/cdn/premium143/chunks.m3u8"
