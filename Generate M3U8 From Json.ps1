@@ -1,4 +1,5 @@
-﻿$title = ""
+﻿$channelsStarted = 0
+$title = ""
 $logo = ""
 $private = 0
 $streamUrls = ""
@@ -19,6 +20,16 @@ Foreach ($file in $files)
         {
             If ($line -ne $null)
             {
+                # Get to Channels first
+                If ($line -like "*Channels*")
+                {
+                    $channelsStarted = 1
+                }
+                If ($channelsStarted -eq 0)
+                {
+                    continue
+                }
+                 
                 # "TitleEng": "Kan 11",
                 If ($line -like "*TitleEng*")
                 {
