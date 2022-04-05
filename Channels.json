@@ -254,6 +254,42 @@
             ]
         },
         {
+            "Title": "סי אן אן",
+            "TitleEng": "CNN",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium345/chunks.m3u8"
+            ],
+            "Headers": [
+                "Referer:https://player.licenses4.me"
+            ]
+        },
+        {
+            "Title": "פוקס ניוז",
+            "TitleEng": "Fox News",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium347/chunks.m3u8"
+            ],
+            "Headers": [
+                "Referer:https://player.licenses4.me"
+            ]
+        },
+        {
+            "Title": "איי בי סי ניוז",
+            "TitleEng": "ABC News",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ABCNews.jpg",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
+            ]
+        },
+        {
             "Title": "רדיו ספורט 5",
             "TitleEng": "Radio Sport 5",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport%205%20Radio.jpg",
@@ -534,32 +570,6 @@
             "StreamUrls": [
                 "https://kanlivep2event-i.akamaihd.net/hls/live/749629/749629/playlist.m3u8",
                 "https://kanlivep2event-i.akamaihd.net/hls/live/749629-b/749629/playlist.m3u8"
-            ]
-        },
-        {
-            "Title": "סי אן אן ארה'ב",
-            "TitleEng": "CNN USA",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",
-            "Private": "True",
-            "StreamFormat": "hls",
-            "StreamUrls": [
-                "https://www.mireasa-live.com/cdn/premium345/chunks.m3u8"
-            ],
-            "Headers": [
-                "Referer:https://player.licenses4.me"
-            ]
-        },
-        {
-            "Title": "פוקס ניוז",
-            "TitleEng": "Fox News",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png",
-            "Private": "True",
-            "StreamFormat": "hls",
-            "StreamUrls": [
-                "https://www.mireasa-live.com/cdn/premium347/chunks.m3u8"
-            ],
-            "Headers": [
-                "Referer:https://player.licenses4.me"
             ]
         }
     ]
