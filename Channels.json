@@ -297,6 +297,16 @@
             ]
         },
         {
+            "Title": "יורו ניוז",
+            "TitleEng": "Euronews",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Euronews.png",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/4f2a3e6c8a44297559693a56768bcf04.m3u8"
+            ]
+        },
+        {
             "Title": "רדיו ספורט 5",
             "TitleEng": "Radio Sport 5",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport%205%20Radio.jpg",
