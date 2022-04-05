@@ -57,6 +57,9 @@
             "StreamFormat": "hls",
             "StreamUrls": [
                 "http://dvr.ch20-cdnwiz.com/hls/live.m3u8"
+            ],
+            "Headers": [
+                "user-agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
             ]
         },
         {
