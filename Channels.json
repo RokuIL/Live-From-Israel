@@ -310,6 +310,46 @@
             ]
         },
         {
+            "Title": "חדשות קומו 4",
+            "TitleEng": "Komo 4 News",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Komo4News.png",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://content.uplynk.com/176f230eaaf243bcb75cbccd122944d2.m3u8"
+            ]
+        },
+        {
+            "Title": "חדשות קינג 5",
+            "TitleEng": "King 5 News",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/King5News.png",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/live/live.m3u8"
+            ]
+        },
+        {
+            "Title": "חדשות קירו 7",
+            "TitleEng": "Kiro 7 News",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kiro7News.png",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kiro7seattle-ono/playlist.m3u8"
+            ]
+        },
+        {
+            "Title": "חדשות קיו 13",
+            "TitleEng": "Q13 News",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Q13News.png",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8"
+            ]
+        },
+        {
             "Title": "רדיו ספורט 5",
             "TitleEng": "Radio Sport 5",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport%205%20Radio.jpg",
