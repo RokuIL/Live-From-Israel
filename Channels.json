@@ -55,11 +55,11 @@
             "TitleEng": "Now 14",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Now14.png",
             "StreamFormat": "hls",
-            "StreamUrls": [
-                "http://dvr.ch20-cdnwiz.com/hls/live.m3u8"
-            ],
             "Headers": [
                 "user-agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
+            ],
+            "StreamUrls": [
+                "http://dvr.ch20-cdnwiz.com/hls/live.m3u8"
             ]
         },
         {
@@ -82,11 +82,11 @@
             "EPGStationId": "1",
             "Private": "True",
             "StreamFormat": "hls",
-            "StreamUrls": [
-                "https://www.mireasa-live.com/cdn/premium140/chunks.m3u8"
-            ],
             "Headers": [
                 "Referer:https://player.licenses4.me"
+            ],
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium140/chunks.m3u8"
             ]
         },
         {
@@ -97,11 +97,11 @@
             "EPGStationId": "3",
             "Private": "True",
             "StreamFormat": "hls",
-            "StreamUrls": [
-                "https://www.mireasa-live.com/cdn/premium141/chunks.m3u8"
-            ],
             "Headers": [
                 "Referer:https://player.licenses4.me"
+            ],
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium141/chunks.m3u8"
             ]
         },
         {
@@ -112,11 +112,11 @@
             "EPGStationId": "4",
             "Private": "True",
             "StreamFormat": "hls",
-            "StreamUrls": [
-                "https://www.mireasa-live.com/cdn/premium142/chunks.m3u8"
-            ],
             "Headers": [
                 "Referer:https://player.licenses4.me"
+            ],
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium142/chunks.m3u8"
             ]
         },
         {
@@ -125,13 +125,13 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-5.png",
             "EPGProvider": "Sport1",
             "EPGStationId": "5",
-           "Private": "True",
+            "Private": "True",
             "StreamFormat": "hls",
-            "StreamUrls": [
-                "https://www.mireasa-live.com/cdn/premium143/chunks.m3u8"
-            ],
             "Headers": [
                 "Referer:https://player.licenses4.me"
+            ],
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium143/chunks.m3u8"
             ]
         },
         {
@@ -142,11 +142,11 @@
             "EPGStationId": "5",
             "Private": "True",
             "StreamFormat": "hls",
-            "StreamUrls": [
-                "https://www.mireasa-live.com/cdn/premium144/chunks.m3u8"
-            ],
             "Headers": [
                 "Referer:https://player.licenses4.me"
+            ],
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium144/chunks.m3u8"
             ]
         },
         {
@@ -157,11 +157,11 @@
             "EPGStationId": "5P",
             "Private": "True",
             "StreamFormat": "hls",
-            "StreamUrls": [
-                "https://www.mireasa-live.com/cdn/premium145/chunks.m3u8"
-            ],
             "Headers": [
                 "Referer:https://player.licenses4.me"
+            ],
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium145/chunks.m3u8"
             ]
         },
         {
@@ -172,11 +172,11 @@
             "EPGStationId": "LIVE",
             "Private": "True",
             "StreamFormat": "hls",
-            "StreamUrls": [
-                "https://www.mireasa-live.com/cdn/premium146/chunks.m3u8"
-            ],
             "Headers": [
                 "Referer:https://player.licenses4.me"
+            ],
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium146/chunks.m3u8"
             ]
         },
         {
@@ -187,11 +187,11 @@
             "EPGStationId": "5STARS",
             "Private": "True",
             "StreamFormat": "hls",
-            "StreamUrls": [
-                "https://www.mireasa-live.com/cdn/premium147/chunks.m3u8"
-            ],
             "Headers": [
                 "Referer:https://player.licenses4.me"
+            ],
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium147/chunks.m3u8"
             ]
         },
         {
@@ -202,11 +202,11 @@
             "EPGStationId": "Gold",
             "Private": "True",
             "StreamFormat": "hls",
-            "StreamUrls": [
-                "https://www.mireasa-live.com/cdn/premium148/chunks.m3u8"
-            ],
             "Headers": [
                 "Referer:https://player.licenses4.me"
+            ],
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium148/chunks.m3u8"
             ]
         },
         {
@@ -259,11 +259,13 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",
             "Private": "True",
             "StreamFormat": "hls",
-            "StreamUrls": [
-                "https://www.mireasa-live.com/cdn/premium345/chunks.m3u8"
-            ],
             "Headers": [
-                "Referer:https://player.licenses4.me"
+                "Referer:https://usnewson.com/ https://player.licenses4.me"
+            ],
+            "StreamUrls": [
+                "https://s5.usnlive.com/stream/cnn.m3u8",
+                "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8",
+                "https://www.mireasa-live.com/cdn/premium345/chunks.m3u8"
             ]
         },
         {
@@ -272,11 +274,12 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png",
             "Private": "True",
             "StreamFormat": "hls",
-            "StreamUrls": [
-                "https://www.mireasa-live.com/cdn/premium347/chunks.m3u8"
-            ],
             "Headers": [
-                "Referer:https://player.licenses4.me"
+                "Referer:https://usnewson.com/ https://player.licenses4.me"
+            ],
+            "StreamUrls": [
+                "https://s4.usnlive.com/stream/foxnews.m3u8",
+                "https://www.mireasa-live.com/cdn/premium347/chunks.m3u8"
             ]
         },
         {
