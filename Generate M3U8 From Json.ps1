@@ -1,7 +1,7 @@
 ﻿$channelsStarted = 0
 $title = ""
 $logo = ""
-$private = 0
+$headers = 0
 $streamUrls = ""
 
 $nextLineIsStreamURL = 0
@@ -44,10 +44,10 @@ Foreach ($file in $files)
                     $logo = $regex.Matches($line) | %{ $_.value }
                 }
 
-                # "Private": "True"
-                ElseIf ($line -like "*Private*")
+                # "Headers":
+                ElseIf ($line -like "*Headers*")
                 {
-                    $private = 1
+                    $headers = 1
                 }
 
                 # "StreamUrls": [
@@ -62,14 +62,14 @@ Foreach ($file in $files)
                     $mediaUrl = $regex.Matches($line) | %{ $_.value }
 
                     $test = $excludeList | Where-Object { $_ -in $title }
-                    If (($test -ne $title) -and ($private -ne 1))
+                    If (($test -ne $title) -and ($headers -ne 1))
                     {
                         "" | Out-File -Append -FilePath Channels.m3u8
                         "#EXTINF:0, logo=""$logo"", $title" | Out-File -Append -FilePath Channels.m3u8
                         "$mediaUrl" | Out-File -Append -FilePath Channels.m3u8
                     }
 
-                    $private = 0         
+                    $headers = 0    
                     $nextLineIsStreamURL = 0
                 }
             }
