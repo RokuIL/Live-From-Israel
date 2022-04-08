@@ -330,9 +330,9 @@
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
+                "https://content.uplynk.com/SuNoSwen/index.m3u8?channel=233",
                 "https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/live/live.m3u8",
-                "https://csm-e-cetubiausw2live204-0452e8718248683e8.csm.tubi.video/csm/live/436561509/manifest.m3u8",
-                "https://content.uplynk.com/SuNoSwen/index.m3u8?channel=233"
+                "https://csm-e-cetubiausw2live204-0452e8718248683e8.csm.tubi.video/csm/live/436561509/manifest.m3u8"
             ]
         },
         {
