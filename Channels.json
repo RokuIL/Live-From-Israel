@@ -329,14 +329,14 @@
         {
             "Title": "נשיונל גיאוגרפיק",
             "TitleEng": "National Geographic",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NationalGeographic.png.png",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NationalGeographic.png",
             "Private": "True",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
             ],
             "StreamUrls": [
-                "https://www.mireasa-live.com/cdn/premium338/chunks.m3u8"
+                "https://www.mireasa-live.com/cdn/premium328/chunks.m3u8"
             ]
         },
         {
