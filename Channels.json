@@ -257,6 +257,8 @@
             "Title": "סי אן אן",
             "TitleEng": "CNN",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",
+            "EPGProvider": "742vTsUENG",
+            "EPGStationId": "CNN",
             "Private": "True",
             "StreamFormat": "hls",
             "Headers": [
@@ -272,6 +274,8 @@
             "Title": "פוקס ניוז",
             "TitleEng": "Fox News",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png",
+            "EPGProvider": "742vTsUENG",
+            "EPGStationId": "FNC",
             "Private": "True",
             "StreamFormat": "hls",
             "Headers": [
@@ -317,6 +321,8 @@
             "Title": "דיסקוברי",
             "TitleEng": "Discovery",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Discovery.png",
+            "EPGProvider": "742vTsUENG",
+            "EPGStationId": "DSC",
             "Private": "True",
             "StreamFormat": "hls",
             "Headers": [
@@ -330,6 +336,8 @@
             "Title": "היסטוריה",
             "TitleEng": "History",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/History.png",
+            "EPGProvider": "742vTsUENG",
+            "EPGStationId": "HIST",
             "Private": "True",
             "StreamFormat": "hls",
             "Headers": [
@@ -343,6 +351,8 @@
             "Title": "נשיונל גיאוגרפיק",
             "TitleEng": "National Geographic",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NationalGeographic.png",
+            "EPGProvider": "742vTsUENG",
+            "EPGStationId": "NGC",
             "Private": "True",
             "StreamFormat": "hls",
             "Headers": [
@@ -356,6 +366,8 @@
             "Title": "בית וגן",
             "TitleEng": "HGTV",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/HGTV.png",
+            "EPGProvider": "742vTsUENG",
+            "EPGStationId": "HGTV",
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -376,6 +388,8 @@
             "Title": "טיולים",
             "TitleEng": "Travel",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Travel.png",
+            "EPGProvider": "742vTsUENG",
+            "EPGStationId": "TRAVEL",
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
