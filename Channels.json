@@ -290,6 +290,8 @@
             "Title": "איי בי סי ניוז",
             "TitleEng": "ABC News",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ABCNews.jpg",
+            "EPGProvider": "flixed.io.ENG",
+            "EPGStationId": "113380",
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -300,6 +302,8 @@
             "Title": "אן בי סי ניוז",
             "TitleEng": "NBC News",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png",
+            "EPGProvider": "NBC News ENG",
+            "EPGStationId": "NEWS_NOW",
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -378,6 +382,8 @@
             "Title": "עשה זאת בעצמך",
             "TitleEng": "DIY",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/DIY.png",
+            "EPGProvider": "flixed.io.ENG",
+            "EPGStationId": "67375",
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
