@@ -314,6 +314,19 @@
             ]
         },
         {
+            "Title": "דיסקוברי",
+            "TitleEng": "Discovery",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Discovery.png",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://player.licenses4.me"
+            ],
+            "StreamUrls": [
+                "https://www.mireasa-live.com/cdn/premium313/chunks.m3u8"
+            ]
+        },
+        {
             "Title": "היסטוריה",
             "TitleEng": "History",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/History.png",
