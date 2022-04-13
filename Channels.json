@@ -271,22 +271,6 @@
             ]
         },
         {
-            "Title": "פוקס ניוז",
-            "TitleEng": "Fox News",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png",
-            "EPGProvider": "742vTsUENG",
-            "EPGStationId": "FNC",
-            "Private": "True",
-            "StreamFormat": "hls",
-            "Headers": [
-                "Referer:https://usnewson.com/ https://player.licenses4.me"
-            ],
-            "StreamUrls": [
-                "https://s4.usnlive.com/stream/foxnews.m3u8",
-                "https://www.mireasa-live.com/cdn/premium347/chunks.m3u8"
-            ]
-        },
-        {
             "Title": "איי בי סי ניוז",
             "TitleEng": "ABC News",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ABCNews.jpg",
@@ -330,9 +314,10 @@
             "Private": "True",
             "StreamFormat": "hls",
             "Headers": [
-                "Referer:https://player.licenses4.me"
+                "Referer:http://tv247.us/ https://player.licenses4.me"
             ],
             "StreamUrls": [
+                "http://live.tv247.club/tv247/discovery.m3u8",
                 "https://www.mireasa-live.com/cdn/premium313/chunks.m3u8"
             ]
         },
@@ -345,9 +330,10 @@
             "Private": "True",
             "StreamFormat": "hls",
             "Headers": [
-                "Referer:https://player.licenses4.me"
+                "Referer:http://tv247.us/ https://player.licenses4.me"
             ],
             "StreamUrls": [
+                "http://live.tv247.club/tv247/history.m3u8",
                 "https://www.mireasa-live.com/cdn/premium322/chunks.m3u8"
             ]
         },
@@ -374,8 +360,12 @@
             "EPGStationId": "HGTV",
             "Private": "True",
             "StreamFormat": "hls",
+            "Headers": [
+                "Referer:http://tv247.us/"
+            ],
             "StreamUrls": [
-                "https://content.uplynk.com/742vTsU/index.m3u8?channel=HGTV"
+                "https://content.uplynk.com/742vTsU/index.m3u8?channel=HGTV",
+                "http://live.tv247.club/tv247/hgtv.m3u8"
             ]
         },
         {
