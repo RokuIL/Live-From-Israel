@@ -400,6 +400,9 @@
             "EPGStationId": "10240",
             "Private": "True",
             "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://player.licenses4.me"
+            ],
             "StreamUrls": [
                 "https://uload.ru.com/cdn/premium321/chunks.m3u8"
             ]
