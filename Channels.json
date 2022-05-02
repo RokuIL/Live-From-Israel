@@ -581,7 +581,7 @@
             "Title": "רדיו קול ברמה 91.2FM",
             "TitleEng": "91.2FM - Kol BaRama",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kolbarama_92.png",
-            "StreamFormat": "mp3",
+            "StreamFormat": "aac_adts",
             "StreamUrls": [
                 "http://kb.cdnwz.net/kol_barama"
             ]
