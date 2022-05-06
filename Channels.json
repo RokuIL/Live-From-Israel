@@ -1,5 +1,5 @@
 {
-    "PID": "eyd2b480523dcccd4555d261f3, asd20c280133c3, ya17dafb1dac4afa17c314bfb1, yo059673bc8497, dbe90378f86e044f9d01009b00, es4fdefbb3a9f7",
+    "PID": "eyd7cd847ac135d2b480523dcccd4555d261f3, asd20c280133c3, ya17dafb1dac4afa17c314bfb1, yo059673bc8497, dbe90378f86e044f9d01009b00, es4fdefbb3a9f7",
     "SystemMessage":
         {
             "DST" : "",
@@ -82,6 +82,7 @@
             "EPGProvider": "Sport1",
             "EPGStationId": "1",
             "Private": "True",
+            "BufferingTimer": "10",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
@@ -97,6 +98,7 @@
             "EPGProvider": "Sport1",
             "EPGStationId": "3",
             "Private": "True",
+            "BufferingTimer": "10",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
@@ -112,6 +114,7 @@
             "EPGProvider": "Sport1",
             "EPGStationId": "4",
             "Private": "True",
+            "BufferingTimer": "10",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
@@ -127,6 +130,7 @@
             "EPGProvider": "Sport1",
             "EPGStationId": "5",
             "Private": "True",
+            "BufferingTimer": "10",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
@@ -142,6 +146,7 @@
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5",
             "Private": "True",
+            "BufferingTimer": "10",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
@@ -157,6 +162,7 @@
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5P",
             "Private": "True",
+            "BufferingTimer": "10",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
@@ -172,6 +178,7 @@
             "EPGProvider": "Sport5TV",
             "EPGStationId": "LIVE",
             "Private": "True",
+            "BufferingTimer": "10",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
@@ -187,6 +194,7 @@
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5STARS",
             "Private": "True",
+            "BufferingTimer": "10",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
@@ -202,6 +210,7 @@
             "EPGProvider": "Sport5TV",
             "EPGStationId": "Gold",
             "Private": "True",
+            "BufferingTimer": "10",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
@@ -313,6 +322,7 @@
             "EPGProvider": "742vTsUENG",
             "EPGStationId": "DSC",
             "Private": "True",
+            "BufferingTimer": "10",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:http://tv247.us/ https://player.licenses4.me"
@@ -329,6 +339,7 @@
             "EPGProvider": "742vTsUENG",
             "EPGStationId": "HIST",
             "Private": "True",
+            "BufferingTimer": "10",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:http://tv247.us/ https://player.licenses4.me"
@@ -345,6 +356,7 @@
             "EPGProvider": "742vTsUENG",
             "EPGStationId": "NGC",
             "Private": "True",
+            "BufferingTimer": "10",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
@@ -400,6 +412,7 @@
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "10240",
             "Private": "True",
+            "BufferingTimer": "10",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
@@ -415,6 +428,7 @@
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "11115",
             "Private": "True",
+            "BufferingTimer": "10",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
