@@ -82,7 +82,7 @@
             "EPGProvider": "Sport1",
             "EPGStationId": "2",
             "Private": "True",
-            "BufferingTimer": "10",
+            "BufferingTimer": "30",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
@@ -98,7 +98,7 @@
             "EPGProvider": "Sport1",
             "EPGStationId": "3",
             "Private": "True",
-            "BufferingTimer": "10",
+            "BufferingTimer": "30",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
@@ -114,7 +114,7 @@
             "EPGProvider": "Sport1",
             "EPGStationId": "4",
             "Private": "True",
-            "BufferingTimer": "10",
+            "BufferingTimer": "30",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
@@ -130,7 +130,7 @@
             "EPGProvider": "Sport1",
             "EPGStationId": "5",
             "Private": "True",
-            "BufferingTimer": "10",
+            "BufferingTimer": "30",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
@@ -146,7 +146,7 @@
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5",
             "Private": "True",
-            "BufferingTimer": "10",
+            "BufferingTimer": "30",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
@@ -162,7 +162,7 @@
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5P",
             "Private": "True",
-            "BufferingTimer": "10",
+            "BufferingTimer": "30",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
@@ -178,7 +178,7 @@
             "EPGProvider": "Sport5TV",
             "EPGStationId": "LIVE",
             "Private": "True",
-            "BufferingTimer": "10",
+            "BufferingTimer": "30",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
@@ -194,7 +194,7 @@
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5STARS",
             "Private": "True",
-            "BufferingTimer": "10",
+            "BufferingTimer": "30",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
@@ -210,7 +210,7 @@
             "EPGProvider": "Sport5TV",
             "EPGStationId": "Gold",
             "Private": "True",
-            "BufferingTimer": "10",
+            "BufferingTimer": "30",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
