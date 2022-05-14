@@ -668,7 +668,7 @@
             "Title": "רדיו ללא הפסקה 103FM",
             "TitleEng": "103FM - Lelo Hafsaka",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/103fm.png",
-            "StreamFormat": "mp3",
+            "StreamFormat": "aac_adts",
             "StreamUrls": [
                 "https://cdn.cybercdn.live/103FM/Live/icecast.audio"
             ]
