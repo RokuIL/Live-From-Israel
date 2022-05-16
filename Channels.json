@@ -322,14 +322,14 @@
             "EPGProvider": "742vTsUENG",
             "EPGStationId": "DSC",
             "Private": "True",
-            "BufferingTimer": "10",
+            "BufferingTimer": "30",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:http://tv247.us/ https://player.licenses4.me"
             ],
             "StreamUrls": [
-                "https://www.webcsn.ru.com/cdn/premium313/chunks.m3u8",
-                "http://live.tv247.club/tv247/discovery.m3u8"
+                "http://live.tv247.club/tv247/discovery.m3u8",
+                "https://www.webcsn.ru.com/cdn/premium313/chunks.m3u8"
             ]
         },
         {
@@ -339,14 +339,14 @@
             "EPGProvider": "742vTsUENG",
             "EPGStationId": "HIST",
             "Private": "True",
-            "BufferingTimer": "10",
+            "BufferingTimer": "30",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:http://tv247.us/ https://player.licenses4.me"
             ],
             "StreamUrls": [
-                "https://www.webcsn.ru.com/cdn/premium322/chunks.m3u8",
-                "http://live.tv247.club/tv247/history.m3u8"
+                "http://live.tv247.club/tv247/history.m3u8",
+                "https://www.webcsn.ru.com/cdn/premium322/chunks.m3u8"
             ]
         },
         {
@@ -356,7 +356,7 @@
             "EPGProvider": "742vTsUENG",
             "EPGStationId": "NGC",
             "Private": "True",
-            "BufferingTimer": "10",
+            "BufferingTimer": "30",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://player.licenses4.me"
