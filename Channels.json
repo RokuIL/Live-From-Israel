@@ -578,11 +578,9 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_88.png",
             "EPGProvider": "Kan",
             "EPGStationId": "4",
-            "StreamFormat": "hls",
+            "StreamFormat": "mp3",
             "StreamUrls": [
-                "https://kanlivep2event-i.akamaihd.net/hls/live/749623/749623/playlist.m3u8",
-                "https://kanlivep2event-i.akamaihd.net/hls/live/749623-b/749623/playlist.m3u8",
-                "https://www.dailymotion.com/player/metadata/video/x7ynlhs"
+                "http://kanliveicy.media.kan.org.il/icy/kan88_mp3"
             ]
         },
         {
@@ -751,11 +749,9 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_tarbut.png",
             "EPGProvider": "Kan",
             "EPGStationId": "7",
-            "StreamFormat": "hls",
+            "StreamFormat": "mp3",
             "StreamUrls": [
-                "https://kanlivep2event-i.akamaihd.net/hls/live/749634/749634/playlist.m3u8",
-                "https://kanlivep2event-i.akamaihd.net/hls/live/749634-b/749634/playlist.m3u8",
-                "https://www.dailymotion.com/player/metadata/video/x7yx61r"
+                "http://kanliveicy.media.kan.org.il/icy/kantarbut_mp3"
             ]
         },
         {
@@ -764,11 +760,9 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_bet.png",
             "EPGProvider": "Kan",
             "EPGStationId": "8",
-            "StreamFormat": "hls",
+            "StreamFormat": "mp3",
             "StreamUrls": [
-                "https://kanlivep2event-i.akamaihd.net/hls/live/749624/749624/playlist.m3u8",
-                "https://kanlivep2event-i.akamaihd.net/hls/live/749624-b/749624/playlist.m3u8",
-                "https://www.dailymotion.com/player/metadata/video/x7yx5xn"
+                "http://kanliveicy.media.kan.org.il/icy/kanbet_mp3"
             ]
         },
         {
@@ -777,11 +771,9 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_gimmel.png",
             "EPGProvider": "Kan",
             "EPGStationId": "9",
-            "StreamFormat": "hls",
+            "StreamFormat": "mp3",
             "StreamUrls": [
-                "https://kanlivep2event-i.akamaihd.net/hls/live/749625/749625/playlist.m3u8",
-                "https://kanlivep2event-i.akamaihd.net/hls/live/749625-b/749625/playlist.m3u8",
-                "https://www.dailymotion.com/player/metadata/video/x7yx5yq"
+                "http://kanliveicy.media.kan.org.il/icy/kangimmel_mp3"
             ]
         },
         {
@@ -790,11 +782,9 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_moreshet.png",
             "EPGProvider": "Kan",
             "EPGStationId": "11",
-            "StreamFormat": "hls",
+            "StreamFormat": "mp3",
             "StreamUrls": [
-                "https://kanlivep2event-i.akamaihd.net/hls/live/749629/749629/playlist.m3u8",
-                "https://kanlivep2event-i.akamaihd.net/hls/live/749629-b/749629/playlist.m3u8",
-                "https://www.dailymotion.com/player/metadata/video/x7ynlg6"
+                "http://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3"
             ]
         }
     ]
