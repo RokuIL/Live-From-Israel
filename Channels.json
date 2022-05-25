@@ -16,8 +16,6 @@
             "StreamFormat": "hls",
             "StreamUrls": [
                 "http://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8",
-                "https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8",
-                "https://kanlivep2event-i.akamaihd.net/hls/live/747610-b/747610/playlist.m3u8",
                 "https://www.dailymotion.com/player/metadata/video/x7wjmog"
             ]
         },
@@ -238,8 +236,7 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/24.jpg",
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8",
-                "http://keshethlslive-lh.akamaihd.net@@MAKO:lp=@@/i/24live_1@195271/master.m3u8@@?b=200-2500&@@TICKET@@"
+                "https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8"
             ]
         },
         {
@@ -736,11 +733,9 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_musika.png",
             "EPGProvider": "Kan",
             "EPGStationId": "5",
-            "StreamFormat": "hls",
+            "StreamFormat": "mp3",
             "StreamUrls": [
-                "https://kanlivep2event-i.akamaihd.net/hls/live/749627/749627/playlist.m3u8",
-                "https://kanlivep2event-i.akamaihd.net/hls/live/749627-b/749627/playlist.m3u8",
-                "https://kankolhamusica.media.kan.org.il/hls/live/2024817/2024817/playlist.m3u8"        
+                "http://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3"
             ]
         },
         {
