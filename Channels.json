@@ -26,6 +26,9 @@
             "EPGProvider": "Mako",
             "StreamFormat": "hls",
             "StreamUrls": [
+                "http://mako-streaming.akamaized.net/direct/hls/live/2035325/k12cc/index_2200.m3u8",
+                "http://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index_2200.m3u8",
+                "http://mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index_2200.m3u8",
                 "https://mako-streaming.akamaized.net@@MAKO:lp=@@/stream/hls/live/2033791/k12dvr/index.m3u8@@?b-in-range=800-2400&@@TICKET@@"
             ]
         },
@@ -36,7 +39,9 @@
             "EPGProvider": "Reshet",
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8"
+                "http://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8",
+                "http://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8",
+                "http://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8"
             ]
         },
         {
@@ -57,7 +62,8 @@
                 "user-agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
             ],
             "StreamUrls": [
-                "http://dvr.ch20-cdnwiz.com/hls/live.m3u8"
+                "http://dvr.ch20-cdnwiz.com/hls/live.m3u8",
+                "http://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8"
             ]
         },
         {
@@ -225,8 +231,7 @@
             "EPGStationId": "19",
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8",
-                "https://kanlivep2event-i.akamaihd.net/hls/live/747600-b/747600/playlist.m3u8",
+                "http://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8,"
                 "https://www.dailymotion.com/player/metadata/video/x7ymw7f"
             ]
         },
@@ -236,6 +241,7 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/24.jpg",
             "StreamFormat": "hls",
             "StreamUrls": [
+                "http://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24/index_2200.m3u8",
                 "https://mako-streaming.akamaized.net@@MAKO:lp=@@/direct/hls/live/2035340/ch24/index.m3u8@@?b-in-range=800-2400&@@TICKET@@"
             ]
         },
@@ -257,8 +263,7 @@
             "EPGStationId": "2",
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/playlist.m3u8",
-                "https://kanlivep2event-i.akamaihd.net/hls/live/747613-b/747613/playlist.m3u8",
+                "http://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8",
                 "https://www.dailymotion.com/player/metadata/video/x7ymw2l"
             ]
         },
