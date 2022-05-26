@@ -6,7 +6,7 @@ $streamUrls = ""
 
 $nextLineIsStreamURL = 0
 
-$excludeList = "Keshet 12", "N12 News"
+$excludeList = "N12 News"
 
 $files = Get-ChildItem -File -Path * -Include Channels.json
 Foreach ($file in $files)
