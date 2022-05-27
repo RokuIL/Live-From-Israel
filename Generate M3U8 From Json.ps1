@@ -1,4 +1,6 @@
-﻿$channelsStarted = 0
+$PSDefaultParameterValues['Out-File:Encoding'] = 'utf8'
+
+$channelsStarted = 0
 $title = ""
 $logo = ""
 $headers = 0
