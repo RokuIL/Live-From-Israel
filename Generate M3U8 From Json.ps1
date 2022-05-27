@@ -6,7 +6,7 @@ $streamUrls = ""
 
 $nextLineIsStreamURL = 0
 
-$excludeList = "N12 News"
+$excludeList = "YYYY", "@@", "SuNoSwen", "742vTsU"
 
 $files = Get-ChildItem -File -Path * -Include Channels.json
 Foreach ($file in $files)
@@ -61,8 +61,8 @@ Foreach ($file in $files)
                     $regex = [regex] "(?<="").*(?="")"
                     $mediaUrl = $regex.Matches($line) | %{ $_.value }
 
-                    $test = $excludeList | Where-Object { $_ -in $title }
-                    If (($test -ne $title) -and ($headers -ne 1))
+                    $test = $excludeList | Where-Object { $mediaUrl.Contains($_)}
+                    If (($test -eq $null) -and ($headers -ne 1))
                     {
                         "" | Out-File -Append -FilePath Channels.m3u8
                         "#EXTINF:0, logo=""$logo"", $title" | Out-File -Append -FilePath Channels.m3u8
