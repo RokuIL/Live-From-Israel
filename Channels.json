@@ -27,9 +27,9 @@
             "EPGProvider": "Mako",
             "StreamFormat": "hls",
             "StreamUrls": [
+                "https://mako-streaming.akamaized.net@@MAKO:lp=@@/stream/hls/live/2033791/k12dvr/index.m3u8@@?b-in-range=800-2400&@@TICKET@@",
                 "http://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index_2200.m3u8",
                 "http://mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index_2200.m3u8",
-                "https://mako-streaming.akamaized.net@@MAKO:lp=@@/stream/hls/live/2033791/k12dvr/index.m3u8@@?b-in-range=800-2400&@@TICKET@@",
                 "http://mako-streaming.akamaized.net/direct/hls/live/2035325/k12cc/index_2200.m3u8"
             ]
         },
@@ -37,7 +37,8 @@
             "Title": "רשת 13",
             "TitleEng": "Reshet 13",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.png",
-            "EPGProvider": "Reshet",
+            "EPGProvider": "Text",
+            "EPGStationId": "יתוקן תוך מספר ימים.",        
             "StreamFormat": "hls",
             "StreamUrls": [
                 "http://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8",
