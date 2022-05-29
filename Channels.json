@@ -1,5 +1,5 @@
 {
-    "PID": "eyd7cd847ac135d2b480523dcccd4555d261f3428031f72ec4, asd20c280133c3, ya17dafb1dac4afa17c314bfb1, yo059673bc8497, dbe90378f86e044f9d01009b00, es4fdefbb3a9f728683a6714f1",
+    "PID": "eyd7cd847ac135d2b480523dcccd4555d261f3428031f72ec4, asd20c280133c3, ya17dafb1dac4afa17c314bfb1, yo059673bc8497, dbe90378f86e044f9d01009b00, es4fdefbb3a9f728683a6714f1, rk7886fd311ccd",
     "SystemMessage":
         {
             "DST" : "",
@@ -38,7 +38,7 @@
             "TitleEng": "Reshet 13",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.png",
             "EPGProvider": "Text",
-            "EPGStationId": "יתוקן תוך מספר ימים.",        
+            "EPGStationId": "לוח השידורים יתוקן ביום שלישי.",        
             "StreamFormat": "hls",
             "StreamUrls": [
                 "http://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8",
