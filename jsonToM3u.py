@@ -10,7 +10,7 @@ def main(args):
 
   ext = '.'+ os.path.realpath(args[0]).split('.')[-1:][0]
   m3uFilePath = args[0].replace(ext,'')
-  m3uFilePath = args[0] + '.m3u'
+  m3uFilePath = m3uFilePath + '.m3u'
 
   print("Opening JSON file " + args[0])
   print("Writing to file " + m3uFilePath)
