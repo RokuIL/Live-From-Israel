@@ -3,7 +3,8 @@
     "SystemMessage":
         {
             "DST" : "",
-            "Message" : "ערוץ כאן 11 נחסם לעיתים קרובות מחוץ לישראל. בערוץ חינוכית 23 יש בעיה ידועה. ערוץ 26 האח הגדול לא זמין מחוץ לישראל."
+            "Repeat" : "3",
+            "Message" : "ערוץ כאן 11 נחסם לעיתים קרובות מחוץ לישראל. בערוץ חינוכית 23 יש בעיה ידועה. ערוץ האח הגדול 26 לא זמין מחוץ לישראל."
         },
     "TimeZoneOffset": "3",
     "Channels": [
@@ -538,7 +539,7 @@
             ]
         },
         {
-            "Title": "גלגל'צ  ים תיכוני",
+            "Title": "גלגל'צ ים תיכוני",
             "TitleEng": "Galgalaz - Mediterranean",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-med.png",
             "StreamFormat": "mp3",
