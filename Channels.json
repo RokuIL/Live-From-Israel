@@ -224,6 +224,20 @@
             ]
         },
         {
+            "Title": "ספורט One 1",
+            "TitleEng": "Sport One 1",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-1.png",
+            "Private": "True",
+            "BufferingTimer": "5",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://player.licenses4.me"
+            ],
+            "StreamUrls": [
+                "https://netwrk.ru.com/cdn/premium541/chunks.m3u8"
+            ]
+        },
+        {
             "Title": "חינוכית 23",
             "TitleEng": "Chinuchit 23",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Hinuchit.png",
