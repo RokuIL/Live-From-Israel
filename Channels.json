@@ -255,6 +255,8 @@
             "Title": "ערוץ 24 החדש",
             "TitleEng": "Channel 24",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/24.jpg",
+            "EPGProvider": "Walla",
+            "EPGStationId": "255",
             "StreamFormat": "hls",
             "StreamUrls": [
                 "http://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24/index_2200.m3u8",
