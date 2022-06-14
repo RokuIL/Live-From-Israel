@@ -224,9 +224,11 @@
             ]
         },
         {
-            "Title": "ספורט One 1",
+            "Title": "ספורט 1 One",
             "TitleEng": "Sport One 1",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-1.png",
+            "EPGProvider": "aidemarsi",
+            "EPGStationId": "12564",
             "Private": "True",
             "BufferingTimer": "5",
             "StreamFormat": "hls",
