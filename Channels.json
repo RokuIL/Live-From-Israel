@@ -2,9 +2,9 @@
     "PID": "eyd7cd847ac135d2b480523dcccd4555d261f3428031f72ec4, asd20c280133c3, ya17dafb1dac4afa17c314bfb1, yo059673bc8497, dbe90378f86e044f9d01009b00, es4fdefbb3a9f728683a6714f1, rk7886fd311ccd",
     "SystemMessage":
         {
-            "DST" : "a984eee645fc7ce693b2c",
+            "DST" : "",
             "Repeat" : "3",
-            "Message" : "ערוץ כאן 11 נחסם לעיתים קרובות מחוץ לישראל."
+            "Message" : ""
         },
     "TimeZoneOffset": "3",
     "Channels": [
@@ -221,6 +221,36 @@
             ],
             "StreamUrls": [
                 "https://netwrk.ru.com/cdn/premium148/chunks.m3u8"
+            ]
+        },
+        {
+            "Title": "ספורט 1 One",
+            "TitleEng": "Sport One 1",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-1.png",
+            "EPGProvider": "Walla",
+            "EPGStationId": "3551",
+            "Private": "True",
+            "BufferingTimer": "5",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://player.licenses4.me"
+            ],
+            "StreamUrls": [
+                "https://netwrk.ru.com/cdn/premium541/chunks.m3u8"
+            ]
+        },
+        {
+            "Title": "ספורט 2 One",
+            "TitleEng": "Sport One 2",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-2.png",
+            "Private": "True",
+            "BufferingTimer": "5",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://player.licenses4.me"
+            ],
+            "StreamUrls": [
+                "https://netwrk.ru.com/cdn/premium542/chunks.m3u8"
             ]
         },
         {
