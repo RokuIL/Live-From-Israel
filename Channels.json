@@ -531,7 +531,7 @@
             "EPGProvider": "Sport5",
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://sport5-lh.akamaihd.net/i/radio5_0@65353/master.m3u8"
+                "https://rgelive.akamaized.net/hls/live/2043150/radio5/playlistMain_Aud_.m3u8"
             ]
         },
         {
