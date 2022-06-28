@@ -4,7 +4,7 @@
         {
             "DST" : "",
             "Repeat" : "3",
-            "Message" : "חדשות N12 לא עובד כרגע, גם לא באתר."
+            "Message" : ""
         },
     "TimeZoneOffset": "3",
     "Channels": [
@@ -67,7 +67,8 @@
             "EPGStationId": "מהדורת החדשות האחרונה. מתעדכן כל יום בשעה .22:00",        
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://makostore-vh.akamaihd.net/i/SHORT/CH22_NEWS/YYYY/MM/mahadura_full_vtr2_nYYYYMMDD_v1/mahadura_full_vtr2_nYYYYMMDD_v1_,850,.mp4.csmil/master.m3u8"
+                "https://makostore-vh.akamaihd.net/i/SHORT/CH22_NEWS/YYYY/MM/mahadura_full_vtr2_nYYYYMMDD_v1/mahadura_full_vtr2_nYYYYMMDD_v1_,850,.mp4.csmil/master.m3u8",
+                "https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index_2200.m3u8"
             ]
         },        
         {
