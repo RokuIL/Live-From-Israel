@@ -83,6 +83,7 @@
             "BufferingTimer": "5",
             "StreamFormat": "hls",
             "Headers": [
+                "Origin:https://player.licenses4.me",
                 "Referer:https://player.licenses4.me"
             ],
             "StreamUrls": [
