@@ -72,6 +72,22 @@
             ]
         },        
         {
+            "Title": "ספורט 1",
+            "TitleEng": "Sport 1",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-1.png",
+            "EPGProvider": "Sport1",
+            "EPGStationId": "2",
+            "Private": "True",
+            "BufferingTimer": "30",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://best.globalweb.ru.com/cdn/premium140/playlist.m3u8"
+            ]
+        },
+        {
             "Title": "ספורט 2",
             "TitleEng": "Sport 2",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-3.png",
@@ -196,7 +212,79 @@
                 "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://best.globalweb.ru.com/cdn/premium140/playlist.m3u8"
+                "https://best.globalweb.ru.com/cdn/premium541/playlist.m3u8"
+            ]
+        },
+        {
+            "Title": "ספורט 2 One",
+            "TitleEng": "Sport One 2",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-2.png",
+            "Private": "True",
+            "BufferingTimer": "30",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://best.globalweb.ru.com/cdn/premium542/playlist.m3u8"
+            ]
+        },
+        {
+            "Title": "ערוץ ההומור",
+            "TitleEng": "Humor Channel",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Humor.jpg",
+            "Private": "True",
+            "BufferingTimer": "30",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://best.globalweb.ru.com/cdn/premium551/playlist.m3u8"
+            ]
+        },
+        {
+            "Title": "הוט אייטש בי או",
+            "TitleEng": "Hot HBO",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/HotHBO.jpg",
+            "Private": "True",
+            "BufferingTimer": "30",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://best.globalweb.ru.com/cdn/premium552/playlist.m3u8"
+            ]
+        },
+        {
+            "Title": "הוט 3",
+            "TitleEng": "Hot 3",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Hot3.png",
+            "EPGProvider": "Walla",
+            "EPGStationId": "353",
+            "Private": "True",
+            "BufferingTimer": "30",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://best.globalweb.ru.com/cdn/premium553/playlist.m3u8"
+            ]
+        },
+        {
+            "Title": "יס סרטי ילדים",
+            "TitleEng": "Yes Movies Kids",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesKids.png",
+            "Private": "True",
+            "BufferingTimer": "30",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://best.globalweb.ru.com/cdn/premium544/playlist.m3u8"
             ]
         },
         {
@@ -206,8 +294,12 @@
             "EPGProvider": "Walla",
             "EPGStationId": "255",
             "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
             "StreamUrls": [
                 "http://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24/index_2200.m3u8",
+                "https://best.globalweb.ru.com/cdn/premium549/playlist.m3u8",
                 "https://mako-streaming.akamaized.net@@MAKO:lp=@@/direct/hls/live/2035340/ch24/index.m3u8@@?b-in-range=800-2400&@@TICKET@@"
             ]
         },
@@ -254,10 +346,11 @@
             "EPGStationId": "CNN",
             "StreamFormat": "hls",
             "Headers": [
-                "Referer:https://usnewson.com/"
+                "Referer:https://usnewson.com/ https://olacast.live/"
             ],
             "StreamUrls": [
                 "https://s2.usnlive.com/stream/cnn.m3u8",
+                "https://best.globalweb.ru.com/cdn/premium345/playlist.m3u8",
                 "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8"
             ]
         },
@@ -301,10 +394,11 @@
             "BufferingTimer": "30",
             "StreamFormat": "hls",
             "Headers": [
-                "Referer:http://tv247.us/"
+                "Referer:http://tv247.us/ https://olacast.live/"
             ],
             "StreamUrls": [
-                "http://live.tv247.club/tv247/discovery.m3u8"
+                "http://live.tv247.club/tv247/discovery.m3u8",
+                "https://best.globalweb.ru.com/cdn/premium313/playlist.m3u8"
             ]
         },
         {
@@ -316,12 +410,29 @@
             "BufferingTimer": "30",
             "StreamFormat": "hls",
             "Headers": [
-                "Referer:http://tv247.us/"
+                "Referer:http://tv247.us/ https://olacast.live/"
             ],
             "StreamUrls": [
-                "http://live.tv247.club/tv247/history.m3u8"
+                "http://live.tv247.club/tv247/history.m3u8",
+                "https://best.globalweb.ru.com/cdn/premium322/playlist.m3u8"
             ]
         },
+        {
+            "Title": "נשיונל גיאוגרפיק",
+            "TitleEng": "National Geographic",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NationalGeographic.png",
+            "EPGProvider": "742vTsUENG",
+            "EPGStationId": "NGC",
+            "Private": "True",
+            "BufferingTimer": "30",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://best.globalweb.ru.com/cdn/premium328/playlist.m3u8"
+            ]
+        },        
         {
             "Title": "בית וגן",
             "TitleEng": "HGTV",
