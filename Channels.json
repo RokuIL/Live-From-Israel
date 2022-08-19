@@ -523,6 +523,8 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Search.png",
             "Private": "True",
             "BufferingTimer": "5",
+            "EPGProvider": "Text",
+            "EPGStationId": "חיפוש ערוצים בלחיצה על חץ למעלה (+1), למטה (1-), ימינה (+100) או שמאלה (100-).",        
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"
