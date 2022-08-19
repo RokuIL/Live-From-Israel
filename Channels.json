@@ -1,5 +1,5 @@
 {
-    "PID": "eykd8397f75ba191c138fjll9307a886a13f9339djh38de4323cb26cb7h37f, as38d4ca98629553ee932, ya209a5ad8ea3533924hd",
+    "PID": "eykd8397f75ba191c138fjll9307a886a13f9339djh38de4323cb26cb7h37f9dj3d7cd847ac1353j8l, as38d4ca98629553ee932, ya209a5ad8ea3533924hd",
     "SystemMessage":
         {
             "DST" : "",
@@ -515,6 +515,20 @@
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8"
+            ]
+        },
+        {
+            "Title": "סריקה",
+            "TitleEng": "Scan",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Search.png",
+            "Private": "True",
+            "BufferingTimer": "5",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://best.globalweb.ru.com/cdn/premium[1]-[999]/playlist.m3u8"
             ]
         },
         {
