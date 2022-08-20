@@ -301,13 +301,13 @@
             "BufferingTimer": "30",
             "StreamFormat": "hls",
             "Headers": [
-                "Referer:https://player.licenses4.me"
+                "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
                 "https://srv.vhls.ru.com/cdn/premium543/playlist.m3u8"
             ]
         },
-        {
+                {
             "Title": "ערוץ 24 החדש",
             "TitleEng": "Channel 24",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/24.jpg",
@@ -397,12 +397,27 @@
             ]
         },
         {
-            "Title": "יורו ניוז",
-            "TitleEng": "Euronews",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Euronews.png",
+            "Title": "אם אס אן בי סי",
+            "TitleEng": "MSNBC",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/MSNBC.png",
             "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
             "StreamUrls": [
-                "https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/4f2a3e6c8a44297559693a56768bcf04.m3u8"
+                "https://best.globalweb.ru.com/cdn/premium327/playlist.m3u8"
+            ]
+        },
+        {
+            "Title": "בי בי סי חדשות העולם",
+            "TitleEng": "BBC World News",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/BBCWorldNews.png",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://best.globalweb.ru.com/cdn/premium349/playlist.m3u8"
             ]
         },
         {
