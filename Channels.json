@@ -400,6 +400,8 @@
             "Title": "אם אס אן בי סי",
             "TitleEng": "MSNBC",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/MSNBC.png",
+            "EPGProvider": "flixed.io.ENG",
+            "EPGStationId": "16300",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"
@@ -412,6 +414,8 @@
             "Title": "בי בי סי חדשות העולם",
             "TitleEng": "BBC World News",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/BBCWorldNews.png",
+            "EPGProvider": "flixed.io.ENG",
+            "EPGStationId": "89690",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"
