@@ -292,6 +292,22 @@
             ]
         },
         {
+            "Title": "יס סרטי פעולה",
+            "TitleEng": "Yes Movies Action",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesAction.png",
+            "EPGProvider": "Walla",
+            "EPGStationId": "316",
+            "Private": "True",
+            "BufferingTimer": "30",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://player.licenses4.me"
+            ],
+            "StreamUrls": [
+                "https://srv.vhls.ru.com/cdn/premium543/playlist.m3u8"
+            ]
+        },
+        {
             "Title": "ערוץ 24 החדש",
             "TitleEng": "Channel 24",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/24.jpg",
