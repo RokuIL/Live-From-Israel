@@ -397,17 +397,17 @@
             ]
         },
         {
-            "Title": "אם אס אן בי סי",
-            "TitleEng": "MSNBC",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/MSNBC.png",
+            "Title": "בי בי סי אמריקה",
+            "TitleEng": "BBC America",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/BBCAmerica.png",
             "EPGProvider": "flixed.io.ENG",
-            "EPGStationId": "16300",
+            "EPGStationId": "18332",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://best.globalweb.ru.com/cdn/premium327/playlist.m3u8"
+                "https://best.globalweb.ru.com/cdn/premium305/playlist.m3u8"
             ]
         },
         {
