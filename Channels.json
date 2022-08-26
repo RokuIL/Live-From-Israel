@@ -9,6 +9,20 @@
     "TimeZoneOffset": "3",
     "Channels": [
         {
+            "Title": "זמני",
+            "TitleEng": "Temporary",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Temporary.jpg",
+            "Private": "True",
+            "BufferingTimer": "5",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://ad2017.vhls.ru.com/cdn/premium405/tracks-v1a1/mono.m3u8"
+            ]
+        },
+        {
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
