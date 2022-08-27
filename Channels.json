@@ -397,20 +397,6 @@
             ]
         },
         {
-            "Title": "בי בי סי אמריקה",
-            "TitleEng": "BBC America",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/BBCAmerica.png",
-            "EPGProvider": "flixed.io.ENG",
-            "EPGStationId": "18332",
-            "StreamFormat": "hls",
-            "Headers": [
-                "Referer:https://olacast.live/"
-            ],
-            "StreamUrls": [
-                "https://ad2017.vhls.ru.com/lb/premium305/index.m3u8"
-            ]
-        },
-        {
             "Title": "בי בי סי חדשות העולם",
             "TitleEng": "BBC World News",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/BBCWorldNews.png",
