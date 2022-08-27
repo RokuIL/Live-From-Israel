@@ -9,34 +9,6 @@
     "TimeZoneOffset": "3",
     "Channels": [
         {
-            "Title": "זמני",
-            "TitleEng": "Temporary",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Temporary.jpg",
-            "Private": "True",
-            "BufferingTimer": "5",
-            "StreamFormat": "hls",
-            "Headers": [
-                "Referer:https://olacast.live/"
-            ],
-            "StreamUrls": [
-                "https://ad2017.vhls.ru.com/cdn/premium405/tracks-v1a1/mono.m3u8"
-            ]
-        },
-        {
-            "Title": "זמני",
-            "TitleEng": "Temporary",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Temporary.jpg",
-            "Private": "True",
-            "BufferingTimer": "5",
-            "StreamFormat": "hls",
-            "Headers": [
-                "Referer:http://xestreams.com/"
-            ],
-            "StreamUrls": [
-                "http://xcefe.vladruman.com:8080/hls/009.m3u8"
-            ]
-        },
-        {
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
@@ -50,7 +22,7 @@
             "StreamUrls": [
                 "https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_2.5k/chunklist.m3u8",
                 "https://www.dailymotion.com/player/metadata/video/x7wjmog",
-                "https://ad2017.vhls.ru.com/cdnus/premium548/index.m3u8",
+                "https://ad2017.vhls.ru.com/lb/premium548/index.m3u8",
                 "http://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8"
             ]
         },
@@ -116,7 +88,7 @@
                 "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://ad2017.vhls.ru.com/cdnus/premium140/index.m3u8"
+                "https://ad2017.vhls.ru.com/lb/premium140/index.m3u8"
             ]
         },
         {
@@ -132,7 +104,7 @@
                 "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://ad2017.vhls.ru.com/cdnus/premium141/index.m3u8"
+                "https://ad2017.vhls.ru.com/lb/premium141/index.m3u8"
             ]
         },
         {
@@ -148,7 +120,7 @@
                 "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://ad2017.vhls.ru.com/cdnus/premium142/index.m3u8"
+                "https://ad2017.vhls.ru.com/lb/premium142/index.m3u8"
             ]
         },
         {
@@ -164,7 +136,7 @@
                 "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://ad2017.vhls.ru.com/cdnus/premium143/index.m3u8"
+                "https://ad2017.vhls.ru.com/lb/premium143/index.m3u8"
             ]
         },
         {
@@ -180,7 +152,7 @@
                 "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://ad2017.vhls.ru.com/cdnus/premium144/index.m3u8"
+                "https://ad2017.vhls.ru.com/lb/premium144/index.m3u8"
             ]
         },
         {
@@ -196,7 +168,7 @@
                 "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://ad2017.vhls.ru.com/cdnus/premium145/index.m3u8"
+                "https://ad2017.vhls.ru.com/lb/premium145/index.m3u8"
             ]
         },
         {
@@ -212,7 +184,7 @@
                 "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://ad2017.vhls.ru.com/cdnus/premium146/index.m3u8"
+                "https://ad2017.vhls.ru.com/lb/premium146/index.m3u8"
             ]
         },
         {
@@ -228,7 +200,7 @@
                 "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://ad2017.vhls.ru.com/cdnus/premium147/index.m3u8"
+                "https://ad2017.vhls.ru.com/lb/premium147/index.m3u8"
             ]
         },
         {
@@ -244,7 +216,7 @@
                 "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://ad2017.vhls.ru.com/cdnus/premium541/index.m3u8"
+                "https://ad2017.vhls.ru.com/lb/premium541/index.m3u8"
             ]
         },
         {
@@ -258,7 +230,7 @@
                 "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://ad2017.vhls.ru.com/cdnus/premium542/index.m3u8"
+                "https://ad2017.vhls.ru.com/lb/premium542/index.m3u8"
             ]
         },
         {
@@ -272,7 +244,7 @@
                 "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://ad2017.vhls.ru.com/cdnus/premium551/index.m3u8"
+                "https://ad2017.vhls.ru.com/lb/premium551/index.m3u8"
             ]
         },
         {
@@ -286,7 +258,7 @@
                 "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://ad2017.vhls.ru.com/cdnus/premium552/index.m3u8"
+                "https://ad2017.vhls.ru.com/lb/premium552/index.m3u8"
             ]
         },
         {
@@ -302,7 +274,7 @@
                 "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://ad2017.vhls.ru.com/cdnus/premium553/index.m3u8"
+                "https://ad2017.vhls.ru.com/lb/premium553/index.m3u8"
             ]
         },
         {
@@ -316,7 +288,7 @@
                 "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://ad2017.vhls.ru.com/cdnus/premium544/index.m3u8"
+                "https://ad2017.vhls.ru.com/lb/premium544/index.m3u8"
             ]
         },
         {
@@ -358,7 +330,7 @@
             ],
             "StreamUrls": [
                 "https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8",
-                "https://ad2017.vhls.ru.com/cdnus/premium549/index.m3u8"
+                "https://ad2017.vhls.ru.com/lb/premium549/index.m3u8"
             ]
         },
         {
@@ -398,7 +370,7 @@
             ],
             "StreamUrls": [
                 "https://s2.usnlive.com/stream/cnn.m3u8",
-                "https://ad2017.vhls.ru.com/cdnus/premium345/index.m3u8",
+                "https://ad2017.vhls.ru.com/lb/premium345/index.m3u8",
                 "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8"
             ]
         },
@@ -435,7 +407,7 @@
                 "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://ad2017.vhls.ru.com/cdnus/premium305/index.m3u8"
+                "https://ad2017.vhls.ru.com/lb/premium305/index.m3u8"
             ]
         },
         {
@@ -449,7 +421,7 @@
                 "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://ad2017.vhls.ru.com/cdnus/premium349/index.m3u8"
+                "https://ad2017.vhls.ru.com/lb/premium349/index.m3u8"
             ]
         },
         {
@@ -465,7 +437,7 @@
             ],
             "StreamUrls": [
                 "http://live.tv247.club/tv247/discovery.m3u8",
-                "https://ad2017.vhls.ru.com/cdnus/premium313/index.m3u8"
+                "https://ad2017.vhls.ru.com/lb/premium313/index.m3u8"
             ]
         },
         {
@@ -481,7 +453,7 @@
             ],
             "StreamUrls": [
                 "http://live.tv247.club/tv247/history.m3u8",
-                "https://ad2017.vhls.ru.com/cdnus/premium322/index.m3u8"
+                "https://ad2017.vhls.ru.com/lb/premium322/index.m3u8"
             ]
         },
         {
@@ -497,7 +469,7 @@
                 "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://ad2017.vhls.ru.com/cdnus/premium328/index.m3u8"
+                "https://ad2017.vhls.ru.com/lb/premium328/index.m3u8"
             ]
         },        
         {
@@ -538,7 +510,7 @@
             ],
             "StreamUrls": [
                 "https://content.uplynk.com/742vTsU/index.m3u8?channel=Travel",
-                "https://ad2017.vhls.ru.com/cdnus/premium340/index.m3u8"
+                "https://ad2017.vhls.ru.com/lb/premium340/index.m3u8"
             ]
         },
         {
@@ -601,7 +573,7 @@
                 "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://ad2017.vhls.ru.com/cdnus/premium[1]-[999]/index.m3u8"
+                "https://ad2017.vhls.ru.com/lb/premium[1]-[999]/index.m3u8"
             ]
         },
         {
