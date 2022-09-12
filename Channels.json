@@ -18,6 +18,10 @@
             "Headers": [
                 "Referer:https://olacast.live/"            ],
             "StreamUrls": [
+                "http://xcefe.vladruman.com:2095/rumanov/008/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIyIDExOjQ4OjI3IFBNJmhhc2hfdmFsdWU9d0l5UFZkd2hpUm5VVWNxVEFTZkZJUT09JnZhbGlkbWludXRlcz0zMDAmaWQ9NQ==",
+                "https://s4.lucascd.com:8080/hls/w6.m3u8?md5=oWrnXk-gqpWM2A6Ck4wE3A&expires=1663033783",
+                "https://es2.quest123.top:8088/live/socolivepro60013/playlist.m3u8?id=116755&pk=16db6a1fca80dd8f666799e4084545865fb5a2e3faf7804303d24015ac6e8813c4fa60c9afb97ff44365af6cd7fdf172e3dabfe09fb464b0762b551b28985e8e",
+                "https://s6.merizaat.com:8080/hls/skysme.m3u8?md5=gby4MKhOUMC4RWU9XtHaJA&expires=1663033868",
                 "https://webui.vhls.ru.com/lb/premium44/index.m3u8"
             ]
         },
