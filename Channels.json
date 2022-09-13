@@ -259,6 +259,8 @@
             "Title": "אי אס פי אן",
             "TitleEng": "ESPN",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN.png",
+            "EPGProvider": "flixed.io.ENG",
+            "EPGStationId": "10179",
             "Private": "True",
             "BufferingTimer": "5",
             "StreamFormat": "hls",
