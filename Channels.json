@@ -9,20 +9,6 @@
     "TimeZoneOffset": "3",
     "Channels": [
         {
-            "Title": "סיאטל סיהוקס",
-            "TitleEng": "Seattle Seahawks",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Temporary.jpg",
-            "Private": "True",
-            "BufferingTimer": "5",
-            "StreamFormat": "hls",
-            "Headers": [
-                "Referer:https://olacast.live/"            ],
-            "StreamUrls": [
-                "http://footyhunter3.xyz/papahd/stream-38.php",
-                "https://lshstream.xyz/hls/ga2/index.m3u8?st=J67RdFaSCFIl7iqu7J681w&e=1663541017"
-            ]
-        },
-        {
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
