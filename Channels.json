@@ -687,8 +687,6 @@
             "Title": "88FM",
             "TitleEng": "88FM",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_88.png",
-            "EPGProvider": "Kan",
-            "EPGStationId": "4",
             "StreamFormat": "mp3",
             "StreamUrls": [
                 "http://kanliveicy.media.kan.org.il/icy/kan88_mp3"
@@ -845,8 +843,6 @@
             "Title": "קול המוסיקה",
             "TitleEng": "Kol Hamusica",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_musika.png",
-            "EPGProvider": "Kan",
-            "EPGStationId": "5",
             "StreamFormat": "mp3",
             "StreamUrls": [
                 "http://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3"
@@ -856,8 +852,6 @@
             "Title": "תרבות",
             "TitleEng": "Tarbut",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_tarbut.png",
-            "EPGProvider": "Kan",
-            "EPGStationId": "7",
             "StreamFormat": "mp3",
             "StreamUrls": [
                 "http://kanliveicy.media.kan.org.il/icy/kantarbut_mp3"
@@ -867,8 +861,6 @@
             "Title": "רשת ב",
             "TitleEng": "Reshet Bet",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_bet.png",
-            "EPGProvider": "Kan",
-            "EPGStationId": "8",
             "StreamFormat": "mp3",
             "StreamUrls": [
                 "http://kanliveicy.media.kan.org.il/icy/kanbet_mp3"
@@ -878,8 +870,6 @@
             "Title": "רשת ג",
             "TitleEng": "Reshet Gimel",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_gimmel.png",
-            "EPGProvider": "Kan",
-            "EPGStationId": "9",
             "StreamFormat": "mp3",
             "StreamUrls": [
                 "http://kanliveicy.media.kan.org.il/icy/kangimmel_mp3"
@@ -889,8 +879,6 @@
             "Title": "מורשת",
             "TitleEng": "Moreshet",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_moreshet.png",
-            "EPGProvider": "Kan",
-            "EPGStationId": "11",
             "StreamFormat": "mp3",
             "StreamUrls": [
                 "http://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3"
