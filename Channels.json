@@ -9,6 +9,25 @@
     "TimeZoneOffset": "3",
     "Channels": [
         {
+            "Title": "סיאטל סיהוקס",
+            "TitleEng": "Seattle Seahawks",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Temporary.jpg",
+            "Private": "True",
+            "BufferingTimer": "5",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"],
+            "StreamUrls": [
+                "https://webudi.vhls.ru.com/lb/premium13/index.m3u8",
+                "https://vladruman.com/hls/007.m3u8",
+                "https://lshstream.xyz/hls/allsportsicu15/index.m3u8?st=G2qNq0V8WkQnQaljfrxMCg&e=1664739941",
+                "http://185.53.88.179:8080/hls/streama198465/index.m3u8?cst=85d9f9244893ed68e2998c07d650ccb3",
+                "http://103.145.12.195:8080/hls/streama198627/index.m3u8?cst=69e901e5cf0e93073e53551b43a5d468",
+                "https://play9.cdn786.com:999/hls/do39.m3u8?md5=E3BhDpW4_qTVWlVKIqRlYg&expires=1664736178",
+                "https://es2.quest123.top:8088/live/socolivepro50013/playlist.m3u8?id=116263&pk=16db6a1fca80dd8f666799e4084545865fb5a2e3faf7804303d24015ac6e8813cb62d39d8e6fb9e8cdef9017867ebc6d14b01afb0d23109e7abe37d690495b1c"
+            ]
+        },
+        {
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
