@@ -313,50 +313,6 @@
             ]
         },
         {
-            "Title": "ערוץ ההומור",
-            "TitleEng": "Humor Channel",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Humor.jpg",
-            "Private": "True",
-            "BufferingTimer": "1",
-            "StreamFormat": "hls",
-            "Headers": [
-                "Referer:https://olacast.live/"
-            ],
-            "StreamUrls": [
-                "https://webudi.openhd.lol/lb/premium551/index.m3u8"
-            ]
-        },
-        {
-            "Title": "הוט אייטש בי או",
-            "TitleEng": "Hot HBO",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/HotHBO.jpg",
-            "Private": "True",
-            "BufferingTimer": "1",
-            "StreamFormat": "hls",
-            "Headers": [
-                "Referer:https://olacast.live/"
-            ],
-            "StreamUrls": [
-                "https://webudi.openhd.lol/lb/premium552/index.m3u8"
-            ]
-        },
-        {
-            "Title": "הוט 3",
-            "TitleEng": "Hot 3",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Hot3.png",
-            "EPGProvider": "Walla",
-            "EPGStationId": "353",
-            "Private": "True",
-            "BufferingTimer": "1",
-            "StreamFormat": "hls",
-            "Headers": [
-                "Referer:https://olacast.live/"
-            ],
-            "StreamUrls": [
-                "https://webudi.openhd.lol/lb/premium553/index.m3u8"
-            ]
-        },
-        {
             "Title": "יס סרטי ילדים",
             "TitleEng": "Yes Movies Kids",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesKids.png",
@@ -408,20 +364,6 @@
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8"
-            ]
-        },
-        {
-            "Title": "עכשיו 14",
-            "TitleEng": "Now 14",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Now14.png",
-            "Private": "True",
-            "StreamFormat": "hls",
-            "Headers": [
-                "user-agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
-            ],
-            "StreamUrls": [
-                "http://dvr.ch20-cdnwiz.com/hls/live.m3u8",
-                "http://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8"
             ]
         },
         {
