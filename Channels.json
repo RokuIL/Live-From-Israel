@@ -21,7 +21,6 @@
             ],
             "StreamUrls": [
                 "https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_2.5k/chunklist.m3u8",
-                "https://webudi.openhd.lol/lb/premium548/index.m3u8",
                 "https://www.dailymotion.com/player/metadata/video/x7wjmog",
                 "http://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8"
             ]
@@ -346,8 +345,6 @@
             "Title": "יס סרטי פעולה",
             "TitleEng": "Yes Movies Action",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesAction.png",
-            "EPGProvider": "Walla",
-            "EPGStationId": "316",
             "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
@@ -356,6 +353,22 @@
             ],
             "StreamUrls": [
                 "https://webudi.openhd.lol/lb/premium543/index.m3u8"
+            ]
+        },
+        {
+            "Title": "יס סרטי קומדיה'",
+            "TitleEng": "Yes Movies Comedy",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesComedy.png",
+            "EPGProvider": "Walla",
+            "EPGStationId": "314",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium545/index.m3u8"
             ]
         },
         {
