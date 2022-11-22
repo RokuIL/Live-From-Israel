@@ -9,6 +9,19 @@
     "TimeZoneOffset": "2",
     "Channels": [
         {
+            "Title": "מונדיאל 2022",
+            "TitleEng": "Mondial 2022",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Qatar2022.png",
+            "Private": "True",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
+            "StreamUrls": [
+                "https://webudi.openhd.lol/lb/premium39/index.m3u8"
+            ]
+        },
+        {
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
