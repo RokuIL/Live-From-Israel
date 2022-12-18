@@ -9,36 +9,6 @@
     "TimeZoneOffset": "2",
     "Channels": [
         {
-            "Title": "מונדיאל  FS1 2022",
-            "TitleEng": "Mondial 2022",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Qatar2022.png",
-            "EPGProvider": "flixed.io.ENG",
-            "EPGStationId": "82541",
-            "Private": "True",
-            "StreamFormat": "hls",
-            "Headers": [
-                "Referer:https://olacast.live/"
-            ],
-            "StreamUrls": [
-                "https://webudi.openhd.lol/lb/premium39/index.m3u8"
-            ]
-        },
-        {
-            "Title": "Fox מונדיאל 2022",
-            "TitleEng": "Mondial 2022",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Qatar2022.png",
-            "EPGProvider": "flixed.io.ENG",
-            "EPGStationId": "12376",
-            "Private": "True",
-            "StreamFormat": "hls",
-            "Headers": [
-                "Referer:https://olacast.live/"
-            ],
-            "StreamUrls": [
-                "https://webudi.openhd.lol/lb/premium54/index.m3u8"
-            ]
-        },
-        {
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
@@ -627,16 +597,6 @@
             ]
         },
         {
-            "Title": "רדיו ספורט 5",
-            "TitleEng": "Radio Sport 5",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport%205%20Radio.jpg",
-            "EPGProvider": "Sport5",
-            "StreamFormat": "hls",
-            "StreamUrls": [
-                "https://rgelive.akamaized.net/hls/live/2043150/radio5/playlistMain_Aud_.m3u8"
-            ]
-        },
-        {
             "Title": "גל'צ",
             "TitleEng": "Galaz",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Gltz.jpg",
@@ -724,15 +684,6 @@
             "StreamFormat": "mp3",
             "StreamUrls": [
                 "http://90.cdnwz.net/90fm"
-            ]
-        },
-        {
-            "Title": "רדיו קול ברמה 91.2FM",
-            "TitleEng": "91.2FM - Kol BaRama",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kolbarama_92.png",
-            "StreamFormat": "aac_adts",
-            "StreamUrls": [
-                "http://kb.cdnwz.net/kol_barama"
             ]
         },
         {
@@ -898,15 +849,6 @@
             "StreamFormat": "mp3",
             "StreamUrls": [
                 "http://kanliveicy.media.kan.org.il/icy/kangimmel_mp3"
-            ]
-        },
-        {
-            "Title": "מורשת",
-            "TitleEng": "Moreshet",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_moreshet.png",
-            "StreamFormat": "mp3",
-            "StreamUrls": [
-                "http://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3"
             ]
         }
     ]
