@@ -15,11 +15,6 @@
             "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
-            "Headers": [
-                "Referer:https://olacast.live/ https://xestreams.com/",
-                "Origin:https://xestreams.com",
-                "Referer:https://xestreams.com/"
-            ],
             "StreamUrls": [
                 "https://es5.quest123.top:8088/live/socolivepro11014/playlist.m3u8?vidictid=193583182166&id=116327&pk=16db6a1fca80dd8f666799e4084545865fb5a2e3faf7804303d24015ac6e88136a349a5616b4d147fc9b1e0b65f1f7da8325bc4256e2c298c3f7d4b96d049d0b"
             ]
