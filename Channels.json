@@ -506,28 +506,14 @@
             "TitleEng": "HGTV",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/HGTV.png",
             "EPGProvider": "flixed.io.ENG",
-            "EPGStationId": "HGTV",
+            "EPGStationId": "34215",
             "Private": "True",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:http://tv247.us/"
             ],
             "StreamUrls": [
-                "https://content.uplynk.com/742vTsU/index.m3u8?channel=HGTV",
                 "http://live.tv247.club/tv247/hgtv.m3u8"
-            ]
-        },
-        {
-            "Title": "עשה זאת בעצמך",
-            "TitleEng": "DIY",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/DIY.png",
-            "OnlyIn" : "US",
-            "EPGProvider": "flixed.io.ENG",
-            "EPGStationId": "67375",
-            "Private": "True",
-            "StreamFormat": "hls",
-            "StreamUrls": [
-                "https://content.uplynk.com/742vTsU/index.m3u8?channel=DIY"
             ]
         },
         {
@@ -542,8 +528,7 @@
                 "Referer:http://tv247.us/ https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://webudi.webtv1.lol/lb/premium340/index.m3u8",
-                "https://content.uplynk.com/742vTsU/index.m3u8?channel=Travel"
+                "https://webudi.webtv1.lol/lb/premium340/index.m3u8"
             ]
         },
         {
