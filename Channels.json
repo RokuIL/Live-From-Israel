@@ -414,17 +414,17 @@
             "Title": "סי אן אן",
             "TitleEng": "CNN",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",
-            "EPGProvider": "742vTsUENG",
-            "EPGStationId": "CNN",
+            "EPGProvider": "flixed.io.ENG",
+            "EPGStationId": "10142",
             "Private": "True",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://usnewson.com/ https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://t14.usnlive.com/stream/cnn.m3u8",
                 "https://webudi.webtv1.lol/lb/premium345/index.m3u8",
-                "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8"
+                "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8",
+                "https://s4.usnlive.com/stream/cnn.m3u8"
             ]
         },
         {
@@ -455,8 +455,8 @@
             "Title": "דיסקברי",
             "TitleEng": "Discovery",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Discovery.png",
-            "EPGProvider": "742vTsUENG",
-            "EPGStationId": "DSC",
+            "EPGProvider": "flixed.io.ENG",
+            "EPGStationId": "12500",
             "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
@@ -472,8 +472,8 @@
             "Title": "היסטוריה",
             "TitleEng": "History",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/History.png",
-            "EPGProvider": "742vTsUENG",
-            "EPGStationId": "HIST",
+            "EPGProvider": "flixed.io.ENG",
+            "EPGStationId": "21762",
             "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
@@ -489,8 +489,8 @@
             "Title": "נשיונל גיאוגרפיק",
             "TitleEng": "National Geographic",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NationalGeographic.png",
-            "EPGProvider": "742vTsUENG",
-            "EPGStationId": "NGC",
+            "EPGProvider": "flixed.io.ENG",
+            "EPGStationId": "24959",
             "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
@@ -505,7 +505,7 @@
             "Title": "בית וגן",
             "TitleEng": "HGTV",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/HGTV.png",
-            "EPGProvider": "742vTsUENG",
+            "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "HGTV",
             "Private": "True",
             "StreamFormat": "hls",
@@ -534,8 +534,8 @@
             "Title": "טיולים",
             "TitleEng": "Travel",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Travel.png",
-            "EPGProvider": "742vTsUENG",
-            "EPGStationId": "TRAVEL",
+            "EPGProvider": "flixed.io.ENG",
+            "EPGStationId": "50000",
             "Private": "True",
             "StreamFormat": "hls",
             "Headers": [
@@ -628,7 +628,7 @@
                 "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://webudi.webtv1.lol/lb/premium[1]-[600]/index.m3u8"
+                "https://webudi.webtv1.lol/lb/premium[1]-[999]/index.m3u8"
             ]
         },
         {
