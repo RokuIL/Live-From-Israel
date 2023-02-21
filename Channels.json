@@ -38,9 +38,6 @@
             ],
             "StreamUrls": [
                 "https://mako-streaming.akamaized.net@@MAKO:lp=@@/stream/hls/live/2033791/k12dvr/index.m3u8@@?b-in-range=800-2400&@@TICKET@@",
-                "http://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index_2200.m3u8",
-                "http://mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index_2200.m3u8",
-                "http://mako-streaming.akamaized.net/direct/hls/live/2035325/k12cc/index_2200.m3u8",
                 "https://webudi.webtv1.lol/lb/premium549/index.m3u8"
             ]
         },
@@ -79,8 +76,7 @@
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://makostore-hd.ctedgecdn.net/Makostore-Vod/_definst_/amlst:http/SHORT/CH22_NEWS/YYYY/MM/mahadura_full_vtr2_nYYYYMMDD_v1/mahadura_full_vtr2_nYYYYMMDD_v1_,850,.mp4/playlist.m3u8",
-                "https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index_2200.m3u8"
+                "https://makostore-hd.ctedgecdn.net/Makostore-Vod/_definst_/amlst:http/SHORT/CH22_NEWS/YYYY/MM/mahadura_full_vtr2_nYYYYMMDD_v1/mahadura_full_vtr2_nYYYYMMDD_v1_,850,.mp4/playlist.m3u8"
             ]
         },        
         {
@@ -395,7 +391,6 @@
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
-                "http://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24/index_2200.m3u8",
                 "https://mako-streaming.akamaized.net@@MAKO:lp=@@/direct/hls/live/2035340/ch24/index.m3u8@@?b-in-range=800-2400&@@TICKET@@"
             ]
         },
@@ -461,11 +456,10 @@
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
-                "Referer:http://tv247.us/ https://olacast.live/"
+                "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://webudi.webtv1.lol/lb/premium313/index.m3u8",
-                "http://live.tv247.club/tv247/discovery.m3u8"
+                "https://webudi.webtv1.lol/lb/premium313/index.m3u8"
             ]
         },
         {
@@ -478,11 +472,10 @@
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
-                "Referer:http://tv247.us/ https://olacast.live/"
+                "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://webudi.webtv1.lol/lb/premium322/index.m3u8",
-                "http://live.tv247.club/tv247/history.m3u8"            
+                "https://webudi.webtv1.lol/lb/premium322/index.m3u8"        
             ]
         },
         {
@@ -501,21 +494,6 @@
                 "https://webudi.webtv1.lol/lb/premium328/index.m3u8"
             ]
         },        
-        {
-            "Title": "בית וגן",
-            "TitleEng": "HGTV",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/HGTV.png",
-            "EPGProvider": "flixed.io.ENG",
-            "EPGStationId": "34215",
-            "Private": "True",
-            "StreamFormat": "hls",
-            "Headers": [
-                "Referer:http://tv247.us/"
-            ],
-            "StreamUrls": [
-                "http://live.tv247.club/tv247/hgtv.m3u8"
-            ]
-        },
         {
             "Title": "טיולים",
             "TitleEng": "Travel",
@@ -553,8 +531,7 @@
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://content.uplynk.com/SuNoSwen/index.m3u8?channel=233",
-                "https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/live/live.m3u8",
-                "https://csm-e-cetubiausw2live204-0452e8718248683e8.csm.tubi.video/csm/live/436561509/manifest.m3u8"
+                "https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/live/live.m3u8"
             ]
         },
         {
@@ -566,7 +543,6 @@
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kiro7seattle-ono/playlist.m3u8",
                 "https://content.uplynk.com/SuNoSwen/index.m3u8?channel=106"
             ]
         },
@@ -716,15 +692,6 @@
             ]
         },
         {
-            "Title": "רדיו דרום 95.8FM",
-            "TitleEng": "95.8FM - Darom",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/darom_95.png",
-            "StreamFormat": "mp3",
-            "StreamUrls": [
-                "http://audio-darom.ecast.co.il/darom97fm"
-            ]
-        },
-        {
             "Title": "קול רגע 96FM",
             "TitleEng": "96FM - Kol Rega",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kolrega_96fm.png",
@@ -762,15 +729,6 @@
             ]
         },
         {
-            "Title": "קול הים האדום 102FM",
-            "TitleEng": "102FM - Red Sea",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/redsea_102fm.png",
-            "StreamFormat": "mp3",
-            "StreamUrls": [
-                "http://eilat.cdnwz.net/102fm"
-            ]
-        },
-        {
             "Title": "רדיו ללא הפסקה 103FM",
             "TitleEng": "103FM - Lelo Hafsaka",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/103fm.png",
@@ -785,35 +743,7 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/galilradio_1053.png",
             "StreamFormat": "mp3",
             "StreamUrls": [
-                "http://1053.cdnwz.net/galil",
-                "http://radio.streamgates.net/stream/galil"
-            ]
-        },
-        {
-            "Title": "קול רמלה 106FM",
-            "TitleEng": "106FM - Ramla",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kol_ramla_106fm.png",
-            "StreamFormat": "mp3",
-            "StreamUrls": [
-                "http://84.94.229.99:5693/;"
-            ]
-        },
-        {
-            "Title": "קול גלים 106FM",
-            "TitleEng": "106FM - Kol Galim",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kolgalim_106.png",
-            "StreamFormat": "mp3",
-            "StreamUrls": [
-                "http://switch2-streaming-212-83-eu.ilcast.com:8055/;"
-            ]
-        },
-        {
-            "Title": "הרדיו הבינתחומי 106.2FM",
-            "TitleEng": "106.2FM - IDC",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/IDC.jpg",
-            "StreamFormat": "mp3",
-            "StreamUrls": [
-                "http://194.153.101.160:8000/idc123.mp3"
+                "http://1053.cdnwz.net/galil"
             ]
         },
         {
