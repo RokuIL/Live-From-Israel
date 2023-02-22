@@ -418,8 +418,7 @@
             ],
             "StreamUrls": [
                 "https://webudi.webtv1.lol/lb/premium345/index.m3u8",
-                "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8",
-                "https://s4.usnlive.com/stream/cnn.m3u8"
+                "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8"
             ]
         },
         {
@@ -680,24 +679,6 @@
             "StreamFormat": "mp3",
             "StreamUrls": [
                 "http://90.cdnwz.net/90fm"
-            ]
-        },
-        {
-            "Title": "קול חי 93FM",
-            "TitleEng": "93FM - Kol Chai",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kol_chai_93fm.png",
-            "StreamFormat": "mp3",
-            "StreamUrls": [
-                "https://media2.93fm.co.il/live-new"
-            ]
-        },
-        {
-            "Title": "קול רגע 96FM",
-            "TitleEng": "96FM - Kol Rega",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kolrega_96fm.png",
-            "StreamFormat": "mp3",
-            "StreamUrls": [
-                "https://radio.streamgates.net/stream/KOLREGA"
             ]
         },
         {
