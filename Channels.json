@@ -20,9 +20,11 @@
                 "Referer:https://olacast.live/"
             ],
             "StreamUrls": [
-                "https://kan11b.media.kan.org.il/hls/live/2096972/2096972/source1_4k/chunklist.m3u8",
-                "https://www.dailymotion.com/player/metadata/video/x7wjmog",
-                "https://webudi.webtv1.lol/lb/premium548/index.m3u8"
+                "https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8",
+                "https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8",
+                "https://kan11b.media.kan.org.il/hls/live/2096972/2096972/playlist.m3u8",
+                "https://webudi.webtv1.lol/lb/premium548/index.m3u8",
+                "https://www.dailymotion.com/player/metadata/video/x7wjmog"
             ]
         },
         {
@@ -37,7 +39,10 @@
             ],
             "StreamUrls": [
                 "https://mako-streaming.akamaized.net@@MAKO:lp=@@/stream/hls/live/2033791/k12dvr/index.m3u8@@?b-in-range=800-2400&@@TICKET@@",
-                "https://webudi.webtv1.lol/lb/premium549/index.m3u8"
+                "https://webudi.webtv1.lol/lb/premium549/index.m3u8",
+                "https://cdnip.000webhostapp.com/k12.php?m3u8",
+                "https://cdnip.000webhostapp.com/k12cc.php?m3u8",
+                "https://cdnip.000webhostapp.com/k12dvr.php?m3u8"
             ]
         },
         {
@@ -390,7 +395,8 @@
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://mako-streaming.akamaized.net@@MAKO:lp=@@/direct/hls/live/2035340/ch24/index.m3u8@@?b-in-range=800-2400&@@TICKET@@"
+                "https://mako-streaming.akamaized.net@@MAKO:lp=@@/direct/hls/live/2035340/ch24/index.m3u8@@?b-in-range=800-2400&@@TICKET@@",
+                "https://cdnip.000webhostapp.com/ch24.php?m3u8"
             ]
         },
         {
