@@ -41,10 +41,7 @@
             ],
             "StreamUrls": [
                 "https://mako-streaming.akamaized.net@@MAKO:lp=@@/stream/hls/live/2033791/k12dvr/index.m3u8@@?b-in-range=800-2400&@@TICKET@@",
-                "https://webudi.webtv1.lol/lb/premium549/index.m3u8",
-                "https://cdnip.000webhostapp.com/k12.php?m3u8",
-                "https://cdnip.000webhostapp.com/k12cc.php?m3u8",
-                "https://cdnip.000webhostapp.com/k12dvr.php?m3u8"
+                "https://webudi.webtv1.lol/lb/premium549/index.m3u8"
             ]
         },
         {
@@ -398,8 +395,7 @@
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8",
-                "https://mako-streaming.akamaized.net@@MAKO:lp=@@/direct/hls/live/2035340/ch24/index.m3u8@@?b-in-range=800-2400&@@TICKET@@",
-                "https://cdnip.000webhostapp.com/ch24.php?m3u8"
+                "https://mako-streaming.akamaized.net@@MAKO:lp=@@/direct/hls/live/2035340/ch24/index.m3u8@@?b-in-range=800-2400&@@TICKET@@"
             ]
         },
         {
