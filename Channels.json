@@ -404,7 +404,8 @@
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://contact.gostreaming.tv/Accessibility/myStream/playlist.m3u8"
+                "https://contact.gostreaming.tv/Accessibility/myStream/playlist.m3u8",
+                "https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/manifest.m3u8"
             ]
         },
         {
@@ -420,7 +421,10 @@
             ],
             "StreamUrls": [
                 "https://webudit.onlinewebtv.lol/lb/premium345/index.m3u8",
-                "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8"
+                "https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8",
+                "https://d30x5vsa85tvmd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/index.m3u8",
+                "https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8",
+                "https://d1mj4zol5huu6l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tp1e68v8mb0lb/index.m3u8"
             ]
         },
         {
