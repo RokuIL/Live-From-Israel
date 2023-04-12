@@ -16,6 +16,8 @@
             "EPGStationId0": "1",
             "EPGProvider1": "Walla",
             "EPGStationId1": "3770",
+            "EPGProvider": "AidemArsi",
+            "EPGStationId": "1",
             "Private": "True",
             "StreamFormat": "hls",
             "Headers": [
