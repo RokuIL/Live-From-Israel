@@ -12,6 +12,8 @@
             "Title": "סיאטל סיהוקס",
             "TitleEng": "Seattle Seahawks",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png",
+            "EPGProvider": "Text",
+            "EPGStationId": "שידור ישיר של המשחק.",        
             "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
@@ -19,8 +21,8 @@
                 "Referer:https://ntuplay.xyz/"
             ],
             "StreamUrls": [
-                "https://webudit.cdnhks.lol/lb/premium112/index.m3u8",
-                "https://webudit.cdnhks.lol/lb/premium6/index.m3u8"
+                "https://webudit.cdnhks.lol/lb/premium6/index.m3u8",
+                "https://webudit.cdnhks.lol/lb/premium112/index.m3u8"
             ]
         },        
         {
