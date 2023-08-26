@@ -18,11 +18,12 @@
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
-                "Referer:https://ntuplay.xyz/ https://stsgmrs.com",
-                "Origin: https://stsgmrs.com"
+                "Origin: https://stsgmrs.com https://fiveyardlab.com",
+                "Referer:https://ntuplay.xyz/ https://stsgmrs.com/ https://fiveyardlab.com/"
             ],
             "StreamUrls": [
                 "https://vladruman.com/hls/009.m3u8",
+                "https://n3.aliflailaaliflaila.com:999/hls/t014.m3u8?md5=P7MC4faext274Hul37PkOg&expires=1693081807",
                 "https://webudit.cdnhks.lol/lb/premium115/index.m3u8"
             ]
         }, 
