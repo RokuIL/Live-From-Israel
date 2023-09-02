@@ -44,8 +44,7 @@
             "Title": "רשת 13",
             "TitleEng": "Reshet 13",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg",
-            "EPGProvider": "Walla",
-            "EPGStationId": "3826",
+            "EPGProvider": "Reshet",
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
