@@ -74,6 +74,9 @@
             "EPGStationId": "מהדורת החדשות האחרונה. מתעדכן כל יום בשעה .22:00",        
             "Private": "True",
             "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://www.n12.co.il/"
+            ],
             "StreamUrls": [
                 "https://mako-vod.akamaized.net/i/SHORT/CH22_NEWS/YYYY/MM/mahadura_full_vtr2_nYYYYMMDD_v1/mahadura_full_vtr2_nYYYYMMDD_v1_,850,.mp4.csmil/master.m3u8"
             ]
