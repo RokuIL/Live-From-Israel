@@ -9,6 +9,23 @@
     "TimeZoneOffset": "3",
     "Channels": [
         {
+            "Title": "סיאטל סיהוקס",
+            "TitleEng": "Seattle Seahawks",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png",
+            "EPGProvider": "Text",
+            "EPGStationId": "שידור ישיר של המשחק.",        
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Origin: https://jewelavid.com/",
+                "Referer: https://jewelavid.com/"
+            ],
+            "StreamUrls": [
+                "https://n11.aliflailaaliflaila.com:999/hls/do5.m3u8?md5=WL0aog0WEwuMDUuPKFOzBw&expires=1694983806"
+            ]
+        }, 
+        {
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
