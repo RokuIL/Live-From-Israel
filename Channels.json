@@ -9,42 +9,6 @@
     "TimeZoneOffset": "3",
     "Channels": [
         {
-            "Title": "סיאטל סיהוקס",
-            "TitleEng": "Seattle Seahawks",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png",
-            "EPGProvider": "Text",
-            "EPGStationId": "שידור ישיר של המשחק.",        
-            "Private": "True",
-            "BufferingTimer": "1",
-            "StreamFormat": "hls",
-            "Headers": [
-                "Origin:https://jewelavid.com/ https://vladrustov.sx https://godzlive.com/ https://cast2record.com/",
-                "Referer:https://jewelavid.com/ https://vladrustov.sx/"
-            ],
-            "StreamUrls": [
-                "https://vp02.dlive.click/bO_5frnX9teBiDAS4_bq-Q/1698033163/35302e34362e3234312e39/ff8/playlist.m3u8",
-                "https://vladrums.com/hls/0014.m3u8?md5=XQVsIuf-WwFN8KaLXMfThA&expires=16980179",
-                "https://a36.azplay.me/hls/streama214304/index.m3u8?cst=5b5c95c5b7c39a67d631820109c921bc"
-            ]
-        },
-        {
-            "Title": "סיאטל סיהוקס",
-            "TitleEng": "Seattle Seahawks",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png",
-            "EPGProvider": "Text",
-            "EPGStationId": "שידור ישיר של המשחק.",        
-            "Private": "True",
-            "BufferingTimer": "1",
-            "StreamFormat": "hls",
-            "Headers": [
-                "Origin:https://jewelavid.com/ https://vladrustov.sx https://godzlive.com/ https://cast2record.com/ https://cast2record.com",
-                "Referer:https://jewelavid.com/ https://vladrustov.sx/ https://cast2record.com/"
-            ],
-            "StreamUrls": [
-                "https://e5.ainakwalajeen.com:999/hls/do8.m3u8?md5=usHaFOTqwcTlsBB594gjJw&expires=1698011486"
-            ]
-        },
-        {
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
