@@ -152,6 +152,7 @@
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
+                "Origin:https://weblivehdplay.ru",
                 "Referer:https://weblivehdplay.ru/"
             ],
             "StreamUrls": [
