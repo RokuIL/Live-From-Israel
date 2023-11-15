@@ -392,8 +392,7 @@
             "Title": "ערוץ הכנסת",
             "TitleEng": "Knesset",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Knesset.png",
-            "EPGProvider": "AidemArsi",
-            "EPGStationId": "4",
+            "EPGProvider": "Knesset",
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
