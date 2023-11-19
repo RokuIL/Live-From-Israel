@@ -1,5 +1,5 @@
 {
-    "PID": "eykd8397f75ba191c138fjll9307a886a13f9339djh38de4323cb26cb7h37f9dj3d7cd847ac1353j8l, as38d4ca98629553ee932, ya209a5ad8ea3533924hd93k9ab0bebf9ce703kd, es9d3j10bed7ea78a839dk83e1e488118c6833kd, nikd830bb6fd96955e39djd3, rokd91c1f645b35eb29d98k, rk97hjdeddaea9b66498g3",
+    "PID": "eykd8397f75ba191c138fjll9307a886a13f9339djh38de4323cb26cb7h37f9dj3d7cd847ac1353j8l, as38d4ca98629553ee932, ya209a5ad8ea3533924hd93k9ab0bebf9ce703kd, es83e1e488118c6833kd, nikd830bb6fd96955e39djd3, rokd91c1f645b35eb29d98k, rk97hjdeddaea9b66498g3",
     "SystemMessage":
         {
             "DST" : "",
@@ -8,6 +8,25 @@
         },
     "TimeZoneOffset": "2",
     "Channels": [
+        {
+            "Title": "סיאטל סיהוקס",
+            "TitleEng": "Seattle Seahawks",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png",
+            "EPGProvider": "Text",
+            "EPGStationId": "שידור ישיר של המשחק.",        
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Origin:https://jewelavid.com/ https://vladrustov.sx https://godzlive.com/ https://cast2record.com",
+                "Referer:https://weblivehdplay.ru/ https://jewelavid.com/ https://vladrustov.sx/ https://godzlive.com/ https://cast2record.com/"
+            ],
+            "StreamUrls": [
+                "https://vladrums.com/images/0024.m3u8?md5=BIX4VwAn_w0NesMSU2nuDA&expires=1700440890",
+                "https://po1.ainakwalajeen.com:999/hls/nfltvhd12.m3u8?md5=BQehRB7cIEbLPI3gz2q4AA&expires=1700434213",
+                "https://webudit.hlsjs.ru/lb/premium10/index.m3u8"
+            ]
+        },        
         {
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
