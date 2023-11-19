@@ -9,26 +9,6 @@
     "TimeZoneOffset": "2",
     "Channels": [
         {
-            "Title": "סיאטל סיהוקס",
-            "TitleEng": "Seattle Seahawks",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png",
-            "EPGProvider": "Text",
-            "EPGStationId": "שידור ישיר של המשחק.",        
-            "Private": "True",
-            "BufferingTimer": "1",
-            "StreamFormat": "hls",
-            "Headers": [
-                "Origin:https://b4ucast.com https://jewelavid.com/ https://vladrustov.sx https://godzlive.com/ https://cast2record.com",
-                "Referer:https://b4ucast.com/ https://acidamon.com/ https://weblivehdplay.ru/ https://jewelavid.com/ https://vladrustov.sx/ https://godzlive.com/ https://cast2record.com/"
-            ],
-            "StreamUrls": [
-                "https://zp02.dlive.click/jHS9TRSoekntQ2k9BfT1Kg/1700455745/35302e34362e3234312e39/ff14/playlist.m3u8",
-                "https://vladrums.com/images/0024.m3u8?md5=BIX4VwAn_w0NesMSU2nuDA&expires=1700440890",
-                "https://po1.ainakwalajeen.com:999/hls/nfltvhd12.m3u8?md5=BQehRB7cIEbLPI3gz2q4AA&expires=1700434213",
-                "https://webudit.hlsjs.ru/lb/premium10/index.m3u8"
-            ]
-        },        
-        {
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
