@@ -18,8 +18,8 @@
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
-                "Origin:https://givemereddit.eu https://b4ucast.com https://jewelavid.com/ https://vladrustov.sx https://godzlive.com/ https://cast2record.com",
-                "Referer:https://givemereddit.eu/ https://b4ucast.com/ https://acidamon.com/ https://weblivehdplay.ru/ https://jewelavid.com/ https://vladrustov.sx/ https://godzlive.com/ https://cast2record.com/"
+                "Origin:https://candlesouth.net https://givemereddit.eu https://b4ucast.com https://jewelavid.com/ https://vladrustov.sx https://godzlive.com/ https://cast2record.com",
+                "Referer:https://candlesouth.net/ https://givemereddit.eu/ https://b4ucast.com/ https://acidamon.com/ https://weblivehdplay.ru/ https://jewelavid.com/ https://vladrustov.sx/ https://godzlive.com/ https://cast2record.com/"
             ],
             "StreamUrls": [
                 "https://webudit.hlsjs.ru/lb/premium2/index.m3u8",
@@ -38,10 +38,12 @@
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
-                "Origin:https://givemereddit.eu https://b4ucast.com https://jewelavid.com/ https://vladrustov.sx https://godzlive.com/ https://cast2record.com",
-                "Referer:https://givemereddit.eu/ https://b4ucast.com/ https://acidamon.com/ https://weblivehdplay.ru/ https://jewelavid.com/ https://vladrustov.sx/ https://godzlive.com/ https://cast2record.com/"
+                "Origin:https://candlesouth.net https://givemereddit.eu https://b4ucast.com https://jewelavid.com/ https://vladrustov.sx https://godzlive.com/ https://cast2record.com",
+                "Referer:https://candlesouth.net/ https://givemereddit.eu/ https://b4ucast.com/ https://acidamon.com/ https://weblivehdplay.ru/ https://jewelavid.com/ https://vladrustov.sx/ https://godzlive.com/ https://cast2record.com/"
             ],
             "StreamUrls": [
+                "https://s7.noshwsmkm.com:999/hls/nfltvhd10.m3u8?md5=APpakgcWJ-bnIUtR2nlpTQ&expires=1702248999",
+                "https://qmsjnygucbtkhrxp.cdnrecruit.net:8443/hls/dnva8.m3u8?s=pMyFz991HoJcFM-G084yFg&e=1702263468",
                 "https://givemereddit.cloud/hls/abr_tsn/playlist.m3u8"
             ]
         },  
