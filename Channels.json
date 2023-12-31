@@ -9,6 +9,25 @@
     "TimeZoneOffset": "2",
     "Channels": [
         {
+            "Title": "סיאטל סיהוקס",
+            "TitleEng": "Seattle Seahawks",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png",
+            "EPGProvider": "Text",
+            "EPGStationId": "שידור ישיר של המשחק.",        
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Origin:https://candlesouth.net https://givemereddit.eu https://b4ucast.com https://jewelavid.com/ https://vladrustov.sx https://godzlive.com/ https://cast2record.com",
+                "Referer:https://candlesouth.net/ https://givemereddit.eu/ https://b4ucast.com/ https://acidamon.com/ https://weblivehdplay.ru/ https://jewelavid.com/ https://vladrustov.sx/ https://godzlive.com/ https://cast2record.com/"
+            ],
+            "StreamUrls": [
+                "https://webudit.hlsjs.ru/lb/premium11/index.m3u8",
+                "https://webudit.hlsjs.ru/lb/premium113/index.m3u8",
+                "https://webudit.hlsjs.ru/lb/premium111/index.m3u8"
+            ]
+        },  
+        {
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
@@ -321,6 +340,23 @@
                 "https://webudit.hlsjs.ru/lb/premium37/index.m3u8"
             ]
         },
+        {
+            "Title": "סיאטל סיהוקס",
+            "TitleEng": "Seattle Seahawks",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png",
+            "EPGProvider": "Text",
+            "EPGStationId": "שידור ישיר של המשחק.",        
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Origin:https://givemereddit.eu",
+                "Referer:https://givemereddit.eu/"
+            ],
+            "StreamUrls": [
+                "https://givemereddit.cloud/hls/seahawks/playlist.m3u8"
+            ]
+        }, 
         {
             "Title": "יס סרטי ילדים",
             "TitleEng": "Yes Movies Kids",
