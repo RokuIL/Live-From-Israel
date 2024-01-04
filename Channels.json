@@ -72,18 +72,6 @@
             ]
         },        
         {
-            "Title": "חדשות N12",
-            "TitleEng": "N12 News",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/n12.png",
-            "EPGProvider": "Text",
-            "EPGStationId": "מהדורת החדשות האחרונה. מתעדכן כל יום בשעה .22:00",        
-            "Private": "True",
-            "StreamFormat": "hls",
-            "StreamUrls": [
-                "https://makostore-hd.ctedgecdn.net/Makostore-Vod/_definst_/amlst:http/VOD/KESHET/hadashot_keshet/Mahadura_Merkazit/YYYY/month/mahadura_merkazit_DDMM24_vod_2l3k/mahadura_merkazit_DDMM24_vod_2l3k_,550,850,1400,2200,.mp4/playlist.m3u8"
-            ]
-        },
-        {
             "Title": "ספורט 1",
             "TitleEng": "Sport 1",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-1.png",
