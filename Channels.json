@@ -323,7 +323,8 @@
                 "Referer:https://givemereddit.eu/"
             ],
             "StreamUrls": [
-                "https://givemereddit.cloud/hls/seahawks/playlist.m3u8"
+                "https://givemereddit.cloud/hls/seahawks/playlist.m3u8",
+                "https://givemereddit.cloud/hls/cardinals/playlist.m3u8"
             ]
         }, 
         {
