@@ -519,60 +519,6 @@
             ]
         },
         {
-            "Title": "גלגל'צ אלטרנטיבי",
-            "TitleEng": "Galgalaz - Alternative",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-alt.png",
-            "StreamFormat": "mp3",
-            "StreamUrls": [
-                "http://glzwizzlv.bynetcdn.com/glglz_alt_mp3?awCollectionId=misc&awEpisodeId=glglz_alt"
-            ]
-        },
-        {
-            "Title": "גלגל'צ רוק קלאסי",
-            "TitleEng": "Galgalaz - Classic Rock",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-rock.png",
-            "StreamFormat": "mp3",
-            "StreamUrls": [
-                "http://glzwizzlv.bynetcdn.com/glglz_rock_mp3?awCollectionId=misc&awEpisodeId=glglz_rock"
-            ]
-        },
-        {
-            "Title": "גלגל'צ ים תיכוני",
-            "TitleEng": "Galgalaz - Mediterranean",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-med.png",
-            "StreamFormat": "mp3",
-            "StreamUrls": [
-                "http://glzwizzlv.bynetcdn.com/glglz_med_mp3?awCollectionId=misc&awEpisodeId=glglz_med"
-            ]
-        },
-        {
-            "Title": "גלגל'צ גל עברי",
-            "TitleEng": "Galgalaz - Hebrew",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-classicil.png",
-            "StreamFormat": "mp3",
-            "StreamUrls": [
-                "http://glzwizzlv.bynetcdn.com/glglz_classicil_mp3?awCollectionId=misc&awEpisodeId=glglz_classicil"
-            ]
-        },
-        {
-            "Title": "גלגל'צ להיטים חמים",
-            "TitleEng": "Galgalaz - Hits",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-hits.png",
-            "StreamFormat": "mp3",
-            "StreamUrls": [
-                "http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz"
-            ]
-        },
-        {
-            "Title": "גלגל'צ סופשבוע רגוע",
-            "TitleEng": "Galgalaz - Calm Weekend",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-sofshavua.png",
-            "StreamFormat": "mp3",
-            "StreamUrls": [
-                "http://glzwizzlv.bynetcdn.com/glglz_sofshavua_mp3?awCollectionId=misc&awEpisodeId=glglz_sofshavua"
-            ]
-        },
-        {
             "Title": "88FM",
             "TitleEng": "88FM",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_88.png",
