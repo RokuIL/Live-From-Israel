@@ -378,6 +378,10 @@
             "EPGStationId": "255",
             "Private": "True",
             "StreamFormat": "hls",
+            "Headers": [
+                "Origin:https://www.n12.co.il",
+                "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0"
+            ],
             "StreamUrls": [
                 "https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8",
                 "https://mako-streaming.akamaized.net@@MAKO:lp=@@/direct/hls/live/2035340/ch24/index.m3u8@@?b-in-range=800-2400&@@TICKET@@"
