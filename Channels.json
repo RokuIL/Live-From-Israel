@@ -34,8 +34,9 @@
             "Private": "True",
             "StreamFormat": "hls",
             "Headers": [
-                "Referer:https://weblivehdplay.ru/",
-                "user-agent=SmartOs Tv"
+                "Referer:https://www.n12.co.il/ https://weblivehdplay.ru/",
+                "Origin:https://www.n12.co.il",
+                "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0"
             ],
             "StreamUrls": [
                 "https://mako-streaming.akamaized.net@@MAKO:lp=@@/direct/hls/live/2033791/k12dvr/index.m3u8@@?@@TICKET@@",
