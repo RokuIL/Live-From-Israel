@@ -22,6 +22,9 @@
             "StreamUrls": [
                 "https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8",
                 "https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8",
+                "https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_sdqcljik/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8",
+                "https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_8ji7g6s3/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8",
+                "https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_syhxntss/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8",
                 "https://webudit.webhd.ru/lb/premium548/index.m3u8",
                 "https://www.dailymotion.com/player/metadata/video/x7wjmog"
             ]
@@ -410,6 +413,7 @@
                 "Referer:https://usnewson.com/ https://weblivehdplay.ru/"
             ],
             "StreamUrls": [
+                "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
                 "https://d30x5vsa85tvmd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/index.m3u8",
                 "https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8",
                 "https://d1mj4zol5huu6l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tp1e68v8mb0lb/index.m3u8"
