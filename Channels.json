@@ -148,7 +148,8 @@
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
-                "Referer:https://weblivehdplay.ru/"
+                "Referer:https://weblivehdplay.ru/",
+                "Origin:https://weblivehdplay.ru"
             ],
             "StreamUrls": [
                 "https://webudit.webhd.ru/lb/premium144/index.m3u8"
