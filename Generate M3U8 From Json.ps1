@@ -65,7 +65,7 @@ Foreach ($file in $files)
                     If (($test -eq $null) -and ($headers -ne 1))
                     {
                         "" | Out-File -Append -FilePath Channels.m3u8
-                        "#EXTINF:0, logo=""$logo"", $title" | Out-File -Append -FilePath Channels.m3u8
+                        "#EXTINF:0 tvg-logo==""$logo"",$title" | Out-File -Append -FilePath Channels.m3u8
                         "$mediaUrl" | Out-File -Append -FilePath Channels.m3u8
                     }
 
