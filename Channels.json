@@ -87,6 +87,7 @@
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
+                "Origin:https://claplivehdplay.ru",
                 "Referer:https://claplivehdplay.ru/"
             ],
             "StreamUrls": [
