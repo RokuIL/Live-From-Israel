@@ -89,6 +89,9 @@
             "EPGStationId": "מהדורת החדשות האחרונה. מתעדכן כל יום בשעה .22:00",        
             "Private": "True",
             "StreamFormat": "hls",
+            "Headers": [
+                "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0"
+            ],            
             "StreamUrls": [
                 "https://mako-vod.akamaized.net/i/SHORT/CH22_NEWS/YYYY/MM/mahadura_full_vtr2_nYYYYMMDD_v1/850/index_850.m3u8"
             ]
