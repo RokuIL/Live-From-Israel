@@ -88,7 +88,7 @@
             "EPGProvider": "Text",
             "EPGStationId": "מהדורת החדשות האחרונה. מתעדכן כל יום בשעה .22:00",        
             "Private": "True",
-            "StreamFormat": "mp4",
+            "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0"
             ],            
