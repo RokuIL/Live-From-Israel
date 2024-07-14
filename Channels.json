@@ -72,6 +72,7 @@
             "Title": "חדשות איי 24",
             "TitleEng": "i24 news",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/i24news.jpg",
+            "EPGProvider": "i24",
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
