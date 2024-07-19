@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Streams Grid</title>
+    <link href="https://vjs.zencdn.net/7.14.3/video-js.css" rel="stylesheet" />
+    <style>
+        body {
+            margin: 0;
+            display: flex;
+            flex-wrap: wrap;
+            height: 100vh;
+        }
+        .video-container {
+            width: 50%;
+            height: 50%;
+            position: relative;
+        }
+        .video-js {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+    </style>
+</head>
+<body>
+    <div class="video-container">
+        <video-js id="12" class="video-js vjs-default-skin" controls preload="auto" autoplay muted data-setup='{}'>
+            <source src="https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12/profile/3/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1" type="application/x-mpegURL">
+        </video-js>
+    </div>
+    <div class="video-container">
+        <video-js id="11" class="video-js vjs-default-skin" controls preload="auto" autoplay muted data-setup='{}'>
+            <source src="https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8" type="application/x-mpegURL">
+        </video-js>
+    </div>
+    <div class="video-container">
+        <video-js id="i24" class="video-js vjs-default-skin" controls preload="auto" autoplay muted data-setup='{}'>
+            <source src="https://bcovlive-a.akamaihd.net/54b8e6b753e3409c91856201d1f08731/eu-central-1/5377161796001/playlist.m3u8" type="application/x-mpegURL">
+        </video-js>
+    </div>
+    <div class="video-container">
+        <video-js id="13" class="video-js vjs-default-skin" controls preload="auto" autoplay muted data-setup='{}'>
+            <source src="http://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8" type="application/x-mpegURL">
+        </video-js>
+    </div>
+
+    <script src="https://vjs.zencdn.net/7.14.3/video.js"></script>
+    <script>
+        var options = {
+            autoplay: true,
+            muted: true
+        };
+        var player1 = videojs('12', options);
+        var player2 = videojs('11', options);
+        var player3 = videojs('i24', options);
+        var player4 = videojs('13', options);
+    </script>
+</body>
+</html>
