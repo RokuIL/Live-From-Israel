@@ -591,15 +591,6 @@
             ]
         },
         {
-            "Title": "רדיו 90 (אמצע הדרך) 90FM",
-            "TitleEng": "90FM - Middle of the Road",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/90fm.png",
-            "StreamFormat": "mp3",
-            "StreamUrls": [
-                "http://90.cdnwz.net/90fm"
-            ]
-        },
-        {
             "Title": "אקו 99FM",
             "TitleEng": "99FM - Echo",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/eco99fm.png",
@@ -634,15 +625,6 @@
             "StreamFormat": "aac_adts",
             "StreamUrls": [
                 "https://cdn.cybercdn.live/103FM/Live/icecast.audio"
-            ]
-        },
-        {
-            "Title": "קול הגליל העליון 105.3FM",
-            "TitleEng": "105.3FM - Hagalil HaElyon",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/galilradio_1053.png",
-            "StreamFormat": "mp3",
-            "StreamUrls": [
-                "http://1053.cdnwz.net/galil"
             ]
         },
         {
