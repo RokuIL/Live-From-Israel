@@ -9,25 +9,6 @@
     "TimeZoneOffset": "3",
     "Channels": [
         {
-            "Title": "סיאטל סיהוקס",
-            "TitleEng": "Seattle Seahawks",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png",
-            "EPGProvider": "Text",
-            "EPGStationId": "שידור ישיר בזמן משחק.",        
-            "Private": "True",
-            "BufferingTimer": "1",
-            "StreamFormat": "hls",
-            "Headers": [
-                "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0",
-                "Origin:https://locatedinfain.com",
-                "Referer:https://locatedinfain.com/"
-            ],
-            "StreamUrls": [
-                "https://b.trygeorge.shop/nfl8.m3u8?t=11",
-                "https://d6.hamaradilhai.com:999/hls/do43.m3u8?md5=HRzJ3sZjmXHfokzrx3PCxw&expires=1723337905"
-            ]
-        }, 
-        {
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
