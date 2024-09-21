@@ -35,7 +35,8 @@
             "Title": "קשת 12",
             "TitleEng": "Keshet 12",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png",
-            "EPGProvider": "Mako",
+            "EPGProvider": "Walla",
+            "EPGStationId": "3819",
             "Private": "True",
             "StreamFormat": "hls",
             "Headers": [
