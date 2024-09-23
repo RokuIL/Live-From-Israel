@@ -14,7 +14,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
             "EPGProvider": "Walla",
             "EPGStationId": "3787",
-            "Private": "True",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0",
@@ -35,9 +34,8 @@
             "Title": "קשת 12",
             "TitleEng": "Keshet 12",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png",
-            "EPGProvider": "Walla",
-            "EPGStationId": "3819",
-            "Private": "True",
+            "EPGProvider": "Mako",
+            "EPGBackup:": "True",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://www.n12.co.il/ https://lewblivehdplay.ru/",
@@ -58,7 +56,6 @@
             "TitleEng": "Reshet 13",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg",
             "EPGProvider": "Reshet",
-            "Private": "True",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0",
@@ -77,7 +74,6 @@
             "TitleEng": "i24 news",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/i24news.jpg",
             "EPGProvider": "i24",
-            "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://bcovlive-a.akamaihd.net/54b8e6b753e3409c91856201d1f08731/eu-central-1/5377161796001/playlist.m3u8"
@@ -90,7 +86,6 @@
             "OnlyIn" : "IL",
             "EPGProvider": "Text",
             "EPGStationId": "שידור ישיר 24x7 במהלך העונה.",        
-            "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8"
@@ -102,7 +97,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-1.png",
             "EPGProvider": "Sport1",
             "EPGStationId": "2",
-            "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -120,7 +114,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-3.png",
             "EPGProvider": "Sport1",
             "EPGStationId": "3",
-            "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -138,7 +131,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-4.png",
             "EPGProvider": "Sport1",
             "EPGStationId": "4",
-            "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -156,7 +148,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-5.png",
             "EPGProvider": "Sport1",
             "EPGStationId": "5",
-            "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -174,7 +165,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5.jpg",
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5",
-            "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -194,7 +184,6 @@
             "EPGStationId1": "5P",
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5P",
-            "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -212,7 +201,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Live.jpg",
             "EPGProvider": "Sport5TV",
             "EPGStationId": "LIVE",
-            "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -230,7 +218,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Stars.jpg",
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5STARS",
-            "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -248,7 +235,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Gold.jpg",
             "EPGProvider": "Sport5TV",
             "EPGStationId": "GOLD",
-            "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -266,7 +252,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-1.png",
             "EPGProvider": "Walla",
             "EPGStationId": "3551",
-            "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -282,7 +267,6 @@
             "Title": "ספורט 2 One",
             "TitleEng": "Sport One 2",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-2.png",
-            "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -300,7 +284,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN.png",
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "10179",
-            "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -318,7 +301,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN2.png",
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "12444",
-            "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -336,7 +318,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NFLNetwork.png",
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "45399",
-            "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -352,7 +333,6 @@
             "Title": "סקיי ספורטס אן.אפ.אל",
             "TitleEng": "Sky Sports NFL",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkySportsNFL.png",
-            "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -368,7 +348,6 @@
             "Title": "יס סרטי ילדים",
             "TitleEng": "Yes Movies Kids",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesKids.png",
-            "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -384,7 +363,6 @@
             "Title": "יס סרטי פעולה",
             "TitleEng": "Yes Movies Action",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesAction.png",
-            "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -400,7 +378,6 @@
             "Title": "יס סרטי קומדיה",
             "TitleEng": "Yes Movies Comedy",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesComedy.png",
-            "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -418,7 +395,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Hot3.png",
             "EPGProvider": "Walla",
             "EPGStationId": "353",
-            "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -436,7 +412,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/24.jpg",
             "EPGProvider": "Walla",
             "EPGStationId": "255",
-            "Private": "True",
             "StreamFormat": "hls",
             "Headers": [
                 "Origin:https://www.n12.co.il",
@@ -451,7 +426,6 @@
             "Title": "ערוץ הכנסת",
             "TitleEng": "Knesset",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Knesset.png",
-            "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/manifest.m3u8"
@@ -463,7 +437,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "10142",
-            "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
@@ -479,7 +452,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ABCNews.jpg",
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "113380",
-            "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
@@ -491,7 +463,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png",
             "EPGProvider": "NBC News ENG",
             "EPGStationId": "NEWS_NOW",
-            "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8",
@@ -504,7 +475,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Komo4News.png",
             "EPGProvider": "Text",
             "EPGStationId": "שידור חדשות חי, או הקלטת החדשות האחרונות.",        
-            "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://content.uplynk.com/SuNoSwen/index.m3u8?channel=140"
@@ -516,7 +486,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/King5News.png",
             "EPGProvider": "Text",
             "EPGStationId": "שידור חדשות חי, או הקלטת החדשות האחרונות.",        
-            "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://content.uplynk.com/SuNoSwen/index.m3u8?channel=233",
@@ -529,7 +498,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kiro7News.png",
             "EPGProvider": "Text",
             "EPGStationId": "שידור חדשות חי, או הקלטת החדשות האחרונות.",        
-            "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://content.uplynk.com/SuNoSwen/index.m3u8?channel=106"
@@ -541,7 +509,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Q13News.png",
             "EPGProvider": "Text",
             "EPGStationId": "שידור חדשות חי, או הקלטת החדשות האחרונות.",        
-            "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://csm-e-eb.csm.tubi.video/csm/live/622835763.m3u8?playback_start_ts=1704666696&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=555107&content_type=mp4&device_id=caec4c21-b9fb-4e15-bcc4-33cc34e9e679&language=en&now_pos=0&platform=WEB&pub_id=0a2ada522f8db273c200b95eee98d316&vpaid_enabled=true&yo.eb.fb=aHR0cHM6Ly9saXZlLW1hbmlmZXN0LnByb2R1Y3Rpb24tcHVibGljLnR1YmkuaW8vbGl2ZS9rY3BxL2gyNjQvcGxheWxpc3QubTN1OD90b2tlbj1leUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIzVnVkSEo1SWpvaVZWTWlMQ0prWlhacFkyVmZhV1FpT2lKallXVmpOR015TVMxaU9XWmlMVFJsTVRVdFltTmpOQzB6TTJOak16UmxPV1UyTnpraUxDSmxlSEFpT2pFM01EUTVNalU0T1RNc0ltbHpjeUk2SW14cGRtVmZibVYzYzE5dFlXNXBabVZ6ZENJc0luQnNZWFJtYjNKdElqb2lWMFZDSWl3aWNuTnpJam9pWkhVNlZrbEVSVTlmVWtWVFQweFZWRWxQVGw4M01qQlFJaXdpZFhObGNsOXBaQ0k2TUgwLnVvWnJQazBncG53a0cwOWpiR0F2S3dEb1hoMkNxX1o5Mm1GeE9DZHdISjZ3T0xMRW1kbzNsM1lYd0h2TGFhMUJfQVpmazhIeXFTRDR4YlVweTdiZmpR"
@@ -553,7 +520,6 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Search.png",
             "EPGProvider": "Text",
             "EPGStationId": "חיפוש ערוצים בלחיצה על חץ למעלה (+1), למטה (1-), ימינה (+100) או שמאלה (100-).",        
-            "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
