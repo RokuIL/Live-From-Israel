@@ -1,5 +1,5 @@
 {
-    "PID": "eykd8397f75ba191c138fjll9307a886a13f9339djh38de4323cb26cb7h37f9dj3d7cd847ac1353j8l, as38d4ca98629553ee932, ya209a5ad8ea3533924hd93k9ab0bebf9ce703kd342868f1ccf123d, es83e1e488118c6833kd, nikd830bb6fd96955e39djd3, rokd91c1f645b35eb29d98k, rk765ג1618ee8b757886sfd",
+    "PID": "eykd8397f75ba191c138fjll9307a886a13f9339djh38de4323cb26cb7h37f9dj3d7cd847ac1353j8l, as38d4ca98629553ee932398f7bf29516893e39d, ya209a5ad8ea3533924hd93k9ab0bebf9ce703kd342868f1ccf123d, es83e1e488118c6833kd, nikd830bb6fd96955e39djd3, rokd91c1f645b35eb29d98k, rk765ג1618ee8b757886sfd",
     "SystemMessage":
         {
             "DST" : "",
@@ -475,6 +475,7 @@
             "Title": "חדשות קומו 4",
             "TitleEng": "Komo 4 News",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Komo4News.png",
+            "OnlyIn" : "US",
             "EPGProvider": "Text",
             "EPGStationId": "שידור חדשות חי, או הקלטת החדשות האחרונות.",        
             "StreamFormat": "hls",
@@ -486,6 +487,7 @@
             "Title": "חדשות קינג 5",
             "TitleEng": "King 5 News",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/King5News.png",
+            "OnlyIn" : "US",
             "EPGProvider": "Text",
             "EPGStationId": "שידור חדשות חי, או הקלטת החדשות האחרונות.",        
             "StreamFormat": "hls",
@@ -498,6 +500,7 @@
             "Title": "חדשות קירו 7",
             "TitleEng": "Kiro 7 News",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kiro7News.png",
+            "OnlyIn" : "US",
             "EPGProvider": "Text",
             "EPGStationId": "שידור חדשות חי, או הקלטת החדשות האחרונות.",        
             "StreamFormat": "hls",
