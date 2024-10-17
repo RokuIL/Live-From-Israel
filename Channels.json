@@ -99,6 +99,8 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-1.png",
             "EPGProvider": "Sport1",
             "EPGStationId": "2",
+            "EPGBackup": "True",
+            "EPGBackupStationId": "146",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -116,6 +118,8 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-3.png",
             "EPGProvider": "Sport1",
             "EPGStationId": "3",
+            "EPGBackup": "True",
+            "EPGBackupStationId": "147",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -133,6 +137,8 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-4.png",
             "EPGProvider": "Sport1",
             "EPGStationId": "4",
+            "EPGBackup": "True",
+            "EPGBackupStationId": "3762",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -150,6 +156,8 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-5.png",
             "EPGProvider": "Sport1",
             "EPGStationId": "5",
+            "EPGBackup": "True",
+            "EPGBackupStationId": "3763",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -167,6 +175,8 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5.jpg",
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5",
+            "EPGBackup": "True",
+            "EPGBackupStationId": "289",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -203,6 +213,8 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Live.jpg",
             "EPGProvider": "Sport5TV",
             "EPGStationId": "LIVE",
+            "EPGBackup": "True",
+            "EPGBackupStationId": "322",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -220,6 +232,8 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Stars.jpg",
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5STARS",
+            "EPGBackup": "True",
+            "EPGBackupStationId": "521",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -237,6 +251,8 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Gold.jpg",
             "EPGProvider": "Sport5TV",
             "EPGStationId": "GOLD",
+            "EPGBackup": "True",
+            "EPGBackupStationId": "521",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
