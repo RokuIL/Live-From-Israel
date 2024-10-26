@@ -305,6 +305,8 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN.png",
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "10179",
+            "EPGBackupProvider": "WGP",
+            "EPGBackupStationId": "ESPN2",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -322,6 +324,8 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN2.png",
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "12444",
+            "EPGBackupProvider": "WGP",
+            "EPGBackupStationId": "ESPN2",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -339,6 +343,8 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NFLNetwork.png",
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "45399",
+            "EPGBackupProvider": "WGP",
+            "EPGBackupStationId": "NFL%20Network",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -473,6 +479,8 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "10142",
+            "EPGBackupProvider": "WGP",
+            "EPGBackupStationId": "CNN%20International",
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
@@ -488,6 +496,8 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ABCNews.jpg",
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "113380",
+            "EPGBackupProvider": "WGP",
+            "EPGBackupStationId": "ABC%20News",
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
