@@ -306,7 +306,7 @@
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "10179",
             "EPGBackupProvider": "WGP.ENG",
-            "EPGBackupStationId": "ESPN2",
+            "EPGBackupStationId": "ESPN",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
