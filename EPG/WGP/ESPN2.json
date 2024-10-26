@@ -1,197 +1,167 @@
 [
     {
-        "start":  "2024-10-25T08:00:00.0000000",
+        "start":  "2024-10-25T18:00:00.0000000",
         "title":  "30 for 30",
-        "end":  "2024-10-25T09:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-25T09:00:00.0000000",
-        "title":  "The Captain",
-        "end":  "2024-10-25T10:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-25T10:00:00.0000000",
-        "title":  "ESPN FC",
-        "end":  "2024-10-25T11:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-25T11:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-10-25T12:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-25T12:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-10-25T13:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-25T15:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-10-25T16:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-25T16:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-10-25T17:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-25T17:00:00.0000000",
-        "title":  "Get Up",
         "end":  "2024-10-25T19:00:00.0000000"
     },
     {
         "start":  "2024-10-25T19:00:00.0000000",
-        "title":  "First Take",
+        "title":  "The Captain",
+        "end":  "2024-10-25T20:00:00.0000000"
+    },
+    {
+        "start":  "2024-10-25T20:00:00.0000000",
+        "title":  "ESPN FC",
         "end":  "2024-10-25T21:00:00.0000000"
     },
     {
         "start":  "2024-10-25T21:00:00.0000000",
-        "title":  "The Breakdown with Peyton and Belichick",
-        "end":  "2024-10-25T21:25:00.0000000"
+        "title":  "SportsCenter",
+        "end":  "2024-10-25T22:00:00.0000000"
     },
     {
-        "start":  "2024-10-25T21:25:00.0000000",
-        "title":  "Formula One Racing",
-        "end":  "2024-10-25T22:30:00.0000000"
-    },
-    {
-        "start":  "2024-10-25T22:30:00.0000000",
-        "title":  "The Breakdown with Peyton and Belichick",
+        "start":  "2024-10-25T22:00:00.0000000",
+        "title":  "SportsCenter",
         "end":  "2024-10-25T23:00:00.0000000"
     },
     {
-        "start":  "2024-10-25T23:00:00.0000000",
-        "title":  "UFC Live",
-        "end":  "2024-10-25T23:30:00.0000000"
-    },
-    {
-        "start":  "2024-10-25T23:30:00.0000000",
-        "title":  "College Football Live",
-        "end":  "2024-10-26T00:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-26T00:00:00.0000000",
-        "title":  "Baseball Tonight",
-        "end":  "2024-10-26T01:00:00.0000000"
-    },
-    {
         "start":  "2024-10-26T01:00:00.0000000",
-        "title":  "ESPN BET Live",
+        "title":  "SportsCenter",
         "end":  "2024-10-26T02:00:00.0000000"
     },
     {
         "start":  "2024-10-26T02:00:00.0000000",
-        "title":  "Baseball Tonight",
-        "end":  "2024-10-26T02:30:00.0000000"
-    },
-    {
-        "start":  "2024-10-26T02:30:00.0000000",
-        "title":  "College Football",
-        "end":  "2024-10-26T05:30:00.0000000"
-    },
-    {
-        "start":  "2024-10-26T05:30:00.0000000",
         "title":  "SportsCenter",
+        "end":  "2024-10-26T03:00:00.0000000"
+    },
+    {
+        "start":  "2024-10-26T03:00:00.0000000",
+        "title":  "Get Up",
+        "end":  "2024-10-26T05:00:00.0000000"
+    },
+    {
+        "start":  "2024-10-26T05:00:00.0000000",
+        "title":  "First Take",
         "end":  "2024-10-26T07:00:00.0000000"
     },
     {
         "start":  "2024-10-26T07:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-10-26T07:30:00.0000000"
+        "title":  "The Breakdown with Peyton and Belichick",
+        "end":  "2024-10-26T07:25:00.0000000"
     },
     {
-        "start":  "2024-10-26T07:30:00.0000000",
-        "title":  "ESPN FC",
-        "end":  "2024-10-26T07:30:00.0000000"
-    },
-    {
-        "start":  "2024-10-26T07:30:00.0000000",
-        "title":  "ESPN FC",
+        "start":  "2024-10-26T07:25:00.0000000",
+        "title":  "Formula One Racing",
         "end":  "2024-10-26T08:30:00.0000000"
     },
     {
         "start":  "2024-10-26T08:30:00.0000000",
-        "title":  "Pardon the Interruption",
+        "title":  "The Breakdown with Peyton and Belichick",
         "end":  "2024-10-26T09:00:00.0000000"
     },
     {
         "start":  "2024-10-26T09:00:00.0000000",
-        "title":  "NBA Basketball",
+        "title":  "UFC Live",
+        "end":  "2024-10-26T09:30:00.0000000"
+    },
+    {
+        "start":  "2024-10-26T09:30:00.0000000",
+        "title":  "College Football Live",
+        "end":  "2024-10-26T10:00:00.0000000"
+    },
+    {
+        "start":  "2024-10-26T10:00:00.0000000",
+        "title":  "Baseball Tonight",
         "end":  "2024-10-26T11:00:00.0000000"
     },
     {
         "start":  "2024-10-26T11:00:00.0000000",
-        "title":  "SportsCenter",
+        "title":  "ESPN BET Live",
         "end":  "2024-10-26T12:00:00.0000000"
     },
     {
         "start":  "2024-10-26T12:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-10-26T13:00:00.0000000"
+        "title":  "Baseball Tonight",
+        "end":  "2024-10-26T12:30:00.0000000"
     },
     {
-        "start":  "2024-10-26T14:00:00.0000000",
-        "title":  "NFL Live",
-        "end":  "2024-10-26T15:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-26T15:00:00.0000000",
-        "title":  "NFL Matchup",
+        "start":  "2024-10-26T12:30:00.0000000",
+        "title":  "College Football",
         "end":  "2024-10-26T15:30:00.0000000"
     },
     {
         "start":  "2024-10-26T15:30:00.0000000",
-        "title":  "The Breakdown with Peyton and Belichick",
-        "end":  "2024-10-26T16:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-26T16:00:00.0000000",
         "title":  "SportsCenter",
         "end":  "2024-10-26T17:00:00.0000000"
     },
     {
         "start":  "2024-10-26T17:00:00.0000000",
         "title":  "SportsCenter",
-        "end":  "2024-10-26T18:00:00.0000000"
+        "end":  "2024-10-26T17:30:00.0000000"
     },
     {
-        "start":  "2024-10-26T18:00:00.0000000",
-        "title":  "ESPN BET Live",
+        "start":  "2024-10-26T17:30:00.0000000",
+        "title":  "ESPN FC",
+        "end":  "2024-10-26T17:30:00.0000000"
+    },
+    {
+        "start":  "2024-10-26T17:30:00.0000000",
+        "title":  "ESPN FC",
+        "end":  "2024-10-26T18:30:00.0000000"
+    },
+    {
+        "start":  "2024-10-26T18:30:00.0000000",
+        "title":  "Pardon the Interruption",
         "end":  "2024-10-26T19:00:00.0000000"
     },
     {
         "start":  "2024-10-26T19:00:00.0000000",
-        "title":  "College Football",
+        "title":  "NBA Basketball",
+        "end":  "2024-10-26T21:00:00.0000000"
+    },
+    {
+        "start":  "2024-10-26T21:00:00.0000000",
+        "title":  "SportsCenter",
         "end":  "2024-10-26T22:00:00.0000000"
     },
     {
         "start":  "2024-10-26T22:00:00.0000000",
-        "title":  "College Football Scoreboard",
+        "title":  "SportsCenter",
         "end":  "2024-10-26T23:00:00.0000000"
     },
     {
-        "start":  "2024-10-26T23:00:00.0000000",
-        "title":  "College Football",
+        "start":  "2024-10-27T00:00:00.0000000",
+        "title":  "NFL Live",
+        "end":  "2024-10-27T01:00:00.0000000"
+    },
+    {
+        "start":  "2024-10-27T01:00:00.0000000",
+        "title":  "NFL Matchup",
+        "end":  "2024-10-27T01:30:00.0000000"
+    },
+    {
+        "start":  "2024-10-27T01:30:00.0000000",
+        "title":  "The Breakdown with Peyton and Belichick",
         "end":  "2024-10-27T02:00:00.0000000"
     },
     {
         "start":  "2024-10-27T02:00:00.0000000",
-        "title":  "College Football Scoreboard",
+        "title":  "SportsCenter",
         "end":  "2024-10-27T03:00:00.0000000"
     },
     {
         "start":  "2024-10-27T03:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-10-27T04:00:00.0000000"
+    },
+    {
+        "start":  "2024-10-27T04:00:00.0000000",
+        "title":  "ESPN BET Live",
+        "end":  "2024-10-27T05:00:00.0000000"
+    },
+    {
+        "start":  "2024-10-27T05:00:00.0000000",
         "title":  "College Football",
-        "end":  "2024-10-27T06:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-27T06:00:00.0000000",
-        "title":  "College Football Scoreboard",
-        "end":  "2024-10-27T06:30:00.0000000"
-    },
-    {
-        "start":  "2024-10-27T06:30:00.0000000",
-        "title":  "The Breakdown with Peyton and Belichick",
-        "end":  "2024-10-27T07:00:00.0000000"
+        "end":  "2024-10-27T08:00:00.0000000"
     }
 ]
