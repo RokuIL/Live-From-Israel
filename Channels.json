@@ -482,7 +482,7 @@
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "10142",
             "EPGBackupProvider": "WGP.ENG",
-            "EPGBackupStationId": "CNN%20International",
+            "EPGBackupStationId": "CNN",
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
