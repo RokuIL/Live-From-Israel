@@ -1,77 +1,7 @@
 [
     {
-        "start":  "2024-10-30T05:00:00.0000000",
-        "title":  "NFL Football: Teams TBA",
-        "end":  "2024-10-30T08:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-30T08:00:00.0000000",
-        "title":  "The Insiders: 10-29-2024",
-        "end":  "2024-10-30T09:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-30T09:00:00.0000000",
-        "title":  "NFL Fantasy Live: 10-29-2024 - Season 2024, Episode 73",
-        "end":  "2024-10-30T10:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-30T10:00:00.0000000",
-        "title":  "NFL Football: Teams TBA",
-        "end":  "2024-10-30T12:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-30T12:00:00.0000000",
-        "title":  "Good Morning Football: 10-30-2024 - Season 2024, Episode 144",
-        "end":  "2024-10-30T14:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-30T14:00:00.0000000",
-        "title":  "Good Morning Football: 10-30-2024 - Season 2024, Episode 144",
-        "end":  "2024-10-30T16:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-30T16:00:00.0000000",
-        "title":  "Good Morning Football: 10-30-2024 - Season 2024, Episode 144",
-        "end":  "2024-10-30T18:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-30T18:00:00.0000000",
-        "title":  "NFL Football: Teams TBA",
-        "end":  "2024-10-30T21:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-30T21:00:00.0000000",
-        "title":  "NFL Weekly Slate",
-        "end":  "2024-10-30T22:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-30T22:00:00.0000000",
-        "title":  "NFL Fantasy Live: 10-30-2024 - Season 2024, Episode 74",
-        "end":  "2024-10-30T23:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-30T23:00:00.0000000",
-        "title":  "The Insiders: 10-30-2024",
-        "end":  "2024-10-31T00:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-31T00:00:00.0000000",
-        "title":  "NFL Football: Teams TBA",
-        "end":  "2024-10-31T03:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-31T03:00:00.0000000",
-        "title":  "The Insiders: 10-30-2024",
-        "end":  "2024-10-31T04:00:00.0000000"
-    },
-    {
-        "start":  "2024-10-31T04:00:00.0000000",
-        "title":  "Inside the NFL",
-        "end":  "2024-10-31T05:00:00.0000000"
-    },
-    {
         "start":  "2024-10-31T05:00:00.0000000",
-        "title":  "NFL Football: Teams TBA",
+        "title":  "Sunday Night Football: Dallas Cowboys at San Francisco 49ers",
         "end":  "2024-10-31T08:00:00.0000000"
     },
     {
@@ -86,7 +16,12 @@
     },
     {
         "start":  "2024-10-31T10:00:00.0000000",
-        "title":  "NFL Football: Teams TBA",
+        "title":  "NFL Weekly Slate",
+        "end":  "2024-10-31T11:00:00.0000000"
+    },
+    {
+        "start":  "2024-10-31T11:00:00.0000000",
+        "title":  "Inside the NFL",
         "end":  "2024-10-31T12:00:00.0000000"
     },
     {
@@ -106,7 +41,7 @@
     },
     {
         "start":  "2024-10-31T18:00:00.0000000",
-        "title":  "NFL Football: Teams TBA",
+        "title":  "NFL Football: Chicago Bears at Washington Commanders",
         "end":  "2024-10-31T21:00:00.0000000"
     },
     {
@@ -131,7 +66,7 @@
     },
     {
         "start":  "2024-11-01T00:15:00.0000000",
-        "title":  "NFL Football: Teams TBA",
+        "title":  "NFL Football: Baltimore Ravens at Cleveland Browns",
         "end":  "2024-11-01T03:15:00.0000000"
     },
     {
@@ -143,5 +78,85 @@
         "start":  "2024-11-01T03:45:00.0000000",
         "title":  "NFL GameDay Final",
         "end":  "2024-11-01T04:15:00.0000000"
+    },
+    {
+        "start":  "2024-11-01T04:15:00.0000000",
+        "title":  "Thursday Night Football: Houston Texans at New York Jets",
+        "end":  "2024-11-01T04:15:00.0000000"
+    },
+    {
+        "start":  "2024-11-01T04:15:00.0000000",
+        "title":  "Thursday Night Football: Houston Texans at New York Jets",
+        "end":  "2024-11-01T07:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-01T07:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2024-11-01T07:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-01T07:30:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2024-11-01T08:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-01T08:00:00.0000000",
+        "title":  "NFL GameDay View",
+        "end":  "2024-11-01T09:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-01T09:00:00.0000000",
+        "title":  "Inside the NFL",
+        "end":  "2024-11-01T10:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-01T10:00:00.0000000",
+        "title":  "Thursday Night Football: Houston Texans at New York Jets",
+        "end":  "2024-11-01T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-01T12:00:00.0000000",
+        "title":  "Good Morning Football: 11-01-2024 - Season 2024, Episode 146",
+        "end":  "2024-11-01T14:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-01T14:00:00.0000000",
+        "title":  "Good Morning Football: 11-01-2024 - Season 2024, Episode 146",
+        "end":  "2024-11-01T16:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-01T16:00:00.0000000",
+        "title":  "Good Morning Football: 11-01-2024 - Season 2024, Episode 146",
+        "end":  "2024-11-01T18:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-01T18:00:00.0000000",
+        "title":  "Thursday Night Football: Houston Texans at New York Jets",
+        "end":  "2024-11-01T21:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-01T21:00:00.0000000",
+        "title":  "NFL Weekly Slate",
+        "end":  "2024-11-01T22:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-01T22:00:00.0000000",
+        "title":  "NFL Fantasy Live: 11-01-2024 - Season 2024, Episode 76",
+        "end":  "2024-11-01T23:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-01T23:00:00.0000000",
+        "title":  "The Insiders: 11-01-2024",
+        "end":  "2024-11-02T00:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-02T00:00:00.0000000",
+        "title":  "Thursday Night Football: Houston Texans at New York Jets",
+        "end":  "2024-11-02T03:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-02T03:00:00.0000000",
+        "title":  "Inside the NFL",
+        "end":  "2024-11-02T04:00:00.0000000"
     }
 ]
