@@ -1,202 +1,137 @@
 [
     {
-        "start":  "2024-11-03T05:00:00.0000000",
-        "title":  "The Whole Story with Anderson Cooper: Where Harris Stands: Fight for the White House",
-        "end":  "2024-11-03T05:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-03T05:00:00.0000000",
-        "title":  "The Whole Story with Anderson Cooper: Where Trump Stands: Fight for the White House",
-        "end":  "2024-11-03T06:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-03T06:00:00.0000000",
-        "title":  "The Whole Story with Anderson Cooper: Where Harris Stands: Fight for the White House",
-        "end":  "2024-11-03T07:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-03T07:00:00.0000000",
-        "title":  "The Whole Story with Anderson Cooper: Where Trump Stands: Fight for the White House",
-        "end":  "2024-11-03T08:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-03T10:00:00.0000000",
-        "title":  "CNN This Morning Weekend: 11-03-2024",
-        "end":  "2024-11-03T11:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-03T11:00:00.0000000",
-        "title":  "CNN This Morning Weekend: 11-03-2024 -2",
-        "end":  "2024-11-03T12:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-03T12:00:00.0000000",
-        "title":  "Inside Politics With Manu Raju: 11-03-2024",
-        "end":  "2024-11-03T13:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-03T13:00:00.0000000",
-        "title":  "State of the Union With Jake Tapper and Dana Bash: 11-03-2024 - Season 4, Episode 44",
-        "end":  "2024-11-03T14:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-03T14:00:00.0000000",
-        "title":  "Fareed Zakaria GPS: 11-03-2024 - Season 17, Episode 49",
-        "end":  "2024-11-03T15:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-03T15:00:00.0000000",
-        "title":  "Inside Politics With Manu Raju: 11-03-2024",
-        "end":  "2024-11-03T16:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-03T16:00:00.0000000",
-        "title":  "State of the Union With Jake Tapper and Dana Bash: 11-03-2024 - Season 4, Episode 44",
-        "end":  "2024-11-03T17:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-03T17:00:00.0000000",
-        "title":  "Fareed Zakaria GPS: 11-03-2024 - Season 17, Episode 49",
-        "end":  "2024-11-03T18:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-03T18:00:00.0000000",
-        "title":  "CNN Newsroom With Fredricka Whitfield: 11-03-2024 - Season 2024, Episode 309",
-        "end":  "2024-11-03T19:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-03T19:00:00.0000000",
-        "title":  "CNN Newsroom With Fredricka Whitfield: 11-03-2024 -2 - Season 2024, Episode 310",
-        "end":  "2024-11-03T20:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-03T20:00:00.0000000",
-        "title":  "CNN Newsroom With Fredricka Whitfield: 11-03-2024 -3 - Season 2024, Episode 311",
-        "end":  "2024-11-03T21:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-03T21:00:00.0000000",
-        "title":  "Situation Room With Wolf Blitzer: Countdown to Election Day - Season 2024, Episode 262",
-        "end":  "2024-11-03T22:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-03T22:00:00.0000000",
-        "title":  "Situation Room With Wolf Blitzer: Countdown to Election Day",
-        "end":  "2024-11-03T23:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-03T23:00:00.0000000",
-        "title":  "Erin Burnett OutFront: Countdown to Election Day - Season 2024, Episode 215",
-        "end":  "2024-11-04T00:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-04T00:00:00.0000000",
-        "title":  "Anderson Cooper 360: Countdown to Election Day - Season 2024, Episode 213",
-        "end":  "2024-11-04T01:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-04T01:00:00.0000000",
-        "title":  "The Source with Kaitlan Collins: Countdown to Election Day - Season 2, Episode 223",
-        "end":  "2024-11-04T02:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-04T02:00:00.0000000",
-        "title":  "CNN Newsnight With Abby Phillip: Countdown to Election Day",
-        "end":  "2024-11-04T03:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-04T03:00:00.0000000",
-        "title":  "Laura Coates Live: Countdown to Election Day",
-        "end":  "2024-11-04T04:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-04T04:00:00.0000000",
-        "title":  "Anderson Cooper 360: Countdown to Election Day - Season 2024, Episode 213",
-        "end":  "2024-11-04T05:00:00.0000000"
-    },
-    {
         "start":  "2024-11-04T05:00:00.0000000",
-        "title":  "Erin Burnett OutFront: Countdown to Election Day - Season 2024, Episode 215",
+        "title":  "Anderson Cooper 360: Countdown to Election Day - Season 2024, Episode 213",
         "end":  "2024-11-04T06:00:00.0000000"
     },
     {
         "start":  "2024-11-04T06:00:00.0000000",
-        "title":  "The Source with Kaitlan Collins: Countdown to Election Day - Season 2, Episode 223",
+        "title":  "Erin Burnett OutFront: Countdown to Election Day - Season 2024, Episode 215",
         "end":  "2024-11-04T07:00:00.0000000"
     },
     {
         "start":  "2024-11-04T07:00:00.0000000",
-        "title":  "CNN Newsnight With Abby Phillip: Countdown to Election Day",
+        "title":  "The Source with Kaitlan Collins: Countdown to Election Day - Season 2, Episode 223",
         "end":  "2024-11-04T08:00:00.0000000"
     },
     {
         "start":  "2024-11-04T08:00:00.0000000",
-        "title":  "Anderson Cooper 360: Countdown to Election Day - Season 2024, Episode 213",
+        "title":  "CNN Newsnight With Abby Phillip: Countdown to Election Day",
         "end":  "2024-11-04T09:00:00.0000000"
     },
     {
         "start":  "2024-11-04T09:00:00.0000000",
-        "title":  "Countdown to Election Day: 11-04-2024",
+        "title":  "Anderson Cooper 360: Countdown to Election Day - Season 2024, Episode 213",
         "end":  "2024-11-04T10:00:00.0000000"
     },
     {
         "start":  "2024-11-04T10:00:00.0000000",
-        "title":  "Countdown to Election Day: 11-04-2024 -2",
+        "title":  "Countdown to Election Day: 11-04-2024",
         "end":  "2024-11-04T11:00:00.0000000"
     },
     {
         "start":  "2024-11-04T11:00:00.0000000",
+        "title":  "Countdown to Election Day: 11-04-2024 -2",
+        "end":  "2024-11-04T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-04T12:00:00.0000000",
         "title":  "Countdown to Election Day: 11-04-2024 -3",
-        "end":  "2024-11-04T14:00:00.0000000"
+        "end":  "2024-11-04T15:00:00.0000000"
     },
     {
-        "start":  "2024-11-04T14:00:00.0000000",
+        "start":  "2024-11-04T15:00:00.0000000",
         "title":  "Countdown to Election Day: 11-04-2024 -4",
-        "end":  "2024-11-04T16:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-04T16:00:00.0000000",
-        "title":  "Countdown to Election Day: 11-04-2024 -5",
         "end":  "2024-11-04T17:00:00.0000000"
     },
     {
         "start":  "2024-11-04T17:00:00.0000000",
-        "title":  "Countdown to Election Day: 11-04-2024 -6",
-        "end":  "2024-11-04T20:00:00.0000000"
+        "title":  "Countdown to Election Day: 11-04-2024 -5",
+        "end":  "2024-11-04T18:00:00.0000000"
     },
     {
-        "start":  "2024-11-04T20:00:00.0000000",
-        "title":  "The Lead With Jake Tapper: Countdown to Election Day",
+        "start":  "2024-11-04T18:00:00.0000000",
+        "title":  "Countdown to Election Day: 11-04-2024 -6",
         "end":  "2024-11-04T21:00:00.0000000"
     },
     {
         "start":  "2024-11-04T21:00:00.0000000",
-        "title":  "The Lead With Jake Tapper: Countdown to Election Day - Season 2024, Episode 430",
+        "title":  "The Lead With Jake Tapper: Countdown to Election Day",
         "end":  "2024-11-04T22:00:00.0000000"
     },
     {
         "start":  "2024-11-04T22:00:00.0000000",
-        "title":  "Situation Room With Wolf Blitzer: Countdown to Election Day - Season 2024, Episode 263",
+        "title":  "The Lead With Jake Tapper: Countdown to Election Day - Season 2024, Episode 430",
         "end":  "2024-11-04T23:00:00.0000000"
     },
     {
         "start":  "2024-11-04T23:00:00.0000000",
-        "title":  "Erin Burnett OutFront: Countdown to Election Day - Season 2024, Episode 216",
+        "title":  "Situation Room With Wolf Blitzer: Countdown to Election Day - Season 2024, Episode 263",
         "end":  "2024-11-05T00:00:00.0000000"
     },
     {
         "start":  "2024-11-05T00:00:00.0000000",
-        "title":  "Anderson Cooper 360: Countdown to Election Day - Season 2024, Episode 215",
+        "title":  "Erin Burnett OutFront: Countdown to Election Day - Season 2024, Episode 216",
         "end":  "2024-11-05T01:00:00.0000000"
     },
     {
         "start":  "2024-11-05T01:00:00.0000000",
-        "title":  "The Source with Kaitlan Collins: Countdown to Election Day - Season 2, Episode 224",
+        "title":  "Anderson Cooper 360: Countdown to Election Day - Season 2024, Episode 216",
         "end":  "2024-11-05T02:00:00.0000000"
     },
     {
         "start":  "2024-11-05T02:00:00.0000000",
-        "title":  "CNN Newsnight With Abby Phillip: Countdown to Election Day",
+        "title":  "The Source with Kaitlan Collins: Countdown to Election Day - Season 2, Episode 224",
         "end":  "2024-11-05T03:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-05T03:00:00.0000000",
+        "title":  "CNN Newsnight With Abby Phillip: Countdown to Election Day",
+        "end":  "2024-11-05T04:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-05T04:00:00.0000000",
+        "title":  "Laura Coates Live: Countdown to Election Day",
+        "end":  "2024-11-05T05:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-05T05:00:00.0000000",
+        "title":  "Election Day in America: 11-05-2024",
+        "end":  "2024-11-05T08:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-05T08:00:00.0000000",
+        "title":  "Election Day in America: 11-05-2024 -2",
+        "end":  "2024-11-05T10:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-05T10:00:00.0000000",
+        "title":  "Election Day in America: 11-05-2024 -3",
+        "end":  "2024-11-05T11:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-05T11:00:00.0000000",
+        "title":  "Election Day in America: 11-05-2024 -4",
+        "end":  "2024-11-05T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-05T12:00:00.0000000",
+        "title":  "Election Day in America: 11-05-2024 -5",
+        "end":  "2024-11-05T15:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-05T15:00:00.0000000",
+        "title":  "Election Day in America: 11-05-2024 -6",
+        "end":  "2024-11-05T17:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-05T17:00:00.0000000",
+        "title":  "Election Day in America: 11-05-2024 -7",
+        "end":  "2024-11-05T21:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-05T21:00:00.0000000",
+        "title":  "Election Night in America: 11-05-2024",
+        "end":  "2024-11-06T01:00:00.0000000"
     }
 ]
