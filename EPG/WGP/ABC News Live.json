@@ -1,67 +1,12 @@
 [
     {
-        "start":  "2024-11-04T01:00:00.0000000",
-        "title":  "20/20",
-        "end":  "2024-11-04T03:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-04T03:00:00.0000000",
-        "title":  "Bruce Springsteen: Backstage and Backstreets",
-        "end":  "2024-11-04T04:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-04T04:00:00.0000000",
-        "title":  "ABC World News Tonight With David Muir",
-        "end":  "2024-11-04T04:30:00.0000000"
-    },
-    {
-        "start":  "2024-11-04T04:30:00.0000000",
-        "title":  "ABC World News Tonight With David Muir",
-        "end":  "2024-11-04T05:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-04T05:00:00.0000000",
-        "title":  "20/20",
-        "end":  "2024-11-04T07:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-04T07:00:00.0000000",
-        "title":  "Election Day 2024: Race for the White House",
-        "end":  "2024-11-04T11:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-04T11:00:00.0000000",
-        "title":  "ABCNL Prime With Linsey Davis",
-        "end":  "2024-11-04T13:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-04T13:00:00.0000000",
-        "title":  "Election 2024: Race for the White House",
-        "end":  "2024-11-04T21:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-04T21:00:00.0000000",
-        "title":  "Election 2024: Race for the White House",
-        "end":  "2024-11-05T00:00:00.0000000"
-    },
-    {
         "start":  "2024-11-05T00:00:00.0000000",
-        "title":  "Election Day 2024: Race for the White House",
-        "end":  "2024-11-05T04:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-05T04:00:00.0000000",
-        "title":  "ABCNL Prime With Linsey Davis",
+        "title":  "Election 2024: Race for the White House",
         "end":  "2024-11-05T07:00:00.0000000"
     },
     {
         "start":  "2024-11-05T07:00:00.0000000",
         "title":  "Election Day 2024: Race for the White House",
-        "end":  "2024-11-05T10:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-05T10:00:00.0000000",
-        "title":  "ABCNL Prime With Linsey Davis",
         "end":  "2024-11-05T13:00:00.0000000"
     },
     {
@@ -73,5 +18,25 @@
         "start":  "2024-11-05T21:00:00.0000000",
         "title":  "Election Day 2024: Race for the White House",
         "end":  "2024-11-06T00:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-06T00:00:00.0000000",
+        "title":  "Election Night 2024: Your Voice/Your Vote",
+        "end":  "2024-11-06T07:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-06T07:00:00.0000000",
+        "title":  "Election 2024: Race for the White House",
+        "end":  "2024-11-06T15:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-06T15:00:00.0000000",
+        "title":  "Election 2024: Race for the White House",
+        "end":  "2024-11-06T21:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-06T21:00:00.0000000",
+        "title":  "Election 2024: Race for the White House",
+        "end":  "2024-11-07T00:00:00.0000000"
     }
 ]
