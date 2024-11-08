@@ -1,37 +1,32 @@
 [
     {
-        "start":  "2024-11-08T03:05:00.0000000",
-        "title":  "NBA Basketball: Philadelphia 76ers at Los Angeles Clippers",
-        "end":  "2024-11-08T05:35:00.0000000"
+        "start":  "2024-11-08T05:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-08T06:00:00.0000000"
     },
     {
-        "start":  "2024-11-08T05:35:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
-        "end":  "2024-11-08T06:35:00.0000000"
+        "start":  "2024-11-08T06:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-08T07:00:00.0000000"
     },
     {
-        "start":  "2024-11-08T06:35:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
-        "end":  "2024-11-08T07:35:00.0000000"
+        "start":  "2024-11-08T07:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-08T08:00:00.0000000"
     },
     {
-        "start":  "2024-11-08T07:35:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
-        "end":  "2024-11-08T08:35:00.0000000"
-    },
-    {
-        "start":  "2024-11-08T08:35:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
+        "start":  "2024-11-08T08:00:00.0000000",
+        "title":  "SportsCenter",
         "end":  "2024-11-08T09:00:00.0000000"
     },
     {
         "start":  "2024-11-08T09:00:00.0000000",
-        "title":  "NBA Basketball: Philadelphia 76ers at Los Angeles Clippers",
+        "title":  "College Football: Appalachian State at Coastal Carolina",
         "end":  "2024-11-08T11:00:00.0000000"
     },
     {
         "start":  "2024-11-08T11:00:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
+        "title":  "SportsCenter",
         "end":  "2024-11-08T12:00:00.0000000"
     },
     {
@@ -82,21 +77,111 @@
     {
         "start":  "2024-11-08T23:00:00.0000000",
         "title":  "SportsCenter",
+        "end":  "2024-11-08T23:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-08T23:30:00.0000000",
+        "title":  "SportsCenter Veterans Day Special",
         "end":  "2024-11-09T00:00:00.0000000"
     },
     {
         "start":  "2024-11-09T00:00:00.0000000",
-        "title":  "E60",
-        "end":  "2024-11-09T01:00:00.0000000"
+        "title":  "NBA Countdown",
+        "end":  "2024-11-09T00:30:00.0000000"
     },
     {
-        "start":  "2024-11-09T01:00:00.0000000",
-        "title":  "College Football: Appalachian State at Coastal Carolina",
-        "end":  "2024-11-09T04:00:00.0000000"
+        "start":  "2024-11-09T00:30:00.0000000",
+        "title":  "NBA Courtside",
+        "end":  "2024-11-09T00:43:00.0000000"
     },
     {
-        "start":  "2024-11-09T04:00:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
-        "end":  "2024-11-09T05:00:00.0000000"
+        "start":  "2024-11-09T00:43:00.0000000",
+        "title":  "NBA Basketball: Phoenix Suns at Dallas Mavericks",
+        "end":  "2024-11-09T03:05:00.0000000"
+    },
+    {
+        "start":  "2024-11-09T03:05:00.0000000",
+        "title":  "NBA Basketball: Philadelphia 76ers at Los Angeles Lakers",
+        "end":  "2024-11-09T03:05:00.0000000"
+    },
+    {
+        "start":  "2024-11-09T03:05:00.0000000",
+        "title":  "NBA Basketball: Philadelphia 76ers at Los Angeles Lakers",
+        "end":  "2024-11-09T05:35:00.0000000"
+    },
+    {
+        "start":  "2024-11-09T05:35:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-09T06:35:00.0000000"
+    },
+    {
+        "start":  "2024-11-09T06:35:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-09T07:35:00.0000000"
+    },
+    {
+        "start":  "2024-11-09T07:35:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-09T08:35:00.0000000"
+    },
+    {
+        "start":  "2024-11-09T08:35:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-09T09:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-09T09:00:00.0000000",
+        "title":  "NBA Basketball: Philadelphia 76ers at Los Angeles Lakers",
+        "end":  "2024-11-09T11:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-09T11:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-09T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-09T12:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-09T13:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-09T13:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-09T14:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-09T14:00:00.0000000",
+        "title":  "College GameDay",
+        "end":  "2024-11-09T17:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-09T17:00:00.0000000",
+        "title":  "College Football",
+        "end":  "2024-11-09T20:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-09T20:00:00.0000000",
+        "title":  "College Football Scoreboard",
+        "end":  "2024-11-09T20:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-09T20:30:00.0000000",
+        "title":  "College Football: Clemson at Virginia Tech",
+        "end":  "2024-11-09T23:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-09T23:30:00.0000000",
+        "title":  "College Football Scoreboard",
+        "end":  "2024-11-10T00:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-10T00:00:00.0000000",
+        "title":  "College Football: Mississippi State at Tennessee",
+        "end":  "2024-11-10T03:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-10T03:00:00.0000000",
+        "title":  "College Football Scoreboard",
+        "end":  "2024-11-10T03:15:00.0000000"
     }
 ]
