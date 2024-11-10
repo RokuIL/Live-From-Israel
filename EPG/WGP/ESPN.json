@@ -1,92 +1,87 @@
 [
     {
-        "start":  "2024-11-10T03:05:00.0000000",
-        "title":  "NBA Basketball: Philadelphia 76ers at Los Angeles Lakers",
-        "end":  "2024-11-10T05:35:00.0000000"
-    },
-    {
-        "start":  "2024-11-10T05:35:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-11-10T06:35:00.0000000"
-    },
-    {
-        "start":  "2024-11-10T06:35:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-11-10T07:35:00.0000000"
-    },
-    {
-        "start":  "2024-11-10T07:35:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-11-10T08:35:00.0000000"
-    },
-    {
-        "start":  "2024-11-10T08:35:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-11-10T09:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-10T09:00:00.0000000",
-        "title":  "NBA Basketball: Philadelphia 76ers at Los Angeles Lakers",
-        "end":  "2024-11-10T11:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-10T11:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-11-10T12:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-10T12:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-11-10T13:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-10T13:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-11-10T14:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-10T14:00:00.0000000",
-        "title":  "College GameDay",
-        "end":  "2024-11-10T17:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-10T17:00:00.0000000",
-        "title":  "College Football",
-        "end":  "2024-11-10T20:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-10T20:00:00.0000000",
-        "title":  "College Football Scoreboard",
-        "end":  "2024-11-10T20:30:00.0000000"
-    },
-    {
-        "start":  "2024-11-10T20:30:00.0000000",
-        "title":  "College Football: Clemson at Virginia Tech",
-        "end":  "2024-11-10T23:30:00.0000000"
-    },
-    {
-        "start":  "2024-11-10T23:30:00.0000000",
-        "title":  "College Football Scoreboard",
-        "end":  "2024-11-11T00:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-11T00:00:00.0000000",
-        "title":  "College Football: Mississippi State at Tennessee",
-        "end":  "2024-11-11T03:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-11T03:00:00.0000000",
-        "title":  "College Football Scoreboard",
-        "end":  "2024-11-11T03:15:00.0000000"
-    },
-    {
-        "start":  "2024-11-11T03:15:00.0000000",
-        "title":  "College Football",
-        "end":  "2024-11-11T03:15:00.0000000"
-    },
-    {
         "start":  "2024-11-11T03:15:00.0000000",
         "title":  "College Football",
         "end":  "2024-11-11T06:15:00.0000000"
+    },
+    {
+        "start":  "2024-11-11T06:15:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-11T07:15:00.0000000"
+    },
+    {
+        "start":  "2024-11-11T07:15:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-11T08:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-11T08:00:00.0000000",
+        "title":  "College Football Final",
+        "end":  "2024-11-11T09:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-11T09:00:00.0000000",
+        "title":  "NFL Matchup",
+        "end":  "2024-11-11T09:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-11T09:30:00.0000000",
+        "title":  "College Football: Mississippi State at Tennessee",
+        "end":  "2024-11-11T11:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-11T11:30:00.0000000",
+        "title":  "NFL Matchup",
+        "end":  "2024-11-11T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-11T12:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-11T13:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-11T13:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-11T14:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-11T14:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-11T15:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-11T15:00:00.0000000",
+        "title":  "Sunday NFL Countdown",
+        "end":  "2024-11-11T18:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-12T00:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-12T01:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-12T01:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-12T01:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-12T02:00:00.0000000",
+        "title":  "The Fab Five",
+        "end":  "2024-11-12T04:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-12T04:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-12T04:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-12T04:30:00.0000000",
+        "title":  "SportsCenter with Scott Van Pelt",
+        "end":  "2024-11-12T04:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-12T04:30:00.0000000",
+        "title":  "SportsCenter with Scott Van Pelt",
+        "end":  "2024-11-12T06:00:00.0000000"
     }
 ]
