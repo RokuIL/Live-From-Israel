@@ -1,37 +1,32 @@
 [
     {
-        "start":  "2024-11-15T03:05:00.0000000",
-        "title":  "NBA Basketball: Memphis Grizzlies at Los Angeles Lakers",
-        "end":  "2024-11-15T05:35:00.0000000"
+        "start":  "2024-11-15T05:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-15T06:00:00.0000000"
     },
     {
-        "start":  "2024-11-15T05:35:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
-        "end":  "2024-11-15T06:35:00.0000000"
+        "start":  "2024-11-15T06:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-15T07:00:00.0000000"
     },
     {
-        "start":  "2024-11-15T06:35:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
-        "end":  "2024-11-15T07:35:00.0000000"
+        "start":  "2024-11-15T07:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-15T08:00:00.0000000"
     },
     {
-        "start":  "2024-11-15T07:35:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
-        "end":  "2024-11-15T08:35:00.0000000"
-    },
-    {
-        "start":  "2024-11-15T08:35:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
+        "start":  "2024-11-15T08:00:00.0000000",
+        "title":  "SportsCenter",
         "end":  "2024-11-15T09:00:00.0000000"
     },
     {
         "start":  "2024-11-15T09:00:00.0000000",
-        "title":  "NBA Basketball: Memphis Grizzlies at Los Angeles Lakers",
+        "title":  "College Football: East Carolina at Tulsa",
         "end":  "2024-11-15T11:00:00.0000000"
     },
     {
         "start":  "2024-11-15T11:00:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
+        "title":  "SportsCenter",
         "end":  "2024-11-15T12:00:00.0000000"
     },
     {
@@ -86,17 +81,102 @@
     },
     {
         "start":  "2024-11-16T00:00:00.0000000",
-        "title":  "College Football Countdown",
+        "title":  "NBA Countdown",
         "end":  "2024-11-16T00:30:00.0000000"
     },
     {
         "start":  "2024-11-16T00:30:00.0000000",
-        "title":  "College Football: East Carolina at Tulsa",
-        "end":  "2024-11-16T03:30:00.0000000"
+        "title":  "NBA Courtside",
+        "end":  "2024-11-16T00:43:00.0000000"
     },
     {
-        "start":  "2024-11-16T03:30:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
-        "end":  "2024-11-16T05:00:00.0000000"
+        "start":  "2024-11-16T00:43:00.0000000",
+        "title":  "NBA Basketball",
+        "end":  "2024-11-16T03:05:00.0000000"
+    },
+    {
+        "start":  "2024-11-16T03:05:00.0000000",
+        "title":  "NBA Basketball: Memphis Grizzlies at Golden State Warriors",
+        "end":  "2024-11-16T03:05:00.0000000"
+    },
+    {
+        "start":  "2024-11-16T03:05:00.0000000",
+        "title":  "NBA Basketball: Memphis Grizzlies at Golden State Warriors",
+        "end":  "2024-11-16T05:35:00.0000000"
+    },
+    {
+        "start":  "2024-11-16T05:35:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-16T06:35:00.0000000"
+    },
+    {
+        "start":  "2024-11-16T06:35:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-16T07:35:00.0000000"
+    },
+    {
+        "start":  "2024-11-16T07:35:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-16T08:35:00.0000000"
+    },
+    {
+        "start":  "2024-11-16T08:35:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-16T09:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-16T09:00:00.0000000",
+        "title":  "NBA Basketball: Memphis Grizzlies at Golden State Warriors",
+        "end":  "2024-11-16T11:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-16T11:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-16T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-16T12:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-16T13:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-16T13:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-16T14:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-16T14:00:00.0000000",
+        "title":  "College GameDay",
+        "end":  "2024-11-16T17:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-16T17:00:00.0000000",
+        "title":  "College Football: Clemson at Pittsburgh",
+        "end":  "2024-11-16T20:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-16T20:00:00.0000000",
+        "title":  "College Football Scoreboard",
+        "end":  "2024-11-16T20:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-16T20:30:00.0000000",
+        "title":  "College Football",
+        "end":  "2024-11-16T23:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-16T23:30:00.0000000",
+        "title":  "College Football Scoreboard",
+        "end":  "2024-11-17T00:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-17T00:00:00.0000000",
+        "title":  "College Football",
+        "end":  "2024-11-17T03:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-17T03:00:00.0000000",
+        "title":  "College Football Scoreboard",
+        "end":  "2024-11-17T03:15:00.0000000"
     }
 ]
