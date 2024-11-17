@@ -1,92 +1,107 @@
 [
     {
-        "start":  "2024-11-17T03:05:00.0000000",
-        "title":  "NBA Basketball: Memphis Grizzlies at Golden State Warriors",
-        "end":  "2024-11-17T05:35:00.0000000"
-    },
-    {
-        "start":  "2024-11-17T05:35:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-11-17T06:35:00.0000000"
-    },
-    {
-        "start":  "2024-11-17T06:35:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-11-17T07:35:00.0000000"
-    },
-    {
-        "start":  "2024-11-17T07:35:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-11-17T08:35:00.0000000"
-    },
-    {
-        "start":  "2024-11-17T08:35:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-11-17T09:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-17T09:00:00.0000000",
-        "title":  "NBA Basketball: Memphis Grizzlies at Golden State Warriors",
-        "end":  "2024-11-17T11:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-17T11:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-11-17T12:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-17T12:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-11-17T13:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-17T13:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-11-17T14:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-17T14:00:00.0000000",
-        "title":  "College GameDay",
-        "end":  "2024-11-17T17:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-17T17:00:00.0000000",
-        "title":  "College Football: Clemson at Pittsburgh",
-        "end":  "2024-11-17T20:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-17T20:00:00.0000000",
-        "title":  "College Football Scoreboard",
-        "end":  "2024-11-17T20:30:00.0000000"
-    },
-    {
-        "start":  "2024-11-17T20:30:00.0000000",
-        "title":  "College Football",
-        "end":  "2024-11-17T23:30:00.0000000"
-    },
-    {
-        "start":  "2024-11-17T23:30:00.0000000",
-        "title":  "College Football Scoreboard",
-        "end":  "2024-11-18T00:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-18T00:00:00.0000000",
-        "title":  "College Football",
-        "end":  "2024-11-18T03:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-18T03:00:00.0000000",
-        "title":  "College Football Scoreboard",
-        "end":  "2024-11-18T03:15:00.0000000"
-    },
-    {
-        "start":  "2024-11-18T03:15:00.0000000",
-        "title":  "College Football",
-        "end":  "2024-11-18T03:15:00.0000000"
-    },
-    {
         "start":  "2024-11-18T03:15:00.0000000",
         "title":  "College Football",
         "end":  "2024-11-18T06:15:00.0000000"
+    },
+    {
+        "start":  "2024-11-18T06:15:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-18T07:15:00.0000000"
+    },
+    {
+        "start":  "2024-11-18T07:15:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-18T08:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-18T08:00:00.0000000",
+        "title":  "College Football Final",
+        "end":  "2024-11-18T09:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-18T09:00:00.0000000",
+        "title":  "NFL Matchup",
+        "end":  "2024-11-18T09:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-18T09:30:00.0000000",
+        "title":  "College Football",
+        "end":  "2024-11-18T11:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-18T11:30:00.0000000",
+        "title":  "NFL Matchup",
+        "end":  "2024-11-18T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-18T12:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-18T13:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-18T13:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-18T14:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-18T14:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-18T15:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-18T15:00:00.0000000",
+        "title":  "Sunday NFL Countdown",
+        "end":  "2024-11-18T18:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-18T22:00:00.0000000",
+        "title":  "WNBA Draft Lottery",
+        "end":  "2024-11-18T22:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-18T23:00:00.0000000",
+        "title":  "College Football Final",
+        "end":  "2024-11-19T00:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-19T00:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-19T01:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-19T01:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-19T01:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-19T01:30:00.0000000",
+        "title":  "SportsCenter Special",
+        "end":  "2024-11-19T02:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-19T02:30:00.0000000",
+        "title":  "Classic Boxing: Mike Tyson\u0027s Greatest Hits",
+        "end":  "2024-11-19T03:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-19T03:00:00.0000000",
+        "title":  "Classic Boxing: Mike Tyson\u0027s Greatest Hits II",
+        "end":  "2024-11-19T04:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-19T04:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-19T04:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-19T04:30:00.0000000",
+        "title":  "SportsCenter with Scott Van Pelt",
+        "end":  "2024-11-19T04:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-19T04:30:00.0000000",
+        "title":  "SportsCenter with Scott Van Pelt",
+        "end":  "2024-11-19T06:00:00.0000000"
     }
 ]
