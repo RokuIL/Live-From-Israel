@@ -1,37 +1,32 @@
 [
     {
-        "start":  "2024-11-22T03:05:00.0000000",
-        "title":  "NBA Basketball",
-        "end":  "2024-11-22T05:35:00.0000000"
+        "start":  "2024-11-22T05:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-22T06:00:00.0000000"
     },
     {
-        "start":  "2024-11-22T05:35:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
-        "end":  "2024-11-22T06:35:00.0000000"
+        "start":  "2024-11-22T06:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-22T07:00:00.0000000"
     },
     {
-        "start":  "2024-11-22T06:35:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
-        "end":  "2024-11-22T07:35:00.0000000"
+        "start":  "2024-11-22T07:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-22T08:00:00.0000000"
     },
     {
-        "start":  "2024-11-22T07:35:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
-        "end":  "2024-11-22T08:35:00.0000000"
-    },
-    {
-        "start":  "2024-11-22T08:35:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
+        "start":  "2024-11-22T08:00:00.0000000",
+        "title":  "SportsCenter",
         "end":  "2024-11-22T09:00:00.0000000"
     },
     {
         "start":  "2024-11-22T09:00:00.0000000",
-        "title":  "NBA Basketball",
+        "title":  "College Football: North Carolina State at Georgia Tech",
         "end":  "2024-11-22T11:00:00.0000000"
     },
     {
         "start":  "2024-11-22T11:00:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
+        "title":  "SportsCenter",
         "end":  "2024-11-22T12:00:00.0000000"
     },
     {
@@ -86,17 +81,102 @@
     },
     {
         "start":  "2024-11-23T00:00:00.0000000",
-        "title":  "College Football Countdown",
+        "title":  "NBA Countdown",
         "end":  "2024-11-23T00:30:00.0000000"
     },
     {
         "start":  "2024-11-23T00:30:00.0000000",
-        "title":  "College Football: North Carolina State at Georgia Tech",
-        "end":  "2024-11-23T03:30:00.0000000"
+        "title":  "NBA Courtside",
+        "end":  "2024-11-23T00:43:00.0000000"
     },
     {
-        "start":  "2024-11-23T03:30:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
-        "end":  "2024-11-23T05:00:00.0000000"
+        "start":  "2024-11-23T00:43:00.0000000",
+        "title":  "NBA Basketball: Golden State Warriors at New Orleans Pelicans",
+        "end":  "2024-11-23T03:05:00.0000000"
+    },
+    {
+        "start":  "2024-11-23T03:05:00.0000000",
+        "title":  "NBA Basketball: Dallas Mavericks at Denver Nuggets",
+        "end":  "2024-11-23T03:05:00.0000000"
+    },
+    {
+        "start":  "2024-11-23T03:05:00.0000000",
+        "title":  "NBA Basketball: Dallas Mavericks at Denver Nuggets",
+        "end":  "2024-11-23T05:35:00.0000000"
+    },
+    {
+        "start":  "2024-11-23T05:35:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-23T05:55:00.0000000"
+    },
+    {
+        "start":  "2024-11-23T05:55:00.0000000",
+        "title":  "Formula One Racing: Las Vegas Grand Prix Qualifying",
+        "end":  "2024-11-23T07:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-23T07:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-23T08:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-23T08:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-23T09:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-23T09:00:00.0000000",
+        "title":  "NBA Basketball: Dallas Mavericks at Denver Nuggets",
+        "end":  "2024-11-23T11:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-23T11:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-23T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-23T12:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-23T13:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-23T13:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-23T14:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-23T14:00:00.0000000",
+        "title":  "College GameDay",
+        "end":  "2024-11-23T17:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-23T17:00:00.0000000",
+        "title":  "College Football",
+        "end":  "2024-11-23T20:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-23T20:00:00.0000000",
+        "title":  "College Football Scoreboard",
+        "end":  "2024-11-23T20:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-23T20:30:00.0000000",
+        "title":  "College Football",
+        "end":  "2024-11-23T23:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-23T23:30:00.0000000",
+        "title":  "College Football Scoreboard",
+        "end":  "2024-11-24T00:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-24T00:30:00.0000000",
+        "title":  "College Football",
+        "end":  "2024-11-24T03:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-24T03:30:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-24T04:30:00.0000000"
     }
 ]
