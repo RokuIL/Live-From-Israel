@@ -1,37 +1,27 @@
 [
     {
-        "start":  "2024-11-23T04:45:00.0000000",
-        "title":  "NFL GameDay Final",
-        "end":  "2024-11-23T05:15:00.0000000"
-    },
-    {
-        "start":  "2024-11-23T05:15:00.0000000",
-        "title":  "Thursday Night Football: Pittsburgh Steelers at Cleveland Browns",
-        "end":  "2024-11-23T08:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-23T08:00:00.0000000",
-        "title":  "NFL GameDay Final",
-        "end":  "2024-11-23T08:30:00.0000000"
-    },
-    {
-        "start":  "2024-11-23T08:30:00.0000000",
-        "title":  "NFL GameDay Final",
-        "end":  "2024-11-23T09:00:00.0000000"
+        "start":  "2024-11-23T05:00:00.0000000",
+        "title":  "NFL GameDay View",
+        "end":  "2024-11-23T06:00:00.0000000"
     },
     {
         "start":  "2024-11-23T09:00:00.0000000",
-        "title":  "NFL GameDay View",
+        "title":  "The Insiders",
         "end":  "2024-11-23T10:00:00.0000000"
     },
     {
         "start":  "2024-11-23T10:00:00.0000000",
-        "title":  "Inside the NFL",
+        "title":  "NFL Fantasy Live",
         "end":  "2024-11-23T11:00:00.0000000"
     },
     {
         "start":  "2024-11-23T11:00:00.0000000",
-        "title":  "Thursday Night Football: Pittsburgh Steelers at Cleveland Browns",
+        "title":  "Sound FX: Thanksgiving 2011 - San Francisco 49ers vs. Baltimore Ravens",
+        "end":  "2024-11-23T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-23T12:00:00.0000000",
+        "title":  "Sound FX",
         "end":  "2024-11-23T13:00:00.0000000"
     },
     {
@@ -41,42 +31,97 @@
     },
     {
         "start":  "2024-11-23T15:00:00.0000000",
-        "title":  "Good Morning Football",
+        "title":  "NFL GameDay View",
+        "end":  "2024-11-23T16:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-23T16:00:00.0000000",
+        "title":  "Inside the NFL",
         "end":  "2024-11-23T17:00:00.0000000"
     },
     {
         "start":  "2024-11-23T17:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2024-11-23T19:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-23T19:00:00.0000000",
-        "title":  "NFL Weekly Slate",
+        "title":  "Thursday Night Football: Pittsburgh Steelers at Cleveland Browns",
         "end":  "2024-11-23T20:00:00.0000000"
     },
     {
         "start":  "2024-11-23T20:00:00.0000000",
-        "title":  "Thursday Night Football: Pittsburgh Steelers at Cleveland Browns",
+        "title":  "NFL Football",
         "end":  "2024-11-23T23:00:00.0000000"
     },
     {
-        "start":  "2024-11-23T23:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2024-11-24T00:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-24T00:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2024-11-24T01:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-24T01:00:00.0000000",
-        "title":  "Thursday Night Football: Pittsburgh Steelers at Cleveland Browns",
-        "end":  "2024-11-24T04:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-24T04:00:00.0000000",
-        "title":  "Inside the NFL",
+        "start":  "2024-11-24T02:00:00.0000000",
+        "title":  "Super Bowl XLVII",
         "end":  "2024-11-24T05:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-24T05:00:00.0000000",
+        "title":  "Inside the NFL",
+        "end":  "2024-11-24T06:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-24T06:00:00.0000000",
+        "title":  "NFL GameDay View",
+        "end":  "2024-11-24T07:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-24T07:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2024-11-24T08:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-24T08:00:00.0000000",
+        "title":  "NFL Football: Seattle Seahawks at San Francisco 49ers",
+        "end":  "2024-11-24T11:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-24T11:00:00.0000000",
+        "title":  "NFL Weekly Slate",
+        "end":  "2024-11-24T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-24T12:00:00.0000000",
+        "title":  "NFL GameDay View",
+        "end":  "2024-11-24T13:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-24T13:00:00.0000000",
+        "title":  "Inside the NFL",
+        "end":  "2024-11-24T14:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-24T14:00:00.0000000",
+        "title":  "NFL Gameday Morning",
+        "end":  "2024-11-24T18:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-24T18:00:00.0000000",
+        "title":  "NFL GameDay Live",
+        "end":  "2024-11-24T21:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-24T21:30:00.0000000",
+        "title":  "NFL GameDay Live",
+        "end":  "2024-11-25T00:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-25T00:30:00.0000000",
+        "title":  "NFL Gameday Highlights",
+        "end":  "2024-11-25T01:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-25T01:30:00.0000000",
+        "title":  "NFL Gameday Highlights",
+        "end":  "2024-11-25T02:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-25T02:30:00.0000000",
+        "title":  "NFL Gameday Highlights",
+        "end":  "2024-11-25T03:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-25T03:30:00.0000000",
+        "title":  "NFL Gameday Highlights",
+        "end":  "2024-11-25T04:30:00.0000000"
     }
 ]
