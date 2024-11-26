@@ -1,87 +1,77 @@
 [
     {
-        "start":  "2024-11-26T04:30:00.0000000",
-        "title":  "NFL GameDay Final",
-        "end":  "2024-11-26T05:30:00.0000000"
-    },
-    {
-        "start":  "2024-11-26T05:30:00.0000000",
-        "title":  "NFL GameDay Final",
-        "end":  "2024-11-26T06:30:00.0000000"
-    },
-    {
-        "start":  "2024-11-26T06:30:00.0000000",
-        "title":  "NFL GameDay Final",
-        "end":  "2024-11-26T07:30:00.0000000"
-    },
-    {
-        "start":  "2024-11-26T07:30:00.0000000",
-        "title":  "NFL GameDay Final",
-        "end":  "2024-11-26T08:30:00.0000000"
-    },
-    {
-        "start":  "2024-11-26T08:30:00.0000000",
-        "title":  "Sunday Night Football: Philadelphia Eagles at Los Angeles Rams",
-        "end":  "2024-11-26T11:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-26T11:00:00.0000000",
-        "title":  "NFL GameDay Final",
-        "end":  "2024-11-26T12:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-26T12:00:00.0000000",
-        "title":  "NFL GameDay Final",
-        "end":  "2024-11-26T13:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-26T13:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2024-11-26T15:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-26T15:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2024-11-26T17:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-26T17:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2024-11-26T19:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-26T19:00:00.0000000",
-        "title":  "NFL Weekly Slate",
-        "end":  "2024-11-26T20:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-26T20:00:00.0000000",
-        "title":  "Sunday Night Football: Philadelphia Eagles at Los Angeles Rams",
-        "end":  "2024-11-26T23:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-26T23:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2024-11-27T00:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-27T00:00:00.0000000",
-        "title":  "NFL GameDay Kickoff",
-        "end":  "2024-11-27T01:15:00.0000000"
-    },
-    {
-        "start":  "2024-11-27T01:15:00.0000000",
-        "title":  "NFL Football",
-        "end":  "2024-11-27T03:45:00.0000000"
-    },
-    {
-        "start":  "2024-11-27T04:15:00.0000000",
-        "title":  "NFL GameDay Final",
-        "end":  "2024-11-27T04:15:00.0000000"
-    },
-    {
         "start":  "2024-11-27T04:15:00.0000000",
         "title":  "NFL GameDay Final",
         "end":  "2024-11-27T05:15:00.0000000"
+    },
+    {
+        "start":  "2024-11-27T05:15:00.0000000",
+        "title":  "Monday Night Football: Baltimore Ravens at Los Angeles Chargers",
+        "end":  "2024-11-27T08:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-27T08:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2024-11-27T09:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-27T09:00:00.0000000",
+        "title":  "NFL Weekly Slate",
+        "end":  "2024-11-27T10:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-27T10:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2024-11-27T11:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-27T11:00:00.0000000",
+        "title":  "Monday Night Football: Baltimore Ravens at Los Angeles Chargers",
+        "end":  "2024-11-27T13:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-27T13:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2024-11-27T15:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-27T15:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2024-11-27T17:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-27T17:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2024-11-27T19:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-27T19:00:00.0000000",
+        "title":  "NFL Weekly Slate",
+        "end":  "2024-11-27T20:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-27T20:00:00.0000000",
+        "title":  "Monday Night Football: Baltimore Ravens at Los Angeles Chargers",
+        "end":  "2024-11-27T23:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-27T23:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2024-11-28T00:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-28T00:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2024-11-28T01:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-28T01:00:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2024-11-28T04:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-28T04:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2024-11-28T05:00:00.0000000"
     }
 ]
