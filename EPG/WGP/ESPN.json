@@ -1,82 +1,77 @@
 [
     {
-        "start":  "2024-11-28T06:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-11-28T07:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-28T07:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-11-28T08:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-28T08:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-11-28T09:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-28T09:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-11-28T10:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-28T10:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-11-28T11:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-28T11:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-11-28T12:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-28T12:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-11-28T13:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-28T13:00:00.0000000",
-        "title":  "Get Up",
-        "end":  "2024-11-28T15:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-28T15:00:00.0000000",
-        "title":  "First Take",
-        "end":  "2024-11-28T17:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-28T19:00:00.0000000",
-        "title":  "College Basketball Live Scoreboard",
-        "end":  "2024-11-28T19:30:00.0000000"
-    },
-    {
-        "start":  "2024-11-28T21:30:00.0000000",
-        "title":  "College Basketball Live Scoreboard",
-        "end":  "2024-11-28T22:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T00:00:00.0000000",
-        "title":  "NBA Countdown",
-        "end":  "2024-11-29T00:30:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T00:30:00.0000000",
-        "title":  "NBA Courtside",
-        "end":  "2024-11-29T00:43:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T00:43:00.0000000",
-        "title":  "NBA Basketball: New York Knicks at Dallas Mavericks",
-        "end":  "2024-11-29T03:05:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T03:05:00.0000000",
-        "title":  "NBA Basketball: Oklahoma City Thunder at Golden State Warriors",
-        "end":  "2024-11-29T03:05:00.0000000"
-    },
-    {
         "start":  "2024-11-29T03:05:00.0000000",
         "title":  "NBA Basketball: Oklahoma City Thunder at Golden State Warriors",
         "end":  "2024-11-29T05:35:00.0000000"
+    },
+    {
+        "start":  "2024-11-29T05:35:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-29T06:35:00.0000000"
+    },
+    {
+        "start":  "2024-11-29T06:35:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-29T07:35:00.0000000"
+    },
+    {
+        "start":  "2024-11-29T07:35:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-29T08:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-29T08:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-29T09:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-29T09:00:00.0000000",
+        "title":  "NBA Basketball: New York Knicks at Dallas Mavericks",
+        "end":  "2024-11-29T11:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-29T11:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-29T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-29T12:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-29T13:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-29T13:00:00.0000000",
+        "title":  "Get Up",
+        "end":  "2024-11-29T15:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-29T15:00:00.0000000",
+        "title":  "First Take",
+        "end":  "2024-11-29T17:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-29T19:00:00.0000000",
+        "title":  "College Basketball Live Scoreboard",
+        "end":  "2024-11-29T19:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-29T21:30:00.0000000",
+        "title":  "College Basketball Live Scoreboard",
+        "end":  "2024-11-29T22:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T00:00:00.0000000",
+        "title":  "College Football Countdown",
+        "end":  "2024-11-30T00:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T00:30:00.0000000",
+        "title":  "College Football",
+        "end":  "2024-11-30T03:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T03:30:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-30T05:00:00.0000000"
     }
 ]
