@@ -1,21 +1,16 @@
 [
     {
-        "start":  "2024-11-29T03:05:00.0000000",
-        "title":  "NBA Basketball: Oklahoma City Thunder at Golden State Warriors",
-        "end":  "2024-11-29T05:35:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T05:35:00.0000000",
+        "start":  "2024-11-29T05:00:00.0000000",
         "title":  "SportsCenter",
-        "end":  "2024-11-29T06:35:00.0000000"
+        "end":  "2024-11-29T06:00:00.0000000"
     },
     {
-        "start":  "2024-11-29T06:35:00.0000000",
+        "start":  "2024-11-29T06:00:00.0000000",
         "title":  "SportsCenter",
-        "end":  "2024-11-29T07:35:00.0000000"
+        "end":  "2024-11-29T07:00:00.0000000"
     },
     {
-        "start":  "2024-11-29T07:35:00.0000000",
+        "start":  "2024-11-29T07:00:00.0000000",
         "title":  "SportsCenter",
         "end":  "2024-11-29T08:00:00.0000000"
     },
@@ -26,7 +21,7 @@
     },
     {
         "start":  "2024-11-29T09:00:00.0000000",
-        "title":  "NBA Basketball: New York Knicks at Dallas Mavericks",
+        "title":  "College Football",
         "end":  "2024-11-29T11:00:00.0000000"
     },
     {
@@ -50,28 +45,108 @@
         "end":  "2024-11-29T17:00:00.0000000"
     },
     {
-        "start":  "2024-11-29T19:00:00.0000000",
-        "title":  "College Basketball Live Scoreboard",
-        "end":  "2024-11-29T19:30:00.0000000"
+        "start":  "2024-11-29T17:00:00.0000000",
+        "title":  "College Football: Navy at East Carolina",
+        "end":  "2024-11-29T20:00:00.0000000"
     },
     {
-        "start":  "2024-11-29T21:30:00.0000000",
+        "start":  "2024-11-29T20:00:00.0000000",
         "title":  "College Basketball Live Scoreboard",
-        "end":  "2024-11-29T22:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-30T00:00:00.0000000",
-        "title":  "College Football Countdown",
-        "end":  "2024-11-30T00:30:00.0000000"
+        "end":  "2024-11-29T20:30:00.0000000"
     },
     {
         "start":  "2024-11-30T00:30:00.0000000",
-        "title":  "College Football",
-        "end":  "2024-11-30T03:30:00.0000000"
+        "title":  "NBA Courtside",
+        "end":  "2024-11-30T00:43:00.0000000"
     },
     {
-        "start":  "2024-11-30T03:30:00.0000000",
+        "start":  "2024-11-30T00:43:00.0000000",
+        "title":  "NBA Basketball: Los Angeles Clippers at Minnesota Timberwolves",
+        "end":  "2024-11-30T03:05:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T03:05:00.0000000",
+        "title":  "NBA Basketball: Oklahoma City Thunder at Los Angeles Lakers",
+        "end":  "2024-11-30T03:05:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T03:05:00.0000000",
+        "title":  "NBA Basketball: Oklahoma City Thunder at Los Angeles Lakers",
+        "end":  "2024-11-30T05:35:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T05:35:00.0000000",
         "title":  "SportsCenter",
-        "end":  "2024-11-30T05:00:00.0000000"
+        "end":  "2024-11-30T06:35:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T06:35:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-30T07:35:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T07:35:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-30T08:35:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T08:35:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-30T09:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T09:00:00.0000000",
+        "title":  "College Football: Navy at East Carolina",
+        "end":  "2024-11-30T11:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T11:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-30T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T12:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-30T13:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T13:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-11-30T14:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T14:00:00.0000000",
+        "title":  "College GameDay",
+        "end":  "2024-11-30T17:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T17:00:00.0000000",
+        "title":  "College Football: South Carolina at Clemson",
+        "end":  "2024-11-30T20:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T20:00:00.0000000",
+        "title":  "College Football Scoreboard",
+        "end":  "2024-11-30T20:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T20:30:00.0000000",
+        "title":  "College Football: Miami at Syracuse",
+        "end":  "2024-11-30T23:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T23:30:00.0000000",
+        "title":  "College Football Scoreboard",
+        "end":  "2024-12-01T00:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-01T00:00:00.0000000",
+        "title":  "College Football: Oklahoma at LSU",
+        "end":  "2024-12-01T03:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-01T03:00:00.0000000",
+        "title":  "College Football Scoreboard",
+        "end":  "2024-12-01T03:15:00.0000000"
     }
 ]

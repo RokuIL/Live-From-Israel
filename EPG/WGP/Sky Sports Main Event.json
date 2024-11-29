@@ -1,60 +1,5 @@
 [
     {
-        "start":  "2024-11-28T06:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2024-11-28T07:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-28T07:00:00.0000000",
-        "title":  "Live Test Cricket",
-        "end":  "2024-11-28T15:30:00.0000000"
-    },
-    {
-        "start":  "2024-11-28T15:30:00.0000000",
-        "title":  "Sports Desk",
-        "end":  "2024-11-28T16:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-28T16:00:00.0000000",
-        "title":  "Sports Desk",
-        "end":  "2024-11-28T17:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-28T17:00:00.0000000",
-        "title":  "Live NFL",
-        "end":  "2024-11-28T21:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-28T21:00:00.0000000",
-        "title":  "Live NFL",
-        "end":  "2024-11-29T00:30:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T00:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "end":  "2024-11-29T00:45:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T00:45:00.0000000",
-        "title":  "NFL Highlights",
-        "end":  "2024-11-29T01:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T01:00:00.0000000",
-        "title":  "NBC\u0027s FNIA",
-        "end":  "2024-11-29T01:10:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T01:10:00.0000000",
-        "title":  "Live NFL: Miami Dolphins @ Green Bay Packers 28.11",
-        "end":  "2024-11-29T04:30:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T04:30:00.0000000",
-        "title":  "Live DP World Tour Golf: 2024 ISPS HANDA Australian Open Day 2",
-        "end":  "2024-11-29T06:00:00.0000000"
-    },
-    {
         "start":  "2024-11-29T06:00:00.0000000",
         "title":  "Sky Sports News",
         "end":  "2024-11-29T07:00:00.0000000"
@@ -113,5 +58,75 @@
         "start":  "2024-11-30T02:00:00.0000000",
         "title":  "Sky Sports News",
         "end":  "2024-11-30T03:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T03:00:00.0000000",
+        "title":  "Live DP World Tour Golf: 2024 ISPS HANDA Australian Open Day 3",
+        "end":  "2024-11-30T06:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T06:00:00.0000000",
+        "title":  "Live DP World Tour Golf: 2024 ISPS HANDA Australian Open Day 3",
+        "end":  "2024-11-30T08:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T08:00:00.0000000",
+        "title":  "Good Morning Sports Fans",
+        "end":  "2024-11-30T09:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T09:00:00.0000000",
+        "title":  "Good Morning Sports Fans",
+        "end":  "2024-11-30T10:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T10:00:00.0000000",
+        "title":  "Soccer Saturday Pre-Match",
+        "end":  "2024-11-30T10:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T10:30:00.0000000",
+        "title":  "Fantasy Football Pre-Match",
+        "end":  "2024-11-30T11:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T11:00:00.0000000",
+        "title":  "Live EFL",
+        "end":  "2024-11-30T15:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T15:00:00.0000000",
+        "title":  "Gillette Labs Soccer Saturday",
+        "end":  "2024-11-30T17:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T17:00:00.0000000",
+        "title":  "Live: SNF",
+        "end":  "2024-11-30T20:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T20:30:00.0000000",
+        "title":  "Game of Throws: Inside Darts: Everything to Play For",
+        "end":  "2024-11-30T21:30:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T21:30:00.0000000",
+        "title":  "Live Mosconi Cup Pool",
+        "end":  "2024-11-30T23:00:00.0000000"
+    },
+    {
+        "start":  "2024-11-30T23:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2024-12-01T00:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-01T00:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2024-12-01T01:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-01T01:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2024-12-01T02:00:00.0000000"
     }
 ]
