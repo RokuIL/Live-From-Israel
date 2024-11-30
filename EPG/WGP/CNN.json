@@ -1,85 +1,5 @@
 [
     {
-        "start":  "2024-11-29T10:00:00.0000000",
-        "title":  "CNN This Morning",
-        "end":  "2024-11-29T11:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T11:00:00.0000000",
-        "title":  "CNN This Morning",
-        "end":  "2024-11-29T12:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T12:00:00.0000000",
-        "title":  "CNN News Central",
-        "end":  "2024-11-29T13:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T13:00:00.0000000",
-        "title":  "CNN News Central",
-        "end":  "2024-11-29T14:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T14:00:00.0000000",
-        "title":  "CNN News Central",
-        "end":  "2024-11-29T15:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T15:00:00.0000000",
-        "title":  "CNN Newsroom with Jim Acosta",
-        "end":  "2024-11-29T16:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T16:00:00.0000000",
-        "title":  "CNN Newsroom with Pamela Brown",
-        "end":  "2024-11-29T17:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T17:00:00.0000000",
-        "title":  "Inside Politics with Dana Bash",
-        "end":  "2024-11-29T18:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T18:00:00.0000000",
-        "title":  "CNN News Central",
-        "end":  "2024-11-29T19:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T19:00:00.0000000",
-        "title":  "CNN News Central",
-        "end":  "2024-11-29T20:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T20:00:00.0000000",
-        "title":  "CNN News Central",
-        "end":  "2024-11-29T21:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T21:00:00.0000000",
-        "title":  "The Lead With Jake Tapper",
-        "end":  "2024-11-29T22:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T22:00:00.0000000",
-        "title":  "Situation Room With Wolf Blitzer",
-        "end":  "2024-11-29T23:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-29T23:00:00.0000000",
-        "title":  "Situation Room With Wolf Blitzer",
-        "end":  "2024-11-30T00:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-30T03:00:00.0000000",
-        "title":  "Vegas: The Story of Sin City: The Greatest Show on Earth - Season 1, Episode 22",
-        "end":  "2024-11-30T04:00:00.0000000"
-    },
-    {
-        "start":  "2024-11-30T04:00:00.0000000",
-        "title":  "Anthony Bourdain Parts Unknown: Charleston - Season 6, Episode 8",
-        "end":  "2024-11-30T05:00:00.0000000"
-    },
-    {
         "start":  "2024-11-30T05:00:00.0000000",
         "title":  "Anthony Bourdain Parts Unknown",
         "end":  "2024-11-30T06:00:00.0000000"
@@ -183,5 +103,95 @@
         "start":  "2024-12-01T02:00:00.0000000",
         "title":  "The Nineties",
         "end":  "2024-12-01T04:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-01T04:00:00.0000000",
+        "title":  "The Eighties",
+        "end":  "2024-12-01T05:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-01T05:00:00.0000000",
+        "title":  "The Eighties: Raised on Television",
+        "end":  "2024-12-01T07:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-01T07:00:00.0000000",
+        "title":  "The Seventies: Television Gets Real - Season 1, Episode 1",
+        "end":  "2024-12-01T08:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-01T08:00:00.0000000",
+        "title":  "The Sixties",
+        "end":  "2024-12-01T09:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-01T11:00:00.0000000",
+        "title":  "CNN This Morning Weekend",
+        "end":  "2024-12-01T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-01T12:00:00.0000000",
+        "title":  "CNN This Morning Weekend",
+        "end":  "2024-12-01T13:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-01T13:00:00.0000000",
+        "title":  "Inside Politics With Manu Raju",
+        "end":  "2024-12-01T14:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-01T14:00:00.0000000",
+        "title":  "State of the Union With Jake Tapper and Dana Bash",
+        "end":  "2024-12-01T15:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-01T15:00:00.0000000",
+        "title":  "Fareed Zakaria GPS",
+        "end":  "2024-12-01T16:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-01T16:00:00.0000000",
+        "title":  "Inside Politics With Manu Raju",
+        "end":  "2024-12-01T17:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-01T17:00:00.0000000",
+        "title":  "State of the Union With Jake Tapper and Dana Bash",
+        "end":  "2024-12-01T18:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-01T18:00:00.0000000",
+        "title":  "Fareed Zakaria GPS",
+        "end":  "2024-12-01T19:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-01T19:00:00.0000000",
+        "title":  "CNN Newsroom With Fredricka Whitfield",
+        "end":  "2024-12-01T20:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-01T20:00:00.0000000",
+        "title":  "CNN Newsroom With Fredricka Whitfield",
+        "end":  "2024-12-01T21:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-01T21:00:00.0000000",
+        "title":  "CNN Newsroom With Fredricka Whitfield",
+        "end":  "2024-12-01T22:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-01T22:00:00.0000000",
+        "title":  "CNN Newsroom Live",
+        "end":  "2024-12-01T23:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-01T23:00:00.0000000",
+        "title":  "CNN Newsroom Live",
+        "end":  "2024-12-02T00:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-02T00:00:00.0000000",
+        "title":  "CNN Newsroom Live",
+        "end":  "2024-12-02T01:00:00.0000000"
     }
 ]
