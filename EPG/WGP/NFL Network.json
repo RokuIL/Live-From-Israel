@@ -1,75 +1,5 @@
 [
     {
-        "start":  "2024-12-14T05:00:00.0000000",
-        "title":  "NFL GameDay View",
-        "end":  "2024-12-14T06:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-14T06:00:00.0000000",
-        "title":  "Sunday Night Football: Los Angeles Chargers at Kansas City Chiefs",
-        "end":  "2024-12-14T09:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-14T09:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2024-12-14T10:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-14T10:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2024-12-14T11:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-14T11:00:00.0000000",
-        "title":  "Monday Night Football: Cincinnati Bengals at Dallas Cowboys",
-        "end":  "2024-12-14T12:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-14T12:00:00.0000000",
-        "title":  "Inside the NFL",
-        "end":  "2024-12-14T13:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-14T19:00:00.0000000",
-        "title":  "Thursday Night Football: Los Angeles Rams at San Francisco 49ers",
-        "end":  "2024-12-14T22:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-14T22:00:00.0000000",
-        "title":  "A Football Life",
-        "end":  "2024-12-14T23:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-14T23:00:00.0000000",
-        "title":  "A Football Life",
-        "end":  "2024-12-15T00:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-15T00:00:00.0000000",
-        "title":  "A Football Life",
-        "end":  "2024-12-15T01:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-15T01:00:00.0000000",
-        "title":  "A Football Life",
-        "end":  "2024-12-15T02:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-15T02:00:00.0000000",
-        "title":  "A Football Life: Ricky Williams - Season 4, Episode 8",
-        "end":  "2024-12-15T03:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-15T03:00:00.0000000",
-        "title":  "A Football Life",
-        "end":  "2024-12-15T04:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-15T04:00:00.0000000",
-        "title":  "A Football Life",
-        "end":  "2024-12-15T05:00:00.0000000"
-    },
-    {
         "start":  "2024-12-15T05:00:00.0000000",
         "title":  "Inside the NFL",
         "end":  "2024-12-15T06:00:00.0000000"
@@ -83,6 +13,11 @@
         "start":  "2024-12-15T07:00:00.0000000",
         "title":  "Monday Night Football: Cincinnati Bengals at Dallas Cowboys",
         "end":  "2024-12-15T08:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-15T08:00:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2024-12-15T11:00:00.0000000"
     },
     {
         "start":  "2024-12-15T11:00:00.0000000",
@@ -133,5 +68,85 @@
         "start":  "2024-12-16T03:30:00.0000000",
         "title":  "NFL Gameday Highlights",
         "end":  "2024-12-16T04:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-16T04:30:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2024-12-16T04:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-16T04:30:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2024-12-16T05:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-16T05:30:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2024-12-16T06:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-16T06:30:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2024-12-16T07:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-16T07:30:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2024-12-16T08:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-16T08:30:00.0000000",
+        "title":  "Sunday Night Football: Green Bay Packers at Seattle Seahawks",
+        "end":  "2024-12-16T11:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-16T11:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2024-12-16T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-16T12:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2024-12-16T13:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-16T13:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2024-12-16T15:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-16T15:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2024-12-16T17:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-16T17:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2024-12-16T19:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-16T19:00:00.0000000",
+        "title":  "NFL Weekly Slate",
+        "end":  "2024-12-16T20:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-16T20:00:00.0000000",
+        "title":  "Sunday Night Football: Green Bay Packers at Seattle Seahawks",
+        "end":  "2024-12-16T23:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-16T23:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2024-12-17T00:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-17T00:00:00.0000000",
+        "title":  "NFL GameDay Kickoff",
+        "end":  "2024-12-17T01:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-17T01:00:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2024-12-17T04:00:00.0000000"
     }
 ]
