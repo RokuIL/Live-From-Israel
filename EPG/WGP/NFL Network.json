@@ -1,22 +1,32 @@
 [
     {
-        "start":  "2024-12-18T04:30:00.0000000",
-        "title":  "NFL GameDay Final",
-        "end":  "2024-12-18T05:30:00.0000000"
+        "start":  "2024-12-18T05:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2024-12-18T06:00:00.0000000"
     },
     {
-        "start":  "2024-12-18T05:30:00.0000000",
-        "title":  "Monday Night Football: Chicago Bears at Minnesota Vikings",
-        "end":  "2024-12-18T08:00:00.0000000"
+        "start":  "2024-12-18T06:00:00.0000000",
+        "title":  "NFL Football: Pittsburgh Steelers at Philadelphia Eagles",
+        "end":  "2024-12-18T09:00:00.0000000"
     },
     {
-        "start":  "2024-12-18T08:00:00.0000000",
-        "title":  "Monday Night Football",
+        "start":  "2024-12-18T09:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2024-12-18T10:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-18T10:00:00.0000000",
+        "title":  "NFL Fantasy Live",
         "end":  "2024-12-18T11:00:00.0000000"
     },
     {
         "start":  "2024-12-18T11:00:00.0000000",
-        "title":  "Monday Night Football: Chicago Bears at Minnesota Vikings",
+        "title":  "NFL Weekly Slate",
+        "end":  "2024-12-18T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-18T12:00:00.0000000",
+        "title":  "NFL Fantasy Live",
         "end":  "2024-12-18T13:00:00.0000000"
     },
     {
@@ -41,7 +51,7 @@
     },
     {
         "start":  "2024-12-18T20:00:00.0000000",
-        "title":  "Monday Night Football",
+        "title":  "NFL Football: Washington Commanders at New Orleans Saints",
         "end":  "2024-12-18T23:00:00.0000000"
     },
     {
@@ -56,12 +66,92 @@
     },
     {
         "start":  "2024-12-19T01:00:00.0000000",
-        "title":  "NFL Football",
+        "title":  "NFL Football: Pittsburgh Steelers at Philadelphia Eagles",
         "end":  "2024-12-19T04:00:00.0000000"
     },
     {
         "start":  "2024-12-19T04:00:00.0000000",
         "title":  "The Insiders",
         "end":  "2024-12-19T05:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-19T05:00:00.0000000",
+        "title":  "Inside the NFL",
+        "end":  "2024-12-19T06:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-19T06:00:00.0000000",
+        "title":  "Sunday Night Football: Green Bay Packers at Seattle Seahawks",
+        "end":  "2024-12-19T09:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-19T09:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2024-12-19T10:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-19T10:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2024-12-19T11:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-19T11:00:00.0000000",
+        "title":  "NFL Weekly Slate",
+        "end":  "2024-12-19T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-19T12:00:00.0000000",
+        "title":  "Inside the NFL",
+        "end":  "2024-12-19T13:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-19T13:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2024-12-19T15:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-19T15:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2024-12-19T17:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-19T17:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2024-12-19T19:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-19T19:00:00.0000000",
+        "title":  "NFL Football: Indianapolis Colts at Denver Broncos",
+        "end":  "2024-12-19T22:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-19T22:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2024-12-19T23:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-19T23:00:00.0000000",
+        "title":  "NFL GameDay Kickoff",
+        "end":  "2024-12-20T00:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T00:30:00.0000000",
+        "title":  "NFL GameDay Kickoff",
+        "end":  "2024-12-20T01:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T01:00:00.0000000",
+        "title":  "NFL GameDay Kickoff",
+        "end":  "2024-12-20T01:15:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T01:15:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2024-12-20T04:15:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T04:15:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2024-12-20T04:45:00.0000000"
     }
 ]
