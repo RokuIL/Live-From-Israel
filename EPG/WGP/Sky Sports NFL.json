@@ -1,135 +1,5 @@
 [
     {
-        "start":  "2024-12-18T06:00:00.0000000",
-        "title":  "NFL Weekly Review",
-        "end":  "2024-12-18T07:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-18T07:00:00.0000000",
-        "title":  "NFL Highlights: Green Bay Packers @ Seattle Seahawks 15.12",
-        "end":  "2024-12-18T08:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-18T08:00:00.0000000",
-        "title":  "NFL Highlights",
-        "end":  "2024-12-18T09:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-18T09:00:00.0000000",
-        "title":  "NFL Highlights: Chicago Bears @ Minnesota Vikings 16.12",
-        "end":  "2024-12-18T10:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-18T10:00:00.0000000",
-        "title":  "NFL Weekly Review",
-        "end":  "2024-12-18T11:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-18T11:00:00.0000000",
-        "title":  "NFL Highlights",
-        "end":  "2024-12-18T12:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-18T12:00:00.0000000",
-        "title":  "NFL Highlights: Green Bay Packers @ Seattle Seahawks 15.12",
-        "end":  "2024-12-18T12:15:00.0000000"
-    },
-    {
-        "start":  "2024-12-18T12:15:00.0000000",
-        "title":  "NFL Highlights: Miami Dolphins @ Houston Texans 15.12",
-        "end":  "2024-12-18T12:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-18T12:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "end":  "2024-12-18T12:45:00.0000000"
-    },
-    {
-        "start":  "2024-12-18T12:45:00.0000000",
-        "title":  "NFL Bitesize Highlights: Cincinnati Bengals @ Dallas Cowboys 09.12",
-        "end":  "2024-12-18T13:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-18T13:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2024-12-18T15:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-18T15:00:00.0000000",
-        "title":  "NFL Highlights: Green Bay Packers @ Seattle Seahawks 15.12",
-        "end":  "2024-12-18T15:15:00.0000000"
-    },
-    {
-        "start":  "2024-12-18T15:15:00.0000000",
-        "title":  "NFL Highlights: Miami Dolphins @ Houston Texans 15.12",
-        "end":  "2024-12-18T15:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-18T15:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "end":  "2024-12-18T15:45:00.0000000"
-    },
-    {
-        "start":  "2024-12-18T15:45:00.0000000",
-        "title":  "NFL Highlights: Los Angeles Rams @ San Francisco 49ers 12.12",
-        "end":  "2024-12-18T16:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-18T16:00:00.0000000",
-        "title":  "NFL Weekly Review",
-        "end":  "2024-12-18T17:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-18T17:00:00.0000000",
-        "title":  "NFL Highlights: Chicago Bears @ Minnesota Vikings 16.12",
-        "end":  "2024-12-18T18:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-18T18:00:00.0000000",
-        "title":  "NBC\u0027s Pro-Football Talk",
-        "end":  "2024-12-18T20:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-18T20:00:00.0000000",
-        "title":  "NFL Highlights: Chicago Bears @ Minnesota Vikings 16.12",
-        "end":  "2024-12-18T21:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-18T21:00:00.0000000",
-        "title":  "Jaguars Weekly UK",
-        "end":  "2024-12-18T21:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-18T21:30:00.0000000",
-        "title":  "One Jets Drive",
-        "end":  "2024-12-18T22:15:00.0000000"
-    },
-    {
-        "start":  "2024-12-18T22:15:00.0000000",
-        "title":  "NFL Highlights: Los Angeles Rams @ San Francisco 49ers 12.12",
-        "end":  "2024-12-18T22:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-18T22:30:00.0000000",
-        "title":  "Live NCAA College Football",
-        "end":  "2024-12-19T02:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-19T02:00:00.0000000",
-        "title":  "Live NCAA College Football",
-        "end":  "2024-12-19T05:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-19T05:30:00.0000000",
-        "title":  "NFL Bitesize Highlights: New Orleans Saints @ Carolina Panthers 18.09",
-        "end":  "2024-12-19T05:45:00.0000000"
-    },
-    {
-        "start":  "2024-12-19T05:45:00.0000000",
-        "title":  "NFL Bitesize Highlights: Cleveland Browns @ Pittsburgh Steelers 18.09",
-        "end":  "2024-12-19T06:00:00.0000000"
-    },
-    {
         "start":  "2024-12-19T06:00:00.0000000",
         "title":  "NFL Highlights: Green Bay Packers @ Seattle Seahawks 15.12",
         "end":  "2024-12-19T07:00:00.0000000"
@@ -253,5 +123,160 @@
         "start":  "2024-12-20T05:30:00.0000000",
         "title":  "NFL Bitesize Highlights: Cincinnati Bengals @ Kansas City Chiefs 31.12",
         "end":  "2024-12-20T05:45:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T05:45:00.0000000",
+        "title":  "NFL Bitesize Highlights: Green Bay Packers @ Minnesota Vikings 31.12",
+        "end":  "2024-12-20T06:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T06:00:00.0000000",
+        "title":  "NFL Highlights: Chicago Bears @ Minnesota Vikings 16.12",
+        "end":  "2024-12-20T07:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T07:00:00.0000000",
+        "title":  "NFL Highlights",
+        "end":  "2024-12-20T08:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T08:00:00.0000000",
+        "title":  "NFL Gameday",
+        "end":  "2024-12-20T08:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T08:30:00.0000000",
+        "title":  "One Jets Drive",
+        "end":  "2024-12-20T09:15:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T09:15:00.0000000",
+        "title":  "NFL Highlights: Green Bay Packers @ Seattle Seahawks 15.12",
+        "end":  "2024-12-20T09:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T09:30:00.0000000",
+        "title":  "NFL Highlights: Miami Dolphins @ Houston Texans 15.12",
+        "end":  "2024-12-20T09:45:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T09:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "end":  "2024-12-20T10:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T10:00:00.0000000",
+        "title":  "NFL Highlights: Green Bay Packers @ Seattle Seahawks 15.12",
+        "end":  "2024-12-20T11:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T11:00:00.0000000",
+        "title":  "NFL Highlights: Denver Broncos @ Los Angeles Chargers 19.12",
+        "end":  "2024-12-20T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T12:00:00.0000000",
+        "title":  "Jaguars Weekly UK",
+        "end":  "2024-12-20T12:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T12:30:00.0000000",
+        "title":  "NFL Gameday",
+        "end":  "2024-12-20T13:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T13:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2024-12-20T15:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T15:00:00.0000000",
+        "title":  "NFL Highlights: Denver Broncos @ Los Angeles Chargers 19.12",
+        "end":  "2024-12-20T15:15:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T15:15:00.0000000",
+        "title":  "NFL Highlights: Green Bay Packers @ Seattle Seahawks 15.12",
+        "end":  "2024-12-20T15:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T15:30:00.0000000",
+        "title":  "NFL Gameday",
+        "end":  "2024-12-20T16:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T16:00:00.0000000",
+        "title":  "Jaguars Weekly UK",
+        "end":  "2024-12-20T16:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T16:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "end":  "2024-12-20T16:45:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T16:45:00.0000000",
+        "title":  "NFL Highlights: Los Angeles Rams @ San Francisco 49ers 12.12",
+        "end":  "2024-12-20T17:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T17:00:00.0000000",
+        "title":  "Live NCAA College Football",
+        "end":  "2024-12-20T20:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-20T20:30:00.0000000",
+        "title":  "Live NCAA College Football: Ncaa Cf Gasparilla Bowl @2030 20.12",
+        "end":  "2024-12-21T00:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-21T00:00:00.0000000",
+        "title":  "NFL Highlights: Denver Broncos @ Los Angeles Chargers 19.12",
+        "end":  "2024-12-21T00:15:00.0000000"
+    },
+    {
+        "start":  "2024-12-21T00:15:00.0000000",
+        "title":  "NFL Highlights: Green Bay Packers @ Seattle Seahawks 15.12",
+        "end":  "2024-12-21T00:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-21T00:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "end":  "2024-12-21T00:45:00.0000000"
+    },
+    {
+        "start":  "2024-12-21T00:45:00.0000000",
+        "title":  "NFL Highlights: Los Angeles Rams @ San Francisco 49ers 12.12",
+        "end":  "2024-12-21T01:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-21T01:00:00.0000000",
+        "title":  "Live NCAA College Football",
+        "end":  "2024-12-21T04:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-21T04:30:00.0000000",
+        "title":  "NFL Highlights: Green Bay Packers @ Seattle Seahawks 15.12",
+        "end":  "2024-12-21T04:45:00.0000000"
+    },
+    {
+        "start":  "2024-12-21T04:45:00.0000000",
+        "title":  "NFL Highlights: Miami Dolphins @ Houston Texans 15.12",
+        "end":  "2024-12-21T05:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-21T05:00:00.0000000",
+        "title":  "NFL Bitesize Highlights: Dallas Cowboys @ Miami Dolphins 24.12",
+        "end":  "2024-12-21T05:15:00.0000000"
+    },
+    {
+        "start":  "2024-12-21T05:15:00.0000000",
+        "title":  "NFL Bitesize Highlights: New England Patriots @ Denver Broncos 24.12",
+        "end":  "2024-12-21T05:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-21T05:30:00.0000000",
+        "title":  "NFL Bitesize Highlights: New York Giants @ Philadelphia Eagles 25.12",
+        "end":  "2024-12-21T05:45:00.0000000"
     }
 ]
