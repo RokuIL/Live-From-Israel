@@ -1,72 +1,92 @@
 [
     {
-        "start":  "2024-12-22T04:50:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
-        "end":  "2024-12-22T06:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-22T06:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-22T07:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-22T07:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-22T08:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-22T08:00:00.0000000",
-        "title":  "College Football Playoff First Round",
-        "end":  "2024-12-22T10:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-22T10:00:00.0000000",
-        "title":  "Gasparilla Bowl",
-        "end":  "2024-12-22T12:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-22T12:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-22T13:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-22T13:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-22T14:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-22T14:00:00.0000000",
-        "title":  "College GameDay: From Columbus, Ohio",
-        "end":  "2024-12-22T17:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-22T21:00:00.0000000",
-        "title":  "College Basketball Live Scoreboard",
-        "end":  "2024-12-22T21:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-22T23:30:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-23T00:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-23T00:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-23T01:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-23T01:10:00.0000000",
-        "title":  "College Football Playoff First Round: Tennessee at Ohio State",
-        "end":  "2024-12-23T04:40:00.0000000"
-    },
-    {
-        "start":  "2024-12-23T04:50:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
-        "end":  "2024-12-23T04:50:00.0000000"
-    },
-    {
         "start":  "2024-12-23T04:50:00.0000000",
         "title":  "SportsCenter with Scott Van Pelt",
         "end":  "2024-12-23T06:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-23T06:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-23T07:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-23T07:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-23T08:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-23T08:00:00.0000000",
+        "title":  "College Football Playoff First Round: Tennessee at Ohio State",
+        "end":  "2024-12-23T10:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-23T10:00:00.0000000",
+        "title":  "Cure Bowl: Ohio vs. Jacksonville State",
+        "end":  "2024-12-23T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-23T12:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-23T13:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-23T13:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-23T14:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-23T14:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-23T15:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-23T15:00:00.0000000",
+        "title":  "Sunday NFL Countdown",
+        "end":  "2024-12-23T18:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-23T22:00:00.0000000",
+        "title":  "The Sports Reporters",
+        "end":  "2024-12-23T22:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-23T22:30:00.0000000",
+        "title":  "SC Featured",
+        "end":  "2024-12-23T23:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-23T23:00:00.0000000",
+        "title":  "SC Featured",
+        "end":  "2024-12-23T23:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-23T23:30:00.0000000",
+        "title":  "The Sports Reporters",
+        "end":  "2024-12-24T00:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-24T00:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-24T01:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-24T01:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-24T02:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-24T04:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-24T04:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-24T04:30:00.0000000",
+        "title":  "SportsCenter with Scott Van Pelt",
+        "end":  "2024-12-24T04:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-24T04:30:00.0000000",
+        "title":  "SportsCenter with Scott Van Pelt",
+        "end":  "2024-12-24T06:00:00.0000000"
     }
 ]
