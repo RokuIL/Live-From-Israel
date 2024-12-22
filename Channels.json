@@ -701,9 +701,9 @@
             "Title": "רשת ב",
             "TitleEng": "Reshet Bet",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_bet.png",
-            "StreamFormat": "mp3",
+            "StreamFormat": "hls",
             "StreamUrls": [
-                "http://kanliveicy.media.kan.org.il/icy/kanbet_mp3"
+                "https://kanbet.media.kan.org.il/hls/live/2024811/2024811/kanbet_mp3/chunklist.m3u8"
             ]
         },
         {
