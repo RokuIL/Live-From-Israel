@@ -1,32 +1,32 @@
 [
     {
-        "start":  "2024-12-25T04:15:00.0000000",
-        "title":  "NFL GameDay Final",
-        "end":  "2024-12-25T05:15:00.0000000"
+        "start":  "2024-12-25T05:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2024-12-25T06:00:00.0000000"
     },
     {
-        "start":  "2024-12-25T05:15:00.0000000",
-        "title":  "Monday Night Football",
-        "end":  "2024-12-25T08:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-25T08:00:00.0000000",
-        "title":  "NFL GameDay Final",
+        "start":  "2024-12-25T06:00:00.0000000",
+        "title":  "NFL Football: Pittsburgh Steelers at Baltimore Ravens",
         "end":  "2024-12-25T09:00:00.0000000"
     },
     {
         "start":  "2024-12-25T09:00:00.0000000",
-        "title":  "NFL Weekly Slate",
+        "title":  "The Insiders",
         "end":  "2024-12-25T10:00:00.0000000"
     },
     {
         "start":  "2024-12-25T10:00:00.0000000",
-        "title":  "NFL GameDay Final",
+        "title":  "NFL Fantasy Live",
         "end":  "2024-12-25T11:00:00.0000000"
     },
     {
         "start":  "2024-12-25T11:00:00.0000000",
-        "title":  "Monday Night Football",
+        "title":  "NFL Weekly Slate",
+        "end":  "2024-12-25T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-25T12:00:00.0000000",
+        "title":  "NFL Fantasy Live",
         "end":  "2024-12-25T13:00:00.0000000"
     },
     {
@@ -40,38 +40,88 @@
         "end":  "2024-12-25T17:00:00.0000000"
     },
     {
-        "start":  "2024-12-25T17:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2024-12-25T19:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-25T19:00:00.0000000",
-        "title":  "NFL Weekly Slate",
-        "end":  "2024-12-25T20:00:00.0000000"
-    },
-    {
         "start":  "2024-12-25T20:00:00.0000000",
-        "title":  "Monday Night Football",
+        "title":  "NFL Football: Philadelphia Eagles at Washington Commanders",
         "end":  "2024-12-25T23:00:00.0000000"
     },
     {
         "start":  "2024-12-25T23:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2024-12-26T00:00:00.0000000"
+        "title":  "NFL Football: Minnesota Vikings at Seattle Seahawks",
+        "end":  "2024-12-26T01:30:00.0000000"
     },
     {
-        "start":  "2024-12-26T00:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2024-12-26T01:00:00.0000000"
+        "start":  "2024-12-26T01:30:00.0000000",
+        "title":  "NFL Football: Kansas City Chiefs at Pittsburgh Steelers",
+        "end":  "2024-12-26T04:30:00.0000000"
     },
     {
-        "start":  "2024-12-26T01:00:00.0000000",
+        "start":  "2024-12-26T04:30:00.0000000",
+        "title":  "NFL Football: Baltimore Ravens at Houston Texans",
+        "end":  "2024-12-26T04:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-26T04:30:00.0000000",
+        "title":  "NFL Football: Baltimore Ravens at Houston Texans",
+        "end":  "2024-12-26T07:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-26T07:00:00.0000000",
+        "title":  "NFL Football: Kansas City Chiefs at Pittsburgh Steelers",
+        "end":  "2024-12-26T10:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-26T10:00:00.0000000",
+        "title":  "NFL Football: Baltimore Ravens at Houston Texans",
+        "end":  "2024-12-26T13:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-26T13:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2024-12-26T15:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-26T15:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2024-12-26T17:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-26T17:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2024-12-26T19:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-26T19:00:00.0000000",
         "title":  "NFL Football",
-        "end":  "2024-12-26T04:00:00.0000000"
+        "end":  "2024-12-26T22:00:00.0000000"
     },
     {
-        "start":  "2024-12-26T04:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2024-12-26T05:00:00.0000000"
+        "start":  "2024-12-26T22:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2024-12-26T23:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-26T23:00:00.0000000",
+        "title":  "NFL GameDay Kickoff",
+        "end":  "2024-12-27T00:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-27T00:30:00.0000000",
+        "title":  "NFL GameDay Kickoff",
+        "end":  "2024-12-27T01:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-27T01:00:00.0000000",
+        "title":  "NFL GameDay Kickoff",
+        "end":  "2024-12-27T01:15:00.0000000"
+    },
+    {
+        "start":  "2024-12-27T01:15:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2024-12-27T04:15:00.0000000"
+    },
+    {
+        "start":  "2024-12-27T04:15:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2024-12-27T04:45:00.0000000"
     }
 ]
