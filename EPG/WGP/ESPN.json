@@ -1,82 +1,77 @@
 [
     {
-        "start":  "2024-12-26T04:30:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-26T05:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-26T05:30:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-26T06:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-26T06:30:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-26T07:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-26T07:00:00.0000000",
-        "title":  "Famous Idaho Potato Bowl: Northern Illinois vs. Fresno State",
-        "end":  "2024-12-26T09:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-26T11:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-26T12:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-26T12:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-26T13:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-26T13:00:00.0000000",
-        "title":  "Get Up",
-        "end":  "2024-12-26T15:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-26T15:00:00.0000000",
-        "title":  "First Take",
-        "end":  "2024-12-26T16:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-26T16:00:00.0000000",
-        "title":  "NBA Countdown",
-        "end":  "2024-12-26T17:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-26T17:00:00.0000000",
-        "title":  "NBA Basketball",
-        "end":  "2024-12-26T19:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-26T19:30:00.0000000",
-        "title":  "NBA Basketball: Minnesota Timberwolves at Dallas Mavericks",
-        "end":  "2024-12-26T22:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-26T22:00:00.0000000",
-        "title":  "NBA Basketball: Philadelphia 76ers at Boston Celtics",
-        "end":  "2024-12-27T00:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-27T00:30:00.0000000",
-        "title":  "NBA Countdown",
-        "end":  "2024-12-27T01:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-27T01:00:00.0000000",
-        "title":  "NBA Basketball: Los Angeles Lakers at Golden State Warriors",
-        "end":  "2024-12-27T03:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-27T03:30:00.0000000",
-        "title":  "NBA Basketball",
-        "end":  "2024-12-27T03:30:00.0000000"
-    },
-    {
         "start":  "2024-12-27T03:30:00.0000000",
         "title":  "NBA Basketball",
         "end":  "2024-12-27T06:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-27T06:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-27T07:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-27T07:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-27T08:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-27T08:00:00.0000000",
+        "title":  "NBA Basketball: Los Angeles Lakers at Golden State Warriors",
+        "end":  "2024-12-27T10:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-27T10:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-27T11:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-27T11:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-27T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-27T12:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-27T13:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-27T13:00:00.0000000",
+        "title":  "Get Up",
+        "end":  "2024-12-27T15:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-27T15:00:00.0000000",
+        "title":  "First Take",
+        "end":  "2024-12-27T17:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-27T17:00:00.0000000",
+        "title":  "The Pat McAfee Show",
+        "end":  "2024-12-27T19:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-27T19:00:00.0000000",
+        "title":  "GameAbove Sports Bowl: Pittsburgh vs. Toledo",
+        "end":  "2024-12-27T22:15:00.0000000"
+    },
+    {
+        "start":  "2024-12-27T22:15:00.0000000",
+        "title":  "College Football Scoreboard",
+        "end":  "2024-12-27T22:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-27T22:30:00.0000000",
+        "title":  "Rate Bowl",
+        "end":  "2024-12-28T02:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-28T02:00:00.0000000",
+        "title":  "68 Ventures Bowl: Arkansas State vs. Bowling Green",
+        "end":  "2024-12-28T02:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-28T02:00:00.0000000",
+        "title":  "68 Ventures Bowl: Arkansas State vs. Bowling Green",
+        "end":  "2024-12-28T05:30:00.0000000"
     }
 ]
