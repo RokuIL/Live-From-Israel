@@ -1,77 +1,72 @@
 [
     {
-        "start":  "2024-12-27T03:30:00.0000000",
-        "title":  "NBA Basketball",
-        "end":  "2024-12-27T06:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-27T06:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-27T07:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-27T07:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-27T08:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-27T08:00:00.0000000",
-        "title":  "NBA Basketball: Los Angeles Lakers at Golden State Warriors",
-        "end":  "2024-12-27T10:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-27T10:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-27T11:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-27T11:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-27T12:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-27T12:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-27T13:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-27T13:00:00.0000000",
-        "title":  "Get Up",
-        "end":  "2024-12-27T15:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-27T15:00:00.0000000",
-        "title":  "First Take",
-        "end":  "2024-12-27T17:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-27T17:00:00.0000000",
-        "title":  "The Pat McAfee Show",
-        "end":  "2024-12-27T19:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-27T19:00:00.0000000",
-        "title":  "GameAbove Sports Bowl: Pittsburgh vs. Toledo",
-        "end":  "2024-12-27T22:15:00.0000000"
-    },
-    {
-        "start":  "2024-12-27T22:15:00.0000000",
-        "title":  "College Football Scoreboard",
-        "end":  "2024-12-27T22:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-27T22:30:00.0000000",
-        "title":  "Rate Bowl",
-        "end":  "2024-12-28T02:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-28T02:00:00.0000000",
-        "title":  "68 Ventures Bowl: Arkansas State vs. Bowling Green",
-        "end":  "2024-12-28T02:00:00.0000000"
-    },
-    {
         "start":  "2024-12-28T02:00:00.0000000",
         "title":  "68 Ventures Bowl: Arkansas State vs. Bowling Green",
         "end":  "2024-12-28T05:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-28T05:30:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-28T06:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-28T06:30:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-28T07:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-28T07:30:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-28T08:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-28T08:00:00.0000000",
+        "title":  "GameAbove Sports Bowl: Pittsburgh vs. Toledo",
+        "end":  "2024-12-28T10:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-28T10:00:00.0000000",
+        "title":  "Rate Bowl",
+        "end":  "2024-12-28T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-28T12:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-28T13:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-28T13:00:00.0000000",
+        "title":  "Get Up",
+        "end":  "2024-12-28T15:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-28T15:00:00.0000000",
+        "title":  "First Take",
+        "end":  "2024-12-28T17:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-28T17:00:00.0000000",
+        "title":  "Armed Forces Bowl: Oklahoma vs. Navy",
+        "end":  "2024-12-28T20:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-28T20:30:00.0000000",
+        "title":  "Birmingham Bowl: Georgia Tech vs. Vanderbilt",
+        "end":  "2024-12-29T00:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-29T00:00:00.0000000",
+        "title":  "Liberty Bowl: Texas Tech vs. Arkansas",
+        "end":  "2024-12-29T03:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-29T03:30:00.0000000",
+        "title":  "Las Vegas Bowl: Texas A\u0026M vs. Southern California",
+        "end":  "2024-12-29T03:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-29T03:30:00.0000000",
+        "title":  "Las Vegas Bowl: Texas A\u0026M vs. Southern California",
+        "end":  "2024-12-29T07:00:00.0000000"
     }
 ]
