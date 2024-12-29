@@ -1,67 +1,92 @@
 [
     {
-        "start":  "2024-12-29T03:30:00.0000000",
-        "title":  "Las Vegas Bowl: Texas A\u0026M vs. Southern California",
-        "end":  "2024-12-29T07:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-29T07:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-29T08:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-29T08:00:00.0000000",
-        "title":  "68 Ventures Bowl: Arkansas State vs. Bowling Green",
-        "end":  "2024-12-29T10:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-29T10:00:00.0000000",
-        "title":  "Birmingham Bowl: Georgia Tech vs. Vanderbilt",
-        "end":  "2024-12-29T12:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-29T12:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-29T13:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-29T13:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-29T14:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-29T14:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-29T15:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-29T15:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-29T16:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-29T16:00:00.0000000",
-        "title":  "Fenway Bowl: Connecticut vs. North Carolina",
-        "end":  "2024-12-29T19:15:00.0000000"
-    },
-    {
-        "start":  "2024-12-29T19:15:00.0000000",
-        "title":  "New Mexico Bowl: Louisiana vs. TCU",
-        "end":  "2024-12-29T22:45:00.0000000"
-    },
-    {
-        "start":  "2024-12-29T22:45:00.0000000",
-        "title":  "Military Bowl: East Carolina vs. North Carolina State",
-        "end":  "2024-12-30T02:15:00.0000000"
-    },
-    {
-        "start":  "2024-12-30T02:15:00.0000000",
-        "title":  "Independence Bowl: Louisiana Tech vs. Army",
-        "end":  "2024-12-30T02:15:00.0000000"
-    },
-    {
         "start":  "2024-12-30T02:15:00.0000000",
         "title":  "Independence Bowl: Louisiana Tech vs. Army",
         "end":  "2024-12-30T05:45:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T05:45:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-30T07:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T07:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-30T08:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T08:00:00.0000000",
+        "title":  "Armed Forces Bowl: Oklahoma vs. Navy",
+        "end":  "2024-12-30T10:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T10:00:00.0000000",
+        "title":  "Liberty Bowl: Texas Tech vs. Arkansas",
+        "end":  "2024-12-30T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T12:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-30T13:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T13:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-30T14:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T14:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-30T15:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T15:00:00.0000000",
+        "title":  "Sunday NFL Countdown",
+        "end":  "2024-12-30T18:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T18:00:00.0000000",
+        "title":  "30 for 30: Catholics vs. Convicts - Season 3, Episode 13",
+        "end":  "2024-12-30T20:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T20:00:00.0000000",
+        "title":  "30 for 30",
+        "end":  "2024-12-30T22:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T22:00:00.0000000",
+        "title":  "30 for 30",
+        "end":  "2024-12-31T00:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-31T00:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-31T01:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-31T01:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-31T01:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-31T01:30:00.0000000",
+        "title":  "NHL Hockey: Dallas Stars vs. Chicago Blackhawks",
+        "end":  "2024-12-31T04:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-31T04:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-31T04:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-31T04:30:00.0000000",
+        "title":  "SportsCenter with Scott Van Pelt",
+        "end":  "2024-12-31T04:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-31T04:30:00.0000000",
+        "title":  "SportsCenter with Scott Van Pelt",
+        "end":  "2024-12-31T06:00:00.0000000"
     }
 ]

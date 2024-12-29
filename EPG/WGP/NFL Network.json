@@ -1,90 +1,5 @@
 [
     {
-        "start":  "2024-12-28T05:00:00.0000000",
-        "title":  "Inside the NFL",
-        "end":  "2024-12-28T06:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-28T06:00:00.0000000",
-        "title":  "Thursday Night Football: Denver Broncos at Los Angeles Chargers",
-        "end":  "2024-12-28T09:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-28T09:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2024-12-28T10:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-28T10:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2024-12-28T11:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-28T11:00:00.0000000",
-        "title":  "NFL Weekly Slate",
-        "end":  "2024-12-28T12:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-28T12:00:00.0000000",
-        "title":  "Inside the NFL",
-        "end":  "2024-12-28T13:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-28T13:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2024-12-28T15:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-28T15:00:00.0000000",
-        "title":  "NFL GameDay Kickoff",
-        "end":  "2024-12-28T15:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-28T15:30:00.0000000",
-        "title":  "NFL GameDay Kickoff",
-        "end":  "2024-12-28T17:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-28T17:00:00.0000000",
-        "title":  "NFL GameDay Kickoff",
-        "end":  "2024-12-28T17:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-28T17:30:00.0000000",
-        "title":  "NFL GameDay Kickoff",
-        "end":  "2024-12-28T18:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-28T18:00:00.0000000",
-        "title":  "NFL Football: Los Angeles Chargers at New England Patriots",
-        "end":  "2024-12-28T21:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-28T21:00:00.0000000",
-        "title":  "NFL GameDay Kickoff",
-        "end":  "2024-12-28T21:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-28T21:30:00.0000000",
-        "title":  "NFL Football: Denver Broncos at Cincinnati Bengals",
-        "end":  "2024-12-29T00:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-29T00:30:00.0000000",
-        "title":  "NFL GameDay Kickoff",
-        "end":  "2024-12-29T01:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-29T01:00:00.0000000",
-        "title":  "NFL Football: Arizona Cardinals at Los Angeles Rams",
-        "end":  "2024-12-29T04:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-29T04:00:00.0000000",
-        "title":  "NFL GameDay Final",
-        "end":  "2024-12-29T05:00:00.0000000"
-    },
-    {
         "start":  "2024-12-29T05:00:00.0000000",
         "title":  "NFL Football: Los Angeles Chargers at New England Patriots",
         "end":  "2024-12-29T08:00:00.0000000"
@@ -133,5 +48,85 @@
         "start":  "2024-12-30T03:30:00.0000000",
         "title":  "NFL Gameday Highlights",
         "end":  "2024-12-30T04:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T04:30:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2024-12-30T04:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T04:30:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2024-12-30T05:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T05:30:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2024-12-30T06:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T06:30:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2024-12-30T07:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T07:30:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2024-12-30T08:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T08:30:00.0000000",
+        "title":  "Sunday Night Football: Atlanta Falcons at Washington Commanders",
+        "end":  "2024-12-30T11:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T11:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2024-12-30T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T12:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2024-12-30T13:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T13:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2024-12-30T15:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T15:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2024-12-30T17:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T17:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2024-12-30T19:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T19:00:00.0000000",
+        "title":  "NFL Weekly Slate",
+        "end":  "2024-12-30T20:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T20:00:00.0000000",
+        "title":  "Sunday Night Football: Atlanta Falcons at Washington Commanders",
+        "end":  "2024-12-30T23:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-30T23:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2024-12-31T00:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-31T00:00:00.0000000",
+        "title":  "NFL GameDay Kickoff",
+        "end":  "2024-12-31T01:15:00.0000000"
+    },
+    {
+        "start":  "2024-12-31T01:15:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2024-12-31T03:45:00.0000000"
     }
 ]
