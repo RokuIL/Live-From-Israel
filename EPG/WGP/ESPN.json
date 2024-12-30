@@ -1,92 +1,87 @@
 [
     {
-        "start":  "2024-12-30T02:15:00.0000000",
-        "title":  "Independence Bowl: Louisiana Tech vs. Army",
-        "end":  "2024-12-30T05:45:00.0000000"
-    },
-    {
-        "start":  "2024-12-30T05:45:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-30T07:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-30T07:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-30T08:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-30T08:00:00.0000000",
-        "title":  "Armed Forces Bowl: Oklahoma vs. Navy",
-        "end":  "2024-12-30T10:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-30T10:00:00.0000000",
-        "title":  "Liberty Bowl: Texas Tech vs. Arkansas",
-        "end":  "2024-12-30T12:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-30T12:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-30T13:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-30T13:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-30T14:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-30T14:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-30T15:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-30T15:00:00.0000000",
-        "title":  "Sunday NFL Countdown",
-        "end":  "2024-12-30T18:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-30T18:00:00.0000000",
-        "title":  "30 for 30: Catholics vs. Convicts - Season 3, Episode 13",
-        "end":  "2024-12-30T20:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-30T20:00:00.0000000",
-        "title":  "30 for 30",
-        "end":  "2024-12-30T22:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-30T22:00:00.0000000",
-        "title":  "30 for 30",
-        "end":  "2024-12-31T00:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-31T00:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-31T01:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-31T01:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-31T01:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-31T01:30:00.0000000",
-        "title":  "NHL Hockey: Dallas Stars vs. Chicago Blackhawks",
-        "end":  "2024-12-31T04:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-31T04:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-31T04:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-31T04:30:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
-        "end":  "2024-12-31T04:30:00.0000000"
-    },
-    {
         "start":  "2024-12-31T04:30:00.0000000",
         "title":  "SportsCenter with Scott Van Pelt",
         "end":  "2024-12-31T06:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-31T06:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-31T07:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-31T07:00:00.0000000",
+        "title":  "Las Vegas Bowl: Texas A\u0026M vs. Southern California",
+        "end":  "2024-12-31T09:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-31T09:00:00.0000000",
+        "title":  "Fenway Bowl: Connecticut vs. North Carolina",
+        "end":  "2024-12-31T11:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-31T11:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-31T12:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-31T12:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-31T13:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-31T13:00:00.0000000",
+        "title":  "Get Up",
+        "end":  "2024-12-31T15:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-31T15:00:00.0000000",
+        "title":  "First Take",
+        "end":  "2024-12-31T17:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-31T17:00:00.0000000",
+        "title":  "The Pat McAfee Show",
+        "end":  "2024-12-31T19:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-31T19:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2024-12-31T19:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-31T19:30:00.0000000",
+        "title":  "Music City Bowl: Iowa vs. Missouri",
+        "end":  "2024-12-31T23:00:00.0000000"
+    },
+    {
+        "start":  "2024-12-31T23:00:00.0000000",
+        "title":  "Monday Night Countdown",
+        "end":  "2025-01-01T01:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-01T01:00:00.0000000",
+        "title":  "Monday Night Kickoff",
+        "end":  "2025-01-01T01:15:00.0000000"
+    },
+    {
+        "start":  "2025-01-01T01:15:00.0000000",
+        "title":  "Monday Night Football: Detroit Lions at San Francisco 49ers",
+        "end":  "2025-01-01T04:15:00.0000000"
+    },
+    {
+        "start":  "2025-01-01T04:15:00.0000000",
+        "title":  "Monday Night Postgame",
+        "end":  "2025-01-01T04:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-01T04:30:00.0000000",
+        "title":  "SportsCenter with Scott Van Pelt",
+        "end":  "2025-01-01T04:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-01T04:30:00.0000000",
+        "title":  "SportsCenter with Scott Van Pelt",
+        "end":  "2025-01-01T05:30:00.0000000"
     }
 ]
