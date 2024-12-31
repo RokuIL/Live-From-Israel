@@ -1,60 +1,5 @@
 [
     {
-        "start":  "2024-12-30T06:00:00.0000000",
-        "title":  "Live Tennis",
-        "end":  "2024-12-30T07:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-30T07:30:00.0000000",
-        "title":  "Live Test Cricket: South Africa V Pakistan 1st Test Day 5 30.12",
-        "end":  "2024-12-30T12:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-30T12:30:00.0000000",
-        "title":  "Live World Darts Championship: World Darts Championship D13 S1 30.12.24",
-        "end":  "2024-12-30T16:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-30T16:30:00.0000000",
-        "title":  "Sports Desk",
-        "end":  "2024-12-30T17:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-30T17:00:00.0000000",
-        "title":  "Sports Centre",
-        "end":  "2024-12-30T18:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-30T18:00:00.0000000",
-        "title":  "Sports Centre",
-        "end":  "2024-12-30T18:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-30T18:30:00.0000000",
-        "title":  "Live MNF: Manchester United v Newcastle 30.12",
-        "end":  "2024-12-30T23:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-30T23:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2024-12-31T00:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-31T00:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2024-12-31T01:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-31T01:00:00.0000000",
-        "title":  "Live NFL: Detroit Lions @ San Francisco 49ers 30.12",
-        "end":  "2024-12-31T05:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-31T05:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2024-12-31T06:00:00.0000000"
-    },
-    {
         "start":  "2024-12-31T06:00:00.0000000",
         "title":  "Sky Sports News",
         "end":  "2024-12-31T07:00:00.0000000"
@@ -133,5 +78,45 @@
         "start":  "2024-12-31T22:00:00.0000000",
         "title":  "Sky Sports News",
         "end":  "2024-12-31T22:30:00.0000000"
+    },
+    {
+        "start":  "2024-12-31T22:30:00.0000000",
+        "title":  "Live Tennis",
+        "end":  "2025-01-01T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-01T06:00:00.0000000",
+        "title":  "Live Tennis",
+        "end":  "2025-01-01T12:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-01T12:30:00.0000000",
+        "title":  "Live World Darts Championship: World Darts Championship D14 Q/Finals S1 01.01.25",
+        "end":  "2025-01-01T16:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-01T16:30:00.0000000",
+        "title":  "Gillette Labs Soccer Special",
+        "end":  "2025-01-01T17:15:00.0000000"
+    },
+    {
+        "start":  "2025-01-01T17:15:00.0000000",
+        "title":  "Live EFL: Hull City v Middlesbrough 01.01",
+        "end":  "2025-01-01T19:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-01T19:30:00.0000000",
+        "title":  "Live World Darts Championship: World Darts Championship D14 Q/Finals S2 01.01.25",
+        "end":  "2025-01-01T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-01T23:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-01-02T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-02T00:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-01-02T00:30:00.0000000"
     }
 ]

@@ -1,87 +1,77 @@
 [
     {
-        "start":  "2024-12-31T04:30:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
-        "end":  "2024-12-31T06:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-31T06:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-31T07:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-31T07:00:00.0000000",
-        "title":  "Las Vegas Bowl: Texas A\u0026M vs. Southern California",
-        "end":  "2024-12-31T09:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-31T09:00:00.0000000",
-        "title":  "Fenway Bowl: Connecticut vs. North Carolina",
-        "end":  "2024-12-31T11:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-31T11:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-31T12:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-31T12:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-31T13:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-31T13:00:00.0000000",
-        "title":  "Get Up",
-        "end":  "2024-12-31T15:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-31T15:00:00.0000000",
-        "title":  "First Take",
-        "end":  "2024-12-31T17:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-31T17:00:00.0000000",
-        "title":  "The Pat McAfee Show",
-        "end":  "2024-12-31T19:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-31T19:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2024-12-31T19:30:00.0000000"
-    },
-    {
-        "start":  "2024-12-31T19:30:00.0000000",
-        "title":  "Music City Bowl: Iowa vs. Missouri",
-        "end":  "2024-12-31T23:00:00.0000000"
-    },
-    {
-        "start":  "2024-12-31T23:00:00.0000000",
-        "title":  "Monday Night Countdown",
-        "end":  "2025-01-01T01:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-01T01:00:00.0000000",
-        "title":  "Monday Night Kickoff",
-        "end":  "2025-01-01T01:15:00.0000000"
-    },
-    {
-        "start":  "2025-01-01T01:15:00.0000000",
-        "title":  "Monday Night Football: Detroit Lions at San Francisco 49ers",
-        "end":  "2025-01-01T04:15:00.0000000"
-    },
-    {
-        "start":  "2025-01-01T04:15:00.0000000",
-        "title":  "Monday Night Postgame",
-        "end":  "2025-01-01T04:30:00.0000000"
-    },
-    {
-        "start":  "2025-01-01T04:30:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
-        "end":  "2025-01-01T04:30:00.0000000"
-    },
-    {
         "start":  "2025-01-01T04:30:00.0000000",
         "title":  "SportsCenter with Scott Van Pelt",
         "end":  "2025-01-01T05:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-01T05:30:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-01-01T06:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-01T06:30:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-01-01T07:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-01T07:30:00.0000000",
+        "title":  "New Mexico Bowl: Louisiana vs. TCU",
+        "end":  "2025-01-01T09:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-01T09:30:00.0000000",
+        "title":  "Military Bowl: East Carolina vs. North Carolina State",
+        "end":  "2025-01-01T11:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-01T11:30:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-01-01T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-01T12:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-01-01T13:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-01T13:00:00.0000000",
+        "title":  "Get Up",
+        "end":  "2025-01-01T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-01T15:00:00.0000000",
+        "title":  "First Take",
+        "end":  "2025-01-01T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-01T17:00:00.0000000",
+        "title":  "ReliaQuest Bowl: Alabama vs. Michigan",
+        "end":  "2025-01-01T20:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-01T20:30:00.0000000",
+        "title":  "Texas Bowl",
+        "end":  "2025-01-02T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-02T00:00:00.0000000",
+        "title":  "Ram Trucks Pregame",
+        "end":  "2025-01-02T00:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-02T00:30:00.0000000",
+        "title":  "Ram Trucks Kickoff",
+        "end":  "2025-01-02T00:40:00.0000000"
+    },
+    {
+        "start":  "2025-01-02T04:10:00.0000000",
+        "title":  "Ram Trucks Postgame",
+        "end":  "2025-01-02T04:20:00.0000000"
+    },
+    {
+        "start":  "2025-01-02T04:20:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-01-02T05:00:00.0000000"
     }
 ]
