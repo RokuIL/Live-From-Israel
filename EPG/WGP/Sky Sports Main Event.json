@@ -1,45 +1,5 @@
 [
     {
-        "start":  "2025-01-01T06:00:00.0000000",
-        "title":  "Live Tennis",
-        "end":  "2025-01-01T12:30:00.0000000"
-    },
-    {
-        "start":  "2025-01-01T12:30:00.0000000",
-        "title":  "Live World Darts Championship: World Darts Championship D14 Q/Finals S1 01.01.25",
-        "end":  "2025-01-01T16:30:00.0000000"
-    },
-    {
-        "start":  "2025-01-01T16:30:00.0000000",
-        "title":  "Gillette Labs Soccer Special",
-        "end":  "2025-01-01T17:15:00.0000000"
-    },
-    {
-        "start":  "2025-01-01T17:15:00.0000000",
-        "title":  "Live EFL: Hull City v Middlesbrough 01.01",
-        "end":  "2025-01-01T19:30:00.0000000"
-    },
-    {
-        "start":  "2025-01-01T19:30:00.0000000",
-        "title":  "Live World Darts Championship: World Darts Championship D14 Q/Finals S2 01.01.25",
-        "end":  "2025-01-01T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-01T23:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-01-02T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-02T00:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-01-02T00:30:00.0000000"
-    },
-    {
-        "start":  "2025-01-02T00:30:00.0000000",
-        "title":  "Live Tennis",
-        "end":  "2025-01-02T06:00:00.0000000"
-    },
-    {
         "start":  "2025-01-02T06:00:00.0000000",
         "title":  "Live Tennis",
         "end":  "2025-01-02T12:30:00.0000000"
@@ -73,5 +33,55 @@
         "start":  "2025-01-02T23:00:00.0000000",
         "title":  "Live PGA Tour Golf: 2025 Sentry Tournament of Champions: Day One",
         "end":  "2025-01-03T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-03T03:00:00.0000000",
+        "title":  "Live Tennis",
+        "end":  "2025-01-03T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-03T06:00:00.0000000",
+        "title":  "Live Tennis",
+        "end":  "2025-01-03T07:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-03T07:30:00.0000000",
+        "title":  "Live Test Cricket: South Africa V Pakistan 2nd Test Day 1 03.01",
+        "end":  "2025-01-03T16:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-03T16:30:00.0000000",
+        "title":  "Total Football",
+        "end":  "2025-01-03T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-03T17:00:00.0000000",
+        "title":  "Sports Centre",
+        "end":  "2025-01-03T18:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-03T18:00:00.0000000",
+        "title":  "Live PGA Tour Golf: 2025 Sentry Tournament of Champions: Day two Featured Groups",
+        "end":  "2025-01-03T20:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-03T20:00:00.0000000",
+        "title":  "Live World Darts Championship: World Darts Championship D16 Final 03.01",
+        "end":  "2025-01-03T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-03T23:00:00.0000000",
+        "title":  "Live PGA Tour Golf: 2025 Sentry Tournament of Champions: Day Two",
+        "end":  "2025-01-04T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-04T03:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-01-04T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-04T04:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-01-04T05:00:00.0000000"
     }
 ]
