@@ -1,55 +1,5 @@
 [
     {
-        "start":  "2025-01-03T06:00:00.0000000",
-        "title":  "Live Tennis",
-        "end":  "2025-01-03T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-03T08:00:00.0000000",
-        "title":  "Live Test Cricket: South Africa V Pakistan 2nd Test Day 1 03.01",
-        "end":  "2025-01-03T16:30:00.0000000"
-    },
-    {
-        "start":  "2025-01-03T16:30:00.0000000",
-        "title":  "Total Football",
-        "end":  "2025-01-03T17:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-03T17:00:00.0000000",
-        "title":  "Sports Centre",
-        "end":  "2025-01-03T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-03T18:00:00.0000000",
-        "title":  "Live PGA Tour Golf: 2025 Sentry Tournament of Champions: Day Two Featured Groups",
-        "end":  "2025-01-03T19:30:00.0000000"
-    },
-    {
-        "start":  "2025-01-03T19:30:00.0000000",
-        "title":  "Live World Darts Championship: World Darts Championship D16 Final 03.01",
-        "end":  "2025-01-03T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-03T23:00:00.0000000",
-        "title":  "Live PGA Tour Golf: 2025 Sentry Tournament of Champions: Day Two",
-        "end":  "2025-01-04T03:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-04T03:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-01-04T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-04T04:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-01-04T05:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-04T05:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-01-04T06:00:00.0000000"
-    },
-    {
         "start":  "2025-01-04T06:00:00.0000000",
         "title":  "Sky Sports News",
         "end":  "2025-01-04T07:00:00.0000000"
@@ -118,5 +68,75 @@
         "start":  "2025-01-05T03:00:00.0000000",
         "title":  "Sky Sports News",
         "end":  "2025-01-05T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-05T04:00:00.0000000",
+        "title":  "Live WTA Tennis: Wta Auckland Final 2025",
+        "end":  "2025-01-05T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-05T06:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-01-05T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-05T07:00:00.0000000",
+        "title":  "Good Morning Sports Fans",
+        "end":  "2025-01-05T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-05T08:00:00.0000000",
+        "title":  "Good Morning Sports Fans",
+        "end":  "2025-01-05T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-05T09:00:00.0000000",
+        "title":  "Good Morning Sports Fans",
+        "end":  "2025-01-05T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-05T10:00:00.0000000",
+        "title":  "Super Sunday Matchday",
+        "end":  "2025-01-05T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-05T11:00:00.0000000",
+        "title":  "Live SPFL: Hibernian v Rangers 05.01",
+        "end":  "2025-01-05T14:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-05T14:00:00.0000000",
+        "title":  "Live Super Sunday",
+        "end":  "2025-01-05T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-05T16:00:00.0000000",
+        "title":  "Live Super Sunday: Liverpool v Manchester United 05.01",
+        "end":  "2025-01-05T19:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-05T19:30:00.0000000",
+        "title":  "Live NFL: New Orleans Saints @ Tampa Bay Buccaneers 05.01",
+        "end":  "2025-01-05T21:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-05T21:00:00.0000000",
+        "title":  "Live NFL",
+        "end":  "2025-01-06T00:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-06T00:30:00.0000000",
+        "title":  "NBC\u0027s FNIA",
+        "end":  "2025-01-06T01:10:00.0000000"
+    },
+    {
+        "start":  "2025-01-06T01:10:00.0000000",
+        "title":  "Live NFL: Minnesota Vikings @ Detroit Lions 05.01",
+        "end":  "2025-01-06T04:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-06T04:30:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-01-06T05:00:00.0000000"
     }
 ]
