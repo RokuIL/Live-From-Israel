@@ -393,7 +393,7 @@
         },        
         {
             "Title": "יס סרטי ילדים",
-            "TitleEng": "Yes Movies Kids",
+            "TitleEng": "Yes Kids Movies",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesKids.png",
             "EPGProvider": "WGP",
             "EPGStationId": "Yes%20Movies%20Kids",
@@ -410,9 +410,8 @@
         },
         {
             "Title": "יס סרטי פעולה",
-            "TitleEng": "Yes Movies Action",
+            "TitleEng": "Yes Action Movies",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesAction.png",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "WGP",
             "EPGStationId": "Yes%20Movies%20Action",
             "BufferingTimer": "1",
@@ -428,8 +427,9 @@
         },
         {
             "Title": "יס טי.וי. פעולה",
-            "TitleEng": "Yes TV Action",
+            "TitleEng": "Yes Action TV",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesTVAction.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "WGP",
             "EPGStationId": "Yes%20TV%20Action",
             "BufferingTimer": "1",
@@ -445,7 +445,7 @@
         },
         {
             "Title": "יס סרטי קומדיה",
-            "TitleEng": "Yes Movies Comedy",
+            "TitleEng": "Yes Comedy Movies",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesComedy.png",
             "EPGProvider": "WGP",
             "EPGStationId": "Yes%20Movies%20Comedy",
