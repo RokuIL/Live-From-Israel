@@ -1,57 +1,12 @@
 [
     {
-        "start":  "2025-01-10T06:00:00.0000000",
-        "title":  "Live Tennis",
-        "end":  "2025-01-10T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-10T07:00:00.0000000",
-        "title":  "Live DP World Tour Golf",
-        "end":  "2025-01-10T13:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-10T13:00:00.0000000",
-        "title":  "Total Football",
-        "end":  "2025-01-10T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-10T14:00:00.0000000",
-        "title":  "Total Football",
-        "end":  "2025-01-10T15:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-10T15:00:00.0000000",
-        "title":  "Live SA20: Durban\u0027s Super Giants V Pretoria Capitals-Durban 10.01",
-        "end":  "2025-01-10T19:30:00.0000000"
-    },
-    {
-        "start":  "2025-01-10T19:30:00.0000000",
-        "title":  "Live Bundesliga: Dortmund v Leverkusen 10.01",
-        "end":  "2025-01-10T21:30:00.0000000"
-    },
-    {
-        "start":  "2025-01-10T21:30:00.0000000",
-        "title":  "Live PGA Tour Golf: 2025 Sony Open in Hawaii: Day Two Early Coverage",
-        "end":  "2025-01-11T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-11T00:00:00.0000000",
-        "title":  "Live PGA Tour Golf",
-        "end":  "2025-01-11T03:30:00.0000000"
-    },
-    {
-        "start":  "2025-01-11T03:30:00.0000000",
-        "title":  "Live DP World Tour Golf",
-        "end":  "2025-01-11T06:00:00.0000000"
-    },
-    {
         "start":  "2025-01-11T06:00:00.0000000",
         "title":  "Live DP World Tour Golf",
         "end":  "2025-01-11T12:00:00.0000000"
     },
     {
         "start":  "2025-01-11T12:00:00.0000000",
-        "title":  "Live SPFL",
+        "title":  "Live EFL: Walsall v Tranmere Rovers 11.01",
         "end":  "2025-01-11T15:00:00.0000000"
     },
     {
@@ -61,7 +16,7 @@
     },
     {
         "start":  "2025-01-11T19:30:00.0000000",
-        "title":  "Live Fight Night",
+        "title":  "Fight Night: Callum Simpson v Steed Woodhall 11.01",
         "end":  "2025-01-11T23:00:00.0000000"
     },
     {
@@ -78,5 +33,65 @@
         "start":  "2025-01-12T04:30:00.0000000",
         "title":  "Sky Sports News",
         "end":  "2025-01-12T05:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-12T05:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-01-12T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-12T06:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-01-12T06:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-12T06:30:00.0000000",
+        "title":  "Live DP World Tour Golf",
+        "end":  "2025-01-12T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-12T12:00:00.0000000",
+        "title":  "Sports Sunday",
+        "end":  "2025-01-12T13:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-12T13:00:00.0000000",
+        "title":  "Sports Sunday",
+        "end":  "2025-01-12T14:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-12T14:00:00.0000000",
+        "title":  "Sports Sunday",
+        "end":  "2025-01-12T14:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-12T14:30:00.0000000",
+        "title":  "Live SPFL: Aberdeen v Hearts 12.01",
+        "end":  "2025-01-12T17:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-12T17:30:00.0000000",
+        "title":  "Live NFL",
+        "end":  "2025-01-12T21:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-12T21:00:00.0000000",
+        "title":  "Live NFL: Green Bay Packers @ Philadelphia Eagles 12.01",
+        "end":  "2025-01-13T00:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-13T00:30:00.0000000",
+        "title":  "NBC\u0027s FNIA",
+        "end":  "2025-01-13T01:15:00.0000000"
+    },
+    {
+        "start":  "2025-01-13T01:15:00.0000000",
+        "title":  "Live NFL: Washington Commanders @ Tampa Bay Buccaneers 12.01",
+        "end":  "2025-01-13T04:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-13T04:30:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-01-13T05:00:00.0000000"
     }
 ]

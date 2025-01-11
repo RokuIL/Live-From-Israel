@@ -1,60 +1,5 @@
 [
     {
-        "start":  "2025-01-10T05:00:00.0000000",
-        "title":  "NFL Football: Pittsburgh Steelers at Baltimore Ravens",
-        "end":  "2025-01-10T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-10T11:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-01-10T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-10T12:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-01-10T13:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-10T13:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-01-10T15:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-10T15:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-01-10T17:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-10T17:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-01-10T19:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-10T19:00:00.0000000",
-        "title":  "NFL Football",
-        "end":  "2025-01-10T21:30:00.0000000"
-    },
-    {
-        "start":  "2025-01-10T21:30:00.0000000",
-        "title":  "NFL Football",
-        "end":  "2025-01-11T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-11T00:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-01-11T01:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-11T01:00:00.0000000",
-        "title":  "NFL Football: Green Bay Packers vs. Philadelphia Eagles",
-        "end":  "2025-01-11T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-11T04:00:00.0000000",
-        "title":  "Inside the NFL",
-        "end":  "2025-01-11T05:00:00.0000000"
-    },
-    {
         "start":  "2025-01-11T05:00:00.0000000",
         "title":  "The Insiders",
         "end":  "2025-01-11T06:00:00.0000000"
@@ -98,5 +43,65 @@
         "start":  "2025-01-12T01:15:00.0000000",
         "title":  "NFL Football: Green Bay Packers vs. Philadelphia Eagles",
         "end":  "2025-01-12T04:15:00.0000000"
+    },
+    {
+        "start":  "2025-01-12T04:15:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2025-01-12T04:15:00.0000000"
+    },
+    {
+        "start":  "2025-01-12T04:15:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2025-01-12T05:15:00.0000000"
+    },
+    {
+        "start":  "2025-01-12T05:15:00.0000000",
+        "title":  "NFL Playoff: Pittsburgh Steelers at Baltimore Ravens",
+        "end":  "2025-01-12T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-12T08:00:00.0000000",
+        "title":  "NFL Playoff: Los Angeles Chargers at Houston Texans",
+        "end":  "2025-01-12T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-12T11:00:00.0000000",
+        "title":  "NFL Playoff: Pittsburgh Steelers at Baltimore Ravens",
+        "end":  "2025-01-12T14:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-12T14:00:00.0000000",
+        "title":  "NFL Gameday Morning",
+        "end":  "2025-01-12T18:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-12T18:00:00.0000000",
+        "title":  "NFL Football: Green Bay Packers vs. Philadelphia Eagles",
+        "end":  "2025-01-12T21:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-12T21:00:00.0000000",
+        "title":  "NFL Gameday Highlights",
+        "end":  "2025-01-12T21:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-12T21:30:00.0000000",
+        "title":  "NFL Football: Washington Commanders at Tampa Bay Buccaneers",
+        "end":  "2025-01-13T00:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-13T00:30:00.0000000",
+        "title":  "NFL Gameday Highlights",
+        "end":  "2025-01-13T01:15:00.0000000"
+    },
+    {
+        "start":  "2025-01-13T01:15:00.0000000",
+        "title":  "Thursday Night Football: Minnesota Vikings at Los Angeles Rams",
+        "end":  "2025-01-13T03:45:00.0000000"
+    },
+    {
+        "start":  "2025-01-13T03:45:00.0000000",
+        "title":  "A Football Life Origins: Kyren Williams",
+        "end":  "2025-01-13T04:15:00.0000000"
     }
 ]
