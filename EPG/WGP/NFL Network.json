@@ -1,70 +1,5 @@
 [
     {
-        "start":  "2025-01-16T05:00:00.0000000",
-        "title":  "Inside the NFL",
-        "end":  "2025-01-16T06:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-16T06:00:00.0000000",
-        "title":  "NFL Playoff: Minnesota Vikings vs. Los Angeles Rams",
-        "end":  "2025-01-16T08:30:00.0000000"
-    },
-    {
-        "start":  "2025-01-16T08:30:00.0000000",
-        "title":  "NFL Playoff: Los Angeles Chargers at Houston Texans",
-        "end":  "2025-01-16T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-16T11:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-01-16T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-16T12:00:00.0000000",
-        "title":  "Inside the NFL",
-        "end":  "2025-01-16T13:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-16T13:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-01-16T15:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-16T15:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-01-16T17:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-16T17:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-01-16T19:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-16T19:00:00.0000000",
-        "title":  "Sunday Night Football: Buffalo Bills at Baltimore Ravens",
-        "end":  "2025-01-16T21:30:00.0000000"
-    },
-    {
-        "start":  "2025-01-16T21:30:00.0000000",
-        "title":  "Sunday Night Football: Philadelphia Eagles at Los Angeles Rams",
-        "end":  "2025-01-17T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-17T00:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-01-17T01:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-17T01:00:00.0000000",
-        "title":  "NFL Football",
-        "end":  "2025-01-17T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-17T04:00:00.0000000",
-        "title":  "NFL GameDay View",
-        "end":  "2025-01-17T05:00:00.0000000"
-    },
-    {
         "start":  "2025-01-17T05:00:00.0000000",
         "title":  "NFL Football: Philadelphia Eagles at Washington Commanders",
         "end":  "2025-01-17T08:00:00.0000000"
@@ -113,5 +48,55 @@
         "start":  "2025-01-18T01:00:00.0000000",
         "title":  "Inside the NFL",
         "end":  "2025-01-18T02:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T06:00:00.0000000",
+        "title":  "Inside the NFL",
+        "end":  "2025-01-18T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T07:00:00.0000000",
+        "title":  "NFL GameDay View",
+        "end":  "2025-01-18T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T08:00:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2025-01-18T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T13:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-01-18T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T15:00:00.0000000",
+        "title":  "Inside the NFL",
+        "end":  "2025-01-18T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T16:00:00.0000000",
+        "title":  "NFL GameDay View",
+        "end":  "2025-01-18T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T17:00:00.0000000",
+        "title":  "NFL Gameday Morning",
+        "end":  "2025-01-18T21:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T21:30:00.0000000",
+        "title":  "NFL Playoff: Washington Commanders at Tampa Bay Buccaneers",
+        "end":  "2025-01-19T00:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-19T00:30:00.0000000",
+        "title":  "NFL Gameday Highlights",
+        "end":  "2025-01-19T01:15:00.0000000"
+    },
+    {
+        "start":  "2025-01-19T01:15:00.0000000",
+        "title":  "Sunday Night Football: Philadelphia Eagles at Los Angeles Rams",
+        "end":  "2025-01-19T04:15:00.0000000"
     }
 ]

@@ -1,11 +1,6 @@
 [
     {
-        "start":  "2025-01-17T02:35:00.0000000",
-        "title":  "NBA Basketball: Golden State Warriors at Minnesota Timberwolves",
-        "end":  "2025-01-17T05:05:00.0000000"
-    },
-    {
-        "start":  "2025-01-17T05:05:00.0000000",
+        "start":  "2025-01-17T05:00:00.0000000",
         "title":  "SportsCenter",
         "end":  "2025-01-17T06:00:00.0000000"
     },
@@ -26,7 +21,7 @@
     },
     {
         "start":  "2025-01-17T09:00:00.0000000",
-        "title":  "NBA Basketball: Golden State Warriors at Minnesota Timberwolves",
+        "title":  "NHL Hockey: Edmonton Oilers vs. Colorado Avalanche",
         "end":  "2025-01-17T11:00:00.0000000"
     },
     {
@@ -82,16 +77,116 @@
     {
         "start":  "2025-01-17T23:00:00.0000000",
         "title":  "SportsCenter",
+        "end":  "2025-01-17T23:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-17T23:30:00.0000000",
+        "title":  "NBA Countdown",
         "end":  "2025-01-18T00:00:00.0000000"
     },
     {
         "start":  "2025-01-18T00:00:00.0000000",
-        "title":  "NHL Hockey: Detroit Red Wings vs. Florida Panthers",
-        "end":  "2025-01-18T02:30:00.0000000"
+        "title":  "NBA Courtside",
+        "end":  "2025-01-18T00:13:00.0000000"
     },
     {
-        "start":  "2025-01-18T02:30:00.0000000",
-        "title":  "NHL Hockey: Edmonton Oilers vs. Colorado Avalanche",
-        "end":  "2025-01-18T05:00:00.0000000"
+        "start":  "2025-01-18T00:13:00.0000000",
+        "title":  "NBA Basketball",
+        "end":  "2025-01-18T02:35:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T02:35:00.0000000",
+        "title":  "NBA Basketball: Memphis Grizzlies at San Antonio Spurs",
+        "end":  "2025-01-18T02:35:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T02:35:00.0000000",
+        "title":  "NBA Basketball: Memphis Grizzlies at San Antonio Spurs",
+        "end":  "2025-01-18T05:05:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T05:05:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-01-18T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T06:00:00.0000000",
+        "title":  "They Call It Late Night with Jason Kelce",
+        "end":  "2025-01-18T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T07:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-01-18T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T08:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-01-18T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T09:00:00.0000000",
+        "title":  "NFL Matchup",
+        "end":  "2025-01-18T09:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T09:30:00.0000000",
+        "title":  "NBA Basketball: Memphis Grizzlies at San Antonio Spurs",
+        "end":  "2025-01-18T11:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T11:30:00.0000000",
+        "title":  "NFL Matchup",
+        "end":  "2025-01-18T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T12:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-01-18T13:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T13:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-01-18T14:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T14:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-01-18T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T15:00:00.0000000",
+        "title":  "Postseason NFL Countdown",
+        "end":  "2025-01-18T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T19:00:00.0000000",
+        "title":  "Postseason NFL Countdown",
+        "end":  "2025-01-18T21:15:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T21:15:00.0000000",
+        "title":  "NFL Divisional Round Kickoff",
+        "end":  "2025-01-18T21:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-18T21:30:00.0000000",
+        "title":  "NFL Playoff",
+        "end":  "2025-01-19T00:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-19T00:30:00.0000000",
+        "title":  "NFL on ESPN Postgame",
+        "end":  "2025-01-19T01:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-19T03:00:00.0000000",
+        "title":  "Path to the College Football Playoff",
+        "end":  "2025-01-19T03:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-19T03:30:00.0000000",
+        "title":  "Road to the College Football Playoff",
+        "end":  "2025-01-19T04:00:00.0000000"
     }
 ]
