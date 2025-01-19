@@ -1,17 +1,12 @@
 [
     {
-        "start":  "2025-01-19T02:35:00.0000000",
-        "title":  "NBA Basketball: Memphis Grizzlies at San Antonio Spurs",
-        "end":  "2025-01-19T05:05:00.0000000"
-    },
-    {
-        "start":  "2025-01-19T05:05:00.0000000",
+        "start":  "2025-01-19T05:00:00.0000000",
         "title":  "SportsCenter",
         "end":  "2025-01-19T06:00:00.0000000"
     },
     {
         "start":  "2025-01-19T06:00:00.0000000",
-        "title":  "They Call It Late Night with Jason Kelce",
+        "title":  "SportsCenter",
         "end":  "2025-01-19T07:00:00.0000000"
     },
     {
@@ -21,22 +16,7 @@
     },
     {
         "start":  "2025-01-19T08:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2025-01-19T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-19T09:00:00.0000000",
-        "title":  "NFL Matchup",
-        "end":  "2025-01-19T09:30:00.0000000"
-    },
-    {
-        "start":  "2025-01-19T09:30:00.0000000",
-        "title":  "NBA Basketball: Memphis Grizzlies at San Antonio Spurs",
-        "end":  "2025-01-19T11:30:00.0000000"
-    },
-    {
-        "start":  "2025-01-19T11:30:00.0000000",
-        "title":  "NFL Matchup",
+        "title":  "Australian Open",
         "end":  "2025-01-19T12:00:00.0000000"
     },
     {
@@ -56,42 +36,117 @@
     },
     {
         "start":  "2025-01-19T15:00:00.0000000",
-        "title":  "Postseason NFL Countdown",
+        "title":  "SportsCenter",
+        "end":  "2025-01-19T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-19T16:00:00.0000000",
+        "title":  "SportsCenter",
         "end":  "2025-01-19T17:00:00.0000000"
     },
     {
-        "start":  "2025-01-19T19:00:00.0000000",
+        "start":  "2025-01-19T17:00:00.0000000",
         "title":  "Postseason NFL Countdown",
-        "end":  "2025-01-19T21:15:00.0000000"
+        "end":  "2025-01-19T20:00:00.0000000"
     },
     {
-        "start":  "2025-01-19T21:15:00.0000000",
-        "title":  "NFL Divisional Round Kickoff",
-        "end":  "2025-01-19T21:30:00.0000000"
-    },
-    {
-        "start":  "2025-01-19T21:30:00.0000000",
-        "title":  "NFL Playoff",
+        "start":  "2025-01-20T00:00:00.0000000",
+        "title":  "Path to the College Football Playoff",
         "end":  "2025-01-20T00:30:00.0000000"
     },
     {
         "start":  "2025-01-20T00:30:00.0000000",
-        "title":  "NFL on ESPN Postgame",
+        "title":  "Path to the College Football Playoff",
         "end":  "2025-01-20T01:00:00.0000000"
     },
     {
-        "start":  "2025-01-20T03:00:00.0000000",
-        "title":  "Path to the College Football Playoff",
-        "end":  "2025-01-20T03:30:00.0000000"
+        "start":  "2025-01-20T01:00:00.0000000",
+        "title":  "Championship Drive: Countdown to Kickoff",
+        "end":  "2025-01-20T02:30:00.0000000"
     },
     {
-        "start":  "2025-01-20T03:30:00.0000000",
-        "title":  "Road to the College Football Playoff",
+        "start":  "2025-01-20T02:30:00.0000000",
+        "title":  "SportsCenter with Scott Van Pelt",
         "end":  "2025-01-20T04:00:00.0000000"
     },
     {
         "start":  "2025-01-20T04:00:00.0000000",
         "title":  "SportsCenter",
         "end":  "2025-01-20T05:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-20T05:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-01-20T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-20T06:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-01-20T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-20T07:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-01-20T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-20T08:00:00.0000000",
+        "title":  "Australian Open",
+        "end":  "2025-01-20T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-20T12:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-01-20T13:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-20T13:00:00.0000000",
+        "title":  "Get Up",
+        "end":  "2025-01-20T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-20T15:00:00.0000000",
+        "title":  "First Take",
+        "end":  "2025-01-20T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-20T17:00:00.0000000",
+        "title":  "The Pat McAfee Show",
+        "end":  "2025-01-20T19:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-20T19:00:00.0000000",
+        "title":  "College Football Live",
+        "end":  "2025-01-20T20:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-20T20:00:00.0000000",
+        "title":  "Championship Drive",
+        "end":  "2025-01-20T21:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-20T21:30:00.0000000",
+        "title":  "Pardon the Interruption",
+        "end":  "2025-01-20T22:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-20T22:00:00.0000000",
+        "title":  "College GameDay",
+        "end":  "2025-01-21T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-21T00:00:00.0000000",
+        "title":  "Ram Trucks Pregame",
+        "end":  "2025-01-21T00:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-21T00:45:00.0000000",
+        "title":  "College Football Playoff National Championship",
+        "end":  "2025-01-21T04:15:00.0000000"
+    },
+    {
+        "start":  "2025-01-21T04:15:00.0000000",
+        "title":  "Ram Trucks Postgame",
+        "end":  "2025-01-21T04:30:00.0000000"
     }
 ]
