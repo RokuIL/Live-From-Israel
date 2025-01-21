@@ -1,22 +1,22 @@
 [
     {
-        "start":  "2025-01-21T04:00:00.0000000",
-        "title":  "NFL GameDay Final",
-        "end":  "2025-01-21T05:30:00.0000000"
-    },
-    {
-        "start":  "2025-01-21T05:30:00.0000000",
-        "title":  "NFL Playoff: Los Angeles Rams at Philadelphia Eagles",
+        "start":  "2025-01-21T05:00:00.0000000",
+        "title":  "NFL Playoff: Washington Commanders at Detroit Lions",
         "end":  "2025-01-21T08:00:00.0000000"
     },
     {
         "start":  "2025-01-21T08:00:00.0000000",
-        "title":  "NFL Playoff: Baltimore Ravens at Buffalo Bills",
+        "title":  "NFL Playoff: Los Angeles Rams at Philadelphia Eagles",
         "end":  "2025-01-21T11:00:00.0000000"
     },
     {
-        "start":  "2025-01-21T11:30:00.0000000",
-        "title":  "NFL GameDay Final",
+        "start":  "2025-01-21T11:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-01-21T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-21T12:00:00.0000000",
+        "title":  "The Insiders",
         "end":  "2025-01-21T13:00:00.0000000"
     },
     {
@@ -58,5 +58,55 @@
         "start":  "2025-01-22T04:00:00.0000000",
         "title":  "The Insiders",
         "end":  "2025-01-22T05:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-22T05:00:00.0000000",
+        "title":  "NFL Playoff: Divisional Round",
+        "end":  "2025-01-22T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-22T08:00:00.0000000",
+        "title":  "NFL Playoff: Divisional Round",
+        "end":  "2025-01-22T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-22T11:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-01-22T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-22T12:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-01-22T13:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-22T13:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-01-22T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-22T15:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-01-22T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-22T17:00:00.0000000",
+        "title":  "Up to the Minute: Championship Wednesday",
+        "end":  "2025-01-22T21:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-22T21:30:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2025-01-23T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-23T00:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-01-23T01:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-23T01:00:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2025-01-23T04:00:00.0000000"
     }
 ]
