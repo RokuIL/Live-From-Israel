@@ -1,35 +1,5 @@
 [
     {
-        "start":  "2025-01-25T05:00:00.0000000",
-        "title":  "NFL GameDay View",
-        "end":  "2025-01-25T06:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-25T06:00:00.0000000",
-        "title":  "NFL Football",
-        "end":  "2025-01-25T08:30:00.0000000"
-    },
-    {
-        "start":  "2025-01-25T11:00:00.0000000",
-        "title":  "NFL Playoff",
-        "end":  "2025-01-25T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-25T14:00:00.0000000",
-        "title":  "NFL Playoff: Washington Commanders at Detroit Lions",
-        "end":  "2025-01-25T17:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-25T17:00:00.0000000",
-        "title":  "NFL Playoff: Los Angeles Rams at Philadelphia Eagles",
-        "end":  "2025-01-25T20:00:00.0000000"
-    },
-    {
-        "start":  "2025-01-25T20:00:00.0000000",
-        "title":  "NFL Playoff: Baltimore Ravens at Buffalo Bills",
-        "end":  "2025-01-25T23:00:00.0000000"
-    },
-    {
         "start":  "2025-01-26T05:00:00.0000000",
         "title":  "Thursday Night Football: Washington Commanders at Philadelphia Eagles",
         "end":  "2025-01-26T08:00:00.0000000"
@@ -68,5 +38,65 @@
         "start":  "2025-01-27T02:30:00.0000000",
         "title":  "NFL GameDay Final",
         "end":  "2025-01-27T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-27T04:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2025-01-27T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-27T04:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2025-01-27T05:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-27T05:30:00.0000000",
+        "title":  "NFL Playoff: Washington Commanders at Philadelphia Eagles",
+        "end":  "2025-01-27T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-27T08:00:00.0000000",
+        "title":  "NFL Playoff",
+        "end":  "2025-01-27T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-27T11:30:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2025-01-27T13:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-27T13:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-01-27T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-27T15:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-01-27T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-27T17:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-01-27T19:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-27T19:00:00.0000000",
+        "title":  "NFL Playoff: Washington Commanders at Philadelphia Eagles",
+        "end":  "2025-01-27T21:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-27T21:30:00.0000000",
+        "title":  "NFL Playoff",
+        "end":  "2025-01-28T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-28T00:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-01-28T01:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-28T01:00:00.0000000",
+        "title":  "NFL Playoff: Washington Commanders at Philadelphia Eagles",
+        "end":  "2025-01-28T04:00:00.0000000"
     }
 ]
