@@ -647,7 +647,7 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/telaviv102fm.png",
             "StreamFormat": "aac_adts",
             "StreamUrls": [
-                "http://102.livecdn.biz/102fm_aac"
+                "https://cdn88.mediacast.co.il/102fm-tlv/102fm_aac/icecast.audio"
             ]
         },
         {
