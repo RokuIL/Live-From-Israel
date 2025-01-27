@@ -1,52 +1,162 @@
 [
     {
+        "start":  "2025-01-27T05:00:00.0000000",
+        "title":  "World Surf League",
+        "end":  "2025-01-27T05:30:00.0000000"
+    },
+    {
         "start":  "2025-01-27T05:30:00.0000000",
-        "title":  "SC Featured",
+        "title":  "World of X Games: Being Ryan Sheckler: Extended Cut",
         "end":  "2025-01-27T06:00:00.0000000"
     },
     {
         "start":  "2025-01-27T06:00:00.0000000",
-        "title":  "NBA Basketball: Denver Nuggets at Minnesota Timberwolves",
+        "title":  "SportsCenter",
+        "end":  "2025-01-27T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-27T07:30:00.0000000",
+        "title":  "UFC Fight Flashback: 2019: Gastelum vs. Adesanya",
         "end":  "2025-01-27T08:00:00.0000000"
     },
     {
         "start":  "2025-01-27T08:00:00.0000000",
-        "title":  "NBA Basketball: Los Angeles Lakers at Golden State Warriors",
+        "title":  "UFC Main Event: 2019: Adesanya vs. Silva",
+        "end":  "2025-01-27T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-27T09:00:00.0000000",
+        "title":  "SportsCenter",
         "end":  "2025-01-27T10:00:00.0000000"
     },
     {
         "start":  "2025-01-27T10:00:00.0000000",
-        "title":  "NBA Basketball: Boston Celtics at Dallas Mavericks",
-        "end":  "2025-01-27T11:55:00.0000000"
+        "title":  "UFC Main Event: Gastelum vs. Adesanya",
+        "end":  "2025-01-27T11:00:00.0000000"
     },
     {
-        "start":  "2025-01-27T11:55:00.0000000",
-        "title":  "NFL Matchup",
-        "end":  "2025-01-27T12:25:00.0000000"
+        "start":  "2025-01-27T13:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-01-27T14:00:00.0000000"
     },
     {
-        "start":  "2025-01-27T14:30:00.0000000",
-        "title":  "Australian Open: Men\u0027s Singles Championship: Sinner-Zverev",
-        "end":  "2025-01-27T17:30:00.0000000"
+        "start":  "2025-01-27T14:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-01-27T15:00:00.0000000"
     },
     {
-        "start":  "2025-01-27T17:30:00.0000000",
+        "start":  "2025-01-27T15:00:00.0000000",
+        "title":  "Get Up",
+        "end":  "2025-01-27T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-27T17:00:00.0000000",
+        "title":  "First Take",
+        "end":  "2025-01-27T19:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-27T19:00:00.0000000",
+        "title":  "First Draft",
+        "end":  "2025-01-27T20:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-27T20:00:00.0000000",
+        "title":  "NBA Today",
+        "end":  "2025-01-27T21:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-27T21:00:00.0000000",
+        "title":  "NBA Today",
+        "end":  "2025-01-27T22:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-27T22:00:00.0000000",
+        "title":  "NFL Live",
+        "end":  "2025-01-27T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-27T23:00:00.0000000",
         "title":  "ESPN BET Live",
-        "end":  "2025-01-27T18:00:00.0000000"
+        "end":  "2025-01-28T00:00:00.0000000"
     },
     {
-        "start":  "2025-01-27T23:30:00.0000000",
-        "title":  "Eight on Eight",
-        "end":  "2025-01-28T00:30:00.0000000"
+        "start":  "2025-01-28T02:00:00.0000000",
+        "title":  "ACC Huddle: 2025 Football Schedule Release",
+        "end":  "2025-01-28T03:00:00.0000000"
     },
     {
-        "start":  "2025-01-28T00:30:00.0000000",
-        "title":  "Inside the College Football Playoff",
-        "end":  "2025-01-28T01:00:00.0000000"
+        "start":  "2025-01-28T03:00:00.0000000",
+        "title":  "NFL Live",
+        "end":  "2025-01-28T04:00:00.0000000"
     },
     {
-        "start":  "2025-01-28T01:00:00.0000000",
-        "title":  "Australian Open: Men\u0027s Singles Championship: Sinner-Zverev",
+        "start":  "2025-01-28T04:00:00.0000000",
+        "title":  "SportsCenter",
         "end":  "2025-01-28T05:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-28T05:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-01-28T05:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-28T05:30:00.0000000",
+        "title":  "Eight on Eight",
+        "end":  "2025-01-28T06:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-28T06:30:00.0000000",
+        "title":  "TGL Golf",
+        "end":  "2025-01-28T08:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-28T08:30:00.0000000",
+        "title":  "30 for 30",
+        "end":  "2025-01-28T10:30:00.0000000"
+    },
+    {
+        "start":  "2025-01-28T13:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-01-28T14:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-28T14:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-01-28T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-28T15:00:00.0000000",
+        "title":  "Get Up",
+        "end":  "2025-01-28T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-28T17:00:00.0000000",
+        "title":  "First Take",
+        "end":  "2025-01-28T19:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-28T19:00:00.0000000",
+        "title":  "Numbers on the Board",
+        "end":  "2025-01-28T20:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-28T20:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-01-28T21:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-28T21:00:00.0000000",
+        "title":  "NBA Today",
+        "end":  "2025-01-28T22:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-28T22:00:00.0000000",
+        "title":  "The Point",
+        "end":  "2025-01-28T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-01-28T23:00:00.0000000",
+        "title":  "ESPN BET Live",
+        "end":  "2025-01-29T00:00:00.0000000"
     }
 ]
