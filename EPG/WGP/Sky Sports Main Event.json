@@ -1,100 +1,5 @@
 [
     {
-        "start":  "2025-02-03T06:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-02-03T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-03T07:00:00.0000000",
-        "title":  "Transfer Deadline Day",
-        "end":  "2025-02-03T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-03T08:00:00.0000000",
-        "title":  "Transfer Deadline Day",
-        "end":  "2025-02-03T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-03T09:00:00.0000000",
-        "title":  "Transfer Deadline Day",
-        "end":  "2025-02-03T10:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-03T10:00:00.0000000",
-        "title":  "Transfer Deadline Day",
-        "end":  "2025-02-03T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-03T11:00:00.0000000",
-        "title":  "Transfer Deadline Day",
-        "end":  "2025-02-03T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-03T12:00:00.0000000",
-        "title":  "Transfer Deadline Day",
-        "end":  "2025-02-03T13:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-03T13:00:00.0000000",
-        "title":  "Transfer Deadline Day",
-        "end":  "2025-02-03T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-03T14:00:00.0000000",
-        "title":  "Transfer Deadline Day",
-        "end":  "2025-02-03T15:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-03T15:00:00.0000000",
-        "title":  "Transfer Deadline Day",
-        "end":  "2025-02-03T16:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-03T16:00:00.0000000",
-        "title":  "Transfer Deadline Day",
-        "end":  "2025-02-03T17:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-03T17:00:00.0000000",
-        "title":  "Transfer Deadline Day",
-        "end":  "2025-02-03T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-03T18:00:00.0000000",
-        "title":  "Transfer Deadline Day",
-        "end":  "2025-02-03T18:30:00.0000000"
-    },
-    {
-        "start":  "2025-02-03T18:30:00.0000000",
-        "title":  "Live MNF",
-        "end":  "2025-02-03T22:30:00.0000000"
-    },
-    {
-        "start":  "2025-02-03T22:30:00.0000000",
-        "title":  "Transfer Deadline Day",
-        "end":  "2025-02-04T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-04T00:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-02-04T01:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-04T01:00:00.0000000",
-        "title":  "Super Bowl Opening Night",
-        "end":  "2025-02-04T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-04T04:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-02-04T05:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-04T05:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-02-04T06:00:00.0000000"
-    },
-    {
         "start":  "2025-02-04T06:00:00.0000000",
         "title":  "Sky Sports News",
         "end":  "2025-02-04T07:00:00.0000000"
@@ -116,7 +21,7 @@
     },
     {
         "start":  "2025-02-04T15:00:00.0000000",
-        "title":  "Live SA20: Qua 1-Gqeberha 04.02",
+        "title":  "Live SA20: Sa20 Qualifier 1-Paarl Royals V Mi Cape Town, Gqeberha, 04.02",
         "end":  "2025-02-04T19:30:00.0000000"
     },
     {
@@ -186,7 +91,7 @@
     },
     {
         "start":  "2025-02-05T15:00:00.0000000",
-        "title":  "Live SA20: Eliminator-Centurion 05.02",
+        "title":  "Live SA20: Sa20 Eliminator-Sunrisers Eastern Cape V Joburg Super Kings, Centurion, 05.02",
         "end":  "2025-02-05T19:00:00.0000000"
     },
     {
@@ -223,5 +128,65 @@
         "start":  "2025-02-06T05:00:00.0000000",
         "title":  "Sky Sports News",
         "end":  "2025-02-06T05:30:00.0000000"
+    },
+    {
+        "start":  "2025-02-06T05:30:00.0000000",
+        "title":  "Back Pages Tonight",
+        "end":  "2025-02-06T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-06T06:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-02-06T06:30:00.0000000"
+    },
+    {
+        "start":  "2025-02-06T06:30:00.0000000",
+        "title":  "Back Pages Tonight",
+        "end":  "2025-02-06T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-06T07:00:00.0000000",
+        "title":  "Good Morning Sports Fans",
+        "end":  "2025-02-06T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-06T08:00:00.0000000",
+        "title":  "Good Morning Sports Fans",
+        "end":  "2025-02-06T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-06T09:00:00.0000000",
+        "title":  "Live DP World Tour Golf",
+        "end":  "2025-02-06T13:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-06T13:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-02-06T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-06T15:00:00.0000000",
+        "title":  "Live PGA Tour Golf: 2025 WM Phoenix Open Day 1 Early Coverage",
+        "end":  "2025-02-06T19:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-06T19:00:00.0000000",
+        "title":  "Live EFL Cup: Liverpool v Tottenham 2nd Leg 06.02",
+        "end":  "2025-02-06T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-06T23:00:00.0000000",
+        "title":  "Live PGA Tour Golf",
+        "end":  "2025-02-07T01:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-07T01:00:00.0000000",
+        "title":  "Live Tennis",
+        "end":  "2025-02-07T05:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-07T05:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-02-07T05:30:00.0000000"
     }
 ]
