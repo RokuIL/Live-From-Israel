@@ -145,26 +145,6 @@
     <icon src="https://image.xumo.com/v1/channels/channel/99991377/56x56.webp?type=color_onBlack" />
     <url>http://www.xumo.com</url>
   </channel>
-  <programme start="20250212013200 +0000" stop="20250212024000 +0000" channel="Kan 11">
-    <title lang="he">העברים - יוסף חיים ברנר</title>
-    <desc lang="he">סדרה תיעודית על גדולי התרבות העברית. פרק 2: המעורר- יוסף חיים ברנר. הפרק מלווה את האפלה בחייו וביצירותיו של הסופר המרדני, שובר המוסכמות והחלוצי עד למותו הטראגי. יוצר: יאיר קדר. כ' עב'. ש.ח.(n)</desc>
-  </programme>
-  <programme start="20250212024000 +0000" stop="20250212030500 +0000" channel="Kan 11">
-    <title lang="he">מיקס ישראלי</title>
-    <desc lang="he">מבחר קליפים ישראלים ברצף. ש.ח.(n)</desc>
-  </programme>
-  <programme start="20250212030500 +0000" stop="20250212035100 +0000" channel="Kan 11">
-    <title lang="he">סבתא בישלה עם תום יער - בישול ארוך</title>
-    <desc lang="he">מפגש קולינרי עם סבתא איבתיסאם הדרוזית וסבא יורם ההונגרי, שמבשלים מאכלים בבישול ארוך. תום תגלגל שטרודל בסדין וגם תלקט חוביזה ותנסה לגלות את סודות הדת הדרוזית. יהיה טעים, מרגש ומצחיק. כ' עב'. ש.ח.(n)</desc>
-  </programme>
-  <programme start="20250212035100 +0000" stop="20250212040400 +0000" channel="Kan 11">
-    <title lang="he">מהצד השני - עם גיא זהר</title>
-    <desc lang="he">בימים של שטף בלתי פוסק של מסרים ואינפורמציה, יש מי שמנסה לעשות סדר. גיא זהר בטור יומי, חושף את הפער שבין המציאות לבין הדרך בה היא משתקפת בתקשורת, ואת המנגנונים שמעצבים לנו אותה. כ' עב'. ש.ח.(n)</desc>
-  </programme>
-  <programme start="20250212040400 +0000" stop="20250212060000 +0000" channel="Kan 11">
-    <title lang="he">הבוקר הזה - עם אריה גולן</title>
-    <desc lang="he">הבוקר הזה עם אריה גולן - שידור חי של יומן הבוקר מכאן ב'. כ' סמ'. שידור חי.(n)</desc>
-  </programme>
   <programme start="20250212060000 +0000" stop="20250212080000 +0000" channel="Kan 11">
     <title lang="he">אסף ליברמן ורועי שרון</title>
     <desc lang="he">שידור חי של תוכנית הרדיו של כאן ב. מגישים: אסף ליברמן ורועי שרון. כ' סמ'. שידור חי.(n)</desc>
@@ -809,34 +789,6 @@
     <title lang="he">בוש - פרק סיום העונה</title>
     <desc lang="he">בפרק סיום העונה: אנחנו והם - בוש מתמודד עם ההשלכות של העימות עם וייטס, בזמן שהביקור של בתו מעניק להם זמן יקר יחד. בעקבות פענוח חקירת העצמות, העבודה של בוש נמצאת בסכנה, והוא נמצא בפני תפנית חדשה.כ' עב.</desc>
   </programme>
-  <programme start="20250212021000 +0000" stop="20250212023000 +0000" channel="Keshet 12">
-    <title lang="he">סברי מרנן 4 - ג'אז</title>
-    <desc lang="he">הגיע הזמן לספר לכולם איך הכירו ספיר ואדם, ושי ושני משתדלים לעשות זאת בדרך הנקייה ביותר. כ' עב' ש.ח.(n)</desc>
-  </programme>
-  <programme start="20250212023000 +0000" stop="20250212025500 +0000" channel="Keshet 12">
-    <title lang="he">סברי מרנן 4 - ארבעים</title>
-    <desc lang="he">לשני יש יומולדת ארבעים, האם תאורגן מסיבת הפתעה או ארוחת ערב במסעדה כשרה מהמומלצות? כ' עב'. ש.ח.(n)</desc>
-  </programme>
-  <programme start="20250212025500 +0000" stop="20250212032000 +0000" channel="Keshet 12">
-    <title lang="he">גיא פינס - בגידה בשידור חי</title>
-    <desc lang="he">גיא פינס במשדר מיוחד בעקבות מלחמת חרבות ברזל. כ' עב'. ש.ח.(n)</desc>
-  </programme>
-  <programme start="20250212032000 +0000" stop="20250212040000 +0000" channel="Keshet 12">
-    <title lang="he">אברי ושרקי</title>
-    <desc lang="he">אברי גלעד ויאיר שרקי בתכנית מיוחדת בעקבות מלחמת חרבות ברזל. כ' עב'. ש.ח.(n)</desc>
-  </programme>
-  <programme start="20250212040000 +0000" stop="20250212041000 +0000" channel="Keshet 12">
-    <title lang="he">מבזק חדשות</title>
-    <desc lang="he">עדכוני חדשות ודיווחי אקטואליה שוטפים בזמן אמת מהארץ ומהעולם, כל מה שעומד על סדר היום הציבורי בתחומי ביטחון, פוליטיקה, כלכלה ועוד. כ' סמ'. שידור חי.(n)</desc>
-  </programme>
-  <programme start="20250212041000 +0000" stop="20250212050000 +0000" channel="Keshet 12">
-    <title lang="he">כותרות הבוקר</title>
-    <desc lang="he">כותרות הבוקר - האנשים, הפרשנויות והכותרות שיעשו את היום, דיווחים מהשטח, ראיונות בלעדיים ואורחים באולפן. כ' סמ'. שידור חי.(n)</desc>
-  </programme>
-  <programme start="20250212050000 +0000" stop="20250212050800 +0000" channel="Keshet 12">
-    <title lang="he">מבזק חדשות</title>
-    <desc lang="he">עדכוני חדשות ודיווחי אקטואליה שוטפים בזמן אמת מהארץ ומהעולם, כל מה שעומד על סדר היום הציבורי בתחומי ביטחון, פוליטיקה, כלכלה ועוד. כ' סמ'. שידור חי.(n)</desc>
-  </programme>
   <programme start="20250212050800 +0000" stop="20250212073000 +0000" channel="Keshet 12">
     <title lang="he">חדשות הבוקר עם ניב רסקין</title>
     <desc lang="he">מהדורת החדשות המרכזית של הבוקר עם ניב רסקין - האנשים, הפרשנויות והכותרות שיעשו את היום, דיווחים מהשטח, ראיונות בלעדיים ואורחים באולפן. כ' סמ'. שידור חי.(n)</desc>
@@ -1244,26 +1196,6 @@
   <programme start="20250216023000 +0000" stop="20250216023100 +0000" channel="Keshet 12">
     <title lang="he">אופירה ולוינסון</title>
     <desc lang="he">אופירה אסייג וחיים לוינסון עם האורחים והסיפורים המעניינים, אין אחד שיצליח לברוח מהשאלות ולא לספק את התשובות. כ' עב'. ש.ח.</desc>
-  </programme>
-  <programme start="20250212021900 +0000" stop="20250212024200 +0000" channel="Reshet 13">
-    <title lang="he">קליפים ברצף</title>
-    <desc lang="he">קליפים נבחרים ברצף.(n)</desc>
-  </programme>
-  <programme start="20250212024200 +0000" stop="20250212032200 +0000" channel="Reshet 13">
-    <title lang="he">סטטוסקופ - פרק 233</title>
-    <desc lang="he">הפעם - סרטן עור שאינו מלנומה בגידולים קשקשיים, החלפת ברך שניה וחזרה לפעילות גופנית והזרקות פקטורי גדילה לטיפול עצירה של נשירת שיער. כ' עב'/ער' ש.ח.(n)</desc>
-  </programme>
-  <programme start="20250212032200 +0000" stop="20250212033300 +0000" channel="Reshet 13">
-    <title lang="he">כושר רענן</title>
-    <desc lang="he">מאמנת הכושר ענת גיסין מזמינה אתכם להצטרף לאימון קצר וממוקד, לשמירה על כושר גופני ונפש בריאה. בכל שבוע מתארחות ענת והמתעמלות שלה בפארקים ירוקים ברחבי הארץ, ובמקומות מעוררי השראה בעולם. כ' עב', ת.פ ש.ח.(n)</desc>
-  </programme>
-  <programme start="20250212033300 +0000" stop="20250212040000 +0000" channel="Reshet 13">
-    <title lang="he">הצינור - המודח/ת בראיון באולפן</title>
-    <desc lang="he">מגזין הרשת של ערוץ 13. גיא לרר בתכנית אקטואליה חברתית עם תחקירים, כתבות וכל הסיפורים החמים מהרשת. כ' סמ' ש.ח.(n)</desc>
-  </programme>
-  <programme start="20250212040000 +0000" stop="20250212050000 +0000" channel="Reshet 13">
-    <title lang="he">העולם הבוקר - רגע לפני</title>
-    <desc lang="he">עומר ירדני בתכנית הבוקר החדשה של ישראל עם כל החדשות, הפרשנים, הכותרות הכי חמות, הסיפורים שיעשו לכם את היום ועדכונים שחייבים לדעת. כ' סמ' שידור חי.(n)</desc>
   </programme>
   <programme start="20250212050000 +0000" stop="20250212073000 +0000" channel="Reshet 13">
     <title lang="he">העולם הבוקר - עומר ירדני</title>
@@ -1700,30 +1632,6 @@
   <programme start="20250216025500 +0000" stop="20250216025600 +0000" channel="Reshet 13">
     <title lang="he">סטטוסקופ - פרק 237</title>
     <desc lang="he">מגזין בריאות חדש בהנחיית טלי מץ, פרופ' איתן פרידמן וד''ר איתי גל שמביא לצופים את כל מה שכדאי לדעת בנושאי בריאות, רפואה ואורח חיים בריא. התוכנית תעסוק בחדשנות ברפואה, ניתוחים, כירורגיה וספורט. כ' עב'/ער ש.ח.</desc>
-  </programme>
-  <programme start="20250212021500 +0000" stop="20250212024500 +0000" channel="i24">
-    <title lang="he">המועדון העסקי</title>
-    <desc lang="he">אחרי ה''ביזנס'' מצטרפים למועדון - כל מה שחשוב לדעת על עולם העסקים היזמות וההשקעות. כ' עב'. ש.ח.(n)</desc>
-  </programme>
-  <programme start="20250212024500 +0000" stop="20250212040000 +0000" channel="i24">
-    <title lang="he">מדד גלבוע</title>
-    <desc lang="he">ניב גלבוע עושה חשבון אך ורק לכיס שלכם. תכנית צרכנות, כלכלה וכמובן אוכל. כ' עב'. ש.ח.(n)</desc>
-  </programme>
-  <programme start="20250212040000 +0000" stop="20250212043000 +0000" channel="i24">
-    <title lang="he">חדר החדשות</title>
-    <desc lang="he">עדכונים חיים מכל הזירות עם נבחרת הכתבים והפרשנים של i24news כ' עב'. שידור חי.(n)</desc>
-  </programme>
-  <programme start="20250212043000 +0000" stop="20250212050000 +0000" channel="i24">
-    <title lang="he">חדר החדשות</title>
-    <desc lang="he">עדכונים חיים מכל הזירות עם נבחרת הכתבים והפרשנים של i24news כ' עב'. ש.ח.(n)</desc>
-  </programme>
-  <programme start="20250212050000 +0000" stop="20250212053000 +0000" channel="i24">
-    <title lang="he">חדר החדשות</title>
-    <desc lang="he">עדכונים חיים מכל הזירות עם נבחרת הכתבים והפרשנים של i24news כ' עב'. שידור חי.(n)</desc>
-  </programme>
-  <programme start="20250212053000 +0000" stop="20250212060000 +0000" channel="i24">
-    <title lang="he">חדר החדשות</title>
-    <desc lang="he">עדכונים חיים מכל הזירות עם נבחרת הכתבים והפרשנים של i24news כ' עב'. ש.ח.(n)</desc>
   </programme>
   <programme start="20250212060000 +0000" stop="20250212063000 +0000" channel="i24">
     <title lang="he">חדר החדשות</title>
@@ -2169,18 +2077,6 @@
     <title lang="he">הסיפורים הגדולים</title>
     <desc lang="he">הכתבות המרכזיות והסיפורים המרגשים ששודרו השבוע ב i24NEWS. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20250212012600 +0000" stop="20250212031600 +0000" channel="Yes Movies Action">
-    <title lang="he">חבלה (שוורצנגר)</title>
-    <desc lang="he">אקשן. חברי יחידה משטרתית מובחרת שודדים סכום כסף גדול מקרטל סמים מסוכן. בעוד חברי היחידה חושבים שסודם שמור עמם, מתנקש מסתורי מתחיל להתנקש בהם אחד אחרי השני. עם: ארנולד שוורצנגר, סם וורטינגטון. במאי: דיוויד אייר. 2014.(n)</desc>
-  </programme>
-  <programme start="20250212031600 +0000" stop="20250212041100 +0000" channel="Yes Movies Action">
-    <title lang="he">השידורים יתחדשו בקרוב</title>
-    <desc lang="he">השידורים יתחדשו בקרוב.(n)</desc>
-  </programme>
-  <programme start="20250212041100 +0000" stop="20250212061700 +0000" channel="Yes Movies Action">
-    <title lang="he">על הכוונת</title>
-    <desc lang="he">מותחן אקשן. סוואגר הוא צלף מבריק המחליט לסייע באיתור מתנקש פוטנציאלי בנשיא ארה"ב. מהר מאד הוא מוצא עצמו בורח מהחוק לאחר שהוא נחשד בעצמו בניסיון ההתנקשות. עם: מרק וולברג, דני גלובר. במאי: אנטואן פוקווה. 2007.(n)</desc>
-  </programme>
   <programme start="20250212061700 +0000" stop="20250212075800 +0000" channel="Yes Movies Action">
     <title lang="he">חסר מעצורים</title>
     <desc lang="he">מותחן אקשן. לאחר שכלבו האהוב מוצא את מותו בשכונה מפוקפקת, איש צבא לשעבר יוצא למצוא את האחראים לכך, ובדרך מוצא את עצמו מעורב בעולם הפשע האכזרי. עם: ארון אקהרט, סטיבן לאנג. במאי: ג'ון סטולברג ג'וניור. ארה"ב, 2023.(n)</desc>
@@ -2468,26 +2364,6 @@
   <programme start="20250217200000 +0000" stop="20250217221000 +0000" channel="Yes Movies Action">
     <title lang="he">שהאזאם! 2: זעם האלים</title>
     <desc lang="he">קומדיית אקשן מבית DC קומיקס, המשך לשובר הקופות מ-2019. הנער בילי, המקבל כוחות על כשהוא אומר "שהאזאם", חוזר. הפעם יוצא בילי להציל את העולם מפני בנותיו האכזריות של אל יווני עתיק. עם: זאקרי לוי. במאי: דיויד סנדברג. 2023.</desc>
-  </programme>
-  <programme start="20250212014700 +0000" stop="20250212025700 +0000" channel="Yes TV Action">
-    <title lang="he">ווסטוורלד 2 - פרק 1</title>
-    <desc lang="he">המותחן הבדיוני האפל פרי יצירתם של ג'ונתן נולן וליסה ג'וי חוזר בעונה שנייה. זמן מה לאחר האירועים הקודמים, נחשפים עולמות חדשים במפעל הגדול של פארקי השעשועים שמופעל על ידי רובוטים.(n)</desc>
-  </programme>
-  <programme start="20250212025700 +0000" stop="20250212040000 +0000" channel="Yes TV Action">
-    <title lang="he">ווסטוורלד 2 - פרק 2</title>
-    <desc lang="he">פרק שמתמקד בעבר ובכיצד הכל התחיל. איך קיבל דלוס את ההצעה להשקיע בפארק ורגעיה הראשונים של דולורס, טרם פתיחת הפארק וכיצד הם עלולים להשפיע על מצבה הנוכחי.(n)</desc>
-  </programme>
-  <programme start="20250212040000 +0000" stop="20250212044700 +0000" channel="Yes TV Action">
-    <title lang="he">כבאי קליפורניה - פרק 17</title>
-    <desc lang="he">החשדות כנגד ג'ייק מתגברים, אבל בודי מאמין בחפותו של חברו ומתחיל לחקור את העניין בעצמו. הגדוד נשלח לכבות שריפה באכסניית ציידים מלאה בתחמושת ומופתע לגלות שאחד הדיירים מסרב להתפנות.(n)</desc>
-  </programme>
-  <programme start="20250212044700 +0000" stop="20250212053400 +0000" channel="Yes TV Action">
-    <title lang="he">כבאי קליפורניה - פרק 18</title>
-    <desc lang="he">רכבת משא פוגעת באוטובוס תלמידים שנתקע על מסילה סמוך לתרי רוק, וכל הכוחות מוזעקים לחלץ את הילדים, אבל אז מתברר שהרכבת מובילה מטען מסוכן. בודי מקבל תאריך לשימוע שחרור מוקדם, אז מני נחוש להגן עליו.(n)</desc>
-  </programme>
-  <programme start="20250212053400 +0000" stop="20250212062100 +0000" channel="Yes TV Action">
-    <title lang="he">NCIS: לוס אנגל'ס 13 - פרק 13</title>
-    <desc lang="he">כשהשותף של הסוכן לאנס המילטון נהרג, סאם עוטה את הזהות הסמויה הקדומה שלו "סוויץ'" כדי למצוא את האשם. קנזי, דיקס, ראונטרי וקילברייד מחפשים אחר מהנדסת שגנבה דיאגרמות מסווגות של חיל הים.(n)</desc>
   </programme>
   <programme start="20250212062100 +0000" stop="20250212070600 +0000" channel="Yes TV Action">
     <title lang="he">חוק וסדר: פשע מאורגן 3 - פרק 19</title>
@@ -3157,14 +3033,6 @@
     <title lang="he">ראשון בזירה - פרק 2</title>
     <desc lang="he">כריס נאלץ להתמודד עם רייצ'ל הטירונית בזמן שהוא מחפש אחר קייסי, לאחר שקרל איים על משפחתו.</desc>
   </programme>
-  <programme start="20250212020700 +0000" stop="20250212040200 +0000" channel="Yes Movies Comedy">
-    <title lang="he">השידורים יתחדשו בקרוב</title>
-    <desc lang="he">השידורים יתחדשו בקרוב.(n)</desc>
-  </programme>
-  <programme start="20250212040200 +0000" stop="20250212053900 +0000" channel="Yes Movies Comedy">
-    <title lang="he">אל תלחצי אני בדרך</title>
-    <desc lang="he">קומדיה. איש עסקים לחוץ ומתנשא שמאחר ללידת בנו, נאלץ לחלוק טרמפ ביחד עם שחקן שאפתן ולא יציב בנפשו, שהורס בהדרגה את חייו. עם: רוברט דאוני ג'וניור, זאק גליפיאנקיס. במאי: טוד פיליפס ("בדרך לחתונה עוצרים בווגאס"). ארה"ב, 2010.(n)</desc>
-  </programme>
   <programme start="20250212053900 +0000" stop="20250212072500 +0000" channel="Yes Movies Comedy">
     <title lang="he">סדנה לעצבים</title>
     <desc lang="he">קומדיה. לאחר מפגש עם טיפוס מרגיז במטוס מתעצבן איש עסקים מנומס ומאבד שליטה. כעונש הוא נשלח לסדנה לטיפול בעצבים, בהנחייתו של אותו בחור מהמטוס. עם: אדם סנדלר, ג'ק ניקולסון. במאי: פטר סגל. ארה"ב, 2003.(n)</desc>
@@ -3473,10 +3341,6 @@
     <title lang="he">ברבי</title>
     <desc lang="he">שובר הקופות הגדול של השנה, זוכר אוסקר 2024. חייה המושלמים של ברבי, הבובה המפורסמת בעולם, משתנים כאשר יחד עם בן זוגה, קן, הם יוצאים לחפש משמעות בעולם האמיתי. עם: מרגו רובי, ריאן גוסלינג. במאית: גרטה גרוויג ("נשים קטנות"). 2023.</desc>
   </programme>
-  <programme start="20250212010000 +0000" stop="20250212040000 +0000" channel="Yes Movies Kids">
-    <title lang="he">מחכים לכם בשישי ב-yes MOVIES KIDS</title>
-    <desc lang="he">כל סרטי הילדים והמשפחה מהערוץ זמינים עבורכם ללא תוספת תשלום עכשיו ב-yesVOD KIDS. ערוץ yes MOVIES KIDS משדר בסופי שבוע ובחגים.(n)</desc>
-  </programme>
   <programme start="20250212040000 +0000" stop="20250212070000 +0000" channel="Yes Movies Kids">
     <title lang="he">מחכים לכם בשישי ב-yes MOVIES KIDS</title>
     <desc lang="he">כל סרטי הילדים והמשפחה מהערוץ זמינים עבורכם ללא תוספת תשלום עכשיו ב-yesVOD KIDS. ערוץ yes MOVIES KIDS משדר בסופי שבוע ובחגים.(n)</desc>
@@ -3700,22 +3564,6 @@
   <programme start="20250217190000 +0000" stop="20250217220000 +0000" channel="Yes Movies Kids">
     <title lang="he">מחכים לכם בשישי ב-yes MOVIES KIDS</title>
     <desc lang="he">כל סרטי הילדים והמשפחה מהערוץ זמינים עבורכם ללא תוספת תשלום עכשיו ב-yesVOD KIDS. ערוץ yes MOVIES KIDS משדר בסופי שבוע ובחגים.</desc>
-  </programme>
-  <programme start="20250212010500 +0000" stop="20250212030000 +0000" channel="Sport 1">
-    <title lang="he">בוקה ג'וניורס - אינדפנדיינטה ריבאדביה</title>
-    <desc lang="he">שידור חוזר: כדורגל. בוקה ג'וניורס - אינדפנדיינטה ריבאדביה, הליגה הארגנטינאית, מחזור 5, עונת 2025. בוקה ופרננדו גאגו פייבוריטים לניצחון ביתי.(n)</desc>
-  </programme>
-  <programme start="20250212030000 +0000" stop="20250212040000 +0000" channel="Sport 1">
-    <title lang="he">רביבו ושכנר</title>
-    <desc lang="he">שידור חוזר: כדורגל. המפגש השבועי של חיים רביבו ולירן שכנר על כל מה שחם בליגת העל אצלנו ובעולם.(n)</desc>
-  </programme>
-  <programme start="20250212040000 +0000" stop="20250212055000 +0000" channel="Sport 1">
-    <title lang="he">נוריץ' - פרסטון</title>
-    <desc lang="he">שידור חוזר: כדורגל. נוריץ' - פרסטון, צ'מפיונשיפ, מחזור 32, עונת 2024/25. נוריץ' רוצה מקום בפלייאוף וחייבת כל ניצחון.(n)</desc>
-  </programme>
-  <programme start="20250212055000 +0000" stop="20250212062000 +0000" channel="Sport 1">
-    <title lang="he">הראיון הגדול</title>
-    <desc lang="he">שידור חוזר: כדורגל. הקיצוני של בורנמות, אנטואן סמניו, בראיון מיוחד על ההתחלה בליגות נמוכות והפריצה בפרמיירליג.(n)</desc>
   </programme>
   <programme start="20250212062000 +0000" stop="20250212081000 +0000" channel="Sport 1">
     <title lang="he">אקסטר - נוטינגהאם פורסט</title>
@@ -3989,18 +3837,6 @@
     <title lang="he">מ. פ''ת - מ. נתניה</title>
     <desc lang="he">שידור חוזר: כדורגל. מכבי פ''ת - מכבי נתניה, ליגת העל, מחזור 23, עונת 2024/25. החבורה הלוהטת של אבוקסיס רוצה להבטיח מקום בפלייאוף העליון, האורחת תנסה להתרחק עוד צעד מהתחתית.</desc>
   </programme>
-  <programme start="20250212013500 +0000" stop="20250212033000 +0000" channel="Sport 2">
-    <title lang="he">אקסטר - נוטינגהאם פורסט</title>
-    <desc lang="he">שידור חוזר: כדורגל. אקסטר - נוטינגהאם פורסט, הגביע האנגלי, עונת 2024/25. פורסט פייבוריטית ברורה מול יריבה מליג 1 במאבק על הכרטיס לשמינית הגמר.(n)</desc>
-  </programme>
-  <programme start="20250212033000 +0000" stop="20250212040000 +0000" channel="Sport 2">
-    <title lang="he">סיכום המחזור בליגת ווינר</title>
-    <desc lang="he">שידור חוזר: כדורגל. סיכום המחזור ה-22 בליגת ווינר.(n)</desc>
-  </programme>
-  <programme start="20250212040000 +0000" stop="20250212055000 +0000" channel="Sport 2">
-    <title lang="he">דפנסור - מונגאס</title>
-    <desc lang="he">שידור חוזר: כדורגל. דפנסור - מונגאס, גומלין מוקדמות גביע הליברטדורס, סיבוב 1, עונת 2025.(n)</desc>
-  </programme>
   <programme start="20250212055000 +0000" stop="20250212073500 +0000" channel="Sport 2">
     <title lang="he">ה. ק''ש - מ. ת''א</title>
     <desc lang="he">שידור חוזר: כדורגל. הפועל ק''ש - מכבי ת''א, ליגת העל, מחזור 22, עונת 2024/25. האלופה תחפש נקמה על ההפסד בסיבוב הראשון, המארחת מנסה להשיג מקום בפלייאוף העליון.(n)</desc>
@@ -4148,26 +3984,6 @@
   <programme start="20250214015000 +0000" stop="20250214040000 +0000" channel="Sport 2">
     <title lang="he">אתלטיקה באולמות - צרפת</title>
     <desc lang="he">שידור חוזר: סבב האתלטיקה העולמי באולמות מלייבין, צרפת.</desc>
-  </programme>
-  <programme start="20250212002000 +0000" stop="20250212023000 +0000" channel="Sport 3">
-    <title lang="he">ישיר! דפנסור - מונגאס</title>
-    <desc lang="he">שידור ישיר: כדורגל. דפנסור - מונגאס, גומלין מוקדמות גביע הליברטדורס, סיבוב 1, עונת 2025.(n)</desc>
-  </programme>
-  <programme start="20250212023000 +0000" stop="20250212033000 +0000" channel="Sport 3">
-    <title lang="he">לקראת המחזור בליגה האירופית</title>
-    <desc lang="he">שידור חוזר: כדורגל. לקראת שלב הפלייאוף בליגה האירופית ובקונפרנס ליג, עונת 2024/25.(n)</desc>
-  </programme>
-  <programme start="20250212033000 +0000" stop="20250212040000 +0000" channel="Sport 3">
-    <title lang="he">סיכום הסיבוב הרביעי בגביע האנגלי</title>
-    <desc lang="he">שידור חוזר: כדורגל. סיכום משחקי הסיבוב הרביעי בגביע האנגלי, עונת 2024/25.(n)</desc>
-  </programme>
-  <programme start="20250212040000 +0000" stop="20250212053000 +0000" channel="Sport 3">
-    <title lang="he">גומרסבאך - פלנסבורג</title>
-    <desc lang="he">שידור חוזר: גומרסבאך - פלנסבורג, הליגה האירופית בכדוריד, שלב בתים שני, מחזור 3, עונת 2024/25.(n)</desc>
-  </programme>
-  <programme start="20250212053000 +0000" stop="20250212062500 +0000" channel="Sport 3">
-    <title lang="he">לקראת המחזור בליגה האירופית</title>
-    <desc lang="he">שידור חוזר: כדורגל. לקראת שלב הפלייאוף בליגה האירופית ובקונפרנס ליג, עונת 2024/25.(n)</desc>
   </programme>
   <programme start="20250212062500 +0000" stop="20250212081500 +0000" channel="Sport 3">
     <title lang="he">בוקה ג'וניורס - אינדפנדיינטה ריבאדביה</title>
@@ -4372,18 +4188,6 @@
   <programme start="20250215033500 +0000" stop="20250215033600 +0000" channel="Sport 3">
     <title lang="he">כפר קאסם - ה. ת''א</title>
     <desc lang="he">שידור חוזר: כדורגל. מ.ס. כפר קאסם - הפועל ת''א, ליגה לאומית, מחזור 24, עונת 2024/25. האדומים מחפשים ניצחון שלישי ברציפות במאבקי העליה.</desc>
-  </programme>
-  <programme start="20250212011500 +0000" stop="20250212030500 +0000" channel="Sport 4">
-    <title lang="he">מ. נתניה - ה. י-ם</title>
-    <desc lang="he">שידור חוזר: כדורגל. מכבי נתניה - הפועל ירושלים, ליגת ווינר, מחזור 22, עונת 2024/25. החבורה של אבוקסיס בקרב ישיר על מקום בפלייאוף העליון מול האורחת מהבירה, מי תשיג 3 נקודות?(n)</desc>
-  </programme>
-  <programme start="20250212030500 +0000" stop="20250212040000 +0000" channel="Sport 4">
-    <title lang="he">סרייה נוסטרה</title>
-    <desc lang="he">שידור חוזר: פודקאסט הליגה האיטלקית של ספורט 1. שלומי דניאלי ומוטי איוניר בשיחה על המחזור האחרון בליגה האיטלקית.(n)</desc>
-  </programme>
-  <programme start="20250212040000 +0000" stop="20250212055000 +0000" channel="Sport 4">
-    <title lang="he">בוקה ג'וניורס - אינדפנדיינטה ריבאדביה</title>
-    <desc lang="he">שידור חוזר: כדורגל. בוקה ג'וניורס - אינדפנדיינטה ריבאדביה, הליגה הארגנטינאית, מחזור 5, עונת 2025. בוקה ופרננדו גאגו פייבוריטים לניצחון ביתי.(n)</desc>
   </programme>
   <programme start="20250212055000 +0000" stop="20250212074000 +0000" channel="Sport 4">
     <title lang="he">מ. נתניה - ה. י-ם</title>
@@ -4612,26 +4416,6 @@
   <programme start="20250215021500 +0000" stop="20250215021600 +0000" channel="Sport 4">
     <title lang="he">גראן קנאריה - ולנסיה</title>
     <desc lang="he">שידור חוזר: גראן קנאריה - ולנסיה, רבע גמר הגביע הספרדי בכדורסל, עונת 2024/25. מאבק על הכרטיס האחרון לחצי הגמר.</desc>
-  </programme>
-  <programme start="20250212000000 +0000" stop="20250212024500 +0000" channel="Sport 5">
-    <title lang="he">ישיר! פילדלפיה - טורונטו</title>
-    <desc lang="he">שידור ישיר: כדורסל. ליגת ה-NBA: פילדלפיה 76' מארחת את טורונטו ראפטורס. הסיקסרס מחפשת את עצמה עם ג'ואל אמביד שחזר לשחק, אבל עדיין רחוקה מהפלייאוף ונאבקת על הפליי-אין. פשוט אסור לה להפסיד מול טורונטו.(n)</desc>
-  </programme>
-  <programme start="20250212024500 +0000" stop="20250212033000 +0000" channel="Sport 5">
-    <title lang="he">חדשות הספורט</title>
-    <desc lang="he">שידור חוזר: מגזין חדשות ספורט יומי לסיכום אירועי היום. כ' סמויות.(n)</desc>
-  </programme>
-  <programme start="20250212033000 +0000" stop="20250212043000 +0000" channel="Sport 5">
-    <title lang="he">חדשות הספורט</title>
-    <desc lang="he">שידור חוזר: מגזין חדשות ספורט יומי לסיכום אירועי היום. כ' סמויות.(n)</desc>
-  </programme>
-  <programme start="20250212043000 +0000" stop="20250212054500 +0000" channel="Sport 5">
-    <title lang="he">גוף בתנועה - עם גלעד ינקלביץ'</title>
-    <desc lang="he">שידור חוזר: התעמלות עם גלעד ינקלביץ'.(n)</desc>
-  </programme>
-  <programme start="20250212054500 +0000" stop="20250212060000 +0000" channel="Sport 5">
-    <title lang="he">גוף בעיצוב - עם גלעד ינקלביץ'</title>
-    <desc lang="he">שידור חוזר: ספורט. אימון עיצוב הגוף.(n)</desc>
   </programme>
   <programme start="20250212060000 +0000" stop="20250212081500 +0000" channel="Sport 5">
     <title lang="he">פילדלפיה - טורונטו</title>
@@ -4932,14 +4716,6 @@
   <programme start="20250216010000 +0000" stop="20250216010100 +0000" channel="Sport 5">
     <title lang="he">ישיר! תחרות ההטבעות והשלשות</title>
     <desc lang="he">שידור ישיר: כדורסל. NBA, אולסטאר 2025: תחרות הההטבעות והשלשות.</desc>
-  </programme>
-  <programme start="20250212030000 +0000" stop="20250212044000 +0000" channel="Sport 5 Plus">
-    <title lang="he">מנ. סיטי - ר. מדריד</title>
-    <desc lang="he">שידור חוזר: כדורגל. מנצ'סטר סיטי נגד ריאל מדריד, ליגת האלופות, פלייאוף, משחק ראשון. שנה רביעית ברציפות בה נפגשות אלופת אנגליה וזוכת ליגת האלופות, אחרי ששתיהן הסתבכו בשלב הליגה. הולאנד מול אמבפה, פפ נגד אנצ'לוטי.(n)</desc>
-  </programme>
-  <programme start="20250212044000 +0000" stop="20250212054500 +0000" channel="Sport 5 Plus">
-    <title lang="he">אולפן ליגת האלופות: סיכום משחקי הערב</title>
-    <desc lang="he">שידור חוזר: כדורגל. חברי הפאנל מסכמים ומתקצרים עבורנו את משחקי הערב בליגת האלופות.(n)</desc>
   </programme>
   <programme start="20250212054500 +0000" stop="20250212072500 +0000" channel="Sport 5 Plus">
     <title lang="he">יובנטוס - פ.ס.וו</title>
@@ -5273,18 +5049,6 @@
     <title lang="he">שער השבת</title>
     <desc lang="he">שידור חוזר: הצטרפו לתכנית סיכום השבת עם שידור ראשון של תקצירי המשחקים וכמובן דיווחים חיים וניתוחים מקצועיים.</desc>
   </programme>
-  <programme start="20250212013500 +0000" stop="20250212032000 +0000" channel="Sport 5 Live">
-    <title lang="he">ליגת האלופות, ערוץ הקיבוץ, יום שלישי</title>
-    <desc lang="he">שידור חוזר: כדורגל. ליגת האלופות, ערוץ הקיבוץ, פלייאוף.(n)</desc>
-  </programme>
-  <programme start="20250212032000 +0000" stop="20250212040000 +0000" channel="Sport 5 Live">
-    <title lang="he">מ. חיפה - ה. חיפה</title>
-    <desc lang="he">שידור חוזר: כדורגל. מכבי חיפה נגד הפועל חיפה, ליגת העל, מחזור 22. הדרבי החיפאי מגיע עם מטען חדש בדמותו של גיא מלמד, שעבר רשמית לצד הירוק והאוהדים האדומים לא סולחים לו על זה. אז מי ינצחו, האדומים או הירוקים?(n)</desc>
-  </programme>
-  <programme start="20250212040000 +0000" stop="20250212054500 +0000" channel="Sport 5 Live">
-    <title lang="he">ליגת האלופות, ערוץ הקיבוץ, יום שלישי</title>
-    <desc lang="he">שידור חוזר: כדורגל. ליגת האלופות, ערוץ הקיבוץ, פלייאוף.(n)</desc>
-  </programme>
   <programme start="20250212054500 +0000" stop="20250212073000 +0000" channel="Sport 5 Live">
     <title lang="he">מנ. סיטי - ר. מדריד</title>
     <desc lang="he">שידור חוזר: כדורגל. מנצ'סטר סיטי נגד ריאל מדריד, ליגת האלופות, פלייאוף, משחק ראשון. שנה רביעית ברציפות בה נפגשות אלופת אנגליה וזוכת ליגת האלופות, אחרי ששתיהן הסתבכו בשלב הליגה. הולאנד מול אמבפה, פפ נגד אנצ'לוטי.(n)</desc>
@@ -5529,18 +5293,6 @@
     <title lang="he">האיש החזק בעולם 2024</title>
     <desc lang="he">שידור חוזר: סדרת תחרויות המורכבות מאתגרי כוח בלתי אנושיים, במטרה להכתיר את החזק מכולם.</desc>
   </programme>
-  <programme start="20250212012000 +0000" stop="20250212031000 +0000" channel="Sport 5 Stars">
-    <title lang="he">יובנטוס - פ.ס.וו</title>
-    <desc lang="he">שידור חוזר: כדורגל. יובנטוס נגד פ.ס.וו איינדהובן, ליגת האלופות, פלייאוף, משחק ראשון. הקבוצה של טיאגו מוטה כמעט ואינה מפסידה וצירפה בינואר את רנדל קולו מואני שלא מפסיק להבקיע. איינדהובן ההולנדית חולמת על השמינית.(n)</desc>
-  </programme>
-  <programme start="20250212031000 +0000" stop="20250212040000 +0000" channel="Sport 5 Stars">
-    <title lang="he">אקשן ספורט 2025</title>
-    <desc lang="he">שידור חוזר: אקשן ספורט 2025.(n)</desc>
-  </programme>
-  <programme start="20250212040000 +0000" stop="20250212054500 +0000" channel="Sport 5 Stars">
-    <title lang="he">ס. ליסבון - דורטמונד</title>
-    <desc lang="he">שידור חוזר: כדורגל. ספורטינג ליסבון נגד דורטמונד, ליגת האלופות, פלייאוף, משחק ראשון. ויקטור גיוקרש הלוהט נגד סגנית אלופת אירופה. החלוץ השוודי של ספורטינג הבקיע שישה שערים באלופות, כולל שלושער בלתי נשכח מול סיטי.(n)</desc>
-  </programme>
   <programme start="20250212054500 +0000" stop="20250212073000 +0000" channel="Sport 5 Stars">
     <title lang="he">ברסט - פ.ס.ז'</title>
     <desc lang="he">שידור חוזר: כדורגל. ברסט נגד פריס סן ז'רמן, ליגת האלופות, פלייאוף, משחק ראשון. עוסמן דמבלה הרותח הבקיע שלושער במשחק האחרון באלופות ושלושער נוסף ב-2:5 על ברסט בתחילת פברואר. ברסט תנסה להפתיע.(n)</desc>
@@ -5752,26 +5504,6 @@
   <programme start="20250216010000 +0000" stop="20250216010100 +0000" channel="Sport 5 Stars">
     <title lang="he">ישיר! 4 האומות: קנדה - ארה''ב</title>
     <desc lang="he">שידור ישיר: הוקי קרח. ליגת ה-NHL: קנדה נגד ארה''ב, טורניר 4 האומות.</desc>
-  </programme>
-  <programme start="20250212003500 +0000" stop="20250212033000 +0000" channel="Sport 5 Gold">
-    <title lang="he">מיטב קרבות ה-UFC</title>
-    <desc lang="he">אומנויות לחימה. UFC, אירוע 239, ג'ונס - סנטוס.(n)</desc>
-  </programme>
-  <programme start="20250212033000 +0000" stop="20250212040000 +0000" channel="Sport 5 Gold">
-    <title lang="he">מ. ת''א - בני יהודה, 03/04</title>
-    <desc lang="he">כדורגל. מכבי תל אביב נגד בני יהודה מהמחזור ה-13, 2003/4: בני יהודה ממשיכה את פתיחת העונה המדהימה שלה. הכתומים במקום הראשון, מספקים נצחון מרשים בדרבי הקטן של תל אביב. משחק מקוצר.(n)</desc>
-  </programme>
-  <programme start="20250212040000 +0000" stop="20250212045500 +0000" channel="Sport 5 Gold">
-    <title lang="he">גיבורים לנצח</title>
-    <desc lang="he">הרגעים והסיפורים הכי גדולים של אולימפיאדת החורף ב-2006, שנערכה בטורינו שבאיטליה.(n)</desc>
-  </programme>
-  <programme start="20250212045500 +0000" stop="20250212050000 +0000" channel="Sport 5 Gold">
-    <title lang="he">המהלכים הגדולים של פול פירס</title>
-    <desc lang="he">כדורסל. מצעד טופ-10 המהלכים הכי גדולים של ''האמת'' לאורך הקריירה העשירה שלו.(n)</desc>
-  </programme>
-  <programme start="20250212050000 +0000" stop="20250212053000 +0000" channel="Sport 5 Gold">
-    <title lang="he">בני יהודה - ה. פ''ת, 99/00</title>
-    <desc lang="he">כדורגל. בני יהודה - הפועל פ''ת, מחזור 39, עונת 1999/2000. פעם שנייה בתוך שנתיים שבני יהודה נאבקת נגד הירידה עד המחזור האחרון, הפעם נגד הפועל כפ''ס שמארחת במקביל את בית''ר. משחק מקוצר.(n)</desc>
   </programme>
   <programme start="20250212053000 +0000" stop="20250212065500 +0000" channel="Sport 5 Gold">
     <title lang="he">אולסטאר 2002</title>
@@ -6156,26 +5888,6 @@
   <programme start="20250216031500 +0000" stop="20250216031600 +0000" channel="Sport 5 Gold">
     <title lang="he">ר. מדריד - את. מדריד, 2014</title>
     <desc lang="he">כדורגל. ריאל מדריד - אתלטיקו מדריד, גמר ליגת האלופות, עונת 2013/4. עד לדקה ה-93 הגביע היה של אתלטיקו, אולם אז הגיע סרחיו ראמוס ולקח את המשחק להארכה. שם כבר לא היה ניתן לעצור את ריאל.</desc>
-  </programme>
-  <programme start="20250212020500 +0000" stop="20250212030000 +0000" channel="Sport One">
-    <title lang="he">טורניר כישרונות לה-ליגה 2024/25</title>
-    <desc lang="he">שידור חוזר: טורניר כישרונות לה-ליגה 2024/25 - גמר: ריאל בטיס נגד סביליה.(n)</desc>
-  </programme>
-  <programme start="20250212030000 +0000" stop="20250212033000 +0000" channel="Sport One">
-    <title lang="he">מוביל 1 דה גריד - עונה 15 - פרק 3</title>
-    <desc lang="he">שידור חוזר: מגזין ספורט מוטורי.(n)</desc>
-  </programme>
-  <programme start="20250212033000 +0000" stop="20250212040000 +0000" channel="Sport One">
-    <title lang="he">אודיסאה אלקטרונית</title>
-    <desc lang="he">שידור חוזר: תוכנית מגזין של אקסטרים E המציגה את הסיפורים שמסתתרים מאחורי המירוצים.(n)</desc>
-  </programme>
-  <programme start="20250212040000 +0000" stop="20250212055000 +0000" channel="Sport One">
-    <title lang="he">ל. פלמאס - ויאריאל</title>
-    <desc lang="he">שידור חוזר: ליגה ספרדית 2024/25, מחזור 23: לאס פאלמאס מארחת את ויאריאל.(n)</desc>
-  </programme>
-  <programme start="20250212055000 +0000" stop="20250212060000 +0000" channel="Sport One">
-    <title lang="he">טאפסים</title>
-    <desc lang="he">שידור חוזר: מנות קטנות וטעימות של כדורגל ספרדי.(n)</desc>
   </programme>
   <programme start="20250212060000 +0000" stop="20250212070000 +0000" channel="Sport One">
     <title lang="he">המיטב בלה ליגה</title>
@@ -6765,18 +6477,6 @@
     <title lang="he">ישיר! מאיורקה - אוססונה</title>
     <desc lang="he">שידור ישיר: ליגה ספרדית 2024/25, מחזור 23: מאיורקה מארחת את אוססונה.</desc>
   </programme>
-  <programme start="20250212021100 +0000" stop="20250212040000 +0000" channel="Sport One 2">
-    <title lang="he">פיורנטינה - אינטר</title>
-    <desc lang="he">שידור חוזר: ליגה איטלקית 2024/25, מחזור 14: פיורנטינה מארחת את אינטר.(n)</desc>
-  </programme>
-  <programme start="20250212040000 +0000" stop="20250212042700 +0000" channel="Sport One 2">
-    <title lang="he">אימפריית הג'ודו - 1. צרפת נגד יפן</title>
-    <desc lang="he">שידור חוזר: הסדרה סוקרת את הדרך של ענף הג'ודו לפני משחקי פריז 2024. בפרק הראשון סוקרים את היריבות בין יפן, מולדת הג'ודו, לבין צרפת, שניצחה אותה בתחרות הקבוצתית במשחקי טוקיו 2020.(n)</desc>
-  </programme>
-  <programme start="20250212042700 +0000" stop="20250212045500 +0000" channel="Sport One 2">
-    <title lang="he">אימפריית הג'ודו - 2. גיבורים לאומיים</title>
-    <desc lang="he">שידור חוזר: הסדרה סוקרת את הדרך של ענף הג'ודו לפני משחקי פריז 2024. בפרק השני סוקרים את הגיבורים ואת הגיבורות בכמה מהמדינות שפחות מזוהות עם ענף הג'ודו.(n)</desc>
-  </programme>
   <programme start="20250212045500 +0000" stop="20250212064200 +0000" channel="Sport One 2">
     <title lang="he">טורינו - גנואה</title>
     <desc lang="he">שידור חוזר: ליגה איטלקית 2024/25, מחזור 24: טורינו מארחת את גנואה.(n)</desc>
@@ -7300,102 +7000,6 @@
   <programme start="20250217214400 +0000" stop="20250217233000 +0000" channel="Sport One 2">
     <title lang="he">אמפולי - מילאן</title>
     <desc lang="he">שידור חוזר: ליגה איטלקית 2024/25, מחזור 24: אמפולי מארחת את מילאן.</desc>
-  </programme>
-  <programme start="20250211000000 -0500" stop="20250211010000 -0500" channel="CNN">
-    <title lang="en">Anderson Cooper 360</title>
-    <sub-title lang="en">02-10-2025 - Season 2025, Episode 31</sub-title>
-  </programme>
-  <programme start="20250211010000 -0500" stop="20250211020000 -0500" channel="CNN">
-    <title lang="en">Erin Burnett OutFront</title>
-    <sub-title lang="en">02-10-2025 - Season 2025, Episode 32</sub-title>
-  </programme>
-  <programme start="20250211020000 -0500" stop="20250211030000 -0500" channel="CNN">
-    <title lang="en">The Source with Kaitlan Collins</title>
-    <sub-title lang="en">02-10-2025 - Season 3, Episode 31</sub-title>
-  </programme>
-  <programme start="20250211030000 -0500" stop="20250211040000 -0500" channel="CNN">
-    <title lang="en">CNN Newsnight With Abby Phillip</title>
-    <sub-title lang="en">10-02-2025</sub-title>
-  </programme>
-  <programme start="20250211040000 -0500" stop="20250211050000 -0500" channel="CNN">
-    <title lang="en">Anderson Cooper 360</title>
-    <sub-title lang="en">02-10-2025 - Season 2025, Episode 31</sub-title>
-  </programme>
-  <programme start="20250211050000 -0500" stop="20250211060000 -0500" channel="CNN">
-    <title lang="en">CNN This Morning</title>
-    <sub-title lang="en">02-11-2025</sub-title>
-  </programme>
-  <programme start="20250211060000 -0500" stop="20250211070000 -0500" channel="CNN">
-    <title lang="en">CNN This Morning</title>
-    <sub-title lang="en">02-11-2025 -2</sub-title>
-  </programme>
-  <programme start="20250211070000 -0500" stop="20250211080000 -0500" channel="CNN">
-    <title lang="en">CNN News Central</title>
-    <sub-title lang="en">02-11-2025</sub-title>
-  </programme>
-  <programme start="20250211080000 -0500" stop="20250211090000 -0500" channel="CNN">
-    <title lang="en">CNN News Central</title>
-    <sub-title lang="en">02-11-2025 -2</sub-title>
-  </programme>
-  <programme start="20250211090000 -0500" stop="20250211100000 -0500" channel="CNN">
-    <title lang="en">CNN News Central</title>
-    <sub-title lang="en">02-11-2025 -3</sub-title>
-  </programme>
-  <programme start="20250211100000 -0500" stop="20250211110000 -0500" channel="CNN">
-    <title lang="en">CNN Newsroom Live</title>
-    <sub-title lang="en">02-11-2025 - Season 2025, Episode 370</sub-title>
-  </programme>
-  <programme start="20250211110000 -0500" stop="20250211120000 -0500" channel="CNN">
-    <title lang="en">CNN Newsroom Live</title>
-    <sub-title lang="en">02-11-2025 -2 - Season 2025, Episode 371</sub-title>
-  </programme>
-  <programme start="20250211120000 -0500" stop="20250211130000 -0500" channel="CNN">
-    <title lang="en">Inside Politics with Dana Bash</title>
-    <sub-title lang="en">02-11-2025</sub-title>
-  </programme>
-  <programme start="20250211130000 -0500" stop="20250211140000 -0500" channel="CNN">
-    <title lang="en">CNN News Central</title>
-    <sub-title lang="en">02-11-2025 -4</sub-title>
-  </programme>
-  <programme start="20250211140000 -0500" stop="20250211150000 -0500" channel="CNN">
-    <title lang="en">CNN News Central</title>
-    <sub-title lang="en">02-11-2025 -5</sub-title>
-  </programme>
-  <programme start="20250211150000 -0500" stop="20250211160000 -0500" channel="CNN">
-    <title lang="en">CNN News Central</title>
-    <sub-title lang="en">02-11-2025 -6</sub-title>
-  </programme>
-  <programme start="20250211160000 -0500" stop="20250211170000 -0500" channel="CNN">
-    <title lang="en">The Lead With Jake Tapper</title>
-    <sub-title lang="en">02-11-2025 - Season 2025, Episode 58</sub-title>
-  </programme>
-  <programme start="20250211170000 -0500" stop="20250211180000 -0500" channel="CNN">
-    <title lang="en">The Lead With Jake Tapper</title>
-    <sub-title lang="en">02-11-2025 -2 - Season 2025, Episode 59</sub-title>
-  </programme>
-  <programme start="20250211180000 -0500" stop="20250211190000 -0500" channel="CNN">
-    <title lang="en">Situation Room With Wolf Blitzer</title>
-    <sub-title lang="en">02-11-2025 - Season 2025, Episode 30</sub-title>
-  </programme>
-  <programme start="20250211190000 -0500" stop="20250211200000 -0500" channel="CNN">
-    <title lang="en">Erin Burnett OutFront</title>
-    <sub-title lang="en">02-11-2025 - Season 2025, Episode 33</sub-title>
-  </programme>
-  <programme start="20250211200000 -0500" stop="20250211210000 -0500" channel="CNN">
-    <title lang="en">Anderson Cooper 360</title>
-    <sub-title lang="en">02-11-2025 - Season 2025, Episode 32</sub-title>
-  </programme>
-  <programme start="20250211210000 -0500" stop="20250211220000 -0500" channel="CNN">
-    <title lang="en">The Source with Kaitlan Collins</title>
-    <sub-title lang="en">02-11-2025 - Season 3, Episode 32</sub-title>
-  </programme>
-  <programme start="20250211220000 -0500" stop="20250211230000 -0500" channel="CNN">
-    <title lang="en">CNN Newsnight With Abby Phillip</title>
-    <sub-title lang="en">11-02-2025</sub-title>
-  </programme>
-  <programme start="20250211230000 -0500" stop="20250212000000 -0500" channel="CNN">
-    <title lang="en">Laura Coates Live</title>
-    <sub-title lang="en">11-02-2025 - Season 2025, Episode 31</sub-title>
   </programme>
   <programme start="20250212000000 -0500" stop="20250212010000 -0500" channel="CNN">
     <title lang="en">Anderson Cooper 360</title>
@@ -8014,190 +7618,193 @@
     <title lang="en">CNN Newsnight With Abby Phillip</title>
     <sub-title lang="en">18-02-2025</sub-title>
   </programme>
-  <programme start="20250211223000 -0500" stop="20250212010000 -0500" channel="ESPN">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Utah Jazz at Los Angeles Lakers</sub-title>
+  <programme start="20250212000000 -0500" stop="20250212010000 -0500" channel="ESPN">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">02-12-2025 -1</sub-title>
   </programme>
   <programme start="20250212010000 -0500" stop="20250212020000 -0500" channel="ESPN">
-    <title lang="en">SportsCenter with Scott Van Pelt</title>
-    <sub-title lang="en">02-11-2025</sub-title>
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">02-12-2025 -2</sub-title>
   </programme>
   <programme start="20250212020000 -0500" stop="20250212030000 -0500" channel="ESPN">
     <title lang="en">SportsCenter</title>
-    <sub-title lang="en">02-11-2025 -2</sub-title>
+    <sub-title lang="en">02-12-2025 -2</sub-title>
   </programme>
   <programme start="20250212030000 -0500" stop="20250212040000 -0500" channel="ESPN">
     <title lang="en">SportsCenter</title>
-    <sub-title lang="en">02-11-2025 -3</sub-title>
+    <sub-title lang="en">02-12-2025 -2</sub-title>
   </programme>
   <programme start="20250212040000 -0500" stop="20250212050000 -0500" channel="ESPN">
     <title lang="en">SportsCenter</title>
-    <sub-title lang="en">02-11-2025 -3</sub-title>
+    <sub-title lang="en">02-12-2025 -2</sub-title>
   </programme>
   <programme start="20250212050000 -0500" stop="20250212060000 -0500" channel="ESPN">
     <title lang="en">SportsCenter</title>
-    <sub-title lang="en">02-11-2025 -3</sub-title>
+    <sub-title lang="en">02-12-2025 -2</sub-title>
   </programme>
   <programme start="20250212060000 -0500" stop="20250212070000 -0500" channel="ESPN">
     <title lang="en">SportsCenter</title>
-    <sub-title lang="en">02-11-2025 -3</sub-title>
+    <sub-title lang="en">02-12-2025 -2</sub-title>
   </programme>
   <programme start="20250212070000 -0500" stop="20250212080000 -0500" channel="ESPN">
     <title lang="en">SportsCenter</title>
-    <sub-title lang="en">02-11-2025 -4</sub-title>
+    <sub-title lang="en">02-12-2025 -3</sub-title>
   </programme>
   <programme start="20250212080000 -0500" stop="20250212100000 -0500" channel="ESPN">
     <title lang="en">Get Up</title>
-    <sub-title lang="en">02-11-2025 - Season 2025, Episode 30</sub-title>
+    <sub-title lang="en">02-12-2025 - Season 2025, Episode 31</sub-title>
   </programme>
   <programme start="20250212100000 -0500" stop="20250212120000 -0500" channel="ESPN">
     <title lang="en">First Take</title>
-    <sub-title lang="en">02-11-2025</sub-title>
+    <sub-title lang="en">02-12-2025</sub-title>
   </programme>
   <programme start="20250212120000 -0500" stop="20250212130000 -0500" channel="ESPN">
     <title lang="en">SportsCenter</title>
-    <sub-title lang="en">02-11-2025 -5</sub-title>
+    <sub-title lang="en">02-12-2025 -4</sub-title>
   </programme>
   <programme start="20250212130000 -0500" stop="20250212140000 -0500" channel="ESPN">
     <title lang="en">SportsCenter</title>
-    <sub-title lang="en">02-11-2025 -6</sub-title>
+    <sub-title lang="en">02-12-2025 -5</sub-title>
   </programme>
   <programme start="20250212140000 -0500" stop="20250212150000 -0500" channel="ESPN">
     <title lang="en">SportsCenter</title>
-    <sub-title lang="en">02-11-2025 -7</sub-title>
+    <sub-title lang="en">02-12-2025 -6</sub-title>
   </programme>
   <programme start="20250212150000 -0500" stop="20250212160000 -0500" channel="ESPN">
     <title lang="en">NBA Today</title>
   </programme>
   <programme start="20250212160000 -0500" stop="20250212170000 -0500" channel="ESPN">
     <title lang="en">NFL Live</title>
-    <sub-title lang="en">02-11-2025</sub-title>
+    <sub-title lang="en">02-12-2025</sub-title>
   </programme>
   <programme start="20250212170000 -0500" stop="20250212173000 -0500" channel="ESPN">
     <title lang="en">Around the Horn</title>
-    <sub-title lang="en">02-11-2025 - Season 24, Episode 29</sub-title>
+    <sub-title lang="en">02-12-2025 - Season 24, Episode 30</sub-title>
   </programme>
   <programme start="20250212173000 -0500" stop="20250212180000 -0500" channel="ESPN">
     <title lang="en">Pardon the Interruption</title>
-    <sub-title lang="en">02-11-2025 - Season 26, Episode 29</sub-title>
+    <sub-title lang="en">02-12-2025 - Season 26, Episode 30</sub-title>
   </programme>
-  <programme start="20250212180000 -0500" stop="20250212190000 -0500" channel="ESPN">
+  <programme start="20250212180000 -0500" stop="20250212183000 -0500" channel="ESPN">
     <title lang="en">SportsCenter</title>
-    <sub-title lang="en">02-11-2025 -7</sub-title>
+    <sub-title lang="en">02-12-2025 -7</sub-title>
   </programme>
-  <programme start="20250212230000 -0500" stop="20250213000000 -0500" channel="ESPN">
+  <programme start="20250212183000 -0500" stop="20250212190000 -0500" channel="ESPN">
+    <title lang="en">NBA Countdown</title>
+    <sub-title lang="en">02-12-2025</sub-title>
+  </programme>
+  <programme start="20250212190000 -0500" stop="20250212191300 -0500" channel="ESPN">
+    <title lang="en">NBA Courtside</title>
+  </programme>
+  <programme start="20250212191300 -0500" stop="20250212213500 -0500" channel="ESPN">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">San Antonio Spurs at Boston Celtics</sub-title>
+  </programme>
+  <programme start="20250212213500 -0500" stop="20250212213500 -0500" channel="ESPN">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Golden State Warriors at Dallas Mavericks</sub-title>
+  </programme>
+  <programme start="20250212213500 -0500" stop="20250213000500 -0500" channel="ESPN">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Golden State Warriors at Dallas Mavericks</sub-title>
+  </programme>
+  <programme start="20250213000500 -0500" stop="20250213010000 -0500" channel="ESPN">
     <title lang="en">SportsCenter with Scott Van Pelt</title>
-    <sub-title lang="en">02-11-2025 -2</sub-title>
-  </programme>
-  <programme start="20250213000000 -0500" stop="20250213010000 -0500" channel="ESPN">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">02-12-2025 -1</sub-title>
+    <sub-title lang="en">02-13-2025</sub-title>
   </programme>
   <programme start="20250213010000 -0500" stop="20250213020000 -0500" channel="ESPN">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">02-12-2025 -2</sub-title>
+    <title lang="en">SportsCenter with Scott Van Pelt</title>
+    <sub-title lang="en">02-13-2025 -2</sub-title>
   </programme>
   <programme start="20250213020000 -0500" stop="20250213030000 -0500" channel="ESPN">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">02-12-2025 -2</sub-title>
+    <title lang="en">SportsCenter with Scott Van Pelt</title>
+    <sub-title lang="en">02-13-2025 -2</sub-title>
   </programme>
   <programme start="20250213030000 -0500" stop="20250213040000 -0500" channel="ESPN">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">02-12-2025 -2</sub-title>
+    <title lang="en">SportsCenter with Scott Van Pelt</title>
+    <sub-title lang="en">02-13-2025 -2</sub-title>
   </programme>
-  <programme start="20250213040000 -0500" stop="20250213050000 -0500" channel="ESPN">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">02-12-2025 -2</sub-title>
-  </programme>
-  <programme start="20250213050000 -0500" stop="20250213060000 -0500" channel="ESPN">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">02-12-2025 -2</sub-title>
+  <programme start="20250213040000 -0500" stop="20250213060000 -0500" channel="ESPN">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Golden State Warriors at Dallas Mavericks</sub-title>
   </programme>
   <programme start="20250213060000 -0500" stop="20250213070000 -0500" channel="ESPN">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">02-12-2025 -2</sub-title>
+    <title lang="en">SportsCenter with Scott Van Pelt</title>
+    <sub-title lang="en">02-13-2025 -2</sub-title>
   </programme>
   <programme start="20250213070000 -0500" stop="20250213080000 -0500" channel="ESPN">
     <title lang="en">SportsCenter</title>
+    <sub-title lang="en">02-13-2025 -1</sub-title>
   </programme>
   <programme start="20250213080000 -0500" stop="20250213100000 -0500" channel="ESPN">
     <title lang="en">Get Up</title>
-    <sub-title lang="en">02-12-2025 - Season 2025, Episode 31</sub-title>
+    <sub-title lang="en">02-13-2025 - Season 2025, Episode 32</sub-title>
   </programme>
   <programme start="20250213100000 -0500" stop="20250213120000 -0500" channel="ESPN">
     <title lang="en">First Take</title>
-    <sub-title lang="en">02-12-2025</sub-title>
+    <sub-title lang="en">02-13-2025</sub-title>
   </programme>
   <programme start="20250213120000 -0500" stop="20250213130000 -0500" channel="ESPN">
     <title lang="en">SportsCenter</title>
+    <sub-title lang="en">02-13-2025 -2</sub-title>
   </programme>
   <programme start="20250213130000 -0500" stop="20250213140000 -0500" channel="ESPN">
     <title lang="en">SportsCenter</title>
+    <sub-title lang="en">02-13-2025 -3</sub-title>
   </programme>
   <programme start="20250213140000 -0500" stop="20250213150000 -0500" channel="ESPN">
     <title lang="en">SportsCenter</title>
+    <sub-title lang="en">02-13-2025 -4</sub-title>
   </programme>
   <programme start="20250213150000 -0500" stop="20250213160000 -0500" channel="ESPN">
     <title lang="en">NBA Today</title>
   </programme>
   <programme start="20250213160000 -0500" stop="20250213170000 -0500" channel="ESPN">
     <title lang="en">NFL Live</title>
-    <sub-title lang="en">02-12-2025</sub-title>
+    <sub-title lang="en">02-13-2025</sub-title>
   </programme>
   <programme start="20250213170000 -0500" stop="20250213173000 -0500" channel="ESPN">
     <title lang="en">Around the Horn</title>
-    <sub-title lang="en">02-12-2025 - Season 24, Episode 30</sub-title>
+    <sub-title lang="en">02-13-2025 - Season 24, Episode 31</sub-title>
   </programme>
   <programme start="20250213173000 -0500" stop="20250213180000 -0500" channel="ESPN">
     <title lang="en">Pardon the Interruption</title>
-    <sub-title lang="en">02-12-2025 - Season 26, Episode 30</sub-title>
+    <sub-title lang="en">02-13-2025 - Season 26, Episode 31</sub-title>
   </programme>
-  <programme start="20250213180000 -0500" stop="20250213183000 -0500" channel="ESPN">
+  <programme start="20250213180000 -0500" stop="20250213190000 -0500" channel="ESPN">
     <title lang="en">SportsCenter</title>
-    <sub-title lang="en">02-12-2025 -7</sub-title>
+    <sub-title lang="en">02-13-2025 -5</sub-title>
   </programme>
-  <programme start="20250213183000 -0500" stop="20250213190000 -0500" channel="ESPN">
-    <title lang="en">NBA Countdown</title>
-    <sub-title lang="en">02-12-2025</sub-title>
-  </programme>
-  <programme start="20250213190000 -0500" stop="20250213191300 -0500" channel="ESPN">
-    <title lang="en">NBA Courtside</title>
-  </programme>
-  <programme start="20250213191300 -0500" stop="20250213213500 -0500" channel="ESPN">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">San Antonio Spurs at Boston Celtics</sub-title>
-  </programme>
-  <programme start="20250213213500 -0500" stop="20250213213500 -0500" channel="ESPN">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Golden State Warriors at Dallas Mavericks</sub-title>
-  </programme>
-  <programme start="20250213213500 -0500" stop="20250214000500 -0500" channel="ESPN">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Golden State Warriors at Dallas Mavericks</sub-title>
+  <programme start="20250213190000 -0500" stop="20250213200000 -0500" channel="ESPN">
+    <title lang="en">The Point</title>
   </programme>
   <programme start="20250214000500 -0500" stop="20250214010000 -0500" channel="ESPN">
     <title lang="en">SportsCenter with Scott Van Pelt</title>
     <sub-title lang="en">02-13-2025</sub-title>
   </programme>
   <programme start="20250214010000 -0500" stop="20250214020000 -0500" channel="ESPN">
-    <title lang="en">SportsCenter with Scott Van Pelt</title>
-    <sub-title lang="en">02-13-2025 -2</sub-title>
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">02-14-2025 -1</sub-title>
   </programme>
   <programme start="20250214020000 -0500" stop="20250214030000 -0500" channel="ESPN">
-    <title lang="en">SportsCenter with Scott Van Pelt</title>
-    <sub-title lang="en">02-13-2025 -2</sub-title>
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">02-14-2025 -2</sub-title>
   </programme>
   <programme start="20250214030000 -0500" stop="20250214040000 -0500" channel="ESPN">
-    <title lang="en">SportsCenter with Scott Van Pelt</title>
-    <sub-title lang="en">02-13-2025 -2</sub-title>
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">02-14-2025 -2</sub-title>
   </programme>
-  <programme start="20250214040000 -0500" stop="20250214060000 -0500" channel="ESPN">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Golden State Warriors at Dallas Mavericks</sub-title>
+  <programme start="20250214040000 -0500" stop="20250214050000 -0500" channel="ESPN">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">02-14-2025 -2</sub-title>
+  </programme>
+  <programme start="20250214050000 -0500" stop="20250214060000 -0500" channel="ESPN">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">02-14-2025 -2</sub-title>
   </programme>
   <programme start="20250214060000 -0500" stop="20250214070000 -0500" channel="ESPN">
-    <title lang="en">SportsCenter with Scott Van Pelt</title>
-    <sub-title lang="en">02-13-2025 -2</sub-title>
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">02-14-2025 -2</sub-title>
   </programme>
   <programme start="20250214070000 -0500" stop="20250214080000 -0500" channel="ESPN">
     <title lang="en">SportsCenter</title>
@@ -8240,6 +7847,14 @@
   <programme start="20250214190000 -0500" stop="20250214200000 -0500" channel="ESPN">
     <title lang="en">The Point</title>
   </programme>
+  <programme start="20250214210000 -0500" stop="20250215000000 -0500" channel="ESPN">
+    <title lang="en">Top Rank Boxing on ESPN</title>
+    <sub-title lang="en">Main Card: Berinchyk vs. Keyshawn</sub-title>
+  </programme>
+  <programme start="20250215000000 -0500" stop="20250215010000 -0500" channel="ESPN">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">02-15-2025 -1</sub-title>
+  </programme>
   <programme start="20250215010000 -0500" stop="20250215020000 -0500" channel="ESPN">
     <title lang="en">SportsCenter</title>
     <sub-title lang="en">02-14-2025 -1</sub-title>
@@ -8268,13 +7883,17 @@
     <title lang="en">SportsCenter</title>
     <sub-title lang="en">02-14-2025 -3</sub-title>
   </programme>
-  <programme start="20250215080000 -0500" stop="20250215100000 -0500" channel="ESPN">
-    <title lang="en">Get Up</title>
-    <sub-title lang="en">02-14-2025 - Season 2025, Episode 33</sub-title>
+  <programme start="20250215080000 -0500" stop="20250215090000 -0500" channel="ESPN">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">02-15-2025 -3</sub-title>
+  </programme>
+  <programme start="20250215090000 -0500" stop="20250215100000 -0500" channel="ESPN">
+    <title lang="en">SportsCenter</title>
+    <sub-title lang="en">02-15-2025 -4</sub-title>
   </programme>
   <programme start="20250215100000 -0500" stop="20250215120000 -0500" channel="ESPN">
-    <title lang="en">First Take</title>
-    <sub-title lang="en">02-14-2025</sub-title>
+    <title lang="en">College GameDay</title>
+    <sub-title lang="en">02-15-2025</sub-title>
   </programme>
   <programme start="20250215120000 -0500" stop="20250215130000 -0500" channel="ESPN">
     <title lang="en">SportsCenter</title>
@@ -8458,65 +8077,9 @@
     <title lang="en">TGL Golf</title>
     <sub-title lang="en">Atlanta Drive GC vs. The Bay GC</sub-title>
   </programme>
-  <programme start="20250211233000 -0500" stop="20250212003000 -0500" channel="ESPN2">
-    <title lang="en">NFL Live</title>
-    <sub-title lang="en">02-10-2025</sub-title>
-  </programme>
-  <programme start="20250212010000 -0500" stop="20250212013000 -0500" channel="ESPN2">
-    <title lang="en">Around the Horn</title>
-    <sub-title lang="en">02-10-2025 - Season 24, Episode 28</sub-title>
-  </programme>
-  <programme start="20250212013000 -0500" stop="20250212020000 -0500" channel="ESPN2">
-    <title lang="en">Pardon the Interruption</title>
-    <sub-title lang="en">02-10-2025 - Season 26, Episode 28</sub-title>
-  </programme>
-  <programme start="20250212080000 -0500" stop="20250212090000 -0500" channel="ESPN2">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">02-11-2025 -10</sub-title>
-  </programme>
-  <programme start="20250212090000 -0500" stop="20250212100000 -0500" channel="ESPN2">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">02-11-2025 -10</sub-title>
-  </programme>
-  <programme start="20250212100000 -0500" stop="20250212120000 -0500" channel="ESPN2">
-    <title lang="en">Get Up</title>
-    <sub-title lang="en">02-11-2025 - Season 2025, Episode 30</sub-title>
-  </programme>
-  <programme start="20250212120000 -0500" stop="20250212140000 -0500" channel="ESPN2">
-    <title lang="en">First Take</title>
-    <sub-title lang="en">02-11-2025</sub-title>
-  </programme>
-  <programme start="20250212140000 -0500" stop="20250212150000 -0500" channel="ESPN2">
-    <title lang="en">Numbers on the Board</title>
-  </programme>
-  <programme start="20250212150000 -0500" stop="20250212160000 -0500" channel="ESPN2">
-    <title lang="en">SportsCenter</title>
-    <sub-title lang="en">02-11-2025 -10</sub-title>
-  </programme>
-  <programme start="20250212160000 -0500" stop="20250212170000 -0500" channel="ESPN2">
-    <title lang="en">NBA Today</title>
-  </programme>
-  <programme start="20250212170000 -0500" stop="20250212180000 -0500" channel="ESPN2">
-    <title lang="en">SportsCenter Special</title>
-    <sub-title lang="en">Field Yates' NFL Mock Draft 3.0</sub-title>
-  </programme>
-  <programme start="20250212180000 -0500" stop="20250212183000 -0500" channel="ESPN2">
-    <title lang="en">ESPN BET Live</title>
-  </programme>
-  <programme start="20250212183000 -0500" stop="20250212190000 -0500" channel="ESPN2">
-    <title lang="en">Wooden Award Late Season Top 20 Special</title>
-  </programme>
-  <programme start="20250213000000 -0500" stop="20250213010000 -0500" channel="ESPN2">
-    <title lang="en">NFL Live</title>
-    <sub-title lang="en">02-13-2025</sub-title>
-  </programme>
   <programme start="20250213010000 -0500" stop="20250213020000 -0500" channel="ESPN2">
     <title lang="en">NFL Live</title>
     <sub-title lang="en">02-11-2025</sub-title>
-  </programme>
-  <programme start="20250213020000 -0500" stop="20250213040000 -0500" channel="ESPN2">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">San Antonio Spurs at Boston Celtics</sub-title>
   </programme>
   <programme start="20250213040000 -0500" stop="20250213050000 -0500" channel="ESPN2">
     <title lang="en">NFL Live</title>
@@ -8528,9 +8091,11 @@
   </programme>
   <programme start="20250213080000 -0500" stop="20250213090000 -0500" channel="ESPN2">
     <title lang="en">SportsCenter</title>
+    <sub-title lang="en">02-12-2025 -10</sub-title>
   </programme>
   <programme start="20250213090000 -0500" stop="20250213100000 -0500" channel="ESPN2">
     <title lang="en">SportsCenter</title>
+    <sub-title lang="en">02-12-2025 -10</sub-title>
   </programme>
   <programme start="20250213100000 -0500" stop="20250213120000 -0500" channel="ESPN2">
     <title lang="en">Get Up</title>
@@ -8545,6 +8110,7 @@
   </programme>
   <programme start="20250213150000 -0500" stop="20250213160000 -0500" channel="ESPN2">
     <title lang="en">SportsCenter</title>
+    <sub-title lang="en">02-12-2025 -10</sub-title>
   </programme>
   <programme start="20250213160000 -0500" stop="20250213170000 -0500" channel="ESPN2">
     <title lang="en">NBA Today</title>
@@ -8828,64 +8394,6 @@
     <title lang="en">NFL Live</title>
     <sub-title lang="en">02-17-2025</sub-title>
   </programme>
-  <programme start="20250211000000 -0500" stop="20250211020000 -0500" channel="NFL Network">
-    <title lang="en">2025 NFL Honors</title>
-  </programme>
-  <programme start="20250211020000 -0500" stop="20250211030000 -0500" channel="NFL Network">
-    <title lang="en">The Insiders</title>
-    <sub-title lang="en">02-10-2025</sub-title>
-  </programme>
-  <programme start="20250211030000 -0500" stop="20250211060000 -0500" channel="NFL Network">
-    <title lang="en">Super Bowl LIX</title>
-    <sub-title lang="en">Kansas City Chiefs vs. Philadelphia Eagles</sub-title>
-  </programme>
-  <programme start="20250211060000 -0500" stop="20250211070000 -0500" channel="NFL Network">
-    <title lang="en">The Insiders</title>
-    <sub-title lang="en">02-10-2025</sub-title>
-  </programme>
-  <programme start="20250211070000 -0500" stop="20250211080000 -0500" channel="NFL Network">
-    <title lang="en">The Insiders</title>
-    <sub-title lang="en">02-10-2025</sub-title>
-  </programme>
-  <programme start="20250211080000 -0500" stop="20250211100000 -0500" channel="NFL Network">
-    <title lang="en">Good Morning Football</title>
-    <sub-title lang="en">02-11-2025 - Season 2025, Episode 30</sub-title>
-  </programme>
-  <programme start="20250211100000 -0500" stop="20250211120000 -0500" channel="NFL Network">
-    <title lang="en">Good Morning Football</title>
-    <sub-title lang="en">02-11-2025 - Season 2025, Episode 30</sub-title>
-  </programme>
-  <programme start="20250211120000 -0500" stop="20250211140000 -0500" channel="NFL Network">
-    <title lang="en">Good Morning Football</title>
-    <sub-title lang="en">02-11-2025 - Season 2025, Episode 30</sub-title>
-  </programme>
-  <programme start="20250211140000 -0500" stop="20250211163000 -0500" channel="NFL Network">
-    <title lang="en">NFL Playoff</title>
-    <sub-title lang="en">Green Bay Packers at Philadelphia Eagles</sub-title>
-  </programme>
-  <programme start="20250211163000 -0500" stop="20250211190000 -0500" channel="NFL Network">
-    <title lang="en">NFL Playoff</title>
-    <sub-title lang="en">Los Angeles Rams at Philadelphia Eagles</sub-title>
-  </programme>
-  <programme start="20250211190000 -0500" stop="20250211200000 -0500" channel="NFL Network">
-    <title lang="en">The Insiders</title>
-    <sub-title lang="en">02-11-2025</sub-title>
-  </programme>
-  <programme start="20250211200000 -0500" stop="20250211210000 -0500" channel="NFL Network">
-    <title lang="en">Super Bowl LIX</title>
-    <sub-title lang="en">Kansas City Chiefs vs. Philadelphia Eagles</sub-title>
-  </programme>
-  <programme start="20250211220000 -0500" stop="20250211223000 -0500" channel="NFL Network">
-    <title lang="en">NFL Power Rankings</title>
-  </programme>
-  <programme start="20250211223000 -0500" stop="20250211230000 -0500" channel="NFL Network">
-    <title lang="en">The Hall of Fame Knocks</title>
-    <sub-title lang="en">Class of 2025</sub-title>
-  </programme>
-  <programme start="20250211230000 -0500" stop="20250212000000 -0500" channel="NFL Network">
-    <title lang="en">The Insiders</title>
-    <sub-title lang="en">02-11-2025</sub-title>
-  </programme>
   <programme start="20250212000000 -0500" stop="20250212010000 -0500" channel="NFL Network">
     <title lang="en">Super Bowl LIX</title>
     <sub-title lang="en">Kansas City Chiefs vs. Philadelphia Eagles</sub-title>
@@ -8951,16 +8459,9 @@
   <programme start="20250213000000 -0500" stop="20250213010000 -0500" channel="NFL Network">
     <title lang="en">Inside the NFL</title>
   </programme>
-  <programme start="20250213010000 -0500" stop="20250213013000 -0500" channel="NFL Network">
-    <title lang="en">NFL Power Rankings</title>
-  </programme>
-  <programme start="20250213013000 -0500" stop="20250213020000 -0500" channel="NFL Network">
-    <title lang="en">The Hall of Fame Knocks</title>
-    <sub-title lang="en">Class of 2025</sub-title>
-  </programme>
   <programme start="20250213020000 -0500" stop="20250213030000 -0500" channel="NFL Network">
     <title lang="en">The Insiders</title>
-    <sub-title lang="en">02-11-2025</sub-title>
+    <sub-title lang="en">02-12-2025</sub-title>
   </programme>
   <programme start="20250213030000 -0500" stop="20250213060000 -0500" channel="NFL Network">
     <title lang="en">NFL Playoff</title>
@@ -8968,22 +8469,22 @@
   </programme>
   <programme start="20250213060000 -0500" stop="20250213070000 -0500" channel="NFL Network">
     <title lang="en">The Insiders</title>
-    <sub-title lang="en">02-11-2025</sub-title>
+    <sub-title lang="en">02-12-2025</sub-title>
   </programme>
   <programme start="20250213070000 -0500" stop="20250213080000 -0500" channel="NFL Network">
     <title lang="en">Inside the NFL</title>
   </programme>
   <programme start="20250213080000 -0500" stop="20250213100000 -0500" channel="NFL Network">
     <title lang="en">Good Morning Football</title>
-    <sub-title lang="en">02-12-2025 - Season 2025, Episode 31</sub-title>
+    <sub-title lang="en">02-13-2025 - Season 2025, Episode 32</sub-title>
   </programme>
   <programme start="20250213100000 -0500" stop="20250213120000 -0500" channel="NFL Network">
     <title lang="en">Good Morning Football</title>
-    <sub-title lang="en">02-12-2025 - Season 2025, Episode 31</sub-title>
+    <sub-title lang="en">02-13-2025 - Season 2025, Episode 32</sub-title>
   </programme>
   <programme start="20250213120000 -0500" stop="20250213140000 -0500" channel="NFL Network">
     <title lang="en">Good Morning Football</title>
-    <sub-title lang="en">02-12-2025 - Season 2025, Episode 31</sub-title>
+    <sub-title lang="en">02-13-2025 - Season 2025, Episode 32</sub-title>
   </programme>
   <programme start="20250213140000 -0500" stop="20250213150000 -0500" channel="NFL Network">
     <title lang="en">A Football Life</title>
@@ -9007,7 +8508,7 @@
   </programme>
   <programme start="20250213190000 -0500" stop="20250213200000 -0500" channel="NFL Network">
     <title lang="en">The Insiders</title>
-    <sub-title lang="en">02-12-2025</sub-title>
+    <sub-title lang="en">02-13-2025</sub-title>
   </programme>
   <programme start="20250213210000 -0500" stop="20250214000000 -0500" channel="NFL Network">
     <title lang="en">Super Bowl LII</title>
@@ -9221,62 +8722,6 @@
   <programme start="20250218220000 -0500" stop="20250218230000 -0500" channel="NFL Network">
     <title lang="en">A Football Life</title>
     <sub-title lang="en">Doug Williams - Season 8, Episode 10</sub-title>
-  </programme>
-  <programme start="20250211000000 -0500" stop="20250211010000 -0500" channel="Fox News">
-    <title lang="en">The Five</title>
-    <sub-title lang="en">02-10-2025 - Season 2025, Episode 30</sub-title>
-  </programme>
-  <programme start="20250211010000 -0500" stop="20250211020000 -0500" channel="Fox News">
-    <title lang="en">Jesse Watters Primetime</title>
-    <sub-title lang="en">02-10-2025 - Season 2025, Episode 29</sub-title>
-  </programme>
-  <programme start="20250211020000 -0500" stop="20250211030000 -0500" channel="Fox News">
-    <title lang="en">Hannity</title>
-    <sub-title lang="en">02-10-2025 - Season 2025, Episode 30</sub-title>
-  </programme>
-  <programme start="20250211040000 -0500" stop="20250211050000 -0500" channel="Fox News">
-    <title lang="en">The Ingraham Angle</title>
-    <sub-title lang="en">02-10-2025 - Season 2025, Episode 29</sub-title>
-  </programme>
-  <programme start="20250211050000 -0500" stop="20250211060000 -0500" channel="Fox News">
-    <title lang="en">Fox and Friends First</title>
-    <sub-title lang="en">02-11-2025 - Season 2025, Episode 33</sub-title>
-  </programme>
-  <programme start="20250211110000 -0500" stop="20250211120000 -0500" channel="Fox News">
-    <title lang="en">The Faulkner Focus</title>
-    <sub-title lang="en">02-11-2025 - Season 5, Episode 30</sub-title>
-  </programme>
-  <programme start="20250211120000 -0500" stop="20250211130000 -0500" channel="Fox News">
-    <title lang="en">Outnumbered</title>
-    <sub-title lang="en">02-11-2025 - Season 2025, Episode 31</sub-title>
-  </programme>
-  <programme start="20250211150000 -0500" stop="20250211160000 -0500" channel="Fox News">
-    <title lang="en">The Story With Martha MacCallum</title>
-    <sub-title lang="en">02-11-2025 - Season 9, Episode 31</sub-title>
-  </programme>
-  <programme start="20250211160000 -0500" stop="20250211170000 -0500" channel="Fox News">
-    <title lang="en">The Will Cain Show</title>
-    <sub-title lang="en">02-11-2025</sub-title>
-  </programme>
-  <programme start="20250211170000 -0500" stop="20250211180000 -0500" channel="Fox News">
-    <title lang="en">The Five</title>
-    <sub-title lang="en">02-11-2025 - Season 2025, Episode 31</sub-title>
-  </programme>
-  <programme start="20250211180000 -0500" stop="20250211190000 -0500" channel="Fox News">
-    <title lang="en">Special Report With Bret Baier</title>
-    <sub-title lang="en">02-11-2025 - Season 2025, Episode 31</sub-title>
-  </programme>
-  <programme start="20250211190000 -0500" stop="20250211200000 -0500" channel="Fox News">
-    <title lang="en">The Ingraham Angle</title>
-    <sub-title lang="en">02-11-2025 - Season 2025, Episode 30</sub-title>
-  </programme>
-  <programme start="20250211200000 -0500" stop="20250211210000 -0500" channel="Fox News">
-    <title lang="en">Jesse Watters Primetime</title>
-    <sub-title lang="en">02-11-2025 - Season 2025, Episode 30</sub-title>
-  </programme>
-  <programme start="20250211210000 -0500" stop="20250211220000 -0500" channel="Fox News">
-    <title lang="en">Hannity</title>
-    <sub-title lang="en">02-11-2025 - Season 2025, Episode 31</sub-title>
   </programme>
   <programme start="20250212000000 -0500" stop="20250212010000 -0500" channel="Fox News">
     <title lang="en">The Five</title>
@@ -10458,7 +9903,7 @@
   </programme>
   <programme start="20250212160000 +0000" stop="20250212175000 +0000" channel="Sky Cinema Greats">
     <title lang="en">King Ralph</title>
-    <desc lang="en">A slobbish Las Vegas lounge singer succeeds the British throne when a freak accident wipes out the entire royal family. A loyal aristocrat desperately tries to stop "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"the loud-mouthed American unwittingly bringing the monarchy into disrepute, while a scheming lord plots to make his reign a short one. Comedy, starring John Goodman, Peter O'Toole, John Hurt and Richard Griffiths.(n)</desc>
+    <desc lang="en">A slobbish Las Vegas lounge singer succeeds the British throne when a freak accident wipes out the entire royal family. A loyal aristocrat desperately tries to stop the loud-mouthed American unwittingly bringing the monarchy into disr"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"epute, while a scheming lord plots to make his reign a short one. Comedy, starring John Goodman, Peter O'Toole, John Hurt and Richard Griffiths.(n)</desc>
   </programme>
   <programme start="20250212175000 +0000" stop="20250212200000 +0000" channel="Sky Cinema Greats">
     <title lang="en">Alfie</title>
@@ -10770,7 +10215,7 @@
   </programme>
   <programme start="20250212153000 +0000" stop="20250212173500 +0000" channel="Sky Cinema Drama">
     <title lang="en">Jarhead</title>
-    <desc lang="en">A fresh-faced Marine's boot-camp training turns into a real tour of duty when he is sent to fight in the Gulf War in 1991. However, the desert action is not what the new recruit expected - the willing soldiers are forced to wait for "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"hours in searing heat, while their day is punctuated by moments of terror. Drama, based on the autobiography by veteran Anthony Swofford, starring Jake Gyllenhaal, Jamie Foxx, Peter Sarsgaard and Chris Cooper.(n)</desc>
+    <desc lang="en">A fresh-faced Marine's boot-camp training turns into a real tour of duty when he is sent to fight in the Gulf War in 1991. However, the desert action is not what the new recruit expected - the willing soldiers are forced to wait for hours in searing heat, while their"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1," day is punctuated by moments of terror. Drama, based on the autobiography by veteran Anthony Swofford, starring Jake Gyllenhaal, Jamie Foxx, Peter Sarsgaard and Chris Cooper.(n)</desc>
   </programme>
   <programme start="20250212173500 +0000" stop="20250212200000 +0000" channel="Sky Cinema Drama">
     <title lang="en">A Star Is Born</title>
@@ -12146,7 +11591,7 @@
   </programme>
   <programme start="20250215213000 +0000" stop="20250215220000 +0000" channel="ABC News Live">
     <title lang="en">Immigration Crackdown</title>
-    <desc lang="en">ABC News Live Special Programming.(c)</desc>
+    <desc lang="en">ABC News Live Special Programming.</desc>
   </programme>
   <programme start="20250215220000 +0000" stop="20250215223000 +0000" channel="ABC News Live">
     <title lang="en">ABC News Live Weekend: Saturday</title>
