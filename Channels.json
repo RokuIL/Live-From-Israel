@@ -61,7 +61,7 @@
             "TitleEng": "Reshet 13",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg",
             "EPGProvider": "Reshet",
-            "EPGBackupProvider": "WPG",
+            "EPGBackupProvider": "WGP",
             "EPGBackupStationId": "Reshet%2013",       
             "StreamFormat": "hls",
             "Headers": [
@@ -79,7 +79,7 @@
             "Title": "חדשות איי 24",
             "TitleEng": "i24 news",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/i24news.jpg",
-            "EPGProvider": "WPG",
+            "EPGProvider": "WGP",
             "EPGStationId": "i24",            
             "EPGBackupProvider": "i24",
             "StreamFormat": "hls",
