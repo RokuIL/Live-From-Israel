@@ -79,7 +79,9 @@
             "Title": "חדשות איי 24",
             "TitleEng": "i24 news",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/i24news.jpg",
-            "EPGProvider": "i24",
+            "EPGProvider": "WPG",
+            "EPGStationId": "i24",            
+            "EPGBackupProvider": "i24",
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://bcovlive-a.akamaihd.net/54b8e6b753e3409c91856201d1f08731/eu-central-1/5377161796001/playlist.m3u8"
