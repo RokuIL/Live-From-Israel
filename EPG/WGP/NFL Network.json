@@ -1,55 +1,5 @@
 [
     {
-        "start":  "2025-02-17T05:00:00.0000000",
-        "title":  "NFL Football",
-        "end":  "2025-02-17T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-17T08:00:00.0000000",
-        "title":  "NFL Playoff",
-        "end":  "2025-02-17T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-17T12:00:00.0000000",
-        "title":  "NFL Playoff: Baltimore Ravens at Buffalo Bills",
-        "end":  "2025-02-17T15:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-17T15:00:00.0000000",
-        "title":  "Thursday Night Football: Tampa Bay Buccaneers at Atlanta Falcons",
-        "end":  "2025-02-17T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-17T18:00:00.0000000",
-        "title":  "NFL Football: Green Bay Packers at Minnesota Vikings",
-        "end":  "2025-02-17T21:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-17T21:00:00.0000000",
-        "title":  "NFL Football: Denver Broncos at Cincinnati Bengals",
-        "end":  "2025-02-18T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-18T00:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-02-18T01:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-18T01:00:00.0000000",
-        "title":  "NFL 360",
-        "end":  "2025-02-18T02:30:00.0000000"
-    },
-    {
-        "start":  "2025-02-18T02:30:00.0000000",
-        "title":  "NFL 360: Fritz Pollard - A Forgotten Man - Season 4, Episode 1",
-        "end":  "2025-02-18T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-18T04:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-02-18T05:00:00.0000000"
-    },
-    {
         "start":  "2025-02-18T05:00:00.0000000",
         "title":  "NFL Playoff: Baltimore Ravens at Buffalo Bills",
         "end":  "2025-02-18T08:00:00.0000000"
@@ -71,7 +21,7 @@
     },
     {
         "start":  "2025-02-18T15:00:00.0000000",
-        "title":  "NFL Football",
+        "title":  "NFL Football: Denver Broncos at Cincinnati Bengals",
         "end":  "2025-02-18T18:00:00.0000000"
     },
     {
@@ -278,5 +228,50 @@
         "start":  "2025-02-22T03:00:00.0000000",
         "title":  "NFL 360",
         "end":  "2025-02-22T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-22T04:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-02-22T05:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-22T05:00:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2025-02-22T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-22T08:00:00.0000000",
+        "title":  "NFL Playoff",
+        "end":  "2025-02-22T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-22T11:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-02-22T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-22T12:00:00.0000000",
+        "title":  "Super Bowl LIX: Kansas City Chiefs vs. Philadelphia Eagles",
+        "end":  "2025-02-22T13:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-22T14:00:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2025-02-22T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-22T17:00:00.0000000",
+        "title":  "NFL Playoff: Baltimore Ravens at Buffalo Bills",
+        "end":  "2025-02-22T20:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-22T21:00:00.0000000",
+        "title":  "HBCU Legacy Bowl",
+        "end":  "2025-02-23T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-23T00:30:00.0000000",
+        "title":  "NFL Playoff: Washington Commanders at Tampa Bay Buccaneers",
+        "end":  "2025-02-23T03:00:00.0000000"
     }
 ]
