@@ -1,75 +1,5 @@
 [
     {
-        "start":  "2025-02-18T05:00:00.0000000",
-        "title":  "The Five",
-        "end":  "2025-02-18T06:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-18T06:00:00.0000000",
-        "title":  "Jesse Watters Primetime",
-        "end":  "2025-02-18T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-18T07:00:00.0000000",
-        "title":  "Hannity",
-        "end":  "2025-02-18T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-18T09:00:00.0000000",
-        "title":  "The Ingraham Angle",
-        "end":  "2025-02-18T10:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-18T10:00:00.0000000",
-        "title":  "Fox and Friends First",
-        "end":  "2025-02-18T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-18T16:00:00.0000000",
-        "title":  "The Faulkner Focus",
-        "end":  "2025-02-18T17:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-18T17:00:00.0000000",
-        "title":  "Outnumbered",
-        "end":  "2025-02-18T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-18T20:00:00.0000000",
-        "title":  "The Story With Martha MacCallum",
-        "end":  "2025-02-18T21:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-18T21:00:00.0000000",
-        "title":  "The Will Cain Show",
-        "end":  "2025-02-18T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-18T22:00:00.0000000",
-        "title":  "The Five",
-        "end":  "2025-02-18T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-18T23:00:00.0000000",
-        "title":  "Special Report With Bret Baier",
-        "end":  "2025-02-19T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-19T00:00:00.0000000",
-        "title":  "The Ingraham Angle",
-        "end":  "2025-02-19T01:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-19T01:00:00.0000000",
-        "title":  "Jesse Watters Primetime",
-        "end":  "2025-02-19T02:00:00.0000000"
-    },
-    {
-        "start":  "2025-02-19T02:00:00.0000000",
-        "title":  "Hannity",
-        "end":  "2025-02-19T03:00:00.0000000"
-    },
-    {
         "start":  "2025-02-19T05:00:00.0000000",
         "title":  "The Five",
         "end":  "2025-02-19T06:00:00.0000000"
@@ -343,5 +273,65 @@
         "start":  "2025-02-23T03:00:00.0000000",
         "title":  "FOX News Saturday Night with Jimmy Failla",
         "end":  "2025-02-23T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-23T06:00:00.0000000",
+        "title":  "One Nation with Brian Kilmeade",
+        "end":  "2025-02-23T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-23T07:00:00.0000000",
+        "title":  "FOX News Saturday Night with Jimmy Failla",
+        "end":  "2025-02-23T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-23T09:00:00.0000000",
+        "title":  "One Nation with Brian Kilmeade",
+        "end":  "2025-02-23T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-23T10:00:00.0000000",
+        "title":  "FOX News Saturday Night with Jimmy Failla",
+        "end":  "2025-02-23T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-23T15:00:00.0000000",
+        "title":  "Sunday Morning Futures With Maria Bartiromo",
+        "end":  "2025-02-23T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-23T16:00:00.0000000",
+        "title":  "MediaBuzz",
+        "end":  "2025-02-23T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-23T17:00:00.0000000",
+        "title":  "Fox News Live",
+        "end":  "2025-02-23T18:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-23T18:00:00.0000000",
+        "title":  "Fox News Live",
+        "end":  "2025-02-23T19:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-23T19:00:00.0000000",
+        "title":  "Fox News Sunday",
+        "end":  "2025-02-23T20:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-23T20:00:00.0000000",
+        "title":  "FOX Report With Jon Scott",
+        "end":  "2025-02-23T22:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-23T23:00:00.0000000",
+        "title":  "The Big Weekend Show",
+        "end":  "2025-02-24T01:00:00.0000000"
+    },
+    {
+        "start":  "2025-02-24T02:00:00.0000000",
+        "title":  "Sunday Night in America with Trey Gowdy",
+        "end":  "2025-02-24T03:00:00.0000000"
     }
 ]
