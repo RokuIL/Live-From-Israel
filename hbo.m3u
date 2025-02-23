@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png", HBO
+https://ddh2new.iosplayer.ru/ddh2/premium321/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+# https://epg.pw/api/epg.xml?channel_id=403926
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png", HBO 2
+https://ddh2new.iosplayer.ru/ddh2/premium689/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+# https://epg.pw/api/epg.xml?channel_id=403522
+
+#EXTINF:-1 tvg-id="HBO Comedy" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png", HBO Comedy
+https://windnew.iosplayer.ru/wind/premium690/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+# https://epg.pw/api/epg.xml?channel_id=403650
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png", HBO Family
+https://windnew.iosplayer.ru/wind/premium691/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+# https://epg.pw/api/epg.xml?channel_id=403783
+
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png", HBO Signature
+https://windnew.iosplayer.ru/wind/premium693/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+# https://epg.pw/api/epg.xml?channel_id=403477
+
+#EXTINF:-1 tvg-id="HBO Zone" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png", HBO Zone
+https://windnew.iosplayer.ru/wind/premium694/mono.m3u8|referer=https://newembedplay.xyz/&origin=https://newembedplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+# https://epg.pw/api/epg.xml?channel_id=403823
