@@ -142,6 +142,14 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">Sky Sports NFL</display-name>
     <icon src="" />
   </channel>
+  <channel id="9315">
+    <display-name lang="United Kingdom of Great Britain and Northern Ireland">Sky Cinema Select</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="9343">
+    <display-name lang="United Kingdom of Great Britain and Northern Ireland">Sky Cinema Hits HD</display-name>
+    <icon src="" />
+  </channel>
   <channel id="403926">
     <display-name lang="US">HBO - Eastern Feed</display-name>
     <icon src="" />
@@ -738,10 +746,6 @@
     <title lang="he">קארפול קריוקי - התקווה 6</title>
     <desc lang="he">הלהקה הכי ישראלי-לי-לית עולה לאוטו של שחר: האם האחים עמרי ושלי רבים בצרפתית? מי ינצח בתחרות הכריך הכי מפנק? מה עידן עמדי חשב על השיר ''גיבורי על''? והאם החברים יזכו בתואר ''הלהקה הכי סאחית בישראל''? כ' עב ש.ח.</desc>
   </programme>
-  <programme start="20250224050800 +0000" stop="20250224073000 +0000" channel="Keshet 12">
-    <title lang="he">חדשות הבוקר עם ניב רסקין</title>
-    <desc lang="he">מהדורת החדשות המרכזית של הבוקר עם ניב רסקין - האנשים, הפרשנויות והכותרות שיעשו את היום, דיווחים מהשטח, ראיונות בלעדיים ואורחים באולפן. כ' סמ'. שידור חי.(n)</desc>
-  </programme>
   <programme start="20250224073000 +0000" stop="20250224073500 +0000" channel="Keshet 12">
     <title lang="he">מבזק חדשות</title>
     <desc lang="he">עדכוני חדשות ודיווחי אקטואליה שוטפים בזמן אמת מהארץ ומהעולם, כל מה שעומד על סדר היום הציבורי בתחומי ביטחון, פוליטיקה, כלכלה ועוד. כ' סמ'. שידור חי.(n)</desc>
@@ -1253,10 +1257,6 @@
   <programme start="20250228212000 +0000" stop="20250228233500 +0000" channel="Keshet 12">
     <title lang="he">חתונה ממבט ראשון</title>
     <desc lang="he">תכנית שמספקת הצצה נדירה לזוגות אמיצים, שהסכימו לפגוש את החצי השני שלהם לראשונה - מתחת לחופה ולעבור מסע משותף. האם הזוגות, שהותאמו על ידי צוות מומחים, יצליחו לפתח זוגיות ואהבה אמיתית? כ' עב'. ת.פ. ש.ח.</desc>
-  </programme>
-  <programme start="20250224050000 +0000" stop="20250224073000 +0000" channel="Reshet 13">
-    <title lang="he">העולם הבוקר - עומר ירדני</title>
-    <desc lang="he">עומר ירדני בתכנית הבוקר החדשה של ישראל עם כל החדשות, הפרשנים, הכותרות הכי חמות, הסיפורים שיעשו לכם את היום ועדכונים שחייבים לדעת לפני שיוצאים מהבית. כ' סמ' שידור חי.(n)</desc>
   </programme>
   <programme start="20250224073000 +0000" stop="20250224073500 +0000" channel="Reshet 13">
     <title lang="he">מבזק חדשות</title>
@@ -1841,10 +1841,6 @@
   <programme start="20250228202500 +0000" stop="20250228221500 +0000" channel="Reshet 13">
     <title lang="he">שישי ישראלי - עם סיגל שחמון ועדי שילון</title>
     <desc lang="he">בשעות הכי קסומות של כניסת שבת, נארח סביב שולחן השישי אורחים מתחלפים וקבועים. יחד נסכם את השבוע עם סיפורים מעוררי השראה ומעשים טובים. כ' סמ', ת.פ.</desc>
-  </programme>
-  <programme start="20250224070000 +0000" stop="20250224073000 +0000" channel="i24">
-    <title lang="he">חדר החדשות</title>
-    <desc lang="he">עדכונים חיים מכל הזירות עם נבחרת הכתבים והפרשנים של i24news כ' עב'. שידור חי.(n)</desc>
   </programme>
   <programme start="20250224073000 +0000" stop="20250224080000 +0000" channel="i24">
     <title lang="he">חדר החדשות</title>
@@ -2605,10 +2601,6 @@
   <programme start="20250228213800 +0000" stop="20250228232800 +0000" channel="Yes Movies Action">
     <title lang="he">חמישה לילות אצל פרדי</title>
     <desc lang="he">אימה מהיוצרים של 'מייגן'. בחור צעיר מוצא עבודה חדשה כמאבטח בפיצרייה הנמצאת בתוך מרכז מסחרי ישן ונטוש. העבודה, הנראית קלה לכאורה, מתבררת במהרה כמאתגרת במיוחד, כשבובות ענק קמות לחיים, אך בצורה מחרידה. עם: ג'וש האצ'רסון. 2023.</desc>
-  </programme>
-  <programme start="20250224063300 +0000" stop="20250224071800 +0000" channel="Yes TV Action">
-    <title lang="he">חוק וסדר: פשע מאורגן 4 - פרק סיום עונה</title>
-    <desc lang="he">פרק 13 - פרק סיום העונה. ג'ו מודיע לאליוט שהמשלוח של אמרי עומד להגיע, והצוות מנסה לגלות לאן יגיע ובאיזו אונייה בלי לחשוף את ג'ו. ברני מגלה את הסוד של איליי. מתברר שזה לא סודו היחיד.(n)</desc>
   </programme>
   <programme start="20250224071800 +0000" stop="20250224080300 +0000" channel="Yes TV Action">
     <title lang="he">חוק וסדר כוונה פלילית: טורונטו - פרק 1</title>
@@ -4873,10 +4865,6 @@
   <programme start="20250228214500 +0000" stop="20250228225000 +0000" channel="Sport 5">
     <title lang="he">יש מצב בשישי</title>
     <desc lang="he">שידור חוזר: כדורגל. רז זהבי ונדב צנציפר לקראת מחזור ליגת העל הקרוב.</desc>
-  </programme>
-  <programme start="20250224065000 +0000" stop="20250224073500 +0000" channel="Sport 5 Plus">
-    <title lang="he">יציע העיתונות</title>
-    <desc lang="he">שידור חוזר: סיכום אירועי היום בספורט הישראלי והעולמי.(n)</desc>
   </programme>
   <programme start="20250224073500 +0000" stop="20250224075000 +0000" channel="Sport 5 Plus">
     <title lang="he">ATP 500, גמר טורניר ריו: מולר - באאז</title>
@@ -8291,15 +8279,15 @@
   </programme>
   <programme start="20250224103500 +0000" stop="20250224123500 +0000" channel="Sky Cinema Greats">
     <title lang="en">Singin' in the Rain</title>
-    <desc lang="en">A silent-movie star tries to win the heart of an asp"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"iring actress as the introduction of sound changes the film business for ever. However, his frequent on-screen love interest does not take kindly to this real-life romance. Musical comedy, starring Gene Kelly, Debbie Reynolds, Donald O'Connor, Jean Hagen and Millard Mitchell. Songs include Make 'em Laugh, You Are My Lucky Star and the title number.(n)</desc>
+    <desc lang="en">A silent-movie star tries to win the heart of an aspiring actress"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1," as the introduction of sound changes the film business for ever. However, his frequent on-screen love interest does not take kindly to this real-life romance. Musical comedy, starring Gene Kelly, Debbie Reynolds, Donald O'Connor, Jean Hagen and Millard Mitchell. Songs include Make 'em Laugh, You Are My Lucky Star and the title number.(n)</desc>
   </programme>
   <programme start="20250224123500 +0000" stop="20250224142000 +0000" channel="Sky Cinema Greats">
     <title lang="en">Airplane!</title>
-    <desc lang="en">The passengers on board an ill-fated airliner become increasingly jitt"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"ery when the flight crew flounder during a food-poisoning crisis. As ground control personnel struggle heroically to ensure the plane lands safely, a traumatised war veteran must face his fear to take the controls. Disaster movie spoof inspired by the films Zero Hour! and Airport 1975, starring Robert Hays, Leslie Nielsen, Robert Stack and Lloyd Bridges.(n)</desc>
+    <desc lang="en">The passengers on board an ill-fated airliner become increasingly jittery when the "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"flight crew flounder during a food-poisoning crisis. As ground control personnel struggle heroically to ensure the plane lands safely, a traumatised war veteran must face his fear to take the controls. Disaster movie spoof inspired by the films Zero Hour! and Airport 1975, starring Robert Hays, Leslie Nielsen, Robert Stack and Lloyd Bridges.(n)</desc>
   </programme>
   <programme start="20250224142000 +0000" stop="20250224160000 +0000" channel="Sky Cinema Greats">
     <title lang="en">Airplane II: The Sequel</title>
-    <desc lang="en">Hapless hero Ted Striker tries to prevent the launch of a passenger space shuttle, certain it will end in disaster. Sadly, his prediction comes true when a computer malfunction sends the spacecraft hurtling toward the sun, while a man driven mad by sexual inadequacy smuggles a bomb on board. Disaster movie spoof sequel, starring Robert Hays, Julie Hagerty, Lloyd Bridges, William Shatner, Sonny Bono and Chad Everett.(n)</desc>
+    <desc lang="en">Disaster movie spoof, with Robert Hays).(n)</desc>
   </programme>
   <programme start="20250224160000 +0000" stop="20250224180000 +0000" channel="Sky Cinema Greats">
     <title lang="en">Howard the Duck</title>
@@ -8311,7 +8299,7 @@
   </programme>
   <programme start="20250224200000 +0000" stop="20250224220000 +0000" channel="Sky Cinema Greats">
     <title lang="en">Gremlins 2: The New Batch</title>
-    <desc lang="en">Cute furball Gizmo is reunited with his human frien"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"ds Billy and Kate, who now work in the New York offices of an eccentric tycoon. However, it is not long before Gizmo has spawned a new generation of murderous carnivores, who quickly overrun the building - and a genetics lab where they produce even more startling mutations. Joe Dante's comedy sequel, starring Zach Galligan, Phoebe Cates, John Glover and Christopher Lee.(n)</desc>
+    <desc lang="en">Cute furball Gizmo is reunited with his human friends Billy and "])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,"Kate, who now work in the New York offices of an eccentric tycoon. However, it is not long before Gizmo has spawned a new generation of murderous carnivores, who quickly overrun the building - and a genetics lab where they produce even more startling mutations. Joe Dante's comedy sequel, starring Zach Galligan, Phoebe Cates, John Glover and Christopher Lee.(n)</desc>
   </programme>
   <programme start="20250224220000 +0000" stop="20250224235500 +0000" channel="Sky Cinema Greats">
     <title lang="en">Howard the Duck</title>
@@ -10053,6 +10041,231 @@
     <title lang="zh">NBC's Pro-Football Talk</title>
     <desc>Mike Florio and Chris Simms present this NFL talk show, as they discuss and debate the biggest stories from around the league.</desc>
     <date>2025-02-26</date>
+  </programme>
+  <programme channel="9315" start="20250224005500 +0000" stop="20250224031000 +0000">
+    <title lang="zh">Chinatown</title>
+    <desc>Jack Nicholson stars as a private detective whose nose for trouble draws him into the sick heart of LA. Strong language/violence/flashing images.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9315" start="20250224031000 +0000" stop="20250224051000 +0000">
+    <title lang="zh">Being John Malkovich</title>
+    <desc>Spike Jonze's offbeat comedy stars John Cusack as a puppeteer who discovers a portal into the mind of actor John Malkovich. With Cameron Diaz. Strong language/sex.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9315" start="20250224051000 +0000" stop="20250224060000 +0000">
+    <title lang="zh">Sky Cinema Preview</title>
+    <desc>Previews of the great films now playing on Sky Cinema plus other highlights showing on Sky.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9315" start="20250224060000 +0000" stop="20250224085000 +0000">
+    <title lang="zh">Out Of Africa</title>
+    <desc>Plantation owner Meryl Streep falls head over heels for Robert Redford's big game hunter, in this heart-wrenching epic set in early 20th Century Kenya.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9315" start="20250224085000 +0000" stop="20250224105000 +0000">
+    <title lang="zh">Being John Malkovich</title>
+    <desc>Spike Jonze's offbeat comedy stars John Cusack as a puppeteer who discovers a portal into the mind of actor John Malkovich. With Cameron Diaz. Strong language/sex.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9315" start="20250224105000 +0000" stop="20250224133500 +0000">
+    <title lang="zh">Mission: Impossible - Dead Reckoning</title>
+    <desc>Ethan Hunt and the team must track down a terrifying new weapon that threatens all of humanity. Action-packed sequel with Tom Cruise.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9315" start="20250224133500 +0000" stop="20250224155000 +0000">
+    <title lang="zh">Spider-Man 2</title>
+    <desc>Tobey Maguire returns as the Webbed Wonder, battling evil in New York with Kirsten Dunst at his side. Action-packed superhero sequel.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9315" start="20250224155000 +0000" stop="20250224180000 +0000">
+    <title lang="zh">Shakespeare In Love</title>
+    <desc>Gwyneth Paltrow and Joseph Fiennes star in the Oscar-winning romcom about the Bard and the woman with whom he falls in love. With Judi Dench. Contains sexual scenes.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9315" start="20250224180000 +0000" stop="20250224200000 +0000">
+    <title lang="zh">Shirley Valentine</title>
+    <desc>Liverpool housewife Pauline Collins finds love in the sun when she falls for Greek waiter Tom Conti. Crowd-pleasing romantic comedy. Strong language/sexual references.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9315" start="20250224200000 +0000" stop="20250224220000 +0000">
+    <title lang="zh">Mamma Mia!</title>
+    <desc>Meryl Streep belts out the ABBA tunes in this adaptation of the musical, which sees a bride-to-be try to learn the identity of her dad. Strong language.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9315" start="20250224220000 +0000" stop="20250225000000 +0000">
+    <title lang="zh">Shakespeare In Love</title>
+    <desc>Gwyneth Paltrow and Joseph Fiennes star in the Oscar-winning romcom about the Bard and the woman with whom he falls in love. With Judi Dench. Contains sexual scenes.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9315" start="20250225001000 +0000" stop="20250225025500 +0000">
+    <title lang="zh">Out Of Africa</title>
+    <desc>Plantation owner Meryl Streep falls head over heels for Robert Redford's big game hunter, in this heart-wrenching epic set in early 20th Century Kenya.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="9315" start="20250225025500 +0000" stop="20250225050000 +0000">
+    <title lang="zh">Frost/Nixon</title>
+    <desc>TV presenter David Frost (Michael Sheen) tries to prise a confession out of disgraced ex-president Richard Nixon (Frank Langella). Drama. Strong language/flashing images.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="9315" start="20250225050000 +0000" stop="20250225060000 +0000">
+    <title lang="zh">Sky Cinema Preview</title>
+    <desc>Previews of the great films now playing on Sky Cinema plus other highlights showing on Sky.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="9315" start="20250225060000 +0000" stop="20250225080000 +0000">
+    <title lang="zh">Sunset Boulevard</title>
+    <desc>Gloria Swanson is the forgotten silent movie star who hires bankrupt screenwriter William Holden to pen her comeback script. Oscar-winning drama directed by Billy Wilder.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="9315" start="20250225080000 +0000" stop="20250225095000 +0000">
+    <title lang="zh">To Catch A Thief</title>
+    <desc>Alfred Hitchcock caper set on the French Riviera starring Cary Grant as the retired thief in pursuit of a copycat burglar. Grace Kelly co-stars. Contains flashing images.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="9315" start="20250225095000 +0000" stop="20250225120000 +0000">
+    <title lang="zh">Frost/Nixon</title>
+    <desc>TV presenter David Frost (Michael Sheen) tries to prise a confession out of disgraced ex-president Richard Nixon (Frank Langella). Drama. Strong language/flashing images.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="9315" start="20250225120000 +0000" stop="20250225140000 +0000">
+    <title lang="zh">Shirley Valentine</title>
+    <desc>Liverpool housewife Pauline Collins finds love in the sun when she falls for Greek waiter Tom Conti. Crowd-pleasing romantic comedy. Strong language/sexual references.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="9315" start="20250225140000 +0000" stop="20250225160000 +0000">
+    <title lang="zh">Mamma Mia!</title>
+    <desc>Meryl Streep belts out the ABBA tunes in this adaptation of the musical, which sees a bride-to-be try to learn the identity of her dad. Strong language.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="9315" start="20250225160000 +0000" stop="20250225175000 +0000">
+    <title lang="zh">Love Story</title>
+    <desc>Oscar-winner with Ryan O'Neal and Ali MacGraw as the young lovers who defy his parents to stay together, only to face tragedy. Heartrending drama. Strong language.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="9315" start="20250225175000 +0000" stop="20250225200000 +0000">
+    <title lang="zh">The Theory Of Everything</title>
+    <desc>Eddie Redmayne gives an Oscar-winning performance in this moving drama about physicist Stephen Hawking and his relationship with his wife.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="9315" start="20250225200000 +0000" stop="20250225222000 +0000">
+    <title lang="zh">Love Actually</title>
+    <desc>Richard Curtis's romantic comedy following the intertwining lives of a group of loved-up Londoners. Hugh Grant, Colin Firth and Liam Neeson star.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="9315" start="20250225222000 +0000" stop="20250226000000 +0000">
+    <title lang="zh">Alfie</title>
+    <desc>Jude Law stars in this polished update of the Michael Caine classic. He's the NYC limo driver who smooth-talks Susan Sarandon, Marisa Tomei and Sienna Miller into bed.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="9343" start="20250224020000 +0000" stop="20250224035000 +0000">
+    <title lang="zh">Dunkirk</title>
+    <desc>Second World War drama starring Tom Hardy, Mark Rylance and Kenneth Branagh. During the 1940 British evacuation at Dunkirk, three individuals each fight to survive. As young soldier Tommy waits to escape the wartorn beach, a civilian sailor from Weymouth aids in the rescue efforts, while a Spitfire pilot provides air support and gains a singular perspective on the chaos taking place below.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9343" start="20250224035000 +0000" stop="20250224065000 +0000">
+    <title lang="zh">Oppenheimer</title>
+    <desc>Biographical drama starring Cillian Murphy and Emily Blunt. During the Second World War, American physicist J Robert Oppenheimer and fellow scientists race against time to develop an atomic bomb before the Nazis. But, during the 1950s Red Scare, his name is dragged through the mud by US officials.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9343" start="20250224065000 +0000" stop="20250224082000 +0000">
+    <title lang="zh">Out of Darkness</title>
+    <desc>In the Stone Age, a gang of early humans face a mystical being hellbent on hunting them down. Prehistoric horror, starring Iola Evans and Arno LÃ¼ning. The dialogue is in a specially contructed language and features subtitles.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9343" start="20250224082000 +0000" stop="20250224104500 +0000">
+    <title lang="zh">The Color Purple</title>
+    <desc>Musical adaptation of Alice Walker's novel, starring Fantasia Barrino and Taraji P Henson. In early 20th-century Georgia, young Celie is forced to marry the tyrannical farmer "Mister". For years, Celie's life is bleak and difficult, but when Mister's mistress, the spirited jazz singer Shug Avery, comes to stay, Celie begins to believe in herself.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9343" start="20250224104500 +0000" stop="20250224123500 +0000">
+    <title lang="zh">American Star</title>
+    <desc>Out to kill a man he has never met, Wilson, a seasoned assassin completing his final assignment in Fuerteventura, is drawn to a ghostly shipwreck. Thriller, starring Ian McShane, Nora Arnezeder and Fanny Ardant.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9343" start="20250224123500 +0000" stop="20250224141500 +0000">
+    <title lang="zh">Out of Darkness</title>
+    <desc>In the Stone Age, a gang of early humans face a mystical being hellbent on hunting them down. Prehistoric horror, starring Iola Evans and Arno LÃ¼ning. The dialogue is in a specially contructed language and features subtitles.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9343" start="20250224141500 +0000" stop="20250224164000 +0000">
+    <title lang="zh">The Color Purple</title>
+    <desc>Musical adaptation of Alice Walker's novel, starring Fantasia Barrino and Taraji P Henson. In early 20th-century Georgia, young Celie is forced to marry the tyrannical farmer "Mister". For years, Celie's life is bleak and difficult, but when Mister's mistress, the spirited jazz singer Shug Avery, comes to stay, Celie begins to believe in herself.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9343" start="20250224164000 +0000" stop="20250224191000 +0000">
+    <title lang="zh">Bad Boys II</title>
+    <desc>Action comedy thriller starring Martin Lawrence and Will Smith as motormouth Miami cops Burnett and Lowrey, who are assigned to bring down a drugs lord and stop the flow of ecstasy into the city. But the operation and the officers' friendship are compromised by Lowrey's relationship with a female agent - who also happens to be Burnett's sister.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9343" start="20250224191000 +0000" stop="20250224211000 +0000">
+    <title lang="zh">Lee</title>
+    <desc>Biographical drama starring Kate Winslet. As the Second World War rages, American fashion model-turned-photographer Elizabeth "Lee" Miller defies the expectations of the era and travels to mainland Europe as a war correspondent for Vogue. Reporting from the frontline, Miller captures indelible images of the conflict, including the horrors found in the Nazi concentration camps at Buchenwald and Dac</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9343" start="20250224211000 +0000" stop="20250224230000 +0000">
+    <title lang="zh">Dunkirk</title>
+    <desc>Second World War drama starring Tom Hardy, Mark Rylance and Kenneth Branagh. During the 1940 British evacuation at Dunkirk, three individuals each fight to survive. As young soldier Tommy waits to escape the wartorn beach, a civilian sailor from Weymouth aids in the rescue efforts, while a Spitfire pilot provides air support and gains a singular perspective on the chaos taking place below.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9343" start="20250224230000 +0000" stop="20250225000000 +0000">
+    <title lang="zh">Oppenheimer</title>
+    <desc>Biographical drama starring Cillian Murphy and Emily Blunt. During the Second World War, American physicist J Robert Oppenheimer and fellow scientists race against time to develop an atomic bomb before the Nazis. But, during the 1950s Red Scare, his name is dragged through the mud by US officials.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9343" start="20250225020000 +0000" stop="20250225040000 +0000">
+    <title lang="zh">The King's Speech</title>
+    <desc>Oscar-winning historical drama starring Colin Firth, Helena Bonham Carter and Geoffrey Rush. As part of his royal duties, Prince Albert is required to speak at public events, a task made all the more difficult owing to his severe stammer. The death of his father and subsequent abdication of his older brother means that "Bertie" is to be crowned king. Unconventional speech therapist Lionel Logue is</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="9343" start="20250225040000 +0000" stop="20250225060000 +0000">
+    <title lang="zh">Lee</title>
+    <desc>Biographical drama starring Kate Winslet. As the Second World War rages, American fashion model-turned-photographer Elizabeth "Lee" Miller defies the expectations of the era and travels to mainland Europe as a war correspondent for Vogue. Reporting from the frontline, Miller captures indelible images of the conflict, including the horrors found in the Nazi concentration camps at Buchenwald and Dac</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="9343" start="20250225060000 +0000" stop="20250225083500 +0000">
+    <title lang="zh">Bad Boys II</title>
+    <desc>Action comedy thriller starring Martin Lawrence and Will Smith as motormouth Miami cops Burnett and Lowrey, who are assigned to bring down a drugs lord and stop the flow of ecstasy into the city. But the operation and the officers' friendship are compromised by Lowrey's relationship with a female agent - who also happens to be Burnett's sister.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="9343" start="20250225083500 +0000" stop="20250225102500 +0000">
+    <title lang="zh">American Star</title>
+    <desc>Out to kill a man he has never met, Wilson, a seasoned assassin completing his final assignment in Fuerteventura, is drawn to a ghostly shipwreck. Thriller, starring Ian McShane, Nora Arnezeder and Fanny Ardant.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="9343" start="20250225102500 +0000" stop="20250225121000 +0000">
+    <title lang="zh">Arthur's Whisky</title>
+    <desc>When Joan's husband dies, she discovers he'd invented an anti-aging elixir that literally takes the years off. Sharing it with her friends Linda and Susan, the rejuvenated women waste little time in painting the town red, but they soon realise it's a very different world to the one they remember. Co-writer/director Stephen Cookson's comedy, starring Diane Keaton, Hayley Mills, Patricia Hodge, Lulu</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="9343" start="20250225121000 +0000" stop="20250225140000 +0000">
+    <title lang="zh">Zombie Town</title>
+    <desc>When teenagers Amy and Mike uncover an ancient curse after watching a film reel, they must track down a filmmaker and navigate a town of hungry zombies before it's too late to break the evil spell. Comedy horror based on the work of RL Stine, starring Dan Aykroyd, Chevy Chase and Madi Monroe.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="9343" start="20250225140000 +0000" stop="20250225160000 +0000">
+    <title lang="zh">Knights of the Zodiac</title>
+    <desc>When a goddess of war reincarnates into the body of a young girl, a street orphan discovers that he is destined to protect her. Fantasy drama, starring Sean Bean, Mackenyu, Famke Janssen and Madison Iseman.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="9343" start="20250225160000 +0000" stop="20250225182000 +0000">
+    <title lang="zh">Ride On</title>
+    <desc>Lao Luo is a washed-up stuntman with a deformed horse called Red Hare, who he saved from euthanasia. The duo become overnight sensations when a fight with debt collectors goes viral. Writer/director Larry Yang's action drama, starring Jackie Chan, Liu Haocun and Kevin Guo. In Mandarin, with subtitles.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="9343" start="20250225182000 +0000" stop="20250225201000 +0000">
+    <title lang="zh">Arthur's Whisky</title>
+    <desc>When Joan's husband dies, she discovers he'd invented an anti-aging elixir that literally takes the years off. Sharing it with her friends Linda and Susan, the rejuvenated women waste little time in painting the town red, but they soon realise it's a very different world to the one they remember. Co-writer/director Stephen Cookson's comedy, starring Diane Keaton, Hayley Mills, Patricia Hodge, Lulu</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="9343" start="20250225201000 +0000" stop="20250225215500 +0000">
+    <title lang="zh">Breaking</title>
+    <desc>A Marine war veteran faces mental and emotional challenges when he tries to reintegrate into civilian life. Faced with financial ruin, he takes bank workers hostage to get his outstanding payments. Crime thriller, starring John Boyega, Michael K Williams and Selenis Leyva.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="9343" start="20250225215500 +0000" stop="20250226000000 +0000">
+    <title lang="zh">The King's Speech</title>
+    <desc>Oscar-winning historical drama starring Colin Firth, Helena Bonham Carter and Geoffrey Rush. As part of his royal duties, Prince Albert is required to speak at public events, a task made all the more difficult owing to his severe stammer. The death of his father and subsequent abdication of his older brother means that "Bertie" is to be crowned king. Unconventional speech therapist Lionel Logue is</desc>
+    <date>2025-02-25</date>
   </programme>
   <programme channel="403926" start="20250224005000 +0000" stop="20250224020000 +0000">
     <title lang="zh">The White Lotus</title>
