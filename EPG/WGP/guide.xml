@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<tv source-info-name="Merged XMLTV" generator-info-name="PowerShell Script">
   <channel id="Kan 11">
     <display-name lang="he">Kan 11</display-name>
     <icon src="https://www.yes.co.il/media/cmjhsfuq/11_kan.png" />
@@ -144,6 +143,34 @@
     <display-name lang="en">ABC News Live</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99991377/56x56.webp?type=color_onBlack" />
     <url>http://www.xumo.com</url>
+  </channel>
+  <channel id="199136">
+    <display-name lang="United Kingdom of Great Britain and Northern Ireland">Sky Sports NFL</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="403926">
+    <display-name lang="US">HBO - Eastern Feed</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="403522">
+    <display-name lang="US">HBO 2 - Eastern Feed</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="403650">
+    <display-name lang="US">HBO Comedy HD - East</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="403783">
+    <display-name lang="US">HBO Family - Eastern Feed</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="403477">
+    <display-name lang="US">HBO Signature (HBO 3) - Eastern</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="403823">
+    <display-name lang="US">HBO Zone HD - East</display-name>
+    <icon src="" />
   </channel>
   <programme start="20250223060000 +0000" stop="20250223080000 +0000" channel="Kan 11">
     <title lang="he">קלמן ליברמן</title>
@@ -9935,5 +9962,950 @@
   </programme>
   <programme start="20250227210000 +0000" stop="20250228000000 +0000" channel="ABC News Live">
     <title lang="en">ABC News Live Reports</title>
+  </programme>
+  <programme channel="199136" start="20250224000000 +0000" stop="20250224010000 +0000">
+    <title lang="zh">Super Bowl LIX Highlights</title>
+    <desc>Kansas City Chiefs v Philadelphia Eagles. Highlights of the showpiece match, which took place at Caesars Superdome in New Orleans, Louisiana.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224010000 +0000" stop="20250224011500 +0000">
+    <title lang="zh">My Icon: Johnny Nelson (Pt1)</title>
+    <desc>The former world champion boxer discusses the individuals that have inspired him in his life and career. Part 1.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224011500 +0000" stop="20250224013000 +0000">
+    <title lang="zh">My Icon: Johnny Nelson (Pt2)</title>
+    <desc>The former world champion boxer discusses the individuals that have inspired him in his life and career. Part two.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224013000 +0000" stop="20250224020000 +0000">
+    <title lang="zh">The Gloves Are Off</title>
+    <desc>British rivals Natasha Jonas and Lauren Price discuss the upcoming world-title unification bout at Royal Albert Hall on Friday 7 March.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224020000 +0000" stop="20250224030000 +0000">
+    <title lang="zh">Women's State of Origin</title>
+    <desc>Queensland v New South Wales. Highlights of game one of the series from Suncorp Stadium in Brisbane.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224030000 +0000" stop="20250224040000 +0000">
+    <title lang="zh">Women's State of Origin</title>
+    <desc>New South Wales Blues v Queensland Maroons. Action from game two of the three-match series from McDonald Jones Stadium, Newcastle.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224040000 +0000" stop="20250224050000 +0000">
+    <title lang="zh">Women's State of Origin</title>
+    <desc>Queensland Maroons v New South Wales Blues. Action from game three of the three-match series from 2024 at Queensland Country Bank Stadium in Townsville.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224050000 +0000" stop="20250224060000 +0000">
+    <title lang="zh">NFL Highlights</title>
+    <desc>Indianapolis Colts v Detroit Lions.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224060000 +0000" stop="20250224084500 +0000">
+    <title lang="zh">Betfred Super League</title>
+    <desc>Wakefield Trinity v Hull Kingston Rovers. Another chance to see the match from the second round of fixtures at DIY Kitchens Stadium.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224084500 +0000" stop="20250224090000 +0000">
+    <title lang="zh">My Icon: Martin Offiah</title>
+    <desc>The former rugby league superstar discusses the individuals that have inspired him in his life and career.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224090000 +0000" stop="20250224100000 +0000">
+    <title lang="zh">NFL Highlights</title>
+    <desc>Detroit Lions v Green Bay Packers.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224100000 +0000" stop="20250224101500 +0000">
+    <title lang="zh">NFL Bitesize Highlights</title>
+    <desc>Jacksonville Jaguars v Baltimore Ravens from the 2023/24 season.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224101500 +0000" stop="20250224103000 +0000">
+    <title lang="zh">NFL Bitesize Highlights</title>
+    <desc>Seattle Seahawks v Philadelphia Eagles from the 2023/24 season.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224103000 +0000" stop="20250224104500 +0000">
+    <title lang="zh">NFL Bitesize Highlights</title>
+    <desc>Kansas City Chiefs v Buffalo Bills from the 2023/24 season.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224104500 +0000" stop="20250224110000 +0000">
+    <title lang="zh">NFL Bitesize Highlights</title>
+    <desc>Dallas Cowboys v Philadelphia Eagles from the 2023/24 season.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224110000 +0000" stop="20250224120000 +0000">
+    <title lang="zh">NFL Highlights</title>
+    <desc>Washington Commanders v Chicago Bears.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224120000 +0000" stop="20250224130000 +0000">
+    <title lang="zh">Fight Night</title>
+    <desc>Natasha Jonas v Ivana Habazin. Action from the December 2024 IBF and WBC World Welterweight title bout at Exhibition Centre Liverpool.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224130000 +0000" stop="20250224140000 +0000">
+    <title lang="zh">Fight Night International</title>
+    <desc>Junto Nakatani v Petch Sor Chitpattana. Action from the October 2024 bout for the WBC Bantamweight title at Ariake Arena in Tokyo.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224140000 +0000" stop="20250224183000 +0000">
+    <title lang="zh">Live Fight Night International</title>
+    <desc>Junto Nakatani v David Cuellar Contreras. Coverage of the WBC World Bantamweight title bout at Ariake Arena in Tokyo.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224183000 +0000" stop="20250224190000 +0000">
+    <title lang="zh">The Gloves Are Off</title>
+    <desc>British rivals Natasha Jonas and Lauren Price discuss the upcoming world-title unification bout at Royal Albert Hall on Friday 7 March.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224190000 +0000" stop="20250224210000 +0000">
+    <title lang="zh">Good Morning Football</title>
+    <desc>The latest NFL news and talking points.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224210000 +0000" stop="20250224220000 +0000">
+    <title lang="zh">Fight Night</title>
+    <desc>Natasha Jonas v Ivana Habazin. Action from the December 2024 IBF and WBC World Welterweight title bout at Exhibition Centre Liverpool.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224220000 +0000" stop="20250224221500 +0000">
+    <title lang="zh">Betfred Super League Highlights</title>
+    <desc>Hull FC v London Broncos from 2024.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224221500 +0000" stop="20250224223000 +0000">
+    <title lang="zh">Betfred Super League Highlights</title>
+    <desc>Wigan Warriors v St Helens from 2024.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224223000 +0000" stop="20250224224500 +0000">
+    <title lang="zh">Betfred Super League Highlights</title>
+    <desc>Warrington Wolves v Leeds Rhinos from 2024.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224224500 +0000" stop="20250224230000 +0000">
+    <title lang="zh">Betfred Super League Highlights</title>
+    <desc>Leigh Leopards v Salford Red Devils in 2024.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250224230000 +0000" stop="20250225000000 +0000">
+    <title lang="zh">Super Bowl LIX Highlights</title>
+    <desc>Kansas City Chiefs v Philadelphia Eagles. Highlights of the showpiece match, which took place at Caesars Superdome in New Orleans, Louisiana.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="199136" start="20250225000000 +0000" stop="20250225020000 +0000">
+    <title lang="zh">NBC's Pro-Football Talk</title>
+    <desc>Mike Florio and Chris Simms present this NFL talk show, as they discuss and debate the biggest stories from around the league.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225020000 +0000" stop="20250225030000 +0000">
+    <title lang="zh">NRLW</title>
+    <desc>Sydney Roosters v Cronulla-Sutherland Sharks in the 2024 Grand Final.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225030000 +0000" stop="20250225041500 +0000">
+    <title lang="zh">Top Rank Boxing Archive</title>
+    <desc>Juan Manuel Marquez v Manny Pacquiao from 2004.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225041500 +0000" stop="20250225050000 +0000">
+    <title lang="zh">Top Rank Boxing Archive</title>
+    <desc>Floyd Mayweather v Phillip Ndou from 2003.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225050000 +0000" stop="20250225060000 +0000">
+    <title lang="zh">NFL Highlights</title>
+    <desc>Houston Texans v Detroit Lions.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225060000 +0000" stop="20250225070000 +0000">
+    <title lang="zh">NFL Highlights</title>
+    <desc>Baltimore Ravens v Philadelphia Eagles.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225070000 +0000" stop="20250225080000 +0000">
+    <title lang="zh">Fight Night International</title>
+    <desc>Junto Nakatani v David Cuellar Contreras. Action from the WBC World Bantamweight title bout at Ariake Arena in Tokyo.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225080000 +0000" stop="20250225090000 +0000">
+    <title lang="zh">NFL Highlights</title>
+    <desc>Kansas City Chiefs v Houston Texans.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225090000 +0000" stop="20250225100000 +0000">
+    <title lang="zh">NFL Highlights</title>
+    <desc>Detroit Lions v Seattle Seahawks.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225100000 +0000" stop="20250225101500 +0000">
+    <title lang="zh">NFL Bitesize Highlights</title>
+    <desc>Miami Dolphins v Tennessee Titans from the 2023/24 season.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225101500 +0000" stop="20250225103000 +0000">
+    <title lang="zh">NFL Bitesize Highlights</title>
+    <desc>New York Giants v Green Bay Packers from the 2023/24 season.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225103000 +0000" stop="20250225104500 +0000">
+    <title lang="zh">NFL Bitesize Highlights</title>
+    <desc>Philadelphia Eagles v San Francisco 49ers from the 2023/24 season.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225104500 +0000" stop="20250225110000 +0000">
+    <title lang="zh">NFL Bitesize Highlights</title>
+    <desc>Green Bay Packers v Kansas City Chiefs from the 2023/24 season.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225110000 +0000" stop="20250225120000 +0000">
+    <title lang="zh">NFL Highlights</title>
+    <desc>Washington Commanders v Atlanta Falcons.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225120000 +0000" stop="20250225121500 +0000">
+    <title lang="zh">Betfred Super League Highlights</title>
+    <desc>Hull FC v London Broncos from 2024.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225121500 +0000" stop="20250225123000 +0000">
+    <title lang="zh">Betfred Super League Highlights</title>
+    <desc>Wigan Warriors v St Helens from 2024.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225123000 +0000" stop="20250225124500 +0000">
+    <title lang="zh">Betfred Super League Highlights</title>
+    <desc>Warrington Wolves v Leeds Rhinos from 2024.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225124500 +0000" stop="20250225130000 +0000">
+    <title lang="zh">Betfred Super League Highlights</title>
+    <desc>Leigh Leopards v Salford Red Devils in 2024.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225130000 +0000" stop="20250225140000 +0000">
+    <title lang="zh">Fight Night International</title>
+    <desc>Keyshawn Davis v Gustavo Lemos. Action from the November 2024 lightweight bout at Scope Arena in Norfolk, Virginia.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225140000 +0000" stop="20250225150000 +0000">
+    <title lang="zh">NFL Highlights</title>
+    <desc>Kansas City Chiefs v Las Vegas Raiders.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225150000 +0000" stop="20250225151500 +0000">
+    <title lang="zh">Betfred Super League Highlights</title>
+    <desc>Catalan Dragons v Hull Kingston Rovers in 2024.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225151500 +0000" stop="20250225153000 +0000">
+    <title lang="zh">Betfred Super League Highlights</title>
+    <desc>Huddersfield Giants v Casleford Tigers in 2024.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225153000 +0000" stop="20250225154500 +0000">
+    <title lang="zh">Betfred Super League Highlights</title>
+    <desc>Action from Leeds Rhinos v Catalan Dragons in 2024.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225154500 +0000" stop="20250225160000 +0000">
+    <title lang="zh">Betfred Super League Highlights</title>
+    <desc>Action from St Helens v Hull Kingston Rovers in 2024.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225160000 +0000" stop="20250225170000 +0000">
+    <title lang="zh">Fight Night International</title>
+    <desc>Junto Nakatani v David Cuellar Contreras. Action from the WBC World Bantamweight title bout at Ariake Arena in Tokyo.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225170000 +0000" stop="20250225180000 +0000">
+    <title lang="zh">Fight Night</title>
+    <desc>Adam Azim v Sergey Lipinets. Action from the bout for the vacant IBO World Super-Lightweight title at OVO Arena Wembley.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225180000 +0000" stop="20250225190000 +0000">
+    <title lang="zh">NFL Highlights</title>
+    <desc>Baltimore Ravens v Philadelphia Eagles.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225190000 +0000" stop="20250225210000 +0000">
+    <title lang="zh">Good Morning Football</title>
+    <desc>The latest NFL news and talking points.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225210000 +0000" stop="20250225220000 +0000">
+    <title lang="zh">Fight Night International</title>
+    <desc>Junto Nakatani v David Cuellar Contreras. Action from the WBC World Bantamweight title bout at Ariake Arena in Tokyo.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225220000 +0000" stop="20250225221500 +0000">
+    <title lang="zh">Betfred Super League Highlights</title>
+    <desc>Catalan Dragons v Hull Kingston Rovers in 2024.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225221500 +0000" stop="20250225223000 +0000">
+    <title lang="zh">Betfred Super League Highlights</title>
+    <desc>Huddersfield Giants v Casleford Tigers in 2024.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225223000 +0000" stop="20250225224500 +0000">
+    <title lang="zh">Betfred Super League Highlights</title>
+    <desc>Action from Leeds Rhinos v Catalan Dragons in 2024.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225224500 +0000" stop="20250225230000 +0000">
+    <title lang="zh">Betfred Super League Highlights</title>
+    <desc>Action from St Helens v Hull Kingston Rovers in 2024.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250225230000 +0000" stop="20250226000000 +0000">
+    <title lang="zh">NFL Highlights</title>
+    <desc>Dallas Cowboys v Philadelphia Eagles.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="199136" start="20250226000000 +0000" stop="20250227000000 +0000">
+    <title lang="zh">NBC's Pro-Football Talk</title>
+    <desc>Mike Florio and Chris Simms present this NFL talk show, as they discuss and debate the biggest stories from around the league.</desc>
+    <date>2025-02-26</date>
+  </programme>
+  <programme channel="403926" start="20250224005000 +0000" stop="20250224020000 +0000">
+    <title lang="zh">The White Lotus</title>
+    <desc>As Belinda settles in, Chelsea deals with a moody Rick; the Ratliffs go separate ways; Kate, Laurie and Jaclyn kick off a girls' trip.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403926" start="20250224020000 +0000" stop="20250224030300 +0000">
+    <title lang="zh">The White Lotus</title>
+    <desc>Kate and Jaclyn discuss Laurie's divorce, while Timothy gets bad business news; Rick shares trauma during meditation with Amrita, Chelsea bonds with Chloe and Gaitok reveals feelings to Mook.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403926" start="20250224030300 +0000" stop="20250224040500 +0000">
+    <title lang="zh">The White Lotus</title>
+    <desc>Kate and Jaclyn discuss Laurie's divorce, while Timothy gets bad business news; Rick shares trauma during meditation with Amrita, Chelsea bonds with Chloe and Gaitok reveals feelings to Mook.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403926" start="20250224040500 +0000" stop="20250224044600 +0000">
+    <title lang="zh">Last Week Tonight With John Oliver</title>
+    <desc>Comedian John Oliver hosts an in-depth, satirical look at developments from the past seven days in news, politics and current events.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403926" start="20250224044600 +0000" stop="20250224055000 +0000">
+    <title lang="zh">The White Lotus</title>
+    <desc>Kate and Jaclyn discuss Laurie's divorce, while Timothy gets bad business news; Rick shares trauma during meditation with Amrita, Chelsea bonds with Chloe and Gaitok reveals feelings to Mook.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403926" start="20250224055000 +0000" stop="20250224065500 +0000">
+    <title lang="zh">The White Lotus</title>
+    <desc>Kate and Jaclyn discuss Laurie's divorce, while Timothy gets bad business news; Rick shares trauma during meditation with Amrita, Chelsea bonds with Chloe and Gaitok reveals feelings to Mook.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403926" start="20250224065500 +0000" stop="20250224075900 +0000">
+    <title lang="zh">The White Lotus</title>
+    <desc>Kate and Jaclyn discuss Laurie's divorce, while Timothy gets bad business news; Rick shares trauma during meditation with Amrita, Chelsea bonds with Chloe and Gaitok reveals feelings to Mook.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403926" start="20250224075900 +0000" stop="20250224093600 +0000">
+    <title lang="zh">Life Partners</title>
+    <desc>A 29-year-old lawyer (Gillian Jacobs) and her lesbian best friend (Leighton Meester) experience a dramatic shift in their longtime bond after one enters a serious relationship.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403926" start="20250224093600 +0000" stop="20250224114100 +0000">
+    <title lang="zh">Water for Elephants</title>
+    <desc>A shared compassion for a special elephant draws together a former veterinary student (Robert Pattinson) and a performer (Reese Witherspoon) in the traveling circus in which they both work.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403926" start="20250224114100 +0000" stop="20250224122200 +0000">
+    <title lang="zh">Last Week Tonight With John Oliver</title>
+    <desc>Comedian John Oliver hosts an in-depth, satirical look at developments from the past seven days in news, politics and current events.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403926" start="20250224122200 +0000" stop="20250224142000 +0000">
+    <title lang="zh">Knox Goes Away</title>
+    <desc>Diagnosed with a rapidly evolving form of dementia, a contract killer gets the chance to redeem himself by saving the life of his estranged son.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403926" start="20250224142000 +0000" stop="20250224162500 +0000">
+    <title lang="zh">Frost/Nixon</title>
+    <desc>An on-air battle of wits ensues when former President Richard Nixon (Frank Langella) selects British TV personality David Frost (Michael Sheen) for an exclusive post-Watergate interview.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403926" start="20250224162500 +0000" stop="20250224172600 +0000">
+    <title lang="zh">The White Lotus</title>
+    <desc>As Belinda settles in, Chelsea deals with a moody Rick; the Ratliffs go separate ways; Kate, Laurie and Jaclyn kick off a girls' trip.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403926" start="20250224172600 +0000" stop="20250224183000 +0000">
+    <title lang="zh">The White Lotus</title>
+    <desc>Kate and Jaclyn discuss Laurie's divorce, while Timothy gets bad business news; Rick shares trauma during meditation with Amrita; Chelsea bonds with Chloe and Gaitok reveals feelings to Mook.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403926" start="20250224183000 +0000" stop="20250224205800 +0000">
+    <title lang="zh">Waitress: The Musical</title>
+    <desc>Jenna Hunterson is a waitress and expert pie maker stuck in a small town and a loveless marriage. When a baking contest offers her a chance at escape, Jenna fights to reclaim part of herself.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403926" start="20250224205800 +0000" stop="20250224213900 +0000">
+    <title lang="zh">Last Week Tonight With John Oliver</title>
+    <desc>Comedian John Oliver hosts an in-depth, satirical look at developments from the past seven days in news, politics and current events.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403926" start="20250224213900 +0000" stop="20250224224300 +0000">
+    <title lang="zh">The White Lotus</title>
+    <desc>Kate and Jaclyn discuss Laurie's divorce, while Timothy gets bad business news; Rick shares trauma during meditation with Amrita; Chelsea bonds with Chloe and Gaitok reveals feelings to Mook.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403926" start="20250224224300 +0000" stop="20250225000000 +0000">
+    <title lang="zh">We Live in Time</title>
+    <desc>A surprise encounter brings together a couple, changing the course of their lives. Challenged by the limits of time, they learn to cherish each moment of their decade-spanning and movingly rare love story.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403926" start="20250225003400 +0000" stop="20250225011500 +0000">
+    <title lang="zh">Last Week Tonight With John Oliver</title>
+    <desc>Comedian John Oliver hosts an in-depth, satirical look at developments from the past seven days in news, politics and current events.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403926" start="20250225011500 +0000" stop="20250225024500 +0000">
+    <title lang="zh">Flow</title>
+    <desc>Cat is a solitary animal, but as its home is devastated by a great flood, he finds refuge on a boat populated by various species, and will have to team up with them despite their differences.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403926" start="20250225024500 +0000" stop="20250225044500 +0000">
+    <title lang="zh">Speed</title>
+    <desc>A SWAT team ace (Keanu Reeves) must keep the speed of a Santa Monica bus above 50 mph, or a madman's (Dennis Hopper) bomb will explode.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403926" start="20250225044500 +0000" stop="20250225054800 +0000">
+    <title lang="zh">The White Lotus</title>
+    <desc>Kate and Jaclyn discuss Laurie's divorce, while Timothy gets bad business news; Rick shares trauma during meditation with Amrita; Chelsea bonds with Chloe and Gaitok reveals feelings to Mook.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403926" start="20250225054800 +0000" stop="20250225062900 +0000">
+    <title lang="zh">Last Week Tonight With John Oliver</title>
+    <desc>Comedian John Oliver hosts an in-depth, satirical look at developments from the past seven days in news, politics and current events.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403926" start="20250225062900 +0000" stop="20250225080700 +0000">
+    <title lang="zh">Dredd</title>
+    <desc>In a violent, futuristic metropolis, a law-enforcement officer (Karl Urban) and his rookie trainee (Olivia Thirlby) become caught up in a high-stakes conflict with a vicious prostitute-turned-drug lord (Lena Headey).</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403926" start="20250225080700 +0000" stop="20250226000000 +0000">
+    <title lang="zh">End of Watch</title>
+    <desc>Two LAPD officers deal with marriage, love and fatherhood amid the harsh realities on the streets of Los Angeles.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403522" start="20250224020000 +0000" stop="20250224034500 +0000">
+    <title lang="zh">Good Time</title>
+    <desc>A bank robber stops at nothing to free his brother from prison, launching himself into a nightlong odyssey through New York's dark and dangerous criminal underworld.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403522" start="20250224034500 +0000" stop="20250224062200 +0000">
+    <title lang="zh">Prisoners</title>
+    <desc>When police have to release their only suspect, a desperate man (Hugh Jackman) takes the law into his own hands after his young daughter and her friend disappear.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403522" start="20250224062200 +0000" stop="20250224081900 +0000">
+    <title lang="zh">Taxi Driver</title>
+    <desc>A disturbed New York cabby (Robert De Niro) befriends a teenage hooker (Jodie Foster) and frees her from her pimp.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403522" start="20250224081900 +0000" stop="20250224092400 +0000">
+    <title lang="zh">The White Lotus</title>
+    <desc>Kate and Jaclyn discuss Laurie's divorce, while Timothy gets bad business news; Rick shares trauma during meditation with Amrita, Chelsea bonds with Chloe and Gaitok reveals feelings to Mook.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403522" start="20250224092400 +0000" stop="20250224124900 +0000">
+    <title lang="zh">Malcolm X</title>
+    <desc>The civil-rights leader (Denzel Washington) rises from criminal to crusader, undergoing a religious conversion while jailed.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403522" start="20250224124900 +0000" stop="20250224143700 +0000">
+    <title lang="zh">Mystic Pizza</title>
+    <desc>Three teenage girls (Julia Roberts, Annabeth Gish, Lili Taylor) come of age one summer working in a pizza parlor in Mystic, Conn.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403522" start="20250224143700 +0000" stop="20250224165100 +0000">
+    <title lang="zh">Need for Speed</title>
+    <desc>Determined to take down his treacherous rival (Dominic Cooper), a street-car racer (Aaron Paul) runs through a cross-country net of cops and bounty hunters to enter the most prestigious race in the underground racing circuit.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403522" start="20250224165100 +0000" stop="20250224173200 +0000">
+    <title lang="zh">Last Week Tonight With John Oliver</title>
+    <desc>Comedian John Oliver hosts an in-depth, satirical look at developments from the past seven days in news, politics and current events.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403522" start="20250224173200 +0000" stop="20250224185500 +0000">
+    <title lang="zh">We Beat the Dream Team</title>
+    <desc>Revealing the little-known story of a group of college basketball players who were tasked with preparing Larry Bird, Magic Johnson, and Michael Jordan and the rest of the legendary "Dream Team" for their Olympic debut in 1992.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403522" start="20250224185500 +0000" stop="20250224195600 +0000">
+    <title lang="zh">The White Lotus</title>
+    <desc>As Belinda settles in, Chelsea deals with a moody Rick; the Ratliffs go separate ways; Kate, Laurie and Jaclyn kick off a girls' trip.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403522" start="20250224195600 +0000" stop="20250224210100 +0000">
+    <title lang="zh">The White Lotus</title>
+    <desc>Kate and Jaclyn discuss Laurie's divorce, while Timothy gets bad business news; Rick shares trauma during meditation with Amrita; Chelsea bonds with Chloe and Gaitok reveals feelings to Mook.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403522" start="20250224210100 +0000" stop="20250224224000 +0000">
+    <title lang="zh">Paddington</title>
+    <desc>A lost Peruvian bear (Ben Whishaw) finds shelter with a kind British family, but a museum taxidermist (Nicole Kidman) has designs on his rare hide.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403522" start="20250224224000 +0000" stop="20250225000000 +0000">
+    <title lang="zh">The Accountant</title>
+    <desc>A Treasury agent (J.K. Simmons) closes in on a brilliant freelance accountant (Ben Affleck) who works for dangerous criminal organizations.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403522" start="20250225005000 +0000" stop="20250225015500 +0000">
+    <title lang="zh">The White Lotus</title>
+    <desc>Kate and Jaclyn discuss Laurie's divorce, while Timothy gets bad business news; Rick shares trauma during meditation with Amrita; Chelsea bonds with Chloe and Gaitok reveals feelings to Mook.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403522" start="20250225015500 +0000" stop="20250225033000 +0000">
+    <title lang="zh">Elevation</title>
+    <desc>Post-apocalyptic survivors find refuge in the Rocky Mountains to hide from giant, insect-like creatures that can't live above 8,000 feet. However, when one of them needs life-saving supplies, they risk it all to venture into the danger zone.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403522" start="20250225033000 +0000" stop="20250225052500 +0000">
+    <title lang="zh">The Conjuring</title>
+    <desc>Paranormal investigators Lorraine (Vera Farmiga) and Ed (Patrick Wilson) Warren confront a powerful demonic entity when they try to help parents and children being terrorized in their secluded farmhouse.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403522" start="20250225052500 +0000" stop="20250225074200 +0000">
+    <title lang="zh">The Conjuring 2</title>
+    <desc>In 1977, paranormal investigators Ed (Patrick Wilson) and Lorraine (Vera Farmiga) Warren travel to north London to help a single mother (Frances O'Connor) of four and her possessed daughter (Madison Wolfe).</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403522" start="20250225074200 +0000" stop="20250225084600 +0000">
+    <title lang="zh">The White Lotus</title>
+    <desc>Kate and Jaclyn discuss Laurie's divorce, while Timothy gets bad business news; Rick shares trauma during meditation with Amrita; Chelsea bonds with Chloe and Gaitok reveals feelings to Mook.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403522" start="20250225084600 +0000" stop="20250226000000 +0000">
+    <title lang="zh">Father Stu</title>
+    <desc>After surviving a motorcycle accident, a former boxer and longtime agnostic starts to wonder if he can use his second chance to help others, leading to the surprising realization that he's meant to be a Catholic priest.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403650" start="20250224010000 +0000" stop="20250224032700 +0000">
+    <title lang="zh">Bad Boys II</title>
+    <desc>Two detectives uncover a conspiracy involving a drug kingpin while trying to stop the trafficking of Ecstasy in Miami.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403650" start="20250224032700 +0000" stop="20250224050700 +0000">
+    <title lang="zh">Keanu</title>
+    <desc>A man (Keegan-Michael Key) and his cousin (Jordan Peele) pose as ruthless gangsters to recover a stolen kitten.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403650" start="20250224050700 +0000" stop="20250224064200 +0000">
+    <title lang="zh">Barry Munday</title>
+    <desc>A slacker (Patrick Wilson) inherits new responsibilities after he impregnates a stranger (Judy Greer).</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403650" start="20250224064200 +0000" stop="20250224081000 +0000">
+    <title lang="zh">Coastal Elites</title>
+    <desc>Five characters in isolation react with frustration, hilarity and introspection as they grapple with politics, culture, and the pandemic.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403650" start="20250224081000 +0000" stop="20250224091500 +0000">
+    <title lang="zh">John Early: Now More Than Ever</title>
+    <desc>John Early brings his unique blend of cutting commentary and pop star swagger to Roulette Intermedium in Brooklyn, N.Y.; in the style of a gritty 70s rockumentary, Early performs stand-up and explosive song covers from Britney to Neil Young.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403650" start="20250224091500 +0000" stop="20250224110100 +0000">
+    <title lang="zh">Eddie the Eagle</title>
+    <desc>Guided by a rebellious and charismatic coach (Hugh Jackman), British ski jumper Michael "Eddie" Edwards (Taron Egerton) trains for the 1988 Winter Olympics in Calgary, Alberta.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403650" start="20250224110100 +0000" stop="20250224124400 +0000">
+    <title lang="zh">A Shot in the Dark</title>
+    <desc>Clumsy Inspector Clouseau (Peter Sellers) visits a nudist camp to prove a French maid (Elke Sommer) innocent of murder.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403650" start="20250224124400 +0000" stop="20250224143800 +0000">
+    <title lang="zh">Leatherheads</title>
+    <desc>A 1920s football star (George Clooney) tries to give his sagging sport a boost, while he and a new teammate (John Krasinski) vie for the affections of a feisty newswoman (RenÃ©e Zellweger).</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403650" start="20250224143800 +0000" stop="20250224163300 +0000">
+    <title lang="zh">Dinner for Schmucks</title>
+    <desc>Comic misadventures follow when a rising executive (Paul Rudd) brings a blundering IRS agent (Steve Carell) to a monthly gathering hosted by his boss.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403650" start="20250224163300 +0000" stop="20250224170000 +0000">
+    <title lang="zh">A Black Lady Sketch Show</title>
+    <desc>Two women seek an escape from an ominous fog; 1960s soul group Claude and The Boppers perform their hit song "Ice Cream Shop"; Maya's confession in a support group gets a less-than-supportive response; an invisible spy meets a formidable adversary.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403650" start="20250224170000 +0000" stop="20250224172800 +0000">
+    <title lang="zh">A Black Lady Sketch Show</title>
+    <desc>A perpetually late-to-work woman decides to forgo her morning makeup routine; Trinity the Invisible Spy hunts down an elusive villain with a surprising identity; a security guard helps an office worker investigate who stole her missing mug.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403650" start="20250224172800 +0000" stop="20250224175600 +0000">
+    <title lang="zh">A Black Lady Sketch Show</title>
+    <desc>A woman is shocked by a very public, very unexpected marriage proposal from her new boyfriend; new recruits talk about their goals and expectations at a gang orientation; a church service devolves when congregants reveal self-centered motivations.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403650" start="20250224175600 +0000" stop="20250224182300 +0000">
+    <title lang="zh">A Black Lady Sketch Show</title>
+    <desc>A divorce party spirals out of control following a bad mushroom trip; a 1930s groupie sets her sights on Negro League baseball player Satchel Paige; a frustrated airline passenger seeks a like-minded customer service representative.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403650" start="20250224182300 +0000" stop="20250224185000 +0000">
+    <title lang="zh">A Black Lady Sketch Show</title>
+    <desc>Four friends on a camping trip unknowingly disprove a stereotype; a pastor tries to take back control of his church potluck; a flight attendant struggles to get compliance from newlyweds in the exit row; students notice a change in their teacher.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403650" start="20250224185000 +0000" stop="20250224191700 +0000">
+    <title lang="zh">A Black Lady Sketch Show</title>
+    <desc>Two friends regret their decision to visit a new black-owned restaurant; a mother and daughter go toe-to-toe in the latest episode of "Get the Belt"; a judge, bailiff, court reporter and attorneys celebrate their first all-black lady courtroom.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403650" start="20250224191700 +0000" stop="20250224210200 +0000">
+    <title lang="zh">Yes Man</title>
+    <desc>After attending a self-help seminar, a negative-thinking man (Jim Carrey) brings about an amazing change in his life by saying yes to everything.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403650" start="20250224210200 +0000" stop="20250224222500 +0000">
+    <title lang="zh">Vampires Suck</title>
+    <desc>In a spoof of "Twilight" and other films, a pale vampire and a muscular werewolf try to win the heart of a beautiful teen.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403650" start="20250224222500 +0000" stop="20250225000000 +0000">
+    <title lang="zh">Ghosts of Girlfriends Past</title>
+    <desc>Spirits of jilted lovers take a photographer (Matthew McConaughey) on an odyssey through his many failed relationships to find out what made him such a cad, and if there is any hope for true love.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403650" start="20250225000600 +0000" stop="20250225003700 +0000">
+    <title lang="zh">Curb Your Enthusiasm</title>
+    <desc>A near-death experience changes Larry, and it brings a revelation about his father and a sandwich named after him.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403650" start="20250225003700 +0000" stop="20250225010800 +0000">
+    <title lang="zh">Curb Your Enthusiasm</title>
+    <desc>Larry hires a private investigator to uncover some information about his past.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403650" start="20250225010800 +0000" stop="20250225013700 +0000">
+    <title lang="zh">Curb Your Enthusiasm</title>
+    <desc>Larry get himself in trouble when he buys his housekeeper a bra.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403650" start="20250225013700 +0000" stop="20250225020800 +0000">
+    <title lang="zh">Curb Your Enthusiasm</title>
+    <desc>Larry offends a Japanese restaurant owner and accuses his dad's retirement home of fixing their bingo game.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403650" start="20250225020800 +0000" stop="20250225023900 +0000">
+    <title lang="zh">Curb Your Enthusiasm</title>
+    <desc>Larry and Jeff debate their willingness to give Lewis their kidney.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403650" start="20250225023900 +0000" stop="20250225030900 +0000">
+    <title lang="zh">Curb Your Enthusiasm</title>
+    <desc>Larry makes two wishes come true and swaps smoking jackets with an icon.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403650" start="20250225030900 +0000" stop="20250225034000 +0000">
+    <title lang="zh">Curb Your Enthusiasm</title>
+    <desc>Larry becomes friends with a sex offender that moves into the neighborhood.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403650" start="20250225034000 +0000" stop="20250225041400 +0000">
+    <title lang="zh">Curb Your Enthusiasm</title>
+    <desc>Larry tries to befriend the head of a liver transplant consortium.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403650" start="20250225041400 +0000" stop="20250225044300 +0000">
+    <title lang="zh">Curb Your Enthusiasm</title>
+    <desc>Larry accuses his Korean Bookie of cooking up Jeff's dog and serving it for dinner.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403650" start="20250225044300 +0000" stop="20250225052600 +0000">
+    <title lang="zh">Curb Your Enthusiasm</title>
+    <desc>Larry travels to Arizona to meet his real parents after he discovers who they are. After a life changing experience, Larry decides to give Richard Lewis his kidney.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403650" start="20250225052600 +0000" stop="20250225070500 +0000">
+    <title lang="zh">Matilda</title>
+    <desc>A little girl develops extraordinary mental abilities, despite neglectful parents and a brutal headmistress.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403650" start="20250225070500 +0000" stop="20250225090800 +0000">
+    <title lang="zh">Silver Linings Playbook</title>
+    <desc>An unexpected bond begins to form between a man (Bradley Cooper) trying to rebuild his life and a young woman (Jennifer Lawrence) promising to help him reunite with his estranged wife.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403650" start="20250225090800 +0000" stop="20250226000000 +0000">
+    <title lang="zh">Free Birds</title>
+    <desc>Two turkeys (Nam Do-hyung, Choi Han) travel back in time to the year 1621 to prevent all feathered friends from ever becoming holiday dinners.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403783" start="20250224023500 +0000" stop="20250224041300 +0000">
+    <title lang="zh">How to Train Your Dragon</title>
+    <desc>A misfit Viking teenager sees a chance to change the course of his clan's future when he befriends an injured dragon.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403783" start="20250224041300 +0000" stop="20250224062100 +0000">
+    <title lang="zh">Blue Beetle</title>
+    <desc>Jaime Reyes finds himself in possession of an ancient relic of alien biotechnology called the Scarab. When the Scarab chooses Jaime to be its symbiotic host, he's bestowed with a suit of armor that's capable of extraordinary and unpredictable powers.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403783" start="20250224062100 +0000" stop="20250224081400 +0000">
+    <title lang="zh">Scott Pilgrim vs. the World</title>
+    <desc>After meeting the gal (Mary Elizabeth Winstead) of his dreams, a charming slacker (Michael Cera) must contend with an army of her ex-boyfriends, wanting to get rid of him.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403783" start="20250224081400 +0000" stop="20250224101800 +0000">
+    <title lang="zh">Jason Bourne</title>
+    <desc>Living off the grid for 10 years, former CIA operative Jason Bourne (Matt Damon) finds himself back in action battling a sinister network that utilizes terror and technology to maintain unchecked power.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403783" start="20250224101800 +0000" stop="20250224114600 +0000">
+    <title lang="zh">The SpongeBob SquarePants Movie</title>
+    <desc>SpongeBob (Tom Kenny) and Patrick (Bill Fagerbakke) head for Shell City to retrieve King Neptune's stolen crown and save the life of Mr. Krabs (Clancy Brown).</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403783" start="20250224114600 +0000" stop="20250224122300 +0000">
+    <title lang="zh">God Is the Bigger Elvis</title>
+    <desc>In 1963, actress Dolores Hart, star of the 1960 film "Where the Boys Are," leaves behind a promising Hollywood career to become a Benedictine nun.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403783" start="20250224122300 +0000" stop="20250224123800 +0000">
+    <title lang="zh">Rizo</title>
+    <desc>An Afro Latina struggles with her identity as she navigates the Hollywood machine.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403783" start="20250224123800 +0000" stop="20250224141800 +0000">
+    <title lang="zh">Willy Wonka and the Chocolate Factory</title>
+    <desc>A poor boy (Peter Ostrum) and his grandfather (Jack Albertson) win a tour through the marvelous factory of a wily confectioner (Gene Wilder).</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403783" start="20250224141800 +0000" stop="20250224161300 +0000">
+    <title lang="zh">Charlie and the Chocolate Factory</title>
+    <desc>A poor boy (Freddie Highmore) and four spoiled children win a tour through the incredible factory of an odd confectioner (Johnny Depp).</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403783" start="20250224161300 +0000" stop="20250224181000 +0000">
+    <title lang="zh">Wonka</title>
+    <desc>Armed with nothing but a hatful of dreams, young chocolatier Willy Wonka manages to change the world, one delectable bite at a time.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403783" start="20250224181000 +0000" stop="20250224200500 +0000">
+    <title lang="zh">Godzilla x Kong: The New Empire</title>
+    <desc>Godzilla and the almighty Kong face a colossal threat hidden deep within the planet, challenging their very existence and the survival of the human race.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403783" start="20250224200500 +0000" stop="20250224215500 +0000">
+    <title lang="zh">Woman in Gold</title>
+    <desc>Maria Altmann (Helen Mirren), an elderly Jewish survivor of World War II, sues the Austrian government for the return of artwork the Nazis stole from her family.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403783" start="20250224215500 +0000" stop="20250224234600 +0000">
+    <title lang="zh">Dirty Rotten Scoundrels</title>
+    <desc>An American con man (Steve Martin) and his British rival (Michael Caine) target a soap heiress (Glenne Headly) from Cleveland on the French Riviera.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403783" start="20250224234600 +0000" stop="20250225000000 +0000">
+    <title lang="zh">The Big Year</title>
+    <desc>Three men (Steve Martin, Jack Black, Owen Wilson) race around North America in a prestigious contest to see who can spot the greatest number of bird species in a single year.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403783" start="20250225012700 +0000" stop="20250225030300 +0000">
+    <title lang="zh">Good Hair</title>
+    <desc>Comic Chris Rock explores how hairstyles affect the self-esteem, activities and relationships of African-Americans.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403783" start="20250225030300 +0000" stop="20250225044800 +0000">
+    <title lang="zh">Beetlejuice Beetlejuice</title>
+    <desc>Still haunted by Beetlejuice, Lydia's life gets turned upside down when her daughter discovers a portal to the afterlife. When someone says Beetlejuice's name three times, the mischievous demon returns to unleash his very own brand of mayhem.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403783" start="20250225044800 +0000" stop="20250225065200 +0000">
+    <title lang="zh">Warcraft</title>
+    <desc>A king (Dominic Cooper), a mighty warrior (Travis Fimmel) and a powerful wizard (Ben Foster) unite to defend the human realm of Azeroth from a tyrannical shaman (Daniel Wu) and his invading army of orcs.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403783" start="20250225065200 +0000" stop="20250225084200 +0000">
+    <title lang="zh">The Legend of Tarzan</title>
+    <desc>Lured from Victorian England to the wilds of the Congo, Tarzan (Alexander SkarsgÃ¥rd) must return to the jungle to save his captive wife (Margot Robbie) from King Leopold's devious envoy (Christoph Waltz).</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403783" start="20250225084200 +0000" stop="20250226000000 +0000">
+    <title lang="zh">Janet Planet</title>
+    <desc>Enthralled by her own imagination, 11-year-old Lacy spends the long summer at home with her mother and three strangers.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403477" start="20250224010600 +0000" stop="20250224030000 +0000">
+    <title lang="zh">Unknown</title>
+    <desc>After a serious car accident, a man (Liam Neeson) awakes to find that his wife does not recognize him, that another man has assumed his identity, and that assassins are hunting him.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403477" start="20250224030000 +0000" stop="20250224051200 +0000">
+    <title lang="zh">The Iron Claw</title>
+    <desc>The true story of the Von Erich brothers, who, through tragedy and triumph, under the shadow of their domineering father and coach, seek epic immortality on the biggest stage in sports.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403477" start="20250224051200 +0000" stop="20250224065800 +0000">
+    <title lang="zh">Skate Kitchen</title>
+    <desc>Camille's life as a lonely suburban teenager changes dramatically when she befriends a group of girl skateboarders. As she journeys deeper into this raw New York City subculture, she begins to understand the true meaning of friendship.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403477" start="20250224065800 +0000" stop="20250224085800 +0000">
+    <title lang="zh">The Birth of a Nation</title>
+    <desc>On Aug. 21, 1831, Baptist preacher Nat Turner (Nate Parker) leads a violent and historic rebellion to free himself and other slaves in Southampton County, Va.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403477" start="20250224085800 +0000" stop="20250224112100 +0000">
+    <title lang="zh">Man of Steel</title>
+    <desc>Though struggling with the ramifications of his extraordinary origin and abilities, young Clark Kent (Henry Cavill) must become a hero and save those he loves from a dire threat.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403477" start="20250224112100 +0000" stop="20250224132600 +0000">
+    <title lang="zh">Supergirl</title>
+    <desc>Kara (Helen Slater) of Argo City poses as Clark Kent's cousin, Linda Lee, to recover the Omegahedron from a witch (Faye Dunaway).</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403477" start="20250224132600 +0000" stop="20250224152600 +0000">
+    <title lang="zh">Independence Day: Resurgence</title>
+    <desc>Using recovered extraterrestrial technology, the nations of Earth collaborate on an immense defense program to protect the planet. When the aliens attack with unprecedented force, only the ingenuity of a few brave men and women can save the world.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403477" start="20250224152600 +0000" stop="20250224170700 +0000">
+    <title lang="zh">Jackie</title>
+    <desc>The assassination of JFK is seen through the eyes of Jackie Kennedy. The days leading up to the tragedy and the immediate aftermath are chronicled, as experienced by the First Lady, wife of the charismatic president and mother of two small children.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403477" start="20250224170700 +0000" stop="20250224191000 +0000">
+    <title lang="zh">Suicide Squad</title>
+    <desc>Deadshot (Will Smith), Harley Quinn (Margot Robbie), Captain Boomerang, Killer Croc and other armed supervillains unite to battle a mysterious and powerful entity, while the diabolical Joker (Jared Leto) launches an evil agenda of his own.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403477" start="20250224191000 +0000" stop="20250224204600 +0000">
+    <title lang="zh">Sully</title>
+    <desc>After landing US Airways Flight 1549 in New York's Hudson River, Capt. Chesley "Sully" Sullenberger (Tom Hanks) faces an investigation that threatens to destroy his career and reputation.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403477" start="20250224204600 +0000" stop="20250224222300 +0000">
+    <title lang="zh">Traffik</title>
+    <desc>A couple and their two friends embark on a weekend getaway to an isolated estate in the mountains. They soon find themselves in a fight for their lives when members of a violent biker gang show up to protect their secrets from the outside world.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403477" start="20250224222300 +0000" stop="20250225000000 +0000">
+    <title lang="zh">Barbie</title>
+    <desc>Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403477" start="20250225001700 +0000" stop="20250225030000 +0000">
+    <title lang="zh">Watchmen</title>
+    <desc>After his former colleague is murdered, a masked vigilante (Jackie Earle Haley) uncovers a plot to discredit and destroy the world's superheroes.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403477" start="20250225030000 +0000" stop="20250225052500 +0000">
+    <title lang="zh">X-Men: Apocalypse</title>
+    <desc>Professor X (James McAvoy) and Raven (Jennifer Lawrence) lead a team of young X-Men to stop the immortal mutant Apocalypse (Oscar Isaac) from destroying mankind.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403477" start="20250225052500 +0000" stop="20250225070000 +0000">
+    <title lang="zh">The Front Room</title>
+    <desc>Everything goes to hell for newly pregnant Belinda after her mother-in-law moves in. As the diabolical guest tries to get her claws on the child, Belinda must draw the line somewhere.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403477" start="20250225070000 +0000" stop="20250225084500 +0000">
+    <title lang="zh">Problemista</title>
+    <desc>Alejandro, an aspiring toy designer from El Salvador, tries to bring his fanciful ideas to life and chase his dream in New York City with the help of his erratic employer.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403477" start="20250225084500 +0000" stop="20250226000000 +0000">
+    <title lang="zh">The Disaster Artist</title>
+    <desc>The incredible true story of aspiring filmmaker and Hollywood outsider Tommy Wiseau as he and his best friend defiantly pursue their dreams and embark on the hilarious odyssey of making the now-infamous, cult classic "The Room.".</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403823" start="20250224002900 +0000" stop="20250224025100 +0000">
+    <title lang="zh">Wonder Woman</title>
+    <desc>After leaving her all-female island for the first time, Wonder Woman (Gal Gadot) discovers her full powers and true destiny while fighting alongside men in a war to end all wars.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403823" start="20250224025100 +0000" stop="20250224052300 +0000">
+    <title lang="zh">Wonder Woman 1984</title>
+    <desc>Wonder Woman musters all of her strength, wisdom and courage as she finds herself squaring off against Maxwell Lord and the Cheetah, a villainess who possesses superhuman strength and agility.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403823" start="20250224052300 +0000" stop="20250224070900 +0000">
+    <title lang="zh">Look Into My Eyes</title>
+    <desc>A group of New York City psychics conducts deeply intimate readings for their clients, revealing a kaleidoscope of loneliness, connection and healing.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403823" start="20250224070900 +0000" stop="20250224084300 +0000">
+    <title lang="zh">Mad Max</title>
+    <desc>In an Australia of the not-too-distant future, a police officer strikes back against motorized menaces to what is left of society after a nuclear holocaust.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403823" start="20250224084300 +0000" stop="20250224101700 +0000">
+    <title lang="zh">Black Butterfly</title>
+    <desc>A down-on-his luck screenwriter picks up a drifter and offers him a place to stay, not knowing that soon he'll become a prisoner, forced to write for a deranged stranger.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403823" start="20250224101700 +0000" stop="20250224123400 +0000">
+    <title lang="zh">Dune</title>
+    <desc>Paul Atreides (Kyle MacLachlan) leads the fight for vital spice on a desert planet in the year 10191.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403823" start="20250224123400 +0000" stop="20250224152000 +0000">
+    <title lang="zh">Dune: Part Two</title>
+    <desc>Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he must prevent a terrible future only he can foresee.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403823" start="20250224152000 +0000" stop="20250224172700 +0000">
+    <title lang="zh">Miss Peregrine's Home for Peculiar Children</title>
+    <desc>A teen (Asa Butterfield) discovers a secret refuge on an island where children have special powers and hidden enemies.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403823" start="20250224172700 +0000" stop="20250224191800 +0000">
+    <title lang="zh">Tuesday</title>
+    <desc>A mother and her daughter must confront Death when it arrives in the form of an astonishing talking bird.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403823" start="20250224191800 +0000" stop="20250224204300 +0000">
+    <title lang="zh">Gulliver's Travels</title>
+    <desc>While a man (Jack Black) is on assignment in the Bermuda Triangle, a vortex transports him to Lilliput, a magic land of little people.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403823" start="20250224204300 +0000" stop="20250224225500 +0000">
+    <title lang="zh">The Iron Claw</title>
+    <desc>The true story of the Von Erich brothers, who, through tragedy and triumph, under the shadow of their domineering father and coach, seek epic immortality on the biggest stage in sports.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403823" start="20250224225500 +0000" stop="20250225000000 +0000">
+    <title lang="zh">The Dark Knight</title>
+    <desc>Batman (Christian Bale) has to keep a balance between heroism and vigilantism to fight a vile criminal known as the Joker (Heath Ledger), who would plunge Gotham City into anarchy.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="403823" start="20250225012800 +0000" stop="20250225041300 +0000">
+    <title lang="zh">The Dark Knight Rises</title>
+    <desc>Eight years after he took the blame for Harvey Dent's death and vanished into the night, Batman (Christian Bale) is forced out of his self-imposed exile by a cunning cat burglar (Anne Hathaway) and a merciless terrorist called Bane (Tom Hardy).</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403823" start="20250225041300 +0000" stop="20250225061400 +0000">
+    <title lang="zh">Crouching Tiger, Hidden Dragon</title>
+    <desc>A 19th-century martial arts master (Chow Yun-Fat) gives a sword called Green Destiny to his beloved (Michelle Yeoh), then the two must recover it from female thieves.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403823" start="20250225061400 +0000" stop="20250225081400 +0000">
+    <title lang="zh">The Host</title>
+    <desc>A South Korean family (Song Kang-ho, Byun Hee-bong) must save a daughter (Go Ah-sung) from a horrible monster that emerged from the Han River.</desc>
+    <date>2025-02-25</date>
+  </programme>
+  <programme channel="403823" start="20250225081400 +0000" stop="20250226000000 +0000">
+    <title lang="zh">Tiny Furniture</title>
+    <desc>After breaking up with her boyfriend, a recent college graduate (Lena Dunham) moves back in with family while she tries to figure out the next step in life.</desc>
+    <date>2025-02-25</date>
   </programme>
 </tv>
