@@ -537,6 +537,11 @@
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "403805",
             "StreamFormat": "hls",
+            "Headers": [
+                "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
+                "Origin:https://newembedplay.xyz",
+                "Referer:https://newembedplay.xyz/"
+            ],
             "StreamUrls": [
                 "https://zekonew.iosplayer.ru/zeko/premium766/mono.m3u8"
             ]
@@ -548,6 +553,11 @@
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "403619",
             "StreamFormat": "hls",
+            "Headers": [
+                "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
+                "Origin:https://newembedplay.xyz",
+                "Referer:https://newembedplay.xyz/"
+            ],
             "StreamUrls": [
                 "https://zekonew.iosplayer.ru/zeko/premium769/mono.m3u8"
             ]
@@ -559,6 +569,11 @@
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "403849",
             "StreamFormat": "hls",
+            "Headers": [
+                "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
+                "Origin:https://newembedplay.xyz",
+                "Referer:https://newembedplay.xyz/"
+            ],
             "StreamUrls": [
                 "https://zekonew.iosplayer.ru/zeko/premium767/mono.m3u8"
             ]
@@ -566,10 +581,15 @@
         {
             "Title": "פוקס ניו יורק",
             "TitleEng": "Fox NY",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNY.png",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FOXNY.png",
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "199136",
             "StreamFormat": "hls",
+            "Headers": [
+                "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
+                "Origin:https://newembedplay.xyz",
+                "Referer:https://newembedplay.xyz/"
+            ],
             "StreamUrls": [
                 "https://zekonew.iosplayer.ru/zeko/premium768/mono.m3u8"
             ]
