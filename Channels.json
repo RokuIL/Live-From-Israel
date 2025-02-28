@@ -531,6 +531,50 @@
             ]
         },
         {
+            "Title": "איי בי סי ניו יורק",
+            "TitleEng": "ABC NY",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ABCNY.png",
+            "EPGProvider": "WGP.ENG",
+            "EPGStationId": "403805",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://zekonew.iosplayer.ru/zeko/premium766/mono.m3u8"
+            ]
+        },
+        {
+            "Title": "אן בי סי ניו יורק",
+            "TitleEng": "NBC NY",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNY.png",
+            "EPGProvider": "WGP.ENG",
+            "EPGStationId": "403619",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://zekonew.iosplayer.ru/zeko/premium769/mono.m3u8"
+            ]
+        },
+        {
+            "Title": "סי בי אס ניו יורק",
+            "TitleEng": "CBS NY",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CBSNY.png",
+            "EPGProvider": "WGP.ENG",
+            "EPGStationId": "403849",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://zekonew.iosplayer.ru/zeko/premium767/mono.m3u8"
+            ]
+        },
+        {
+            "Title": "פוקס ניו יורק",
+            "TitleEng": "Fox NY",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNY.png",
+            "EPGProvider": "WGP.ENG",
+            "EPGStationId": "199136",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://zekonew.iosplayer.ru/zeko/premium768/mono.m3u8"
+            ]
+        },
+        {
             "Title": "סריקה",
             "TitleEng": "Scan",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Search.png",
