@@ -171,8 +171,20 @@
     <display-name lang="US">HBO Signature (HBO 3) - Eastern</display-name>
     <icon src="" />
   </channel>
-  <channel id="403823">
-    <display-name lang="US">HBO Zone HD - East</display-name>
+  <channel id="403805">
+    <display-name lang="US">ABC (WABC) New York, NY</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="403619">
+    <display-name lang="US">NBC (WNBC) New York, NY</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="403849">
+    <display-name lang="US">CBS (WCBS) New York, NY</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="403858">
+    <display-name lang="US">FOX (WNYW) New York, NY</display-name>
     <icon src="" />
   </channel>
   <programme start="20250228070000 +0000" stop="20250228080000 +0000" channel="Kan 11">
@@ -11916,124 +11928,1239 @@
     <desc>Batman (Christian Bale) has to keep a balance between heroism and vigilantism to fight a vile criminal known as the Joker (Heath Ledger), who would plunge Gotham City into anarchy.</desc>
     <date>2025-03-01</date>
   </programme>
-  <programme channel="403823" start="20250228014400 +0000" stop="20250228034900 +0000">
-    <title lang="zh">Duplicity</title>
-    <desc>Spies (Julia Roberts, Clive Owen) for rival corporations carry on a clandestine love affair while trying to find the formula for a product that will earn a fortune for the company that patents it first.</desc>
+  <programme channel="403805" start="20250228000000 +0000" stop="20250228003000 +0000">
+    <title lang="zh">Jeopardy!</title>
+    <desc>The Emmy-winning quiz show features a unique answer-and-question format.</desc>
     <date>2025-02-28</date>
   </programme>
-  <programme channel="403823" start="20250228034900 +0000" stop="20250228052500 +0000">
-    <title lang="zh">Dredd</title>
-    <desc>In a violent, futuristic metropolis, a law-enforcement officer (Karl Urban) and his rookie trainee (Olivia Thirlby) become caught up in a high-stakes conflict with a vicious prostitute-turned-drug lord (Lena Headey).</desc>
+  <programme channel="403805" start="20250228003000 +0000" stop="20250228010000 +0000">
+    <title lang="zh">Wheel of Fortune</title>
+    <desc>In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
     <date>2025-02-28</date>
   </programme>
-  <programme channel="403823" start="20250228052500 +0000" stop="20250228071100 +0000">
-    <title lang="zh">The Wave</title>
-    <desc>A Norwegian geologist (Kristoffer Joner) and his family (Ane Dahl Torp, Jonas Hoff Oftebro) fight for survival when a massive landslide causes a 250-foot tidal wave.</desc>
+  <programme channel="403805" start="20250228010000 +0000" stop="20250228020000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>When a toddler falls down a pipe and becomes trapped, the 118 must rely on more than their skills to rescue him; old wounds are opened when members of the 118 race to the aid of a man dealing with a divorce.</desc>
     <date>2025-02-28</date>
   </programme>
-  <programme channel="403823" start="20250228071100 +0000" stop="20250228090200 +0000">
-    <title lang="zh">Tuesday</title>
-    <desc>A mother and her daughter must confront Death when it arrives in the form of an astonishing talking bird.</desc>
+  <programme channel="403805" start="20250228020000 +0000" stop="20250228030000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>When Athena is assigned a rookie to mentor, she begins to question her own abilities.</desc>
     <date>2025-02-28</date>
   </programme>
-  <programme channel="403823" start="20250228090200 +0000" stop="20250228105400 +0000">
-    <title lang="zh">Great Photo, Lovely Life</title>
-    <desc>Photojournalist Amanda Mustard turns her investigative lens on sexual abuse committed by her grandfather, beginning a personal journey in pursuit of the truth and reconciliation for her family.</desc>
+  <programme channel="403805" start="20250228030000 +0000" stop="20250228040000 +0000">
+    <title lang="zh">9-1-1</title>
+    <desc>Things get messy for the 118 following a massive pipe explosion; Athena investigates the brutal beating of a man found behind a grocery store.</desc>
     <date>2025-02-28</date>
   </programme>
-  <programme channel="403823" start="20250228105400 +0000" stop="20250228123200 +0000">
-    <title lang="zh">Muhammad Ali's Greatest Fight</title>
-    <desc>Justices (Frank Langella, Danny Glover) of the Supreme Court discuss boxer Muhammad Ali's refusal to fight in the Vietnam War.</desc>
+  <programme channel="403805" start="20250228040000 +0000" stop="20250228043500 +0000">
+    <title lang="zh">Eyewitness News at 11</title>
+    <desc>Breaking news.</desc>
     <date>2025-02-28</date>
   </programme>
-  <programme channel="403823" start="20250228123200 +0000" stop="20250228144400 +0000">
-    <title lang="zh">The Iron Claw</title>
-    <desc>The true story of the Von Erich brothers, who, through tragedy and triumph, under the shadow of their domineering father and coach, seek epic immortality on the biggest stage in sports.</desc>
+  <programme channel="403805" start="20250228043500 +0000" stop="20250228053700 +0000">
+    <title lang="zh">Jimmy Kimmel Live!</title>
+    <desc>Singer Lionel Richie; TV hosts Kelly Ripa and Mark Consuelos; Smokey Robinson performs.</desc>
     <date>2025-02-28</date>
   </programme>
-  <programme channel="403823" start="20250228144400 +0000" stop="20250228165800 +0000">
-    <title lang="zh">Invictus</title>
-    <desc>Following the fall of apartheid, Nelson Mandela (Morgan Freeman) tries to unite his countrymen by supporting the South African rugby team's underdog bid for the 1995 World Cup Championship.</desc>
+  <programme channel="403805" start="20250228053700 +0000" stop="20250228060600 +0000">
+    <title lang="zh">Nightline</title>
+    <desc>In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
     <date>2025-02-28</date>
   </programme>
-  <programme channel="403823" start="20250228165800 +0000" stop="20250228185200 +0000">
-    <title lang="zh">The Huntsman: Winter's War</title>
-    <desc>A huntsman (Chris Hemsworth) and a fellow warrior (Jessica Chastain) battle an ice queen (Emily Blunt) and her evil, resurrected sister (Charlize Theron).</desc>
+  <programme channel="403805" start="20250228060600 +0000" stop="20250228070500 +0000">
+    <title lang="zh">Live with Kelly and Mark</title>
+    <desc>Jeff Probst ("Survivor"); a shopping day; Dr. Jeanine Downie provides skin care advice; Aloe Blacc performs.Guests: Jeff Probst, Dr. Jeanine Downie..</desc>
     <date>2025-02-28</date>
   </programme>
-  <programme channel="403823" start="20250228185200 +0000" stop="20250228203900 +0000">
-    <title lang="zh">Fast &amp; Furious</title>
-    <desc>Back in Los Angeles, fugitive Dom Toretto (Vin Diesel) and agent Brian O'Conner (Paul Walker) reignite their feud but, then, must join forces against a common enemy.</desc>
+  <programme channel="403805" start="20250228070500 +0000" stop="20250228073500 +0000">
+    <title lang="zh">Daytime Jeopardy</title>
+    <desc>The Emmy-winning quiz show features a unique answer-and-question format.</desc>
     <date>2025-02-28</date>
   </programme>
-  <programme channel="403823" start="20250228203900 +0000" stop="20250228222700 +0000">
-    <title lang="zh">Central Intelligence</title>
-    <desc>A lethal CIA agent (Dwayne Johnson) and his former classmate (Kevin Hart) encounter shootouts, espionage and double-crosses while trying to save the U.S. spy satellite system.</desc>
+  <programme channel="403805" start="20250228073500 +0000" stop="20250228080500 +0000">
+    <title lang="zh">ABC World News Tonight With David Muir</title>
+    <desc>The latest news from America, as reported by the ABC television network.</desc>
     <date>2025-02-28</date>
   </programme>
-  <programme channel="403823" start="20250228222700 +0000" stop="20250301000000 +0000">
-    <title lang="zh">Joker</title>
-    <desc>Isolated, bullied and disregarded by society, failed comedian Arthur Fleck begins a slow descent into madness as he transforms into the criminal mastermind known as the Joker.</desc>
+  <programme channel="403805" start="20250228080500 +0000" stop="20250228090000 +0000">
+    <title lang="zh">Tamron Hall</title>
+    <desc>Ashley Darby ("The Real Housewives of Potomac"); therapist John Kim talks about eight different types of breakups and his take on cheating; author Amy Nobile advises a viewer who is looking to get back out there.Guests: Ashley Darby, John Kim, Amy Nobile..</desc>
     <date>2025-02-28</date>
   </programme>
-  <programme channel="403823" start="20250301002900 +0000" stop="20250301024700 +0000">
-    <title lang="zh">Joker: Folie Ã  Deux</title>
-    <desc>Struggling with his dual identity, failed comedian Arthur Fleck stumbles upon true love while incarcerated at Arkham State Hospital. Awaiting trial for the murder of five people, Fleck soon discovers the music that's always been inside him.</desc>
+  <programme channel="403805" start="20250228090000 +0000" stop="20250228093000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403805" start="20250228093000 +0000" stop="20250228110000 +0000">
+    <title lang="zh">Eyewitness News This Morning</title>
+    <desc>News coverage to start the day.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403805" start="20250228110000 +0000" stop="20250228120000 +0000">
+    <title lang="zh">Eyewitness News This Morning</title>
+    <desc>News coverage to start the day.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403805" start="20250228120000 +0000" stop="20250228140000 +0000">
+    <title lang="zh">Good Morning America</title>
+    <desc>Lara Spencer and James Longman report live from Los Angeles, previewing preparations for this year's Academy Awards; chef Wolfgang Puck; Oscars-inspired fashion; movie night essentials.Guests: Wolfgang Puck, Lilliana Vazquez..</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403805" start="20250228140000 +0000" stop="20250228150000 +0000">
+    <title lang="zh">Live with Kelly and Mark</title>
+    <desc>"Live's" pre-Oscar celebration with actress Angela Bassett ("Zero Day").Guests: Angela Bassett..</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403805" start="20250228150000 +0000" stop="20250228160000 +0000">
+    <title lang="zh">Eyewitness News Mornings at 10</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403805" start="20250228160000 +0000" stop="20250228170000 +0000">
+    <title lang="zh">The View</title>
+    <desc>Ariana DeBose guest co-hosts.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403805" start="20250228170000 +0000" stop="20250228180000 +0000">
+    <title lang="zh">Eyewitness News at Noon</title>
+    <desc>Midday news update.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403805" start="20250228180000 +0000" stop="20250228190000 +0000">
+    <title lang="zh">GMA3: What You Need to Know</title>
+    <desc>Oscars predictions; this year's Oscar-nominated costumes; preview of Robin Roberts' Oscars special.Guests: Chris Connelly, Kelley Carter, Mike Muse..</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403805" start="20250228190000 +0000" stop="20250228200000 +0000">
+    <title lang="zh">Tamron Hall</title>
+    <desc>Political analyst and attorney Bakari Sellers, wife Ellen Rucker Sellers and their twins; a grandmother who went back to school at age 61; a 3-year-old girl who nailed the "Guess the Voice Challenge"; Tamron and her staff try the viral challenge!Guests: Bakari Sellers..</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403805" start="20250228200000 +0000" stop="20250228210000 +0000">
+    <title lang="zh">General Hospital</title>
+    <desc>Ava and Kristina argue; Sasha receives an apology; Molly opens up to Cody; Olivia pitches an idea to Carly; Isaiah questions Jordan.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403805" start="20250228210000 +0000" stop="20250228220000 +0000">
+    <title lang="zh">Eyewitness News First at 4</title>
+    <desc>Local and regional news coverage.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403805" start="20250228220000 +0000" stop="20250228230000 +0000">
+    <title lang="zh">Eyewitness News at 5</title>
+    <desc>Local and regional news.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403805" start="20250228230000 +0000" stop="20250228233000 +0000">
+    <title lang="zh">Eyewitness News at 6</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403805" start="20250228233000 +0000" stop="20250301000000 +0000">
+    <title lang="zh">ABC World News Tonight With David Muir</title>
+    <desc>The latest news from America, as reported by the ABC television network.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403805" start="20250301000000 +0000" stop="20250301003000 +0000">
+    <title lang="zh">Jeopardy!</title>
+    <desc>The Emmy-winning quiz show features a unique answer-and-question format.</desc>
     <date>2025-03-01</date>
   </programme>
-  <programme channel="403823" start="20250301024700 +0000" stop="20250301045400 +0000">
-    <title lang="zh">Batman</title>
-    <desc>The Caped Crusader (Michael Keaton) saves dismal Gotham City and gorgeous Vicki Vale (Kim Basinger) from the freaky Joker (Jack Nicholson).</desc>
+  <programme channel="403805" start="20250301003000 +0000" stop="20250301010000 +0000">
+    <title lang="zh">Wheel of Fortune</title>
+    <desc>In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
     <date>2025-03-01</date>
   </programme>
-  <programme channel="403823" start="20250301045400 +0000" stop="20250301070100 +0000">
-    <title lang="zh">Batman Returns</title>
-    <desc>The Caped Crusader (Michael Keaton) clashes with Catwoman (Michelle Pfeiffer) and saves gloomy Gotham City from the foul Penguin's (Danny DeVito) plot.</desc>
+  <programme channel="403805" start="20250301010000 +0000" stop="20250301020100 +0000">
+    <title lang="zh">Countdown to the Oscars With Robin Roberts: A Special Edition of 20/20</title>
+    <desc>Robin Roberts interviews Oscar nominees Cynthia Erivo and Jesse Eisenberg, and spotlights many of this year's high-profile nominees, including actresses Demi Moore, Zoe Saldana and Mikey Madison, as well as actor TimothÃ©e Chalamet and more.Guests: Cynthia Erivo, Jesse Eisenberg, Conan O'Brien, Paul Tazewell, Coralie Fargeat, James Mangold..</desc>
     <date>2025-03-01</date>
   </programme>
-  <programme channel="403823" start="20250301070100 +0000" stop="20250301090300 +0000">
-    <title lang="zh">Batman Forever</title>
-    <desc>The Caped Crusader (Val Kilmer) woos a criminal psychologist, takes on a sidekick and battles Two-Face (Tommy Lee Jones) and the Riddler (Jim Carrey).</desc>
+  <programme channel="403805" start="20250301020100 +0000" stop="20250301040000 +0000">
+    <title lang="zh">20/20</title>
+    <desc>Award-winning program featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
     <date>2025-03-01</date>
   </programme>
-  <programme channel="403823" start="20250301090300 +0000" stop="20250301110800 +0000">
-    <title lang="zh">Batman &amp; Robin</title>
-    <desc>Batgirl joins the caped crusaders (George Clooney, Chris O'Donnell) to stop Mr. Freeze (Arnold Schwarzenegger) and Poison Ivy from wreaking revenge upon the world.</desc>
+  <programme channel="403805" start="20250301040000 +0000" stop="20250301043500 +0000">
+    <title lang="zh">Eyewitness News at 11</title>
+    <desc>Breaking news.</desc>
     <date>2025-03-01</date>
   </programme>
-  <programme channel="403823" start="20250301110800 +0000" stop="20250301133200 +0000">
-    <title lang="zh">Superman</title>
-    <desc>Jor-El (Marlon Brando) of Krypton sends his baby to Earth, where he grows up as Clark Kent (Christopher Reeve) and works at the Daily Planet.</desc>
+  <programme channel="403805" start="20250301043500 +0000" stop="20250301053700 +0000">
+    <title lang="zh">Jimmy Kimmel Live!</title>
+    <desc>Jimmy Kimmel hosts a diverse lineup of guests that includes celebrities, athletes, musical acts,comics and human-interest subjects, along with comedy bits and a house band.</desc>
     <date>2025-03-01</date>
   </programme>
-  <programme channel="403823" start="20250301133200 +0000" stop="20250301154000 +0000">
-    <title lang="zh">Superman II</title>
-    <desc>The Man of Steel (Christopher Reeve) gets serious with Lois Lane (Margot Kidder) and fights three Krypton outcasts in league with Lex Luthor (Gene Hackman).</desc>
+  <programme channel="403805" start="20250301053700 +0000" stop="20250301060600 +0000">
+    <title lang="zh">Nightline</title>
+    <desc>In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
     <date>2025-03-01</date>
   </programme>
-  <programme channel="403823" start="20250301154000 +0000" stop="20250301174500 +0000">
-    <title lang="zh">Superman III</title>
-    <desc>Ersatz kryptonite laced with tobacco tar splits Superman (Christopher Reeve) in two: good Clark Kent and bad Man of Steel.</desc>
+  <programme channel="403805" start="20250301060600 +0000" stop="20250301070500 +0000">
+    <title lang="zh">Live with Kelly and Mark</title>
+    <desc>"Live's" pre-Oscar celebration with actress Angela Bassett ("Zero Day").Guests: Angela Bassett..</desc>
     <date>2025-03-01</date>
   </programme>
-  <programme channel="403823" start="20250301174500 +0000" stop="20250301191500 +0000">
-    <title lang="zh">Superman IV: The Quest for Peace</title>
-    <desc>The Man of Steel (Christopher Reeve) crusades for nuclear disarmament and meets Lex Luthor's (Gene Hackman) latest creation, Nuclear Man.</desc>
+  <programme channel="403805" start="20250301070500 +0000" stop="20250301073500 +0000">
+    <title lang="zh">Daytime Jeopardy</title>
+    <desc>The Emmy-winning quiz show features a unique answer-and-question format.</desc>
     <date>2025-03-01</date>
   </programme>
-  <programme channel="403823" start="20250301191500 +0000" stop="20250301215000 +0000">
-    <title lang="zh">Superman Returns</title>
-    <desc>While Lex Luthor (Jon Peters) plots against him, the Man of Steel (Brandon Routh) tries to reconnect with Lois Lane (Kate Bosworth) and find his place in a world that learned to survive in his absence.</desc>
+  <programme channel="403805" start="20250301073500 +0000" stop="20250301080500 +0000">
+    <title lang="zh">ABC World News Tonight With David Muir</title>
+    <desc>The latest news from America, as reported by the ABC television network.</desc>
     <date>2025-03-01</date>
   </programme>
-  <programme channel="403823" start="20250301215000 +0000" stop="20250301234600 +0000">
-    <title lang="zh">Uncharted</title>
-    <desc>Treasure hunter Victor Sullivan recruits Nathan Drake to help him recover a 500-year-old fortune. What starts out as a heist becomes a globe-trotting, white-knuckle race to reach the prize before the ruthless Santiago Moncada can get his hands on it.</desc>
+  <programme channel="403805" start="20250301080500 +0000" stop="20250301090000 +0000">
+    <title lang="zh">Tamron Hall</title>
+    <desc>Political analyst and attorney Bakari Sellers, wife Ellen Rucker Sellers and their twins; a grandmother who went back to school at age 61; a 3-year-old girl who nailed the "Guess the Voice Challenge"; Tamron and her staff try the viral challenge!Guests: Bakari Sellers..</desc>
     <date>2025-03-01</date>
   </programme>
-  <programme channel="403823" start="20250301234600 +0000" stop="20250302000000 +0000">
-    <title lang="zh">The Perks of Being a Wallflower</title>
-    <desc>Socially awkward Charlie is a wallflower watching from the sidelines, until a pair of charismatic seniors take him under their wing.</desc>
+  <programme channel="403805" start="20250301090000 +0000" stop="20250301093000 +0000">
+    <title lang="zh">Secretly Awesome</title>
+    <desc>The places, experiences and businesses around town that only the locals know about.</desc>
     <date>2025-03-01</date>
+  </programme>
+  <programme channel="403805" start="20250301093000 +0000" stop="20250301100000 +0000">
+    <title lang="zh">My Go-To</title>
+    <desc>Go-to spots for the places to be, people to see and things to do.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403805" start="20250301100000 +0000" stop="20250301103000 +0000">
+    <title lang="zh">Jeopardy!</title>
+    <desc>The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403805" start="20250301103000 +0000" stop="20250301110000 +0000">
+    <title lang="zh">Animal Science</title>
+    <desc>An animal series with a uniquely scientific approach shows how and why creatures are able to excel.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403805" start="20250301110000 +0000" stop="20250301130000 +0000">
+    <title lang="zh">Eyewitness News This Morning</title>
+    <desc>News coverage to start the day.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403805" start="20250301130000 +0000" stop="20250301140000 +0000">
+    <title lang="zh">Good Morning America</title>
+    <desc>Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403805" start="20250301140000 +0000" stop="20250301150000 +0000">
+    <title lang="zh">Eyewitness News This Morning</title>
+    <desc>News coverage to start the day.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403805" start="20250301150000 +0000" stop="20250301160000 +0000">
+    <title lang="zh">Good Morning America</title>
+    <desc>A look ahead to the Oscars.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403805" start="20250301160000 +0000" stop="20250301163000 +0000">
+    <title lang="zh">Wildlife Nation With Jeff Corwin</title>
+    <desc>The fight against invasive Burmese pythons in Florida; biologists use tracking technology to uncover insights about the species; biologists from the Miccosukee Tribe of Indians of Florida work to conserve the Everglades ecosystem.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403805" start="20250301163000 +0000" stop="20250301170000 +0000">
+    <title lang="zh">Jack Hanna's Passport</title>
+    <desc>Jack Hanna and his family travel around the world to discover, interact with, and learn about some of Earth's most threatened and endangered species and the conservation and protection efforts to save them.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403805" start="20250301170000 +0000" stop="20250301173000 +0000">
+    <title lang="zh">Hearts of Heroes</title>
+    <desc>Police officers put their lives on the line as they attempt to save a disabled man from a house fire; rescuers use ingenuity and courage to save the life of a buried child.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403805" start="20250301173000 +0000" stop="20250301180000 +0000">
+    <title lang="zh">oh baby!</title>
+    <desc>Animal babies who manage to stay cool living in the world's hottest climates.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403805" start="20250301180000 +0000" stop="20250301200000 +0000">
+    <title lang="zh">Live: College Basketball</title>
+    <desc>From Rupp Arena in Lexington, Ky.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403805" start="20250301200000 +0000" stop="20250301230000 +0000">
+    <title lang="zh">Live: NHL Hockey</title>
+    <desc>From PPG Paints Arena in Pittsburgh.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403805" start="20250301230000 +0000" stop="20250301233000 +0000">
+    <title lang="zh">Eyewitness News at 6</title>
+    <desc />
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403805" start="20250301233000 +0000" stop="20250302000000 +0000">
+    <title lang="zh">ABC World News Tonight With David Muir</title>
+    <desc>The latest news from America, as reported by the ABC television network.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403805" start="20250302000000 +0000" stop="20250303000000 +0000">
+    <title lang="zh">On the Red Carpet at the Oscars Preview</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="403619" start="20250228000000 +0000" stop="20250228003000 +0000">
+    <title lang="zh">News 4 NY at 7</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228003000 +0000" stop="20250228010000 +0000">
+    <title lang="zh">Access Hollywood</title>
+    <desc>Hosts Mario Lopez, Kit Hoover and Scott Evans and correspondent Zuri Hall take viewers behind the velvet ropes and onto the red carpet to deliver celebrity interviews and entertainment news stories in Hollywood.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228010000 +0000" stop="20250228020000 +0000">
+    <title lang="zh">Law &amp; Order</title>
+    <desc>An actor's foray into experimental drug therapy leads to his murder; Shaw reconnects with a mentor who may hold the key to identifying a suspect.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228020000 +0000" stop="20250228030000 +0000">
+    <title lang="zh">Law &amp; Order: Special Victims Unit</title>
+    <desc>A Midwestern tourist is viciously attacked in Times Square; as the squad scours the area for clues, the victim takes the investigation into her own hands; a secret motive threatens to derail Carisi's case.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228030000 +0000" stop="20250228040000 +0000">
+    <title lang="zh">Found</title>
+    <desc>A 911 call tips M&amp;A off to a young woman who has gone missing after a date; Lacey considers starting a new relationship; Sir takes drastic measures to capture Gabi's attention; Margaret and Gabi investigate potential suspects in Jamie's kidnapping.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228040000 +0000" stop="20250228043400 +0000">
+    <title lang="zh">Live: News 4 NY at 11</title>
+    <desc>Local and regional news.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228043400 +0000" stop="20250228053700 +0000">
+    <title lang="zh">The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Actor Mark Ruffalo; comic Gabriel Iglesias; GIVEON performs.Guests: Mark Ruffalo, Gabriel Iglesias..</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228053700 +0000" stop="20250228063700 +0000">
+    <title lang="zh">Late Night With Seth Meyers</title>
+    <desc>Gov. Gretchen Whitmer (D-Mich.); actor James Austin Johnson.Guests: Gretchen Whitmer, James Austin Johnson..</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228063700 +0000" stop="20250228070700 +0000">
+    <title lang="zh">News 4 NY at 11</title>
+    <desc>Local and regional news.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228070700 +0000" stop="20250228073700 +0000">
+    <title lang="zh">NBC Nightly News With Lester Holt</title>
+    <desc>The latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228073700 +0000" stop="20250228080700 +0000">
+    <title lang="zh">Access Hollywood</title>
+    <desc>Hosts Mario Lopez, Kit Hoover and Scott Evans and correspondent Zuri Hall take viewers behind the velvet ropes and onto the red carpet to deliver celebrity interviews and entertainment news stories in Hollywood.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228080700 +0000" stop="20250228090000 +0000">
+    <title lang="zh">The Kelly Clarkson Show</title>
+    <desc>Kellyoke: "Uptown Girl"; Kate Hudson; "Throw Me a Line"; Stephen Amell; Kate Walsh; Jeff Kinney new book cover reveal; BabyMonster performs.Guests: Kate Hudson, Stephen Amell, Kate Walsh, Jeff Kinney..</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228090000 +0000" stop="20250228093000 +0000">
+    <title lang="zh">Early Today</title>
+    <desc>Features general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228093000 +0000" stop="20250228100000 +0000">
+    <title lang="zh">Today in New York</title>
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228100000 +0000" stop="20250228120000 +0000">
+    <title lang="zh">Today in New York</title>
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228120000 +0000" stop="20250228140000 +0000">
+    <title lang="zh">Today</title>
+    <desc>New products to help make traveling easier; one chef's mission to keep Chinatown thriving.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228140000 +0000" stop="20250228150000 +0000">
+    <title lang="zh">Today 3rd Hour</title>
+    <desc>Fun New Orleans finds; Today Food: Taste of New Orleans.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228150000 +0000" stop="20250228160000 +0000">
+    <title lang="zh">Today With Jenna &amp; Friends</title>
+    <desc>Heather McMahan co-hosts; relationship dilemmas with Devyn Simone; actress Ashanti; Today Food with Sarah Fennel.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228160000 +0000" stop="20250228163000 +0000">
+    <title lang="zh">Live: News 4 NY at 11AM</title>
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228163000 +0000" stop="20250228170000 +0000">
+    <title lang="zh">Live: New York Live</title>
+    <desc>Hosts conduct celebrity interviews and discuss recipes, beauty and fashion and current events pertinent to the tri-state region.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228170000 +0000" stop="20250228180000 +0000">
+    <title lang="zh">NBC News Daily</title>
+    <desc>NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228180000 +0000" stop="20250228190000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>Husband is shot while hunting; wife says she accidentally mistook him for a bear, but police learn the marriage was less than perfect.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228190000 +0000" stop="20250228200000 +0000">
+    <title lang="zh">Access Daily With Mario &amp; Kit</title>
+    <desc>Celebrity chef Wolfgang Puck shares Oscar-inspired bites; cocktail connoisseur Paul Zahn prepares Oscar-themed drinks; fashion expert Darren Kennedy discusses Oscar style; Oscar trivia; "Access" rewind!Guests: Wolfgang Puck, Paul Zahn, Darren Kennedy..</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228200000 +0000" stop="20250228210000 +0000">
+    <title lang="zh">The Kelly Clarkson Show</title>
+    <desc>Kellyoke: "Let Your Tears Fall"; Jennifer Coolidge; Guy Fieri; Alessia Cara performs.Guests: Jennifer Coolidge, Guy Fieri..</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228210000 +0000" stop="20250228213000 +0000">
+    <title lang="zh">Live: News 4 NY at 4</title>
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228213000 +0000" stop="20250228220000 +0000">
+    <title lang="zh">Live: News 4 NY at 4:30</title>
+    <desc>NY news.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228220000 +0000" stop="20250228223000 +0000">
+    <title lang="zh">Live: News 4 NY at 5</title>
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228223000 +0000" stop="20250228230000 +0000">
+    <title lang="zh">Live: News 4 NY at 5:30</title>
+    <desc>NY news.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228230000 +0000" stop="20250228233000 +0000">
+    <title lang="zh">Live: News 4 NY at 6</title>
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250228233000 +0000" stop="20250301000000 +0000">
+    <title lang="zh">NBC Nightly News With Lester Holt</title>
+    <desc>The latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403619" start="20250301000000 +0000" stop="20250301001500 +0000">
+    <title lang="zh">News 4 NY at 7</title>
+    <desc />
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301001500 +0000" stop="20250301003000 +0000">
+    <title lang="zh">Live: New York Live</title>
+    <desc>Hosts conduct celebrity interviews and discuss recipes, beauty and fashion and current events pertinent to the tri-state region.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301003000 +0000" stop="20250301010000 +0000">
+    <title lang="zh">Access Hollywood</title>
+    <desc>Hosts Mario Lopez, Kit Hoover and Scott Evans and correspondent Zuri Hall take viewers behind the velvet ropes and onto the red carpet to deliver celebrity interviews and entertainment news stories in Hollywood.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301010000 +0000" stop="20250301020000 +0000">
+    <title lang="zh">Suits LA</title>
+    <desc>Attorney Ted Black and partner Stuart Lane are about to merge with a firm run by Ted's ex; associates Rick and Erica vie for positions in the firm, but when the merger hits a snag, Ted, a former prosecutor, must step into a role he holds in contempt.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301020000 +0000" stop="20250301040000 +0000">
+    <title lang="zh">Dateline NBC</title>
+    <desc>Compelling mysteries, powerful documentaries, in-depth investigations.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301040000 +0000" stop="20250301043400 +0000">
+    <title lang="zh">Live: News 4 NY at 11</title>
+    <desc>Local and regional news.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301043400 +0000" stop="20250301053700 +0000">
+    <title lang="zh">The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Comic Amy Schumer; actor Joe Keery; Djo performs.Guests: Amy Schumer, Joe Keery..</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301053700 +0000" stop="20250301063700 +0000">
+    <title lang="zh">Late Night With Seth Meyers</title>
+    <desc>Actor Alan Cumming; professional baseball player Paul Skenes; restaurateur Emilio Vitolo.Guests: Alan Cumming, Paul Skenes, Emilio Vitolo..</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301063700 +0000" stop="20250301070700 +0000">
+    <title lang="zh">News 4 NY at 11</title>
+    <desc>Local and regional news.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301070700 +0000" stop="20250301073700 +0000">
+    <title lang="zh">NBC Nightly News With Lester Holt</title>
+    <desc>The latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301073700 +0000" stop="20250301080700 +0000">
+    <title lang="zh">Access Hollywood</title>
+    <desc>Hosts Mario Lopez, Kit Hoover and Scott Evans and correspondent Zuri Hall take viewers behind the velvet ropes and onto the red carpet to deliver celebrity interviews and entertainment news stories in Hollywood.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301080700 +0000" stop="20250301090000 +0000">
+    <title lang="zh">The Kelly Clarkson Show</title>
+    <desc>Kellyoke: "Let Your Tears Fall"; Jennifer Coolidge; Guy Fieri; Alessia Cara performs.Guests: Jennifer Coolidge, Guy Fieri..</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301090000 +0000" stop="20250301093000 +0000">
+    <title lang="zh">1st Look</title>
+    <desc>Exploring exciting destinations across the globe; the host becomes immersed in the culture, cuisine and conversations, turning every city into an unforgettable memory.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301093000 +0000" stop="20250301100000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301100000 +0000" stop="20250301103000 +0000">
+    <title lang="zh">1st Look</title>
+    <desc>Exploring exciting destinations across the globe; the host becomes immersed in the culture, cuisine and conversations, turning every city into an unforgettable memory.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301103000 +0000" stop="20250301110000 +0000">
+    <title lang="zh">Open House NYC</title>
+    <desc>Brokers and buyers participate in shopping for apartments and houses.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301110000 +0000" stop="20250301120000 +0000">
+    <title lang="zh">Saturday Today in New York</title>
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301120000 +0000" stop="20250301133000 +0000">
+    <title lang="zh">Today</title>
+    <desc>News headlines, interviews, and stories intended to inform, entertain, inspire and set the agenda each morning for Americans and help viewers with their finances, health and well-being.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301133000 +0000" stop="20250301140000 +0000">
+    <title lang="zh">Saturday Today in New York</title>
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301140000 +0000" stop="20250301143000 +0000">
+    <title lang="zh">Saturday Today in New York</title>
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301143000 +0000" stop="20250301150000 +0000">
+    <title lang="zh">NBC Nightly News With Lester Holt: Kids Edition</title>
+    <desc>Top headlines are broken down to help kids best understand the world today.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301150000 +0000" stop="20250301153000 +0000">
+    <title lang="zh">Mutual of Omaha's Wild Kingdom Protecting the Wild</title>
+    <desc>Manatees are massive water-bound herbivores whose wild numbers have dwindled to a breaking point; Peter learns about a program pairing orphaned manatee babies with surrogate moms; Dr. Rae helps release rescued manatees back to the wild in Florida.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301153000 +0000" stop="20250301160000 +0000">
+    <title lang="zh">Earth Odyssey With Dylan Dreyer</title>
+    <desc>Dylan Dreyer travels to the rugged Iberian Peninsula, home to mysterious marine mammals, fascinating predators and rare wildcats.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301160000 +0000" stop="20250301163000 +0000">
+    <title lang="zh">Harlem Globetrotters: Play It Forward</title>
+    <desc>The team visits Red Hot Chili Pepper Flea's Conservatory of Music to discover how he keeps the study of music alive for kids in L.A.; they visit Speedy at a community center to learn about his youth basketball league and train some special athletes.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301163000 +0000" stop="20250301170000 +0000">
+    <title lang="zh">Wild Child</title>
+    <desc>Sheinelle Jones explores the remarkable lives of animal families that are living on the world's seacoasts.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301170000 +0000" stop="20250301173000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301173000 +0000" stop="20250301180000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301180000 +0000" stop="20250301200000 +0000">
+    <title lang="zh">ISU Four Continents Figure Skating Championships</title>
+    <desc>Coverage of the annual figure skating competition from various hosting countries.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301200000 +0000" stop="20250301230000 +0000">
+    <title lang="zh">Live: PGA Tour Golf</title>
+    <desc>The Cognizant Classic's third round begins. PGA National's Champion Course is renowned for the Bear Trap, featured from holes No. 15-17. In addition to hosting this event since 2007, the course also held the 1983 Ryder Cup and 1987 PGA Championship.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301230000 +0000" stop="20250301233000 +0000">
+    <title lang="zh">Live: News 4 NY at 6</title>
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250301233000 +0000" stop="20250302000000 +0000">
+    <title lang="zh">NBC Nightly News With Lester Holt</title>
+    <desc>The latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403619" start="20250302000000 +0000" stop="20250303000000 +0000">
+    <title lang="zh">Never Forget: 9/11 Survivors Speak Up</title>
+    <desc>Hear from survivors, first responders and advocates about the devastating impact of 9/11 toxins and the lifetime benefits available. Learn about your rights and protection under the law.</desc>
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="403849" start="20250228000000 +0000" stop="20250228003000 +0000">
+    <title lang="zh">Inside Edition</title>
+    <desc>Primary stories and alternative news.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228003000 +0000" stop="20250228010000 +0000">
+    <title lang="zh">Entertainment Tonight</title>
+    <desc>News and features about performers, productions and the milieu.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228010000 +0000" stop="20250228013100 +0000">
+    <title lang="zh">Georgie &amp; Mandy's First Marriage</title>
+    <desc>Georgie worries he's letting his family down when he's forced to stay home with a cold; Mandy worries about how her career will affect her marriage.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228013100 +0000" stop="20250228020100 +0000">
+    <title lang="zh">Ghosts</title>
+    <desc>When Jay becomes obsessed with the success of a fellow chef, Isaac serves up a cautionary tale about his own rivalry with Alexander Hamilton; Elias Woodstone returns from hell with a limited-time offer for the ghosts.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228020100 +0000" stop="20250228030000 +0000">
+    <title lang="zh">Matlock</title>
+    <desc>Brilliant septuagenarian Madeline "Matty" Matlock decides to rejoin the workforce at a prestigious law firm where she uses her unassuming demeanor and wily tactics to win cases and expose corruption from within.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228030000 +0000" stop="20250228040000 +0000">
+    <title lang="zh">Elsbeth</title>
+    <desc>While investigating the death of a wealthy real estate developer, Elsbeth is led to the last person to see him alive, a lifestyle consultant named Chloe who is usually found on the arms of residents of New York City's Billionaires' Row.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228040000 +0000" stop="20250228043500 +0000">
+    <title lang="zh">CBS News New York 11pm</title>
+    <desc>Local news coverage.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228043500 +0000" stop="20250228053700 +0000">
+    <title lang="zh">The Late Show With Stephen Colbert</title>
+    <desc>Stephen Colbert looks at headlines, interviews guests, performs comedy sketches and introduces musical performances.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228053700 +0000" stop="20250228063700 +0000">
+    <title lang="zh">After Midnight</title>
+    <desc>Drag queen Bob the Drag Queen; podcast host Drew Afualo; internet personality Tefi Pessoa.Guests: Bob the Drag Queen, Drew Afualo, Tefi Pessoa..</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228063700 +0000" stop="20250228070700 +0000">
+    <title lang="zh">Comics Unleashed With Byron Allen</title>
+    <desc>Darryl Brunson; Marina Franklin; Doug Williams; Finesse Mitchell.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228070700 +0000" stop="20250228073700 +0000">
+    <title lang="zh">HairClub. Regrow, Replace, Restore your Hair</title>
+    <desc>Don't let hair loss hold you back! HairClub specializes in restoring your hair and confidence with customized solutions. From cutting edge treatments to natural looking hair systems, we help you regain your confidence and love your hair again.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228073700 +0000" stop="20250228080700 +0000">
+    <title lang="zh">Hope for Pain Sufferers</title>
+    <desc>In this compelling investigation, John Walsh delves into OmegaXL and its natural origins. Discover how this innovative supplement can provide relief from joint pain and improve your quality of life, all grounded in extensive research.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228080700 +0000" stop="20250228083700 +0000">
+    <title lang="zh">CBS Evening News</title>
+    <desc>The latest world and national news.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228083700 +0000" stop="20250228090000 +0000">
+    <title lang="zh">CBS News Roundup</title>
+    <desc>The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228090000 +0000" stop="20250228093000 +0000">
+    <title lang="zh">CBS News Mornings</title>
+    <desc>CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228093000 +0000" stop="20250228100000 +0000">
+    <title lang="zh">CBS News New York This Morning 4:30am</title>
+    <desc>News coverage to start the day.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228100000 +0000" stop="20250228110000 +0000">
+    <title lang="zh">CBS News New York This Morning 5am</title>
+    <desc>News coverage to start the day.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228110000 +0000" stop="20250228120000 +0000">
+    <title lang="zh">CBS News New York This Morning 6am</title>
+    <desc>News coverage to start the day.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228120000 +0000" stop="20250228140000 +0000">
+    <title lang="zh">CBS Mornings</title>
+    <desc>Actress Helen Mirren; The State of Spirituality with Lisa Ling.Guests: Helen Mirren, Lisa Ling..</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228140000 +0000" stop="20250228143000 +0000">
+    <title lang="zh">The Drew Barrymore Show</title>
+    <desc>Drew and Ross preview the Oscars with a special Drew's News full of predictions with Kevin Frazier and Nischelle Turner ("Entertainment Tonight").Guests: Kevin Frazier, Nischelle Turner..</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228143000 +0000" stop="20250228150000 +0000">
+    <title lang="zh">The Drew Barrymore Show</title>
+    <desc>Drew and Ross celebrate Oscars weekend with specific snacks to go along with watching the ceremony; more moments from Drew's chats with Oscar nominees Ariana Grande, Mikey Madison and Cynthia Erivo.Guests: Ariana Grande, Mikey Madison, Cynthia Erivo..</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228150000 +0000" stop="20250228160000 +0000">
+    <title lang="zh">Let's Make a Deal</title>
+    <desc>Costumed contestants compete for cash and prizes.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228160000 +0000" stop="20250228170000 +0000">
+    <title lang="zh">The Price Is Right</title>
+    <desc>Contestants bid for prizes then compete for fabulous showcases.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228170000 +0000" stop="20250228173000 +0000">
+    <title lang="zh">CBS News New York 12pm</title>
+    <desc>Midday news update.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228173000 +0000" stop="20250228183000 +0000">
+    <title lang="zh">The Young and the Restless</title>
+    <desc>Nick and Daniel keep a secret from Billy; Audra sends boundaries with Holden; suspicions mount about Phyllis and Sharon.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228183000 +0000" stop="20250228190000 +0000">
+    <title lang="zh">The Bold and the Beautiful</title>
+    <desc>Daphne uses Carter's guilt to her advantage; Finn demands an explanation; Steffy's news rocks Taylor.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228190000 +0000" stop="20250228200000 +0000">
+    <title lang="zh">Beyond the Gates</title>
+    <desc>The Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty, live, love, work and play in a leafy Maryland suburb just outside of Washington D.C.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228200000 +0000" stop="20250228203000 +0000">
+    <title lang="zh">Judge Judy</title>
+    <desc>A couple say their rental property was so hot that their toilet water boiled, and one of them suffered a heatstroke; during a windstorm, a woman's trampoline jettisons from her property to her neighbor's, damaging a '67 Mustang, a truck and a house.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228203000 +0000" stop="20250228210000 +0000">
+    <title lang="zh">Judge Judy</title>
+    <desc>Shards of glass from a broken window lead a hemophiliac to fear for his life and file a restraining order against a fellow tenant.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228210000 +0000" stop="20250228213000 +0000">
+    <title lang="zh">Hot Bench</title>
+    <desc>A woman says her niece refuses to take accountability time and time again, and she hopes a lawsuit over unpaid rent and a car loan will teach the young woman a lesson --- but even the judges have difficulty getting through to her.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228213000 +0000" stop="20250228220000 +0000">
+    <title lang="zh">Hot Bench</title>
+    <desc>A woman in need of a fresh start moved into her sponsor's house, but when her son misbehaved, the sponsor's husband reprimanded him, and the arrangement quickly fell apart; the defendants are accused of withholding access to her remaining belongings.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228220000 +0000" stop="20250228230000 +0000">
+    <title lang="zh">CBS News New York 5pm</title>
+    <desc>Evening news coverage.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228230000 +0000" stop="20250228233000 +0000">
+    <title lang="zh">CBS News New York 6pm</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250228233000 +0000" stop="20250301000000 +0000">
+    <title lang="zh">CBS Evening News</title>
+    <desc>The latest world and national news.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403849" start="20250301000000 +0000" stop="20250301003000 +0000">
+    <title lang="zh">Inside Edition</title>
+    <desc>Primary stories and alternative news.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301003000 +0000" stop="20250301010000 +0000">
+    <title lang="zh">Entertainment Tonight</title>
+    <desc>The Oscars: what to watch for; Christina Ricci takes a trip down memory lane.Guests: Christina Ricci..</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301010000 +0000" stop="20250301020000 +0000">
+    <title lang="zh">NCIS: Sydney</title>
+    <desc>The team is thrown into the murky world of online conspiracies after a car owned by a U.S. Navy cyber engineer explodes just as her teenage daughter was about to take a driving lesson.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301020000 +0000" stop="20250301030000 +0000">
+    <title lang="zh">Fire Country</title>
+    <desc>Station 42 responds to a fire in the dugout before the annual county clash baseball rivalry game; Vince's ex-girlfriend returns.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301030000 +0000" stop="20250301040000 +0000">
+    <title lang="zh">S.W.A.T.</title>
+    <desc>During a hiking trip, Powell and Gamble stumble upon an illegal weed farm and find themselves taking on a dangerous cartel.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301040000 +0000" stop="20250301043500 +0000">
+    <title lang="zh">CBS News New York 11pm</title>
+    <desc>Local news coverage.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301043500 +0000" stop="20250301053700 +0000">
+    <title lang="zh">The Late Show With Stephen Colbert</title>
+    <desc>Stephen Colbert looks at headlines, interviews guests, performs comedy sketches and introduces musical performances.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301053700 +0000" stop="20250301063700 +0000">
+    <title lang="zh">After Midnight</title>
+    <desc>Actor Kurt Braunohler; actress Kristen Schaal; comic Reggie Watts.Guests: Kurt Braunohler, Kristen Schaal, Reggie Watts..</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301063700 +0000" stop="20250301070700 +0000">
+    <title lang="zh">Comics Unleashed With Byron Allen</title>
+    <desc>Robin Montague; Tony Woods; Aries Spears; Kyle Grooms.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301070700 +0000" stop="20250301073700 +0000">
+    <title lang="zh">Never Forget: 9/11 Survivors Speak Up</title>
+    <desc>Hear from survivors, first responders and advocates about the devastating impact of 9/11 toxins and the lifetime benefits available. Learn about your rights and protection under the law.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301073700 +0000" stop="20250301080700 +0000">
+    <title lang="zh">One Day, One Bathroom: Quality Remodeling With FREE Installation!</title>
+    <desc>Trusted brand Jacuzzi and renowned interior designer, Christina Hall, share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe and stylish space in 1 day! Call now for a FREE quote &amp; installation!</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301080700 +0000" stop="20250301083700 +0000">
+    <title lang="zh">CBS Evening News</title>
+    <desc>The latest world and national news.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301083700 +0000" stop="20250301090000 +0000">
+    <title lang="zh">Missing</title>
+    <desc>Missing persons cases come from all over the United States.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301090000 +0000" stop="20250301093000 +0000">
+    <title lang="zh">Pets.TV</title>
+    <desc>Pet news, care, health and lifestyles.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301093000 +0000" stop="20250301100000 +0000">
+    <title lang="zh">Real Green</title>
+    <desc>Construction blocks made from recycled plastic material that resists extreme heat and strong winds.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301100000 +0000" stop="20250301103000 +0000">
+    <title lang="zh">Judge Judy</title>
+    <desc>A feud over dogs ends in a man being arrested for throwing away trash on his own property; a woman sues her ex for veterinary bills and the return of "her" dog.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301103000 +0000" stop="20250301110000 +0000">
+    <title lang="zh">Game Time With Boomer Esiason</title>
+    <desc>Eleven-time NCAA champion and 8-time Naismith Coach of the Year Geno Auriemma.Guests: Geno Auriemma..</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301110000 +0000" stop="20250301113000 +0000">
+    <title lang="zh">Mission Unstoppable</title>
+    <desc>Highlighting the fascinating female innovators who are on the cutting edge of science -- including zoologists, engineers, astronauts, codebreakers and oceanographers.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301113000 +0000" stop="20250301120000 +0000">
+    <title lang="zh">Hope in the Wild</title>
+    <desc>Wildlife rehabilitation expert Hope Swinimer and her dedicated team go on difficult missions to rescue and heal injured and orphaned animals of all kinds.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301120000 +0000" stop="20250301140000 +0000">
+    <title lang="zh">CBS Saturday Morning</title>
+    <desc>Co-hosts Dana Jacobson and Michelle Miller provide original reporting, breaking news, and profiles of leading figures in culture and the arts from the Times Square studio on the Saturday edition of the CBS morning news family.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301140000 +0000" stop="20250301150000 +0000">
+    <title lang="zh">CBS News New York Saturday 9am</title>
+    <desc>Weekend news coverage.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301150000 +0000" stop="20250301155200 +0000">
+    <title lang="zh">CBS News New York Saturday 10am</title>
+    <desc>Weekend news coverage.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301155200 +0000" stop="20250301160000 +0000">
+    <title lang="zh">Uniquely New York with Rachel Holt</title>
+    <desc>Rachel Holt spotlights local businesses, attractions, cooking and dining, art and cultural events, and other experiences in the New York Tri-State Area.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301160000 +0000" stop="20250301163000 +0000">
+    <title lang="zh">Lucky Dog: Reunions</title>
+    <desc>Animal trainer Brandon McMillan returns to the Lucky Dog Ranch, where he revisits some of the most heartwarming and illuminating rescue stories from his past.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301163000 +0000" stop="20250301170000 +0000">
+    <title lang="zh">Extraordinary World With Jeff Corwin</title>
+    <desc>Host Jeff Corwin teams up with everyday people who are making an extraordinary impact on the world through animal advocacy, wildlife conservation, youth empowerment and aiding those dealing with food insecurity issues.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301170000 +0000" stop="20250301190000 +0000">
+    <title lang="zh">Live: College Basketball</title>
+    <desc>From Amica Mutual Pavilion in Providence, R.I.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301190000 +0000" stop="20250301213000 +0000">
+    <title lang="zh">Live: College Basketball</title>
+    <desc>From Madison Square Garden in New York.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301213000 +0000" stop="20250301233000 +0000">
+    <title lang="zh">Live: College Basketball</title>
+    <desc>From Fertitta Center in Houston.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250301233000 +0000" stop="20250302000000 +0000">
+    <title lang="zh">CBS Evening News</title>
+    <desc>The latest world and national news.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403849" start="20250302000000 +0000" stop="20250303000000 +0000">
+    <title lang="zh">CBS News New York</title>
+    <desc />
+    <date>2025-03-02</date>
+  </programme>
+  <programme channel="403858" start="20250228000000 +0000" stop="20250228003000 +0000">
+    <title lang="zh">Extra</title>
+    <desc>Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228003000 +0000" stop="20250228010000 +0000">
+    <title lang="zh">TMZ</title>
+    <desc>The very latest celebrity news.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228010000 +0000" stop="20250228020100 +0000">
+    <title lang="zh">Next Level Chef</title>
+    <desc>It's the final round of auditions, where eight professional chefs must impress the judges in order to advance to the next stage.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228020100 +0000" stop="20250228023100 +0000">
+    <title lang="zh">Animal Control</title>
+    <desc>When Fiona breaks up with both Frank and Victoria, they throw a rager at her mansion in retaliation; Patel's vision for a quiet night in with Shred and Parker goes sideways.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228023100 +0000" stop="20250228030000 +0000">
+    <title lang="zh">Going Dutch</title>
+    <desc>The colonel wants to fire Jan, but must abide by Dutch labor laws.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228030000 +0000" stop="20250228040000 +0000">
+    <title lang="zh">The 10 O'Clock News</title>
+    <desc>Local, national and international news.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228040000 +0000" stop="20250228043000 +0000">
+    <title lang="zh">Good Night New York</title>
+    <desc />
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228043000 +0000" stop="20250228050000 +0000">
+    <title lang="zh">Family Feud</title>
+    <desc>Teams compete to match answers of nationwide surveys.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228050000 +0000" stop="20250228060000 +0000">
+    <title lang="zh">TMZ Live</title>
+    <desc>Harvey Levin invites viewers inside TMZ's newsroom to see how news is made.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228060000 +0000" stop="20250228063000 +0000">
+    <title lang="zh">25 Words or Less</title>
+    <desc>Team Greg Grunberg's guesses may change the game or vanish in the sands of time.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228063000 +0000" stop="20250228070000 +0000">
+    <title lang="zh">Dish Nation</title>
+    <desc>Entertaining entertainment news: the show dishes on celebrity gossip with humorous commentary on pop culture.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228070000 +0000" stop="20250228073000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228073000 +0000" stop="20250228083000 +0000">
+    <title lang="zh">The OmegaXL Investigation</title>
+    <desc>Join John Walsh on a mission to reveal the truth about OmegaXL. Discover how this extraordinary supplement can bring relief and a renewed sense of vitality to those suffering from pain.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228083000 +0000" stop="20250228090000 +0000">
+    <title lang="zh">One Day, One Bathroom: Quality Remodeling With FREE Installation!</title>
+    <desc>Trusted brand Jacuzzi and renowned interior designer, Christina Hall, share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe and stylish space in 1 day! Call now for a FREE quote &amp; installation!</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228090000 +0000" stop="20250228093000 +0000">
+    <title lang="zh">TMZ</title>
+    <desc>The very latest celebrity news.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228093000 +0000" stop="20250228100000 +0000">
+    <title lang="zh">Good Day Wake Up</title>
+    <desc>Morning news coverage.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228100000 +0000" stop="20250228110000 +0000">
+    <title lang="zh">Good Day Wake Up</title>
+    <desc>Morning news coverage.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228110000 +0000" stop="20250228120000 +0000">
+    <title lang="zh">Good Day Wake Up 2</title>
+    <desc>Morning news and entertainment.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228120000 +0000" stop="20250228140000 +0000">
+    <title lang="zh">Good Day New York</title>
+    <desc>Morning news.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228140000 +0000" stop="20250228150000 +0000">
+    <title lang="zh">Good Day New York</title>
+    <desc>Morning news.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228150000 +0000" stop="20250228160000 +0000">
+    <title lang="zh">Sherri</title>
+    <desc>Actor Gabrielle Union (film "Riff Raff"); singer Omarion talks about performing on The Millennium Tour 2025.Guests: Gabrielle Union, Omarion..</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228160000 +0000" stop="20250228170000 +0000">
+    <title lang="zh">The Jennifer Hudson Show</title>
+    <desc>Actor Peter Krause (series "9-1-1"); marine ecologist Dr. Tiara Moore, founder of Black in Marine Science (BIMS).Guests: Peter Krause, Tiara Moore..</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228170000 +0000" stop="20250228180000 +0000">
+    <title lang="zh">The Noon</title>
+    <desc>Midday news update.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228180000 +0000" stop="20250228183000 +0000">
+    <title lang="zh">25 Words or Less</title>
+    <desc>It's like high school all over again -- fast answers, intense pressure, and a little bit of panic; contestants are racing against the clock, but will they graduate with honors or totally flunk out?</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228183000 +0000" stop="20250228190000 +0000">
+    <title lang="zh">Person, Place or Thing</title>
+    <desc>Some secrets are worth knowing -- especially when they involve bacon!</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228190000 +0000" stop="20250228193000 +0000">
+    <title lang="zh">Pictionary</title>
+    <desc>The TV version of the classic game featuring celebrity captains Kel Mitchell and Loni Love.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228193000 +0000" stop="20250228200000 +0000">
+    <title lang="zh">Extra</title>
+    <desc>Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228200000 +0000" stop="20250228210000 +0000">
+    <title lang="zh">TMZ Live</title>
+    <desc>Harvey Levin invites viewers inside TMZ's newsroom to see how news is made.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228210000 +0000" stop="20250228220000 +0000">
+    <title lang="zh">The People's Court</title>
+    <desc>"Stealing From a Friend.".</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228220000 +0000" stop="20250228230000 +0000">
+    <title lang="zh">The 5 O'Clock News</title>
+    <desc>Local, national and international news.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250228230000 +0000" stop="20250301000000 +0000">
+    <title lang="zh">The 6 O'Clock News</title>
+    <desc>Local, national and international news.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403858" start="20250301000000 +0000" stop="20250301003000 +0000">
+    <title lang="zh">Extra</title>
+    <desc>Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301003000 +0000" stop="20250301010000 +0000">
+    <title lang="zh">TMZ</title>
+    <desc>The very latest celebrity news.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301010000 +0000" stop="20250301030000 +0000">
+    <title lang="zh">Live: College Basketball</title>
+    <desc>From Mackey Arena in West Lafayette, Ind.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301030000 +0000" stop="20250301033000 +0000">
+    <title lang="zh">The 10 O'Clock News</title>
+    <desc>Local, national and international news.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301033000 +0000" stop="20250301040000 +0000">
+    <title lang="zh">Street Soldiers</title>
+    <desc />
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301040000 +0000" stop="20250301043000 +0000">
+    <title lang="zh">Good Night New York</title>
+    <desc />
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301043000 +0000" stop="20250301050000 +0000">
+    <title lang="zh">Family Feud</title>
+    <desc>Teams compete to match answers of nationwide surveys.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301050000 +0000" stop="20250301060000 +0000">
+    <title lang="zh">TMZ Live</title>
+    <desc>Harvey Levin invites viewers inside TMZ's newsroom to see how news is made.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301060000 +0000" stop="20250301063000 +0000">
+    <title lang="zh">25 Words or Less</title>
+    <desc>Team Melissa Knowles make slick moves they hope are quick enough to catch that elusive answer like a gecko spotting prey.Guests: Melissa Knowles, Greg Grunberg..</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301063000 +0000" stop="20250301070000 +0000">
+    <title lang="zh">Dish Nation</title>
+    <desc>Entertaining entertainment news: the show dishes on celebrity gossip with humorous commentary on pop culture.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301070000 +0000" stop="20250301073000 +0000">
+    <title lang="zh">One Day, One Bathroom: Quality Remodeling With FREE Installation!</title>
+    <desc>Trusted brand Jacuzzi and renowned interior designer, Christina Hall, share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe and stylish space in 1 day! Call now for a FREE quote &amp; installation!</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301073000 +0000" stop="20250301080000 +0000">
+    <title lang="zh">The OmegaXL Investigation</title>
+    <desc>Join John Walsh on a mission to reveal the truth about OmegaXL. Discover how this extraordinary supplement can bring relief and a renewed sense of vitality to those suffering from pain.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301080000 +0000" stop="20250301083000 +0000">
+    <title lang="zh">Men's Health - All-Natural Secret for Prostate Health</title>
+    <desc>Prosvent is a doctor formulated blend of rejuvenating herbs and nutrients that help protect overall prostate health.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301083000 +0000" stop="20250301090000 +0000">
+    <title lang="zh">One Day, One Bathroom: Quality Remodeling With FREE Installation!</title>
+    <desc>Trusted brand Jacuzzi and renowned interior designer, Christina Hall, share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe and stylish space in 1 day! Call now for a FREE quote &amp; installation!</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301090000 +0000" stop="20250301093000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301093000 +0000" stop="20250301100000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301100000 +0000" stop="20250301103000 +0000">
+    <title lang="zh">Coffee With America</title>
+    <desc>Host Sasha Rionda focuses on everything from lifestyle and celebrities to health and entertainment.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301103000 +0000" stop="20250301110000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301110000 +0000" stop="20250301113000 +0000">
+    <title lang="zh">Good Day Street Talk</title>
+    <desc>New York public affairs program focusing on important issues in the tri-state area.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301113000 +0000" stop="20250301120000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301120000 +0000" stop="20250301123000 +0000">
+    <title lang="zh">Xploration Awesome Planet</title>
+    <desc>The winner of the first Student Explorer contest; swimming with whale sharks.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301123000 +0000" stop="20250301130000 +0000">
+    <title lang="zh">Xploration Outer Space</title>
+    <desc>Astronauts from the last five decades share stories of their adventures; scientists and engineers give fascinating insights into the solar system.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301130000 +0000" stop="20250301133000 +0000">
+    <title lang="zh">Xploration Nature Knows Best</title>
+    <desc>The Bullit Center living building mimics a tree; nature-based inventions change buildings.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301133000 +0000" stop="20250301140000 +0000">
+    <title lang="zh">Second Chance Pets</title>
+    <desc>A golden retriever puppy named Jackson gets a reprieve on the eve of losing its leg to amputation; an aging farm dog named Tug is given a second chance at life.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301140000 +0000" stop="20250301143000 +0000">
+    <title lang="zh">Adult 65+ Health Matters: Insights from Dr. Laolu</title>
+    <desc>At Oak Street Health, our doctors take the time to get to know you and your needs. We can help you get the most out of your Medicare coverage, set up mail-order prescriptions, and coordinate healthcare &amp; social services. VISITOAKSTREETHEALTH.COM.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301143000 +0000" stop="20250301150000 +0000">
+    <title lang="zh">The OmegaXL Investigation</title>
+    <desc>Join John Walsh on a mission to reveal the truth about OmegaXL. Discover how this extraordinary supplement can bring relief and a renewed sense of vitality to those suffering from pain.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301150000 +0000" stop="20250301153000 +0000">
+    <title lang="zh">One Day, One Bathroom: Quality Remodeling With FREE Installation!</title>
+    <desc>Trusted brand Jacuzzi and renowned interior designer, Christina Hall, share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe and stylish space in 1 day! Call now for a FREE quote &amp; installation!</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301153000 +0000" stop="20250301160000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301160000 +0000" stop="20250301163000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301163000 +0000" stop="20250301170000 +0000">
+    <title lang="zh">Never Forget: 9/11 Survivors Speak Up</title>
+    <desc>Hear from survivors, first responders and advocates about the devastating impact of 9/11 toxins and the lifetime benefits available. Learn about your rights and protection under the law.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301170000 +0000" stop="20250301190000 +0000">
+    <title lang="zh">Live: College Basketball</title>
+    <desc>From Finneran Pavilion in Villanova, Pa.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301190000 +0000" stop="20250301213000 +0000">
+    <title lang="zh">Live: MLS Soccer</title>
+    <desc>From Bank of America Stadium in Charlotte, N.C.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301213000 +0000" stop="20250301233000 +0000">
+    <title lang="zh">Live: College Basketball</title>
+    <desc>From Cintas Center in Cincinnati.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250301233000 +0000" stop="20250302000000 +0000">
+    <title lang="zh">Live: FOX College Hoops Extra</title>
+    <desc>Highlights and analysis of the day's college basketball action.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403858" start="20250302000000 +0000" stop="20250303000000 +0000">
+    <title lang="zh">Live: NRL Rugby</title>
+    <desc>From Allegiant Stadium in Las Vegas.</desc>
+    <date>2025-03-02</date>
   </programme>
 </tv>
