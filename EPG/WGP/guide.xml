@@ -171,6 +171,10 @@
     <display-name lang="US">HBO Signature (HBO 3) - Eastern</display-name>
     <icon src="" />
   </channel>
+  <channel id="403823">
+    <display-name lang="US">HBO Zone HD - East</display-name>
+    <icon src="" />
+  </channel>
   <channel id="403805">
     <display-name lang="US">ABC (WABC) New York, NY</display-name>
     <icon src="" />
@@ -11926,6 +11930,126 @@
   <programme channel="403477" start="20250301234100 +0000" stop="20250302000000 +0000">
     <title lang="zh">The Dark Knight</title>
     <desc>Batman (Christian Bale) has to keep a balance between heroism and vigilantism to fight a vile criminal known as the Joker (Heath Ledger), who would plunge Gotham City into anarchy.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403823" start="20250228014400 +0000" stop="20250228034900 +0000">
+    <title lang="zh">Duplicity</title>
+    <desc>Spies (Julia Roberts, Clive Owen) for rival corporations carry on a clandestine love affair while trying to find the formula for a product that will earn a fortune for the company that patents it first.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403823" start="20250228034900 +0000" stop="20250228052500 +0000">
+    <title lang="zh">Dredd</title>
+    <desc>In a violent, futuristic metropolis, a law-enforcement officer (Karl Urban) and his rookie trainee (Olivia Thirlby) become caught up in a high-stakes conflict with a vicious prostitute-turned-drug lord (Lena Headey).</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403823" start="20250228052500 +0000" stop="20250228071100 +0000">
+    <title lang="zh">The Wave</title>
+    <desc>A Norwegian geologist (Kristoffer Joner) and his family (Ane Dahl Torp, Jonas Hoff Oftebro) fight for survival when a massive landslide causes a 250-foot tidal wave.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403823" start="20250228071100 +0000" stop="20250228090200 +0000">
+    <title lang="zh">Tuesday</title>
+    <desc>A mother and her daughter must confront Death when it arrives in the form of an astonishing talking bird.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403823" start="20250228090200 +0000" stop="20250228105400 +0000">
+    <title lang="zh">Great Photo, Lovely Life</title>
+    <desc>Photojournalist Amanda Mustard turns her investigative lens on sexual abuse committed by her grandfather, beginning a personal journey in pursuit of the truth and reconciliation for her family.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403823" start="20250228105400 +0000" stop="20250228123200 +0000">
+    <title lang="zh">Muhammad Ali's Greatest Fight</title>
+    <desc>Justices (Frank Langella, Danny Glover) of the Supreme Court discuss boxer Muhammad Ali's refusal to fight in the Vietnam War.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403823" start="20250228123200 +0000" stop="20250228144400 +0000">
+    <title lang="zh">The Iron Claw</title>
+    <desc>The true story of the Von Erich brothers, who, through tragedy and triumph, under the shadow of their domineering father and coach, seek epic immortality on the biggest stage in sports.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403823" start="20250228144400 +0000" stop="20250228165800 +0000">
+    <title lang="zh">Invictus</title>
+    <desc>Following the fall of apartheid, Nelson Mandela (Morgan Freeman) tries to unite his countrymen by supporting the South African rugby team's underdog bid for the 1995 World Cup Championship.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403823" start="20250228165800 +0000" stop="20250228185200 +0000">
+    <title lang="zh">The Huntsman: Winter's War</title>
+    <desc>A huntsman (Chris Hemsworth) and a fellow warrior (Jessica Chastain) battle an ice queen (Emily Blunt) and her evil, resurrected sister (Charlize Theron).</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403823" start="20250228185200 +0000" stop="20250228203900 +0000">
+    <title lang="zh">Fast &amp; Furious</title>
+    <desc>Back in Los Angeles, fugitive Dom Toretto (Vin Diesel) and agent Brian O'Conner (Paul Walker) reignite their feud but, then, must join forces against a common enemy.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403823" start="20250228203900 +0000" stop="20250228222700 +0000">
+    <title lang="zh">Central Intelligence</title>
+    <desc>A lethal CIA agent (Dwayne Johnson) and his former classmate (Kevin Hart) encounter shootouts, espionage and double-crosses while trying to save the U.S. spy satellite system.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403823" start="20250228222700 +0000" stop="20250301000000 +0000">
+    <title lang="zh">Joker</title>
+    <desc>Isolated, bullied and disregarded by society, failed comedian Arthur Fleck begins a slow descent into madness as he transforms into the criminal mastermind known as the Joker.</desc>
+    <date>2025-02-28</date>
+  </programme>
+  <programme channel="403823" start="20250301002900 +0000" stop="20250301024700 +0000">
+    <title lang="zh">Joker: Folie Ã  Deux</title>
+    <desc>Struggling with his dual identity, failed comedian Arthur Fleck stumbles upon true love while incarcerated at Arkham State Hospital. Awaiting trial for the murder of five people, Fleck soon discovers the music that's always been inside him.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403823" start="20250301024700 +0000" stop="20250301045400 +0000">
+    <title lang="zh">Batman</title>
+    <desc>The Caped Crusader (Michael Keaton) saves dismal Gotham City and gorgeous Vicki Vale (Kim Basinger) from the freaky Joker (Jack Nicholson).</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403823" start="20250301045400 +0000" stop="20250301070100 +0000">
+    <title lang="zh">Batman Returns</title>
+    <desc>The Caped Crusader (Michael Keaton) clashes with Catwoman (Michelle Pfeiffer) and saves gloomy Gotham City from the foul Penguin's (Danny DeVito) plot.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403823" start="20250301070100 +0000" stop="20250301090300 +0000">
+    <title lang="zh">Batman Forever</title>
+    <desc>The Caped Crusader (Val Kilmer) woos a criminal psychologist, takes on a sidekick and battles Two-Face (Tommy Lee Jones) and the Riddler (Jim Carrey).</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403823" start="20250301090300 +0000" stop="20250301110800 +0000">
+    <title lang="zh">Batman &amp; Robin</title>
+    <desc>Batgirl joins the caped crusaders (George Clooney, Chris O'Donnell) to stop Mr. Freeze (Arnold Schwarzenegger) and Poison Ivy from wreaking revenge upon the world.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403823" start="20250301110800 +0000" stop="20250301133200 +0000">
+    <title lang="zh">Superman</title>
+    <desc>Jor-El (Marlon Brando) of Krypton sends his baby to Earth, where he grows up as Clark Kent (Christopher Reeve) and works at the Daily Planet.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403823" start="20250301133200 +0000" stop="20250301154000 +0000">
+    <title lang="zh">Superman II</title>
+    <desc>The Man of Steel (Christopher Reeve) gets serious with Lois Lane (Margot Kidder) and fights three Krypton outcasts in league with Lex Luthor (Gene Hackman).</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403823" start="20250301154000 +0000" stop="20250301174500 +0000">
+    <title lang="zh">Superman III</title>
+    <desc>Ersatz kryptonite laced with tobacco tar splits Superman (Christopher Reeve) in two: good Clark Kent and bad Man of Steel.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403823" start="20250301174500 +0000" stop="20250301191500 +0000">
+    <title lang="zh">Superman IV: The Quest for Peace</title>
+    <desc>The Man of Steel (Christopher Reeve) crusades for nuclear disarmament and meets Lex Luthor's (Gene Hackman) latest creation, Nuclear Man.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403823" start="20250301191500 +0000" stop="20250301215000 +0000">
+    <title lang="zh">Superman Returns</title>
+    <desc>While Lex Luthor (Jon Peters) plots against him, the Man of Steel (Brandon Routh) tries to reconnect with Lois Lane (Kate Bosworth) and find his place in a world that learned to survive in his absence.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403823" start="20250301215000 +0000" stop="20250301234600 +0000">
+    <title lang="zh">Uncharted</title>
+    <desc>Treasure hunter Victor Sullivan recruits Nathan Drake to help him recover a 500-year-old fortune. What starts out as a heist becomes a globe-trotting, white-knuckle race to reach the prize before the ruthless Santiago Moncada can get his hands on it.</desc>
+    <date>2025-03-01</date>
+  </programme>
+  <programme channel="403823" start="20250301234600 +0000" stop="20250302000000 +0000">
+    <title lang="zh">The Perks of Being a Wallflower</title>
+    <desc>Socially awkward Charlie is a wallflower watching from the sidelines, until a pair of charismatic seniors take him under their wing.</desc>
     <date>2025-03-01</date>
   </programme>
   <programme channel="403805" start="20250228000000 +0000" stop="20250228003000 +0000">
