@@ -1,75 +1,5 @@
 [
     {
-        "start":  "2025-03-02T03:05:00.0000000",
-        "title":  "NBA Basketball: Los Angeles Clippers at Los Angeles Lakers",
-        "end":  "2025-03-02T05:35:00.0000000"
-    },
-    {
-        "start":  "2025-03-02T05:35:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
-        "end":  "2025-03-02T06:30:00.0000000"
-    },
-    {
-        "start":  "2025-03-02T06:30:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
-        "end":  "2025-03-02T07:30:00.0000000"
-    },
-    {
-        "start":  "2025-03-02T07:30:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
-        "end":  "2025-03-02T08:30:00.0000000"
-    },
-    {
-        "start":  "2025-03-02T08:30:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
-        "end":  "2025-03-02T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-02T09:00:00.0000000",
-        "title":  "NBA Basketball: Golden State Warriors at Philadelphia 76ers",
-        "end":  "2025-03-02T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-02T11:00:00.0000000",
-        "title":  "SportsCenter with Scott Van Pelt",
-        "end":  "2025-03-02T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-02T12:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2025-03-02T13:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-02T13:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2025-03-02T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-02T14:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2025-03-02T15:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-02T15:00:00.0000000",
-        "title":  "College GameDay: From Gainesville, Fla",
-        "end":  "2025-03-02T17:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-02T23:00:00.0000000",
-        "title":  "NHL Hockey: Detroit Red Wings vs. Columbus Blue Jackets",
-        "end":  "2025-03-03T02:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-03T02:35:00.0000000",
-        "title":  "NBA Basketball: Minnesota Timberwolves at Phoenix Suns",
-        "end":  "2025-03-03T02:35:00.0000000"
-    },
-    {
-        "start":  "2025-03-03T02:35:00.0000000",
-        "title":  "NBA Basketball: Minnesota Timberwolves at Phoenix Suns",
-        "end":  "2025-03-03T05:05:00.0000000"
-    },
-    {
         "start":  "2025-03-03T05:05:00.0000000",
         "title":  "SportsCenter",
         "end":  "2025-03-03T06:00:00.0000000"
@@ -348,5 +278,105 @@
         "start":  "2025-03-06T00:00:00.0000000",
         "title":  "TGL Golf",
         "end":  "2025-03-06T02:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-06T06:00:00.0000000",
+        "title":  "SportsCenter with Scott Van Pelt",
+        "end":  "2025-03-06T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-06T07:00:00.0000000",
+        "title":  "SportsCenter with Scott Van Pelt",
+        "end":  "2025-03-06T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-06T08:00:00.0000000",
+        "title":  "SportsCenter with Scott Van Pelt",
+        "end":  "2025-03-06T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-06T09:00:00.0000000",
+        "title":  "SportsCenter with Scott Van Pelt",
+        "end":  "2025-03-06T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-06T10:00:00.0000000",
+        "title":  "SportsCenter with Scott Van Pelt",
+        "end":  "2025-03-06T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-06T11:00:00.0000000",
+        "title":  "SportsCenter with Scott Van Pelt",
+        "end":  "2025-03-06T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-06T12:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-03-06T13:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-06T13:00:00.0000000",
+        "title":  "Get Up",
+        "end":  "2025-03-06T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-06T15:00:00.0000000",
+        "title":  "First Take",
+        "end":  "2025-03-06T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-06T17:00:00.0000000",
+        "title":  "The Pat McAfee Show",
+        "end":  "2025-03-06T18:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-06T18:00:00.0000000",
+        "title":  "MLB Spring Training Baseball: Philadelphia Phillies at Detroit Tigers",
+        "end":  "2025-03-06T21:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-06T21:00:00.0000000",
+        "title":  "NFL Live",
+        "end":  "2025-03-06T22:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-06T22:00:00.0000000",
+        "title":  "Around the Horn",
+        "end":  "2025-03-06T22:30:00.0000000"
+    },
+    {
+        "start":  "2025-03-06T22:30:00.0000000",
+        "title":  "Pardon the Interruption",
+        "end":  "2025-03-06T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-06T23:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-03-06T23:30:00.0000000"
+    },
+    {
+        "start":  "2025-03-06T23:30:00.0000000",
+        "title":  "NBA Countdown",
+        "end":  "2025-03-07T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-07T00:00:00.0000000",
+        "title":  "NBA Courtside",
+        "end":  "2025-03-07T00:13:00.0000000"
+    },
+    {
+        "start":  "2025-03-07T00:13:00.0000000",
+        "title":  "NBA Basketball: Miami Heat at Cleveland Cavaliers",
+        "end":  "2025-03-07T02:35:00.0000000"
+    },
+    {
+        "start":  "2025-03-07T02:35:00.0000000",
+        "title":  "NBA Basketball: Oklahoma City Thunder at Memphis Grizzlies",
+        "end":  "2025-03-07T02:35:00.0000000"
+    },
+    {
+        "start":  "2025-03-07T02:35:00.0000000",
+        "title":  "NBA Basketball: Oklahoma City Thunder at Memphis Grizzlies",
+        "end":  "2025-03-07T05:05:00.0000000"
     }
 ]
