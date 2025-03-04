@@ -1,110 +1,5 @@
 [
     {
-        "start":  "2025-03-03T06:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-03-03T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-03T07:00:00.0000000",
-        "title":  "Good Morning Sports Fans",
-        "end":  "2025-03-03T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-03T08:00:00.0000000",
-        "title":  "Good Morning Sports Fans",
-        "end":  "2025-03-03T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-03T09:00:00.0000000",
-        "title":  "Good Morning Sports Fans",
-        "end":  "2025-03-03T10:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-03T10:00:00.0000000",
-        "title":  "The Football Show",
-        "end":  "2025-03-03T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-03T11:00:00.0000000",
-        "title":  "The Football Show",
-        "end":  "2025-03-03T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-03T12:00:00.0000000",
-        "title":  "Lunchtime Live: Generic Lunchtime Live",
-        "end":  "2025-03-03T13:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-03T13:00:00.0000000",
-        "title":  "Lunchtime Live: Generic Lunchtime Live",
-        "end":  "2025-03-03T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-03T14:00:00.0000000",
-        "title":  "Live WPL: UP Warriorz v Gujarat Giants 03.03",
-        "end":  "2025-03-03T17:30:00.0000000"
-    },
-    {
-        "start":  "2025-03-03T17:30:00.0000000",
-        "title":  "Sports Centre",
-        "end":  "2025-03-03T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-03T18:00:00.0000000",
-        "title":  "Sports Centre",
-        "end":  "2025-03-03T19:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-03T19:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-03-03T20:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-03T20:00:00.0000000",
-        "title":  "Live TGL",
-        "end":  "2025-03-03T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-03T22:00:00.0000000",
-        "title":  "Behind the Ropes",
-        "end":  "2025-03-03T22:30:00.0000000"
-    },
-    {
-        "start":  "2025-03-03T22:30:00.0000000",
-        "title":  "Back Pages Tonight",
-        "end":  "2025-03-03T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-03T23:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-03-04T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-04T00:00:00.0000000",
-        "title":  "Live TGL",
-        "end":  "2025-03-04T02:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-04T02:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-03-04T03:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-04T03:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-03-04T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-04T04:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-03-04T05:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-04T05:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-03-04T06:00:00.0000000"
-    },
-    {
         "start":  "2025-03-04T06:00:00.0000000",
         "title":  "Sky Sports News",
         "end":  "2025-03-04T07:00:00.0000000"
@@ -121,7 +16,7 @@
     },
     {
         "start":  "2025-03-04T08:30:00.0000000",
-        "title":  "Live ICC Champions Trophy Cricket",
+        "title":  "Live ICC Champions Trophy Cricket: India v Australia 04.03",
         "end":  "2025-03-04T17:30:00.0000000"
     },
     {
@@ -303,5 +198,55 @@
         "start":  "2025-03-07T23:00:00.0000000",
         "title":  "Live Tennis",
         "end":  "2025-03-08T02:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-08T02:00:00.0000000",
+        "title":  "Live Tennis",
+        "end":  "2025-03-08T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-08T06:00:00.0000000",
+        "title":  "Live LPGA Tour Golf",
+        "end":  "2025-03-08T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-08T09:00:00.0000000",
+        "title":  "Fight Night",
+        "end":  "2025-03-08T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-08T10:00:00.0000000",
+        "title":  "Soccer Saturday Pre-Match",
+        "end":  "2025-03-08T10:30:00.0000000"
+    },
+    {
+        "start":  "2025-03-08T10:30:00.0000000",
+        "title":  "Fantasy Football Pre-Match",
+        "end":  "2025-03-08T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-08T11:00:00.0000000",
+        "title":  "Live EFL: Coventry City v Stoke City 08.03",
+        "end":  "2025-03-08T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-08T15:00:00.0000000",
+        "title":  "Live Netball Super Cup",
+        "end":  "2025-03-08T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-08T17:00:00.0000000",
+        "title":  "Live: SNF: Brentford v Aston Villa 08.03",
+        "end":  "2025-03-08T20:30:00.0000000"
+    },
+    {
+        "start":  "2025-03-08T20:30:00.0000000",
+        "title":  "Live PGA Tour Golf: 2025 Arnold Palmer Invitational Presented By Mastercard Day 3",
+        "end":  "2025-03-08T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-08T23:00:00.0000000",
+        "title":  "Live Tennis",
+        "end":  "2025-03-09T02:00:00.0000000"
     }
 ]
