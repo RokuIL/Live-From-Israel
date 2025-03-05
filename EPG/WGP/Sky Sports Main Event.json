@@ -1,80 +1,5 @@
 [
     {
-        "start":  "2025-03-04T06:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-03-04T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-04T07:00:00.0000000",
-        "title":  "Good Morning Sports Fans",
-        "end":  "2025-03-04T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-04T08:00:00.0000000",
-        "title":  "Good Morning Sports Fans",
-        "end":  "2025-03-04T08:30:00.0000000"
-    },
-    {
-        "start":  "2025-03-04T08:30:00.0000000",
-        "title":  "Live ICC Champions Trophy Cricket: India v Australia 04.03",
-        "end":  "2025-03-04T17:30:00.0000000"
-    },
-    {
-        "start":  "2025-03-04T17:30:00.0000000",
-        "title":  "Sports Centre",
-        "end":  "2025-03-04T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-04T18:00:00.0000000",
-        "title":  "Sports Centre",
-        "end":  "2025-03-04T19:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-04T19:00:00.0000000",
-        "title":  "Gillette Labs Soccer Special",
-        "end":  "2025-03-04T19:30:00.0000000"
-    },
-    {
-        "start":  "2025-03-04T19:30:00.0000000",
-        "title":  "Live EFL: Wycombe Wanderers v Burton Albion 04.03",
-        "end":  "2025-03-04T22:30:00.0000000"
-    },
-    {
-        "start":  "2025-03-04T22:30:00.0000000",
-        "title":  "Game On: The Unstoppable Rise of Women\u0027s Sport",
-        "end":  "2025-03-04T23:45:00.0000000"
-    },
-    {
-        "start":  "2025-03-04T23:45:00.0000000",
-        "title":  "My Icon: Maggie Alphonsi",
-        "end":  "2025-03-05T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-05T00:00:00.0000000",
-        "title":  "Live TGL",
-        "end":  "2025-03-05T02:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-05T02:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-03-05T03:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-05T03:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-03-05T03:30:00.0000000"
-    },
-    {
-        "start":  "2025-03-05T03:30:00.0000000",
-        "title":  "Live Tennis",
-        "end":  "2025-03-05T05:30:00.0000000"
-    },
-    {
-        "start":  "2025-03-05T05:30:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-03-05T06:00:00.0000000"
-    },
-    {
         "start":  "2025-03-05T06:00:00.0000000",
         "title":  "Sky Sports News",
         "end":  "2025-03-05T07:00:00.0000000"
@@ -248,5 +173,45 @@
         "start":  "2025-03-08T23:00:00.0000000",
         "title":  "Live Tennis",
         "end":  "2025-03-09T02:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-09T02:00:00.0000000",
+        "title":  "Live Tennis",
+        "end":  "2025-03-09T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-09T06:00:00.0000000",
+        "title":  "Live LPGA Tour Golf",
+        "end":  "2025-03-09T08:30:00.0000000"
+    },
+    {
+        "start":  "2025-03-09T08:30:00.0000000",
+        "title":  "Live ICC Champions Trophy Cricket",
+        "end":  "2025-03-09T13:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-09T13:00:00.0000000",
+        "title":  "Live Super Sunday: Tottenham v Bournemouth 09.03",
+        "end":  "2025-03-09T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-09T16:00:00.0000000",
+        "title":  "Live Super Sunday: Manchester United v Arsenal 09.03",
+        "end":  "2025-03-09T19:30:00.0000000"
+    },
+    {
+        "start":  "2025-03-09T19:30:00.0000000",
+        "title":  "Live PGA Tour Golf: 2025 Arnold Palmer Invitational Presented By Mastercard Day 4",
+        "end":  "2025-03-09T22:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-09T22:00:00.0000000",
+        "title":  "Live Tennis",
+        "end":  "2025-03-10T01:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-10T01:00:00.0000000",
+        "title":  "Live Tennis",
+        "end":  "2025-03-10T05:00:00.0000000"
     }
 ]
