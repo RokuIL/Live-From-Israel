@@ -170,6 +170,10 @@
     <display-name lang="US">HBO Zone HD - East</display-name>
     <icon src="" />
   </channel>
+  <channel id="403793">
+    <display-name lang="US">ESPN</display-name>
+    <icon src="" />
+  </channel>
   <channel id="403821">
     <display-name lang="US">ESPN2</display-name>
     <icon src="" />
@@ -10833,6 +10837,186 @@
     <title lang="zh">The Lord of the Rings: The Return of the King</title>
     <desc>Frodo (Elijah Wood) and Sam march toward Mount Doom to destroy the ring, while Gandalf (Ian McKellen) and warriors prepare for a final confrontation with Sauron and his allies.</desc>
     <date>2025-03-07</date>
+  </programme>
+  <programme channel="403793" start="20250306000000 +0000" stop="20250306023500 +0000">
+    <title lang="zh">Live: NBA Basketball</title>
+    <desc>From Rocket Mortgage FieldHouse in Cleveland.</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="403793" start="20250306023500 +0000" stop="20250306050500 +0000">
+    <title lang="zh">Live: NBA Basketball</title>
+    <desc>From the FedEx Forum in Memphis, Tenn.</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="403793" start="20250306050500 +0000" stop="20250306060000 +0000">
+    <title lang="zh">Live: SportsCenter With Scott Van Pelt</title>
+    <desc>Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his "One Big Thing" commentary.</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="403793" start="20250306060000 +0000" stop="20250306070000 +0000">
+    <title lang="zh">Live: SportsCenter With Scott Van Pelt</title>
+    <desc>Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his "One Big Thing" commentary.</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="403793" start="20250306070000 +0000" stop="20250306080000 +0000">
+    <title lang="zh">SportsCenter With Scott Van Pelt</title>
+    <desc>Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his "One Big Thing" commentary.</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="403793" start="20250306080000 +0000" stop="20250306090000 +0000">
+    <title lang="zh">SportsCenter With Scott Van Pelt</title>
+    <desc>Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his "One Big Thing" commentary.</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="403793" start="20250306090000 +0000" stop="20250306110000 +0000">
+    <title lang="zh">NBA Basketball</title>
+    <desc>From the FedEx Forum in Memphis, Tenn.</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="403793" start="20250306110000 +0000" stop="20250306120000 +0000">
+    <title lang="zh">SportsCenter With Scott Van Pelt</title>
+    <desc>Scott Van Pelt presents the day in sports through his unique perspective with highlights, special guests and his "One Big Thing" commentary.</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="403793" start="20250306120000 +0000" stop="20250306130000 +0000">
+    <title lang="zh">Live: SportsCenter</title>
+    <desc>ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="403793" start="20250306130000 +0000" stop="20250306150000 +0000">
+    <title lang="zh">Live: Get Up</title>
+    <desc>Host Mike Greenberg is joined by ESPN analysts to analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="403793" start="20250306150000 +0000" stop="20250306170000 +0000">
+    <title lang="zh">Live: First Take</title>
+    <desc>Stephen A. Smith joins Molly Qerim to debate the hottest topics in sports with contributors and guests.</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="403793" start="20250306170000 +0000" stop="20250306180000 +0000">
+    <title lang="zh">Live: The Pat McAfee Show</title>
+    <desc>Former NFL punter Pat McAfee brings his humor and candor to the microphone to highlight the day's top stories.</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="403793" start="20250306180000 +0000" stop="20250306210000 +0000">
+    <title lang="zh">Live: MLB Baseball</title>
+    <desc>From George M. Steinbrenner Field in Tampa, Fla.</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="403793" start="20250306210000 +0000" stop="20250306220000 +0000">
+    <title lang="zh">Live: NFL Live</title>
+    <desc>Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL.Guests: Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, Field Yates, Adam Schefter, Keyshawn Johnson..</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="403793" start="20250306220000 +0000" stop="20250306223000 +0000">
+    <title lang="zh">Around the Horn</title>
+    <desc>Sportswriters around the country discuss sports issues.</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="403793" start="20250306223000 +0000" stop="20250306230000 +0000">
+    <title lang="zh">Live: Pardon the Interruption</title>
+    <desc>Opinions regarding the day's top sports stories.</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="403793" start="20250306230000 +0000" stop="20250307000000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <date>2025-03-06</date>
+  </programme>
+  <programme channel="403793" start="20250307000000 +0000" stop="20250307023000 +0000">
+    <title lang="zh">Live: NHL Hockey</title>
+    <desc>From Amalie Arena in Tampa, Fla.</desc>
+    <date>2025-03-07</date>
+  </programme>
+  <programme channel="403793" start="20250307023000 +0000" stop="20250307050000 +0000">
+    <title lang="zh">Live: NHL Hockey</title>
+    <desc>From Bridgestone Arena in Nashville, Tenn.</desc>
+    <date>2025-03-07</date>
+  </programme>
+  <programme channel="403793" start="20250307050000 +0000" stop="20250307060000 +0000">
+    <title lang="zh">Live: SportsCenter</title>
+    <desc>ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <date>2025-03-07</date>
+  </programme>
+  <programme channel="403793" start="20250307060000 +0000" stop="20250307070000 +0000">
+    <title lang="zh">Live: SportsCenter</title>
+    <desc>ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <date>2025-03-07</date>
+  </programme>
+  <programme channel="403793" start="20250307070000 +0000" stop="20250307080000 +0000">
+    <title lang="zh">Live: SportsCenter</title>
+    <desc>ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <date>2025-03-07</date>
+  </programme>
+  <programme channel="403793" start="20250307080000 +0000" stop="20250307090000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <date>2025-03-07</date>
+  </programme>
+  <programme channel="403793" start="20250307090000 +0000" stop="20250307110000 +0000">
+    <title lang="zh">NHL Hockey</title>
+    <desc>From Amalie Arena in Tampa, Fla.</desc>
+    <date>2025-03-07</date>
+  </programme>
+  <programme channel="403793" start="20250307110000 +0000" stop="20250307120000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <date>2025-03-07</date>
+  </programme>
+  <programme channel="403793" start="20250307120000 +0000" stop="20250307130000 +0000">
+    <title lang="zh">Live: SportsCenter</title>
+    <desc>ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <date>2025-03-07</date>
+  </programme>
+  <programme channel="403793" start="20250307130000 +0000" stop="20250307150000 +0000">
+    <title lang="zh">Live: Get Up</title>
+    <desc>Host Mike Greenberg is joined by ESPN analysts to analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.</desc>
+    <date>2025-03-07</date>
+  </programme>
+  <programme channel="403793" start="20250307150000 +0000" stop="20250307170000 +0000">
+    <title lang="zh">Live: First Take</title>
+    <desc>Stephen A. Smith joins Molly Qerim to debate the hottest topics in sports with contributors and guests.</desc>
+    <date>2025-03-07</date>
+  </programme>
+  <programme channel="403793" start="20250307170000 +0000" stop="20250307190000 +0000">
+    <title lang="zh">Live: Women's College Basketball</title>
+    <desc>From Bon Secours Wellness Arena in Greenville, S.C.</desc>
+    <date>2025-03-07</date>
+  </programme>
+  <programme channel="403793" start="20250307190000 +0000" stop="20250307193000 +0000">
+    <title lang="zh">Live: College Basketball Live Scoreboard</title>
+    <desc>All the latest scores and highlights from college basketball.</desc>
+    <date>2025-03-07</date>
+  </programme>
+  <programme channel="403793" start="20250307193000 +0000" stop="20250307213000 +0000">
+    <title lang="zh">Live: Women's College Basketball</title>
+    <desc>From Bon Secours Wellness Arena in Greenville, S.C.</desc>
+    <date>2025-03-07</date>
+  </programme>
+  <programme channel="403793" start="20250307213000 +0000" stop="20250307220000 +0000">
+    <title lang="zh">Live: College Basketball Live Scoreboard</title>
+    <desc>All the latest scores and highlights from college basketball.</desc>
+    <date>2025-03-07</date>
+  </programme>
+  <programme channel="403793" start="20250307220000 +0000" stop="20250307223000 +0000">
+    <title lang="zh">Around the Horn</title>
+    <desc>Sportswriters around the country discuss sports issues.</desc>
+    <date>2025-03-07</date>
+  </programme>
+  <programme channel="403793" start="20250307223000 +0000" stop="20250307230000 +0000">
+    <title lang="zh">Live: Pardon the Interruption</title>
+    <desc>Opinions regarding the day's top sports stories.</desc>
+    <date>2025-03-07</date>
+  </programme>
+  <programme channel="403793" start="20250307230000 +0000" stop="20250308000000 +0000">
+    <title lang="zh">Live: SportsCenter</title>
+    <desc>ESPN's flagship program provides sports news, highlights and analysis.</desc>
+    <date>2025-03-07</date>
+  </programme>
+  <programme channel="403793" start="20250308000000 +0000" stop="20250309000000 +0000">
+    <title lang="zh">Live: NBA Countdown</title>
+    <desc>Bold opinions, discussion and debate centered on the top storylines from around the league. Mike Greenberg hosts this pregame show with analysts Stephen A. Smith and Michael Wilbon.</desc>
+    <date>2025-03-08</date>
   </programme>
   <programme channel="403821" start="20250306000000 +0000" stop="20250306020000 +0000">
     <title lang="zh">Live: College Basketball</title>
