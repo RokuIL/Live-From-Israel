@@ -1,130 +1,5 @@
 [
     {
-        "start":  "2025-03-13T00:00:00.0000000",
-        "title":  "Stay Tuned NOW With Gadi Schwartz",
-        "end":  "2025-03-13T01:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T01:00:00.0000000",
-        "title":  "Top Story With Tom Llamas",
-        "end":  "2025-03-13T02:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T02:00:00.0000000",
-        "title":  "NBC Nightly News With Lester Holt",
-        "end":  "2025-03-13T03:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T03:00:00.0000000",
-        "title":  "Stay Tuned NOW With Gadi Schwartz",
-        "end":  "2025-03-13T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T04:00:00.0000000",
-        "title":  "Top Story With Tom Llamas",
-        "end":  "2025-03-13T05:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T05:00:00.0000000",
-        "title":  "NBC Nightly News With Lester Holt",
-        "end":  "2025-03-13T06:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T06:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2025-03-13T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T07:00:00.0000000",
-        "title":  "Dateline NBC: Troubled Waters",
-        "end":  "2025-03-13T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T08:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2025-03-13T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T09:00:00.0000000",
-        "title":  "Early Today",
-        "end":  "2025-03-13T09:30:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T09:30:00.0000000",
-        "title":  "Early Today",
-        "end":  "2025-03-13T10:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T10:00:00.0000000",
-        "title":  "Early Today",
-        "end":  "2025-03-13T10:30:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T10:30:00.0000000",
-        "title":  "Early Today",
-        "end":  "2025-03-13T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T11:00:00.0000000",
-        "title":  "Morning News NOW",
-        "end":  "2025-03-13T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T12:00:00.0000000",
-        "title":  "Morning News NOW",
-        "end":  "2025-03-13T13:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T13:00:00.0000000",
-        "title":  "Morning News NOW",
-        "end":  "2025-03-13T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T14:00:00.0000000",
-        "title":  "Morning News NOW",
-        "end":  "2025-03-13T15:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T15:00:00.0000000",
-        "title":  "Morning News NOW",
-        "end":  "2025-03-13T16:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T16:00:00.0000000",
-        "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
-        "end":  "2025-03-13T17:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T17:00:00.0000000",
-        "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
-        "end":  "2025-03-13T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T18:00:00.0000000",
-        "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
-        "end":  "2025-03-13T19:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T19:00:00.0000000",
-        "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
-        "end":  "2025-03-13T20:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T20:00:00.0000000",
-        "title":  "Meet the Press NOW",
-        "end":  "2025-03-13T21:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T21:00:00.0000000",
-        "title":  "Hallie Jackson NOW",
-        "end":  "2025-03-13T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-13T23:00:00.0000000",
-        "title":  "Top Story With Tom Llamas",
-        "end":  "2025-03-14T00:00:00.0000000"
-    },
-    {
         "start":  "2025-03-14T00:00:00.0000000",
         "title":  "Stay Tuned NOW With Gadi Schwartz",
         "end":  "2025-03-14T01:00:00.0000000"
@@ -588,5 +463,125 @@
         "start":  "2025-03-17T23:00:00.0000000",
         "title":  "Top Story With Tom Llamas",
         "end":  "2025-03-18T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T00:00:00.0000000",
+        "title":  "Stay Tuned NOW With Gadi Schwartz",
+        "end":  "2025-03-18T01:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T01:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "end":  "2025-03-18T02:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T02:00:00.0000000",
+        "title":  "NBC Nightly News With Lester Holt",
+        "end":  "2025-03-18T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T03:00:00.0000000",
+        "title":  "Stay Tuned NOW With Gadi Schwartz",
+        "end":  "2025-03-18T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T04:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "end":  "2025-03-18T05:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T05:00:00.0000000",
+        "title":  "NBC Nightly News With Lester Holt",
+        "end":  "2025-03-18T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T06:00:00.0000000",
+        "title":  "Dateline NBC: Graduation Night",
+        "end":  "2025-03-18T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T07:00:00.0000000",
+        "title":  "Dateline NBC: While She Was Sleeping",
+        "end":  "2025-03-18T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T09:00:00.0000000",
+        "title":  "Early Today",
+        "end":  "2025-03-18T09:30:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T09:30:00.0000000",
+        "title":  "Early Today",
+        "end":  "2025-03-18T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T10:00:00.0000000",
+        "title":  "Early Today",
+        "end":  "2025-03-18T10:30:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T10:30:00.0000000",
+        "title":  "Early Today",
+        "end":  "2025-03-18T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T11:00:00.0000000",
+        "title":  "Morning News NOW",
+        "end":  "2025-03-18T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T12:00:00.0000000",
+        "title":  "Morning News NOW",
+        "end":  "2025-03-18T13:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T13:00:00.0000000",
+        "title":  "Morning News NOW",
+        "end":  "2025-03-18T14:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T14:00:00.0000000",
+        "title":  "Morning News NOW",
+        "end":  "2025-03-18T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T15:00:00.0000000",
+        "title":  "Morning News NOW",
+        "end":  "2025-03-18T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T16:00:00.0000000",
+        "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
+        "end":  "2025-03-18T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T17:00:00.0000000",
+        "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
+        "end":  "2025-03-18T18:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T18:00:00.0000000",
+        "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
+        "end":  "2025-03-18T19:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T19:00:00.0000000",
+        "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
+        "end":  "2025-03-18T20:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T20:00:00.0000000",
+        "title":  "Meet the Press NOW",
+        "end":  "2025-03-18T21:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T21:00:00.0000000",
+        "title":  "Hallie Jackson NOW",
+        "end":  "2025-03-18T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-18T23:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "end":  "2025-03-19T00:00:00.0000000"
     }
 ]
