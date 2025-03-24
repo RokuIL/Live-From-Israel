@@ -1,170 +1,5 @@
 [
     {
-        "start":  "2025-03-23T02:00:00.0000000",
-        "title":  "Live: 2025 NCAA Women\u0027s Basketball Tournament",
-        "end":  "2025-03-23T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-23T04:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-03-23T05:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-23T05:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-03-23T06:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-23T06:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-03-23T06:55:00.0000000"
-    },
-    {
-        "start":  "2025-03-23T06:55:00.0000000",
-        "title":  "Live: Formula 1 Racing",
-        "end":  "2025-03-23T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-23T09:00:00.0000000",
-        "title":  "NHL Hockey",
-        "end":  "2025-03-23T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-23T11:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-03-23T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-23T12:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-03-23T13:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-23T13:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-03-23T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-23T14:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-03-23T15:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-23T15:00:00.0000000",
-        "title":  "Live: College GameDay",
-        "end":  "2025-03-23T16:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-23T16:00:00.0000000",
-        "title":  "Live: 2025 NCAA Women\u0027s Basketball Tournament",
-        "end":  "2025-03-23T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-23T18:00:00.0000000",
-        "title":  "Live: 2025 NCAA Women\u0027s Basketball Tournament",
-        "end":  "2025-03-23T20:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-23T20:00:00.0000000",
-        "title":  "Live: 2025 NCAA Women\u0027s Basketball Tournament",
-        "end":  "2025-03-23T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-23T22:00:00.0000000",
-        "title":  "2025 NCAA Women\u0027s Basketball Tournament",
-        "end":  "2025-03-24T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-24T00:00:00.0000000",
-        "title":  "Live: 2025 NCAA Women\u0027s Basketball Tournament",
-        "end":  "2025-03-24T02:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-24T02:00:00.0000000",
-        "title":  "Live: 2025 NCAA Women\u0027s Basketball Tournament",
-        "end":  "2025-03-24T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-24T04:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-03-24T05:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-24T05:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-03-24T06:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-24T06:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-03-24T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-24T07:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2025-03-24T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-24T08:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2025-03-24T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-24T09:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2025-03-24T10:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-24T10:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2025-03-24T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-24T11:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-03-24T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-24T12:00:00.0000000",
-        "title":  "Live: Get Up",
-        "end":  "2025-03-24T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-24T14:00:00.0000000",
-        "title":  "Live: First Take",
-        "end":  "2025-03-24T15:30:00.0000000"
-    },
-    {
-        "start":  "2025-03-24T15:30:00.0000000",
-        "title":  "Live: NCAA Championship In the Studio",
-        "end":  "2025-03-24T16:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-24T16:00:00.0000000",
-        "title":  "Live: 2025 NCAA Women\u0027s Basketball Tournament",
-        "end":  "2025-03-24T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-24T18:00:00.0000000",
-        "title":  "Live: 2025 NCAA Women\u0027s Basketball Tournament",
-        "end":  "2025-03-24T20:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-24T20:00:00.0000000",
-        "title":  "Live: 2025 NCAA Women\u0027s Basketball Tournament",
-        "end":  "2025-03-24T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-24T22:00:00.0000000",
-        "title":  "2025 NCAA Women\u0027s Basketball Tournament",
-        "end":  "2025-03-25T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-03-25T00:00:00.0000000",
-        "title":  "Live: 2025 NCAA Women\u0027s Basketball Tournament",
-        "end":  "2025-03-26T00:00:00.0000000"
-    },
-    {
         "start":  "2025-03-24T00:00:00.0000000",
         "title":  "Live: 2025 NCAA Women\u0027s Basketball Tournament",
         "end":  "2025-03-24T02:00:00.0000000"
@@ -448,6 +283,41 @@
         "start":  "2025-03-25T23:00:00.0000000",
         "title":  "Live: TGL Golf",
         "end":  "2025-03-26T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-26T01:00:00.0000000",
+        "title":  "Live: TGL Golf",
+        "end":  "2025-03-26T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-26T03:00:00.0000000",
+        "title":  "Live: SportsCenter With Scott Van Pelt",
+        "end":  "2025-03-26T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-26T04:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "end":  "2025-03-26T05:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-26T05:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "end":  "2025-03-26T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-26T06:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "end":  "2025-03-26T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-26T07:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-03-26T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-26T08:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-03-27T00:00:00.0000000"
     },
     {
         "start":  "2025-03-26T01:00:00.0000000",
