@@ -422,7 +422,92 @@
     {
         "start":  "2025-03-31T08:00:00.0000000",
         "title":  "Good Morning America First Look",
+        "end":  "2025-03-31T08:30:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T08:30:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "end":  "2025-03-31T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T10:00:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "end":  "2025-03-31T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T11:00:00.0000000",
+        "title":  "Good Morning America",
+        "end":  "2025-03-31T13:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T13:00:00.0000000",
+        "title":  "Live with Kelly and Mark",
+        "end":  "2025-03-31T14:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T14:00:00.0000000",
+        "title":  "Eyewitness News Mornings at 10",
+        "end":  "2025-03-31T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T15:00:00.0000000",
+        "title":  "The View",
+        "end":  "2025-03-31T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T16:00:00.0000000",
+        "title":  "Eyewitness News at Noon",
+        "end":  "2025-03-31T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T17:00:00.0000000",
+        "title":  "GMA3: What You Need to Know",
+        "end":  "2025-03-31T18:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T18:00:00.0000000",
+        "title":  "Tamron Hall",
+        "end":  "2025-03-31T19:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T19:00:00.0000000",
+        "title":  "General Hospital",
+        "end":  "2025-03-31T20:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T20:00:00.0000000",
+        "title":  "Eyewitness News First at 4",
+        "end":  "2025-03-31T21:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T21:00:00.0000000",
+        "title":  "Eyewitness News at 5",
+        "end":  "2025-03-31T22:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T22:00:00.0000000",
+        "title":  "Eyewitness News at 6",
+        "end":  "2025-03-31T22:30:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T22:30:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "end":  "2025-03-31T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T23:00:00.0000000",
+        "title":  "Jeopardy!",
+        "end":  "2025-03-31T23:30:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T23:30:00.0000000",
+        "title":  "Wheel of Fortune",
         "end":  "2025-04-01T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-01T00:00:00.0000000",
+        "title":  "American Idol",
+        "end":  "2025-04-02T00:00:00.0000000"
     },
     {
         "start":  "2025-03-31T00:00:00.0000000",
@@ -462,6 +547,136 @@
     {
         "start":  "2025-03-31T08:00:00.0000000",
         "title":  "Good Morning America First Look",
+        "end":  "2025-03-31T08:30:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T08:30:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "end":  "2025-03-31T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T10:00:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "end":  "2025-03-31T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T11:00:00.0000000",
+        "title":  "Good Morning America",
+        "end":  "2025-03-31T13:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T13:00:00.0000000",
+        "title":  "Live with Kelly and Mark",
+        "end":  "2025-03-31T14:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T14:00:00.0000000",
+        "title":  "Eyewitness News Mornings at 10",
+        "end":  "2025-03-31T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T15:00:00.0000000",
+        "title":  "The View",
+        "end":  "2025-03-31T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T16:00:00.0000000",
+        "title":  "Eyewitness News at Noon",
+        "end":  "2025-03-31T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T17:00:00.0000000",
+        "title":  "GMA3: What You Need to Know",
+        "end":  "2025-03-31T18:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T18:00:00.0000000",
+        "title":  "Tamron Hall",
+        "end":  "2025-03-31T19:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T19:00:00.0000000",
+        "title":  "General Hospital",
+        "end":  "2025-03-31T20:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T20:00:00.0000000",
+        "title":  "Eyewitness News First at 4",
+        "end":  "2025-03-31T21:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T21:00:00.0000000",
+        "title":  "Eyewitness News at 5",
+        "end":  "2025-03-31T22:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T22:00:00.0000000",
+        "title":  "Eyewitness News at 6",
+        "end":  "2025-03-31T22:30:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T22:30:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "end":  "2025-03-31T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T23:00:00.0000000",
+        "title":  "Jeopardy!",
+        "end":  "2025-03-31T23:30:00.0000000"
+    },
+    {
+        "start":  "2025-03-31T23:30:00.0000000",
+        "title":  "Wheel of Fortune",
         "end":  "2025-04-01T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-01T00:00:00.0000000",
+        "title":  "American Idol",
+        "end":  "2025-04-01T02:01:00.0000000"
+    },
+    {
+        "start":  "2025-04-01T02:01:00.0000000",
+        "title":  "An Oprah Winfrey Special: The Menopause Revolution",
+        "end":  "2025-04-01T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-01T03:00:00.0000000",
+        "title":  "Eyewitness News at 11",
+        "end":  "2025-04-01T03:35:00.0000000"
+    },
+    {
+        "start":  "2025-04-01T03:35:00.0000000",
+        "title":  "Jimmy Kimmel Live!",
+        "end":  "2025-04-01T04:37:00.0000000"
+    },
+    {
+        "start":  "2025-04-01T04:37:00.0000000",
+        "title":  "Nightline",
+        "end":  "2025-04-01T05:06:00.0000000"
+    },
+    {
+        "start":  "2025-04-01T05:06:00.0000000",
+        "title":  "Live with Kelly and Mark",
+        "end":  "2025-04-01T06:06:00.0000000"
+    },
+    {
+        "start":  "2025-04-01T06:06:00.0000000",
+        "title":  "Daytime Jeopardy",
+        "end":  "2025-04-01T06:36:00.0000000"
+    },
+    {
+        "start":  "2025-04-01T06:36:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "end":  "2025-04-01T07:05:00.0000000"
+    },
+    {
+        "start":  "2025-04-01T07:05:00.0000000",
+        "title":  "Tamron Hall",
+        "end":  "2025-04-01T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-01T08:00:00.0000000",
+        "title":  "Good Morning America First Look",
+        "end":  "2025-04-02T00:00:00.0000000"
     }
 ]
