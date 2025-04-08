@@ -1,55 +1,5 @@
 [
     {
-        "start":  "2025-04-07T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-04-07T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-04-07T14:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-04-07T16:00:00.0000000"
-    },
-    {
-        "start":  "2025-04-07T16:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-04-07T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-04-07T18:00:00.0000000",
-        "title":  "A Football Life: DeMarcus Ware",
-        "end":  "2025-04-07T19:00:00.0000000"
-    },
-    {
-        "start":  "2025-04-07T19:00:00.0000000",
-        "title":  "NFL Football: Carolina Panthers at Denver Broncos",
-        "end":  "2025-04-07T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-04-07T22:00:00.0000000",
-        "title":  "Path to the Draft",
-        "end":  "2025-04-07T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-04-07T23:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-04-08T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-04-08T00:00:00.0000000",
-        "title":  "Path to the Draft",
-        "end":  "2025-04-08T01:00:00.0000000"
-    },
-    {
-        "start":  "2025-04-08T01:00:00.0000000",
-        "title":  "NFL Football: Chicago Bears at Washington Commanders",
-        "end":  "2025-04-08T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-04-08T04:00:00.0000000",
-        "title":  "Path to the Draft",
-        "end":  "2025-04-08T05:00:00.0000000"
-    },
-    {
         "start":  "2025-04-08T05:00:00.0000000",
         "title":  "The Insiders",
         "end":  "2025-04-08T06:00:00.0000000"
@@ -328,5 +278,70 @@
         "start":  "2025-04-12T01:00:00.0000000",
         "title":  "Monday Night Football: Washington Commanders at Cincinnati Bengals",
         "end":  "2025-04-12T03:30:00.0000000"
+    },
+    {
+        "start":  "2025-04-12T04:00:00.0000000",
+        "title":  "Path to the Draft",
+        "end":  "2025-04-12T05:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-12T05:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-04-12T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-12T06:00:00.0000000",
+        "title":  "Path to the Draft",
+        "end":  "2025-04-12T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-12T07:00:00.0000000",
+        "title":  "NFL Football: Las Vegas Raiders at Baltimore Ravens",
+        "end":  "2025-04-12T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-12T10:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-04-12T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-12T11:00:00.0000000",
+        "title":  "Path to the Draft",
+        "end":  "2025-04-12T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-12T13:00:00.0000000",
+        "title":  "NFL Football: New York Giants at Seattle Seahawks",
+        "end":  "2025-04-12T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-12T16:00:00.0000000",
+        "title":  "Sunday Night Football: Cincinnati Bengals at Los Angeles Chargers",
+        "end":  "2025-04-12T19:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-12T19:00:00.0000000",
+        "title":  "NFL Football: Chicago Bears at Washington Commanders",
+        "end":  "2025-04-12T22:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-12T22:00:00.0000000",
+        "title":  "OT7 Football",
+        "end":  "2025-04-12T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-12T23:00:00.0000000",
+        "title":  "OT7 Football",
+        "end":  "2025-04-13T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-13T00:00:00.0000000",
+        "title":  "NFL Football: Las Vegas Raiders at Baltimore Ravens",
+        "end":  "2025-04-13T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-13T03:00:00.0000000",
+        "title":  "OT7 Football",
+        "end":  "2025-04-13T04:00:00.0000000"
     }
 ]
