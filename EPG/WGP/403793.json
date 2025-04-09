@@ -292,7 +292,67 @@
     {
         "start":  "2025-04-11T08:00:00.0000000",
         "title":  "SportsCenter",
+        "end":  "2025-04-11T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-11T09:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-04-11T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-11T10:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-04-11T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-11T11:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "end":  "2025-04-11T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-11T12:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "end":  "2025-04-11T13:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-11T13:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "end":  "2025-04-11T14:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-11T14:00:00.0000000",
+        "title":  "Live: Sportscenter at the Masters",
+        "end":  "2025-04-11T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-11T15:00:00.0000000",
+        "title":  "Live: Sportscenter at the Masters",
+        "end":  "2025-04-11T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-11T16:00:00.0000000",
+        "title":  "Live: Sportscenter at the Masters",
+        "end":  "2025-04-11T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-11T17:00:00.0000000",
+        "title":  "Live: Welcome to The Masters",
+        "end":  "2025-04-11T19:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-11T19:00:00.0000000",
+        "title":  "Live: 2025 Masters Tournament",
+        "end":  "2025-04-11T23:30:00.0000000"
+    },
+    {
+        "start":  "2025-04-11T23:30:00.0000000",
+        "title":  "Live: Sportscenter at the Masters",
         "end":  "2025-04-12T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-12T00:00:00.0000000",
+        "title":  "2025 Masters Tournament",
+        "end":  "2025-04-13T00:00:00.0000000"
     },
     {
         "start":  "2025-04-11T00:00:00.0000000",
@@ -327,6 +387,96 @@
     {
         "start":  "2025-04-11T08:00:00.0000000",
         "title":  "SportsCenter",
+        "end":  "2025-04-11T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-11T09:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-04-11T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-11T10:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2025-04-11T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-11T11:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "end":  "2025-04-11T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-11T12:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "end":  "2025-04-11T13:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-11T13:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "end":  "2025-04-11T14:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-11T14:00:00.0000000",
+        "title":  "Live: Sportscenter at the Masters",
+        "end":  "2025-04-11T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-11T15:00:00.0000000",
+        "title":  "Live: Sportscenter at the Masters",
+        "end":  "2025-04-11T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-11T16:00:00.0000000",
+        "title":  "Live: Sportscenter at the Masters",
+        "end":  "2025-04-11T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-11T17:00:00.0000000",
+        "title":  "Live: Welcome to The Masters",
+        "end":  "2025-04-11T19:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-11T19:00:00.0000000",
+        "title":  "Live: 2025 Masters Tournament",
+        "end":  "2025-04-11T23:30:00.0000000"
+    },
+    {
+        "start":  "2025-04-11T23:30:00.0000000",
+        "title":  "Live: Sportscenter at the Masters",
         "end":  "2025-04-12T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-12T00:00:00.0000000",
+        "title":  "2025 Masters Tournament",
+        "end":  "2025-04-12T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-12T03:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "end":  "2025-04-12T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-12T04:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "end":  "2025-04-12T05:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-12T05:00:00.0000000",
+        "title":  "Live: SportsCenter Americano",
+        "end":  "2025-04-12T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-12T06:00:00.0000000",
+        "title":  "SportsCenter Americano",
+        "end":  "2025-04-12T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-12T07:00:00.0000000",
+        "title":  "SportsCenter Americano",
+        "end":  "2025-04-12T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-04-12T08:00:00.0000000",
+        "title":  "SportsCenter Americano",
+        "end":  "2025-04-13T00:00:00.0000000"
     }
 ]
