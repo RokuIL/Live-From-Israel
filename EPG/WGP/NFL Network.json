@@ -1,70 +1,5 @@
 [
     {
-        "start":  "2025-05-06T04:00:00.0000000",
-        "title":  "NFL Playoff: Los Angeles Chargers at Houston Texans",
-        "end":  "2025-05-06T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-05-06T07:00:00.0000000",
-        "title":  "NFL Playoff: Pittsburgh Steelers at Baltimore Ravens",
-        "end":  "2025-05-06T09:30:00.0000000"
-    },
-    {
-        "start":  "2025-05-06T10:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-05-06T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-05-06T11:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-05-06T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-05-06T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-05-06T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-05-06T14:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-05-06T16:00:00.0000000"
-    },
-    {
-        "start":  "2025-05-06T16:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-05-06T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-05-06T18:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-05-06T20:00:00.0000000"
-    },
-    {
-        "start":  "2025-05-06T20:00:00.0000000",
-        "title":  "NFL Playoff",
-        "end":  "2025-05-06T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-05-06T23:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-05-07T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-05-07T00:00:00.0000000",
-        "title":  "NFL Playoff: Green Bay Packers at Philadelphia Eagles",
-        "end":  "2025-05-07T03:00:00.0000000"
-    },
-    {
-        "start":  "2025-05-07T03:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-05-07T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-05-07T04:00:00.0000000",
-        "title":  "NFL Playoff",
-        "end":  "2025-05-07T04:00:00.0000000"
-    },
-    {
         "start":  "2025-05-07T04:00:00.0000000",
         "title":  "NFL Playoff",
         "end":  "2025-05-07T07:00:00.0000000"
@@ -308,5 +243,50 @@
         "start":  "2025-05-11T01:00:00.0000000",
         "title":  "NFL Playoff: Washington Commanders at Tampa Bay Buccaneers",
         "end":  "2025-05-11T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-05-11T04:00:00.0000000",
+        "title":  "NFL Playoff: Minnesota Vikings vs. Los Angeles Rams",
+        "end":  "2025-05-11T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-05-11T04:00:00.0000000",
+        "title":  "NFL Playoff: Minnesota Vikings vs. Los Angeles Rams",
+        "end":  "2025-05-11T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-05-11T07:00:00.0000000",
+        "title":  "NFL Playoff: Los Angeles Chargers at Houston Texans",
+        "end":  "2025-05-11T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-05-11T10:00:00.0000000",
+        "title":  "NFL Playoff",
+        "end":  "2025-05-11T13:00:00.0000000"
+    },
+    {
+        "start":  "2025-05-11T13:00:00.0000000",
+        "title":  "NFL Playoff: Washington Commanders at Detroit Lions",
+        "end":  "2025-05-11T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-05-11T16:00:00.0000000",
+        "title":  "NFL Playoff: Los Angeles Rams at Philadelphia Eagles",
+        "end":  "2025-05-11T19:00:00.0000000"
+    },
+    {
+        "start":  "2025-05-11T19:00:00.0000000",
+        "title":  "NFL Playoff: Baltimore Ravens at Buffalo Bills",
+        "end":  "2025-05-11T22:00:00.0000000"
+    },
+    {
+        "start":  "2025-05-11T22:00:00.0000000",
+        "title":  "NFL Playoff: Washington Commanders at Philadelphia Eagles",
+        "end":  "2025-05-12T01:00:00.0000000"
+    },
+    {
+        "start":  "2025-05-12T01:00:00.0000000",
+        "title":  "NFL Playoff",
+        "end":  "2025-05-12T04:00:00.0000000"
     }
 ]
