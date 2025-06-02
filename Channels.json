@@ -296,11 +296,12 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://newembedplay.xyz https://topembed.pw",
+                "Referer:https://newembedplay.xyz/ https://topembed.pw/"
             ],
             "StreamUrls": [
-                "https://zekonew.newkso.ru/zeko/premium44/mono.m3u8"
+                "https://zekonew.newkso.ru/zeko/premium44/mono.m3u8",
+                "https://hztnew.newkso.ru/hzt/eplayerespn_usa/mono.m3u8"
             ]
         },
         {
@@ -315,11 +316,12 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://newembedplay.xyz https://topembed.pw",
+                "Referer:https://newembedplay.xyz/ https://topembed.pw/"
             ],
             "StreamUrls": [
-                "https://windnew.newkso.ru/wind/premium45/mono.m3u8"
+                "https://windnew.newkso.ru/wind/premium45/mono.m3u8",
+                "https://hztnew.newkso.ru/hzt/eplayerespn2_usa/mono.m3u8"
             ]
         },
         {
@@ -334,11 +336,12 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://newembedplay.xyz https://topembed.pw",
+                "Referer:https://newembedplay.xyz/ https://topembed.pw/"
             ],
             "StreamUrls": [
-                "https://zekonew.newkso.ru/zeko/premium405/mono.m3u8"
+                "https://zekonew.newkso.ru/zeko/premium405/mono.m3u8",
+                "https://hztnew.newkso.ru/hzt/eplayerNFLNetwork/mono.m3u8"
             ]
         },
         {
@@ -351,11 +354,12 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://newembedplay.xyz https://topembed.pw",
+                "Referer:https://newembedplay.xyz/ https://topembed.pw/"
             ],
             "StreamUrls": [
-                "https://nfsnew.newkso.ru/nfs/premium37/mono.m3u8"
+                "https://nfsnew.newkso.ru/nfs/premium37/mono.m3u8",
+                "https://azonew.newkso.ru/azo/skyaction/mono.m3u8"
             ]
         },
         {
@@ -368,11 +372,12 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://newembedplay.xyz https://topembed.pw",
+                "Referer:https://newembedplay.xyz/ https://topembed.pw/"
             ],
             "StreamUrls": [
-                "https://zekonew.newkso.ru/zeko/premium38/mono.m3u8"
+                "https://zekonew.newkso.ru/zeko/premium38/mono.m3u8",
+                "https://azonew.newkso.ru/azo/eplayerskymain2/mono.m3u8"
             ]
         },        
         {
@@ -469,11 +474,12 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://newembedplay.xyz https://topembed.pw",
+                "Referer:https://newembedplay.xyz/ https://topembed.pw/"
             ],
             "StreamUrls": [
-                "https://zekonew.newkso.ru/zeko/premium347/mono.m3u8"
+                "https://zekonew.newkso.ru/zeko/premium347/mono.m3u8",
+                "https://top2new.newkso.ru/top2/ustvfoxnnews/mono.m3u8"
             ]
         },
         {
