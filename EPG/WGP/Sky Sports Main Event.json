@@ -1,70 +1,5 @@
 [
     {
-        "start":  "2025-06-07T05:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-06-07T06:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-07T06:00:00.0000000",
-        "title":  "Good Morning Sports Fans",
-        "end":  "2025-06-07T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-07T07:00:00.0000000",
-        "title":  "Good Morning Sports Fans",
-        "end":  "2025-06-07T07:30:00.0000000"
-    },
-    {
-        "start":  "2025-06-07T07:30:00.0000000",
-        "title":  "Live NRL: Cronulla Sharks v NZ Warriors 07.06",
-        "end":  "2025-06-07T09:30:00.0000000"
-    },
-    {
-        "start":  "2025-06-07T09:30:00.0000000",
-        "title":  "Live Women\u0027s International One-Day Cricket",
-        "end":  "2025-06-07T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-07T18:00:00.0000000",
-        "title":  "Live Fight Night",
-        "end":  "2025-06-07T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-07T22:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-06-07T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-07T23:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-06-08T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-08T00:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-06-08T01:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-08T01:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-06-08T02:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-08T02:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-06-08T03:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-08T03:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-06-08T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-08T04:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-06-08T05:00:00.0000000"
-    },
-    {
         "start":  "2025-06-08T05:00:00.0000000",
         "title":  "Sky Sports News",
         "end":  "2025-06-08T06:00:00.0000000"
@@ -356,22 +291,22 @@
     },
     {
         "start":  "2025-06-11T21:00:00.0000000",
-        "title":  "Sky Sports News at Ten (?)",
+        "title":  "Sky Sports News at Ten",
         "end":  "2025-06-11T21:30:00.0000000"
     },
     {
         "start":  "2025-06-11T21:30:00.0000000",
-        "title":  "Back Pages Tonight (?)",
+        "title":  "Back Pages Tonight",
         "end":  "2025-06-11T22:00:00.0000000"
     },
     {
         "start":  "2025-06-11T22:00:00.0000000",
-        "title":  "Sky Sports News (?)",
+        "title":  "Sky Sports News",
         "end":  "2025-06-11T23:00:00.0000000"
     },
     {
         "start":  "2025-06-11T23:00:00.0000000",
-        "title":  "Sky Sports News (?)",
+        "title":  "Sky Sports News",
         "end":  "2025-06-12T00:00:00.0000000"
     },
     {
@@ -398,5 +333,65 @@
         "start":  "2025-06-12T04:00:00.0000000",
         "title":  "Sky Sports News",
         "end":  "2025-06-12T05:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-12T05:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-06-12T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-12T06:00:00.0000000",
+        "title":  "Good Morning Sports Fans",
+        "end":  "2025-06-12T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-12T07:00:00.0000000",
+        "title":  "Good Morning Sports Fans",
+        "end":  "2025-06-12T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-12T08:00:00.0000000",
+        "title":  "Good Morning Sports Fans",
+        "end":  "2025-06-12T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-12T09:00:00.0000000",
+        "title":  "Live Test Cricket: Australia v South Africa 12.06",
+        "end":  "2025-06-12T11:30:00.0000000"
+    },
+    {
+        "start":  "2025-06-12T11:30:00.0000000",
+        "title":  "Live US Open Golf",
+        "end":  "2025-06-12T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-12T23:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-06-13T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-13T00:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-06-13T01:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-13T01:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-06-13T02:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-13T02:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-06-13T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-13T03:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-06-13T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-13T04:00:00.0000000",
+        "title":  "Sky Sports News (?)",
+        "end":  "2025-06-13T05:00:00.0000000"
     }
 ]
