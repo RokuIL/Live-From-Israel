@@ -1,130 +1,5 @@
 [
     {
-        "start":  "2025-06-09T00:00:00.0000000",
-        "title":  "Dateline NBC: Graduation Night",
-        "end":  "2025-06-09T01:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T01:00:00.0000000",
-        "title":  "Meet the Press",
-        "end":  "2025-06-09T02:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T02:00:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "end":  "2025-06-09T02:30:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T02:30:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "end":  "2025-06-09T03:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T03:00:00.0000000",
-        "title":  "Dateline NBC: A Killing in Cottonwood",
-        "end":  "2025-06-09T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T04:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2025-06-09T05:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T05:00:00.0000000",
-        "title":  "Dateline NBC: Shattered Bonds",
-        "end":  "2025-06-09T06:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T06:00:00.0000000",
-        "title":  "Dateline NBC: The Fugitive Millionaire",
-        "end":  "2025-06-09T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T07:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2025-06-09T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T09:00:00.0000000",
-        "title":  "Early Today",
-        "end":  "2025-06-09T09:30:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T09:30:00.0000000",
-        "title":  "Early Today",
-        "end":  "2025-06-09T10:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T10:00:00.0000000",
-        "title":  "Early Today",
-        "end":  "2025-06-09T10:30:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T10:30:00.0000000",
-        "title":  "Early Today",
-        "end":  "2025-06-09T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T11:00:00.0000000",
-        "title":  "Morning News NOW",
-        "end":  "2025-06-09T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T12:00:00.0000000",
-        "title":  "Morning News NOW",
-        "end":  "2025-06-09T13:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T13:00:00.0000000",
-        "title":  "Morning News NOW",
-        "end":  "2025-06-09T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T14:00:00.0000000",
-        "title":  "Morning News NOW",
-        "end":  "2025-06-09T15:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T15:00:00.0000000",
-        "title":  "Morning News NOW",
-        "end":  "2025-06-09T16:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T16:00:00.0000000",
-        "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
-        "end":  "2025-06-09T17:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T17:00:00.0000000",
-        "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
-        "end":  "2025-06-09T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T18:00:00.0000000",
-        "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
-        "end":  "2025-06-09T19:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T19:00:00.0000000",
-        "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
-        "end":  "2025-06-09T20:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T20:00:00.0000000",
-        "title":  "Meet the Press NOW",
-        "end":  "2025-06-09T21:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T21:00:00.0000000",
-        "title":  "Hallie Jackson NOW",
-        "end":  "2025-06-09T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-09T23:00:00.0000000",
-        "title":  "Top Story With Tom Llamas",
-        "end":  "2025-06-10T00:00:00.0000000"
-    },
-    {
         "start":  "2025-06-10T00:00:00.0000000",
         "title":  "Stay Tuned NOW With Gadi Schwartz",
         "end":  "2025-06-10T01:00:00.0000000"
@@ -623,5 +498,115 @@
         "start":  "2025-06-13T23:00:00.0000000",
         "title":  "Top Story With Tom Llamas",
         "end":  "2025-06-14T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-14T00:00:00.0000000",
+        "title":  "Stay Tuned NOW With Gadi Schwartz",
+        "end":  "2025-06-14T01:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-14T01:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "end":  "2025-06-14T02:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-14T02:00:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "end":  "2025-06-14T02:30:00.0000000"
+    },
+    {
+        "start":  "2025-06-14T02:30:00.0000000",
+        "title":  "Stay Tuned NOW With Gadi Schwartz",
+        "end":  "2025-06-14T03:30:00.0000000"
+    },
+    {
+        "start":  "2025-06-14T03:30:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "end":  "2025-06-14T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-14T04:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "end":  "2025-06-14T05:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-14T05:00:00.0000000",
+        "title":  "Meet the Press NOW",
+        "end":  "2025-06-14T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-14T06:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2025-06-14T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-14T08:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2025-06-14T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-14T09:00:00.0000000",
+        "title":  "Dateline NBC: The Informant",
+        "end":  "2025-06-14T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-14T10:00:00.0000000",
+        "title":  "Dateline NBC: Secrets in the Smoky Mountains",
+        "end":  "2025-06-14T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-14T12:00:00.0000000",
+        "title":  "Dateline NBC: Deception",
+        "end":  "2025-06-14T14:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-14T14:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2025-06-14T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-14T15:00:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "end":  "2025-06-14T15:30:00.0000000"
+    },
+    {
+        "start":  "2025-06-14T15:30:00.0000000",
+        "title":  "Today",
+        "end":  "2025-06-14T16:30:00.0000000"
+    },
+    {
+        "start":  "2025-06-14T16:30:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "end":  "2025-06-14T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-14T17:00:00.0000000",
+        "title":  "Dateline NBC: Deadly Exchange",
+        "end":  "2025-06-14T18:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-14T18:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2025-06-14T19:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-14T19:00:00.0000000",
+        "title":  "Dateline NBC: Return to Manitowoc County: The State of Wisconsin vs. Steven A. Avery",
+        "end":  "2025-06-14T20:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-14T20:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2025-06-14T22:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-14T22:00:00.0000000",
+        "title":  "Dateline NBC: While He Was Sleeping",
+        "end":  "2025-06-14T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-14T23:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2025-06-15T00:00:00.0000000"
     }
 ]
