@@ -1,130 +1,5 @@
 [
     {
-        "start":  "2025-06-18T00:00:00.0000000",
-        "title":  "Stay Tuned NOW With Gadi Schwartz",
-        "end":  "2025-06-18T01:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T01:00:00.0000000",
-        "title":  "Top Story With Tom Llamas",
-        "end":  "2025-06-18T02:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T02:00:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "end":  "2025-06-18T02:30:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T02:30:00.0000000",
-        "title":  "Stay Tuned NOW With Gadi Schwartz",
-        "end":  "2025-06-18T03:30:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T03:30:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "end":  "2025-06-18T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T04:00:00.0000000",
-        "title":  "Top Story With Tom Llamas",
-        "end":  "2025-06-18T05:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T05:00:00.0000000",
-        "title":  "Meet the Press NOW",
-        "end":  "2025-06-18T06:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T06:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2025-06-18T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T07:00:00.0000000",
-        "title":  "Dateline NBC: While She Was Sleeping",
-        "end":  "2025-06-18T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T09:00:00.0000000",
-        "title":  "Early Today",
-        "end":  "2025-06-18T09:30:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T09:30:00.0000000",
-        "title":  "Early Today",
-        "end":  "2025-06-18T10:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T10:00:00.0000000",
-        "title":  "Early Today",
-        "end":  "2025-06-18T10:30:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T10:30:00.0000000",
-        "title":  "Early Today",
-        "end":  "2025-06-18T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T11:00:00.0000000",
-        "title":  "Morning News NOW",
-        "end":  "2025-06-18T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T12:00:00.0000000",
-        "title":  "Morning News NOW",
-        "end":  "2025-06-18T13:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T13:00:00.0000000",
-        "title":  "Morning News NOW",
-        "end":  "2025-06-18T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T14:00:00.0000000",
-        "title":  "Morning News NOW",
-        "end":  "2025-06-18T15:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T15:00:00.0000000",
-        "title":  "Morning News NOW",
-        "end":  "2025-06-18T16:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T16:00:00.0000000",
-        "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
-        "end":  "2025-06-18T17:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T17:00:00.0000000",
-        "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
-        "end":  "2025-06-18T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T18:00:00.0000000",
-        "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
-        "end":  "2025-06-18T19:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T19:00:00.0000000",
-        "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
-        "end":  "2025-06-18T20:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T20:00:00.0000000",
-        "title":  "Meet the Press NOW",
-        "end":  "2025-06-18T21:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T21:00:00.0000000",
-        "title":  "Hallie Jackson NOW",
-        "end":  "2025-06-18T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-06-18T23:00:00.0000000",
-        "title":  "Top Story With Tom Llamas",
-        "end":  "2025-06-19T00:00:00.0000000"
-    },
-    {
         "start":  "2025-06-19T00:00:00.0000000",
         "title":  "Stay Tuned NOW With Gadi Schwartz",
         "end":  "2025-06-19T01:00:00.0000000"
@@ -708,5 +583,135 @@
         "start":  "2025-06-23T23:00:00.0000000",
         "title":  "Top Story With Tom Llamas",
         "end":  "2025-06-24T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T00:00:00.0000000",
+        "title":  "Stay Tuned NOW With Gadi Schwartz",
+        "end":  "2025-06-24T01:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T01:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "end":  "2025-06-24T02:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T02:00:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "end":  "2025-06-24T02:30:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T02:30:00.0000000",
+        "title":  "Stay Tuned NOW With Gadi Schwartz",
+        "end":  "2025-06-24T03:30:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T03:30:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "end":  "2025-06-24T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T04:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "end":  "2025-06-24T05:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T05:00:00.0000000",
+        "title":  "Meet the Press NOW",
+        "end":  "2025-06-24T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T06:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2025-06-24T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T07:00:00.0000000",
+        "title":  "Dateline NBC: Something Sweet",
+        "end":  "2025-06-24T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T08:00:00.0000000",
+        "title":  "Dateline NBC: The Collector",
+        "end":  "2025-06-24T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T09:00:00.0000000",
+        "title":  "Early Today",
+        "end":  "2025-06-24T09:30:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T09:30:00.0000000",
+        "title":  "Early Today",
+        "end":  "2025-06-24T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T10:00:00.0000000",
+        "title":  "Early Today",
+        "end":  "2025-06-24T10:30:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T10:30:00.0000000",
+        "title":  "Early Today",
+        "end":  "2025-06-24T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T11:00:00.0000000",
+        "title":  "Morning News NOW",
+        "end":  "2025-06-24T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T12:00:00.0000000",
+        "title":  "Morning News NOW",
+        "end":  "2025-06-24T13:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T13:00:00.0000000",
+        "title":  "Morning News NOW",
+        "end":  "2025-06-24T14:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T14:00:00.0000000",
+        "title":  "Morning News NOW",
+        "end":  "2025-06-24T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T15:00:00.0000000",
+        "title":  "Morning News NOW",
+        "end":  "2025-06-24T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T16:00:00.0000000",
+        "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
+        "end":  "2025-06-24T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T17:00:00.0000000",
+        "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
+        "end":  "2025-06-24T18:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T18:00:00.0000000",
+        "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
+        "end":  "2025-06-24T19:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T19:00:00.0000000",
+        "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
+        "end":  "2025-06-24T20:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T20:00:00.0000000",
+        "title":  "Meet the Press NOW",
+        "end":  "2025-06-24T21:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T21:00:00.0000000",
+        "title":  "Hallie Jackson NOW",
+        "end":  "2025-06-24T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-06-24T23:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "end":  "2025-06-25T00:00:00.0000000"
     }
 ]
