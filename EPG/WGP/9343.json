@@ -197,7 +197,62 @@
     {
         "start":  "2025-07-05T03:00:00.0000000",
         "title":  "The Mummy",
+        "end":  "2025-07-05T05:10:00.0000000"
+    },
+    {
+        "start":  "2025-07-05T05:10:00.0000000",
+        "title":  "The Mummy Returns",
+        "end":  "2025-07-05T07:25:00.0000000"
+    },
+    {
+        "start":  "2025-07-05T07:25:00.0000000",
+        "title":  "Crouching Tiger, Hidden Dragon",
+        "end":  "2025-07-05T09:30:00.0000000"
+    },
+    {
+        "start":  "2025-07-05T09:30:00.0000000",
+        "title":  "Jack the Giant Slayer",
+        "end":  "2025-07-05T11:35:00.0000000"
+    },
+    {
+        "start":  "2025-07-05T11:35:00.0000000",
+        "title":  "Jurassic World Rebirth: The Making of a New Era",
+        "end":  "2025-07-05T12:05:00.0000000"
+    },
+    {
+        "start":  "2025-07-05T12:05:00.0000000",
+        "title":  "Zathura: A Space Adventure",
+        "end":  "2025-07-05T13:50:00.0000000"
+    },
+    {
+        "start":  "2025-07-05T13:50:00.0000000",
+        "title":  "Crouching Tiger, Hidden Dragon",
+        "end":  "2025-07-05T15:55:00.0000000"
+    },
+    {
+        "start":  "2025-07-05T15:55:00.0000000",
+        "title":  "How to Train Your Dragon",
+        "end":  "2025-07-05T17:35:00.0000000"
+    },
+    {
+        "start":  "2025-07-05T17:35:00.0000000",
+        "title":  "Matilda",
+        "end":  "2025-07-05T19:15:00.0000000"
+    },
+    {
+        "start":  "2025-07-05T19:15:00.0000000",
+        "title":  "Zathura: A Space Adventure",
+        "end":  "2025-07-05T21:00:00.0000000"
+    },
+    {
+        "start":  "2025-07-05T21:00:00.0000000",
+        "title":  "The Lord of the Rings: The Fellowship of the Ring",
         "end":  "2025-07-06T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-07-06T00:00:00.0000000",
+        "title":  "The Lord of the Rings: The Two Towers",
+        "end":  "2025-07-07T00:00:00.0000000"
     },
     {
         "start":  "2025-07-05T00:00:00.0000000",
@@ -207,6 +262,66 @@
     {
         "start":  "2025-07-05T03:00:00.0000000",
         "title":  "The Mummy",
+        "end":  "2025-07-05T05:10:00.0000000"
+    },
+    {
+        "start":  "2025-07-05T05:10:00.0000000",
+        "title":  "The Mummy Returns",
+        "end":  "2025-07-05T07:25:00.0000000"
+    },
+    {
+        "start":  "2025-07-05T07:25:00.0000000",
+        "title":  "Crouching Tiger, Hidden Dragon",
+        "end":  "2025-07-05T09:30:00.0000000"
+    },
+    {
+        "start":  "2025-07-05T09:30:00.0000000",
+        "title":  "Jack the Giant Slayer",
+        "end":  "2025-07-05T11:35:00.0000000"
+    },
+    {
+        "start":  "2025-07-05T11:35:00.0000000",
+        "title":  "Jurassic World Rebirth: The Making of a New Era",
+        "end":  "2025-07-05T12:05:00.0000000"
+    },
+    {
+        "start":  "2025-07-05T12:05:00.0000000",
+        "title":  "Zathura: A Space Adventure",
+        "end":  "2025-07-05T13:50:00.0000000"
+    },
+    {
+        "start":  "2025-07-05T13:50:00.0000000",
+        "title":  "Crouching Tiger, Hidden Dragon",
+        "end":  "2025-07-05T15:55:00.0000000"
+    },
+    {
+        "start":  "2025-07-05T15:55:00.0000000",
+        "title":  "How to Train Your Dragon",
+        "end":  "2025-07-05T17:35:00.0000000"
+    },
+    {
+        "start":  "2025-07-05T17:35:00.0000000",
+        "title":  "Matilda",
+        "end":  "2025-07-05T19:15:00.0000000"
+    },
+    {
+        "start":  "2025-07-05T19:15:00.0000000",
+        "title":  "Zathura: A Space Adventure",
+        "end":  "2025-07-05T21:00:00.0000000"
+    },
+    {
+        "start":  "2025-07-05T21:00:00.0000000",
+        "title":  "The Lord of the Rings: The Fellowship of the Ring",
         "end":  "2025-07-06T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-07-06T00:00:00.0000000",
+        "title":  "The Lord of the Rings: The Two Towers",
+        "end":  "2025-07-06T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-07-06T03:00:00.0000000",
+        "title":  "The Mummy Returns",
+        "end":  "2025-07-07T00:00:00.0000000"
     }
 ]
