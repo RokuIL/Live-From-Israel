@@ -1,20 +1,5 @@
 [
     {
-        "start":  "2025-07-26T04:00:00.0000000",
-        "title":  "Super Bowl LIX: Kansas City Chiefs vs. Philadelphia Eagles",
-        "end":  "2025-07-26T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-26T07:00:00.0000000",
-        "title":  "NFL Playoff",
-        "end":  "2025-07-26T10:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-26T10:00:00.0000000",
-        "title":  "Super Bowl LIX: Kansas City Chiefs vs. Philadelphia Eagles",
-        "end":  "2025-07-26T13:00:00.0000000"
-    },
-    {
         "start":  "2025-07-28T12:00:00.0000000",
         "title":  "Good Morning Football",
         "end":  "2025-07-28T14:00:00.0000000"
@@ -193,5 +178,65 @@
         "start":  "2025-08-01T03:00:00.0000000",
         "title":  "NFL GameDay Final",
         "end":  "2025-08-01T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-01T04:00:00.0000000",
+        "title":  "NFL Preseason Football: Detroit Lions vs. Los Angeles Chargers",
+        "end":  "2025-08-01T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-01T04:00:00.0000000",
+        "title":  "NFL Preseason Football: Detroit Lions vs. Los Angeles Chargers",
+        "end":  "2025-08-01T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-01T07:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2025-08-01T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-01T08:00:00.0000000",
+        "title":  "NFL Preseason Football: Detroit Lions vs. Los Angeles Chargers",
+        "end":  "2025-08-01T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-01T11:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2025-08-01T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-01T12:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-08-01T14:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-01T14:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-08-01T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-01T16:00:00.0000000",
+        "title":  "Inside Training Camp Live",
+        "end":  "2025-08-01T20:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-01T20:00:00.0000000",
+        "title":  "Inside Training Camp Live",
+        "end":  "2025-08-01T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-01T23:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-08-02T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-02T00:00:00.0000000",
+        "title":  "NFL Preseason Football: Detroit Lions vs. Los Angeles Chargers",
+        "end":  "2025-08-02T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-02T03:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-08-02T04:00:00.0000000"
     }
 ]

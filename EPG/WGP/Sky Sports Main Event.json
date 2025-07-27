@@ -1,70 +1,5 @@
 [
     {
-        "start":  "2025-07-26T05:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-07-26T06:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-26T06:00:00.0000000",
-        "title":  "Good Morning Sports Fans",
-        "end":  "2025-07-26T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-26T07:00:00.0000000",
-        "title":  "Good Morning Sports Fans",
-        "end":  "2025-07-26T07:30:00.0000000"
-    },
-    {
-        "start":  "2025-07-26T07:30:00.0000000",
-        "title":  "Good Morning Sports Fans",
-        "end":  "2025-07-26T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-26T08:00:00.0000000",
-        "title":  "Good Morning Sports Fans",
-        "end":  "2025-07-26T08:30:00.0000000"
-    },
-    {
-        "start":  "2025-07-26T08:30:00.0000000",
-        "title":  "Live British and Irish Lions Tour: British \u0026 Irish Lions v Wallabies 2nd Test 26.07",
-        "end":  "2025-07-26T13:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-26T13:00:00.0000000",
-        "title":  "Live Test Cricket",
-        "end":  "2025-07-26T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-26T18:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-07-26T18:30:00.0000000"
-    },
-    {
-        "start":  "2025-07-26T18:30:00.0000000",
-        "title":  "Live World Matchplay Darts: World Matchplay Darts Semi-Final 26.07.25",
-        "end":  "2025-07-26T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-26T22:00:00.0000000",
-        "title":  "Live Premier League Summer Series: Manchester United v West Ham 26.07",
-        "end":  "2025-07-27T01:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-27T01:00:00.0000000",
-        "title":  "Live Tennis: Wta/Atp 500 Washington Day 6 26.07",
-        "end":  "2025-07-27T03:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-27T03:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-07-27T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-27T04:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-07-27T05:00:00.0000000"
-    },
-    {
         "start":  "2025-07-27T05:00:00.0000000",
         "title":  "Sky Sports News",
         "end":  "2025-07-27T06:00:00.0000000"
@@ -388,5 +323,55 @@
         "start":  "2025-08-01T04:00:00.0000000",
         "title":  "Sky Sports News",
         "end":  "2025-08-01T05:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-01T05:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-08-01T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-01T06:00:00.0000000",
+        "title":  "Good Morning Sports Fans",
+        "end":  "2025-08-01T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-01T07:00:00.0000000",
+        "title":  "Good Morning Sports Fans",
+        "end":  "2025-08-01T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-01T08:00:00.0000000",
+        "title":  "Good Morning Transfers: Generic Good Morning Transfers",
+        "end":  "2025-08-01T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-01T09:00:00.0000000",
+        "title":  "Test Cricket Bitesize",
+        "end":  "2025-08-01T09:15:00.0000000"
+    },
+    {
+        "start":  "2025-08-01T09:15:00.0000000",
+        "title":  "Live Test Cricket",
+        "end":  "2025-08-01T18:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-01T18:00:00.0000000",
+        "title":  "Live EFL: Luton Town v AFC Wimbledon 01.08",
+        "end":  "2025-08-01T21:30:00.0000000"
+    },
+    {
+        "start":  "2025-08-01T21:30:00.0000000",
+        "title":  "Live Tennis",
+        "end":  "2025-08-02T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-02T03:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-08-02T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-02T04:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-08-02T05:00:00.0000000"
     }
 ]
