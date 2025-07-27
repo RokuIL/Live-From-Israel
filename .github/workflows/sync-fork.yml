@@ -1,0 +1,21 @@
+name: Sync Fork
+
+on:
+  schedule:
+    - cron: '* */6 * * *' # every 6 hours
+  workflow_dispatch: # on button click
+
+jobs:
+  sync:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: tgymnich/fork-sync@v2.0.10
+        with:
+          token: ${{ secrets.PERSONAL_TOKEN }}
+          merge_method: rebase
+          # owner: RokuIL
+          # repo: Live-From-Israel
+          # base: master
+          # head: master

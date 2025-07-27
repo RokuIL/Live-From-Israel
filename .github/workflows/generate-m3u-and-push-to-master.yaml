@@ -1,0 +1,31 @@
+name: Generate M3U from Json and Push to Master
+
+on:
+  push:
+    paths:
+      - 'Channels.json'
+  workflow_dispatch: # on button click
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        name: Checkout
+      - uses: actions/setup-python@v5
+        name: Setup Python
+      - name: execute py script # run the run.py to get the latest data
+        run: |
+          python jsonToM3u.py Channels.json
+      - name: Commit files # transfer the new html files back into the repository
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add Channels.m3u
+          git diff-index --quiet HEAD || (git commit -m "Auto-Generate Channels.m3u" && echo "changes_exist=true" >> $GITHUB_ENV)
+      - name: Push changes # push the output folder to your repo
+        if: env.changes_exist == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
