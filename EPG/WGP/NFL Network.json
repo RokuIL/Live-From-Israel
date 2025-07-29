@@ -1,5 +1,15 @@
 [
     {
+        "start":  "2025-07-29T04:00:00.0000000",
+        "title":  "Inside Training Camp Live",
+        "end":  "2025-07-29T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-07-29T08:00:00.0000000",
+        "title":  "Inside Training Camp Live",
+        "end":  "2025-07-29T12:00:00.0000000"
+    },
+    {
         "start":  "2025-07-29T12:00:00.0000000",
         "title":  "Good Morning Football",
         "end":  "2025-07-29T14:00:00.0000000"
@@ -57,6 +67,11 @@
     {
         "start":  "2025-07-30T20:00:00.0000000",
         "title":  "Inside Training Camp Live",
+        "end":  "2025-07-30T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-07-30T23:00:00.0000000",
+        "title":  "The Insiders",
         "end":  "2025-07-31T00:00:00.0000000"
     },
     {
@@ -72,11 +87,26 @@
     {
         "start":  "2025-07-31T04:00:00.0000000",
         "title":  "Inside Training Camp Live",
-        "end":  "2025-07-31T08:00:00.0000000"
+        "end":  "2025-07-31T07:00:00.0000000"
     },
     {
-        "start":  "2025-07-31T08:00:00.0000000",
+        "start":  "2025-07-31T07:00:00.0000000",
         "title":  "Inside Training Camp Live",
+        "end":  "2025-07-31T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-07-31T10:00:00.0000000",
+        "title":  "Pro Football Hall of Fame Class of 2025",
+        "end":  "2025-07-31T10:30:00.0000000"
+    },
+    {
+        "start":  "2025-07-31T10:30:00.0000000",
+        "title":  "The Hall of Fame Knocks",
+        "end":  "2025-07-31T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-07-31T11:00:00.0000000",
+        "title":  "The Insiders",
         "end":  "2025-07-31T12:00:00.0000000"
     },
     {
@@ -101,47 +131,47 @@
     },
     {
         "start":  "2025-07-31T23:00:00.0000000",
-        "title":  "The Insiders",
+        "title":  "NFL GameDay Kickoff",
         "end":  "2025-08-01T00:00:00.0000000"
     },
     {
-        "start":  "2025-08-01T00:00:00.0000000",
+        "start":  "2025-08-01T02:00:00.0000000",
+        "title":  "Pro Football Hall of Fame Class of 2025",
+        "end":  "2025-08-01T02:30:00.0000000"
+    },
+    {
+        "start":  "2025-08-01T02:30:00.0000000",
+        "title":  "The Hall of Fame Knocks",
+        "end":  "2025-08-01T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-01T03:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2025-08-01T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-01T04:00:00.0000000",
         "title":  "Inside Training Camp Live",
         "end":  "2025-08-01T04:00:00.0000000"
     },
     {
         "start":  "2025-08-01T04:00:00.0000000",
         "title":  "NFL Preseason Football: Detroit Lions vs. Los Angeles Chargers",
-        "end":  "2025-08-01T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-01T04:00:00.0000000",
-        "title":  "Inside Training Camp Live",
-        "end":  "2025-08-01T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-01T04:00:00.0000000",
-        "title":  "Inside Training Camp Live",
         "end":  "2025-08-01T07:00:00.0000000"
     },
     {
         "start":  "2025-08-01T07:00:00.0000000",
-        "title":  "Inside Training Camp Live",
-        "end":  "2025-08-01T10:00:00.0000000"
+        "title":  "NFL GameDay Final",
+        "end":  "2025-08-01T08:00:00.0000000"
     },
     {
-        "start":  "2025-08-01T10:00:00.0000000",
-        "title":  "Pro Football Hall of Fame Class of 2025",
-        "end":  "2025-08-01T10:30:00.0000000"
-    },
-    {
-        "start":  "2025-08-01T10:30:00.0000000",
-        "title":  "The Hall of Fame Knocks",
+        "start":  "2025-08-01T08:00:00.0000000",
+        "title":  "NFL Preseason Football: Detroit Lions vs. Los Angeles Chargers",
         "end":  "2025-08-01T11:00:00.0000000"
     },
     {
         "start":  "2025-08-01T11:00:00.0000000",
-        "title":  "The Insiders",
+        "title":  "NFL GameDay Final",
         "end":  "2025-08-01T12:00:00.0000000"
     },
     {
@@ -166,22 +196,17 @@
     },
     {
         "start":  "2025-08-01T23:00:00.0000000",
-        "title":  "NFL GameDay Kickoff",
+        "title":  "The Insiders",
         "end":  "2025-08-02T00:00:00.0000000"
     },
     {
-        "start":  "2025-08-02T02:00:00.0000000",
-        "title":  "Pro Football Hall of Fame Class of 2025",
-        "end":  "2025-08-02T02:30:00.0000000"
-    },
-    {
-        "start":  "2025-08-02T02:30:00.0000000",
-        "title":  "The Hall of Fame Knocks",
+        "start":  "2025-08-02T00:00:00.0000000",
+        "title":  "NFL Preseason Football: Detroit Lions vs. Los Angeles Chargers",
         "end":  "2025-08-02T03:00:00.0000000"
     },
     {
         "start":  "2025-08-02T03:00:00.0000000",
-        "title":  "NFL GameDay Final",
+        "title":  "The Insiders",
         "end":  "2025-08-02T04:00:00.0000000"
     },
     {
@@ -191,57 +216,117 @@
     },
     {
         "start":  "2025-08-02T04:00:00.0000000",
-        "title":  "NFL Preseason Football: Detroit Lions vs. Los Angeles Chargers",
+        "title":  "Inside Training Camp Live",
+        "end":  "2025-08-02T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-02T04:00:00.0000000",
+        "title":  "Inside Training Camp Live",
         "end":  "2025-08-02T07:00:00.0000000"
     },
     {
         "start":  "2025-08-02T07:00:00.0000000",
-        "title":  "NFL GameDay Final",
+        "title":  "The Insiders",
         "end":  "2025-08-02T08:00:00.0000000"
     },
     {
         "start":  "2025-08-02T08:00:00.0000000",
+        "title":  "Pro Football Hall of Fame Class of 2025",
+        "end":  "2025-08-02T08:30:00.0000000"
+    },
+    {
+        "start":  "2025-08-02T08:30:00.0000000",
+        "title":  "The Hall of Fame Knocks",
+        "end":  "2025-08-02T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-02T09:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-08-02T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-02T10:00:00.0000000",
         "title":  "NFL Preseason Football: Detroit Lions vs. Los Angeles Chargers",
-        "end":  "2025-08-02T11:00:00.0000000"
+        "end":  "2025-08-02T13:00:00.0000000"
     },
     {
-        "start":  "2025-08-02T11:00:00.0000000",
-        "title":  "NFL GameDay Final",
-        "end":  "2025-08-02T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-02T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-08-02T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-02T14:00:00.0000000",
-        "title":  "Good Morning Football",
+        "start":  "2025-08-02T13:00:00.0000000",
+        "title":  "Inside Training Camp Live",
         "end":  "2025-08-02T16:00:00.0000000"
     },
     {
         "start":  "2025-08-02T16:00:00.0000000",
+        "title":  "Hall of Fame Saturday",
+        "end":  "2025-08-02T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-02T17:00:00.0000000",
+        "title":  "2025 Pro Football Hall of Fame Enshrinement Ceremony",
+        "end":  "2025-08-02T19:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-02T19:00:00.0000000",
         "title":  "Inside Training Camp Live",
-        "end":  "2025-08-02T20:00:00.0000000"
+        "end":  "2025-08-02T22:00:00.0000000"
     },
     {
-        "start":  "2025-08-02T20:00:00.0000000",
-        "title":  "Inside Training Camp Live",
-        "end":  "2025-08-02T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-02T23:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-08-03T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-03T00:00:00.0000000",
+        "start":  "2025-08-02T22:00:00.0000000",
         "title":  "NFL Preseason Football: Detroit Lions vs. Los Angeles Chargers",
+        "end":  "2025-08-03T01:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-03T01:00:00.0000000",
+        "title":  "2025 Pro Football Hall of Fame Enshrinement Ceremony",
         "end":  "2025-08-03T03:00:00.0000000"
     },
     {
         "start":  "2025-08-03T03:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-08-03T04:00:00.0000000"
+        "title":  "Inside Training Camp Live",
+        "end":  "2025-08-03T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-03T03:00:00.0000000",
+        "title":  "Inside Training Camp Live",
+        "end":  "2025-08-03T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-03T06:00:00.0000000",
+        "title":  "NFL Preseason Football: Detroit Lions vs. Los Angeles Chargers",
+        "end":  "2025-08-03T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-03T09:00:00.0000000",
+        "title":  "Pro Football Hall of Fame Class of 2025",
+        "end":  "2025-08-03T09:30:00.0000000"
+    },
+    {
+        "start":  "2025-08-03T09:30:00.0000000",
+        "title":  "The Hall of Fame Knocks",
+        "end":  "2025-08-03T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-03T10:00:00.0000000",
+        "title":  "Inside Training Camp Live",
+        "end":  "2025-08-03T13:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-03T13:00:00.0000000",
+        "title":  "2025 Pro Football Hall of Fame Enshrinement Ceremony",
+        "end":  "2025-08-03T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-03T15:00:00.0000000",
+        "title":  "NFL Preseason Football: Detroit Lions vs. Los Angeles Chargers",
+        "end":  "2025-08-03T18:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-03T18:00:00.0000000",
+        "title":  "Inside Training Camp Live",
+        "end":  "2025-08-03T22:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-03T22:00:00.0000000",
+        "title":  "Inside Training Camp Live",
+        "end":  "2025-08-04T02:00:00.0000000"
     }
 ]

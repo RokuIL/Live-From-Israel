@@ -1,70 +1,5 @@
 [
     {
-        "start":  "2025-07-28T05:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-07-28T06:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-28T06:00:00.0000000",
-        "title":  "Good Morning Sports Fans",
-        "end":  "2025-07-28T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-28T07:00:00.0000000",
-        "title":  "Good Morning Sports Fans",
-        "end":  "2025-07-28T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-28T08:00:00.0000000",
-        "title":  "Good Morning Sports Fans",
-        "end":  "2025-07-28T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-28T09:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-07-28T10:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-28T10:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-07-28T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-28T11:00:00.0000000",
-        "title":  "Lunchtime Live: Generic Lunchtime Live",
-        "end":  "2025-07-28T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-28T12:00:00.0000000",
-        "title":  "Lunchtime Live: Generic Lunchtime Live",
-        "end":  "2025-07-28T13:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-28T13:00:00.0000000",
-        "title":  "Sports Desk",
-        "end":  "2025-07-28T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-28T14:00:00.0000000",
-        "title":  "Sports Desk",
-        "end":  "2025-07-28T15:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-28T15:00:00.0000000",
-        "title":  "Live Tennis",
-        "end":  "2025-07-29T03:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-29T03:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-07-29T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-07-29T04:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-07-29T05:00:00.0000000"
-    },
-    {
         "start":  "2025-07-29T05:00:00.0000000",
         "title":  "Sky Sports News",
         "end":  "2025-07-29T06:00:00.0000000"
@@ -101,7 +36,7 @@
     },
     {
         "start":  "2025-07-29T11:00:00.0000000",
-        "title":  "Lunchtime Live: Generic Lunchtime Live",
+        "title":  "England\u0027s Homecoming Celebration",
         "end":  "2025-07-29T12:00:00.0000000"
     },
     {
@@ -368,5 +303,75 @@
         "start":  "2025-08-03T04:00:00.0000000",
         "title":  "Sky Sports Catch Up",
         "end":  "2025-08-03T05:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-03T05:00:00.0000000",
+        "title":  "Sky Sports Catch Up",
+        "end":  "2025-08-03T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-03T06:00:00.0000000",
+        "title":  "Goals on Sunday",
+        "end":  "2025-08-03T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-03T07:00:00.0000000",
+        "title":  "Goals on Sunday",
+        "end":  "2025-08-03T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-03T08:00:00.0000000",
+        "title":  "Goals on Sunday",
+        "end":  "2025-08-03T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-03T09:00:00.0000000",
+        "title":  "Test Cricket Bitesize",
+        "end":  "2025-08-03T09:15:00.0000000"
+    },
+    {
+        "start":  "2025-08-03T09:15:00.0000000",
+        "title":  "Live Test Cricket",
+        "end":  "2025-08-03T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-03T12:00:00.0000000",
+        "title":  "Live Formula 1",
+        "end":  "2025-08-03T12:55:00.0000000"
+    },
+    {
+        "start":  "2025-08-03T12:55:00.0000000",
+        "title":  "Live Formula 1: Hungarian F1 Grand Prix 03.08.25",
+        "end":  "2025-08-03T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-03T15:00:00.0000000",
+        "title":  "Live SPFL",
+        "end":  "2025-08-03T18:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-03T18:00:00.0000000",
+        "title":  "Live Premier League Summer Series: Bournemouth v West Ham 03.08",
+        "end":  "2025-08-03T20:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-03T20:00:00.0000000",
+        "title":  "Live Premier League Summer Series: Manchester United v Everton 03.08",
+        "end":  "2025-08-03T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-03T23:00:00.0000000",
+        "title":  "Live Tennis",
+        "end":  "2025-08-04T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-04T03:00:00.0000000",
+        "title":  "Sky Sports Catch Up",
+        "end":  "2025-08-04T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-04T04:00:00.0000000",
+        "title":  "Sky Sports Catch Up",
+        "end":  "2025-08-04T05:00:00.0000000"
     }
 ]
