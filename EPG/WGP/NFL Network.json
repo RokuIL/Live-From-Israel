@@ -1,50 +1,5 @@
 [
     {
-        "start":  "2025-08-04T05:00:00.0000000",
-        "title":  "Inside Training Camp Live",
-        "end":  "2025-08-04T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-04T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-08-04T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-04T14:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-08-04T16:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-04T16:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-08-04T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-04T18:00:00.0000000",
-        "title":  "Inside Training Camp Live",
-        "end":  "2025-08-04T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-04T22:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-08-04T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-04T23:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-08-05T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-05T00:00:00.0000000",
-        "title":  "Inside Training Camp Live",
-        "end":  "2025-08-05T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-05T04:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-08-05T05:00:00.0000000"
-    },
-    {
         "start":  "2025-08-05T05:00:00.0000000",
         "title":  "Inside Training Camp Live",
         "end":  "2025-08-05T09:00:00.0000000"
@@ -323,5 +278,55 @@
         "start":  "2025-08-10T03:00:00.0000000",
         "title":  "NFL GameDay Final",
         "end":  "2025-08-10T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-10T04:00:00.0000000",
+        "title":  "NFL Preseason Football: Denver Broncos at San Francisco 49ers",
+        "end":  "2025-08-10T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-10T04:00:00.0000000",
+        "title":  "NFL Preseason Football: Denver Broncos at San Francisco 49ers",
+        "end":  "2025-08-10T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-10T07:00:00.0000000",
+        "title":  "NFL Preseason Football: Kansas City Chiefs at Arizona Cardinals",
+        "end":  "2025-08-10T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-10T10:00:00.0000000",
+        "title":  "NFL Preseason Football: Tennessee Titans at Tampa Bay Buccaneers",
+        "end":  "2025-08-10T13:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-10T13:00:00.0000000",
+        "title":  "NFL Preseason Football: Pittsburgh Steelers at Jacksonville Jaguars",
+        "end":  "2025-08-10T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-10T16:00:00.0000000",
+        "title":  "NFL GameDay Kickoff",
+        "end":  "2025-08-10T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-10T17:00:00.0000000",
+        "title":  "NFL Preseason Football: Miami Dolphins at Chicago Bears",
+        "end":  "2025-08-10T20:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-10T20:00:00.0000000",
+        "title":  "NFL Preseason Football: New Orleans Saints at Los Angeles Chargers",
+        "end":  "2025-08-10T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-10T23:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2025-08-11T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-11T00:00:00.0000000",
+        "title":  "NFL Preseason Football",
+        "end":  "2025-08-11T03:00:00.0000000"
     }
 ]
