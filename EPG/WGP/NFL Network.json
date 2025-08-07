@@ -1,65 +1,5 @@
 [
     {
-        "start":  "2025-08-06T05:00:00.0000000",
-        "title":  "Inside Training Camp Live",
-        "end":  "2025-08-06T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-06T09:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-08-06T10:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-06T10:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-08-06T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-06T11:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-08-06T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-06T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-08-06T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-06T14:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-08-06T16:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-06T16:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-08-06T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-06T18:00:00.0000000",
-        "title":  "Inside Training Camp Live",
-        "end":  "2025-08-06T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-06T22:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-08-06T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-06T23:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-08-07T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-07T00:00:00.0000000",
-        "title":  "Inside Training Camp Live",
-        "end":  "2025-08-07T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-07T04:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-08-07T05:00:00.0000000"
-    },
-    {
         "start":  "2025-08-07T05:00:00.0000000",
         "title":  "Inside Training Camp Live",
         "end":  "2025-08-07T09:00:00.0000000"
@@ -151,7 +91,7 @@
     },
     {
         "start":  "2025-08-08T23:00:00.0000000",
-        "title":  "NFL Preseason Football: Indianapolis Colts at Baltimore Ravens",
+        "title":  "NFL Preseason Football: Cleveland Browns at Carolina Panthers",
         "end":  "2025-08-09T02:00:00.0000000"
     },
     {
@@ -328,5 +268,70 @@
         "start":  "2025-08-12T03:00:00.0000000",
         "title":  "The Insiders",
         "end":  "2025-08-12T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-12T04:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2025-08-12T05:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-12T05:00:00.0000000",
+        "title":  "NFL Preseason Football: Las Vegas Raiders at Seattle Seahawks",
+        "end":  "2025-08-12T07:30:00.0000000"
+    },
+    {
+        "start":  "2025-08-12T07:30:00.0000000",
+        "title":  "NFL Preseason Football: Cincinnati Bengals at Philadelphia Eagles",
+        "end":  "2025-08-12T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-12T10:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-08-12T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-12T11:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2025-08-12T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-12T12:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-08-12T14:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-12T14:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-08-12T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-12T16:00:00.0000000",
+        "title":  "NFL Preseason Football: Washington Commanders at New England Patriots",
+        "end":  "2025-08-12T19:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-12T19:00:00.0000000",
+        "title":  "NFL Preseason Football: Tennessee Titans at Tampa Bay Buccaneers",
+        "end":  "2025-08-12T22:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-12T22:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2025-08-12T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-12T23:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-08-13T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-13T00:00:00.0000000",
+        "title":  "NFL Preseason Football: Pittsburgh Steelers at Jacksonville Jaguars",
+        "end":  "2025-08-13T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-13T03:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-08-13T04:00:00.0000000"
     }
 ]
