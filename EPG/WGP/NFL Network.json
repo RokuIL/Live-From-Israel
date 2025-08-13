@@ -1,70 +1,5 @@
 [
     {
-        "start":  "2025-08-12T05:00:00.0000000",
-        "title":  "NFL Preseason Football: Las Vegas Raiders at Seattle Seahawks",
-        "end":  "2025-08-12T07:30:00.0000000"
-    },
-    {
-        "start":  "2025-08-12T07:30:00.0000000",
-        "title":  "NFL Preseason Football: Cincinnati Bengals at Philadelphia Eagles",
-        "end":  "2025-08-12T10:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-12T10:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-08-12T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-12T11:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2025-08-12T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-12T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-08-12T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-12T14:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-08-12T16:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-12T16:00:00.0000000",
-        "title":  "NFL Preseason Football: Washington Commanders at New England Patriots",
-        "end":  "2025-08-12T19:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-12T19:00:00.0000000",
-        "title":  "NFL Preseason Football: Tennessee Titans at Tampa Bay Buccaneers",
-        "end":  "2025-08-12T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-12T22:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2025-08-12T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-12T23:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-08-13T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-13T00:00:00.0000000",
-        "title":  "NFL Preseason Football: Pittsburgh Steelers at Jacksonville Jaguars",
-        "end":  "2025-08-13T03:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-13T03:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-08-13T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-13T04:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2025-08-13T05:00:00.0000000"
-    },
-    {
         "start":  "2025-08-13T05:00:00.0000000",
         "title":  "NFL Preseason Football",
         "end":  "2025-08-13T07:30:00.0000000"
@@ -96,7 +31,7 @@
     },
     {
         "start":  "2025-08-13T16:00:00.0000000",
-        "title":  "NFL Preseason Football: Denver Broncos at San Francisco 49ers",
+        "title":  "NFL Preseason Football: Tennessee Titans at Tampa Bay Buccaneers",
         "end":  "2025-08-13T19:00:00.0000000"
     },
     {
@@ -131,12 +66,12 @@
     },
     {
         "start":  "2025-08-14T05:00:00.0000000",
-        "title":  "NFL Preseason Football",
+        "title":  "NFL Preseason Football: Denver Broncos at San Francisco 49ers",
         "end":  "2025-08-14T07:30:00.0000000"
     },
     {
         "start":  "2025-08-14T07:30:00.0000000",
-        "title":  "NFL Preseason Football: Indianapolis Colts at Baltimore Ravens",
+        "title":  "NFL Preseason Football: New Orleans Saints at Los Angeles Chargers",
         "end":  "2025-08-14T10:00:00.0000000"
     },
     {
@@ -161,12 +96,12 @@
     },
     {
         "start":  "2025-08-14T16:00:00.0000000",
-        "title":  "NFL Preseason Football: Denver Broncos at San Francisco 49ers",
+        "title":  "NFL Preseason Football",
         "end":  "2025-08-14T19:00:00.0000000"
     },
     {
         "start":  "2025-08-14T19:00:00.0000000",
-        "title":  "NFL Preseason Football: Cleveland Browns at Carolina Panthers",
+        "title":  "NFL Preseason Football: Pittsburgh Steelers at Jacksonville Jaguars",
         "end":  "2025-08-14T22:00:00.0000000"
     },
     {
@@ -181,7 +116,7 @@
     },
     {
         "start":  "2025-08-15T00:00:00.0000000",
-        "title":  "NFL Preseason Football",
+        "title":  "NFL Preseason Football: Cleveland Browns at Carolina Panthers",
         "end":  "2025-08-15T03:00:00.0000000"
     },
     {
@@ -343,5 +278,65 @@
         "start":  "2025-08-18T00:00:00.0000000",
         "title":  "NFL Preseason Football: Baltimore Ravens at Dallas Cowboys",
         "end":  "2025-08-18T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-18T03:00:00.0000000",
+        "title":  "NFL Preseason Football: Green Bay Packers at Indianapolis Colts",
+        "end":  "2025-08-18T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-18T03:00:00.0000000",
+        "title":  "NFL Preseason Football: Green Bay Packers at Indianapolis Colts",
+        "end":  "2025-08-18T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-18T06:00:00.0000000",
+        "title":  "NFL Preseason Football: Jacksonville Jaguars at New Orleans Saints",
+        "end":  "2025-08-18T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-18T09:00:00.0000000",
+        "title":  "NFL Preseason Football: Miami Dolphins at Detroit Lions",
+        "end":  "2025-08-18T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-18T12:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-08-18T14:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-18T14:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-08-18T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-18T16:00:00.0000000",
+        "title":  "NFL Preseason Football",
+        "end":  "2025-08-18T19:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-18T19:00:00.0000000",
+        "title":  "NFL Preseason Football: Tampa Bay Buccaneers at Pittsburgh Steelers",
+        "end":  "2025-08-18T22:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-18T22:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2025-08-18T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-18T23:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-08-19T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-19T00:00:00.0000000",
+        "title":  "NFL Preseason Football: Cleveland Browns at Philadelphia Eagles",
+        "end":  "2025-08-19T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-19T03:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-08-19T04:00:00.0000000"
     }
 ]
