@@ -1,60 +1,5 @@
 [
     {
-        "start":  "2025-08-19T03:00:00.0000000",
-        "title":  "NFL Preseason Football: Green Bay Packers at Indianapolis Colts",
-        "end":  "2025-08-19T06:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-19T06:00:00.0000000",
-        "title":  "NFL Preseason Football: Jacksonville Jaguars at New Orleans Saints",
-        "end":  "2025-08-19T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-19T09:00:00.0000000",
-        "title":  "NFL Preseason Football: Miami Dolphins at Detroit Lions",
-        "end":  "2025-08-19T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-19T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-08-19T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-19T14:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-08-19T16:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-19T16:00:00.0000000",
-        "title":  "NFL Preseason Football",
-        "end":  "2025-08-19T19:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-19T19:00:00.0000000",
-        "title":  "NFL Preseason Football: Tampa Bay Buccaneers at Pittsburgh Steelers",
-        "end":  "2025-08-19T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-19T22:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2025-08-19T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-19T23:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-08-20T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-20T00:00:00.0000000",
-        "title":  "NFL Preseason Football: Baltimore Ravens at Dallas Cowboys",
-        "end":  "2025-08-20T03:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-20T03:00:00.0000000",
-        "title":  "NFL Preseason Football: Arizona Cardinals at Denver Broncos",
-        "end":  "2025-08-20T03:00:00.0000000"
-    },
-    {
         "start":  "2025-08-20T03:00:00.0000000",
         "title":  "NFL Preseason Football: Arizona Cardinals at Denver Broncos",
         "end":  "2025-08-20T06:00:00.0000000"
@@ -81,12 +26,12 @@
     },
     {
         "start":  "2025-08-20T16:00:00.0000000",
-        "title":  "NFL Preseason Football: New England Patriots at Minnesota Vikings",
+        "title":  "NFL Preseason Football: Cincinnati Bengals at Washington Commanders",
         "end":  "2025-08-20T19:00:00.0000000"
     },
     {
         "start":  "2025-08-20T19:00:00.0000000",
-        "title":  "NFL Preseason Football: Jacksonville Jaguars at New Orleans Saints",
+        "title":  "NFL Preseason Football: Kansas City Chiefs at Seattle Seahawks",
         "end":  "2025-08-20T22:00:00.0000000"
     },
     {
@@ -101,7 +46,7 @@
     },
     {
         "start":  "2025-08-21T00:00:00.0000000",
-        "title":  "NFL Preseason Football: Cleveland Browns at Philadelphia Eagles",
+        "title":  "NFL Preseason Football",
         "end":  "2025-08-21T03:00:00.0000000"
     },
     {
@@ -298,5 +243,55 @@
         "start":  "2025-08-24T03:00:00.0000000",
         "title":  "NFL GameDay Final",
         "end":  "2025-08-24T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-24T04:00:00.0000000",
+        "title":  "NFL Preseason Football",
+        "end":  "2025-08-24T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-24T04:00:00.0000000",
+        "title":  "NFL Preseason Football",
+        "end":  "2025-08-24T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-24T07:00:00.0000000",
+        "title":  "NFL Preseason Football: Philadelphia Eagles at New York Jets",
+        "end":  "2025-08-24T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-24T10:00:00.0000000",
+        "title":  "NFL Preseason Football: Minnesota Vikings at Tennessee Titans",
+        "end":  "2025-08-24T13:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-24T13:00:00.0000000",
+        "title":  "NFL Preseason Football",
+        "end":  "2025-08-24T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-24T16:00:00.0000000",
+        "title":  "NFL GameDay Kickoff",
+        "end":  "2025-08-24T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-24T17:00:00.0000000",
+        "title":  "NFL Preseason Football: Los Angeles Rams at Cleveland Browns",
+        "end":  "2025-08-24T20:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-24T20:00:00.0000000",
+        "title":  "NFL Preseason Football: Seattle Seahawks at Green Bay Packers",
+        "end":  "2025-08-24T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-24T23:00:00.0000000",
+        "title":  "NFL Preseason Football: Jacksonville Jaguars at Miami Dolphins",
+        "end":  "2025-08-25T02:00:00.0000000"
+    },
+    {
+        "start":  "2025-08-25T02:00:00.0000000",
+        "title":  "NFL Preseason Football: Las Vegas Raiders at Arizona Cardinals",
+        "end":  "2025-08-25T05:00:00.0000000"
     }
 ]
