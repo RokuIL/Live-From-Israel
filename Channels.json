@@ -50,7 +50,7 @@
                 "https://mako-streaming.akamaized.net@@MAKO:lp=@@/n12/hls/live/2041434/n12_b/index.m3u8@@?@@TICKET@@",
                 "https://mako-streaming.akamaized.net@@MAKO:lp=@@/n12/hls/live/2103938/k12/index.m3u8@@?@@TICKET@@",
                 "https://mako-streaming.akamaized.net@@MAKO:lp=@@/stream/hls/live/2033791/k12n12wad/index.m3u8@@?@@TICKET@@",
-                "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/5/hdntl=exp=1755968039~acl=%2f*~data=hdntl~hmac=c7bc548097f10eb1988a0930894bb933546f3314e9d5416aec6d1b9fbadcc886/profileManifest.m3u8?_uid=88862c34-35df-40ea-8fd8-d5d24327577e&rK=b6&_did=21e8da084b5181ca71b7effd03cb981dee2435a3",
+                "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/5/profileManifest.m3u8?_uid=88862c34-35df-40ea-8fd8-d5d24327577e&rK=b6",
                 "temporary",
                 "https://zekonew.newkso.ru/zeko/premium549/mono.m3u8"
             ]
