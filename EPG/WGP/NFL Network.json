@@ -1,70 +1,5 @@
 [
     {
-        "start":  "2025-08-29T05:00:00.0000000",
-        "title":  "NFL Preseason Football: San Francisco 49ers at Las Vegas Raiders",
-        "end":  "2025-08-29T07:30:00.0000000"
-    },
-    {
-        "start":  "2025-08-29T07:30:00.0000000",
-        "title":  "NFL Preseason Football: Los Angeles Chargers at Los Angeles Rams",
-        "end":  "2025-08-29T10:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-29T10:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-08-29T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-29T11:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2025-08-29T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-29T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-08-29T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-29T14:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-08-29T16:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-29T16:00:00.0000000",
-        "title":  "NFL Preseason Football: Cincinnati Bengals at Washington Commanders",
-        "end":  "2025-08-29T19:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-29T19:00:00.0000000",
-        "title":  "NFL Preseason Football",
-        "end":  "2025-08-29T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-29T22:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2025-08-29T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-29T23:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-08-30T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-30T00:00:00.0000000",
-        "title":  "NFL Preseason Football",
-        "end":  "2025-08-30T03:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-30T03:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-08-30T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-08-30T04:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2025-08-30T05:00:00.0000000"
-    },
-    {
         "start":  "2025-08-30T05:00:00.0000000",
         "title":  "NFL Preseason Football: Green Bay Packers at Indianapolis Colts",
         "end":  "2025-08-30T07:30:00.0000000"
@@ -106,17 +41,17 @@
     },
     {
         "start":  "2025-08-31T05:00:00.0000000",
-        "title":  "NFL Preseason Football",
+        "title":  "NFL Preseason Football: Seattle Seahawks at Green Bay Packers",
         "end":  "2025-08-31T08:00:00.0000000"
     },
     {
         "start":  "2025-08-31T08:00:00.0000000",
-        "title":  "NFL Preseason Football",
+        "title":  "NFL Preseason Football: Las Vegas Raiders at Arizona Cardinals",
         "end":  "2025-08-31T11:00:00.0000000"
     },
     {
         "start":  "2025-08-31T11:00:00.0000000",
-        "title":  "NFL Preseason Football",
+        "title":  "NFL Preseason Football: New England Patriots at New York Giants",
         "end":  "2025-08-31T14:00:00.0000000"
     },
     {
@@ -151,7 +86,7 @@
     },
     {
         "start":  "2025-09-01T01:00:00.0000000",
-        "title":  "NFL Preseason Football",
+        "title":  "NFL Preseason Football: Pittsburgh Steelers at Carolina Panthers",
         "end":  "2025-09-01T03:30:00.0000000"
     },
     {
@@ -358,5 +293,70 @@
         "start":  "2025-09-04T03:00:00.0000000",
         "title":  "The Insiders",
         "end":  "2025-09-04T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-04T04:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2025-09-04T05:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-04T06:00:00.0000000",
+        "title":  "NFL 2025 Kickoff Preview",
+        "end":  "2025-09-04T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-04T10:00:00.0000000",
+        "title":  "NFL 2025 Kickoff Preview",
+        "end":  "2025-09-04T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-04T12:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-09-04T14:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-04T14:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-09-04T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-04T16:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-09-04T18:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-04T19:00:00.0000000",
+        "title":  "NFL GameDay",
+        "end":  "2025-09-04T21:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-04T21:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2025-09-04T22:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-04T22:00:00.0000000",
+        "title":  "NFL GameDay Kickoff",
+        "end":  "2025-09-04T23:30:00.0000000"
+    },
+    {
+        "start":  "2025-09-04T23:30:00.0000000",
+        "title":  "NFL Kickoff 2025: From Philadelphia",
+        "end":  "2025-09-05T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-05T00:00:00.0000000",
+        "title":  "NFL Top 100 Players of 2025",
+        "end":  "2025-09-05T01:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-05T01:00:00.0000000",
+        "title":  "Sunday Night Football: Los Angeles Chargers at Kansas City Chiefs",
+        "end":  "2025-09-05T03:30:00.0000000"
+    },
+    {
+        "start":  "2025-09-05T03:30:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2025-09-05T04:30:00.0000000"
     }
 ]
