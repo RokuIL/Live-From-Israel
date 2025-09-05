@@ -1,70 +1,5 @@
 [
     {
-        "start":  "2025-09-04T06:00:00.0000000",
-        "title":  "NFL 2025 Kickoff Preview",
-        "end":  "2025-09-04T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-04T10:00:00.0000000",
-        "title":  "NFL 2025 Kickoff Preview",
-        "end":  "2025-09-04T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-04T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-09-04T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-04T14:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-09-04T16:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-04T16:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-09-04T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-04T19:00:00.0000000",
-        "title":  "NFL GameDay",
-        "end":  "2025-09-04T21:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-04T21:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2025-09-04T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-04T22:00:00.0000000",
-        "title":  "NFL GameDay Kickoff",
-        "end":  "2025-09-04T23:30:00.0000000"
-    },
-    {
-        "start":  "2025-09-04T23:30:00.0000000",
-        "title":  "NFL Kickoff 2025: From Philadelphia",
-        "end":  "2025-09-05T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-05T00:00:00.0000000",
-        "title":  "NFL Top 100 Players of 2025",
-        "end":  "2025-09-05T01:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-05T01:00:00.0000000",
-        "title":  "Sunday Night Football: Los Angeles Chargers at Kansas City Chiefs",
-        "end":  "2025-09-05T03:30:00.0000000"
-    },
-    {
-        "start":  "2025-09-05T03:30:00.0000000",
-        "title":  "NFL GameDay Final",
-        "end":  "2025-09-05T04:30:00.0000000"
-    },
-    {
-        "start":  "2025-09-05T04:30:00.0000000",
-        "title":  "Sunday Night Football: Dallas Cowboys at Philadelphia Eagles",
-        "end":  "2025-09-05T04:30:00.0000000"
-    },
-    {
         "start":  "2025-09-05T04:30:00.0000000",
         "title":  "Sunday Night Football: Dallas Cowboys at Philadelphia Eagles",
         "end":  "2025-09-05T07:00:00.0000000"
@@ -163,21 +98,6 @@
         "start":  "2025-09-06T19:00:00.0000000",
         "title":  "NFL Football: Kansas City Chiefs vs. Los Angeles Chargers",
         "end":  "2025-09-06T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-06T22:00:00.0000000",
-        "title":  "NFL GameDay Kickoff",
-        "end":  "2025-09-06T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-06T23:00:00.0000000",
-        "title":  "NFL GameDay View",
-        "end":  "2025-09-07T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-07T00:00:00.0000000",
-        "title":  "Sunday Night Football: Dallas Cowboys at Philadelphia Eagles",
-        "end":  "2025-09-07T03:00:00.0000000"
     },
     {
         "start":  "2025-09-07T04:00:00.0000000",
@@ -403,5 +323,80 @@
         "start":  "2025-09-10T03:00:00.0000000",
         "title":  "The Insiders",
         "end":  "2025-09-10T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T04:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2025-09-10T05:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T05:00:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2025-09-10T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T08:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-09-10T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T09:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2025-09-10T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T10:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-09-10T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T11:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2025-09-10T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T12:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-09-10T14:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T14:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-09-10T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T16:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-09-10T18:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T18:00:00.0000000",
+        "title":  "The Timeline: Lombardi\u0027s Redskins - Season 2, Episode 9",
+        "end":  "2025-09-10T19:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T19:00:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2025-09-10T22:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T22:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2025-09-10T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T23:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-09-11T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-11T00:00:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2025-09-11T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-11T03:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-09-11T04:00:00.0000000"
     }
 ]

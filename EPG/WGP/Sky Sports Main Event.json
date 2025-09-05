@@ -1,55 +1,5 @@
 [
     {
-        "start":  "2025-09-04T05:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-09-04T06:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-04T06:00:00.0000000",
-        "title":  "Sky Sports Breakfast",
-        "end":  "2025-09-04T06:30:00.0000000"
-    },
-    {
-        "start":  "2025-09-04T06:30:00.0000000",
-        "title":  "Sky Sports Breakfast",
-        "end":  "2025-09-04T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-04T07:00:00.0000000",
-        "title":  "Live DP World Tour Golf",
-        "end":  "2025-09-04T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-04T12:00:00.0000000",
-        "title":  "Live One-Day International Cricket",
-        "end":  "2025-09-04T20:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-04T20:00:00.0000000",
-        "title":  "Live US Open Tennis",
-        "end":  "2025-09-04T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-04T23:00:00.0000000",
-        "title":  "Live US Open Tennis",
-        "end":  "2025-09-05T01:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-05T01:00:00.0000000",
-        "title":  "Live US Open Tennis",
-        "end":  "2025-09-05T03:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-05T03:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-09-05T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-05T04:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-09-05T05:00:00.0000000"
-    },
-    {
         "start":  "2025-09-05T05:00:00.0000000",
         "title":  "Sky Sports News",
         "end":  "2025-09-05T06:00:00.0000000"
@@ -141,11 +91,6 @@
     },
     {
         "start":  "2025-09-06T04:35:00.0000000",
-        "title":  "Live: The Rugby Championship",
-        "end":  "2025-09-06T05:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-06T05:00:00.0000000",
         "title":  "Live: The Rugby Championship",
         "end":  "2025-09-06T06:35:00.0000000"
     },
@@ -488,5 +433,85 @@
         "start":  "2025-09-10T04:00:00.0000000",
         "title":  "Sky Sports News",
         "end":  "2025-09-10T05:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T05:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-09-10T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T06:00:00.0000000",
+        "title":  "Sky Sports Breakfast",
+        "end":  "2025-09-10T06:30:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T06:30:00.0000000",
+        "title":  "Sky Sports Breakfast",
+        "end":  "2025-09-10T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T07:00:00.0000000",
+        "title":  "Sky Sports Breakfast",
+        "end":  "2025-09-10T07:30:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T07:30:00.0000000",
+        "title":  "Sky Sports Breakfast",
+        "end":  "2025-09-10T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T08:00:00.0000000",
+        "title":  "Sky Sports Breakfast",
+        "end":  "2025-09-10T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T09:00:00.0000000",
+        "title":  "Sky Sports FC",
+        "end":  "2025-09-10T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T10:00:00.0000000",
+        "title":  "Sky Sports FC",
+        "end":  "2025-09-10T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T11:00:00.0000000",
+        "title":  "Lunchtime Live: Generic Lunchtime Live",
+        "end":  "2025-09-10T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T12:00:00.0000000",
+        "title":  "Lunchtime Live: Generic Lunchtime Live",
+        "end":  "2025-09-10T13:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T13:00:00.0000000",
+        "title":  "Live Disability T20: Domestic Disability-Men\u0027s T20 10.09",
+        "end":  "2025-09-10T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T16:00:00.0000000",
+        "title":  "The Premier League Show",
+        "end":  "2025-09-10T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T17:00:00.0000000",
+        "title":  "Live International T20 Cricket",
+        "end":  "2025-09-10T21:30:00.0000000"
+    },
+    {
+        "start":  "2025-09-10T21:30:00.0000000",
+        "title":  "Live Tennis",
+        "end":  "2025-09-11T00:30:00.0000000"
+    },
+    {
+        "start":  "2025-09-11T00:30:00.0000000",
+        "title":  "Live Tennis: Wta 500 Guadalajara Day 3 10.09",
+        "end":  "2025-09-11T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-11T04:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-09-11T05:00:00.0000000"
     }
 ]
