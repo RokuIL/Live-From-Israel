@@ -9,27 +9,6 @@
     "TimeZoneOffset": "3",
     "Channels": [
         {
-            "Title": "סיאטל סיהוקס",
-            "TitleEng": "Seattle Seahawks",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png",
-            "EPGProvider": "Text",
-            "EPGStationId": "שידור ישיר בזמן משחק.",        
-            "Private": "True",
-            "BufferingTimer": "1",
-            "StreamFormat": "hls",
-            "Headers": [
-                "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
-            ],
-            "StreamUrls": [
-                "https://v13.thetvapp.to/hls/NFL13/tracks-v2a1/mono.m3u8?token=sCYCE_ePcBCbR2vpZj6utw&expires=1757297754&user_id=UEVtOW9FRXFKaFNTa2xUczF3UmZyRktWMzY5NnRJeXlmaHFzS3hkUA==",
-                "https://nextcast.click/hls/FauPPHM13BbZ/index.m3u8?st=AgFgr0FQ7MyO9_wRo-5c3A&e=1757283695",
-                "https://zd.strmd.top/secure/qWomXDvQjXYtsixbiWiwdfGusjeaMdOo/alpha/stream/nfl-network/1/playlist.m3u8",
-                "https://zd.strmd.top/secure/ixrmxpMlGSsXCditAxPutZRNvYvVmELL/alpha/stream/espn/1/playlist.m3u8"
-            ]
-        },
-        {
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
@@ -46,8 +25,8 @@
             "StreamUrls": [
                 "https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8",
                 "https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8",
+                "https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8",
                 "https://zekonew.newkso.ru/zeko/premium548/mono.m3u8",
-                "https://www.dailymotion.com/player/metadata/video/x7wjmog"
             ]
         },
         {
