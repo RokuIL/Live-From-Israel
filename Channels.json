@@ -485,11 +485,12 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz https://topembed.pw",
-                "Referer:https://newembedplay.xyz/ https://topembed.pw/"
+                "Origin:https://newembedplay.xyz https://topembed.pw https://usnewson.com",
+                "Referer:https://newembedplay.xyz/ https://topembed.pw/ https://usnewson.com/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium347/mono.m3u8",
+                "https://s2.usnlive.com/stream/foxnews.m3u8",
                 "https://tvpass.org/live/FoxNewsChannel/hd"
             ]
         },
