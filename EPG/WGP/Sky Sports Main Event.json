@@ -1,70 +1,5 @@
 [
     {
-        "start":  "2025-09-12T05:00:00.0000000",
-        "title":  "Sky Sports News",
-        "end":  "2025-09-12T06:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-12T06:00:00.0000000",
-        "title":  "Sky Sports Breakfast",
-        "end":  "2025-09-12T06:30:00.0000000"
-    },
-    {
-        "start":  "2025-09-12T06:30:00.0000000",
-        "title":  "Sky Sports Breakfast",
-        "end":  "2025-09-12T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-12T07:00:00.0000000",
-        "title":  "Sky Sports Breakfast",
-        "end":  "2025-09-12T07:30:00.0000000"
-    },
-    {
-        "start":  "2025-09-12T07:30:00.0000000",
-        "title":  "Live DP World Tour Golf: 2025 BMW PGA Championship Day 2 Featured Groups",
-        "end":  "2025-09-12T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-12T11:00:00.0000000",
-        "title":  "Live DP World Tour Golf: 2025 BMW PGA Championship Day 2",
-        "end":  "2025-09-12T17:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-12T17:00:00.0000000",
-        "title":  "Premier League Friday",
-        "end":  "2025-09-12T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-12T18:00:00.0000000",
-        "title":  "Sports Centre",
-        "end":  "2025-09-12T18:30:00.0000000"
-    },
-    {
-        "start":  "2025-09-12T18:30:00.0000000",
-        "title":  "Live EFL: Ipswich Town v Sheffield United 12.09",
-        "end":  "2025-09-12T21:30:00.0000000"
-    },
-    {
-        "start":  "2025-09-12T21:30:00.0000000",
-        "title":  "Live Tennis",
-        "end":  "2025-09-13T00:30:00.0000000"
-    },
-    {
-        "start":  "2025-09-13T00:30:00.0000000",
-        "title":  "Live Tennis: Wta 500 Guadalajara Day 5 Qfs 12.09",
-        "end":  "2025-09-13T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-13T04:00:00.0000000",
-        "title":  "Rugby Greatest Games",
-        "end":  "2025-09-13T04:05:00.0000000"
-    },
-    {
-        "start":  "2025-09-13T04:05:00.0000000",
-        "title":  "Live: The Rugby Championship",
-        "end":  "2025-09-13T05:00:00.0000000"
-    },
-    {
         "start":  "2025-09-13T05:00:00.0000000",
         "title":  "Live: The Rugby Championship",
         "end":  "2025-09-13T06:35:00.0000000"
@@ -181,7 +116,7 @@
     },
     {
         "start":  "2025-09-14T20:15:00.0000000",
-        "title":  "Live NFL",
+        "title":  "Live NFL: Philadelphia Eagles @ Kansas City Chiefs 14.09",
         "end":  "2025-09-14T23:30:00.0000000"
     },
     {
@@ -483,5 +418,110 @@
         "start":  "2025-09-18T04:00:00.0000000",
         "title":  "Sky Sports News",
         "end":  "2025-09-18T05:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-18T05:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-09-18T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-18T06:00:00.0000000",
+        "title":  "Sky Sports Breakfast",
+        "end":  "2025-09-18T06:30:00.0000000"
+    },
+    {
+        "start":  "2025-09-18T06:30:00.0000000",
+        "title":  "Sky Sports Breakfast",
+        "end":  "2025-09-18T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-18T07:00:00.0000000",
+        "title":  "Sky Sports Breakfast",
+        "end":  "2025-09-18T07:30:00.0000000"
+    },
+    {
+        "start":  "2025-09-18T07:30:00.0000000",
+        "title":  "Sky Sports Breakfast",
+        "end":  "2025-09-18T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-18T08:00:00.0000000",
+        "title":  "Sky Sports Breakfast",
+        "end":  "2025-09-18T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-18T09:00:00.0000000",
+        "title":  "Sky Sports FC",
+        "end":  "2025-09-18T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-18T10:00:00.0000000",
+        "title":  "Sky Sports FC",
+        "end":  "2025-09-18T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-18T11:00:00.0000000",
+        "title":  "Lunchtime Live: Generic Lunchtime Live",
+        "end":  "2025-09-18T11:30:00.0000000"
+    },
+    {
+        "start":  "2025-09-18T11:30:00.0000000",
+        "title":  "Live DP World Tour Golf",
+        "end":  "2025-09-18T16:30:00.0000000"
+    },
+    {
+        "start":  "2025-09-18T16:30:00.0000000",
+        "title":  "The Premier League Show",
+        "end":  "2025-09-18T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-18T17:00:00.0000000",
+        "title":  "The Premier League Show",
+        "end":  "2025-09-18T18:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-18T18:00:00.0000000",
+        "title":  "Sports Centre",
+        "end":  "2025-09-18T18:30:00.0000000"
+    },
+    {
+        "start":  "2025-09-18T18:30:00.0000000",
+        "title":  "Sports Centre",
+        "end":  "2025-09-18T19:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-18T19:00:00.0000000",
+        "title":  "Sports Centre",
+        "end":  "2025-09-18T20:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-18T20:00:00.0000000",
+        "title":  "Sports Centre",
+        "end":  "2025-09-18T21:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-18T21:00:00.0000000",
+        "title":  "Sky Sports News at Ten",
+        "end":  "2025-09-18T21:30:00.0000000"
+    },
+    {
+        "start":  "2025-09-18T21:30:00.0000000",
+        "title":  "Back Pages Tonight",
+        "end":  "2025-09-18T22:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-18T22:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-09-18T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-18T23:00:00.0000000",
+        "title":  "Live NFL: Miami Dolphins @ Buffalo Bills 18.09",
+        "end":  "2025-09-19T04:15:00.0000000"
+    },
+    {
+        "start":  "2025-09-19T04:15:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-09-19T05:00:00.0000000"
     }
 ]
