@@ -9,6 +9,28 @@
     "TimeZoneOffset": "3",
     "Channels": [
         {
+            "Title": "סיאטל סיהוקס",
+            "TitleEng": "Seattle Seahawks",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png",
+            "EPGProvider": "Text",
+            "EPGStationId": "שידור ישיר בזמן משחק.",        
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
+                "Origin:https://newembedplay.xyz",
+                "Referer:https://newembedplay.xyz/"
+            ],
+            "StreamUrls": [
+                "https://nfsnew.newkso.ru/nfs/premium17/mono.m3u8",
+                "https://e2.thetvapp.to/hls/NFL21/tracks-v1a1/mono.m3u8?token=-nya2moyKH8UNZSxv5j46w&expires=1757888431&user_id=VkJqMGRQVHNsTDMzYWRiZTlOS2dOUHVUbWxVNjFPeUQwNG1CTlJkSA==",
+                "https://v5.thetvapp.to/hls/NFL21/tracks-v2a1/mono.m3u8?token=N8Td-U-lmqmpOt2YsNNteQ&expires=1757888457&user_id=VkJqMGRQVHNsTDMzYWRiZTlOS2dOUHVUbWxVNjFPeUQwNG1CTlJkSA==",
+                "https://broadcasthub.click/hls/pVR1wauYsbcV/index.m3u8?st=MQ0JIzx9SpCcLdrxKSNTUQ&e=1757877390",
+                "https://broadcasthub.click/hls/HDGQ9/index.m3u8?st=IBDO9rAXScHLzLoC8fqicQ&e=1757877496"
+            ]
+        },
+        {
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
@@ -490,7 +512,6 @@
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium347/mono.m3u8",
-                "https://s2.usnlive.com/stream/foxnews.m3u8",
                 "https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8",
                 "https://tvpass.org/live/FoxNewsChannel/hd"
             ]
