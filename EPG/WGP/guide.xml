@@ -138,10 +138,6 @@
     <display-name lang="US">HBO - Eastern Feed</display-name>
     <icon src="" />
   </channel>
-  <channel id="403522">
-    <display-name lang="US">HBO 2 - Eastern Feed</display-name>
-    <icon src="" />
-  </channel>
   <channel id="403650">
     <display-name lang="US">HBO Comedy HD - East</display-name>
     <icon src="" />
@@ -10526,8 +10522,13 @@
     <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
     <date>2025-09-16</date>
   </programme>
-  <programme channel="399930" start="20250916090000 +0000" stop="20250917000000 +0000">
+  <programme channel="399930" start="20250916090000 +0000" stop="20250916093000 +0000">
     <title lang="zh">Live: Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="399930" start="20250916093000 +0000" stop="20250917000000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
     <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
     <date>2025-09-16</date>
   </programme>
@@ -10596,245 +10597,695 @@
     <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
     <date>2025-09-16</date>
   </programme>
-  <programme channel="399930" start="20250916090000 +0000" stop="20250917000000 +0000">
+  <programme channel="399930" start="20250916090000 +0000" stop="20250916093000 +0000">
     <title lang="zh">Live: Good Morning America First Look</title>
     <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
     <date>2025-09-16</date>
   </programme>
-  <programme channel="399930" start="20250915000000 +0000" stop="20250915020000 +0000">
-    <title lang="zh">Live: 20/20</title>
-    <desc>Award-winning program featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
-    <date>2025-09-15</date>
+  <programme channel="399930" start="20250916093000 +0000" stop="20250917000000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2025-09-16</date>
   </programme>
-  <programme channel="399930" start="20250915020000 +0000" stop="20250915030000 +0000">
-    <title lang="zh">Search for the Truth: The Amanda Knox Story</title>
-    <desc>Amanda Knox discusses the yearslong battle to prove her innocence after being wrongfully convicted of her roommate's 2007 murder; interviews with K.J. Steinberg, Monica Lewinsky, Warren Littlefield and Grace Van Patten.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="399930" start="20250915030000 +0000" stop="20250915033000 +0000">
-    <title lang="zh">Live: ABC World News Tonight With David Muir</title>
-    <desc>The latest news from America, as reported by the ABC television network.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="399930" start="20250915033000 +0000" stop="20250915040000 +0000">
-    <title lang="zh">ABC World News Tonight With David Muir</title>
-    <desc>The latest news from America, as reported by the ABC television network.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="399930" start="20250915040000 +0000" stop="20250915060000 +0000">
-    <title lang="zh">20/20</title>
-    <desc>Award-winning program featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="399930" start="20250915060000 +0000" stop="20250915063000 +0000">
-    <title lang="zh">Live: ABC World News Now</title>
-    <desc>Global news.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="399930" start="20250915063000 +0000" stop="20250915070000 +0000">
-    <title lang="zh">ABC World News Now</title>
-    <desc>Global news.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="399930" start="20250915070000 +0000" stop="20250915073000 +0000">
-    <title lang="zh">Live: ABC World News Now</title>
-    <desc>Global news.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="399930" start="20250915073000 +0000" stop="20250915080000 +0000">
-    <title lang="zh">ABC World News Now</title>
-    <desc>Global news.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="399930" start="20250915080000 +0000" stop="20250915083000 +0000">
+  <programme channel="399930" start="20250917100000 +0000" stop="20250917103000 +0000">
     <title lang="zh">Live: Good Morning America First Look</title>
     <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="399930" start="20250915083000 +0000" stop="20250915090000 +0000">
+  <programme channel="399930" start="20250917103000 +0000" stop="20250917110000 +0000">
     <title lang="zh">Good Morning America First Look</title>
     <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="399930" start="20250915090000 +0000" stop="20250915093000 +0000">
-    <title lang="zh">Live: Good Morning America First Look</title>
-    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="399930" start="20250915093000 +0000" stop="20250915100000 +0000">
+  <programme channel="399930" start="20250917110000 +0000" stop="20250917113000 +0000">
     <title lang="zh">Good Morning America First Look</title>
     <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="399930" start="20250915100000 +0000" stop="20250915103000 +0000">
-    <title lang="zh">Live: Good Morning America First Look</title>
-    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="399930" start="20250915103000 +0000" stop="20250915110000 +0000">
-    <title lang="zh">Good Morning America First Look</title>
-    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="399930" start="20250915110000 +0000" stop="20250915113000 +0000">
-    <title lang="zh">Good Morning America First Look</title>
-    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="399930" start="20250915113000 +0000" stop="20250915120000 +0000">
+  <programme channel="399930" start="20250917113000 +0000" stop="20250917120000 +0000">
     <title lang="zh">Live: Start Here</title>
     <desc>Hosted by Brad Mielke, the video version of ABC News' daily podcast dives straight to the heart of the stories that are driving national conversations.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="399930" start="20250915120000 +0000" stop="20250915123000 +0000">
+  <programme channel="399930" start="20250917120000 +0000" stop="20250917123000 +0000">
     <title lang="zh">Good Morning America First Look</title>
     <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="399930" start="20250915123000 +0000" stop="20250915130000 +0000">
+  <programme channel="399930" start="20250917123000 +0000" stop="20250917130000 +0000">
     <title lang="zh">Start Here</title>
     <desc>Hosted by Brad Mielke, the video version of ABC News' daily podcast dives straight to the heart of the stories that are driving national conversations.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="399930" start="20250915130000 +0000" stop="20250915143000 +0000">
+  <programme channel="399930" start="20250917130000 +0000" stop="20250917143000 +0000">
     <title lang="zh">Live: ABC News Live First</title>
     <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="399930" start="20250915143000 +0000" stop="20250915150000 +0000">
+  <programme channel="399930" start="20250917143000 +0000" stop="20250917150000 +0000">
     <title lang="zh">ABC News Live First</title>
     <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="399930" start="20250915150000 +0000" stop="20250915153000 +0000">
+  <programme channel="399930" start="20250917150000 +0000" stop="20250917153000 +0000">
     <title lang="zh">Live: ABC News Live First</title>
     <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="399930" start="20250915153000 +0000" stop="20250915160000 +0000">
+  <programme channel="399930" start="20250917153000 +0000" stop="20250917160000 +0000">
     <title lang="zh">ABC News Live First</title>
     <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="399930" start="20250915160000 +0000" stop="20250915163000 +0000">
+  <programme channel="399930" start="20250917160000 +0000" stop="20250917163000 +0000">
     <title lang="zh">Live: ABC News Live First</title>
     <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="399930" start="20250915163000 +0000" stop="20250915170000 +0000">
+  <programme channel="399930" start="20250917163000 +0000" stop="20250917170000 +0000">
     <title lang="zh">ABC News Live First</title>
     <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="399930" start="20250915170000 +0000" stop="20250915173000 +0000">
+  <programme channel="399930" start="20250917170000 +0000" stop="20250917173000 +0000">
     <title lang="zh">Live: ABC News Live</title>
     <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="399930" start="20250915173000 +0000" stop="20250915180000 +0000">
+  <programme channel="399930" start="20250917173000 +0000" stop="20250917180000 +0000">
     <title lang="zh">ABC News Live</title>
     <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="399930" start="20250915180000 +0000" stop="20250915183000 +0000">
+  <programme channel="399930" start="20250917180000 +0000" stop="20250917183000 +0000">
     <title lang="zh">Live: ABC News Live</title>
     <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="399930" start="20250915183000 +0000" stop="20250915190000 +0000">
+  <programme channel="399930" start="20250917183000 +0000" stop="20250917190000 +0000">
     <title lang="zh">ABC News Live</title>
     <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="399930" start="20250915190000 +0000" stop="20250915193000 +0000">
+  <programme channel="399930" start="20250917190000 +0000" stop="20250917193000 +0000">
     <title lang="zh">Live: ABC News Live</title>
     <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="399930" start="20250915193000 +0000" stop="20250915200000 +0000">
+  <programme channel="399930" start="20250917193000 +0000" stop="20250917200000 +0000">
     <title lang="zh">ABC News Live</title>
     <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="399930" start="20250915200000 +0000" stop="20250915230000 +0000">
+  <programme channel="399930" start="20250917200000 +0000" stop="20250917230000 +0000">
     <title lang="zh">Live: ABC News Live Reports</title>
     <desc>24/7 coverage of breaking news and live events.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="399930" start="20250915230000 +0000" stop="20250916000000 +0000">
+  <programme channel="399930" start="20250917230000 +0000" stop="20250918000000 +0000">
     <title lang="zh">Live: ABCNL Prime With Linsey Davis</title>
     <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="399930" start="20250916003000 +0000" stop="20250916010000 +0000">
-    <title lang="zh">Live: Nightline</title>
-    <desc>In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
-    <date>2025-09-16</date>
-  </programme>
-  <programme channel="399930" start="20250916010000 +0000" stop="20250916020000 +0000">
-    <title lang="zh">Live: ABCNL Prime With Linsey Davis</title>
-    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
-    <date>2025-09-16</date>
-  </programme>
-  <programme channel="399930" start="20250916020000 +0000" stop="20250916023000 +0000">
-    <title lang="zh">Live: ABC World News Tonight With David Muir</title>
-    <desc>The latest news from America, as reported by the ABC television network.</desc>
-    <date>2025-09-16</date>
-  </programme>
-  <programme channel="399930" start="20250916023000 +0000" stop="20250916030000 +0000">
-    <title lang="zh">ABCNL Prime With Linsey Davis</title>
-    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
-    <date>2025-09-16</date>
-  </programme>
-  <programme channel="399930" start="20250916030000 +0000" stop="20250916043000 +0000">
-    <title lang="zh">ABCNL Prime With Linsey Davis</title>
-    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
-    <date>2025-09-16</date>
-  </programme>
-  <programme channel="399930" start="20250916043000 +0000" stop="20250916050000 +0000">
-    <title lang="zh">ABC World News Tonight With David Muir</title>
-    <desc>The latest news from America, as reported by the ABC television network.</desc>
-    <date>2025-09-16</date>
-  </programme>
-  <programme channel="399930" start="20250916050000 +0000" stop="20250916060000 +0000">
-    <title lang="zh">ABCNL Prime With Linsey Davis</title>
-    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
-    <date>2025-09-16</date>
-  </programme>
-  <programme channel="399930" start="20250916060000 +0000" stop="20250916063000 +0000">
-    <title lang="zh">Live: ABC World News Now</title>
-    <desc>Global news.</desc>
-    <date>2025-09-16</date>
-  </programme>
-  <programme channel="399930" start="20250916063000 +0000" stop="20250916070000 +0000">
-    <title lang="zh">ABC World News Now</title>
-    <desc>Global news.</desc>
-    <date>2025-09-16</date>
-  </programme>
-  <programme channel="399930" start="20250916070000 +0000" stop="20250916073000 +0000">
-    <title lang="zh">Live: ABC World News Now</title>
-    <desc>Global news.</desc>
-    <date>2025-09-16</date>
-  </programme>
-  <programme channel="399930" start="20250916073000 +0000" stop="20250916080000 +0000">
-    <title lang="zh">ABC World News Now</title>
-    <desc>Global news.</desc>
-    <date>2025-09-16</date>
-  </programme>
-  <programme channel="399930" start="20250916080000 +0000" stop="20250916083000 +0000">
+  <programme channel="399930" start="20250917100000 +0000" stop="20250917103000 +0000">
     <title lang="zh">Live: Good Morning America First Look</title>
     <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
-    <date>2025-09-16</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="399930" start="20250916083000 +0000" stop="20250916090000 +0000">
+  <programme channel="399930" start="20250917103000 +0000" stop="20250917110000 +0000">
     <title lang="zh">Good Morning America First Look</title>
     <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
-    <date>2025-09-16</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="399930" start="20250916090000 +0000" stop="20250917000000 +0000">
+  <programme channel="399930" start="20250917110000 +0000" stop="20250917113000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="399930" start="20250917113000 +0000" stop="20250917120000 +0000">
+    <title lang="zh">Live: Start Here</title>
+    <desc>Hosted by Brad Mielke, the video version of ABC News' daily podcast dives straight to the heart of the stories that are driving national conversations.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="399930" start="20250917120000 +0000" stop="20250917123000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="399930" start="20250917123000 +0000" stop="20250917130000 +0000">
+    <title lang="zh">Start Here</title>
+    <desc>Hosted by Brad Mielke, the video version of ABC News' daily podcast dives straight to the heart of the stories that are driving national conversations.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="399930" start="20250917130000 +0000" stop="20250917143000 +0000">
+    <title lang="zh">Live: ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="399930" start="20250917143000 +0000" stop="20250917150000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="399930" start="20250917150000 +0000" stop="20250917153000 +0000">
+    <title lang="zh">Live: ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="399930" start="20250917153000 +0000" stop="20250917160000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="399930" start="20250917160000 +0000" stop="20250917163000 +0000">
+    <title lang="zh">Live: ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="399930" start="20250917163000 +0000" stop="20250917170000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="399930" start="20250917170000 +0000" stop="20250917173000 +0000">
+    <title lang="zh">Live: ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="399930" start="20250917173000 +0000" stop="20250917180000 +0000">
+    <title lang="zh">ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="399930" start="20250917180000 +0000" stop="20250917183000 +0000">
+    <title lang="zh">Live: ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="399930" start="20250917183000 +0000" stop="20250917190000 +0000">
+    <title lang="zh">ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="399930" start="20250917190000 +0000" stop="20250917193000 +0000">
+    <title lang="zh">Live: ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="399930" start="20250917193000 +0000" stop="20250917200000 +0000">
+    <title lang="zh">ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="399930" start="20250917200000 +0000" stop="20250917230000 +0000">
+    <title lang="zh">Live: ABC News Live Reports</title>
+    <desc>24/7 coverage of breaking news and live events.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="399930" start="20250917230000 +0000" stop="20250918000000 +0000">
+    <title lang="zh">Live: ABCNL Prime With Linsey Davis</title>
+    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="399930" start="20250918003000 +0000" stop="20250918010000 +0000">
+    <title lang="zh">Live: Nightline</title>
+    <desc>In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="399930" start="20250918010000 +0000" stop="20250918020000 +0000">
+    <title lang="zh">Live: ABCNL Prime With Linsey Davis</title>
+    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="399930" start="20250918020000 +0000" stop="20250918023000 +0000">
+    <title lang="zh">Live: ABC World News Tonight With David Muir</title>
+    <desc>The latest news from America, as reported by the ABC television network.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="399930" start="20250918023000 +0000" stop="20250918030000 +0000">
+    <title lang="zh">ABCNL Prime With Linsey Davis</title>
+    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="399930" start="20250918030000 +0000" stop="20250918043000 +0000">
+    <title lang="zh">ABCNL Prime With Linsey Davis</title>
+    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="399930" start="20250918043000 +0000" stop="20250918050000 +0000">
+    <title lang="zh">ABC World News Tonight With David Muir</title>
+    <desc>The latest news from America, as reported by the ABC television network.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="399930" start="20250918050000 +0000" stop="20250918060000 +0000">
+    <title lang="zh">ABCNL Prime With Linsey Davis</title>
+    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="399930" start="20250918060000 +0000" stop="20250918063000 +0000">
+    <title lang="zh">Live: ABC World News Now</title>
+    <desc>Global news.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="399930" start="20250918063000 +0000" stop="20250918070000 +0000">
+    <title lang="zh">ABC World News Now</title>
+    <desc>Global news.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="399930" start="20250918070000 +0000" stop="20250918073000 +0000">
+    <title lang="zh">Live: ABC World News Now</title>
+    <desc>Global news.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="399930" start="20250918073000 +0000" stop="20250918080000 +0000">
+    <title lang="zh">ABC World News Now</title>
+    <desc>Global news.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="399930" start="20250918080000 +0000" stop="20250918083000 +0000">
     <title lang="zh">Live: Good Morning America First Look</title>
     <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="399930" start="20250918083000 +0000" stop="20250918090000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="399930" start="20250918090000 +0000" stop="20250919000000 +0000">
+    <title lang="zh">Live: Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403903" start="20250915000000 +0000" stop="20250915010000 +0000">
+    <title lang="zh">Live: Life, Liberty &amp; Levin</title>
+    <desc>Exploring the fundamental values and principles undergirding American society, culture, politics, and current events, and their relevance to the nation's future and everyday lives of citizens.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915010000 +0000" stop="20250915020000 +0000">
+    <title lang="zh">Live: Sunday Night in America With Trey Gowdy</title>
+    <desc>Insightful analysis and a new outlook on the latest issues facing the country, the former South Carolina Congressman utilizes his mixture of wisdom, humor and historical references to break down the latest legal and political news.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915020000 +0000" stop="20250915030000 +0000">
+    <title lang="zh">Live: One Nation With Brian Kilmeade</title>
+    <desc>In-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915030000 +0000" stop="20250915040000 +0000">
+    <title lang="zh">The Big Weekend Show</title>
+    <desc>Rotating panelists discuss the big news of the day and react to the top stories.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915040000 +0000" stop="20250915050000 +0000">
+    <title lang="zh">The Big Weekend Show</title>
+    <desc>Rotating panelists discuss the big news of the day and react to the top stories.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915050000 +0000" stop="20250915060000 +0000">
+    <title lang="zh">Life, Liberty &amp; Levin</title>
+    <desc>Exploring the fundamental values and principles undergirding American society, culture, politics, and current events, and their relevance to the nation's future and everyday lives of citizens.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915060000 +0000" stop="20250915070000 +0000">
+    <title lang="zh">FOX News Sunday</title>
+    <desc>Rep. Mike Johnson (R-La.); Rep. Adam Smith (D-Wash.); legal scholar Robert P. George; activist Cornel West; panel discussion with Richard Fowler, Stef Kight, Marc Thiessen and Josh Wingrove.Guests: Mike Johnson, Adam Smith, Robert P. George, Cornel West, Richard Fowler, Stef Kight, Marc Thiessen, Josh Wingrove..</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915070000 +0000" stop="20250915080000 +0000">
+    <title lang="zh">Sunday Night in America With Trey Gowdy</title>
+    <desc>Insightful analysis and a new outlook on the latest issues facing the country, the former South Carolina Congressman utilizes his mixture of wisdom, humor and historical references to break down the latest legal and political news.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915080000 +0000" stop="20250915090000 +0000">
+    <title lang="zh">One Nation With Brian Kilmeade</title>
+    <desc>In-depth analysis of the issues and stories that matter most to Americans while offering context and solutions to help bring the country together.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915090000 +0000" stop="20250915100000 +0000">
+    <title lang="zh">Live: FOX &amp; Friends First</title>
+    <desc>Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915100000 +0000" stop="20250915110000 +0000">
+    <title lang="zh">Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915110000 +0000" stop="20250915120000 +0000">
+    <title lang="zh">Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915120000 +0000" stop="20250915130000 +0000">
+    <title lang="zh">Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915130000 +0000" stop="20250915140000 +0000">
+    <title lang="zh">Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed and viewer emails are also answered by the anchors and guests.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915140000 +0000" stop="20250915150000 +0000">
+    <title lang="zh">Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed and viewer emails are also answered by the anchors and guests.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915150000 +0000" stop="20250915160000 +0000">
+    <title lang="zh">Live: The Faulkner Focus</title>
+    <desc>Emmy-winning journalist Harris Faulkner provides the latest news with insightful analysis and interviews with top newsmakers.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915160000 +0000" stop="20250915170000 +0000">
+    <title lang="zh">Live: Outnumbered</title>
+    <desc>Four female panelists and one male colleague share their perspectives on the day's top news stories.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915170000 +0000" stop="20250915180000 +0000">
+    <title lang="zh">Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915180000 +0000" stop="20250915190000 +0000">
+    <title lang="zh">Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915190000 +0000" stop="20250915200000 +0000">
+    <title lang="zh">Live: The Story With Martha MacCallum</title>
+    <desc>Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; "The Story" captures the voices that need to be heard and the people at the center of every history-shaping moment.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915200000 +0000" stop="20250915210000 +0000">
+    <title lang="zh">Live: The Will Cain Show</title>
+    <desc>Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915210000 +0000" stop="20250915220000 +0000">
+    <title lang="zh">Live: The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915220000 +0000" stop="20250915230000 +0000">
+    <title lang="zh">Live: Special Report With Bret Baier</title>
+    <desc>News from inside the Beltway.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250915230000 +0000" stop="20250916000000 +0000">
+    <title lang="zh">Live: The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403903" start="20250916000000 +0000" stop="20250916010000 +0000">
+    <title lang="zh">Live: Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
     <date>2025-09-16</date>
+  </programme>
+  <programme channel="403903" start="20250916010000 +0000" stop="20250916020000 +0000">
+    <title lang="zh">Live: Hannity</title>
+    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403903" start="20250916020000 +0000" stop="20250916030000 +0000">
+    <title lang="zh">Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403903" start="20250916030000 +0000" stop="20250916040000 +0000">
+    <title lang="zh">Live: Fox News at Night</title>
+    <desc>Hard news and analysis of compelling stories from DC and across the country; journalists provide viewers with must-see information and consequential news.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403903" start="20250916040000 +0000" stop="20250916050000 +0000">
+    <title lang="zh">The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403903" start="20250916050000 +0000" stop="20250916060000 +0000">
+    <title lang="zh">Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403903" start="20250916060000 +0000" stop="20250916070000 +0000">
+    <title lang="zh">Hannity</title>
+    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403903" start="20250916070000 +0000" stop="20250916080000 +0000">
+    <title lang="zh">Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403903" start="20250916080000 +0000" stop="20250916090000 +0000">
+    <title lang="zh">The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403903" start="20250916090000 +0000" stop="20250917000000 +0000">
+    <title lang="zh">Live: FOX &amp; Friends First</title>
+    <desc>Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403903" start="20250916000000 +0000" stop="20250916010000 +0000">
+    <title lang="zh">Live: Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403903" start="20250916010000 +0000" stop="20250916020000 +0000">
+    <title lang="zh">Live: Hannity</title>
+    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403903" start="20250916020000 +0000" stop="20250916030000 +0000">
+    <title lang="zh">Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403903" start="20250916030000 +0000" stop="20250916040000 +0000">
+    <title lang="zh">Live: Fox News at Night</title>
+    <desc>Hard news and analysis of compelling stories from DC and across the country; journalists provide viewers with must-see information and consequential news.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403903" start="20250916040000 +0000" stop="20250916050000 +0000">
+    <title lang="zh">The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403903" start="20250916050000 +0000" stop="20250916060000 +0000">
+    <title lang="zh">Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403903" start="20250916060000 +0000" stop="20250916070000 +0000">
+    <title lang="zh">Hannity</title>
+    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403903" start="20250916070000 +0000" stop="20250916080000 +0000">
+    <title lang="zh">Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403903" start="20250916080000 +0000" stop="20250916090000 +0000">
+    <title lang="zh">The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403903" start="20250916090000 +0000" stop="20250917000000 +0000">
+    <title lang="zh">Live: FOX &amp; Friends First</title>
+    <desc>Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403903" start="20250917100000 +0000" stop="20250917110000 +0000">
+    <title lang="zh">Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917110000 +0000" stop="20250917120000 +0000">
+    <title lang="zh">Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917120000 +0000" stop="20250917130000 +0000">
+    <title lang="zh">Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917130000 +0000" stop="20250917140000 +0000">
+    <title lang="zh">Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed and viewer emails are also answered by the anchors and guests.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917140000 +0000" stop="20250917150000 +0000">
+    <title lang="zh">Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed and viewer emails are also answered by the anchors and guests.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917150000 +0000" stop="20250917160000 +0000">
+    <title lang="zh">Live: The Faulkner Focus</title>
+    <desc>Emmy-winning journalist Harris Faulkner provides the latest news with insightful analysis and interviews with top newsmakers.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917160000 +0000" stop="20250917170000 +0000">
+    <title lang="zh">Live: Outnumbered</title>
+    <desc>Four female panelists and one male colleague share their perspectives on the day's top news stories.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917170000 +0000" stop="20250917180000 +0000">
+    <title lang="zh">Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917180000 +0000" stop="20250917190000 +0000">
+    <title lang="zh">Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917190000 +0000" stop="20250917200000 +0000">
+    <title lang="zh">Live: The Story With Martha MacCallum</title>
+    <desc>Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; "The Story" captures the voices that need to be heard and the people at the center of every history-shaping moment.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917200000 +0000" stop="20250917210000 +0000">
+    <title lang="zh">Live: The Will Cain Show</title>
+    <desc>Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917210000 +0000" stop="20250917220000 +0000">
+    <title lang="zh">Live: The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917220000 +0000" stop="20250917230000 +0000">
+    <title lang="zh">Live: Special Report With Bret Baier</title>
+    <desc>News from inside the Beltway.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917230000 +0000" stop="20250918000000 +0000">
+    <title lang="zh">Live: The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250918000000 +0000" stop="20250919000000 +0000">
+    <title lang="zh">Live: Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403903" start="20250917100000 +0000" stop="20250917110000 +0000">
+    <title lang="zh">Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917110000 +0000" stop="20250917120000 +0000">
+    <title lang="zh">Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917120000 +0000" stop="20250917130000 +0000">
+    <title lang="zh">Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917130000 +0000" stop="20250917140000 +0000">
+    <title lang="zh">Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed and viewer emails are also answered by the anchors and guests.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917140000 +0000" stop="20250917150000 +0000">
+    <title lang="zh">Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed and viewer emails are also answered by the anchors and guests.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917150000 +0000" stop="20250917160000 +0000">
+    <title lang="zh">Live: The Faulkner Focus</title>
+    <desc>Emmy-winning journalist Harris Faulkner provides the latest news with insightful analysis and interviews with top newsmakers.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917160000 +0000" stop="20250917170000 +0000">
+    <title lang="zh">Live: Outnumbered</title>
+    <desc>Four female panelists and one male colleague share their perspectives on the day's top news stories.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917170000 +0000" stop="20250917180000 +0000">
+    <title lang="zh">Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917180000 +0000" stop="20250917190000 +0000">
+    <title lang="zh">Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917190000 +0000" stop="20250917200000 +0000">
+    <title lang="zh">Live: The Story With Martha MacCallum</title>
+    <desc>Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; "The Story" captures the voices that need to be heard and the people at the center of every history-shaping moment.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917200000 +0000" stop="20250917210000 +0000">
+    <title lang="zh">Live: The Will Cain Show</title>
+    <desc>Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917210000 +0000" stop="20250917220000 +0000">
+    <title lang="zh">Live: The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917220000 +0000" stop="20250917230000 +0000">
+    <title lang="zh">Live: Special Report With Bret Baier</title>
+    <desc>News from inside the Beltway.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250917230000 +0000" stop="20250918000000 +0000">
+    <title lang="zh">Live: The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403903" start="20250918000000 +0000" stop="20250918010000 +0000">
+    <title lang="zh">Live: Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403903" start="20250918010000 +0000" stop="20250918020000 +0000">
+    <title lang="zh">Live: Hannity</title>
+    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403903" start="20250918020000 +0000" stop="20250918030000 +0000">
+    <title lang="zh">Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403903" start="20250918030000 +0000" stop="20250918040000 +0000">
+    <title lang="zh">Live: Fox News at Night</title>
+    <desc>Hard news and analysis of compelling stories from DC and across the country; journalists provide viewers with must-see information and consequential news.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403903" start="20250918040000 +0000" stop="20250918050000 +0000">
+    <title lang="zh">The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403903" start="20250918050000 +0000" stop="20250918060000 +0000">
+    <title lang="zh">Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403903" start="20250918060000 +0000" stop="20250918070000 +0000">
+    <title lang="zh">Hannity</title>
+    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403903" start="20250918070000 +0000" stop="20250918080000 +0000">
+    <title lang="zh">Gutfeld!</title>
+    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403903" start="20250918080000 +0000" stop="20250919000000 +0000">
+    <title lang="zh">The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <date>2025-09-18</date>
   </programme>
   <programme channel="9315" start="20250915013000 +0000" stop="20250915035000 +0000">
     <title lang="zh">Angels &amp; Demons</title>
@@ -10951,9 +11402,14 @@
     <desc>Henry Cavill dons the Superman suit, as a young Clark Kent embarks on a path to save the world from General Zod. Violence/flashing images.</desc>
     <date>2025-09-16</date>
   </programme>
-  <programme channel="9315" start="20250916212500 +0000" stop="20250917000000 +0000">
+  <programme channel="9315" start="20250916212500 +0000" stop="20250916232000 +0000">
     <title lang="zh">Scott Pilgrim Vs. The World</title>
     <desc>Geeky Michael Cera falls for a cool girl but has to fight her seven exes to win her hand. Comedy. Moderate violence/strong language/sexual references/flashing images.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="9315" start="20250916232000 +0000" stop="20250917000000 +0000">
+    <title lang="zh">Baby Driver</title>
+    <desc>Music-loving getaway driver Ansel Elgort is coerced into one last heist with colourful criminals Jon Hamm and Jamie Foxx.</desc>
     <date>2025-09-16</date>
   </programme>
   <programme channel="9315" start="20250916003000 +0000" stop="20250916021500 +0000">
@@ -11011,220 +11467,400 @@
     <desc>Henry Cavill dons the Superman suit, as a young Clark Kent embarks on a path to save the world from General Zod. Violence/flashing images.</desc>
     <date>2025-09-16</date>
   </programme>
-  <programme channel="9315" start="20250916212500 +0000" stop="20250917000000 +0000">
+  <programme channel="9315" start="20250916212500 +0000" stop="20250916232000 +0000">
     <title lang="zh">Scott Pilgrim Vs. The World</title>
     <desc>Geeky Michael Cera falls for a cool girl but has to fight her seven exes to win her hand. Comedy. Moderate violence/strong language/sexual references/flashing images.</desc>
     <date>2025-09-16</date>
   </programme>
-  <programme channel="9315" start="20250915013000 +0000" stop="20250915035000 +0000">
-    <title lang="zh">Angels &amp; Demons</title>
-    <desc>Tom Hanks is called in to save Vatican City from being incinerated by an ancient sect. Sequel to The Da Vinci Code. Contains violence.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="9315" start="20250915035000 +0000" stop="20250915053500 +0000">
-    <title lang="zh">Finding Neverland</title>
-    <desc>Johnny Depp stars as Peter Pan author J M Barrie, whose friendship with a young family inspires him to write his most famous work. Touching drama with Kate Winslet.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="9315" start="20250915053500 +0000" stop="20250915072500 +0000">
-    <title lang="zh">Pixels</title>
-    <desc>A ragtag team assemble when aliens challenge humanity to real-life versions of 80s video games. Action comedy. Strong language/flashing images.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="9315" start="20250915072500 +0000" stop="20250915091000 +0000">
-    <title lang="zh">Horrible Bosses</title>
-    <desc>Three disgruntled employees plot to kill nightmare bosses Kevin Spacey, Jennifer Aniston and Colin Farrell in this outrageous comedy. Strong language/sex/flashing images.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="9315" start="20250915091000 +0000" stop="20250915111000 +0000">
-    <title lang="zh">Baywatch</title>
-    <desc>Lifeguard chief Dwayne Johnson teams up with cocky new recruit Zac Efron to take down a drug-dealing villain. Action comedy.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="9315" start="20250915111000 +0000" stop="20250915125000 +0000">
-    <title lang="zh">Bad Teacher</title>
-    <desc>Terrible teacher Cameron Diaz clashes with colleague Lucy Punch as she tries to seduce dozy temp Justin Timberlake. Strong language/sex references.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="9315" start="20250915125000 +0000" stop="20250915145000 +0000">
-    <title lang="zh">Seven Psychopaths</title>
-    <desc>Writer Colin Farrell gets some unwelcome inspiration when he and mate Sam Rockwell get caught up with gangster Woody Harrelson. Dark crime comedy with Christopher Walken.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="9315" start="20250915145000 +0000" stop="20250915170000 +0000">
-    <title lang="zh">Snow White And The Huntsman</title>
-    <desc>A beautiful fugitive takes on an evil queen who's terrorising the kingdom. Starring Chris Hemsworth and Kristen Stewart. Violent scenes.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="9315" start="20250915170000 +0000" stop="20250915190000 +0000">
-    <title lang="zh">The Huntsman: Winter's War</title>
-    <desc>Chris Hemsworth's Huntsman battles to keep the fabled magic mirror out of the wrong hands. Star-studded fantasy sequel.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="9315" start="20250915190000 +0000" stop="20250915204500 +0000">
-    <title lang="zh">300: Rise Of An Empire</title>
-    <desc>Greek general Thermistocles leads the charge against an invading Persian army in this action extravaganza. Strong language/violence/sex/mature themes/flashing images.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="9315" start="20250915204500 +0000" stop="20250915225000 +0000">
-    <title lang="zh">Lawless</title>
-    <desc>Gritty crime drama about bootlegging brothers who fall foul of a ruthless lawman in prohibition-era Virginia. Tom Hardy and Shia LaBeouf star.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="9315" start="20250915225000 +0000" stop="20250916000000 +0000">
-    <title lang="zh">The Woman In Black</title>
-    <desc>Widowed lawyer Daniel Radcliffe is sent to a desolate house in the marshes, where he soon realises that he's an unwanted presence. Period horror.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="9315" start="20250916003000 +0000" stop="20250916021500 +0000">
-    <title lang="zh">Woman In Black: Angel Of Death</title>
-    <desc>The Woman in Black returns to terrorise a group of orphaned children. Creepy sequel to the 2012 hit starring Helen McCrory.</desc>
+  <programme channel="9315" start="20250916232000 +0000" stop="20250917000000 +0000">
+    <title lang="zh">Baby Driver</title>
+    <desc>Music-loving getaway driver Ansel Elgort is coerced into one last heist with colourful criminals Jon Hamm and Jamie Foxx.</desc>
     <date>2025-09-16</date>
   </programme>
-  <programme channel="9315" start="20250916021500 +0000" stop="20250916043000 +0000">
-    <title lang="zh">Inferno</title>
-    <desc>When a Dante-obsessed madman develops a virus, it's up to symbology professor Tom Hanks to save the day. With Felicity Jones.</desc>
-    <date>2025-09-16</date>
+  <programme channel="9315" start="20250917012000 +0000" stop="20250917033000 +0000">
+    <title lang="zh">Fifty Shades of Grey</title>
+    <desc>Innocent college student Dakota Johnson begins a relationship with troubled businessman Jamie Dornan. Adaptation of EL James's erotic bestseller.</desc>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="9315" start="20250916043000 +0000" stop="20250916050000 +0000">
-    <title lang="zh">Sky Cinema Preview</title>
-    <desc>Previews of the great films now playing on Sky Cinema plus other highlights showing on Sky.</desc>
-    <date>2025-09-16</date>
-  </programme>
-  <programme channel="9315" start="20250916050000 +0000" stop="20250916064000 +0000">
+  <programme channel="9315" start="20250917033000 +0000" stop="20250917051000 +0000">
     <title lang="zh">David Brent: Life On The Road</title>
     <desc>Ricky Gervais returns as the tragicomic office worker, this time taking his band on an ill-fated tour of the M25. Comedy. Contains discriminatory language.</desc>
-    <date>2025-09-16</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="9315" start="20250916064000 +0000" stop="20250916084000 +0000">
-    <title lang="zh">Baywatch</title>
-    <desc>Lifeguard chief Dwayne Johnson teams up with cocky new recruit Zac Efron to take down a drug-dealing villain. Action comedy.</desc>
-    <date>2025-09-16</date>
+  <programme channel="9315" start="20250917051000 +0000" stop="20250917054000 +0000">
+    <title lang="zh">Sky Cinema Preview</title>
+    <desc>Previews of the great films now playing on Sky Cinema plus other highlights showing on Sky.</desc>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="9315" start="20250916084000 +0000" stop="20250916104000 +0000">
-    <title lang="zh">Seven Psychopaths</title>
-    <desc>Writer Colin Farrell gets some unwelcome inspiration when he and mate Sam Rockwell get caught up with gangster Woody Harrelson. Dark crime comedy with Christopher Walken.</desc>
-    <date>2025-09-16</date>
-  </programme>
-  <programme channel="9315" start="20250916104000 +0000" stop="20250916122500 +0000">
-    <title lang="zh">Ghost Rider: Spirit Of Vengeance</title>
-    <desc>Nicolas Cage must track down a boy for priest Idris Elba in order to save his own soul. But there's a catch, Satan is looking for the boy too. Superhero sequel.</desc>
-    <date>2025-09-16</date>
-  </programme>
-  <programme channel="9315" start="20250916122500 +0000" stop="20250916141500 +0000">
-    <title lang="zh">300: Rise Of An Empire</title>
-    <desc>Greek general Thermistocles leads the charge against an invading Persian army in this action extravaganza. Strong language/violence/sex/mature themes/flashing images.</desc>
-    <date>2025-09-16</date>
-  </programme>
-  <programme channel="9315" start="20250916141500 +0000" stop="20250916163500 +0000">
+  <programme channel="9315" start="20250917054000 +0000" stop="20250917080000 +0000">
     <title lang="zh">The Amazing Spider-Man</title>
     <desc>Andrew Garfield stars as the Webbed Wonder, on a collision course with evil adversary The Lizard. With Emma Stone. Violence/flashing images.</desc>
-    <date>2025-09-16</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="9315" start="20250916163500 +0000" stop="20250916190000 +0000">
+  <programme channel="9315" start="20250917080000 +0000" stop="20250917102500 +0000">
     <title lang="zh">The Amazing Spider-Man 2</title>
     <desc>Andrew Garfield's Spider-Man returns to battle supercharged villain Electro, before confronting someone from his past. Emma Stone co-stars.</desc>
-    <date>2025-09-16</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="9315" start="20250916190000 +0000" stop="20250916212500 +0000">
+  <programme channel="9315" start="20250917102500 +0000" stop="20250917130000 +0000">
     <title lang="zh">Man Of Steel</title>
     <desc>Henry Cavill dons the Superman suit, as a young Clark Kent embarks on a path to save the world from General Zod. Violence/flashing images.</desc>
-    <date>2025-09-16</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="9315" start="20250916212500 +0000" stop="20250917000000 +0000">
+  <programme channel="9315" start="20250917130000 +0000" stop="20250917150000 +0000">
     <title lang="zh">Scott Pilgrim Vs. The World</title>
     <desc>Geeky Michael Cera falls for a cool girl but has to fight her seven exes to win her hand. Comedy. Moderate violence/strong language/sexual references/flashing images.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="9315" start="20250917150000 +0000" stop="20250917170000 +0000">
+    <title lang="zh">Pitch Perfect</title>
+    <desc>Aspiring music producer Anna Kendrick tries to add a touch of cool to her college a cappella group in this gag-packed musical comedy. Flashing images.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="9315" start="20250917170000 +0000" stop="20250917190000 +0000">
+    <title lang="zh">Pitch Perfect 2</title>
+    <desc>Anna Kendrick returns to lead the Barden Bellas to more a cappella awesomeness. Slick comedy sequel with Rebel Wilson and Hailee Steinfeld.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="9315" start="20250917190000 +0000" stop="20250917204000 +0000">
+    <title lang="zh">Pitch Perfect 3</title>
+    <desc>Out of college and struggling to make it big in the real world, the Bellas reunite for an overseas tour. Anna Kendrick stars.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="9315" start="20250917204000 +0000" stop="20250917224000 +0000">
+    <title lang="zh">Yesterday</title>
+    <desc>A struggling singer is the only person who remembers The Beatles after waking up from an accident. Comedy from Richard Curtis and Danny Boyle.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="9315" start="20250917224000 +0000" stop="20250918000000 +0000">
+    <title lang="zh">Crazy Rich Asians</title>
+    <desc>When an NYU professor heads to Singapore with her boyfriend, she's surprised to learn he's from an extremely wealthy family... who aren't so approving of her. Hit romcom.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="9315" start="20250917012000 +0000" stop="20250917033000 +0000">
+    <title lang="zh">Fifty Shades of Grey</title>
+    <desc>Innocent college student Dakota Johnson begins a relationship with troubled businessman Jamie Dornan. Adaptation of EL James's erotic bestseller.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="9315" start="20250917033000 +0000" stop="20250917051000 +0000">
+    <title lang="zh">David Brent: Life On The Road</title>
+    <desc>Ricky Gervais returns as the tragicomic office worker, this time taking his band on an ill-fated tour of the M25. Comedy. Contains discriminatory language.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="9315" start="20250917051000 +0000" stop="20250917054000 +0000">
+    <title lang="zh">Sky Cinema Preview</title>
+    <desc>Previews of the great films now playing on Sky Cinema plus other highlights showing on Sky.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="9315" start="20250917054000 +0000" stop="20250917080000 +0000">
+    <title lang="zh">The Amazing Spider-Man</title>
+    <desc>Andrew Garfield stars as the Webbed Wonder, on a collision course with evil adversary The Lizard. With Emma Stone. Violence/flashing images.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="9315" start="20250917080000 +0000" stop="20250917102500 +0000">
+    <title lang="zh">The Amazing Spider-Man 2</title>
+    <desc>Andrew Garfield's Spider-Man returns to battle supercharged villain Electro, before confronting someone from his past. Emma Stone co-stars.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="9315" start="20250917102500 +0000" stop="20250917130000 +0000">
+    <title lang="zh">Man Of Steel</title>
+    <desc>Henry Cavill dons the Superman suit, as a young Clark Kent embarks on a path to save the world from General Zod. Violence/flashing images.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="9315" start="20250917130000 +0000" stop="20250917150000 +0000">
+    <title lang="zh">Scott Pilgrim Vs. The World</title>
+    <desc>Geeky Michael Cera falls for a cool girl but has to fight her seven exes to win her hand. Comedy. Moderate violence/strong language/sexual references/flashing images.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="9315" start="20250917150000 +0000" stop="20250917170000 +0000">
+    <title lang="zh">Pitch Perfect</title>
+    <desc>Aspiring music producer Anna Kendrick tries to add a touch of cool to her college a cappella group in this gag-packed musical comedy. Flashing images.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="9315" start="20250917170000 +0000" stop="20250917190000 +0000">
+    <title lang="zh">Pitch Perfect 2</title>
+    <desc>Anna Kendrick returns to lead the Barden Bellas to more a cappella awesomeness. Slick comedy sequel with Rebel Wilson and Hailee Steinfeld.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="9315" start="20250917190000 +0000" stop="20250917204000 +0000">
+    <title lang="zh">Pitch Perfect 3</title>
+    <desc>Out of college and struggling to make it big in the real world, the Bellas reunite for an overseas tour. Anna Kendrick stars.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="9315" start="20250917204000 +0000" stop="20250917224000 +0000">
+    <title lang="zh">Yesterday</title>
+    <desc>A struggling singer is the only person who remembers The Beatles after waking up from an accident. Comedy from Richard Curtis and Danny Boyle.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="9315" start="20250917224000 +0000" stop="20250918000000 +0000">
+    <title lang="zh">Crazy Rich Asians</title>
+    <desc>When an NYU professor heads to Singapore with her boyfriend, she's surprised to learn he's from an extremely wealthy family... who aren't so approving of her. Hit romcom.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403926" start="20250915010000 +0000" stop="20250915020300 +0000">
+    <title lang="zh">Task</title>
+    <desc>An FBI agent heads a Task Force to put an end to a string of violent robberies led by an unsuspecting family man.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403926" start="20250915020300 +0000" stop="20250915030600 +0000">
+    <title lang="zh">Task</title>
+    <desc>An FBI agent heads a Task Force to put an end to a string of violent robberies led by an unsuspecting family man.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403926" start="20250915030600 +0000" stop="20250915040900 +0000">
+    <title lang="zh">Task</title>
+    <desc>An FBI agent heads a Task Force to put an end to a string of violent robberies led by an unsuspecting family man.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403926" start="20250915040900 +0000" stop="20250915051200 +0000">
+    <title lang="zh">Task</title>
+    <desc>An FBI agent heads a Task Force to put an end to a string of violent robberies led by an unsuspecting family man.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403926" start="20250915051200 +0000" stop="20250915061500 +0000">
+    <title lang="zh">Task</title>
+    <desc>An FBI agent heads a Task Force to put an end to a string of violent robberies led by an unsuspecting family man.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403926" start="20250915061500 +0000" stop="20250916000000 +0000">
+    <title lang="zh">Companion</title>
+    <desc>A weekend getaway at a remote cabin turns to chaos when it's revealed that one of the guests -- a subservient android built for human companionship -- has gone haywire.</desc>
+    <date>2025-09-15</date>
+  </programme>
+  <programme channel="403926" start="20250916000000 +0000" stop="20250916010300 +0000">
+    <title lang="zh">Task</title>
+    <desc>An FBI agent heads a Task Force to put an end to a string of violent robberies led by an unsuspecting family man.</desc>
     <date>2025-09-16</date>
   </programme>
-  <programme channel="403926" start="20250915010000 +0000" stop="20250915020300 +0000">
+  <programme channel="403926" start="20250916010300 +0000" stop="20250916031300 +0000">
+    <title lang="zh">Selena</title>
+    <desc>A beautiful Mexican-American singer's (Jennifer Lopez) skyrocketing international career ends abruptly.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403926" start="20250916031300 +0000" stop="20250916041500 +0000">
     <title lang="zh">Task</title>
     <desc>An FBI agent heads a Task Force to put an end to a string of violent robberies led by an unsuspecting family man.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-16</date>
   </programme>
-  <programme channel="403926" start="20250915020300 +0000" stop="20250915030600 +0000">
+  <programme channel="403926" start="20250916041500 +0000" stop="20250916060300 +0000">
+    <title lang="zh">CinÃ©ma</title>
+    <desc>In search of a lost pleasure, Emmanuelle flies alone to Hong Kong and meets a man who constantly eludes her.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403926" start="20250916060300 +0000" stop="20250916075000 +0000">
+    <title lang="zh">Opus</title>
+    <desc>A journalist is invited to the remote compound of a legendary pop star who mysteriously disappeared 30 years ago. Surrounded by the star's cult of sycophants, she gets caught in the middle of his twisted plan.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403926" start="20250916075000 +0000" stop="20250916094500 +0000">
+    <title lang="zh">A Different Man</title>
+    <desc>Aspiring actor Edward undergoes a radical medical procedure to drastically transform his appearance. But his new dream face turns into a nightmare as he becomes obsessed with reclaiming what he lost.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403926" start="20250916094500 +0000" stop="20250916104800 +0000">
     <title lang="zh">Task</title>
     <desc>An FBI agent heads a Task Force to put an end to a string of violent robberies led by an unsuspecting family man.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-16</date>
   </programme>
-  <programme channel="403926" start="20250915030600 +0000" stop="20250915040900 +0000">
+  <programme channel="403926" start="20250916104800 +0000" stop="20250916134900 +0000">
+    <title lang="zh">The Lord of the Rings: The Fellowship of the Ring</title>
+    <desc>A chosen hobbit (Elijah Wood) and his loyal friends join a wizard (Ian McKellen), humans, a dwarf and an elf on a quest to destroy a powerful ring and defeat an evil lord.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403926" start="20250916134900 +0000" stop="20250916165100 +0000">
+    <title lang="zh">The Lord of the Rings: The Two Towers</title>
+    <desc>Now divided, members of a fellowship take different paths to destroy the ring and defeat evil Sauron and his pawns.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403926" start="20250916165100 +0000" stop="20250916201400 +0000">
+    <title lang="zh">The Lord of the Rings: The Return of the King</title>
+    <desc>Frodo (Elijah Wood) and Sam march toward Mount Doom to destroy the ring, while Gandalf (Ian McKellen) and warriors prepare for a final confrontation with Sauron and his allies.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403926" start="20250916201400 +0000" stop="20250916215700 +0000">
+    <title lang="zh">A Minecraft Movie</title>
+    <desc>A mysterious portal pulls four misfits into the Overworld, a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master the terrain while embarking on a magical quest with an unexpected crafter named Steve.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403926" start="20250916215700 +0000" stop="20250916230000 +0000">
     <title lang="zh">Task</title>
     <desc>An FBI agent heads a Task Force to put an end to a string of violent robberies led by an unsuspecting family man.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-16</date>
   </programme>
-  <programme channel="403926" start="20250915040900 +0000" stop="20250915051200 +0000">
+  <programme channel="403926" start="20250916230000 +0000" stop="20250917000000 +0000">
+    <title lang="zh">Real Time With Bill Maher</title>
+    <desc>Featuring a one-on-one interview with Charlie Sheen, actor and subject of the new two-part documentary on Netflix; panel discussion includes Tim Alberta, staff writer at The Atlantic and Ben Shapiro, co-founder of The Daily Wire and author.</desc>
+    <date>2025-09-16</date>
+  </programme>
+  <programme channel="403926" start="20250917000000 +0000" stop="20250917010200 +0000">
     <title lang="zh">Task</title>
     <desc>An FBI agent heads a Task Force to put an end to a string of violent robberies led by an unsuspecting family man.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="403926" start="20250915051200 +0000" stop="20250915061500 +0000">
+  <programme channel="403926" start="20250917010200 +0000" stop="20250917022900 +0000">
+    <title lang="zh">Evil Dead 2</title>
+    <desc>Ash Williams, the lone survivor of an earlier onslaught of flesh-possessing spirits, holes up in a cabin with a group of strangers while the demons continue their attack.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403926" start="20250917022900 +0000" stop="20250917040800 +0000">
+    <title lang="zh">Evil Dead Rise</title>
+    <desc>A reunion between two estranged sisters gets cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403926" start="20250917040800 +0000" stop="20250917051100 +0000">
     <title lang="zh">Task</title>
     <desc>An FBI agent heads a Task Force to put an end to a string of violent robberies led by an unsuspecting family man.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="403926" start="20250915061500 +0000" stop="20250916000000 +0000">
-    <title lang="zh">Companion</title>
-    <desc>A weekend getaway at a remote cabin turns to chaos when it's revealed that one of the guests -- a subservient android built for human companionship -- has gone haywire.</desc>
-    <date>2025-09-15</date>
+  <programme channel="403926" start="20250917051100 +0000" stop="20250917062600 +0000">
+    <title lang="zh">Seen &amp; Heard: the History of Black Television</title>
+    <desc>Detailing decades of cultural shifts in television, with prominent Black voices sharing stories of their journeys, inspirations, and insights into their work and the industry.</desc>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="403926" start="20250915010000 +0000" stop="20250915020300 +0000">
+  <programme channel="403926" start="20250917062600 +0000" stop="20250917080200 +0000">
+    <title lang="zh">Seen &amp; Heard: the History of Black Television</title>
+    <desc>The responsibility and power of storytelling is demonstrated in Shonda Rhimes' color-blind casting for her powerhouse shows, Oprah betting on herself, and other stories depicting the breath of the Black experience.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403926" start="20250917080200 +0000" stop="20250917093200 +0000">
+    <title lang="zh">Tyrel</title>
+    <desc>Tyler spirals out of control when he realizes he's the only black person attending a weekend birthday party in a secluded cabin.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403926" start="20250917093200 +0000" stop="20250917111000 +0000">
+    <title lang="zh">The Legend of Ochi</title>
+    <desc>In a remote village on the island of Carpathia, a shy farm girl named Yuri is raised to fear elusive animals known as ochi. But when Yuri discovers a wounded baby ochi has been left behind, she escapes on a quest to bring him home.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403926" start="20250917111000 +0000" stop="20250917134800 +0000">
+    <title lang="zh">Dune</title>
+    <desc>Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403926" start="20250917134800 +0000" stop="20250917163600 +0000">
+    <title lang="zh">Dune: Part Two</title>
+    <desc>Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he must prevent a terrible future only he can foresee.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403926" start="20250917163600 +0000" stop="20250917182500 +0000">
+    <title lang="zh">Fast &amp; Furious</title>
+    <desc>Brian O'Conner, back working for the FBI in Los Angeles, teams up with Dominic Toretto to bring down a heroin importer by infiltrating his operation.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403926" start="20250917182500 +0000" stop="20250917213000 +0000">
+    <title lang="zh">Dances With Wolves</title>
+    <desc>Costner's epic vision of the American frontier as seen through the eyes of a 19th-century U.S. Cavalry officer.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403926" start="20250917213000 +0000" stop="20250917225800 +0000">
+    <title lang="zh">Real Women Have Curves</title>
+    <desc>A Latin teenager (America Ferrera) comes to terms with her self-image while helping her sister (Ingrid Oliu) work in a dress factory.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403926" start="20250917225800 +0000" stop="20250918000000 +0000">
     <title lang="zh">Task</title>
     <desc>An FBI agent heads a Task Force to put an end to a string of violent robberies led by an unsuspecting family man.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="403926" start="20250915020300 +0000" stop="20250915030600 +0000">
+  <programme channel="403926" start="20250918000000 +0000" stop="20250919000000 +0000">
+    <title lang="zh">Warfare</title>
+    <desc>The harrowing true story of a U.S. Navy SEAL platoon surveillance mission gone dangerously wrong.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403926" start="20250917000000 +0000" stop="20250917010200 +0000">
     <title lang="zh">Task</title>
     <desc>An FBI agent heads a Task Force to put an end to a string of violent robberies led by an unsuspecting family man.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="403926" start="20250915030600 +0000" stop="20250915040900 +0000">
+  <programme channel="403926" start="20250917010200 +0000" stop="20250917022900 +0000">
+    <title lang="zh">Evil Dead 2</title>
+    <desc>Ash Williams, the lone survivor of an earlier onslaught of flesh-possessing spirits, holes up in a cabin with a group of strangers while the demons continue their attack.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403926" start="20250917022900 +0000" stop="20250917040800 +0000">
+    <title lang="zh">Evil Dead Rise</title>
+    <desc>A reunion between two estranged sisters gets cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403926" start="20250917040800 +0000" stop="20250917051100 +0000">
     <title lang="zh">Task</title>
     <desc>An FBI agent heads a Task Force to put an end to a string of violent robberies led by an unsuspecting family man.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="403926" start="20250915040900 +0000" stop="20250915051200 +0000">
+  <programme channel="403926" start="20250917051100 +0000" stop="20250917062600 +0000">
+    <title lang="zh">Seen &amp; Heard: the History of Black Television</title>
+    <desc>Detailing decades of cultural shifts in television, with prominent Black voices sharing stories of their journeys, inspirations, and insights into their work and the industry.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403926" start="20250917062600 +0000" stop="20250917080200 +0000">
+    <title lang="zh">Seen &amp; Heard: the History of Black Television</title>
+    <desc>The responsibility and power of storytelling is demonstrated in Shonda Rhimes' color-blind casting for her powerhouse shows, Oprah betting on herself, and other stories depicting the breath of the Black experience.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403926" start="20250917080200 +0000" stop="20250917093200 +0000">
+    <title lang="zh">Tyrel</title>
+    <desc>Tyler spirals out of control when he realizes he's the only black person attending a weekend birthday party in a secluded cabin.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403926" start="20250917093200 +0000" stop="20250917111000 +0000">
+    <title lang="zh">The Legend of Ochi</title>
+    <desc>In a remote village on the island of Carpathia, a shy farm girl named Yuri is raised to fear elusive animals known as ochi. But when Yuri discovers a wounded baby ochi has been left behind, she escapes on a quest to bring him home.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403926" start="20250917111000 +0000" stop="20250917134800 +0000">
+    <title lang="zh">Dune</title>
+    <desc>Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403926" start="20250917134800 +0000" stop="20250917163600 +0000">
+    <title lang="zh">Dune: Part Two</title>
+    <desc>Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he must prevent a terrible future only he can foresee.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403926" start="20250917163600 +0000" stop="20250917182500 +0000">
+    <title lang="zh">Fast &amp; Furious</title>
+    <desc>Brian O'Conner, back working for the FBI in Los Angeles, teams up with Dominic Toretto to bring down a heroin importer by infiltrating his operation.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403926" start="20250917182500 +0000" stop="20250917213000 +0000">
+    <title lang="zh">Dances With Wolves</title>
+    <desc>Costner's epic vision of the American frontier as seen through the eyes of a 19th-century U.S. Cavalry officer.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403926" start="20250917213000 +0000" stop="20250917225800 +0000">
+    <title lang="zh">Real Women Have Curves</title>
+    <desc>A Latin teenager (America Ferrera) comes to terms with her self-image while helping her sister (Ingrid Oliu) work in a dress factory.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403926" start="20250917225800 +0000" stop="20250918000000 +0000">
     <title lang="zh">Task</title>
     <desc>An FBI agent heads a Task Force to put an end to a string of violent robberies led by an unsuspecting family man.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-17</date>
   </programme>
-  <programme channel="403926" start="20250915051200 +0000" stop="20250915061500 +0000">
+  <programme channel="403926" start="20250918000000 +0000" stop="20250918013800 +0000">
+    <title lang="zh">Warfare</title>
+    <desc>The harrowing true story of a U.S. Navy SEAL platoon surveillance mission gone dangerously wrong.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403926" start="20250918013800 +0000" stop="20250918024000 +0000">
     <title lang="zh">Task</title>
     <desc>An FBI agent heads a Task Force to put an end to a string of violent robberies led by an unsuspecting family man.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-18</date>
   </programme>
-  <programme channel="403926" start="20250915061500 +0000" stop="20250916000000 +0000">
-    <title lang="zh">Companion</title>
-    <desc>A weekend getaway at a remote cabin turns to chaos when it's revealed that one of the guests -- a subservient android built for human companionship -- has gone haywire.</desc>
-    <date>2025-09-15</date>
+  <programme channel="403926" start="20250918024000 +0000" stop="20250918043100 +0000">
+    <title lang="zh">Veronica Mars</title>
+    <desc>On the eve of her law-school graduation, Veronica turns amateur sleuth once again after ex-boyfriend, Logan, becomes a murder suspect.</desc>
+    <date>2025-09-18</date>
   </programme>
-  <programme channel="403926" start="20250915010000 +0000" stop="20250915020300 +0000">
+  <programme channel="403926" start="20250918043100 +0000" stop="20250918063700 +0000">
+    <title lang="zh">Silver Linings Playbook</title>
+    <desc>An unexpected bond begins to form between a man trying to rebuild his life and a young woman promising to help him reunite with his estranged wife.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403926" start="20250918063700 +0000" stop="20250919000000 +0000">
     <title lang="zh">Task</title>
     <desc>An FBI agent heads a Task Force to put an end to a string of violent robberies led by an unsuspecting family man.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403926" start="20250915020300 +0000" stop="20250915030600 +0000">
-    <title lang="zh">Task</title>
-    <desc>An FBI agent heads a Task Force to put an end to a string of violent robberies led by an unsuspecting family man.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403926" start="20250915030600 +0000" stop="20250915040900 +0000">
-    <title lang="zh">Task</title>
-    <desc>An FBI agent heads a Task Force to put an end to a string of violent robberies led by an unsuspecting family man.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403926" start="20250915040900 +0000" stop="20250915051200 +0000">
-    <title lang="zh">Task</title>
-    <desc>An FBI agent heads a Task Force to put an end to a string of violent robberies led by an unsuspecting family man.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403926" start="20250915051200 +0000" stop="20250915061500 +0000">
-    <title lang="zh">Task</title>
-    <desc>An FBI agent heads a Task Force to put an end to a string of violent robberies led by an unsuspecting family man.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403926" start="20250915061500 +0000" stop="20250916000000 +0000">
-    <title lang="zh">Companion</title>
-    <desc>A weekend getaway at a remote cabin turns to chaos when it's revealed that one of the guests -- a subservient android built for human companionship -- has gone haywire.</desc>
-    <date>2025-09-15</date>
+    <date>2025-09-18</date>
   </programme>
   <programme channel="403650" start="20250915010600 +0000" stop="20250915024900 +0000">
     <title lang="zh">Barbershop</title>
@@ -12011,20 +12647,215 @@
     <desc>Las Vegas Aces at Seattle Storm in Game 2 of a best-of-three first-round series. From Climate Pledge Arena.</desc>
     <date>2025-09-17</date>
   </programme>
-  <programme channel="403793" start="20250917033000 +0000" stop="20250918000000 +0000">
+  <programme channel="403793" start="20250917033000 +0000" stop="20250917043000 +0000">
     <title lang="zh">SportsCenter</title>
     <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
     <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917043000 +0000" stop="20250917053000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917053000 +0000" stop="20250917063000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917063000 +0000" stop="20250917073000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917073000 +0000" stop="20250917083000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917083000 +0000" stop="20250917093000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917093000 +0000" stop="20250917100000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917100000 +0000" stop="20250917110000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917110000 +0000" stop="20250917120000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917120000 +0000" stop="20250917140000 +0000">
+    <title lang="zh">Get Up</title>
+    <desc>Mike Greenberg and Laura Rutledge discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917140000 +0000" stop="20250917160000 +0000">
+    <title lang="zh">First Take</title>
+    <desc>Stephen A. Smith and host Molly Qerim discuss the hottest topics in sports with a variety of analysts and guests also weighing in with their opinions.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917160000 +0000" stop="20250917180000 +0000">
+    <title lang="zh">The Pat McAfee Show</title>
+    <desc>Former NFL punter Pat McAfee and his crew bring the humor, sarcasm, and candor to highlight the top sports stories of the day.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917180000 +0000" stop="20250917190000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917190000 +0000" stop="20250917200000 +0000">
+    <title lang="zh">NBA Today</title>
+    <desc>NBA news, highlights, discussions and interviews.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917200000 +0000" stop="20250917210000 +0000">
+    <title lang="zh">NFL Live</title>
+    <desc>National Football League news and discussion with host Laura Rutledge and a team of analysts including Marcus Spears, Mina Kimes, Dan Orlovsky, Ryan Clark and Adam Schefter.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917210000 +0000" stop="20250917213000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917213000 +0000" stop="20250917220000 +0000">
+    <title lang="zh">Pardon the Interruption</title>
+    <desc>Veteran sportswriters Tony Kornheiser and Mike Wilbon debate and discuss hot sports topics, issues and events. An on-screen 'rundown' of the topics is a signature of the series, plus guests and responses to viewer e-mail.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917220000 +0000" stop="20250917230000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917230000 +0000" stop="20250918000000 +0000">
+    <title lang="zh">WNBA Countdown</title>
+    <desc>Women's National Basketball Association game previews, news, features and discussion.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250918000000 +0000" stop="20250919000000 +0000">
+    <title lang="zh">WNBA Playoff</title>
+    <desc>Phoenix Mercury at New York Liberty in Game 2 of a best-of-three first-round series. From Barclays Center.</desc>
+    <date>2025-09-18</date>
   </programme>
   <programme channel="403793" start="20250917013000 +0000" stop="20250917033000 +0000">
     <title lang="zh">WNBA Playoff</title>
     <desc>Las Vegas Aces at Seattle Storm in Game 2 of a best-of-three first-round series. From Climate Pledge Arena.</desc>
     <date>2025-09-17</date>
   </programme>
-  <programme channel="403793" start="20250917033000 +0000" stop="20250918000000 +0000">
+  <programme channel="403793" start="20250917033000 +0000" stop="20250917043000 +0000">
     <title lang="zh">SportsCenter</title>
     <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
     <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917043000 +0000" stop="20250917053000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917053000 +0000" stop="20250917063000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917063000 +0000" stop="20250917073000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917073000 +0000" stop="20250917083000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917083000 +0000" stop="20250917093000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917093000 +0000" stop="20250917100000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917100000 +0000" stop="20250917110000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917110000 +0000" stop="20250917120000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917120000 +0000" stop="20250917140000 +0000">
+    <title lang="zh">Get Up</title>
+    <desc>Mike Greenberg and Laura Rutledge discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917140000 +0000" stop="20250917160000 +0000">
+    <title lang="zh">First Take</title>
+    <desc>Stephen A. Smith and host Molly Qerim discuss the hottest topics in sports with a variety of analysts and guests also weighing in with their opinions.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917160000 +0000" stop="20250917180000 +0000">
+    <title lang="zh">The Pat McAfee Show</title>
+    <desc>Former NFL punter Pat McAfee and his crew bring the humor, sarcasm, and candor to highlight the top sports stories of the day.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917180000 +0000" stop="20250917190000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917190000 +0000" stop="20250917200000 +0000">
+    <title lang="zh">NBA Today</title>
+    <desc>NBA news, highlights, discussions and interviews.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917200000 +0000" stop="20250917210000 +0000">
+    <title lang="zh">NFL Live</title>
+    <desc>National Football League news and discussion with host Laura Rutledge and a team of analysts including Marcus Spears, Mina Kimes, Dan Orlovsky, Ryan Clark and Adam Schefter.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917210000 +0000" stop="20250917213000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917213000 +0000" stop="20250917220000 +0000">
+    <title lang="zh">Pardon the Interruption</title>
+    <desc>Veteran sportswriters Tony Kornheiser and Mike Wilbon debate and discuss hot sports topics, issues and events. An on-screen 'rundown' of the topics is a signature of the series, plus guests and responses to viewer e-mail.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917220000 +0000" stop="20250917230000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250917230000 +0000" stop="20250918000000 +0000">
+    <title lang="zh">WNBA Countdown</title>
+    <desc>Women's National Basketball Association game previews, news, features and discussion.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403793" start="20250918000000 +0000" stop="20250918020000 +0000">
+    <title lang="zh">WNBA Playoff</title>
+    <desc>Phoenix Mercury at New York Liberty in Game 2 of a best-of-three first-round series. From Barclays Center.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403793" start="20250918020000 +0000" stop="20250919000000 +0000">
+    <title lang="zh">WNBA Playoff</title>
+    <desc>Minnesota Lynx at Golden State Valkyries in Game 2 of a best-of-three first-round series. From SAP Center in San Jose.</desc>
+    <date>2025-09-18</date>
   </programme>
   <programme channel="403821" start="20250915000000 +0000" stop="20250915003000 +0000">
     <title lang="zh">SportsCenter</title>
@@ -12389,9 +13220,109 @@
     <desc>National Football League news and discussion with host Laura Rutledge and a team of analysts including Marcus Spears, Mina Kimes, Dan Orlovsky, Ryan Clark and Adam Schefter.</desc>
     <date>2025-09-17</date>
   </programme>
-  <programme channel="403821" start="20250917040000 +0000" stop="20250918000000 +0000">
+  <programme channel="403821" start="20250917040000 +0000" stop="20250917043000 +0000">
     <title lang="zh">Good Guy/Bad Guy</title>
     <desc>The latest news around the world of MMA.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917043000 +0000" stop="20250917050000 +0000">
+    <title lang="zh">UFC: The Walk</title>
+    <desc>A behind-the-scenes look at the 2023 Alex Pereira vs. Israel Adesanya rematch at UFC 287 in Miami.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917050000 +0000" stop="20250917053000 +0000">
+    <title lang="zh">College Football Live</title>
+    <desc>A daily dose of college football news, features, analysis, game previews and studio discussion, plus on-campus reports.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917053000 +0000" stop="20250917060000 +0000">
+    <title lang="zh">Pardon the Interruption</title>
+    <desc>Veteran sportswriters Tony Kornheiser and Mike Wilbon debate and discuss hot sports topics, issues and events. An on-screen 'rundown' of the topics is a signature of the series, plus guests and responses to viewer e-mail.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917060000 +0000" stop="20250917070000 +0000">
+    <title lang="zh">30 for 30</title>
+    <desc>This three-part film begins as a modern cultural history of Italy, in particular the northern city of Milan, which in the early 1980s rose as a worldwide capital of fashion and commerce. At the center of that success was Silvio Berlusconi, a real estate magnate who entered the media sphere by buying local TV stations, then purchased his hometown football club, and set out to elevate it into the gr</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917070000 +0000" stop="20250917080000 +0000">
+    <title lang="zh">30 for 30</title>
+    <desc>A new era of glory for A.C. Milan began with former player Fabio Capello taking the reins of the team and winning three consecutive Serie A titles from 1992 to 1994. As for the club's owner, when a political corruption scandal threatens to enmesh Berlusconi, he responds by running for the prime minister. The most powerful and successful man in Italian football is now the most powerful man in Italy</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917080000 +0000" stop="20250917090000 +0000">
+    <title lang="zh">30 for 30</title>
+    <desc>Berlusconi evades more corruption allegations and trials and seems to be revived by another Scudetto for A.C. Milan in 1996. More and more, the line between football and politics is blurred, the cult of personality around the man grows even bigger, and even the most passionate A.C. Milan supporters start to struggle with the contradictions. There will be two more stints as prime minister, the cont</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917090000 +0000" stop="20250917100000 +0000">
+    <title lang="zh">UFC Unleashed</title>
+    <desc>Highlighting memorable finishing MMA moves in the octagon.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917100000 +0000" stop="20250917120000 +0000">
+    <title lang="zh">Unsportsmanlike with Evan, Canty and Michelle</title>
+    <desc>Evan Cohen, Chris Canty and Michelle Smallmon host an energizing and informative ESPN Radio morning show all about sports, life and laughter.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917120000 +0000" stop="20250917130000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917130000 +0000" stop="20250917140000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917140000 +0000" stop="20250917160000 +0000">
+    <title lang="zh">Get Up</title>
+    <desc>Mike Greenberg and Laura Rutledge discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917160000 +0000" stop="20250917180000 +0000">
+    <title lang="zh">First Take</title>
+    <desc>Stephen A. Smith and host Molly Qerim discuss the hottest topics in sports with a variety of analysts and guests also weighing in with their opinions.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917180000 +0000" stop="20250917183000 +0000">
+    <title lang="zh">College Football Live</title>
+    <desc>A daily dose of college football news, features, analysis, game previews and studio discussion, plus on-campus reports.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917183000 +0000" stop="20250917190000 +0000">
+    <title lang="zh">First Draft</title>
+    <desc>In-depth, year-round NFL Draft discussion, with player profiles, analysis of team needs and projected picks.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917190000 +0000" stop="20250917200000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917200000 +0000" stop="20250917210000 +0000">
+    <title lang="zh">NBA Today</title>
+    <desc>NBA news, highlights, discussions and interviews.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917210000 +0000" stop="20250917220000 +0000">
+    <title lang="zh">NFL Live</title>
+    <desc>National Football League news and discussion with host Laura Rutledge and a team of analysts including Marcus Spears, Mina Kimes, Dan Orlovsky, Ryan Clark and Adam Schefter.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917220000 +0000" stop="20250917223000 +0000">
+    <title lang="zh">Pardon the Interruption</title>
+    <desc>Veteran sportswriters Tony Kornheiser and Mike Wilbon debate and discuss hot sports topics, issues and events. An on-screen 'rundown' of the topics is a signature of the series, plus guests and responses to viewer e-mail.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917223000 +0000" stop="20250917230000 +0000">
+    <title lang="zh">ESPN BET Live</title>
+    <desc>Point spreads and money lines are the focus of this look at today's sports and the latest betting news and angles. Joe Fortenbaugh and Tyler Fulghum host, with appearances by Anita Marks, Erin Dolan, "Stanford" Steve Coughlin and others.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917230000 +0000" stop="20250918000000 +0000">
+    <title lang="zh">MLB Squeeze Play</title>
+    <desc>Whiparound coverage of Major League Baseball.</desc>
     <date>2025-09-17</date>
   </programme>
   <programme channel="403821" start="20250917000000 +0000" stop="20250917010000 +0000">
@@ -12414,10 +13345,115 @@
     <desc>National Football League news and discussion with host Laura Rutledge and a team of analysts including Marcus Spears, Mina Kimes, Dan Orlovsky, Ryan Clark and Adam Schefter.</desc>
     <date>2025-09-17</date>
   </programme>
-  <programme channel="403821" start="20250917040000 +0000" stop="20250918000000 +0000">
+  <programme channel="403821" start="20250917040000 +0000" stop="20250917043000 +0000">
     <title lang="zh">Good Guy/Bad Guy</title>
     <desc>The latest news around the world of MMA.</desc>
     <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917043000 +0000" stop="20250917050000 +0000">
+    <title lang="zh">UFC: The Walk</title>
+    <desc>A behind-the-scenes look at the 2023 Alex Pereira vs. Israel Adesanya rematch at UFC 287 in Miami.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917050000 +0000" stop="20250917053000 +0000">
+    <title lang="zh">College Football Live</title>
+    <desc>A daily dose of college football news, features, analysis, game previews and studio discussion, plus on-campus reports.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917053000 +0000" stop="20250917060000 +0000">
+    <title lang="zh">Pardon the Interruption</title>
+    <desc>Veteran sportswriters Tony Kornheiser and Mike Wilbon debate and discuss hot sports topics, issues and events. An on-screen 'rundown' of the topics is a signature of the series, plus guests and responses to viewer e-mail.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917060000 +0000" stop="20250917070000 +0000">
+    <title lang="zh">30 for 30</title>
+    <desc>This three-part film begins as a modern cultural history of Italy, in particular the northern city of Milan, which in the early 1980s rose as a worldwide capital of fashion and commerce. At the center of that success was Silvio Berlusconi, a real estate magnate who entered the media sphere by buying local TV stations, then purchased his hometown football club, and set out to elevate it into the gr</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917070000 +0000" stop="20250917080000 +0000">
+    <title lang="zh">30 for 30</title>
+    <desc>A new era of glory for A.C. Milan began with former player Fabio Capello taking the reins of the team and winning three consecutive Serie A titles from 1992 to 1994. As for the club's owner, when a political corruption scandal threatens to enmesh Berlusconi, he responds by running for the prime minister. The most powerful and successful man in Italian football is now the most powerful man in Italy</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917080000 +0000" stop="20250917090000 +0000">
+    <title lang="zh">30 for 30</title>
+    <desc>Berlusconi evades more corruption allegations and trials and seems to be revived by another Scudetto for A.C. Milan in 1996. More and more, the line between football and politics is blurred, the cult of personality around the man grows even bigger, and even the most passionate A.C. Milan supporters start to struggle with the contradictions. There will be two more stints as prime minister, the cont</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917090000 +0000" stop="20250917100000 +0000">
+    <title lang="zh">UFC Unleashed</title>
+    <desc>Highlighting memorable finishing MMA moves in the octagon.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917100000 +0000" stop="20250917120000 +0000">
+    <title lang="zh">Unsportsmanlike with Evan, Canty and Michelle</title>
+    <desc>Evan Cohen, Chris Canty and Michelle Smallmon host an energizing and informative ESPN Radio morning show all about sports, life and laughter.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917120000 +0000" stop="20250917130000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917130000 +0000" stop="20250917140000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917140000 +0000" stop="20250917160000 +0000">
+    <title lang="zh">Get Up</title>
+    <desc>Mike Greenberg and Laura Rutledge discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917160000 +0000" stop="20250917180000 +0000">
+    <title lang="zh">First Take</title>
+    <desc>Stephen A. Smith and host Molly Qerim discuss the hottest topics in sports with a variety of analysts and guests also weighing in with their opinions.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917180000 +0000" stop="20250917183000 +0000">
+    <title lang="zh">College Football Live</title>
+    <desc>A daily dose of college football news, features, analysis, game previews and studio discussion, plus on-campus reports.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917183000 +0000" stop="20250917190000 +0000">
+    <title lang="zh">First Draft</title>
+    <desc>In-depth, year-round NFL Draft discussion, with player profiles, analysis of team needs and projected picks.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917190000 +0000" stop="20250917200000 +0000">
+    <title lang="zh">SportsCenter</title>
+    <desc>ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917200000 +0000" stop="20250917210000 +0000">
+    <title lang="zh">NBA Today</title>
+    <desc>NBA news, highlights, discussions and interviews.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917210000 +0000" stop="20250917220000 +0000">
+    <title lang="zh">NFL Live</title>
+    <desc>National Football League news and discussion with host Laura Rutledge and a team of analysts including Marcus Spears, Mina Kimes, Dan Orlovsky, Ryan Clark and Adam Schefter.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917220000 +0000" stop="20250917223000 +0000">
+    <title lang="zh">Pardon the Interruption</title>
+    <desc>Veteran sportswriters Tony Kornheiser and Mike Wilbon debate and discuss hot sports topics, issues and events. An on-screen 'rundown' of the topics is a signature of the series, plus guests and responses to viewer e-mail.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917223000 +0000" stop="20250917230000 +0000">
+    <title lang="zh">ESPN BET Live</title>
+    <desc>Point spreads and money lines are the focus of this look at today's sports and the latest betting news and angles. Joe Fortenbaugh and Tyler Fulghum host, with appearances by Anita Marks, Erin Dolan, "Stanford" Steve Coughlin and others.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250917230000 +0000" stop="20250918000000 +0000">
+    <title lang="zh">MLB Squeeze Play</title>
+    <desc>Whiparound coverage of Major League Baseball.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403821" start="20250918030000 +0000" stop="20250919000000 +0000">
+    <title lang="zh">NFL Live</title>
+    <desc>National Football League news and discussion with host Laura Rutledge and a team of analysts including Marcus Spears, Mina Kimes, Dan Orlovsky, Ryan Clark and Adam Schefter.</desc>
+    <date>2025-09-18</date>
   </programme>
   <programme channel="403805" start="20250915000000 +0000" stop="20250915003000 +0000">
     <title lang="zh">America's Funniest Home Videos</title>
@@ -13129,146 +14165,6 @@
     <desc>The local news, weather and investigative stories impacting your community.</desc>
     <date>2025-09-16</date>
   </programme>
-  <programme channel="403619" start="20250915001500 +0000" stop="20250915033000 +0000">
-    <title lang="zh">Live: NFL Football</title>
-    <desc>J.J. McCarthy leads the Vikings (1-0) into a prime-time clash against the Falcons (1-0). McCarthy threw for two TDs, a two-point conversion, and rushed for another score all in the fourth quarter as Minnesota stunned Chicago, 27-24, on Sept. 8.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915033000 +0000" stop="20250915040000 +0000">
-    <title lang="zh">News 4 NY at 11:30</title>
-    <desc>Stay informed with the latest breaking news and headlines.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915040000 +0000" stop="20250915043000 +0000">
-    <title lang="zh">Live: Sports Final</title>
-    <desc>News, scores, highlights.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915043000 +0000" stop="20250915050000 +0000">
-    <title lang="zh">1st Look</title>
-    <desc>Lifestyle trends in food, night life, art, travel and entertainment.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915050000 +0000" stop="20250915060000 +0000">
-    <title lang="zh">Access Hollywood</title>
-    <desc>Hosts Mario Lopez, Kit Hoover, Scott Evans and Zuri Hall take viewers behind the velvet ropes and onto the red carpet to deliver celebrity interviews and entertainment news stories in Hollywood.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915060000 +0000" stop="20250915063000 +0000">
-    <title lang="zh">In Touch With Dr. Charles Stanley</title>
-    <desc>Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915063000 +0000" stop="20250915073000 +0000">
-    <title lang="zh">Meet the Press</title>
-    <desc>Interviews with public figures and those making news, setting the political agenda and spotlighting the impact Washington decision-making has on Americans.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915073000 +0000" stop="20250915080000 +0000">
-    <title lang="zh">Early Today</title>
-    <desc>Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915080000 +0000" stop="20250915083000 +0000">
-    <title lang="zh">Early Today</title>
-    <desc>Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915083000 +0000" stop="20250915090000 +0000">
-    <title lang="zh">Today in New York</title>
-    <desc>The local news, weather and investigative stories impacting your community.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915090000 +0000" stop="20250915110000 +0000">
-    <title lang="zh">Today in New York</title>
-    <desc>The local news, weather and investigative stories impacting your community.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915110000 +0000" stop="20250915130000 +0000">
-    <title lang="zh">Today</title>
-    <desc>News headlines, interviews, and stories intended to inform, entertain, inspire and set the agenda each morning for Americans and help viewers with their finances, health and well-being.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915130000 +0000" stop="20250915140000 +0000">
-    <title lang="zh">Today 3rd Hour</title>
-    <desc>A news program intended to inform, entertain, inspire and set the agenda each morning, offering news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915140000 +0000" stop="20250915150000 +0000">
-    <title lang="zh">Today With Jenna &amp; Friends</title>
-    <desc>America's feel-good morning show with big stars and sweet surprises; a cast of rotating co-hosts join Jenna Bush Hager for an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915150000 +0000" stop="20250915153000 +0000">
-    <title lang="zh">Live: News 4 NY at 11AM</title>
-    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915153000 +0000" stop="20250915160000 +0000">
-    <title lang="zh">Live: New York Live</title>
-    <desc>Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915160000 +0000" stop="20250915170000 +0000">
-    <title lang="zh">NBC News Daily</title>
-    <desc>NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915170000 +0000" stop="20250915180000 +0000">
-    <title lang="zh">Dateline</title>
-    <desc>A DNA breakthrough in a murder case that is more than a decade old leads two determined detectives to surprising suspects.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915180000 +0000" stop="20250915190000 +0000">
-    <title lang="zh">Access Daily With Mario &amp; Kit</title>
-    <desc>The daily one-hour syndicated entertainment news and lifestyle talk show co-hosted by Mario Lopez, Kit Hoover and Scott Evans features celebrity interviews and gives viewers insider access to Hollywood's biggest stories.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915190000 +0000" stop="20250915200000 +0000">
-    <title lang="zh">The Kelly Clarkson Show</title>
-    <desc>Kellyoke: "Let Your Tears Fall"; Kyle Cooke and Lindsay Hubbard; Pilot Overachiever; toddler training to help mom; Blake Shelton performs.Guests: Kyle Cooke, Lindsay Hubbard..</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915200000 +0000" stop="20250915203000 +0000">
-    <title lang="zh">Live: News 4 NY at 4</title>
-    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915203000 +0000" stop="20250915210000 +0000">
-    <title lang="zh">Live: News 4 NY at 4:30</title>
-    <desc>NY news.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915210000 +0000" stop="20250915213000 +0000">
-    <title lang="zh">Live: News 4 NY at 5</title>
-    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915213000 +0000" stop="20250915220000 +0000">
-    <title lang="zh">Live: News 4 NY at 5:30</title>
-    <desc>NY news.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915220000 +0000" stop="20250915223000 +0000">
-    <title lang="zh">Live: News 4 NY at 6</title>
-    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915223000 +0000" stop="20250915230000 +0000">
-    <title lang="zh">NBC Nightly News With Tom Llamas</title>
-    <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915230000 +0000" stop="20250915233000 +0000">
-    <title lang="zh">News 4 NY at 7</title>
-    <desc>Stay informed with the latest breaking news and headlines.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403619" start="20250915233000 +0000" stop="20250916000000 +0000">
-    <title lang="zh">Access Hollywood</title>
-    <desc>Emmy Awards highlights, fashions and surprises.</desc>
-    <date>2025-09-15</date>
-  </programme>
   <programme channel="403619" start="20250916000000 +0000" stop="20250916030000 +0000">
     <title lang="zh">Opry 100: A Live Celebration</title>
     <desc>Blake Shelton hosts festivities honoring 100 years of the Grand Ole Opry; scheduled performers include Ashley McBryde, Brad Paisley, Carly Pearce, Carrie Underwood, Clint Black, Dierks Bentley, Garth Brooks, Kelsea Ballerini and Lainey Wilson.</desc>
@@ -13613,161 +14509,6 @@
     <title lang="zh">CBS News New York This Morning 4:30am</title>
     <desc>News coverage to start the day.</desc>
     <date>2025-09-16</date>
-  </programme>
-  <programme channel="403849" start="20250915000000 +0000" stop="20250915030000 +0000">
-    <title lang="zh">Live: 77th Emmy Awards</title>
-    <desc>Nate Bargatze hosts the awards show celebrating and honoring television's best at the Peacock Theater in Los Angeles.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915030000 +0000" stop="20250915033500 +0000">
-    <title lang="zh">CBS News New York 11pm</title>
-    <desc>Local news coverage.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915033500 +0000" stop="20250915040000 +0000">
-    <title lang="zh">Live: Jets Late Night</title>
-    <desc />
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915040000 +0000" stop="20250915043000 +0000">
-    <title lang="zh">Paid Programming</title>
-    <desc>Paid programming.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915043000 +0000" stop="20250915050000 +0000">
-    <title lang="zh">Joni Table Talk</title>
-    <desc>Joni and guests tackle a wide range of relevant issues, controversial subjects and hard-hitting news topics with candor and wit.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915050000 +0000" stop="20250915060000 +0000">
-    <title lang="zh">NCIS: Hawai'i</title>
-    <desc>After passing her medical evaluation, Tennant is surprised to see Sam Hanna conducting her final interview to clear her return to work; when the team discovers a breach in the U.S. Marshal's database, Sam helps Tennant locate the hacker.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915060000 +0000" stop="20250915070000 +0000">
-    <title lang="zh">NCIS: Hawai'i</title>
-    <desc>Following the crash of a prisoner transport plane, the team must find the convicts that escaped onto the island; Sam Hanna and Tennant are tasked with locating a high-profile Russian prisoner.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915070000 +0000" stop="20250915073000 +0000">
-    <title lang="zh">Face the Nation</title>
-    <desc>Margaret Brennan hosts news interviews with distinguished national and foreign figures, offering insight and analysis on the top issues of the day.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915073000 +0000" stop="20250915080000 +0000">
-    <title lang="zh">CBS News Roundup</title>
-    <desc>The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915080000 +0000" stop="20250915083000 +0000">
-    <title lang="zh">CBS News Mornings</title>
-    <desc>CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915083000 +0000" stop="20250915090000 +0000">
-    <title lang="zh">CBS News New York This Morning 4:30am</title>
-    <desc>News coverage to start the day.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915090000 +0000" stop="20250915100000 +0000">
-    <title lang="zh">CBS News New York This Morning 5am</title>
-    <desc>News coverage to start the day.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915100000 +0000" stop="20250915110000 +0000">
-    <title lang="zh">CBS News New York This Morning 6am</title>
-    <desc>News coverage to start the day.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915110000 +0000" stop="20250915130000 +0000">
-    <title lang="zh">CBS Mornings</title>
-    <desc>Former Sen. Joe Manchin (I-W.Va.); dancer Misty Copeland; Emmys recap with Kevin Frazier and Nischelle Turner; CBS News special correspondent James Brown; journalist David Begnaud.Guests: Joe Manchin, Misty Copeland, Kevin Frazier, Nischelle Turner, James Brown, David Begnaud..</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915130000 +0000" stop="20250915133000 +0000">
-    <title lang="zh">The Drew Barrymore Show</title>
-    <desc>Drew Barrymore presents human-interest stories, celebrity guests, lifestyle segments and field pieces, all driven by her infectious brand of humor and optimism.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915133000 +0000" stop="20250915140000 +0000">
-    <title lang="zh">The Drew Barrymore Show</title>
-    <desc>Drew Barrymore presents human-interest stories, celebrity guests, lifestyle segments and field pieces, all driven by her infectious brand of humor and optimism.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915140000 +0000" stop="20250915150000 +0000">
-    <title lang="zh">Let's Make a Deal</title>
-    <desc>Costumed contestants compete for cash and prizes.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915150000 +0000" stop="20250915160000 +0000">
-    <title lang="zh">The Price Is Right</title>
-    <desc>Contestants bid for prizes then compete for fabulous showcases.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915160000 +0000" stop="20250915163000 +0000">
-    <title lang="zh">CBS News New York 12pm</title>
-    <desc>Midday news update.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915163000 +0000" stop="20250915173000 +0000">
-    <title lang="zh">The Young and the Restless</title>
-    <desc>Drama revolves around three families in Genoa City.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915173000 +0000" stop="20250915180000 +0000">
-    <title lang="zh">The Bold and the Beautiful</title>
-    <desc>Set in the glamorous world of the Los Angeles fashion scene, this soap opera focuses on the wealthy and powerful Forrester family; its company, Forrester Creations, is the leader in the fashion industry.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915180000 +0000" stop="20250915190000 +0000">
-    <title lang="zh">Beyond the Gates</title>
-    <desc>Vernon springs into action to thwart an interloper; Derek has a big decision to make concerning his future; Eva is rocked to see her father in such distress; June's new job has her doubting herself.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915190000 +0000" stop="20250915193000 +0000">
-    <title lang="zh">Judge Judy</title>
-    <desc>Children's father is attacked by angry pedestrians on "picnic day.".</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915193000 +0000" stop="20250915200000 +0000">
-    <title lang="zh">Judge Judy</title>
-    <desc>A woman says her daughter's ex-boyfriend stole her credit card; ex-lovers contest custody of a 1972 Volkswagen Super Beetle.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915200000 +0000" stop="20250915203000 +0000">
-    <title lang="zh">Hot Bench</title>
-    <desc>Three judges argue the merits of a case among themselves and render a verdict.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915203000 +0000" stop="20250915210000 +0000">
-    <title lang="zh">Hot Bench</title>
-    <desc>The plaintiff claims she paid her half-sibling's bail and wasn't reimbursed; the defendant denies asking for bail money.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915210000 +0000" stop="20250915220000 +0000">
-    <title lang="zh">CBS News New York 5pm</title>
-    <desc>Evening news coverage.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915220000 +0000" stop="20250915223000 +0000">
-    <title lang="zh">CBS News New York 6pm</title>
-    <desc>Stay informed with the latest breaking news and headlines.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915223000 +0000" stop="20250915230000 +0000">
-    <title lang="zh">CBS Evening News</title>
-    <desc>The latest world and national news.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915230000 +0000" stop="20250915233000 +0000">
-    <title lang="zh">Inside Edition</title>
-    <desc>Primary stories and alternative news.</desc>
-    <date>2025-09-15</date>
-  </programme>
-  <programme channel="403849" start="20250915233000 +0000" stop="20250916000000 +0000">
-    <title lang="zh">Entertainment Tonight</title>
-    <desc>News and features about performers, productions and the milieu.</desc>
-    <date>2025-09-15</date>
   </programme>
   <programme channel="403849" start="20250916000000 +0000" stop="20250916003000 +0000">
     <title lang="zh">The Neighborhood</title>
@@ -14279,10 +15020,90 @@
     <desc>Christal Young and Ryan Kristafer's edgy perspective on entertainment and lifestyle news in NYC and beyond.</desc>
     <date>2025-09-17</date>
   </programme>
-  <programme channel="403858" start="20250917083000 +0000" stop="20250918000000 +0000">
+  <programme channel="403858" start="20250917083000 +0000" stop="20250917100000 +0000">
     <title lang="zh">Good Day Wake Up</title>
     <desc>Morning news coverage.</desc>
     <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917100000 +0000" stop="20250917110000 +0000">
+    <title lang="zh">Good Day Wake Up 2</title>
+    <desc>Morning news and entertainment.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917110000 +0000" stop="20250917130000 +0000">
+    <title lang="zh">Good Day New York</title>
+    <desc>Morning news.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917130000 +0000" stop="20250917140000 +0000">
+    <title lang="zh">Good Day New York</title>
+    <desc>Morning news.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917140000 +0000" stop="20250917150000 +0000">
+    <title lang="zh">Sherri</title>
+    <desc>Award-winning actress, writer and producer Quinta Brunson ("Abbott Elementary"); Lorene Harmon celebrates her 100th birthday.Guests: Quinta Brunson..</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917150000 +0000" stop="20250917160000 +0000">
+    <title lang="zh">The Jennifer Hudson Show</title>
+    <desc>Josh Duhamel (film "London Calling"); Derek Hough ("Dancing With the Stars," "Extra"); a girl and her father, who made headlines after he posted a vulnerable video of himself watching her get several academic awards at her school graduation ceremony.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917160000 +0000" stop="20250917170000 +0000">
+    <title lang="zh">The Noon</title>
+    <desc>Midday news update.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917170000 +0000" stop="20250917173000 +0000">
+    <title lang="zh">25 Words or Less</title>
+    <desc>It starts smoothly -- then the pressure hits -- hard -- and once the stress kicks in, it's anyone's game.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917173000 +0000" stop="20250917180000 +0000">
+    <title lang="zh">TMZ</title>
+    <desc>TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917180000 +0000" stop="20250917190000 +0000">
+    <title lang="zh">The People's Court</title>
+    <desc>"Dead Dog Disaster.".</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917190000 +0000" stop="20250917200000 +0000">
+    <title lang="zh">TMZ Live</title>
+    <desc>A candid look at how the gossip site operates, bringing viewers into the site's newsroom, where the daily chats take place; viewers present their opinions on the featured topics through social media, phone calls and video chat.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917200000 +0000" stop="20250917210000 +0000">
+    <title lang="zh">FOX 5 News Block</title>
+    <desc>Live news and weather from the FOX 5 team.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917210000 +0000" stop="20250917220000 +0000">
+    <title lang="zh">The 5 O'Clock News</title>
+    <desc>Local, national and international news.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917220000 +0000" stop="20250917230000 +0000">
+    <title lang="zh">The 6 O'Clock News</title>
+    <desc>Local, national and international news.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917230000 +0000" stop="20250917233000 +0000">
+    <title lang="zh">Extra</title>
+    <desc>Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917233000 +0000" stop="20250918000000 +0000">
+    <title lang="zh">TMZ</title>
+    <desc>TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250918000000 +0000" stop="20250919000000 +0000">
+    <title lang="zh">MasterChef</title>
+    <desc>The top three duos compete to take home a quarter of a million dollars, the trophy and the first-ever title of "America's MasterChefs.".</desc>
+    <date>2025-09-18</date>
   </programme>
   <programme channel="403858" start="20250917000000 +0000" stop="20250917020000 +0000">
     <title lang="zh">The 1% Club</title>
@@ -14344,9 +15165,149 @@
     <desc>Christal Young and Ryan Kristafer's edgy perspective on entertainment and lifestyle news in NYC and beyond.</desc>
     <date>2025-09-17</date>
   </programme>
-  <programme channel="403858" start="20250917083000 +0000" stop="20250918000000 +0000">
+  <programme channel="403858" start="20250917083000 +0000" stop="20250917100000 +0000">
     <title lang="zh">Good Day Wake Up</title>
     <desc>Morning news coverage.</desc>
     <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917100000 +0000" stop="20250917110000 +0000">
+    <title lang="zh">Good Day Wake Up 2</title>
+    <desc>Morning news and entertainment.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917110000 +0000" stop="20250917130000 +0000">
+    <title lang="zh">Good Day New York</title>
+    <desc>Morning news.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917130000 +0000" stop="20250917140000 +0000">
+    <title lang="zh">Good Day New York</title>
+    <desc>Morning news.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917140000 +0000" stop="20250917150000 +0000">
+    <title lang="zh">Sherri</title>
+    <desc>Award-winning actress, writer and producer Quinta Brunson ("Abbott Elementary"); Lorene Harmon celebrates her 100th birthday.Guests: Quinta Brunson..</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917150000 +0000" stop="20250917160000 +0000">
+    <title lang="zh">The Jennifer Hudson Show</title>
+    <desc>Josh Duhamel (film "London Calling"); Derek Hough ("Dancing With the Stars," "Extra"); a girl and her father, who made headlines after he posted a vulnerable video of himself watching her get several academic awards at her school graduation ceremony.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917160000 +0000" stop="20250917170000 +0000">
+    <title lang="zh">The Noon</title>
+    <desc>Midday news update.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917170000 +0000" stop="20250917173000 +0000">
+    <title lang="zh">25 Words or Less</title>
+    <desc>It starts smoothly -- then the pressure hits -- hard -- and once the stress kicks in, it's anyone's game.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917173000 +0000" stop="20250917180000 +0000">
+    <title lang="zh">TMZ</title>
+    <desc>TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917180000 +0000" stop="20250917190000 +0000">
+    <title lang="zh">The People's Court</title>
+    <desc>"Dead Dog Disaster.".</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917190000 +0000" stop="20250917200000 +0000">
+    <title lang="zh">TMZ Live</title>
+    <desc>A candid look at how the gossip site operates, bringing viewers into the site's newsroom, where the daily chats take place; viewers present their opinions on the featured topics through social media, phone calls and video chat.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917200000 +0000" stop="20250917210000 +0000">
+    <title lang="zh">FOX 5 News Block</title>
+    <desc>Live news and weather from the FOX 5 team.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917210000 +0000" stop="20250917220000 +0000">
+    <title lang="zh">The 5 O'Clock News</title>
+    <desc>Local, national and international news.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917220000 +0000" stop="20250917230000 +0000">
+    <title lang="zh">The 6 O'Clock News</title>
+    <desc>Local, national and international news.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917230000 +0000" stop="20250917233000 +0000">
+    <title lang="zh">Extra</title>
+    <desc>Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250917233000 +0000" stop="20250918000000 +0000">
+    <title lang="zh">TMZ</title>
+    <desc>TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.</desc>
+    <date>2025-09-17</date>
+  </programme>
+  <programme channel="403858" start="20250918000000 +0000" stop="20250918020000 +0000">
+    <title lang="zh">MasterChef</title>
+    <desc>The top three duos compete to take home a quarter of a million dollars, the trophy and the first-ever title of "America's MasterChefs.".</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403858" start="20250918020000 +0000" stop="20250918030000 +0000">
+    <title lang="zh">The 10 O'Clock News</title>
+    <desc>Local, national and international news.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403858" start="20250918030000 +0000" stop="20250918033000 +0000">
+    <title lang="zh">Battleground NYC: The Fight for Your Vote</title>
+    <desc>S.E. Cupp breaks down the NYC mayoral race, an election that's shaping up to be unique and unpredictable.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403858" start="20250918033000 +0000" stop="20250918040000 +0000">
+    <title lang="zh">Good Night New York</title>
+    <desc>Christal Young and Ryan Kristafer's edgy perspective on entertainment and lifestyle news in NYC and beyond.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403858" start="20250918040000 +0000" stop="20250918043000 +0000">
+    <title lang="zh">Family Feud Favorites</title>
+    <desc>"Family Feud" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403858" start="20250918043000 +0000" stop="20250918050000 +0000">
+    <title lang="zh">25 Words or Less</title>
+    <desc>Amber Stevens West's clue-giving may create a masterpiece or just a blur.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403858" start="20250918050000 +0000" stop="20250918060000 +0000">
+    <title lang="zh">TMZ Live</title>
+    <desc>A candid look at how the gossip site operates, bringing viewers into the site's newsroom, where the daily chats take place; viewers present their opinions on the featured topics through social media, phone calls and video chat.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403858" start="20250918060000 +0000" stop="20250918063000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403858" start="20250918063000 +0000" stop="20250918070000 +0000">
+    <title lang="zh">INJURED? CALL MEIROWITZ LAW NOW!</title>
+    <desc>Have you or a loved one been injured? You may be entitled to compensation!</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403858" start="20250918070000 +0000" stop="20250918073000 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403858" start="20250918073000 +0000" stop="20250918080000 +0000">
+    <title lang="zh">Hope for Pain Sufferers</title>
+    <desc>In this compelling investigation, John Walsh delves into OmegaXL and its natural origins. Discover how this innovative supplement can provide relief from joint pain and improve your quality of life, all grounded in extensive research.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403858" start="20250918080000 +0000" stop="20250918083000 +0000">
+    <title lang="zh">Good Night New York</title>
+    <desc>Christal Young and Ryan Kristafer's edgy perspective on entertainment and lifestyle news in NYC and beyond.</desc>
+    <date>2025-09-18</date>
+  </programme>
+  <programme channel="403858" start="20250918083000 +0000" stop="20250919000000 +0000">
+    <title lang="zh">Good Day Wake Up</title>
+    <desc>Morning news coverage.</desc>
+    <date>2025-09-18</date>
   </programme>
 </tv>
