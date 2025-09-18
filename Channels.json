@@ -485,8 +485,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://forcedtoplay.xyz https://topembed.pw https://usnewson.com",
-                "Referer:https://forcedtoplay.xyz/ https://topembed.pw/ https://usnewson.com/"
+                "Origin:https://forcedtoplay.xyz",
+                "Referer:https://forcedtoplay.xyz/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium347/mono.m3u8",
