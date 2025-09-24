@@ -138,10 +138,6 @@
     <display-name lang="US">HBO - Eastern Feed</display-name>
     <icon src="" />
   </channel>
-  <channel id="403650">
-    <display-name lang="US">HBO Comedy HD - East</display-name>
-    <icon src="" />
-  </channel>
   <channel id="403793">
     <display-name lang="US">ESPN</display-name>
     <icon src="" />
@@ -10043,96 +10039,6 @@
     <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
     <date>2025-09-24</date>
   </programme>
-  <programme channel="403903" start="20250924000000 +0000" stop="20250924010000 +0000">
-    <title lang="zh">Live: Jesse Watters Primetime</title>
-    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="403903" start="20250924010000 +0000" stop="20250924020000 +0000">
-    <title lang="zh">Live: Hannity</title>
-    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="403903" start="20250924020000 +0000" stop="20250924030000 +0000">
-    <title lang="zh">Gutfeld!</title>
-    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="403903" start="20250924030000 +0000" stop="20250924040000 +0000">
-    <title lang="zh">Live: Fox News at Night</title>
-    <desc>Hard news and analysis of compelling stories from DC and across the country; journalists provide viewers with must-see information and consequential news.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="403903" start="20250924040000 +0000" stop="20250924050000 +0000">
-    <title lang="zh">The Five</title>
-    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="403903" start="20250924050000 +0000" stop="20250924060000 +0000">
-    <title lang="zh">Jesse Watters Primetime</title>
-    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="403903" start="20250924060000 +0000" stop="20250924070000 +0000">
-    <title lang="zh">Hannity</title>
-    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="403903" start="20250924070000 +0000" stop="20250924080000 +0000">
-    <title lang="zh">Gutfeld!</title>
-    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="403903" start="20250924080000 +0000" stop="20250925000000 +0000">
-    <title lang="zh">The Ingraham Angle</title>
-    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="403903" start="20250924000000 +0000" stop="20250924010000 +0000">
-    <title lang="zh">Live: Jesse Watters Primetime</title>
-    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="403903" start="20250924010000 +0000" stop="20250924020000 +0000">
-    <title lang="zh">Live: Hannity</title>
-    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="403903" start="20250924020000 +0000" stop="20250924030000 +0000">
-    <title lang="zh">Gutfeld!</title>
-    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="403903" start="20250924030000 +0000" stop="20250924040000 +0000">
-    <title lang="zh">Live: Fox News at Night</title>
-    <desc>Hard news and analysis of compelling stories from DC and across the country; journalists provide viewers with must-see information and consequential news.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="403903" start="20250924040000 +0000" stop="20250924050000 +0000">
-    <title lang="zh">The Five</title>
-    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="403903" start="20250924050000 +0000" stop="20250924060000 +0000">
-    <title lang="zh">Jesse Watters Primetime</title>
-    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="403903" start="20250924060000 +0000" stop="20250924070000 +0000">
-    <title lang="zh">Hannity</title>
-    <desc>Host Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on current events.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="403903" start="20250924070000 +0000" stop="20250924080000 +0000">
-    <title lang="zh">Gutfeld!</title>
-    <desc>Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features refreshing takes on the day's top headlines from FNC personalities, authors, politicians, veterans and comedians.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="403903" start="20250924080000 +0000" stop="20250925000000 +0000">
-    <title lang="zh">The Ingraham Angle</title>
-    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
-    <date>2025-09-24</date>
-  </programme>
   <programme channel="9315" start="20250924012000 +0000" stop="20250924034500 +0000">
     <title lang="zh">The Color Purple</title>
     <desc>A woman faces many hardships in her life, but ultimately finds extraordinary strength and hope in the unbreakable bonds of sisterhood. Drama.</desc>
@@ -10238,9 +10144,14 @@
     <desc>Miami's finest are now its most wanted. Best-bud cops Will Smith and Martin Lawrence go on the run to clear their late captain's name.</desc>
     <date>2025-09-25</date>
   </programme>
-  <programme channel="9315" start="20250925210000 +0000" stop="20250926000000 +0000">
+  <programme channel="9315" start="20250925210000 +0000" stop="20250925233000 +0000">
     <title lang="zh">Furiosa: A Mad Max Saga</title>
     <desc>Anya Taylor-Joy stars in the origin story of rebel warrior Furiosa, as she faces the great biker horde led by Chris Hemsworth's Dementus.</desc>
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="9315" start="20250925233000 +0000" stop="20250926000000 +0000">
+    <title lang="zh">The Beekeeper</title>
+    <desc>Jason Statham stings the enemy in a brutal hunt for vengeance, which escalates after he is revealed to be part of a powerful organisation. Action-packed Sky Original film.</desc>
     <date>2025-09-25</date>
   </programme>
   <programme channel="9315" start="20250925012000 +0000" stop="20250925032000 +0000">
@@ -10293,120 +10204,125 @@
     <desc>Miami's finest are now its most wanted. Best-bud cops Will Smith and Martin Lawrence go on the run to clear their late captain's name.</desc>
     <date>2025-09-25</date>
   </programme>
-  <programme channel="9315" start="20250925210000 +0000" stop="20250926000000 +0000">
+  <programme channel="9315" start="20250925210000 +0000" stop="20250925233000 +0000">
     <title lang="zh">Furiosa: A Mad Max Saga</title>
     <desc>Anya Taylor-Joy stars in the origin story of rebel warrior Furiosa, as she faces the great biker horde led by Chris Hemsworth's Dementus.</desc>
     <date>2025-09-25</date>
   </programme>
-  <programme channel="9315" start="20250924012000 +0000" stop="20250924034500 +0000">
-    <title lang="zh">The Color Purple</title>
-    <desc>A woman faces many hardships in her life, but ultimately finds extraordinary strength and hope in the unbreakable bonds of sisterhood. Drama.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="9315" start="20250924034500 +0000" stop="20250924061500 +0000">
-    <title lang="zh">The Glorias</title>
-    <desc>Julianne Moore stars as Gloria Steinem in this inspiring biopic charting her life, from her 1940s childhood to her leading role in the women's liberation movement.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="9315" start="20250924061500 +0000" stop="20250924081500 +0000">
-    <title lang="zh">Madame Web</title>
-    <desc>Paramedic Dakota Johnson's visions into the future lead her to protect three young women. Thriller with Sydney Sweeney.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="9315" start="20250924081500 +0000" stop="20250924101000 +0000">
-    <title lang="zh">Mean Girls</title>
-    <desc>Cady Heron is a hit with the Plastics, before making the mistake of falling for Regina George's ex. Musical adaptation of the 2004 cult classic.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="9315" start="20250924101000 +0000" stop="20250924122500 +0000">
-    <title lang="zh">The Book Of Clarence</title>
-    <desc>Hoping for a better life, Clarence is captivated by the power of the Messiah and risks everything to carve himself a divine existence.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="9315" start="20250924122500 +0000" stop="20250924145000 +0000">
-    <title lang="zh">The Color Purple</title>
-    <desc>A woman faces many hardships in her life, but ultimately finds extraordinary strength and hope in the unbreakable bonds of sisterhood. Drama.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="9315" start="20250924145000 +0000" stop="20250924171000 +0000">
-    <title lang="zh">Joker: Folie A Deux</title>
-    <desc>Joaquin Phoenix returns to his Oscar-winning role, as an incarcerated Arthur Fleck meets his true love: Lady Gaga's Harley Quinn.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="9315" start="20250924171000 +0000" stop="20250924190000 +0000">
-    <title lang="zh">Trap</title>
-    <desc>The latest mystery thriller by M Night Shyamalan sees a father and his teen daughter attend a deadly pop concert. With Josh Harnett.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="9315" start="20250924190000 +0000" stop="20250924213000 +0000">
-    <title lang="zh">Gladiator II</title>
-    <desc>Lucius is forced to enter the Colosseum to bring glory back to Rome. BAFTA-nominated long-awaited sequel to Ridley Scott's historical epic.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="9315" start="20250924213000 +0000" stop="20250924233000 +0000">
-    <title lang="zh">The Bikeriders</title>
-    <desc>Over a decade, a motorcycle club evolves from a gathering of local outsiders to a sinister gang. Drama starring Tom Hardy and Jodie Comer.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="9315" start="20250924233000 +0000" stop="20250925000000 +0000">
-    <title lang="zh">A Quiet Place: Day One</title>
-    <desc>Spin-off horror prequel with Lupita Nyong'o and Joseph Quinn. A small group attempts to survive an invasion in New York City.</desc>
-    <date>2025-09-24</date>
-  </programme>
-  <programme channel="9315" start="20250925012000 +0000" stop="20250925032000 +0000">
-    <title lang="zh">The Thicket</title>
-    <desc>When a bounty hunter and a band of unlikely heroes pursue a brutal killer, they find themselves in a deadly no-man's-land known as The Thicket.</desc>
+  <programme channel="9315" start="20250925233000 +0000" stop="20250926000000 +0000">
+    <title lang="zh">The Beekeeper</title>
+    <desc>Jason Statham stings the enemy in a brutal hunt for vengeance, which escalates after he is revealed to be part of a powerful organisation. Action-packed Sky Original film.</desc>
     <date>2025-09-25</date>
   </programme>
-  <programme channel="9315" start="20250925032000 +0000" stop="20250925054000 +0000">
-    <title lang="zh">The Book Of Clarence</title>
-    <desc>Hoping for a better life, Clarence is captivated by the power of the Messiah and risks everything to carve himself a divine existence.</desc>
-    <date>2025-09-25</date>
+  <programme channel="9315" start="20250926012000 +0000" stop="20250926034000 +0000">
+    <title lang="zh">Smile 2</title>
+    <desc>Would it kill you to smile? Pop star Skye Riley faces increasingly terrifying events, leading her down a dark path into her past. Horror sequel.</desc>
+    <date>2025-09-26</date>
   </programme>
-  <programme channel="9315" start="20250925054000 +0000" stop="20250925060000 +0000">
-    <title lang="zh">The Cinema List: Job Hunting</title>
-    <desc>Fancy a career change? This week, the Cinema List goes hunting for jobs with these film names as a guide. From The Mechanic to The Accountant, dust off your CV with these hardworking hits.</desc>
-    <date>2025-09-25</date>
+  <programme channel="9315" start="20250926034000 +0000" stop="20250926060000 +0000">
+    <title lang="zh">Murder At Yellowstone City</title>
+    <desc>The once booming Yellowstone City has fallen on hard times, but when a local prospector strikes gold, things start to look up - until he's found dead. Sky Original Western.</desc>
+    <date>2025-09-26</date>
   </programme>
-  <programme channel="9315" start="20250925060000 +0000" stop="20250925080000 +0000">
-    <title lang="zh">Mean Girls</title>
-    <desc>Cady Heron is a hit with the Plastics, before making the mistake of falling for Regina George's ex. Musical adaptation of the 2004 cult classic.</desc>
-    <date>2025-09-25</date>
+  <programme channel="9315" start="20250926060000 +0000" stop="20250926074000 +0000">
+    <title lang="zh">The Mountain</title>
+    <desc>Fearless young Sam battles cancer, seeking healing from her mountain. With new friends Mallory and Bronco, they discover courage, adventure and hope together.</desc>
+    <date>2025-09-26</date>
   </programme>
-  <programme channel="9315" start="20250925080000 +0000" stop="20250925101500 +0000">
-    <title lang="zh">William Tell</title>
-    <desc>The Holy Roman Empire where Europe's nations fiercely vie for supremacy and the Austrians, desiring more land, encroach upon Switzerland, a serene, pastoral nation.</desc>
-    <date>2025-09-25</date>
+  <programme channel="9315" start="20250926074000 +0000" stop="20250926093000 +0000">
+    <title lang="zh">Bookworm</title>
+    <desc>11-year-old Mildred's world is turned upside down when her estranged father, washed-up magician Elijah Wood, takes her on a wild adventure. Family fun.</desc>
+    <date>2025-09-26</date>
   </programme>
-  <programme channel="9315" start="20250925101500 +0000" stop="20250925121500 +0000">
-    <title lang="zh">The Bikeriders</title>
-    <desc>Over a decade, a motorcycle club evolves from a gathering of local outsiders to a sinister gang. Drama starring Tom Hardy and Jodie Comer.</desc>
-    <date>2025-09-25</date>
+  <programme channel="9315" start="20250926093000 +0000" stop="20250926111000 +0000">
+    <title lang="zh">Peter Rabbit 2</title>
+    <desc>Bored of life in the garden, Peter goes to the big city, where he meets shady characters and ends up creating chaos for the whole family.</desc>
+    <date>2025-09-26</date>
   </programme>
-  <programme channel="9315" start="20250925121500 +0000" stop="20250925144500 +0000">
-    <title lang="zh">Furiosa: A Mad Max Saga</title>
-    <desc>Anya Taylor-Joy stars in the origin story of rebel warrior Furiosa, as she faces the great biker horde led by Chris Hemsworth's Dementus.</desc>
-    <date>2025-09-25</date>
+  <programme channel="9315" start="20250926111000 +0000" stop="20250926130000 +0000">
+    <title lang="zh">Beetlejuice Beetlejuice</title>
+    <desc>Michael Keaton stars as the ghost with the most in this long-awaited sequel from the twisted mind of Tim Burton. With Jenna Ortega.</desc>
+    <date>2025-09-26</date>
   </programme>
-  <programme channel="9315" start="20250925144500 +0000" stop="20250925163000 +0000">
-    <title lang="zh">A Quiet Place: Day One</title>
-    <desc>Spin-off horror prequel with Lupita Nyong'o and Joseph Quinn. A small group attempts to survive an invasion in New York City.</desc>
-    <date>2025-09-25</date>
+  <programme channel="9315" start="20250926130000 +0000" stop="20250926150000 +0000">
+    <title lang="zh">Speak No Evil</title>
+    <desc>A dream holiday turns into a nightmare when an American family stay at a British couple's idyllic estate. Horror with James McAvoy.</desc>
+    <date>2025-09-26</date>
   </programme>
-  <programme channel="9315" start="20250925163000 +0000" stop="20250925190000 +0000">
-    <title lang="zh">Gladiator II</title>
-    <desc>Lucius is forced to enter the Colosseum to bring glory back to Rome. BAFTA-nominated long-awaited sequel to Ridley Scott's historical epic.</desc>
-    <date>2025-09-25</date>
-  </programme>
-  <programme channel="9315" start="20250925190000 +0000" stop="20250925210000 +0000">
+  <programme channel="9315" start="20250926150000 +0000" stop="20250926170000 +0000">
     <title lang="zh">Bad Boys: Ride Or Die</title>
     <desc>Miami's finest are now its most wanted. Best-bud cops Will Smith and Martin Lawrence go on the run to clear their late captain's name.</desc>
-    <date>2025-09-25</date>
+    <date>2025-09-26</date>
   </programme>
-  <programme channel="9315" start="20250925210000 +0000" stop="20250926000000 +0000">
-    <title lang="zh">Furiosa: A Mad Max Saga</title>
-    <desc>Anya Taylor-Joy stars in the origin story of rebel warrior Furiosa, as she faces the great biker horde led by Chris Hemsworth's Dementus.</desc>
-    <date>2025-09-25</date>
+  <programme channel="9315" start="20250926170000 +0000" stop="20250926190000 +0000">
+    <title lang="zh">Venom: The Last Dance</title>
+    <desc>Eddie and Venom, now on the run, face dangers from both worlds as the end of their symbiotic relationship grows near. Tom Hardy stars.</desc>
+    <date>2025-09-26</date>
+  </programme>
+  <programme channel="9315" start="20250926190000 +0000" stop="20250926211000 +0000">
+    <title lang="zh">The Fall Guy</title>
+    <desc>Down-and-out stuntman Ryan Gosling sets out to find the missing star of his ex-girlfriend's blockbuster. Action with Emily Blunt.</desc>
+    <date>2025-09-26</date>
+  </programme>
+  <programme channel="9315" start="20250926211000 +0000" stop="20250927000000 +0000">
+    <title lang="zh">Speak No Evil</title>
+    <desc>A dream holiday turns into a nightmare when an American family stay at a British couple's idyllic estate. Horror with James McAvoy.</desc>
+    <date>2025-09-26</date>
+  </programme>
+  <programme channel="9315" start="20250926012000 +0000" stop="20250926034000 +0000">
+    <title lang="zh">Smile 2</title>
+    <desc>Would it kill you to smile? Pop star Skye Riley faces increasingly terrifying events, leading her down a dark path into her past. Horror sequel.</desc>
+    <date>2025-09-26</date>
+  </programme>
+  <programme channel="9315" start="20250926034000 +0000" stop="20250926060000 +0000">
+    <title lang="zh">Murder At Yellowstone City</title>
+    <desc>The once booming Yellowstone City has fallen on hard times, but when a local prospector strikes gold, things start to look up - until he's found dead. Sky Original Western.</desc>
+    <date>2025-09-26</date>
+  </programme>
+  <programme channel="9315" start="20250926060000 +0000" stop="20250926074000 +0000">
+    <title lang="zh">The Mountain</title>
+    <desc>Fearless young Sam battles cancer, seeking healing from her mountain. With new friends Mallory and Bronco, they discover courage, adventure and hope together.</desc>
+    <date>2025-09-26</date>
+  </programme>
+  <programme channel="9315" start="20250926074000 +0000" stop="20250926093000 +0000">
+    <title lang="zh">Bookworm</title>
+    <desc>11-year-old Mildred's world is turned upside down when her estranged father, washed-up magician Elijah Wood, takes her on a wild adventure. Family fun.</desc>
+    <date>2025-09-26</date>
+  </programme>
+  <programme channel="9315" start="20250926093000 +0000" stop="20250926111000 +0000">
+    <title lang="zh">Peter Rabbit 2</title>
+    <desc>Bored of life in the garden, Peter goes to the big city, where he meets shady characters and ends up creating chaos for the whole family.</desc>
+    <date>2025-09-26</date>
+  </programme>
+  <programme channel="9315" start="20250926111000 +0000" stop="20250926130000 +0000">
+    <title lang="zh">Beetlejuice Beetlejuice</title>
+    <desc>Michael Keaton stars as the ghost with the most in this long-awaited sequel from the twisted mind of Tim Burton. With Jenna Ortega.</desc>
+    <date>2025-09-26</date>
+  </programme>
+  <programme channel="9315" start="20250926130000 +0000" stop="20250926150000 +0000">
+    <title lang="zh">Speak No Evil</title>
+    <desc>A dream holiday turns into a nightmare when an American family stay at a British couple's idyllic estate. Horror with James McAvoy.</desc>
+    <date>2025-09-26</date>
+  </programme>
+  <programme channel="9315" start="20250926150000 +0000" stop="20250926170000 +0000">
+    <title lang="zh">Bad Boys: Ride Or Die</title>
+    <desc>Miami's finest are now its most wanted. Best-bud cops Will Smith and Martin Lawrence go on the run to clear their late captain's name.</desc>
+    <date>2025-09-26</date>
+  </programme>
+  <programme channel="9315" start="20250926170000 +0000" stop="20250926190000 +0000">
+    <title lang="zh">Venom: The Last Dance</title>
+    <desc>Eddie and Venom, now on the run, face dangers from both worlds as the end of their symbiotic relationship grows near. Tom Hardy stars.</desc>
+    <date>2025-09-26</date>
+  </programme>
+  <programme channel="9315" start="20250926190000 +0000" stop="20250926211000 +0000">
+    <title lang="zh">The Fall Guy</title>
+    <desc>Down-and-out stuntman Ryan Gosling sets out to find the missing star of his ex-girlfriend's blockbuster. Action with Emily Blunt.</desc>
+    <date>2025-09-26</date>
+  </programme>
+  <programme channel="9315" start="20250926211000 +0000" stop="20250927000000 +0000">
+    <title lang="zh">Speak No Evil</title>
+    <desc>A dream holiday turns into a nightmare when an American family stay at a British couple's idyllic estate. Horror with James McAvoy.</desc>
+    <date>2025-09-26</date>
   </programme>
   <programme channel="403926" start="20250924010000 +0000" stop="20250924013500 +0000">
     <title lang="zh">The Devil is Busy</title>
