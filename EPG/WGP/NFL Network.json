@@ -1,80 +1,5 @@
 [
     {
-        "start":  "2025-09-24T05:00:00.0000000",
-        "title":  "NFL Football: Denver Broncos at Los Angeles Chargers",
-        "end":  "2025-09-24T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-24T08:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-09-24T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-24T09:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2025-09-24T10:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-24T10:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-09-24T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-24T11:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2025-09-24T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-24T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-09-24T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-24T14:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-09-24T16:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-24T16:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-09-24T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-24T18:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-09-24T19:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-24T19:00:00.0000000",
-        "title":  "NFL Football: New York Jets at Tampa Bay Buccaneers",
-        "end":  "2025-09-24T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-24T22:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2025-09-24T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-24T23:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-09-25T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-25T00:00:00.0000000",
-        "title":  "NFL Football: Pittsburgh Steelers at New England Patriots",
-        "end":  "2025-09-25T03:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-25T03:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-09-25T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-25T04:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2025-09-25T05:00:00.0000000"
-    },
-    {
         "start":  "2025-09-25T05:00:00.0000000",
         "title":  "Monday Night Football: Detroit Lions at Baltimore Ravens",
         "end":  "2025-09-25T08:00:00.0000000"
@@ -428,5 +353,70 @@
         "start":  "2025-09-30T03:15:00.0000000",
         "title":  "NFL GameDay Final",
         "end":  "2025-09-30T04:15:00.0000000"
+    },
+    {
+        "start":  "2025-09-30T04:15:00.0000000",
+        "title":  "Monday Night Football: New York Jets at Miami Dolphins",
+        "end":  "2025-09-30T04:15:00.0000000"
+    },
+    {
+        "start":  "2025-09-30T04:15:00.0000000",
+        "title":  "Monday Night Football: New York Jets at Miami Dolphins",
+        "end":  "2025-09-30T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-30T07:00:00.0000000",
+        "title":  "Monday Night Football: Cincinnati Bengals at Denver Broncos",
+        "end":  "2025-09-30T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-30T10:00:00.0000000",
+        "title":  "Monday Night Football: New York Jets at Miami Dolphins",
+        "end":  "2025-09-30T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-30T12:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-09-30T14:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-30T14:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-09-30T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-30T16:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-09-30T18:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-30T18:00:00.0000000",
+        "title":  "Monday Night Football: New York Jets at Miami Dolphins",
+        "end":  "2025-09-30T20:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-30T20:00:00.0000000",
+        "title":  "Monday Night Football: Cincinnati Bengals at Denver Broncos",
+        "end":  "2025-09-30T22:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-30T22:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2025-09-30T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-09-30T23:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-10-01T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-01T00:00:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2025-10-01T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-01T03:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-10-01T04:00:00.0000000"
     }
 ]
