@@ -1,30 +1,5 @@
 [
     {
-        "start":  "2025-09-25T05:00:00.0000000",
-        "title":  "Live Tennis",
-        "end":  "2025-09-25T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-25T12:00:00.0000000",
-        "title":  "Live Ryder Cup Golf",
-        "end":  "2025-09-25T20:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-25T20:00:00.0000000",
-        "title":  "Live Ryder Cup Golf: 2025 Day 1 Foursomes Pairing Announcement",
-        "end":  "2025-09-25T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-25T23:00:00.0000000",
-        "title":  "Live NFL: Seattle Seahawks @ Arizona Cardinals 25.09",
-        "end":  "2025-09-26T04:15:00.0000000"
-    },
-    {
-        "start":  "2025-09-26T04:15:00.0000000",
-        "title":  "Live Tennis",
-        "end":  "2025-09-26T05:00:00.0000000"
-    },
-    {
         "start":  "2025-09-26T05:00:00.0000000",
         "title":  "Live Tennis",
         "end":  "2025-09-26T08:00:00.0000000"
@@ -47,10 +22,10 @@
     {
         "start":  "2025-09-26T22:00:00.0000000",
         "title":  "McGinley \u0026 Chamblee: Ryder Cup: McGinley And Chamblee At The Ryder Cup 26.09",
-        "end":  "2025-09-27T00:00:00.0000000"
+        "end":  "2025-09-27T00:30:00.0000000"
     },
     {
-        "start":  "2025-09-27T00:00:00.0000000",
+        "start":  "2025-09-27T00:30:00.0000000",
         "title":  "Sky Sports News",
         "end":  "2025-09-27T01:00:00.0000000"
     },
@@ -107,11 +82,6 @@
     {
         "start":  "2025-09-27T22:00:00.0000000",
         "title":  "McGinley \u0026 Chamblee: Ryder Cup: McGinley And Chamblee At The Ryder Cup 27.09",
-        "end":  "2025-09-28T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-09-28T00:00:00.0000000",
-        "title":  "Sky Sports Catch Up",
         "end":  "2025-09-28T01:00:00.0000000"
     },
     {
@@ -318,5 +288,70 @@
         "start":  "2025-10-01T04:30:00.0000000",
         "title":  "Live Tennis",
         "end":  "2025-10-01T05:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-01T05:00:00.0000000",
+        "title":  "Live Tennis",
+        "end":  "2025-10-01T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-01T09:00:00.0000000",
+        "title":  "Live ICC Women\u0027s World Cup: Australia v New Zealand 01.10",
+        "end":  "2025-10-01T16:45:00.0000000"
+    },
+    {
+        "start":  "2025-10-01T16:45:00.0000000",
+        "title":  "The Premier League Show",
+        "end":  "2025-10-01T17:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-01T17:00:00.0000000",
+        "title":  "The Premier League Show",
+        "end":  "2025-10-01T18:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-01T18:00:00.0000000",
+        "title":  "Gillette Labs Soccer Special",
+        "end":  "2025-10-01T18:30:00.0000000"
+    },
+    {
+        "start":  "2025-10-01T18:30:00.0000000",
+        "title":  "Live EFL",
+        "end":  "2025-10-01T21:30:00.0000000"
+    },
+    {
+        "start":  "2025-10-01T21:30:00.0000000",
+        "title":  "Back Pages Tonight",
+        "end":  "2025-10-01T22:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-01T22:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-10-01T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-01T23:00:00.0000000",
+        "title":  "Live LPGA Tour Golf: 2025 Lotte Championship Presented By Hoakalei Day 1",
+        "end":  "2025-10-02T02:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-02T02:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-10-02T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-02T03:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-10-02T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-02T04:00:00.0000000",
+        "title":  "Sky Sports News",
+        "end":  "2025-10-02T04:30:00.0000000"
+    },
+    {
+        "start":  "2025-10-02T04:30:00.0000000",
+        "title":  "Live Tennis: Atp 1000 Shanghai 02.10",
+        "end":  "2025-10-02T05:00:00.0000000"
     }
 ]
