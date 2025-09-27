@@ -126,10 +126,6 @@
     <display-name lang="US">ABC NEWS</display-name>
     <icon src="" />
   </channel>
-  <channel id="403903">
-    <display-name lang="US">Fox News</display-name>
-    <icon src="" />
-  </channel>
   <channel id="9315">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">Sky Cinema Select</display-name>
     <icon src="" />
@@ -10008,9 +10004,14 @@
     <desc>Jason Statham stings the enemy in a brutal hunt for vengeance, which escalates after he is revealed to be part of a powerful organisation. Action-packed Sky Original film.</desc>
     <date>2025-09-28</date>
   </programme>
-  <programme channel="9315" start="20250928210000 +0000" stop="20250929000000 +0000">
+  <programme channel="9315" start="20250928210000 +0000" stop="20250928231000 +0000">
     <title lang="zh">The Invisible Man</title>
     <desc>A woman believes her abusive ex's suicide was faked. Can she prove she's still being hunted? Sci-fi horror with Elisabeth Moss.</desc>
+    <date>2025-09-28</date>
+  </programme>
+  <programme channel="9315" start="20250928231000 +0000" stop="20250929000000 +0000">
+    <title lang="zh">Nosferatu</title>
+    <desc>A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.</desc>
     <date>2025-09-28</date>
   </programme>
   <programme channel="9315" start="20250928011500 +0000" stop="20250928032500 +0000">
@@ -10063,124 +10064,124 @@
     <desc>Jason Statham stings the enemy in a brutal hunt for vengeance, which escalates after he is revealed to be part of a powerful organisation. Action-packed Sky Original film.</desc>
     <date>2025-09-28</date>
   </programme>
-  <programme channel="9315" start="20250928210000 +0000" stop="20250929000000 +0000">
+  <programme channel="9315" start="20250928210000 +0000" stop="20250928231000 +0000">
     <title lang="zh">The Invisible Man</title>
     <desc>A woman believes her abusive ex's suicide was faked. Can she prove she's still being hunted? Sci-fi horror with Elisabeth Moss.</desc>
     <date>2025-09-28</date>
   </programme>
-  <programme channel="9315" start="20250927011500 +0000" stop="20250927030500 +0000">
-    <title lang="zh">I Saw the TV Glow</title>
-    <desc>Two troubled teens with a shared link to their favourite show are driven to question their reality and identities. With Justice Smith.</desc>
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="9315" start="20250927030500 +0000" stop="20250927053500 +0000">
-    <title lang="zh">The Glorias</title>
-    <desc>Julianne Moore stars as Gloria Steinem in this inspiring biopic charting her life, from her 1940s childhood to her leading role in the women's liberation movement.</desc>
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="9315" start="20250927053500 +0000" stop="20250927071500 +0000">
-    <title lang="zh">Peter Rabbit 2</title>
-    <desc>Bored of life in the garden, Peter goes to the big city, where he meets shady characters and ends up creating chaos for the whole family.</desc>
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="9315" start="20250927071500 +0000" stop="20250927090500 +0000">
-    <title lang="zh">If</title>
-    <desc>After discovering her special ability to see imaginary friends, a girl goes on a magical adventure to reconnect forgotten IFs with their kids.</desc>
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="9315" start="20250927090500 +0000" stop="20250927105500 +0000">
-    <title lang="zh">Beetlejuice Beetlejuice</title>
-    <desc>Michael Keaton stars as the ghost with the most in this long-awaited sequel from the twisted mind of Tim Burton. With Jenna Ortega.</desc>
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="9315" start="20250927105500 +0000" stop="20250927125500 +0000">
-    <title lang="zh">Ghostbusters: Frozen Empire</title>
-    <desc>Paul Rudd returns as Ghostbusters old and new team up to protect their home and save the world from a new ice age. Supernatural adventure.</desc>
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="9315" start="20250927125500 +0000" stop="20250927145000 +0000">
-    <title lang="zh">Venom: The Last Dance</title>
-    <desc>Eddie and Venom, now on the run, face dangers from both worlds as the end of their symbiotic relationship grows near. Tom Hardy stars.</desc>
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="9315" start="20250927145000 +0000" stop="20250927170000 +0000">
-    <title lang="zh">The Fall Guy</title>
-    <desc>Down-and-out stuntman Ryan Gosling sets out to find the missing star of his ex-girlfriend's blockbuster. Action with Emily Blunt.</desc>
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="9315" start="20250927170000 +0000" stop="20250927190000 +0000">
-    <title lang="zh">Godzilla X Kong: The New Empire</title>
-    <desc>Two ancient titans - Godzilla and Kong - clash in an epic battle against an undiscovered threat hidden within our world. Action-packed sci fi.</desc>
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="9315" start="20250927190000 +0000" stop="20250927210500 +0000">
-    <title lang="zh">Twisters</title>
-    <desc>Glen Powell and Daisy Edgar-Jones are put in direct contact with one of nature's most wondrous - and deadly - forces. Adrenaline-pumping sequel.</desc>
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="9315" start="20250927210500 +0000" stop="20250927230500 +0000">
-    <title lang="zh">Novocaine</title>
-    <desc>When his girlfriend is kidnapped, Jack Quaid turns his inability to feel pain into his quest to rescue her. Language/violence.</desc>
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="9315" start="20250927230500 +0000" stop="20250928000000 +0000">
-    <title lang="zh">The Invisible Man</title>
-    <desc>A woman believes her abusive ex's suicide was faked. Can she prove she's still being hunted? Sci-fi horror with Elisabeth Moss.</desc>
-    <date>2025-09-27</date>
-  </programme>
-  <programme channel="9315" start="20250928011500 +0000" stop="20250928032500 +0000">
-    <title lang="zh">Twilight of the Warriors</title>
-    <desc>In a walled city, a troubled youth stumbles upon a chaotic world of crime. Chinese crime thriller with subtitles.</desc>
+  <programme channel="9315" start="20250928231000 +0000" stop="20250929000000 +0000">
+    <title lang="zh">Nosferatu</title>
+    <desc>A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.</desc>
     <date>2025-09-28</date>
   </programme>
-  <programme channel="9315" start="20250928032500 +0000" stop="20250928050500 +0000">
-    <title lang="zh">Kill</title>
-    <desc>Three brothers return to the remote woodland where they killed their abusive father only to discover his grave now sits empty. Gripping thriller.</desc>
-    <date>2025-09-28</date>
+  <programme channel="9315" start="20250929012500 +0000" stop="20250929032500 +0000">
+    <title lang="zh">Abigail</title>
+    <desc>A group of criminals hold the daughter of a powerful underworld figure for ransom, unaware that she is actually a vampire. Ensemble horror.</desc>
+    <date>2025-09-29</date>
   </programme>
-  <programme channel="9315" start="20250928050500 +0000" stop="20250928070000 +0000">
-    <title lang="zh">If</title>
-    <desc>After discovering her special ability to see imaginary friends, a girl goes on a magical adventure to reconnect forgotten IFs with their kids.</desc>
-    <date>2025-09-28</date>
+  <programme channel="9315" start="20250929032500 +0000" stop="20250929051500 +0000">
+    <title lang="zh">Your Monster</title>
+    <desc>After her life crumbles apart, a soft-spoken actress finds her voice again when she meets the monster living in her closet.</desc>
+    <date>2025-09-29</date>
   </programme>
-  <programme channel="9315" start="20250928070000 +0000" stop="20250928084000 +0000">
+  <programme channel="9315" start="20250929051500 +0000" stop="20250929065000 +0000">
     <title lang="zh">Jules</title>
     <desc>After a UFO crashes into a quiet man's back garden, he develops a close bond with its extraterrestrial passenger and acts to protect it. Sci-fi comedy with Ben Kingsley.</desc>
-    <date>2025-09-28</date>
+    <date>2025-09-29</date>
   </programme>
-  <programme channel="9315" start="20250928084000 +0000" stop="20250928104000 +0000">
-    <title lang="zh">Ghostbusters: Frozen Empire</title>
-    <desc>Paul Rudd returns as Ghostbusters old and new team up to protect their home and save the world from a new ice age. Supernatural adventure.</desc>
-    <date>2025-09-28</date>
+  <programme channel="9315" start="20250929065000 +0000" stop="20250929084500 +0000">
+    <title lang="zh">Mean Girls</title>
+    <desc>Cady Heron is a hit with the Plastics, before making the mistake of falling for Regina George's ex. Musical adaptation of the 2004 cult classic.</desc>
+    <date>2025-09-29</date>
   </programme>
-  <programme channel="9315" start="20250928104000 +0000" stop="20250928124000 +0000">
-    <title lang="zh">Godzilla X Kong: The New Empire</title>
-    <desc>Two ancient titans - Godzilla and Kong - clash in an epic battle against an undiscovered threat hidden within our world. Action-packed sci fi.</desc>
-    <date>2025-09-28</date>
+  <programme channel="9315" start="20250929084500 +0000" stop="20250929102500 +0000">
+    <title lang="zh">A Nice Indian Boy</title>
+    <desc>Cultures collide when an introverted doctor brings his white boyfriend home to meet his traditional East Indian family.</desc>
+    <date>2025-09-29</date>
   </programme>
-  <programme channel="9315" start="20250928124000 +0000" stop="20250928145000 +0000">
-    <title lang="zh">Twisters</title>
-    <desc>Glen Powell and Daisy Edgar-Jones are put in direct contact with one of nature's most wondrous - and deadly - forces. Adrenaline-pumping sequel.</desc>
-    <date>2025-09-28</date>
+  <programme channel="9315" start="20250929102500 +0000" stop="20250929123500 +0000">
+    <title lang="zh">Juliet &amp; Romeo</title>
+    <desc>The greatest love story of all time, set as an original pop musical. Based on the real story that inspired William Shakespeare's Romeo and Juliet.</desc>
+    <date>2025-09-29</date>
   </programme>
-  <programme channel="9315" start="20250928145000 +0000" stop="20250928170000 +0000">
+  <programme channel="9315" start="20250929123500 +0000" stop="20250929143500 +0000">
+    <title lang="zh">Mean Girls</title>
+    <desc>Cady Heron is a hit with the Plastics, before making the mistake of falling for Regina George's ex. Musical adaptation of the 2004 cult classic.</desc>
+    <date>2025-09-29</date>
+  </programme>
+  <programme channel="9315" start="20250929143500 +0000" stop="20250929164500 +0000">
     <title lang="zh">Aquaman And The Lost Kingdom</title>
     <desc>Jason Momoa returns as the King of Atlantis, who sets out to defeat Yahya Abdul-Mateen II's Black Manta. DC Superhero action.</desc>
-    <date>2025-09-28</date>
+    <date>2025-09-29</date>
   </programme>
-  <programme channel="9315" start="20250928170000 +0000" stop="20250928190000 +0000">
-    <title lang="zh">Novocaine</title>
-    <desc>When his girlfriend is kidnapped, Jack Quaid turns his inability to feel pain into his quest to rescue her. Language/violence.</desc>
-    <date>2025-09-28</date>
+  <programme channel="9315" start="20250929164500 +0000" stop="20250929190000 +0000">
+    <title lang="zh">William Tell</title>
+    <desc>The Holy Roman Empire where Europe's nations fiercely vie for supremacy and the Austrians, desiring more land, encroach upon Switzerland, a serene, pastoral nation.</desc>
+    <date>2025-09-29</date>
   </programme>
-  <programme channel="9315" start="20250928190000 +0000" stop="20250928210000 +0000">
-    <title lang="zh">The Beekeeper</title>
-    <desc>Jason Statham stings the enemy in a brutal hunt for vengeance, which escalates after he is revealed to be part of a powerful organisation. Action-packed Sky Original film.</desc>
-    <date>2025-09-28</date>
+  <programme channel="9315" start="20250929190000 +0000" stop="20250929211500 +0000">
+    <title lang="zh">Nosferatu</title>
+    <desc>A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.</desc>
+    <date>2025-09-29</date>
   </programme>
-  <programme channel="9315" start="20250928210000 +0000" stop="20250929000000 +0000">
-    <title lang="zh">The Invisible Man</title>
-    <desc>A woman believes her abusive ex's suicide was faked. Can she prove she's still being hunted? Sci-fi horror with Elisabeth Moss.</desc>
-    <date>2025-09-28</date>
+  <programme channel="9315" start="20250929211500 +0000" stop="20250930000000 +0000">
+    <title lang="zh">Abigail</title>
+    <desc>A group of criminals hold the daughter of a powerful underworld figure for ransom, unaware that she is actually a vampire. Ensemble horror.</desc>
+    <date>2025-09-29</date>
+  </programme>
+  <programme channel="9315" start="20250929012500 +0000" stop="20250929032500 +0000">
+    <title lang="zh">Abigail</title>
+    <desc>A group of criminals hold the daughter of a powerful underworld figure for ransom, unaware that she is actually a vampire. Ensemble horror.</desc>
+    <date>2025-09-29</date>
+  </programme>
+  <programme channel="9315" start="20250929032500 +0000" stop="20250929051500 +0000">
+    <title lang="zh">Your Monster</title>
+    <desc>After her life crumbles apart, a soft-spoken actress finds her voice again when she meets the monster living in her closet.</desc>
+    <date>2025-09-29</date>
+  </programme>
+  <programme channel="9315" start="20250929051500 +0000" stop="20250929065000 +0000">
+    <title lang="zh">Jules</title>
+    <desc>After a UFO crashes into a quiet man's back garden, he develops a close bond with its extraterrestrial passenger and acts to protect it. Sci-fi comedy with Ben Kingsley.</desc>
+    <date>2025-09-29</date>
+  </programme>
+  <programme channel="9315" start="20250929065000 +0000" stop="20250929084500 +0000">
+    <title lang="zh">Mean Girls</title>
+    <desc>Cady Heron is a hit with the Plastics, before making the mistake of falling for Regina George's ex. Musical adaptation of the 2004 cult classic.</desc>
+    <date>2025-09-29</date>
+  </programme>
+  <programme channel="9315" start="20250929084500 +0000" stop="20250929102500 +0000">
+    <title lang="zh">A Nice Indian Boy</title>
+    <desc>Cultures collide when an introverted doctor brings his white boyfriend home to meet his traditional East Indian family.</desc>
+    <date>2025-09-29</date>
+  </programme>
+  <programme channel="9315" start="20250929102500 +0000" stop="20250929123500 +0000">
+    <title lang="zh">Juliet &amp; Romeo</title>
+    <desc>The greatest love story of all time, set as an original pop musical. Based on the real story that inspired William Shakespeare's Romeo and Juliet.</desc>
+    <date>2025-09-29</date>
+  </programme>
+  <programme channel="9315" start="20250929123500 +0000" stop="20250929143500 +0000">
+    <title lang="zh">Mean Girls</title>
+    <desc>Cady Heron is a hit with the Plastics, before making the mistake of falling for Regina George's ex. Musical adaptation of the 2004 cult classic.</desc>
+    <date>2025-09-29</date>
+  </programme>
+  <programme channel="9315" start="20250929143500 +0000" stop="20250929164500 +0000">
+    <title lang="zh">Aquaman And The Lost Kingdom</title>
+    <desc>Jason Momoa returns as the King of Atlantis, who sets out to defeat Yahya Abdul-Mateen II's Black Manta. DC Superhero action.</desc>
+    <date>2025-09-29</date>
+  </programme>
+  <programme channel="9315" start="20250929164500 +0000" stop="20250929190000 +0000">
+    <title lang="zh">William Tell</title>
+    <desc>The Holy Roman Empire where Europe's nations fiercely vie for supremacy and the Austrians, desiring more land, encroach upon Switzerland, a serene, pastoral nation.</desc>
+    <date>2025-09-29</date>
+  </programme>
+  <programme channel="9315" start="20250929190000 +0000" stop="20250929211500 +0000">
+    <title lang="zh">Nosferatu</title>
+    <desc>A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.</desc>
+    <date>2025-09-29</date>
+  </programme>
+  <programme channel="9315" start="20250929211500 +0000" stop="20250930000000 +0000">
+    <title lang="zh">Abigail</title>
+    <desc>A group of criminals hold the daughter of a powerful underworld figure for ransom, unaware that she is actually a vampire. Ensemble horror.</desc>
+    <date>2025-09-29</date>
   </programme>
 </tv>
