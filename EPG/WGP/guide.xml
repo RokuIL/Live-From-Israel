@@ -122,36 +122,8 @@
     <icon src="https://image.xumo.com/v1/channels/channel/99991247/56x56.webp?type=color_onBlack" />
     <url>http://www.xumo.com</url>
   </channel>
-  <channel id="399930">
-    <display-name lang="US">ABC NEWS</display-name>
-    <icon src="" />
-  </channel>
   <channel id="9315">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">Sky Cinema Select</display-name>
-    <icon src="" />
-  </channel>
-  <channel id="403926">
-    <display-name lang="US">HBO - Eastern Feed</display-name>
-    <icon src="" />
-  </channel>
-  <channel id="403793">
-    <display-name lang="US">ESPN</display-name>
-    <icon src="" />
-  </channel>
-  <channel id="403821">
-    <display-name lang="US">ESPN2</display-name>
-    <icon src="" />
-  </channel>
-  <channel id="403805">
-    <display-name lang="US">ABC (WABC) New York, NY</display-name>
-    <icon src="" />
-  </channel>
-  <channel id="403619">
-    <display-name lang="US">NBC (WNBC) New York, NY</display-name>
-    <icon src="" />
-  </channel>
-  <channel id="403858">
-    <display-name lang="US">FOX (WNYW) New York, NY</display-name>
     <icon src="" />
   </channel>
   <programme start="20250929070000 +0000" stop="20250929090000 +0000" channel="Kan 11">
@@ -9628,124 +9600,144 @@
     <desc>A dedicated family man becomes obsessed with saving car accident victims on the corner in front of his house - an obsession that could cost him everything. Thriller.</desc>
     <date>2025-09-30</date>
   </programme>
-  <programme channel="9315" start="20250929012500 +0000" stop="20250929032500 +0000">
-    <title lang="zh">Abigail</title>
-    <desc>A group of criminals hold the daughter of a powerful underworld figure for ransom, unaware that she is actually a vampire. Ensemble horror.</desc>
-    <date>2025-09-29</date>
+  <programme channel="9315" start="20251001001500 +0000" stop="20251001020500 +0000">
+    <title lang="zh">Daddio</title>
+    <desc>During a taxi ride home, a young woman and her driver speak openly about relationships, power dynamics and loss. Sky Original film with Dakota Johnson and Sean Penn.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250929032500 +0000" stop="20250929051500 +0000">
-    <title lang="zh">Your Monster</title>
-    <desc>After her life crumbles apart, a soft-spoken actress finds her voice again when she meets the monster living in her closet.</desc>
-    <date>2025-09-29</date>
+  <programme channel="9315" start="20251001020500 +0000" stop="20251001042000 +0000">
+    <title lang="zh">A Good Person</title>
+    <desc>Drama about how one split second can change the trajectory of our lives. Sky Original film written and directed by Zach Braff, starring Morgan Freeman and Florence Pugh.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250929051500 +0000" stop="20250929065000 +0000">
-    <title lang="zh">Jules</title>
-    <desc>After a UFO crashes into a quiet man's back garden, he develops a close bond with its extraterrestrial passenger and acts to protect it. Sci-fi comedy with Ben Kingsley.</desc>
-    <date>2025-09-29</date>
+  <programme channel="9315" start="20251001042000 +0000" stop="20251001050000 +0000">
+    <title lang="zh">Sky Cinema Preview</title>
+    <desc>Previews of the great films now playing on Sky Cinema plus other highlights showing on Sky.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250929065000 +0000" stop="20250929084500 +0000">
-    <title lang="zh">Mean Girls</title>
-    <desc>Cady Heron is a hit with the Plastics, before making the mistake of falling for Regina George's ex. Musical adaptation of the 2004 cult classic.</desc>
-    <date>2025-09-29</date>
+  <programme channel="9315" start="20251001050000 +0000" stop="20251001063000 +0000">
+    <title lang="zh">Sick</title>
+    <desc>While quarantining at her family's lake house during the pandemic, student Parker and her best friend encounter an unexpected visitor. Slasher from the creator of Scream.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250929084500 +0000" stop="20250929102500 +0000">
-    <title lang="zh">A Nice Indian Boy</title>
-    <desc>Cultures collide when an introverted doctor brings his white boyfriend home to meet his traditional East Indian family.</desc>
-    <date>2025-09-29</date>
+  <programme channel="9315" start="20251001063000 +0000" stop="20251001080500 +0000">
+    <title lang="zh">Arcadian</title>
+    <desc>On a decimated Earth, a father and his twin sons must fight to survive against the ferocious creatures who awaken at night. Horror thriller starring Nicolas Cage.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250929102500 +0000" stop="20250929123500 +0000">
-    <title lang="zh">Juliet &amp; Romeo</title>
-    <desc>The greatest love story of all time, set as an original pop musical. Based on the real story that inspired William Shakespeare's Romeo and Juliet.</desc>
-    <date>2025-09-29</date>
+  <programme channel="9315" start="20251001080500 +0000" stop="20251001095000 +0000">
+    <title lang="zh">Annabelle</title>
+    <desc>In this creepy prequel to hit horror The Conjuring, a married couple are tormented by a doll that has been possessed by an evil spirit.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250929123500 +0000" stop="20250929143500 +0000">
-    <title lang="zh">Mean Girls</title>
-    <desc>Cady Heron is a hit with the Plastics, before making the mistake of falling for Regina George's ex. Musical adaptation of the 2004 cult classic.</desc>
-    <date>2025-09-29</date>
+  <programme channel="9315" start="20251001095000 +0000" stop="20251001114500 +0000">
+    <title lang="zh">Annabelle: Creation</title>
+    <desc>Young orphan Linda finds herself drawn to a creepy porcelain doll that seems to have evil in its cold, dead eyes... Horror.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250929143500 +0000" stop="20250929164500 +0000">
-    <title lang="zh">Aquaman And The Lost Kingdom</title>
-    <desc>Jason Momoa returns as the King of Atlantis, who sets out to defeat Yahya Abdul-Mateen II's Black Manta. DC Superhero action.</desc>
-    <date>2025-09-29</date>
+  <programme channel="9315" start="20251001114500 +0000" stop="20251001131500 +0000">
+    <title lang="zh">Lovely, Dark, And Deep</title>
+    <desc>A new back-country ranger travels alone through the dangerous wilderness, hoping to uncover the origins of a tragedy that has haunted her since childhood.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250929164500 +0000" stop="20250929190000 +0000">
-    <title lang="zh">William Tell</title>
-    <desc>The Holy Roman Empire where Europe's nations fiercely vie for supremacy and the Austrians, desiring more land, encroach upon Switzerland, a serene, pastoral nation.</desc>
-    <date>2025-09-29</date>
+  <programme channel="9315" start="20251001131500 +0000" stop="20251001145000 +0000">
+    <title lang="zh">Ouija</title>
+    <desc>A group of friends open themselves up to a terrifying ordeal when they attempt to summon spirits through a Ouija board. Horror. Violence/mature themes/flashing images.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250929190000 +0000" stop="20250929211500 +0000">
-    <title lang="zh">Nosferatu</title>
-    <desc>A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.</desc>
-    <date>2025-09-29</date>
+  <programme channel="9315" start="20251001145000 +0000" stop="20251001163500 +0000">
+    <title lang="zh">Insidious</title>
+    <desc>Couple Rose Byrne and Patrick Wilson discover that their new home is haunted. Unnerving horror from the makers of Saw.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250929211500 +0000" stop="20250929231000 +0000">
-    <title lang="zh">Abigail</title>
-    <desc>A group of criminals hold the daughter of a powerful underworld figure for ransom, unaware that she is actually a vampire. Ensemble horror.</desc>
-    <date>2025-09-29</date>
+  <programme channel="9315" start="20251001163500 +0000" stop="20251001182500 +0000">
+    <title lang="zh">Insidious 2</title>
+    <desc>The Lambert family face more torment as it emerges that they still have a connection with the spirit world. Rose Byrne and Patrick Wilson star.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250929231000 +0000" stop="20250930000000 +0000">
-    <title lang="zh">Monkey Man</title>
-    <desc>Dev Patel directs and stars in this action thriller about a man who unleashes a campaign of vengeance against the men who killed his mother.</desc>
-    <date>2025-09-29</date>
+  <programme channel="9315" start="20251001182500 +0000" stop="20251001200000 +0000">
+    <title lang="zh">A Quiet Place</title>
+    <desc>Survival thriller following a family living in constant fear of alien creatures who hunt by sound. John Krasinski and Emily Blunt star.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250930011500 +0000" stop="20250930031500 +0000">
-    <title lang="zh">The Bricklayer</title>
-    <desc>In this action-packed thriller, former CIA operative Steve Vail is lured out of retirement to confront a rogue assassin blackmailing the agency.</desc>
-    <date>2025-09-30</date>
+  <programme channel="9315" start="20251001200000 +0000" stop="20251001222500 +0000">
+    <title lang="zh">The Shining</title>
+    <desc>Caretaking a remote hotel, writer Jack Nicholson slowly succumbs to murderous insanity. Stanley Kubrick directs this unsettling horror classic. Contains violent scenes.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250930031500 +0000" stop="20250930050000 +0000">
-    <title lang="zh">57 Seconds</title>
-    <desc>When a blogger interviews a tech guru and stops an attack, he finds a strange ring that takes him back 57 seconds into the past. Sky Original film starring Josh Hutcherson.</desc>
-    <date>2025-09-30</date>
+  <programme channel="9315" start="20251001222500 +0000" stop="20251002000000 +0000">
+    <title lang="zh">Annabelle</title>
+    <desc>In this creepy prequel to hit horror The Conjuring, a married couple are tormented by a doll that has been possessed by an evil spirit.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250930050000 +0000" stop="20250930070000 +0000">
-    <title lang="zh">Save The Cinema</title>
-    <desc>Sky Original film following Welsh hairdresser Liz Evans' fight to save her small town's theatre. Poignant British drama based on a true story starring Samantha Morton.</desc>
-    <date>2025-09-30</date>
+  <programme channel="9315" start="20251001001500 +0000" stop="20251001020500 +0000">
+    <title lang="zh">Daddio</title>
+    <desc>During a taxi ride home, a young woman and her driver speak openly about relationships, power dynamics and loss. Sky Original film with Dakota Johnson and Sean Penn.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250930070000 +0000" stop="20250930090000 +0000">
-    <title lang="zh">Exhibiting Forgiveness</title>
-    <desc>A Black artist on the path to success is derailed by an unexpected visit from his estranged father, a recovering addict desperate to reconcile.</desc>
-    <date>2025-09-30</date>
+  <programme channel="9315" start="20251001020500 +0000" stop="20251001042000 +0000">
+    <title lang="zh">A Good Person</title>
+    <desc>Drama about how one split second can change the trajectory of our lives. Sky Original film written and directed by Zach Braff, starring Morgan Freeman and Florence Pugh.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250930090000 +0000" stop="20250930111500 +0000">
-    <title lang="zh">Ferrari</title>
-    <desc>Ex-Formula 1 racer Enzo Ferrari launches his team into the perilous 1,000-mile Mille Miglia race. Sky Original film from Michael Mann with Adam Driver and PenÃ©lope Cruz.</desc>
-    <date>2025-09-30</date>
+  <programme channel="9315" start="20251001042000 +0000" stop="20251001050000 +0000">
+    <title lang="zh">Sky Cinema Preview</title>
+    <desc>Previews of the great films now playing on Sky Cinema plus other highlights showing on Sky.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250930111500 +0000" stop="20250930131500 +0000">
-    <title lang="zh">Lee</title>
-    <desc>Discover Lee Miller, the war photographer who heroically documented the truth of the Nazi regime. Sky Original film with Kate Winslet.</desc>
-    <date>2025-09-30</date>
+  <programme channel="9315" start="20251001050000 +0000" stop="20251001063000 +0000">
+    <title lang="zh">Sick</title>
+    <desc>While quarantining at her family's lake house during the pandemic, student Parker and her best friend encounter an unexpected visitor. Slasher from the creator of Scream.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250930131500 +0000" stop="20250930150000 +0000">
-    <title lang="zh">Luckiest Man In America</title>
-    <desc>An unemployed ice cream truck driver steps onto the game show Press Your Luck harbouring a secret: the key to endless money. Thriller with Walton Goggins.</desc>
-    <date>2025-09-30</date>
+  <programme channel="9315" start="20251001063000 +0000" stop="20251001080500 +0000">
+    <title lang="zh">Arcadian</title>
+    <desc>On a decimated Earth, a father and his twin sons must fight to survive against the ferocious creatures who awaken at night. Horror thriller starring Nicolas Cage.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250930150000 +0000" stop="20250930171500 +0000">
-    <title lang="zh">William Tell</title>
-    <desc>The Holy Roman Empire where Europe's nations fiercely vie for supremacy and the Austrians, desiring more land, encroach upon Switzerland, a serene, pastoral nation.</desc>
-    <date>2025-09-30</date>
+  <programme channel="9315" start="20251001080500 +0000" stop="20251001095000 +0000">
+    <title lang="zh">Annabelle</title>
+    <desc>In this creepy prequel to hit horror The Conjuring, a married couple are tormented by a doll that has been possessed by an evil spirit.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250930171500 +0000" stop="20250930190000 +0000">
-    <title lang="zh">Cleaner</title>
-    <desc>Ex-soldier-turned-window-cleaner Daisy Ridley is tasked with rescuing 300 hostages after activists hijack a gala in a skyscraper. From the director of Casino Royale.</desc>
-    <date>2025-09-30</date>
+  <programme channel="9315" start="20251001095000 +0000" stop="20251001114500 +0000">
+    <title lang="zh">Annabelle: Creation</title>
+    <desc>Young orphan Linda finds herself drawn to a creepy porcelain doll that seems to have evil in its cold, dead eyes... Horror.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250930190000 +0000" stop="20250930204500 +0000">
-    <title lang="zh">Fight Or Flight</title>
-    <desc>Wildly entertaining, gory action thriller from the producers of John Wick. Josh Hartnett takes on a plane full of assassins in a first-class fight for survival.</desc>
-    <date>2025-09-30</date>
+  <programme channel="9315" start="20251001114500 +0000" stop="20251001131500 +0000">
+    <title lang="zh">Lovely, Dark, And Deep</title>
+    <desc>A new back-country ranger travels alone through the dangerous wilderness, hoping to uncover the origins of a tragedy that has haunted her since childhood.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250930204500 +0000" stop="20250930222000 +0000">
-    <title lang="zh">Get Away</title>
-    <desc>Get ready for a killer holiday! A family getaway turns deadly when they encounter a serial killer on their island. Sky Original horror with Nick Frost. With strong violence.</desc>
-    <date>2025-09-30</date>
+  <programme channel="9315" start="20251001131500 +0000" stop="20251001145000 +0000">
+    <title lang="zh">Ouija</title>
+    <desc>A group of friends open themselves up to a terrifying ordeal when they attempt to summon spirits through a Ouija board. Horror. Violence/mature themes/flashing images.</desc>
+    <date>2025-10-01</date>
   </programme>
-  <programme channel="9315" start="20250930222000 +0000" stop="20251001000000 +0000">
-    <title lang="zh">Sharp Corner</title>
-    <desc>A dedicated family man becomes obsessed with saving car accident victims on the corner in front of his house - an obsession that could cost him everything. Thriller.</desc>
-    <date>2025-09-30</date>
+  <programme channel="9315" start="20251001145000 +0000" stop="20251001163500 +0000">
+    <title lang="zh">Insidious</title>
+    <desc>Couple Rose Byrne and Patrick Wilson discover that their new home is haunted. Unnerving horror from the makers of Saw.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="9315" start="20251001163500 +0000" stop="20251001182500 +0000">
+    <title lang="zh">Insidious 2</title>
+    <desc>The Lambert family face more torment as it emerges that they still have a connection with the spirit world. Rose Byrne and Patrick Wilson star.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="9315" start="20251001182500 +0000" stop="20251001200000 +0000">
+    <title lang="zh">A Quiet Place</title>
+    <desc>Survival thriller following a family living in constant fear of alien creatures who hunt by sound. John Krasinski and Emily Blunt star.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="9315" start="20251001200000 +0000" stop="20251001222500 +0000">
+    <title lang="zh">The Shining</title>
+    <desc>Caretaking a remote hotel, writer Jack Nicholson slowly succumbs to murderous insanity. Stanley Kubrick directs this unsettling horror classic. Contains violent scenes.</desc>
+    <date>2025-10-01</date>
+  </programme>
+  <programme channel="9315" start="20251001222500 +0000" stop="20251002000000 +0000">
+    <title lang="zh">Annabelle</title>
+    <desc>In this creepy prequel to hit horror The Conjuring, a married couple are tormented by a doll that has been possessed by an evil spirit.</desc>
+    <date>2025-10-01</date>
   </programme>
 </tv>
