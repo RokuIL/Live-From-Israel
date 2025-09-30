@@ -301,7 +301,7 @@
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "10179",
             "EPGBackupProvider": "WGP.ENG",
-            "EPGBackupStationId": "403793",
+            "EPGBackupStationId": "447026",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -321,7 +321,7 @@
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "12444",
             "EPGBackupProvider": "WGP.ENG",
-            "EPGBackupStationId": "403821",
+            "EPGBackupStationId": "447031&",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -359,7 +359,7 @@
             "TitleEng": "Sky Sports NFL",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkySportsNFL.png",
             "EPGProvider": "WGP.ENG",
-            "EPGStationId": "199136",
+            "EPGStationId": "454969",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -481,7 +481,7 @@
             "TitleEng": "Fox News",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png",
             "EPGProvider": "WGP.ENG",
-            "EPGStationId": "403903",
+            "EPGStationId": "446980&",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -499,7 +499,7 @@
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "113380",
             "EPGBackupProvider": "WGP.ENG",
-            "EPGBackupStationId": "399930",
+            "EPGBackupStationId": "3474",
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
