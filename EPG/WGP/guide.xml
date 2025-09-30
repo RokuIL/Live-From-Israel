@@ -131,6 +131,7 @@
   </channel>
   <channel id="NBC News NOW">
     <display-name lang="en">NBC News NOW</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99991247/56x56.webp?type=color_onBlack" />
     <url>http://www.xumo.com</url>
   </channel>
   <channel id="3474">
@@ -9123,6 +9124,215 @@
   <programme start="20251006031000 +0000" stop="20251006050000 +0000" channel="Sky Cinema Premiere">
     <title lang="en">Panda Plan</title>
     <desc lang="en">An international action superstar gets involved in a rescue operation of a beloved zoo panda named Hu Hu. Chinese comedy, starring Jackie Chan and Xiang Wei, with subtitles.</desc>
+  </programme>
+  <programme start="20250930000000 +0000" stop="20250930010000 +0000" channel="NBC News NOW">
+    <title lang="en">Stay Tuned NOW With Gadi Schwartz</title>
+    <desc lang="en">A fresh look at the day's news, from the latest breaking news to what's on the horizon.(n)</desc>
+  </programme>
+  <programme start="20250930010000 +0000" stop="20250930020000 +0000" channel="NBC News NOW">
+    <title lang="en">Top Story With Tom Llamas</title>
+    <desc lang="en">Reporting of breaking news and developing stories in real time.(n)</desc>
+  </programme>
+  <programme start="20250930020000 +0000" stop="20250930023000 +0000" channel="NBC News NOW">
+    <title lang="en">NBC Nightly News With Tom Llamas</title>
+    <desc lang="en">Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)</desc>
+  </programme>
+  <programme start="20250930023000 +0000" stop="20250930033000 +0000" channel="NBC News NOW">
+    <title lang="en">Stay Tuned NOW With Gadi Schwartz</title>
+    <desc lang="en">A fresh look at the day's news, from the latest breaking news to what's on the horizon.(n)</desc>
+  </programme>
+  <programme start="20250930033000 +0000" stop="20250930040000 +0000" channel="NBC News NOW">
+    <title lang="en">NBC Nightly News With Tom Llamas</title>
+    <desc lang="en">Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)</desc>
+  </programme>
+  <programme start="20250930040000 +0000" stop="20250930050000 +0000" channel="NBC News NOW">
+    <title lang="en">Top Story With Tom Llamas</title>
+    <desc lang="en">Reporting of breaking news and developing stories in real time.(n)</desc>
+  </programme>
+  <programme start="20250930050000 +0000" stop="20250930060000 +0000" channel="NBC News NOW">
+    <title lang="en">Meet the Press NOW</title>
+    <desc lang="en">Looking at the key stories of the day with political newsmakers.(n)</desc>
+  </programme>
+  <programme start="20250930060000 +0000" stop="20250930080000 +0000" channel="NBC News NOW">
+    <title lang="en">Dateline NBC</title>
+    <sub-title lang="en">A Gathering Storm</sub-title>
+    <desc lang="en">As Hurricane Charley ravages a small town in Florida, a man trying to avoid his past hides out in a hotel room.(n)</desc>
+  </programme>
+  <programme start="20250930080000 +0000" stop="20250930090000 +0000" channel="NBC News NOW">
+    <title lang="en">Dateline NBC</title>
+    <sub-title lang="en">The Disappearance of Sandi Johnson</sub-title>
+    <desc lang="en">Authorities investigate multiple suspects when a vibrant young woman disappears on her son's fifth birthday.(n)</desc>
+  </programme>
+  <programme start="20250930090000 +0000" stop="20250930093000 +0000" channel="NBC News NOW">
+    <title lang="en">Early Today</title>
+    <desc lang="en">Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)</desc>
+  </programme>
+  <programme start="20250930093000 +0000" stop="20250930100000 +0000" channel="NBC News NOW">
+    <title lang="en">Early Today</title>
+    <desc lang="en">Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)</desc>
+  </programme>
+  <programme start="20250930100000 +0000" stop="20250930103000 +0000" channel="NBC News NOW">
+    <title lang="en">Early Today</title>
+    <desc lang="en">Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)</desc>
+  </programme>
+  <programme start="20250930103000 +0000" stop="20250930110000 +0000" channel="NBC News NOW">
+    <title lang="en">Early Today</title>
+    <desc lang="en">Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)</desc>
+  </programme>
+  <programme start="20250930110000 +0000" stop="20250930120000 +0000" channel="NBC News NOW">
+    <title lang="en">Morning News NOW</title>
+    <desc lang="en">Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)</desc>
+  </programme>
+  <programme start="20250930120000 +0000" stop="20250930130000 +0000" channel="NBC News NOW">
+    <title lang="en">Morning News NOW</title>
+    <desc lang="en">Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)</desc>
+  </programme>
+  <programme start="20250930130000 +0000" stop="20250930140000 +0000" channel="NBC News NOW">
+    <title lang="en">Morning News NOW</title>
+    <desc lang="en">Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)</desc>
+  </programme>
+  <programme start="20250930140000 +0000" stop="20250930150000 +0000" channel="NBC News NOW">
+    <title lang="en">Morning News NOW</title>
+    <desc lang="en">Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)</desc>
+  </programme>
+  <programme start="20250930150000 +0000" stop="20250930160000 +0000" channel="NBC News NOW">
+    <title lang="en">Morning News NOW</title>
+    <desc lang="en">Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)</desc>
+  </programme>
+  <programme start="20250930160000 +0000" stop="20250930170000 +0000" channel="NBC News NOW">
+    <title lang="en">NBC News Daily With Morgan Radford and Vicky Nguyen</title>
+    <desc lang="en">NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)</desc>
+  </programme>
+  <programme start="20250930170000 +0000" stop="20250930180000 +0000" channel="NBC News NOW">
+    <title lang="en">NBC News Daily With Morgan Radford and Vicky Nguyen</title>
+    <desc lang="en">NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)</desc>
+  </programme>
+  <programme start="20250930180000 +0000" stop="20250930190000 +0000" channel="NBC News NOW">
+    <title lang="en">NBC News Daily With Kate Snow and Zinhle Essamuah</title>
+    <desc lang="en">NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)</desc>
+  </programme>
+  <programme start="20250930190000 +0000" stop="20250930200000 +0000" channel="NBC News NOW">
+    <title lang="en">NBC News Daily With Kate Snow and Zinhle Essamuah</title>
+    <desc lang="en">NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)</desc>
+  </programme>
+  <programme start="20250930200000 +0000" stop="20250930210000 +0000" channel="NBC News NOW">
+    <title lang="en">Meet the Press NOW</title>
+    <desc lang="en">Looking at the key stories of the day with political newsmakers.(n)</desc>
+  </programme>
+  <programme start="20250930210000 +0000" stop="20250930230000 +0000" channel="NBC News NOW">
+    <title lang="en">Hallie Jackson NOW</title>
+    <desc lang="en">Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)</desc>
+  </programme>
+  <programme start="20250930230000 +0000" stop="20251001000000 +0000" channel="NBC News NOW">
+    <title lang="en">Top Story With Tom Llamas</title>
+    <desc lang="en">Reporting of breaking news and developing stories in real time.(n)</desc>
+  </programme>
+  <programme start="20251001000000 +0000" stop="20251001010000 +0000" channel="NBC News NOW">
+    <title lang="en">Stay Tuned NOW With Gadi Schwartz</title>
+    <desc lang="en">A fresh look at the day's news, from the latest breaking news to what's on the horizon.(n)</desc>
+  </programme>
+  <programme start="20251001010000 +0000" stop="20251001020000 +0000" channel="NBC News NOW">
+    <title lang="en">Top Story With Tom Llamas</title>
+    <desc lang="en">Reporting of breaking news and developing stories in real time.(n)</desc>
+  </programme>
+  <programme start="20251001020000 +0000" stop="20251001023000 +0000" channel="NBC News NOW">
+    <title lang="en">NBC Nightly News With Tom Llamas</title>
+    <desc lang="en">Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)</desc>
+  </programme>
+  <programme start="20251001023000 +0000" stop="20251001033000 +0000" channel="NBC News NOW">
+    <title lang="en">Stay Tuned NOW With Gadi Schwartz</title>
+    <desc lang="en">A fresh look at the day's news, from the latest breaking news to what's on the horizon.(n)</desc>
+  </programme>
+  <programme start="20251001033000 +0000" stop="20251001040000 +0000" channel="NBC News NOW">
+    <title lang="en">NBC Nightly News With Tom Llamas</title>
+    <desc lang="en">Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)</desc>
+  </programme>
+  <programme start="20251001040000 +0000" stop="20251001050000 +0000" channel="NBC News NOW">
+    <title lang="en">Top Story With Tom Llamas</title>
+    <desc lang="en">Reporting of breaking news and developing stories in real time.(n)</desc>
+  </programme>
+  <programme start="20251001050000 +0000" stop="20251001060000 +0000" channel="NBC News NOW">
+    <title lang="en">Meet the Press NOW</title>
+    <desc lang="en">Looking at the key stories of the day with political newsmakers.(n)</desc>
+  </programme>
+  <programme start="20251001060000 +0000" stop="20251001070000 +0000" channel="NBC News NOW">
+    <title lang="en">Dateline NBC</title>
+    <sub-title lang="en">One Small Dose</sub-title>
+    <desc lang="en">The drug-related death of a 17-year-old girl sheds light on a new class of synthetic drugs that has law enforcement agencies on alert.(n)</desc>
+  </programme>
+  <programme start="20251001070000 +0000" stop="20251001080000 +0000" channel="NBC News NOW">
+    <title lang="en">Dateline NBC</title>
+    <sub-title lang="en">Twisted Tale</sub-title>
+    <desc lang="en">When a woman returns two days after being reported abducted, authorities believe it's a hoax until a similar crime forces them to take another look; twenty-seven women who have accused Bill Cosby of assault get together to share their stories.(n)</desc>
+  </programme>
+  <programme start="20251001080000 +0000" stop="20251001090000 +0000" channel="NBC News NOW">
+    <title lang="en">Dateline NBC</title>
+    <sub-title lang="en">The Silhouette</sub-title>
+    <desc lang="en">When a San Antonio man shoots his wife, he claims to have shot her after mistaking her for an intruder.(n)</desc>
+  </programme>
+  <programme start="20251001090000 +0000" stop="20251001093000 +0000" channel="NBC News NOW">
+    <title lang="en">Early Today</title>
+    <desc lang="en">Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)</desc>
+  </programme>
+  <programme start="20251001093000 +0000" stop="20251001100000 +0000" channel="NBC News NOW">
+    <title lang="en">Early Today</title>
+    <desc lang="en">Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)</desc>
+  </programme>
+  <programme start="20251001100000 +0000" stop="20251001103000 +0000" channel="NBC News NOW">
+    <title lang="en">Early Today</title>
+    <desc lang="en">Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)</desc>
+  </programme>
+  <programme start="20251001103000 +0000" stop="20251001110000 +0000" channel="NBC News NOW">
+    <title lang="en">Early Today</title>
+    <desc lang="en">Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)</desc>
+  </programme>
+  <programme start="20251001110000 +0000" stop="20251001120000 +0000" channel="NBC News NOW">
+    <title lang="en">Morning News NOW</title>
+    <desc lang="en">Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)</desc>
+  </programme>
+  <programme start="20251001120000 +0000" stop="20251001130000 +0000" channel="NBC News NOW">
+    <title lang="en">Morning News NOW</title>
+    <desc lang="en">Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)</desc>
+  </programme>
+  <programme start="20251001130000 +0000" stop="20251001140000 +0000" channel="NBC News NOW">
+    <title lang="en">Morning News NOW</title>
+    <desc lang="en">Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)</desc>
+  </programme>
+  <programme start="20251001140000 +0000" stop="20251001150000 +0000" channel="NBC News NOW">
+    <title lang="en">Morning News NOW</title>
+    <desc lang="en">Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)</desc>
+  </programme>
+  <programme start="20251001150000 +0000" stop="20251001160000 +0000" channel="NBC News NOW">
+    <title lang="en">Morning News NOW</title>
+    <desc lang="en">Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)</desc>
+  </programme>
+  <programme start="20251001160000 +0000" stop="20251001170000 +0000" channel="NBC News NOW">
+    <title lang="en">NBC News Daily With Morgan Radford and Vicky Nguyen</title>
+    <desc lang="en">NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)</desc>
+  </programme>
+  <programme start="20251001170000 +0000" stop="20251001180000 +0000" channel="NBC News NOW">
+    <title lang="en">NBC News Daily With Morgan Radford and Vicky Nguyen</title>
+    <desc lang="en">NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)</desc>
+  </programme>
+  <programme start="20251001180000 +0000" stop="20251001190000 +0000" channel="NBC News NOW">
+    <title lang="en">NBC News Daily With Kate Snow and Zinhle Essamuah</title>
+    <desc lang="en">NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)</desc>
+  </programme>
+  <programme start="20251001190000 +0000" stop="20251001200000 +0000" channel="NBC News NOW">
+    <title lang="en">NBC News Daily With Kate Snow and Zinhle Essamuah</title>
+    <desc lang="en">NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)</desc>
+  </programme>
+  <programme start="20251001200000 +0000" stop="20251001210000 +0000" channel="NBC News NOW">
+    <title lang="en">Meet the Press NOW</title>
+    <desc lang="en">Looking at the key stories of the day with political newsmakers.(n)</desc>
+  </programme>
+  <programme start="20251001210000 +0000" stop="20251001230000 +0000" channel="NBC News NOW">
+    <title lang="en">Hallie Jackson NOW</title>
+    <desc lang="en">Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)</desc>
+  </programme>
+  <programme start="20251001230000 +0000" stop="20251002000000 +0000" channel="NBC News NOW">
+    <title lang="en">Top Story With Tom Llamas</title>
+    <desc lang="en">Reporting of breaking news and developing stories in real time.(n)</desc>
   </programme>
   <programme start="20251002000000 +0000" stop="20251002010000 +0000" channel="NBC News NOW">
     <title lang="en">Stay Tuned NOW With Gadi Schwartz</title>
