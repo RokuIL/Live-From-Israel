@@ -321,7 +321,7 @@
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "12444",
             "EPGBackupProvider": "WGP.ENG",
-            "EPGBackupStationId": "447031&",
+            "EPGBackupStationId": "447031",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -481,7 +481,7 @@
             "TitleEng": "Fox News",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png",
             "EPGProvider": "WGP.ENG",
-            "EPGStationId": "446980&",
+            "EPGStationId": "446980",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
