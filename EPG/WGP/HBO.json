@@ -1,25 +1,5 @@
 [
     {
-        "start":  "2025-10-03T20:49:00.0000000",
-        "title":  "The Case Against Adnan Syed",
-        "end":  "2025-10-03T21:52:00.0000000"
-    },
-    {
-        "start":  "2025-10-04T02:00:00.0000000",
-        "title":  "Real Time With Bill Maher",
-        "end":  "2025-10-04T03:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-04T03:00:00.0000000",
-        "title":  "Task",
-        "end":  "2025-10-04T04:05:00.0000000"
-    },
-    {
-        "start":  "2025-10-04T04:05:00.0000000",
-        "title":  "Real Time With Bill Maher",
-        "end":  "2025-10-04T04:05:00.0000000"
-    },
-    {
         "start":  "2025-10-04T04:05:00.0000000",
         "title":  "Real Time With Bill Maher",
         "end":  "2025-10-04T05:05:00.0000000"
@@ -43,21 +23,6 @@
         "start":  "2025-10-05T02:50:00.0000000",
         "title":  "Real Time With Bill Maher",
         "end":  "2025-10-05T03:50:00.0000000"
-    },
-    {
-        "start":  "2025-10-05T04:05:00.0000000",
-        "title":  "Real Time With Bill Maher",
-        "end":  "2025-10-05T04:05:00.0000000"
-    },
-    {
-        "start":  "2025-10-05T04:05:00.0000000",
-        "title":  "Real Time With Bill Maher",
-        "end":  "2025-10-05T05:05:00.0000000"
-    },
-    {
-        "start":  "2025-10-05T05:05:00.0000000",
-        "title":  "Real Time With Bill Maher",
-        "end":  "2025-10-05T06:05:00.0000000"
     },
     {
         "start":  "2025-10-05T17:22:00.0000000",
@@ -248,5 +213,20 @@
         "start":  "2025-10-09T01:46:00.0000000",
         "title":  "Task: Vagrants - Season 1, Episode 5",
         "end":  "2025-10-09T02:50:00.0000000"
+    },
+    {
+        "start":  "2025-10-09T13:57:00.0000000",
+        "title":  "The Case Against Adnan Syed",
+        "end":  "2025-10-09T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-09T23:19:00.0000000",
+        "title":  "Last Week Tonight With John Oliver",
+        "end":  "2025-10-10T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-10T01:38:00.0000000",
+        "title":  "Task: Vagrants - Season 1, Episode 5",
+        "end":  "2025-10-10T02:43:00.0000000"
     }
 ]

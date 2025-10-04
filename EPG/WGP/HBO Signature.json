@@ -1,25 +1,5 @@
 [
     {
-        "start":  "2025-10-04T19:59:00.0000000",
-        "title":  "Task: Crossings - Season 1, Episode 1",
-        "end":  "2025-10-04T21:05:00.0000000"
-    },
-    {
-        "start":  "2025-10-04T21:05:00.0000000",
-        "title":  "Task: Family Statements - Season 1, Episode 2",
-        "end":  "2025-10-04T22:05:00.0000000"
-    },
-    {
-        "start":  "2025-10-04T22:05:00.0000000",
-        "title":  "Task: Nobody\u0027s Stronger Than Forgiveness - Season 1, Episode 3",
-        "end":  "2025-10-04T23:07:00.0000000"
-    },
-    {
-        "start":  "2025-10-04T23:07:00.0000000",
-        "title":  "Task",
-        "end":  "2025-10-05T00:11:00.0000000"
-    },
-    {
         "start":  "2025-10-05T14:52:00.0000000",
         "title":  "Task: Crossings - Season 1, Episode 1",
         "end":  "2025-10-05T15:58:00.0000000"
@@ -38,11 +18,6 @@
         "start":  "2025-10-05T18:00:00.0000000",
         "title":  "Task",
         "end":  "2025-10-05T19:04:00.0000000"
-    },
-    {
-        "start":  "2025-10-05T19:13:00.0000000",
-        "title":  "Task",
-        "end":  "2025-10-05T20:18:00.0000000"
     },
     {
         "start":  "2025-10-06T16:05:00.0000000",
@@ -73,5 +48,45 @@
         "start":  "2025-10-09T02:08:00.0000000",
         "title":  "To Be Announced",
         "end":  "2025-10-09T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-09T19:15:00.0000000",
+        "title":  "Task: Crossings - Season 1, Episode 1",
+        "end":  "2025-10-09T20:21:00.0000000"
+    },
+    {
+        "start":  "2025-10-09T20:21:00.0000000",
+        "title":  "Task: Family Statements - Season 1, Episode 2",
+        "end":  "2025-10-09T21:21:00.0000000"
+    },
+    {
+        "start":  "2025-10-09T21:21:00.0000000",
+        "title":  "Task: Nobody\u0027s Stronger Than Forgiveness - Season 1, Episode 3",
+        "end":  "2025-10-09T22:23:00.0000000"
+    },
+    {
+        "start":  "2025-10-09T22:23:00.0000000",
+        "title":  "Task",
+        "end":  "2025-10-09T23:25:00.0000000"
+    },
+    {
+        "start":  "2025-10-09T23:25:00.0000000",
+        "title":  "Task: Vagrants - Season 1, Episode 5",
+        "end":  "2025-10-10T01:08:00.0000000"
+    },
+    {
+        "start":  "2025-10-10T01:08:00.0000000",
+        "title":  "To Be Announced",
+        "end":  "2025-10-10T02:08:00.0000000"
+    },
+    {
+        "start":  "2025-10-10T02:08:00.0000000",
+        "title":  "To Be Announced",
+        "end":  "2025-10-10T02:24:00.0000000"
+    },
+    {
+        "start":  "2025-10-10T02:24:00.0000000",
+        "title":  "To Be Announced",
+        "end":  "2025-10-10T04:28:00.0000000"
     }
 ]
