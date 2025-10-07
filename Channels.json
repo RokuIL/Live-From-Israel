@@ -489,7 +489,8 @@
                 "Referer:https://forcedtoplay.xyz/"
             ],
             "StreamUrls": [
-                "https://zekonew.newkso.ru/zeko/premium347/mono.m3u8"
+                "https://zekonew.newkso.ru/zeko/premium347/mono.m3u8",
+                "https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8"
             ]
         },
         {
@@ -502,6 +503,7 @@
             "EPGBackupStationId": "465150",
             "StreamFormat": "hls",
             "StreamUrls": [
+                "https://apollo.production-public.tubi.io/live/abc-news-live-nhpfy1/1280x720.m3u8?ap.ss=a0c1df9116739b8efd3f5c24e6137621&ap.sid=638e3140-dfcc-4598-9aee-57c5c4b7f649&ap.pt=2",
                 "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
             ]
         },
@@ -538,7 +540,8 @@
             "StreamUrls": [
                 "https://livevideo01.king5.com/hls/live/2006665/live/live.m3u8",
                 "https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/live/live.m3u8",
-                "https://content.uplynk.com/SuNoSwen/index.m3u8?channel=233"
+                "https://content.uplynk.com/SuNoSwen/index.m3u8?channel=233",
+                "https://apollo.production-public.tubi.io/live/king-seattle-5-67qmeR/1280x720.m3u8?ap.pt=2&ap.sid=efe82635-a5a6-4ade-a743-8db341e5b102&ap.ss=ffd5cf211e4a8a2d40178550f1fd469c"
             ]
         },
         {
@@ -549,7 +552,8 @@
             "EPGStationId": "שידור חדשות חי, או הקלטת החדשות האחרונות.",        
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://content.uplynk.com/SuNoSwen/index.m3u8?channel=106"
+                "https://content.uplynk.com/SuNoSwen/index.m3u8?channel=106",
+                "https://apollo.production-public.tubi.io/live/kiro-seattle-5cNfBm/1280x720.m3u8?ap.pt=2&ap.sid=50d8a2f9-a230-4892-977f-8cc06eaba6aa&ap.ss=1e88b73cf096f8aaa3f701b4a9bb5267"
             ]
         },
         {
@@ -560,7 +564,7 @@
             "EPGStationId": "שידור חדשות חי, או הקלטת החדשות האחרונות.",        
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://csm-e-eb.csm.tubi.video/csm/live/622835763.m3u8?playback_start_ts=1704666696&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=555107&content_type=mp4&device_id=caec4c21-b9fb-4e15-bcc4-33cc34e9e679&language=en&now_pos=0&platform=WEB&pub_id=0a2ada522f8db273c200b95eee98d316&vpaid_enabled=true&yo.eb.fb=aHR0cHM6Ly9saXZlLW1hbmlmZXN0LnByb2R1Y3Rpb24tcHVibGljLnR1YmkuaW8vbGl2ZS9rY3BxL2gyNjQvcGxheWxpc3QubTN1OD90b2tlbj1leUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIzVnVkSEo1SWpvaVZWTWlMQ0prWlhacFkyVmZhV1FpT2lKallXVmpOR015TVMxaU9XWmlMVFJsTVRVdFltTmpOQzB6TTJOak16UmxPV1UyTnpraUxDSmxlSEFpT2pFM01EUTVNalU0T1RNc0ltbHpjeUk2SW14cGRtVmZibVYzYzE5dFlXNXBabVZ6ZENJc0luQnNZWFJtYjNKdElqb2lWMFZDSWl3aWNuTnpJam9pWkhVNlZrbEVSVTlmVWtWVFQweFZWRWxQVGw4M01qQlFJaXdpZFhObGNsOXBaQ0k2TUgwLnVvWnJQazBncG53a0cwOWpiR0F2S3dEb1hoMkNxX1o5Mm1GeE9DZHdISjZ3T0xMRW1kbzNsM1lYd0h2TGFhMUJfQVpmazhIeXFTRDR4YlVweTdiZmpR"
+                "https://apollo.production-public.tubi.io/live/fox-13-seattle-CmT2CL/1280x720.m3u8?ap.pt=2&ap.sid=f597a1b0-5b2e-446b-abd2-bd1d957bdbd3&ap.ss=bb5a08d4440755a2718eb90a0229d963"
             ]
         },
         {
