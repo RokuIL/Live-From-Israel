@@ -540,8 +540,7 @@
             "StreamUrls": [
                 "https://livevideo01.king5.com/hls/live/2006665/live/live.m3u8",
                 "https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/live/live.m3u8",
-                "https://content.uplynk.com/SuNoSwen/index.m3u8?channel=233",
-                "https://apollo.production-public.tubi.io/live/king-seattle-5-67qmeR/1280x720.m3u8?ap.pt=2&ap.sid=efe82635-a5a6-4ade-a743-8db341e5b102&ap.ss=ffd5cf211e4a8a2d40178550f1fd469c"
+                "https://content.uplynk.com/SuNoSwen/index.m3u8?channel=233"
             ]
         },
         {
@@ -552,8 +551,7 @@
             "EPGStationId": "שידור חדשות חי, או הקלטת החדשות האחרונות.",        
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://content.uplynk.com/SuNoSwen/index.m3u8?channel=106",
-                "https://apollo.production-public.tubi.io/live/kiro-seattle-5cNfBm/1280x720.m3u8?ap.pt=2&ap.sid=50d8a2f9-a230-4892-977f-8cc06eaba6aa&ap.ss=1e88b73cf096f8aaa3f701b4a9bb5267"
+                "https://content.uplynk.com/SuNoSwen/index.m3u8?channel=106"
             ]
         },
         {
@@ -564,7 +562,6 @@
             "EPGStationId": "שידור חדשות חי, או הקלטת החדשות האחרונות.",        
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://apollo.production-public.tubi.io/live/fox-13-seattle-CmT2CL/1280x720.m3u8?ap.pt=2&ap.sid=f597a1b0-5b2e-446b-abd2-bd1d957bdbd3&ap.ss=bb5a08d4440755a2718eb90a0229d963"
             ]
         },
         {
