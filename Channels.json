@@ -377,7 +377,7 @@
             "TitleEng": "Sky Sports Main Event",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkySportsMainEvent.png",
             "EPGProvider": "WGP.ENG",
-            "EPGStationId": "Sky%20Sports%20Main%20Event",
+            "EPGStationId": "7673",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
@@ -466,7 +466,7 @@
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "10142",
             "EPGBackupProvider": "WGP.ENG",
-            "EPGBackupStationId": "CNN",
+            "EPGBackupStationId": "465021",
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://d1vnr7amzbx49s.cloudfront.net/index.m3u8",
@@ -481,7 +481,7 @@
             "TitleEng": "Fox News",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png",
             "EPGProvider": "WGP.ENG",
-            "EPGStationId": "446980",
+            "EPGStationId": "465372",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -499,7 +499,7 @@
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "113380",
             "EPGBackupProvider": "WGP.ENG",
-            "EPGBackupStationId": "3474",
+            "EPGBackupStationId": "465150",
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
@@ -584,7 +584,7 @@
             "TitleEng": "NBC NY",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNY.png",
             "EPGProvider": "WGP.ENG",
-            "EPGStationId": "403619",
+            "EPGStationId": "465059",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -600,7 +600,7 @@
             "TitleEng": "CBS NY",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CBSNY.png",
             "EPGProvider": "WGP.ENG",
-            "EPGStationId": "403849",
+            "EPGStationId": "464994",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
