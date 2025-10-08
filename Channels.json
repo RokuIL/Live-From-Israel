@@ -503,7 +503,6 @@
             "EPGBackupStationId": "465150",
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://apollo.production-public.tubi.io/live/abc-news-live-nhpfy1/1280x720.m3u8?ap.ss=a0c1df9116739b8efd3f5c24e6137621&ap.sid=638e3140-dfcc-4598-9aee-57c5c4b7f649&ap.pt=2",
                 "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
             ]
         },
