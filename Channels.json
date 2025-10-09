@@ -470,8 +470,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz https://usnewson.com",
-                "Referer:https://newembedplay.xyz/ https://usnewson.com/"
+                "Origin:https://usnewson.com https://newembedplay.xyz",
+                "Referer:https://usnewson.com/ https://newembedplay.xyz/"
             ],            
             "StreamUrls": [
                 "https://d1vnr7amzbx49s.cloudfront.net/index.m3u8",
@@ -491,8 +491,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://forcedtoplay.xyz https://usnewson.com",
-                "Referer:https://forcedtoplay.xyz/ https://usnewson.com/"
+                "Origin:https://usnewson.com https://forcedtoplay.xyz",
+                "Referer:https://usnewson.com/ https://forcedtoplay.xyz/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium347/mono.m3u8",
