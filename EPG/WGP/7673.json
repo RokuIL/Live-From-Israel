@@ -1,165 +1,5 @@
 [
     {
-        "start":  "2025-10-15T00:00:00.0000000",
-        "title":  "Through the Night",
-        "end":  "2025-10-15T01:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-15T01:00:00.0000000",
-        "title":  "Through the Night",
-        "end":  "2025-10-15T02:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-15T02:00:00.0000000",
-        "title":  "Through the Night",
-        "end":  "2025-10-15T03:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-15T03:00:00.0000000",
-        "title":  "Through the Night",
-        "end":  "2025-10-15T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-15T04:00:00.0000000",
-        "title":  "Through the Night",
-        "end":  "2025-10-15T06:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-15T06:00:00.0000000",
-        "title":  "â‹— Sky Sports Breakfast",
-        "end":  "2025-10-15T06:30:00.0000000"
-    },
-    {
-        "start":  "2025-10-15T06:30:00.0000000",
-        "title":  "â‹— Sky Sports Breakfast",
-        "end":  "2025-10-15T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-15T07:00:00.0000000",
-        "title":  "â‹— Sky Sports Breakfast",
-        "end":  "2025-10-15T07:30:00.0000000"
-    },
-    {
-        "start":  "2025-10-15T07:30:00.0000000",
-        "title":  "â‹— Sky Sports Breakfast",
-        "end":  "2025-10-15T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-15T08:00:00.0000000",
-        "title":  "â‹— Sky Sports Breakfast",
-        "end":  "2025-10-15T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-15T09:00:00.0000000",
-        "title":  "â‹— ICC Women\u0027s World Cup Cricket. England v Pakistan",
-        "end":  "2025-10-15T16:45:00.0000000"
-    },
-    {
-        "start":  "2025-10-15T16:45:00.0000000",
-        "title":  "â‹— The Premier League Show",
-        "end":  "2025-10-15T17:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-15T17:00:00.0000000",
-        "title":  "The Premier League Show",
-        "end":  "2025-10-15T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-15T18:00:00.0000000",
-        "title":  "â‹— Sky Sports News Special. Sports Centre October",
-        "end":  "2025-10-15T19:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-15T19:00:00.0000000",
-        "title":  "â‹— Sky Sports News Special. Sports Centre October",
-        "end":  "2025-10-15T20:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-15T20:00:00.0000000",
-        "title":  "â‹— Sky Sports News Special. Sports Centre October",
-        "end":  "2025-10-15T21:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-15T21:00:00.0000000",
-        "title":  "â‹— Through the Night",
-        "end":  "2025-10-15T21:30:00.0000000"
-    },
-    {
-        "start":  "2025-10-15T21:30:00.0000000",
-        "title":  "â‹— Back Pages Tonight",
-        "end":  "2025-10-15T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-15T22:00:00.0000000",
-        "title":  "â‹— Through the Night",
-        "end":  "2025-10-15T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-15T23:00:00.0000000",
-        "title":  "Through the Night",
-        "end":  "2025-10-16T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-16T00:00:00.0000000",
-        "title":  "Through the Night",
-        "end":  "2025-10-16T01:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-16T01:00:00.0000000",
-        "title":  "Through the Night",
-        "end":  "2025-10-16T02:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-16T02:00:00.0000000",
-        "title":  "Through the Night",
-        "end":  "2025-10-16T05:30:00.0000000"
-    },
-    {
-        "start":  "2025-10-16T05:30:00.0000000",
-        "title":  "â‹— India Championship, DP World Tour Golf. Day 1",
-        "end":  "2025-10-16T11:30:00.0000000"
-    },
-    {
-        "start":  "2025-10-16T11:30:00.0000000",
-        "title":  "â‹— ICC Women\u0027s World Cup Cricket. Australia v Bangladesh",
-        "end":  "2025-10-16T16:45:00.0000000"
-    },
-    {
-        "start":  "2025-10-16T16:45:00.0000000",
-        "title":  "â‹— The Premier League Show",
-        "end":  "2025-10-16T17:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-16T17:00:00.0000000",
-        "title":  "â‹— The Premier League Show",
-        "end":  "2025-10-16T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-16T18:00:00.0000000",
-        "title":  "â‹— Sky Sports News Special. Sports Centre October",
-        "end":  "2025-10-16T18:30:00.0000000"
-    },
-    {
-        "start":  "2025-10-16T18:30:00.0000000",
-        "title":  "â‹— EFL. Huddersfield Town v Bolton Wanderers",
-        "end":  "2025-10-16T21:30:00.0000000"
-    },
-    {
-        "start":  "2025-10-16T21:30:00.0000000",
-        "title":  "â‹— Back Pages Tonight",
-        "end":  "2025-10-16T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-16T22:00:00.0000000",
-        "title":  "â‹— Through the Night",
-        "end":  "2025-10-16T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-16T23:00:00.0000000",
-        "title":  "â‹— NFL Football. Pittsburgh Steelers at Cincinnati Bengals",
-        "end":  "2025-10-17T00:00:00.0000000"
-    },
-    {
         "start":  "2025-10-16T00:00:00.0000000",
         "title":  "Through the Night",
         "end":  "2025-10-16T01:00:00.0000000"
@@ -372,6 +212,136 @@
     {
         "start":  "2025-10-19T00:00:00.0000000",
         "title":  "The Sky Sports Catch-Up",
+        "end":  "2025-10-20T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-18T00:00:00.0000000",
+        "title":  "Through the Night",
+        "end":  "2025-10-18T01:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-18T01:00:00.0000000",
+        "title":  "Through the Night",
+        "end":  "2025-10-18T02:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-18T02:00:00.0000000",
+        "title":  "Through the Night",
+        "end":  "2025-10-18T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-18T03:00:00.0000000",
+        "title":  "Through the Night",
+        "end":  "2025-10-18T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-18T04:00:00.0000000",
+        "title":  "â‹— BMW Ladies Championship LPGA Golf. Day 3",
+        "end":  "2025-10-18T06:30:00.0000000"
+    },
+    {
+        "start":  "2025-10-18T06:30:00.0000000",
+        "title":  "â‹— India Championship, DP World Tour Golf. Day 3",
+        "end":  "2025-10-18T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-18T10:00:00.0000000",
+        "title":  "â‹— EFL. Queens Park Rangers v Millwall",
+        "end":  "2025-10-18T14:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-18T14:00:00.0000000",
+        "title":  "â‹— ICC Women\u0027s World Cup Cricket. New Zealand v Pakistan",
+        "end":  "2025-10-18T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-18T16:00:00.0000000",
+        "title":  "â‹— Saturday Night Football. Fulham v Arsenal",
+        "end":  "2025-10-18T19:30:00.0000000"
+    },
+    {
+        "start":  "2025-10-18T19:30:00.0000000",
+        "title":  "â‹— Match Centre",
+        "end":  "2025-10-18T20:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-18T20:00:00.0000000",
+        "title":  "â‹— Formula 1. United States Grand Prix: Qualifying",
+        "end":  "2025-10-18T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-18T23:00:00.0000000",
+        "title":  "â‹— Ted\u0027s Notebook. United States Grand Prix: Qualifying",
+        "end":  "2025-10-18T23:30:00.0000000"
+    },
+    {
+        "start":  "2025-10-18T23:30:00.0000000",
+        "title":  "The Sky Sports Catch-Up",
+        "end":  "2025-10-19T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-19T00:00:00.0000000",
+        "title":  "The Sky Sports Catch-Up",
+        "end":  "2025-10-19T01:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-19T01:00:00.0000000",
+        "title":  "The Sky Sports Catch-Up",
+        "end":  "2025-10-19T02:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-19T02:00:00.0000000",
+        "title":  "The Sky Sports Catch-Up",
+        "end":  "2025-10-19T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-19T03:00:00.0000000",
+        "title":  "The Sky Sports Catch-Up",
+        "end":  "2025-10-19T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-19T04:00:00.0000000",
+        "title":  "â‹— BMW Ladies Championship LPGA Golf. Day 4",
+        "end":  "2025-10-19T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-19T06:00:00.0000000",
+        "title":  "â‹— India Championship, DP World Tour Golf. Day 4",
+        "end":  "2025-10-19T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-19T09:00:00.0000000",
+        "title":  "â‹— ICC Women\u0027s World Cup Cricket. India v England",
+        "end":  "2025-10-19T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-19T12:00:00.0000000",
+        "title":  "â‹— Premier League. Tottenham Hotspur v Aston Villa",
+        "end":  "2025-10-19T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-19T15:00:00.0000000",
+        "title":  "â‹— Premier League. Liverpool v Manchester United",
+        "end":  "2025-10-19T18:30:00.0000000"
+    },
+    {
+        "start":  "2025-10-19T18:30:00.0000000",
+        "title":  "â‹— Formula 1. United States Grand Prix: Grand Prix Sunday",
+        "end":  "2025-10-19T18:55:00.0000000"
+    },
+    {
+        "start":  "2025-10-19T18:55:00.0000000",
+        "title":  "â‹— Formula 1. United States Grand Prix: Race",
+        "end":  "2025-10-19T21:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-19T21:00:00.0000000",
+        "title":  "â‹— NFL Football. Week 7: TBA at TBA",
+        "end":  "2025-10-19T23:30:00.0000000"
+    },
+    {
+        "start":  "2025-10-19T23:30:00.0000000",
+        "title":  "â‹— Football Night in America",
         "end":  "2025-10-20T00:00:00.0000000"
     }
 ]
