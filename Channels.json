@@ -9,6 +9,29 @@
     "TimeZoneOffset": "3",
     "Channels": [
         {
+            "Title": "סיאטל סיהוקס או מרינרז",
+            "TitleEng": "Seattle Seahawks or Mariners",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png",
+            "EPGProvider": "Text",
+            "EPGStationId": "שידור ישיר בזמן משחק.",        
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
+                "Origin:https://kondoplay.cfd",
+                "Referer:https://kondoplay.cfd/"
+            ],
+            "StreamUrls": [
+                "https://nfsnew.newkso.ru/nfs/premium13/mono.m3u8",
+                "https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8",
+                "https://windnew.newkso.ru/wind/premium406/mono.m3u8",
+                "https://windnew.newkso.ru/wind/premium407/mono.m3u8",
+                "https://windnew.newkso.ru/wind/premium408/mono.m3u8",
+                "https://zekonew.newkso.ru/zeko/premium39/mono.m3u8"
+            ]
+        },
+        {
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
@@ -19,8 +42,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://kondoplay.cfd",
+                "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
                 "https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8",
@@ -38,8 +61,8 @@
             "EPGBackupStationId": "Keshet%2012",       
             "StreamFormat": "hls",
             "Headers": [
-                "Origin:https://www.n12.co.il https://newembedplay.xyz",
-                "Referer:https://www.n12.co.il/ https://newembedplay.xyz/",
+                "Origin:https://www.n12.co.il https://kondoplay.cfd",
+                "Referer:https://www.n12.co.il/ https://kondoplay.cfd/",
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0"
             ],
             "StreamUrls": [
@@ -64,8 +87,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://kondoplay.cfd",
+                "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
                 "https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8",
@@ -122,8 +145,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://kondoplay.cfd",
+                "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium140/mono.m3u8"
@@ -141,8 +164,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://kondoplay.cfd",
+                "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium141/mono.m3u8"
@@ -160,8 +183,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://kondoplay.cfd",
+                "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium142/mono.m3u8"
@@ -179,8 +202,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://kondoplay.cfd",
+                "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium143/mono.m3u8"
@@ -198,8 +221,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://kondoplay.cfd",
+                "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium144/mono.m3u8"
@@ -215,8 +238,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://kondoplay.cfd",
+                "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium145/mono.m3u8"
@@ -234,8 +257,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://kondoplay.cfd",
+                "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium146/mono.m3u8"
@@ -253,8 +276,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://kondoplay.cfd",
+                "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium147/mono.m3u8"
@@ -270,8 +293,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://kondoplay.cfd",
+                "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
                 "https://windnew.newkso.ru/wind/premium541/mono.m3u8"
@@ -287,8 +310,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://kondoplay.cfd",
+                "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
                 "https://ddy6new.newkso.ru/ddy6/premium542/mono.m3u8"
@@ -306,8 +329,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz https://topembed.pw",
-                "Referer:https://newembedplay.xyz/ https://topembed.pw/"
+                "Origin:https://kondoplay.cfd https://topembed.pw",
+                "Referer:https://kondoplay.cfd/ https://topembed.pw/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium44/mono.m3u8",
@@ -326,8 +349,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz https://topembed.pw",
-                "Referer:https://newembedplay.xyz/ https://topembed.pw/"
+                "Origin:https://kondoplay.cfd https://topembed.pw",
+                "Referer:https://kondoplay.cfd/ https://topembed.pw/"
             ],
             "StreamUrls": [
                 "https://windnew.newkso.ru/wind/premium45/mono.m3u8",
@@ -346,8 +369,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz https://topembed.pw",
-                "Referer:https://newembedplay.xyz/ https://topembed.pw/"
+                "Origin:https://kondoplay.cfd https://topembed.pw",
+                "Referer:https://kondoplay.cfd/ https://topembed.pw/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium405/mono.m3u8",
@@ -364,8 +387,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz https://topembed.pw",
-                "Referer:https://newembedplay.xyz/ https://topembed.pw/"
+                "Origin:https://kondoplay.cfd https://topembed.pw",
+                "Referer:https://kondoplay.cfd/ https://topembed.pw/"
             ],
             "StreamUrls": [
                 "https://nfsnew.newkso.ru/nfs/premium37/mono.m3u8",
@@ -382,8 +405,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz https://topembed.pw",
-                "Referer:https://newembedplay.xyz/ https://topembed.pw/"
+                "Origin:https://kondoplay.cfd https://topembed.pw",
+                "Referer:https://kondoplay.cfd/ https://topembed.pw/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium38/mono.m3u8",
@@ -400,8 +423,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://kondoplay.cfd",
+                "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium544/mono.m3u8"
@@ -417,8 +440,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://kondoplay.cfd",
+                "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium543/mono.m3u8"
@@ -435,8 +458,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://kondoplay.cfd",
+                "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium543/mono.m3u8"
@@ -452,8 +475,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://kondoplay.cfd",
+                "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium545/mono.m3u8"
@@ -470,8 +493,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://usnewson.com https://newembedplay.xyz",
-                "Referer:https://usnewson.com/ https://newembedplay.xyz/"
+                "Origin:https://usnewson.com https://kondoplay.cfd",
+                "Referer:https://usnewson.com/ https://kondoplay.cfd/"
             ],            
             "StreamUrls": [
                 "https://d1vnr7amzbx49s.cloudfront.net/index.m3u8",
@@ -579,8 +602,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://kondoplay.cfd",
+                "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium766/mono.m3u8"
@@ -595,8 +618,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://kondoplay.cfd",
+                "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium769/mono.m3u8"
@@ -611,8 +634,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://kondoplay.cfd",
+                "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium767/mono.m3u8"
@@ -627,8 +650,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://kondoplay.cfd",
+                "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium768/mono.m3u8"
@@ -644,8 +667,8 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz",
-                "Referer:https://newembedplay.xyz/"
+                "Origin:https://kondoplay.cfd",
+                "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium[1]-[900]/mono.m3u8"
