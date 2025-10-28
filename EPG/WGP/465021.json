@@ -1,335 +1,5 @@
 [
     {
-        "start":  "2025-10-27T00:00:00.0000000",
-        "title":  "CNN Newsroom",
-        "end":  "2025-10-27T01:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T01:00:00.0000000",
-        "title":  "Fareed Zakaria GPS",
-        "end":  "2025-10-27T02:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T02:00:00.0000000",
-        "title":  "African Voices: Changemakers",
-        "end":  "2025-10-27T02:30:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T02:30:00.0000000",
-        "title":  "Marketplace Europe",
-        "end":  "2025-10-27T02:45:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T02:45:00.0000000",
-        "title":  "Marketplace Asia",
-        "end":  "2025-10-27T03:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T03:00:00.0000000",
-        "title":  "POV: Edo",
-        "end":  "2025-10-27T03:30:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T03:30:00.0000000",
-        "title":  "Inside Africa",
-        "end":  "2025-10-27T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T04:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "end":  "2025-10-27T04:45:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T04:45:00.0000000",
-        "title":  "World Sport",
-        "end":  "2025-10-27T05:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T05:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "end":  "2025-10-27T06:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T06:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "end":  "2025-10-27T06:45:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T06:45:00.0000000",
-        "title":  "World Sport",
-        "end":  "2025-10-27T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T07:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "end":  "2025-10-27T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T08:00:00.0000000",
-        "title":  "The Amanpour Hour",
-        "end":  "2025-10-27T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T09:00:00.0000000",
-        "title":  "Live: Early Start With Rahel Solomon",
-        "end":  "2025-10-27T10:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T10:00:00.0000000",
-        "title":  "Live: CNN This Morning",
-        "end":  "2025-10-27T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T11:00:00.0000000",
-        "title":  "Live: CNN News Central",
-        "end":  "2025-10-27T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T12:00:00.0000000",
-        "title":  "Live: CNN News Central",
-        "end":  "2025-10-27T12:30:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T12:30:00.0000000",
-        "title":  "Live: World Sport",
-        "end":  "2025-10-27T13:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T13:00:00.0000000",
-        "title":  "Live: Connect the World",
-        "end":  "2025-10-27T13:45:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T13:45:00.0000000",
-        "title":  "Live: World Sport",
-        "end":  "2025-10-27T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T14:00:00.0000000",
-        "title":  "Live: Connect the World",
-        "end":  "2025-10-27T15:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T15:00:00.0000000",
-        "title":  "Live: One World With Zain Asher and Bianna Golodryga",
-        "end":  "2025-10-27T16:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T16:00:00.0000000",
-        "title":  "Live: One World With Zain Asher and Bianna Golodryga",
-        "end":  "2025-10-27T16:45:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T16:45:00.0000000",
-        "title":  "African Voices: Changemakers",
-        "end":  "2025-10-27T17:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T17:00:00.0000000",
-        "title":  "Live: Amanpour",
-        "end":  "2025-10-27T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T18:00:00.0000000",
-        "title":  "Live: Isa Soares Tonight",
-        "end":  "2025-10-27T19:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T19:00:00.0000000",
-        "title":  "Live: What We Know With Max Foster",
-        "end":  "2025-10-27T20:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T20:00:00.0000000",
-        "title":  "Live: Quest Means Business",
-        "end":  "2025-10-27T20:45:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T20:45:00.0000000",
-        "title":  "Quest\u0027s World of Wonder",
-        "end":  "2025-10-27T21:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T21:00:00.0000000",
-        "title":  "Live: The Lead With Jake Tapper",
-        "end":  "2025-10-27T21:30:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T21:30:00.0000000",
-        "title":  "Live: World Sport",
-        "end":  "2025-10-27T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T22:00:00.0000000",
-        "title":  "Live: The Brief with Jim Sciutto",
-        "end":  "2025-10-27T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-27T23:00:00.0000000",
-        "title":  "Live: Erin Burnett OutFront",
-        "end":  "2025-10-28T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T00:00:00.0000000",
-        "title":  "Live: Anderson Cooper 360",
-        "end":  "2025-10-28T01:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T01:00:00.0000000",
-        "title":  "Live: The Source With Kaitlan Collins",
-        "end":  "2025-10-28T02:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T02:00:00.0000000",
-        "title":  "Live: CNN NewsNight With Abby Phillip",
-        "end":  "2025-10-28T03:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T03:00:00.0000000",
-        "title":  "Laura Coates Live",
-        "end":  "2025-10-28T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T04:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "end":  "2025-10-28T04:45:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T04:45:00.0000000",
-        "title":  "World Sport",
-        "end":  "2025-10-28T05:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T05:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "end":  "2025-10-28T06:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T06:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "end":  "2025-10-28T06:45:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T06:45:00.0000000",
-        "title":  "World Sport",
-        "end":  "2025-10-28T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T07:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "end":  "2025-10-28T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T08:00:00.0000000",
-        "title":  "Amanpour",
-        "end":  "2025-10-28T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T09:00:00.0000000",
-        "title":  "Live: Early Start With Rahel Solomon",
-        "end":  "2025-10-28T10:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T10:00:00.0000000",
-        "title":  "Live: CNN This Morning",
-        "end":  "2025-10-28T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T11:00:00.0000000",
-        "title":  "Live: CNN News Central",
-        "end":  "2025-10-28T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T12:00:00.0000000",
-        "title":  "Live: CNN News Central",
-        "end":  "2025-10-28T12:30:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T12:30:00.0000000",
-        "title":  "Live: World Sport",
-        "end":  "2025-10-28T13:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T13:00:00.0000000",
-        "title":  "Live: Connect the World",
-        "end":  "2025-10-28T13:45:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T13:45:00.0000000",
-        "title":  "Live: World Sport",
-        "end":  "2025-10-28T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T14:00:00.0000000",
-        "title":  "Live: Connect the World",
-        "end":  "2025-10-28T15:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T15:00:00.0000000",
-        "title":  "Live: One World With Zain Asher and Bianna Golodryga",
-        "end":  "2025-10-28T16:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T16:00:00.0000000",
-        "title":  "Live: One World With Zain Asher and Bianna Golodryga",
-        "end":  "2025-10-28T16:45:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T16:45:00.0000000",
-        "title":  "African Voices: Changemakers",
-        "end":  "2025-10-28T17:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T17:00:00.0000000",
-        "title":  "Live: Amanpour",
-        "end":  "2025-10-28T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T18:00:00.0000000",
-        "title":  "Live: Isa Soares Tonight",
-        "end":  "2025-10-28T19:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T19:00:00.0000000",
-        "title":  "Live: What We Know With Max Foster",
-        "end":  "2025-10-28T20:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T20:00:00.0000000",
-        "title":  "Live: Quest Means Business",
-        "end":  "2025-10-28T20:45:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T20:45:00.0000000",
-        "title":  "Quest\u0027s World of Wonder",
-        "end":  "2025-10-28T21:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T21:00:00.0000000",
-        "title":  "Live: The Lead With Jake Tapper",
-        "end":  "2025-10-28T21:30:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T21:30:00.0000000",
-        "title":  "Live: World Sport",
-        "end":  "2025-10-28T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T22:00:00.0000000",
-        "title":  "Live: The Brief with Jim Sciutto",
-        "end":  "2025-10-28T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-28T23:00:00.0000000",
-        "title":  "Live: Erin Burnett OutFront",
-        "end":  "2025-10-29T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-29T00:00:00.0000000",
-        "title":  "Live: Anderson Cooper 360",
-        "end":  "2025-10-30T00:00:00.0000000"
-    },
-    {
         "start":  "2025-10-28T00:00:00.0000000",
         "title":  "Live: Anderson Cooper 360",
         "end":  "2025-10-28T01:00:00.0000000"
@@ -798,6 +468,36 @@
         "start":  "2025-10-29T23:00:00.0000000",
         "title":  "Live: Erin Burnett OutFront",
         "end":  "2025-10-30T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-30T00:00:00.0000000",
+        "title":  "Live: Anderson Cooper 360",
+        "end":  "2025-10-30T01:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-30T01:00:00.0000000",
+        "title":  "Live: The Source With Kaitlan Collins",
+        "end":  "2025-10-30T02:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-30T02:00:00.0000000",
+        "title":  "Live: CNN NewsNight With Abby Phillip",
+        "end":  "2025-10-30T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-30T03:00:00.0000000",
+        "title":  "Laura Coates Live",
+        "end":  "2025-10-30T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-30T04:00:00.0000000",
+        "title":  "Live: CNN Newsroom",
+        "end":  "2025-10-30T04:45:00.0000000"
+    },
+    {
+        "start":  "2025-10-30T04:45:00.0000000",
+        "title":  "World Sport",
+        "end":  "2025-10-31T00:00:00.0000000"
     },
     {
         "start":  "2025-10-30T00:00:00.0000000",
