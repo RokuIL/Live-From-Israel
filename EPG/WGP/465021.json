@@ -1,325 +1,5 @@
 [
     {
-        "start":  "2025-10-31T00:00:00.0000000",
-        "title":  "Live: Anderson Cooper 360",
-        "end":  "2025-10-31T01:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T01:00:00.0000000",
-        "title":  "Live: The Source With Kaitlan Collins",
-        "end":  "2025-10-31T02:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T02:00:00.0000000",
-        "title":  "Live: CNN NewsNight With Abby Phillip",
-        "end":  "2025-10-31T03:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T03:00:00.0000000",
-        "title":  "Laura Coates Live",
-        "end":  "2025-10-31T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T04:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "end":  "2025-10-31T04:45:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T04:45:00.0000000",
-        "title":  "World Sport",
-        "end":  "2025-10-31T05:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T05:00:00.0000000",
-        "title":  "Live: The Story Is With Elex Michaelson",
-        "end":  "2025-10-31T05:45:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T05:45:00.0000000",
-        "title":  "World Sport",
-        "end":  "2025-10-31T06:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T06:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "end":  "2025-10-31T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T07:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "end":  "2025-10-31T07:45:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T07:45:00.0000000",
-        "title":  "World Sport",
-        "end":  "2025-10-31T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T08:00:00.0000000",
-        "title":  "Amanpour",
-        "end":  "2025-10-31T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T09:00:00.0000000",
-        "title":  "Live: Early Start With Rahel Solomon",
-        "end":  "2025-10-31T10:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T10:00:00.0000000",
-        "title":  "Live: CNN This Morning",
-        "end":  "2025-10-31T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T11:00:00.0000000",
-        "title":  "Live: CNN News Central",
-        "end":  "2025-10-31T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T12:00:00.0000000",
-        "title":  "Live: CNN News Central",
-        "end":  "2025-10-31T12:30:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T12:30:00.0000000",
-        "title":  "Live: World Sport",
-        "end":  "2025-10-31T13:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T13:00:00.0000000",
-        "title":  "Live: Connect the World",
-        "end":  "2025-10-31T13:45:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T13:45:00.0000000",
-        "title":  "Live: World Sport",
-        "end":  "2025-10-31T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T14:00:00.0000000",
-        "title":  "Live: Connect the World",
-        "end":  "2025-10-31T15:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T15:00:00.0000000",
-        "title":  "Live: One World With Zain Asher and Bianna Golodryga",
-        "end":  "2025-10-31T16:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T16:00:00.0000000",
-        "title":  "Live: One World With Zain Asher and Bianna Golodryga",
-        "end":  "2025-10-31T16:45:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T16:45:00.0000000",
-        "title":  "Marketplace Africa",
-        "end":  "2025-10-31T17:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T17:00:00.0000000",
-        "title":  "Live: Amanpour",
-        "end":  "2025-10-31T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T18:00:00.0000000",
-        "title":  "Live: Isa Soares Tonight",
-        "end":  "2025-10-31T19:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T19:00:00.0000000",
-        "title":  "Live: What We Know With Max Foster",
-        "end":  "2025-10-31T20:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T20:00:00.0000000",
-        "title":  "Live: Quest Means Business",
-        "end":  "2025-10-31T21:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T21:00:00.0000000",
-        "title":  "Live: The Lead With Jake Tapper",
-        "end":  "2025-10-31T21:30:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T21:30:00.0000000",
-        "title":  "Live: World Sport",
-        "end":  "2025-10-31T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T22:00:00.0000000",
-        "title":  "Live: The Brief with Jim Sciutto",
-        "end":  "2025-10-31T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-31T23:00:00.0000000",
-        "title":  "Live: Erin Burnett OutFront",
-        "end":  "2025-11-01T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T00:00:00.0000000",
-        "title":  "Live: Anderson Cooper 360",
-        "end":  "2025-11-01T01:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T01:00:00.0000000",
-        "title":  "Live: The Source With Kaitlan Collins",
-        "end":  "2025-11-01T02:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T02:00:00.0000000",
-        "title":  "Live: CNN NewsNight With Abby Phillip",
-        "end":  "2025-11-01T03:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T03:00:00.0000000",
-        "title":  "Laura Coates Live",
-        "end":  "2025-11-01T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T04:00:00.0000000",
-        "title":  "Live: The Story Is With Elex Michaelson",
-        "end":  "2025-11-01T05:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T05:00:00.0000000",
-        "title":  "Live: The Story Is With Elex Michaelson",
-        "end":  "2025-11-01T05:45:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T05:45:00.0000000",
-        "title":  "World Sport",
-        "end":  "2025-11-01T06:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T06:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "end":  "2025-11-01T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T07:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "end":  "2025-11-01T07:45:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T07:45:00.0000000",
-        "title":  "World Sport",
-        "end":  "2025-11-01T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T08:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "end":  "2025-11-01T08:30:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T08:30:00.0000000",
-        "title":  "CNN Creators: The Intro",
-        "end":  "2025-11-01T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T09:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "end":  "2025-11-01T10:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T10:00:00.0000000",
-        "title":  "African Voices: Changemakers",
-        "end":  "2025-11-01T10:30:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T10:30:00.0000000",
-        "title":  "Tech for Good",
-        "end":  "2025-11-01T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T11:00:00.0000000",
-        "title":  "CNN This Morning Weekend",
-        "end":  "2025-11-01T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T12:00:00.0000000",
-        "title":  "First of All With Victor Blackwell",
-        "end":  "2025-11-01T13:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T13:00:00.0000000",
-        "title":  "Live: Smerconish",
-        "end":  "2025-11-01T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T14:00:00.0000000",
-        "title":  "CNN Creators: The Intro",
-        "end":  "2025-11-01T14:30:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T14:30:00.0000000",
-        "title":  "Inside Africa",
-        "end":  "2025-11-01T15:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T15:00:00.0000000",
-        "title":  "The Amanpour Hour",
-        "end":  "2025-11-01T16:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T16:00:00.0000000",
-        "title":  "Live: World Sport",
-        "end":  "2025-11-01T16:30:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T16:30:00.0000000",
-        "title":  "Marketplace Europe",
-        "end":  "2025-11-01T16:45:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T16:45:00.0000000",
-        "title":  "Marketplace Africa",
-        "end":  "2025-11-01T17:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T17:00:00.0000000",
-        "title":  "Live: CNN Newsroom Saturday",
-        "end":  "2025-11-01T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T18:00:00.0000000",
-        "title":  "Live: CNN Newsroom Saturday",
-        "end":  "2025-11-01T19:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T19:00:00.0000000",
-        "title":  "Live: CNN Newsroom Saturday",
-        "end":  "2025-11-01T20:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T20:00:00.0000000",
-        "title":  "Smerconish",
-        "end":  "2025-11-01T21:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T21:00:00.0000000",
-        "title":  "Live: World Sport",
-        "end":  "2025-11-01T21:30:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T21:30:00.0000000",
-        "title":  "CNN Creators: The Intro",
-        "end":  "2025-11-01T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T22:00:00.0000000",
-        "title":  "Live: CNN Newsroom Saturday",
-        "end":  "2025-11-01T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-01T23:00:00.0000000",
-        "title":  "Live: CNN Newsroom Saturday",
-        "end":  "2025-11-02T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-02T00:00:00.0000000",
-        "title":  "Smerconish",
-        "end":  "2025-11-03T00:00:00.0000000"
-    },
-    {
         "start":  "2025-11-01T00:00:00.0000000",
         "title":  "Live: Anderson Cooper 360",
         "end":  "2025-11-01T01:00:00.0000000"
@@ -853,6 +533,46 @@
         "start":  "2025-11-02T23:00:00.0000000",
         "title":  "Live: CNN Newsroom Sunday",
         "end":  "2025-11-03T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-11-03T00:00:00.0000000",
+        "title":  "Live: CNN Newsroom Sunday",
+        "end":  "2025-11-03T01:00:00.0000000"
+    },
+    {
+        "start":  "2025-11-03T01:00:00.0000000",
+        "title":  "The Whole Story With Anderson Cooper",
+        "end":  "2025-11-03T02:00:00.0000000"
+    },
+    {
+        "start":  "2025-11-03T02:00:00.0000000",
+        "title":  "Fareed Zakaria GPS",
+        "end":  "2025-11-03T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-11-03T03:00:00.0000000",
+        "title":  "African Voices: Changemakers",
+        "end":  "2025-11-03T03:30:00.0000000"
+    },
+    {
+        "start":  "2025-11-03T03:30:00.0000000",
+        "title":  "Marketplace Middle East",
+        "end":  "2025-11-03T03:45:00.0000000"
+    },
+    {
+        "start":  "2025-11-03T03:45:00.0000000",
+        "title":  "Marketplace Africa",
+        "end":  "2025-11-03T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-11-03T04:00:00.0000000",
+        "title":  "Visionaries",
+        "end":  "2025-11-03T04:30:00.0000000"
+    },
+    {
+        "start":  "2025-11-03T04:30:00.0000000",
+        "title":  "Inside Africa",
+        "end":  "2025-11-04T00:00:00.0000000"
     },
     {
         "start":  "2025-11-03T00:00:00.0000000",
