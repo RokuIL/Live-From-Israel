@@ -9,26 +9,6 @@
     "TimeZoneOffset": "2",
     "Channels": [
         {
-            "Title": "סיאטל סיהוקס",
-            "TitleEng": "Seattle Seahawks",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png",
-            "EPGProvider": "Text",
-            "EPGStationId": "שידור ישיר בזמן משחק.",        
-            "Private": "True",
-            "BufferingTimer": "1",
-            "StreamFormat": "hls",
-            "Headers": [
-                "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz https://epicplayplay.cfd",
-                "Referer:https://newembedplay.xyz/ https://epicplayplay.cfd/"
-            ],
-            "StreamUrls": [
-                "https://card-images-save-two.s3.us-east-1.amazonaws.com/hls/1080p/playlist.m3u8?token=fwb6pz7odfj&v=1762721439243",
-                "https://v8.thetvapp.to/hls/NFL08/tracks-v1a1/mono.m3u8?token=iPev2mmUnqG8u8kJNaE0Tw&expires=1762743260&user_id=MVVCMGFTaVhPN2QxTlFvMEVHVE9NOU5Ibk9HUFNuU1M2Qk1NRWRqUg==",
-                "https://thetvapp.to/v1/jwplayer6/ping.gif?h=743553433&e=s&n=9301421623287425&aid=axJWTrOeEeSWKw4AfQhyIQ&amp=0&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=7&emi=a2nn5o8ipx1s&i=0&lid=1ta688em51wb&lsa=read&mt=1&pbd=1&pbr=1&pgi=1w41jvd4y7p1&ph=0&pii=0&pl=482&plc=1&pli=zk26e53xd771&pp=hlsjs&ppm=LIVE&prc=1&ps=4&pss=1&pt=Arizona%20Cardinals%20%40%20Seattle%20Seahawks%20live%20stream%20-%20TheTVApp.to&pu=https%3A%2F%2Fthetvapp.to%2Fevent%2Farizona-cardinals-seattle-seahawks-740b843794cc89176c4ffe38b66d30d9%2F&pv=8.36.4&pyc=1&s=1&sdk=0&stc=1&stpe=0&tv=4.0.7&vb=1&vi=1&vl=90&wd=856&abm=1&bwe=12382&cae=0&cct=2&ch=2&cst=28.995000000000008&cdid=my-jwplayer&drm=0&ff=3140&fsm=0&l=0&lng=en&mk=hls&mu=https%3A%2F%2Fv8.thetvapp.to%2Fhls%2FNFL08%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3DiPev2mmUnqG8u8kJNaE0Tw%26expires%3D1762743260%26user_id%3DMVVCMGFTaVhPN2QxTlFvMEVHVE9NOU5Ibk9HUFNuU1M2Qk1NRWRqUg%3D%3D&pcp=33&pd=2&pdr=&plng=en&pni=0&pr=2&q=0&qcr=initial%20choice&sbr=0&sp=0&strt=3140&tb=35.3&tt=0&vd=0&vh=360&vs=0&vw=640&sa=1762721663380"
-            ]
-        },
-        {
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
