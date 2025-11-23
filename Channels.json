@@ -9,6 +9,28 @@
     "TimeZoneOffset": "2",
     "Channels": [
         {
+            "Title": "סיאטל סיהוקס",
+            "TitleEng": "Seattle Seahawks",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png",
+            "EPGProvider": "Text",
+            "EPGStationId": "שידור ישיר בזמן משחק.",        
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
+                "Origin:https://newembedplay.xyz https://epicplayplay.cfd https://arizonaplay.club",
+                "Referer:https://newembedplay.xyz/ https://epicplayplay.cfd/ https://arizonaplay.club/"
+            ],
+            "StreamUrls": [
+                "https://s3.dualstack.us-east-2.amazonaws.com/cam.edu//hls/1080p/playlist.m3u8?token=yb02kx5rqzd",
+                "https://broadcasthub.click/hls/G5Uhm3RHXKZm/index.m3u8?st=HGmnfD_KGiNuh2MI-M9xZg&e=1763930766",
+                "https://broadcasthub.click/hls/G5Uhm3RHXKZm/index.m3u8?st=W6c7JQLLsnXJQiu0gfw2vQ&e=1763930807",
+                "https://azplay.live/hls/HDGQ5/index.m3u8?st=VE0X9cuJSf8hRkGb_sTuDQ&amp;e=1763930842",
+                "https://v18.thetvapp.to/hls/NFL07/tracks-v1a1/mono.m3u8?token=jp9yZcmNcqYPhNrpangcaw&expires=1763941754&user_id=Q0FOVXBkQlRYWkxZNlhBajRpUUsxZVdLMksxS2lwWDV3c01xSUhKNw=="
+            ]
+        },
+        {
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
