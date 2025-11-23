@@ -1,170 +1,5 @@
 [
     {
-        "start":  "2025-11-22T01:00:00.0000000",
-        "title":  "Live: College Football",
-        "end":  "2025-11-22T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-22T04:00:00.0000000",
-        "title":  "Live: SportsCenter With Scott Van Pelt",
-        "end":  "2025-11-22T05:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-22T05:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-11-22T06:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-22T06:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-11-22T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-22T07:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2025-11-22T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-22T08:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2025-11-22T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-22T09:00:00.0000000",
-        "title":  "College Football",
-        "end":  "2025-11-22T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-22T11:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2025-11-22T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-22T12:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-11-22T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-22T14:00:00.0000000",
-        "title":  "Live: College GameDay",
-        "end":  "2025-11-22T17:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-22T17:00:00.0000000",
-        "title":  "Live: College Football",
-        "end":  "2025-11-22T20:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-22T20:00:00.0000000",
-        "title":  "Live: College Football Scoreboard",
-        "end":  "2025-11-22T20:30:00.0000000"
-    },
-    {
-        "start":  "2025-11-22T20:30:00.0000000",
-        "title":  "Live: College Football",
-        "end":  "2025-11-22T23:30:00.0000000"
-    },
-    {
-        "start":  "2025-11-22T23:30:00.0000000",
-        "title":  "Live: College Football Scoreboard",
-        "end":  "2025-11-23T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-23T00:00:00.0000000",
-        "title":  "Live: College Football",
-        "end":  "2025-11-23T03:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-23T03:00:00.0000000",
-        "title":  "Formula 1 Grand Prix Sunday",
-        "end":  "2025-11-23T03:55:00.0000000"
-    },
-    {
-        "start":  "2025-11-23T03:55:00.0000000",
-        "title":  "Live: Formula 1 Racing",
-        "end":  "2025-11-23T06:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-23T06:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-11-23T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-23T07:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-11-23T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-23T08:00:00.0000000",
-        "title":  "College Football Final",
-        "end":  "2025-11-23T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-23T09:00:00.0000000",
-        "title":  "NFL Matchup",
-        "end":  "2025-11-23T09:30:00.0000000"
-    },
-    {
-        "start":  "2025-11-23T09:30:00.0000000",
-        "title":  "College Football",
-        "end":  "2025-11-23T11:30:00.0000000"
-    },
-    {
-        "start":  "2025-11-23T11:30:00.0000000",
-        "title":  "NFL Matchup",
-        "end":  "2025-11-23T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-23T12:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-11-23T13:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-23T13:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-11-23T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-23T14:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-11-23T15:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-23T15:00:00.0000000",
-        "title":  "Live: Sunday NFL Countdown",
-        "end":  "2025-11-23T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-23T18:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "end":  "2025-11-23T20:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-23T20:00:00.0000000",
-        "title":  "College Basketball Live Scoreboard",
-        "end":  "2025-11-23T20:30:00.0000000"
-    },
-    {
-        "start":  "2025-11-23T20:30:00.0000000",
-        "title":  "Live: College Basketball",
-        "end":  "2025-11-23T22:30:00.0000000"
-    },
-    {
-        "start":  "2025-11-23T22:30:00.0000000",
-        "title":  "College Football Final",
-        "end":  "2025-11-23T23:30:00.0000000"
-    },
-    {
-        "start":  "2025-11-23T23:30:00.0000000",
-        "title":  "WNBA Draft Lottery Special",
-        "end":  "2025-11-24T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-24T00:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-11-25T00:00:00.0000000"
-    },
-    {
         "start":  "2025-11-23T00:00:00.0000000",
         "title":  "Live: College Football",
         "end":  "2025-11-23T03:00:00.0000000"
@@ -453,6 +288,26 @@
         "start":  "2025-11-24T23:00:00.0000000",
         "title":  "Live: Monday Night Countdown",
         "end":  "2025-11-25T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-11-25T01:00:00.0000000",
+        "title":  "Live: NFL Football",
+        "end":  "2025-11-25T04:15:00.0000000"
+    },
+    {
+        "start":  "2025-11-25T04:15:00.0000000",
+        "title":  "Live: Monday Night Postgame",
+        "end":  "2025-11-25T04:30:00.0000000"
+    },
+    {
+        "start":  "2025-11-25T04:30:00.0000000",
+        "title":  "Live: SportsCenter With Scott Van Pelt",
+        "end":  "2025-11-25T05:30:00.0000000"
+    },
+    {
+        "start":  "2025-11-25T05:30:00.0000000",
+        "title":  "Live: SportsCenter",
+        "end":  "2025-11-26T00:00:00.0000000"
     },
     {
         "start":  "2025-11-25T01:00:00.0000000",
