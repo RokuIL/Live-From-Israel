@@ -1,180 +1,5 @@
 [
     {
-        "start":  "2025-11-25T00:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-11-25T01:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-25T01:00:00.0000000",
-        "title":  "Live: NFL Football",
-        "end":  "2025-11-25T04:15:00.0000000"
-    },
-    {
-        "start":  "2025-11-25T04:15:00.0000000",
-        "title":  "Live: Monday Night Postgame",
-        "end":  "2025-11-25T04:30:00.0000000"
-    },
-    {
-        "start":  "2025-11-25T04:30:00.0000000",
-        "title":  "Live: College Basketball",
-        "end":  "2025-11-25T06:30:00.0000000"
-    },
-    {
-        "start":  "2025-11-25T06:30:00.0000000",
-        "title":  "Pardon the Interruption",
-        "end":  "2025-11-25T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-25T07:00:00.0000000",
-        "title":  "The Kingdom",
-        "end":  "2025-11-25T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-25T08:00:00.0000000",
-        "title":  "The Kingdom",
-        "end":  "2025-11-25T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-25T09:00:00.0000000",
-        "title":  "The Kingdom",
-        "end":  "2025-11-25T10:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-25T10:00:00.0000000",
-        "title":  "The Kingdom",
-        "end":  "2025-11-25T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-25T11:00:00.0000000",
-        "title":  "Live: Unsportsmanlike with Evan, Canty and Michelle",
-        "end":  "2025-11-25T13:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-25T13:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-11-25T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-25T14:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-11-25T15:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-25T15:00:00.0000000",
-        "title":  "Live: Get Up",
-        "end":  "2025-11-25T17:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-25T17:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "end":  "2025-11-25T19:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-25T19:00:00.0000000",
-        "title":  "College Basketball Live Scoreboard",
-        "end":  "2025-11-25T19:30:00.0000000"
-    },
-    {
-        "start":  "2025-11-25T19:30:00.0000000",
-        "title":  "Live: College Basketball",
-        "end":  "2025-11-25T21:30:00.0000000"
-    },
-    {
-        "start":  "2025-11-25T21:30:00.0000000",
-        "title":  "College Basketball Live Scoreboard",
-        "end":  "2025-11-25T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-25T22:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "end":  "2025-11-26T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-26T00:00:00.0000000",
-        "title":  "College Basketball Live Scoreboard",
-        "end":  "2025-11-26T00:30:00.0000000"
-    },
-    {
-        "start":  "2025-11-26T00:30:00.0000000",
-        "title":  "Live: College Football",
-        "end":  "2025-11-26T03:30:00.0000000"
-    },
-    {
-        "start":  "2025-11-26T03:30:00.0000000",
-        "title":  "Live: College Basketball",
-        "end":  "2025-11-26T05:30:00.0000000"
-    },
-    {
-        "start":  "2025-11-26T05:30:00.0000000",
-        "title":  "Good Guy/Bad Guy",
-        "end":  "2025-11-26T06:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-26T06:00:00.0000000",
-        "title":  "NFL Live",
-        "end":  "2025-11-26T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-26T07:00:00.0000000",
-        "title":  "UFC Unleashed",
-        "end":  "2025-11-26T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-26T08:00:00.0000000",
-        "title":  "30 for 30",
-        "end":  "2025-11-26T10:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-26T10:00:00.0000000",
-        "title":  "NFL Live",
-        "end":  "2025-11-26T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-26T11:00:00.0000000",
-        "title":  "Live: Unsportsmanlike with Evan, Canty and Michelle",
-        "end":  "2025-11-26T13:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-26T13:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-11-26T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-26T14:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2025-11-26T15:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-26T15:00:00.0000000",
-        "title":  "Live: Get Up",
-        "end":  "2025-11-26T17:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-26T17:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "end":  "2025-11-26T19:00:00.0000000"
-    },
-    {
-        "start":  "2025-11-26T19:00:00.0000000",
-        "title":  "College Basketball Live Scoreboard",
-        "end":  "2025-11-26T19:30:00.0000000"
-    },
-    {
-        "start":  "2025-11-26T19:30:00.0000000",
-        "title":  "Live: College Basketball",
-        "end":  "2025-11-26T21:30:00.0000000"
-    },
-    {
-        "start":  "2025-11-26T21:30:00.0000000",
-        "title":  "College Basketball Live Scoreboard",
-        "end":  "2025-11-26T22:30:00.0000000"
-    },
-    {
-        "start":  "2025-11-26T22:30:00.0000000",
-        "title":  "Live: College Basketball",
-        "end":  "2025-11-27T00:00:00.0000000"
-    },
-    {
         "start":  "2025-11-26T00:00:00.0000000",
         "title":  "College Basketball Live Scoreboard",
         "end":  "2025-11-26T00:30:00.0000000"
@@ -438,6 +263,26 @@
         "start":  "2025-11-27T22:30:00.0000000",
         "title":  "Live: College Basketball",
         "end":  "2025-11-28T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-11-28T00:30:00.0000000",
+        "title":  "Live: College Basketball",
+        "end":  "2025-11-28T02:30:00.0000000"
+    },
+    {
+        "start":  "2025-11-28T02:30:00.0000000",
+        "title":  "Game On: Journey to the NCAA Championship",
+        "end":  "2025-11-28T03:30:00.0000000"
+    },
+    {
+        "start":  "2025-11-28T03:30:00.0000000",
+        "title":  "ESPN Films",
+        "end":  "2025-11-28T05:30:00.0000000"
+    },
+    {
+        "start":  "2025-11-28T05:30:00.0000000",
+        "title":  "The Path: LSU Football",
+        "end":  "2025-11-29T00:00:00.0000000"
     },
     {
         "start":  "2025-11-28T00:30:00.0000000",
