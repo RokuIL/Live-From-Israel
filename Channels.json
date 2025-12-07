@@ -9,28 +9,6 @@
     "TimeZoneOffset": "2",
     "Channels": [
         {
-            "Title": "סיאטל סיהוקס",
-            "TitleEng": "Seattle Seahawks",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png",
-            "EPGProvider": "Text",
-            "EPGStationId": "שידור ישיר בזמן משחק.",        
-            "Private": "True",
-            "BufferingTimer": "1",
-            "StreamFormat": "hls",
-            "Headers": [
-                "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz https://epicplayplay.cfd https://arizonaplay.club",
-                "Referer:https://newembedplay.xyz/ https://epicplayplay.cfd/ https://arizonaplay.club/"
-            ],
-            "StreamUrls": [
-                "https://s3.dualstack.us-east-2.amazonaws.com/cam.edu//hls/1080p/playlist.m3u8?token=bdhto73u1wa",
-                "https://thetvapp.to/v1/jwplayer6/ping.gif?h=220749099&e=s&n=6857099057094278&aid=axJWTrOeEeSWKw4AfQhyIQ&amp=0&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=7&emi=1sxfda11eev2&i=0&lid=1ta688em51wb&lsa=read&mt=0&pbd=1&pbr=1&pgi=x9xrsq1x23sd&ph=0&pii=0&pl=482&plc=1&pli=13v5na3cibc2&pp=hlsjs&ppm=LIVE&prc=1&ps=4&pss=1&pt=Seattle%20Seahawks%20%40%20Atlanta%20Falcons%20live%20stream%20-%20TheTVApp.to&pu=https%3A%2F%2Fthetvapp.to%2Fevent%2Fseattle-seahawks-atlanta-falcons-f0bdd27bbed46dfc3d0657500c95a96c%2F&pv=8.36.4&pyc=1&s=1&sdk=0&stc=1&stpe=0&tv=4.0.7&vb=1&vi=1&vl=90&wd=856&abm=1&bwe=4771&cae=0&cct=2&ch=2&cst=20.854&cdid=my-jwplayer&drm=0&ff=2800&fsm=0&l=0&lng=en&mk=hls&mu=https%3A%2F%2Fv2.thetvapp.to%2Fhls%2FNFL07%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3DT6wfYGvZMTjEV38q9hbvvg%26expires%3D1765148026%26user_id%3DZmhNSlJmNXFleXE2TG9WRkxERjMyV1k5TFNvaEZqRXlvSlRvZ3BDMQ%3D%3D&pcp=23&pd=2&pdr=https%3A%2F%2Fthetvapp.to%2Fnfl&plng=en&pni=0&pr=2&q=0&qcr=initial%20choice&sbr=0&sp=0&strt=2800&tb=25&tt=0&vd=0&vh=360&vs=0&vw=640&sa=1765126429055",
-                "https://broadcasthub.click/hls/jAWUJNXovKsn/index.m3u8?st=92zyVUuqou8nhDPutYQVFg&e=1765141523",
-                "https://broadcasthub.click/hls/jAWUJNXovKsn/index.m3u8?st=GTMWtjAJdZ8FMSqhKh9LfQ&e=1765141563",
-                "https://v2.thetvapp.to/hls/NFL07/tracks-v1a1/mono.m3u8?token=T6wfYGvZMTjEV38q9hbvvg&expires=1765148026&user_id=ZmhNSlJmNXFleXE2TG9WRkxERjMyV1k5TFNvaEZqRXlvSlRvZ3BDMQ=="
-            ]
-        },
-        {
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
