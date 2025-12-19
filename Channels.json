@@ -9,25 +9,6 @@
     "TimeZoneOffset": "2",
     "Channels": [
         {
-            "Title": "סיאטל סיהוקס",
-            "TitleEng": "Seattle Seahawks",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png",
-            "EPGProvider": "Text",
-            "EPGStationId": "שידור ישיר בזמן משחק.",        
-            "Private": "True",
-            "BufferingTimer": "1",
-            "StreamFormat": "hls",
-            "Headers": [
-                "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://newembedplay.xyz https://epicplayplay.cfd https://arizonaplay.club",
-                "Referer:https://newembedplay.xyz/ https://epicplayplay.cfd/ https://arizonaplay.club/"
-            ],
-            "StreamUrls": [
-                "https://yzarygw.7380990745.xyz:8443/hls/mzv3i4zdy4ig.m3u8?s=Yt-e3ButQJqpMIdpfeBI1Q&e=1766129127",
-                "https://s-c9.peulleieo.net/kirill/2o3uroli6ofozowera2e/master.m3u8?u_id=r2d6r1g3w7y5g5k3o6u5s6r2f7y2r3p8&ssid=MTc2NjExMzQ2My40YmM4YzcyMTMzZGRmOWIwNGEyMWUzY2ZmNDRiOTM1Yg"
-            ]
-        },  
-        {
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
