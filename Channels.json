@@ -180,11 +180,12 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://kondoplay.cfd",
-                "Referer:https://kondoplay.cfd/"
+                "Origin:https://epicplayplay.cfd https://kondoplay.cfd",
+                "Referer:https://epicplayplay.cfd/ https://kondoplay.cfd/"
             ],
             "StreamUrls": [
-                "https://zekonew.newkso.ru/zeko/premium144/mono.m3u8"
+                "https://zekonew.newkso.ru/zeko/premium144/mono.m3u8",
+                "https://s3.dualstack.us-east-2.amazonaws.com/cam.edu//hls/1080p/playlist.m3u8?token=z8swldb3vd"
             ]
         },
         {
