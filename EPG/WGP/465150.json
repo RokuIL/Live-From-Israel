@@ -547,6 +547,66 @@
     {
         "start":  "2025-12-31T05:30:00.0000000",
         "title":  "ABC World News Tonight With David Muir",
+        "end":  "2025-12-31T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T06:00:00.0000000",
+        "title":  "ABCNL Prime With Linsey Davis",
+        "end":  "2025-12-31T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T07:00:00.0000000",
+        "title":  "Live: ABC World News Now",
+        "end":  "2025-12-31T07:30:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T07:30:00.0000000",
+        "title":  "ABC World News Now",
+        "end":  "2025-12-31T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T08:00:00.0000000",
+        "title":  "Live: ABC World News Now",
+        "end":  "2025-12-31T08:30:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T08:30:00.0000000",
+        "title":  "ABC World News Now",
+        "end":  "2025-12-31T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T09:00:00.0000000",
+        "title":  "Live: Good Morning America First Look",
+        "end":  "2025-12-31T09:30:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T09:30:00.0000000",
+        "title":  "Good Morning America First Look",
+        "end":  "2025-12-31T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T10:00:00.0000000",
+        "title":  "Live: Good Morning America First Look",
+        "end":  "2025-12-31T10:30:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T10:30:00.0000000",
+        "title":  "Good Morning America First Look",
+        "end":  "2025-12-31T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T11:00:00.0000000",
+        "title":  "ABC News Live: New Year\u0027s Eve Around the World",
+        "end":  "2025-12-31T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T15:00:00.0000000",
+        "title":  "ABC News Live: New Year\u0027s Eve Around the World",
+        "end":  "2025-12-31T21:00:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T21:00:00.0000000",
+        "title":  "ABC News Live: New Year\u0027s Eve Around the World",
         "end":  "2026-01-01T00:00:00.0000000"
     },
     {
@@ -582,6 +642,76 @@
     {
         "start":  "2025-12-31T05:30:00.0000000",
         "title":  "ABC World News Tonight With David Muir",
+        "end":  "2025-12-31T06:00:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T06:00:00.0000000",
+        "title":  "ABCNL Prime With Linsey Davis",
+        "end":  "2025-12-31T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T07:00:00.0000000",
+        "title":  "Live: ABC World News Now",
+        "end":  "2025-12-31T07:30:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T07:30:00.0000000",
+        "title":  "ABC World News Now",
+        "end":  "2025-12-31T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T08:00:00.0000000",
+        "title":  "Live: ABC World News Now",
+        "end":  "2025-12-31T08:30:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T08:30:00.0000000",
+        "title":  "ABC World News Now",
+        "end":  "2025-12-31T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T09:00:00.0000000",
+        "title":  "Live: Good Morning America First Look",
+        "end":  "2025-12-31T09:30:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T09:30:00.0000000",
+        "title":  "Good Morning America First Look",
+        "end":  "2025-12-31T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T10:00:00.0000000",
+        "title":  "Live: Good Morning America First Look",
+        "end":  "2025-12-31T10:30:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T10:30:00.0000000",
+        "title":  "Good Morning America First Look",
+        "end":  "2025-12-31T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T11:00:00.0000000",
+        "title":  "ABC News Live: New Year\u0027s Eve Around the World",
+        "end":  "2025-12-31T15:00:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T15:00:00.0000000",
+        "title":  "ABC News Live: New Year\u0027s Eve Around the World",
+        "end":  "2025-12-31T21:00:00.0000000"
+    },
+    {
+        "start":  "2025-12-31T21:00:00.0000000",
+        "title":  "ABC News Live: New Year\u0027s Eve Around the World",
         "end":  "2026-01-01T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T01:00:00.0000000",
+        "title":  "Live: New Year\u0027s Eve: Times Square Ball Drop",
+        "end":  "2026-01-01T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T05:30:00.0000000",
+        "title":  "ABC News Live: New Year\u0027s Eve Around the World",
+        "end":  "2026-01-02T00:00:00.0000000"
     }
 ]
