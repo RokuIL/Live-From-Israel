@@ -207,6 +207,61 @@
     {
         "start":  "2026-01-01T05:00:00.0000000",
         "title":  "Live: SportsCenter",
+        "end":  "2026-01-01T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T06:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "end":  "2026-01-01T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T07:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2026-01-01T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T08:00:00.0000000",
+        "title":  "CFP Quarterfinal at the Goodyear Cotton Bowl Classic",
+        "end":  "2026-01-01T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T10:00:00.0000000",
+        "title":  "College Football",
+        "end":  "2026-01-01T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T12:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "end":  "2026-01-01T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T13:00:00.0000000",
+        "title":  "Live: Get Up",
+        "end":  "2026-01-01T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T14:00:00.0000000",
+        "title":  "Live: College GameDay",
+        "end":  "2026-01-01T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T17:00:00.0000000",
+        "title":  "Live: CFP Quarterfinal at the Capital One Orange Bowl",
+        "end":  "2026-01-01T20:40:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T20:40:00.0000000",
+        "title":  "Live: Ram Trucks Postgame",
+        "end":  "2026-01-01T20:50:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T20:50:00.0000000",
+        "title":  "Live: Ram Trucks Pregame",
+        "end":  "2026-01-01T21:10:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T21:10:00.0000000",
+        "title":  "Live: CFP Quarterfinal at the Rose Bowl",
         "end":  "2026-01-02T00:00:00.0000000"
     },
     {
@@ -232,6 +287,86 @@
     {
         "start":  "2026-01-01T05:00:00.0000000",
         "title":  "Live: SportsCenter",
+        "end":  "2026-01-01T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T06:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "end":  "2026-01-01T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T07:00:00.0000000",
+        "title":  "SportsCenter",
+        "end":  "2026-01-01T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T08:00:00.0000000",
+        "title":  "CFP Quarterfinal at the Goodyear Cotton Bowl Classic",
+        "end":  "2026-01-01T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T10:00:00.0000000",
+        "title":  "College Football",
+        "end":  "2026-01-01T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T12:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "end":  "2026-01-01T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T13:00:00.0000000",
+        "title":  "Live: Get Up",
+        "end":  "2026-01-01T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T14:00:00.0000000",
+        "title":  "Live: College GameDay",
+        "end":  "2026-01-01T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T17:00:00.0000000",
+        "title":  "Live: CFP Quarterfinal at the Capital One Orange Bowl",
+        "end":  "2026-01-01T20:40:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T20:40:00.0000000",
+        "title":  "Live: Ram Trucks Postgame",
+        "end":  "2026-01-01T20:50:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T20:50:00.0000000",
+        "title":  "Live: Ram Trucks Pregame",
+        "end":  "2026-01-01T21:10:00.0000000"
+    },
+    {
+        "start":  "2026-01-01T21:10:00.0000000",
+        "title":  "Live: CFP Quarterfinal at the Rose Bowl",
         "end":  "2026-01-02T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-02T00:40:00.0000000",
+        "title":  "Live: Ram Trucks Postgame",
+        "end":  "2026-01-02T00:50:00.0000000"
+    },
+    {
+        "start":  "2026-01-02T00:50:00.0000000",
+        "title":  "Live: Ram Trucks Pregame",
+        "end":  "2026-01-02T01:10:00.0000000"
+    },
+    {
+        "start":  "2026-01-02T01:10:00.0000000",
+        "title":  "Live: CFP Quarterfinal at the Allstate Sugar Bowl",
+        "end":  "2026-01-02T04:40:00.0000000"
+    },
+    {
+        "start":  "2026-01-02T04:40:00.0000000",
+        "title":  "Live: Ram Trucks Postgame",
+        "end":  "2026-01-02T04:50:00.0000000"
+    },
+    {
+        "start":  "2026-01-02T04:50:00.0000000",
+        "title":  "Live: SportsCenter With Scott Van Pelt",
+        "end":  "2026-01-03T00:00:00.0000000"
     }
 ]
