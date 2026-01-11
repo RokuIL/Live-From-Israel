@@ -1,180 +1,5 @@
 [
     {
-        "start":  "2026-01-10T00:30:00.0000000",
-        "title":  "Live: CFP Semifinal at the Chick-fil-A Peach Bowl",
-        "end":  "2026-01-10T04:10:00.0000000"
-    },
-    {
-        "start":  "2026-01-10T04:10:00.0000000",
-        "title":  "Live: Ram Trucks Postgame",
-        "end":  "2026-01-10T04:20:00.0000000"
-    },
-    {
-        "start":  "2026-01-10T04:20:00.0000000",
-        "title":  "Live: SportsCenter With Scott Van Pelt",
-        "end":  "2026-01-10T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-01-10T05:30:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2026-01-10T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-01-10T06:30:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2026-01-10T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-01-10T07:30:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2026-01-10T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-01-10T08:30:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2026-01-10T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-10T09:00:00.0000000",
-        "title":  "NFL Matchup",
-        "end":  "2026-01-10T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-01-10T09:30:00.0000000",
-        "title":  "CFP Semifinal at the Chick-fil-A Peach Bowl",
-        "end":  "2026-01-10T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-01-10T11:30:00.0000000",
-        "title":  "NFL Matchup",
-        "end":  "2026-01-10T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-10T12:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2026-01-10T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-10T13:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2026-01-10T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-10T14:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2026-01-10T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-10T15:00:00.0000000",
-        "title":  "Live: Postseason NFL Countdown",
-        "end":  "2026-01-10T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-10T17:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "end":  "2026-01-10T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-10T19:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "end":  "2026-01-10T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-10T21:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "end":  "2026-01-10T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-10T23:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "end":  "2026-01-11T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T01:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "end":  "2026-01-11T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T03:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "end":  "2026-01-11T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T05:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2026-01-11T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T06:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2026-01-11T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T07:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2026-01-11T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T08:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2026-01-11T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T09:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2026-01-11T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T10:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2026-01-11T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T11:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2026-01-11T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T12:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2026-01-11T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T13:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2026-01-11T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T14:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2026-01-11T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T15:00:00.0000000",
-        "title":  "Live: Postseason NFL Countdown",
-        "end":  "2026-01-11T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T18:00:00.0000000",
-        "title":  "Live: Women\u0027s College Basketball",
-        "end":  "2026-01-11T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T20:00:00.0000000",
-        "title":  "Live: Women\u0027s College Basketball",
-        "end":  "2026-01-11T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T22:00:00.0000000",
-        "title":  "Women\u0027s College Basketball",
-        "end":  "2026-01-12T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-12T00:00:00.0000000",
-        "title":  "We\u0027re #1! - 1991 \u0026 1992 Duke Blue Devils",
-        "end":  "2026-01-13T00:00:00.0000000"
-    },
-    {
         "start":  "2026-01-11T01:00:00.0000000",
         "title":  "Live: College Basketball",
         "end":  "2026-01-11T03:00:00.0000000"
@@ -453,6 +278,26 @@
         "start":  "2026-01-12T23:00:00.0000000",
         "title":  "Live: Monday Night Countdown",
         "end":  "2026-01-13T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-13T01:00:00.0000000",
+        "title":  "Live: NFL Football",
+        "end":  "2026-01-13T04:15:00.0000000"
+    },
+    {
+        "start":  "2026-01-13T04:15:00.0000000",
+        "title":  "Live: Monday Night Postgame",
+        "end":  "2026-01-13T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-01-13T04:30:00.0000000",
+        "title":  "Live: SportsCenter With Scott Van Pelt",
+        "end":  "2026-01-13T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-01-13T05:30:00.0000000",
+        "title":  "Live: SportsCenter",
+        "end":  "2026-01-14T00:00:00.0000000"
     },
     {
         "start":  "2026-01-13T01:00:00.0000000",
