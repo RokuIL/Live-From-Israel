@@ -1,90 +1,5 @@
 [
     {
-        "start":  "2026-01-11T01:00:00.0000000",
-        "title":  "Dateline NBC: Footprint in the Dust",
-        "end":  "2026-01-11T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T03:00:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "end":  "2026-01-11T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T03:30:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "end":  "2026-01-11T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T04:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-01-11T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T05:00:00.0000000",
-        "title":  "Dateline NBC: Nightfall",
-        "end":  "2026-01-11T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T06:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-01-11T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T08:00:00.0000000",
-        "title":  "Dateline NBC: A Gathering Storm",
-        "end":  "2026-01-11T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T10:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-01-11T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T11:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-01-11T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T12:00:00.0000000",
-        "title":  "Dateline NBC: While She Was Sleeping",
-        "end":  "2026-01-11T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T14:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-01-11T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T16:00:00.0000000",
-        "title":  "Sunday Today With Willie Geist",
-        "end":  "2026-01-11T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T17:00:00.0000000",
-        "title":  "Meet the Press",
-        "end":  "2026-01-11T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T18:00:00.0000000",
-        "title":  "Dateline NBC: The Carrollton Plot",
-        "end":  "2026-01-11T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T20:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-01-11T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T21:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-01-11T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-11T22:00:00.0000000",
-        "title":  "Dateline NBC: Secrets in the Smoky Mountains",
-        "end":  "2026-01-12T00:00:00.0000000"
-    },
-    {
         "start":  "2026-01-12T00:00:00.0000000",
         "title":  "Dateline NBC",
         "end":  "2026-01-12T01:00:00.0000000"
@@ -713,5 +628,120 @@
         "start":  "2026-01-16T22:00:00.0000000",
         "title":  "Hallie Jackson NOW",
         "end":  "2026-01-17T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T00:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "end":  "2026-01-17T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T01:00:00.0000000",
+        "title":  "Stay Tuned NOW With Gadi Schwartz",
+        "end":  "2026-01-17T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T02:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "end":  "2026-01-17T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T03:00:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "end":  "2026-01-17T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T03:30:00.0000000",
+        "title":  "Stay Tuned NOW With Gadi Schwartz",
+        "end":  "2026-01-17T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T04:30:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "end":  "2026-01-17T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T05:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "end":  "2026-01-17T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T06:00:00.0000000",
+        "title":  "Meet the Press NOW",
+        "end":  "2026-01-17T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T07:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-01-17T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T08:00:00.0000000",
+        "title":  "Dateline NBC: After Midnight",
+        "end":  "2026-01-17T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T09:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-01-17T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T10:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-01-17T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T11:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-01-17T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T12:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-01-17T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T13:00:00.0000000",
+        "title":  "Dateline NBC: Heart of Darkness",
+        "end":  "2026-01-17T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T14:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-01-17T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T16:00:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "end":  "2026-01-17T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T16:30:00.0000000",
+        "title":  "Today",
+        "end":  "2026-01-17T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T18:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-01-17T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T19:00:00.0000000",
+        "title":  "Dateline NBC: The Silhouette",
+        "end":  "2026-01-17T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T20:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-01-17T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T22:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-01-17T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-01-17T23:00:00.0000000",
+        "title":  "Dateline NBC: Fatal Attraction",
+        "end":  "2026-01-18T00:00:00.0000000"
     }
 ]
