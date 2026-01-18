@@ -96,6 +96,7 @@
             "Title": "ספורט 1",
             "TitleEng": "Sport 1",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-1.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "Sport1",
             "EPGStationId": "2",
             "EPGBackupProvider": "Walla",
@@ -115,6 +116,7 @@
             "Title": "ספורט 2",
             "TitleEng": "Sport 2",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-3.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "Sport1",
             "EPGStationId": "3",
             "EPGBackupProvider": "Walla",
@@ -134,6 +136,7 @@
             "Title": "ספורט 3",
             "TitleEng": "Sport 3",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-4.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "Sport1",
             "EPGStationId": "4",
             "EPGBackupProvider": "Walla",
@@ -153,6 +156,7 @@
             "Title": "ספורט 4",
             "TitleEng": "Sport 4",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-5.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "Sport1",
             "EPGStationId": "5",
             "EPGBackupProvider": "Walla",
@@ -172,6 +176,7 @@
             "Title": "ספורט 5",
             "TitleEng": "Sport 5",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5.jpg",
+            "OnlyIn" : "Disabled", 
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5",
             "EPGBackupProvider": "Walla",
@@ -184,15 +189,14 @@
                 "Referer:https://epicplayplay.cfd/ https://kondoplay.cfd/"
             ],
             "StreamUrls": [
-                "https://zekonew.newkso.ru/zeko/premium144/mono.m3u8",
-                "https://s3.dualstack.us-east-2.amazonaws.com/cam.edu//hls/1080p/playlist.m3u8?token=z8swldb3vd",
-                "https://planetary.lovecdn.ru/SPORT5IL/tracks-v1a1/mono.m3u8?token=U1BPUlQ1SUx8bm9fY2hlY2tfaXB8MTc2Njc0OTA3NA%3D%3D.983a1714112c1171d04ed0c889cafcc8d883ac52de280b2413cfd4eb3f285043"
+                "https://zekonew.newkso.ru/zeko/premium144/mono.m3u8"
             ]
         },
         {
             "Title": "ספורט 5 פלוס",
             "TitleEng": "Sport 5 Plus",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Plus.jpg",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5P",
             "BufferingTimer": "1",
@@ -210,6 +214,7 @@
             "Title": "ספורט 5 לייב",
             "TitleEng": "Sport 5 Live",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Live.jpg",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "Sport5TV",
             "EPGStationId": "LIVE",
             "EPGBackupProvider": "Walla",
@@ -229,6 +234,7 @@
             "Title": "ספורט 5 סטארס",
             "TitleEng": "Sport 5 Stars",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Stars.jpg",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5STARS",
             "EPGBackupProvider": "Walla",
@@ -248,6 +254,7 @@
             "Title": "ספורט 1 One",
             "TitleEng": "Sport One 1",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-1.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "Walla",
             "EPGStationId": "3551",
             "BufferingTimer": "1",
@@ -265,6 +272,7 @@
             "Title": "ספורט 2 One",
             "TitleEng": "Sport One 2",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-2.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "WGP",
             "EPGStationId": "Sport%20One%202",
             "BufferingTimer": "1",
@@ -282,6 +290,7 @@
             "Title": "אי אס פי אן",
             "TitleEng": "ESPN",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "10179",
             "EPGBackupProvider": "WGP.ENG",
@@ -294,14 +303,14 @@
                 "Referer:https://kondoplay.cfd/ https://topembed.pw/"
             ],
             "StreamUrls": [
-                "https://zekonew.newkso.ru/zeko/premium44/mono.m3u8",
-                "https://hztnew.newkso.ru/hzt/eplayerespn_usa/mono.m3u8"
+                "https://zekonew.newkso.ru/zeko/premium44/mono.m3u8"
             ]
         },
         {
             "Title": "אי אס פי אן 2",
             "TitleEng": "ESPN 2",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN2.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "12444",
             "EPGBackupProvider": "WGP.ENG",
@@ -314,14 +323,14 @@
                 "Referer:https://kondoplay.cfd/ https://topembed.pw/"
             ],
             "StreamUrls": [
-                "https://windnew.newkso.ru/wind/premium45/mono.m3u8",
-                "https://hztnew.newkso.ru/hzt/eplayerespn2_usa/mono.m3u8"
+                "https://windnew.newkso.ru/wind/premium45/mono.m3u8"
             ]
         },
         {
             "Title": "אן אף אל נטוורק",
             "TitleEng": "NFL Network",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NFLNetwork.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "45399",
             "EPGBackupProvider": "WGP.ENG",
@@ -334,14 +343,14 @@
                 "Referer:https://kondoplay.cfd/ https://topembed.pw/"
             ],
             "StreamUrls": [
-                "https://zekonew.newkso.ru/zeko/premium405/mono.m3u8",
-                "https://hztnew.newkso.ru/hzt/eplayerNFLNetwork/mono.m3u8"
+                "https://zekonew.newkso.ru/zeko/premium405/mono.m3u8"
             ]
         },
         {
             "Title": "סקיי ספורטס אן.אפ.אל",
             "TitleEng": "Sky Sports NFL",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkySportsNFL.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "454969",
             "BufferingTimer": "1",
@@ -359,6 +368,7 @@
             "Title": "סקיי ספורטס אירוע מרכזי",
             "TitleEng": "Sky Sports Main Event",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkySportsMainEvent.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "7673",
             "BufferingTimer": "1",
@@ -376,6 +386,7 @@
             "Title": "יס סרטי ילדים",
             "TitleEng": "Yes Kids Movies",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesKids.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "WGP",
             "EPGStationId": "Yes%20Movies%20Kids",
             "BufferingTimer": "1",
@@ -393,6 +404,7 @@
             "Title": "יס סרטי פעולה",
             "TitleEng": "Yes Action Movies",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesAction.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "WGP",
             "EPGStationId": "Yes%20Movies%20Action",
             "BufferingTimer": "1",
@@ -428,6 +440,7 @@
             "Title": "יס סרטי קומדיה",
             "TitleEng": "Yes Comedy Movies",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesComedy.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "WGP",
             "EPGStationId": "Yes%20Movies%20Comedy",
             "BufferingTimer": "1",
@@ -556,6 +569,7 @@
             "Title": "איי בי סי ניו יורק",
             "TitleEng": "ABC NY",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ABCNY.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "467679",
             "StreamFormat": "hls",
@@ -572,6 +586,7 @@
             "Title": "אן בי סי ניו יורק",
             "TitleEng": "NBC NY",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNY.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "467015",
             "StreamFormat": "hls",
@@ -588,6 +603,7 @@
             "Title": "סי בי אס ניו יורק",
             "TitleEng": "CBS NY",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CBSNY.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "468311",
             "StreamFormat": "hls",
@@ -604,6 +620,7 @@
             "Title": "פוקס ניו יורק",
             "TitleEng": "Fox NY",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FOXNY.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "469143",
             "StreamFormat": "hls",
