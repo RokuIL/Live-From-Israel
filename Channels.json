@@ -9,30 +9,6 @@
     "TimeZoneOffset": "2",
     "Channels": [
         {
-            "Title": "סיאטל סיהוקס",
-            "TitleEng": "Seattle Seahawks",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png",
-            "EPGProvider": "Text",
-            "EPGStationId": "שידור ישיר בזמן משחק.",        
-            "Private": "True",
-            "BufferingTimer": "1",
-            "StreamFormat": "hls",
-            "Headers": [
-                "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://fotodonne.net https://streams.center https://embedsports.top/ https://newembedplay.xyz https://epicplayplay.cfd https://arizonaplay.club",
-                "Referer:https://fotodonne.net/ https://streams.center/ https://embedsports.top/ https://newembedplay.xyz/ https://epicplayplay.cfd/ https://arizonaplay.club/"
-            ],
-            "StreamUrls": [
-                "https://edge2caster.pro/hls/sfjnzabacah31.m3u8?st=-eXwOHML9kC2SB51ASweHwQ-rusnCEdoEHVsmzDvnc0&e=1768707028",
-                "https://instreams.live/US/NFLHD2/index.m3u8?st=qRBTkrWUp1uX2Cmwz52E6A&e=1768707118",
-                "https://edge2caster.pro/hls/sfjnzabacah31.m3u8?st=EC0ym52ngEMiwMpD_5fiZt2TTF12F7pCBtgJZKydyiU&e=1768707161",
-                "https://lb7.strmd.top/secure/SMthEUqdGHzdyHwPgVViFMKaJMYtWpqf/admin/stream/seattleseahawks/1/playlist.m3u8",
-                "https://lb5.strmd.top/secure/dOeWgStmFJmbXuxGMraKdbFTZzYgdUJX/admin/stream/seattleseahawks/1/playlist.m3u8",
-                "https://lb3.strmd.top/secure/BSdccPqwNMzeIeIbwUjPuMkWpGHWjaqc/admin/stream/seattleseahawks/1/playlist.m3u8",
-                "https://s-c8.peulleieo.net/viktor/wuhuxemoyateye8ikare/master.m3u8?u_id=i3p1x7a6l8h7q3n5v5x3r3q2o5g5t3i1&ssid=MTc2ODcwMzc4MC41ZDUyMDJlMGMyMmE1NzA2NTc4NzVkNmJiYTRlYWMwOA"
-            ]
-        },  
-        {
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
