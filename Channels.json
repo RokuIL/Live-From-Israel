@@ -12,6 +12,7 @@
             "Title": "סיאטל סיהוקס",
             "TitleEng": "Seattle Seahawks",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "Text",
             "EPGStationId": "שידור ישיר בזמן משחק.",        
             "Private": "True",
