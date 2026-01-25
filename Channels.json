@@ -9,8 +9,8 @@
     "TimeZoneOffset": "2",
     "Channels": [
         {
-            "Title": "דנוור",
-            "TitleEng": "Denver",
+            "Title": "סיאטל סיהוקס",
+            "TitleEng": "Seattle Seahawks",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png",
             "Del-OnlyIn" : "Disabled",
             "EPGProvider": "Text",
@@ -24,10 +24,10 @@
                 "Referer:https://streams.center/ https://a.embedsports.top/ https://fotodonne.net/ https://streams.center/ https://embedsports.top/ https://newembedplay.xyz/ https://epicplayplay.cfd/ https://arizonaplay.club/"
             ],
             "StreamUrls": [
-                "https://strm.poocloud.in/secure/ljTYqNdyXOAGFzZerAEtVENiTAHBlZHw/1769364000/1769391000/denverbroncos/index.m3u8",
-                "https://strm.poocloud.in/secure/DttQxZgPdaPvBEwnBzyhqQeicJkqTDbj/1769364000/1769391000/denverbroncos/index.m3u8",
-                "https://mainstreams.pro/hls/JHDAJBDnjdna30.m3u8?st=o5fIuvh7J2rc0PWRfhR7kocLu3VwqxvsJ86KhZeJ8mo&e=1769378479",
-                "https://v14.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=QM-sdMOT3Bc0kEzJMgKCug&expires=1769381459&user_id=dnV0dE5qY3dCTUlYRjhLbERaVDNXenQya0dzck5DNW1oaVVnTkdFbQ=="
+                "",
+                "",
+                "",
+                ""
             ]
         },  
         {
