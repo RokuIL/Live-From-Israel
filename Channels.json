@@ -9,10 +9,10 @@
     "TimeZoneOffset": "2",
     "Channels": [
         {
-            "Title": "סיאטל סיהוקס",
-            "TitleEng": "Seattle Seahawks",
+            "Title": "דנוור",
+            "TitleEng": "Denver",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png",
-            "OnlyIn" : "Disabled",
+            "Del-OnlyIn" : "Disabled",
             "EPGProvider": "Text",
             "EPGStationId": "שידור ישיר בזמן משחק.",        
             "Private": "True",
@@ -20,15 +20,35 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://fotodonne.net https://streams.center https://embedsports.top/ https://newembedplay.xyz https://epicplayplay.cfd https://arizonaplay.club",
-                "Referer:https://fotodonne.net/ https://streams.center/ https://embedsports.top/ https://newembedplay.xyz/ https://epicplayplay.cfd/ https://arizonaplay.club/"
+                "Origin:https://streams.center https://a.embedsports.top https://fotodonne.net https://streams.center https://embedsports.top/ https://newembedplay.xyz https://epicplayplay.cfd https://arizonaplay.club",
+                "Referer:https://streams.center/ https://a.embedsports.top/ https://fotodonne.net/ https://streams.center/ https://embedsports.top/ https://newembedplay.xyz/ https://epicplayplay.cfd/ https://arizonaplay.club/"
             ],
             "StreamUrls": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "https://strm.poocloud.in/secure/ljTYqNdyXOAGFzZerAEtVENiTAHBlZHw/1769364000/1769391000/denverbroncos/index.m3u8",
+                "https://strm.poocloud.in/secure/DttQxZgPdaPvBEwnBzyhqQeicJkqTDbj/1769364000/1769391000/denverbroncos/index.m3u8",
+                "https://mainstreams.pro/hls/JHDAJBDnjdna30.m3u8?st=o5fIuvh7J2rc0PWRfhR7kocLu3VwqxvsJ86KhZeJ8mo&e=1769378479",
+                "https://v14.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=QM-sdMOT3Bc0kEzJMgKCug&expires=1769381459&user_id=dnV0dE5qY3dCTUlYRjhLbERaVDNXenQya0dzck5DNW1oaVVnTkdFbQ=="
+            ]
+        },  
+        {
+            "Title": "סיאטל סיהוקס",
+            "TitleEng": "Seattle Seahawks",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png",
+            "Del-OnlyIn" : "Disabled",
+            "EPGProvider": "Text",
+            "EPGStationId": "שידור ישיר בזמן משחק.",        
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
+                "Origin:https://streams.center https://fotodonne.net https://streams.center https://embedsports.top/ https://newembedplay.xyz https://epicplayplay.cfd https://arizonaplay.club",
+                "Referer:https://streams.center/ https://fotodonne.net/ https://streams.center/ https://embedsports.top/ https://newembedplay.xyz/ https://epicplayplay.cfd/ https://arizonaplay.club/"
+            ],
+            "StreamUrls": [
+                "https://edge2caster.pro/hls/hjksgdfauzy51.m3u8?st=Qr3hB7G-I0VcmMLw3-UuPt48mP9cTPZCClNYFb764kU&e=1769378766",
+                "https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=6XvF1GYvbTRLd6ztQ73UnwXOU8GR91g5WLU7oibVylc&e=1769378838",
+                "https://v3.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8?token=IOygDjuxBNX5Imsy60ZkOA&expires=1769381532&user_id=dnV0dE5qY3dCTUlYRjhLbERaVDNXenQya0dzck5DNW1oaVVnTkdFbQ=="
             ]
         },  
         {
