@@ -12,7 +12,7 @@
             "Title": "סיאטל סיהוקס",
             "TitleEng": "Seattle Seahawks",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png",
-            "Del-OnlyIn" : "Disabled",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "Text",
             "EPGStationId": "שידור ישיר בזמן משחק.",        
             "Private": "True",
@@ -24,10 +24,10 @@
                 "Referer:https://embedsports.top/ https://a.embedsports.top/ https://streams.center/ https://streams.center/"
             ],
             "StreamUrls": [
-                "https://edgestreams.pro/hls/sfjnzabacah31.m3u8?st=ZawQ2C5_MrPPQO9kFDRPNDracJDaS07iL_jCZpBOXb8&e=1769391096",
-                "https://strm.poocloud.in/secure/GvQzirJKZjVRTJECsSUgqHnEmVvJWUcm/1769376600/1769403600/seattleseahawks/index.m3u8",
-                "https://lb10.strmd.top/secure/QfqhDsvPLwNCuPtRPJYKChivwphxyKVW/delta/stream/live_nfl_broncos-patriots-live-streaming-494274960/1/playlist.m3u8",
-                "https://edge2caster.pro/hls/sfjnzabacah31.m3u8?st=xw137e7QfH39_adpw5Zk1CsHSTgjR19-CwfEC-Ik11c&e=1769391337"
+                "",
+                "",
+                "",
+                ""
             ]
         },  
         {
