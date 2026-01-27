@@ -509,6 +509,11 @@
                 "Referer:https://usnewson.com/ https://forcedtoplay.xyz/"
             ],
             "StreamUrls": [
+                "https://s6.usnlive.com/stream/foxnews.m3u8",
+                "https://s5.usnlive.com/stream/foxnews.m3u8",
+                "https://s4.usnlive.com/stream/foxnews.m3u8",
+                "https://s3.usnlive.com/stream/foxnews.m3u8",
+                "https://s2.usnlive.com/stream/foxnews.m3u8",
                 "https://s1.usnlive.com/stream/foxnews.m3u8",
                 "https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8"
             ]
