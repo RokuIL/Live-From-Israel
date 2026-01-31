@@ -1,190 +1,5 @@
 [
     {
-        "start":  "2026-01-30T01:00:00.0000000",
-        "title":  "Live: Women\u0027s College Basketball",
-        "end":  "2026-01-30T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-30T03:00:00.0000000",
-        "title":  "Live: Australian Open Tennis Preshow",
-        "end":  "2026-01-30T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-01-30T03:30:00.0000000",
-        "title":  "Live: 2026 Australian Open Tennis",
-        "end":  "2026-01-30T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-30T06:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2026-01-30T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-30T07:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2026-01-30T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-30T08:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2026-01-30T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-01-30T08:30:00.0000000",
-        "title":  "Live: 2026 Australian Open Tennis",
-        "end":  "2026-01-30T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-30T11:00:00.0000000",
-        "title":  "SportsCenter",
-        "end":  "2026-01-30T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-30T12:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2026-01-30T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-30T13:00:00.0000000",
-        "title":  "Live: Get Up",
-        "end":  "2026-01-30T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-30T15:00:00.0000000",
-        "title":  "Live: First Take",
-        "end":  "2026-01-30T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-30T17:00:00.0000000",
-        "title":  "Live: PGA Tour Golf",
-        "end":  "2026-01-30T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-30T20:00:00.0000000",
-        "title":  "Live: NBA Today",
-        "end":  "2026-01-30T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-30T21:00:00.0000000",
-        "title":  "NFL Live",
-        "end":  "2026-01-30T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-30T22:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2026-01-30T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-01-30T22:30:00.0000000",
-        "title":  "Live: Pardon the Interruption",
-        "end":  "2026-01-30T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-30T23:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2026-01-31T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-31T00:00:00.0000000",
-        "title":  "Live: NBA Countdown",
-        "end":  "2026-01-31T00:30:00.0000000"
-    },
-    {
-        "start":  "2026-01-31T00:30:00.0000000",
-        "title":  "Live: NBA Basketball",
-        "end":  "2026-01-31T03:05:00.0000000"
-    },
-    {
-        "start":  "2026-01-31T03:05:00.0000000",
-        "title":  "Live: NBA Basketball",
-        "end":  "2026-01-31T05:35:00.0000000"
-    },
-    {
-        "start":  "2026-01-31T05:35:00.0000000",
-        "title":  "Live: SportsCenter With Scott Van Pelt",
-        "end":  "2026-01-31T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-01-31T06:30:00.0000000",
-        "title":  "Live: SportsCenter With Scott Van Pelt",
-        "end":  "2026-01-31T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-01-31T07:30:00.0000000",
-        "title":  "SportsCenter With Scott Van Pelt",
-        "end":  "2026-01-31T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-31T08:00:00.0000000",
-        "title":  "Live: Australian Open Tennis Preshow",
-        "end":  "2026-01-31T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-01-31T08:30:00.0000000",
-        "title":  "Live: 2026 Australian Open Tennis",
-        "end":  "2026-01-31T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-01-31T10:30:00.0000000",
-        "title":  "SportsCenter With Scott Van Pelt",
-        "end":  "2026-01-31T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-31T11:00:00.0000000",
-        "title":  "SportsCenter With Scott Van Pelt",
-        "end":  "2026-01-31T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-31T12:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2026-01-31T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-31T13:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2026-01-31T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-31T14:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2026-01-31T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-31T15:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "end":  "2026-01-31T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-31T16:00:00.0000000",
-        "title":  "Live: College GameDay",
-        "end":  "2026-01-31T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-31T17:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "end":  "2026-01-31T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-31T19:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "end":  "2026-01-31T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-01-31T21:00:00.0000000",
-        "title":  "College Basketball Live",
-        "end":  "2026-01-31T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-01-31T21:30:00.0000000",
-        "title":  "Live: College Basketball",
-        "end":  "2026-01-31T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-01-31T23:30:00.0000000",
-        "title":  "Live: College Basketball",
-        "end":  "2026-02-01T00:00:00.0000000"
-    },
-    {
         "start":  "2026-01-31T00:00:00.0000000",
         "title":  "Live: NBA Countdown",
         "end":  "2026-01-31T00:30:00.0000000"
@@ -463,6 +278,16 @@
         "start":  "2026-02-01T23:40:00.0000000",
         "title":  "Live: NHL Hockey",
         "end":  "2026-02-02T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-02-02T02:30:00.0000000",
+        "title":  "Live: NHL Hockey",
+        "end":  "2026-02-02T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-02-02T05:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "end":  "2026-02-03T00:00:00.0000000"
     },
     {
         "start":  "2026-02-02T02:30:00.0000000",
