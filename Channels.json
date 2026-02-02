@@ -199,7 +199,6 @@
             "Title": "ספורט 5",
             "TitleEng": "Sport 5",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5.jpg",
-            "OnlyIn" : "Disabled", 
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5",
             "EPGBackupProvider": "Walla",
@@ -212,7 +211,11 @@
                 "Referer:https://epicplayplay.cfd/ https://kondoplay.cfd/"
             ],
             "StreamUrls": [
-                "https://zekonew.newkso.ru/zeko/premium144/mono.m3u8"
+                "https://zekonew.newkso.ru/zeko/premium144/mono.m3u8",
+                "https://cdn-live-tv.ru/api/v1/channels/il-sport-5/index.m3u8?token=1f35db47a3481fa0d048f58c6d386fa878745ecd5e123eb0555544aae954d2ae.1770004716.b3fba90a9af4d9bcb5268a20aa32fe1a.6f5b922e83136f3632d8a364a5726cdd.6a6412d6c3d2e9d28f404274a1eba864.98d077c3214c95d9",
+                "https://cdn-live-tv.ru/api/v1/channels/il-sport-5/tracks-v1a1/mono.ts.m3u8?token=1f35db47a3481fa0d048f58c6d386fa878745ecd5e123eb0555544aae954d2ae.1770004716.b3fba90a9af4d9bcb5268a20aa32fe1a.6f5b922e83136f3632d8a364a5726cdd.6a6412d6c3d2e9d28f404274a1eba864.98d077c3214c95d9",
+                "https://planetary.lovecdn.ru/SPORT5IL/index.m3u8?token=U1BPUlQ1SUx8bm9fY2hlY2tfaXB8MTc3MDAwNTA1NQ==.f7c64b314124fe2f82a114b348ac0fcda23e87771cf474290ccc2ab13259bd59",
+                "https://planetary.lovecdn.ru/SPORT5IL/tracks-v1a1/mono.m3u8?token=U1BPUlQ1SUx8bm9fY2hlY2tfaXB8MTc3MDAwNTA1NQ%3D%3D.f7c64b314124fe2f82a114b348ac0fcda23e87771cf474290ccc2ab13259bd59"
             ]
         },
         {
@@ -593,7 +596,6 @@
             "Title": "איי בי סי ניו יורק",
             "TitleEng": "ABC NY",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ABCNY.png",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "467679",
             "StreamFormat": "hls",
@@ -603,14 +605,15 @@
                 "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
-                "https://zekonew.newkso.ru/zeko/premium766/mono.m3u8"
+                "https://zekonew.newkso.ru/zeko/premium766/mono.m3u8",
+                "https://cdn-live-tv.ru/api/v1/channels/us-abc/index.m3u8?token=783087b1c58bf152a5b05337f1767cc15cdbb659e33cc9366ff3fffd7ca14f96.1770003874.515b45341ca52ba6019a5d256c396cbd.8c329de10ce4071a94864799ab536592.074829b878454b80003b972ac1145007.ae9d139b80c991c1",
+                "https://cdn-live-tv.ru/api/v1/channels/us-abc/tracks-v1a1/mono.ts.m3u8?token=783087b1c58bf152a5b05337f1767cc15cdbb659e33cc9366ff3fffd7ca14f96.1770003874.515b45341ca52ba6019a5d256c396cbd.8c329de10ce4071a94864799ab536592.074829b878454b80003b972ac1145007.ae9d139b80c991c1"
             ]
         },
         {
             "Title": "אן בי סי ניו יורק",
             "TitleEng": "NBC NY",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNY.png",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "467015",
             "StreamFormat": "hls",
@@ -620,14 +623,14 @@
                 "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
-                "https://zekonew.newkso.ru/zeko/premium769/mono.m3u8"
+                "https://zekonew.newkso.ru/zeko/premium769/mono.m3u8",
+                "https://cdn-live-tv.ru/api/v1/channels/us-nbc/tracks-v1a1/mono.ts.m3u8?token=5b995a5c417b985c751590d820c58e152b6db49e2b2823c9668c3197f4063e2c.1770004537.4bd40757fb9024f345aaa89623a02c7a.0f15f3a6f61a19d0f4a930183b65f112.c83aa9fc14d7db2641d87a9cd07b4982.e5ba463fea6b98e2"
             ]
         },
         {
             "Title": "סי בי אס ניו יורק",
             "TitleEng": "CBS NY",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CBSNY.png",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "468311",
             "StreamFormat": "hls",
@@ -637,14 +640,15 @@
                 "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
-                "https://zekonew.newkso.ru/zeko/premium767/mono.m3u8"
+                "https://zekonew.newkso.ru/zeko/premium767/mono.m3u8",
+                "https://cdn-live-tv.ru/api/v1/channels/us-cbs/index.m3u8?token=eefc913d744d1c77818e9afb7f427f7b7b94440160b52b683ddfe1a943d0eb95.1770004178.3a22df3fb067a8d587314c6e8fa24e4d.38a734831f635fd8e57cb2fd8fc276f7.7b32e0819dc7cf948858c2270871261b.79dc29ed7962a20c",
+                "https://cdn-live-tv.ru/api/v1/channels/us-cbs/tracks-v1a1/mono.ts.m3u8?token=eefc913d744d1c77818e9afb7f427f7b7b94440160b52b683ddfe1a943d0eb95.1770004178.3a22df3fb067a8d587314c6e8fa24e4d.38a734831f635fd8e57cb2fd8fc276f7.7b32e0819dc7cf948858c2270871261b.79dc29ed7962a20c"
             ]
         },
         {
             "Title": "פוקס ניו יורק",
             "TitleEng": "Fox NY",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FOXNY.png",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "469143",
             "StreamFormat": "hls",
@@ -654,13 +658,16 @@
                 "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
-                "https://zekonew.newkso.ru/zeko/premium768/mono.m3u8"
+                "https://zekonew.newkso.ru/zeko/premium768/mono.m3u8",
+                "https://cdn-live-tv.ru/api/v1/channels/us-fox/index.m3u8?token=5438727ad83f96191e7af77fe6e8a2d491049562c50bbe5e7559305d1ffd01fd.1770004392.c4d981d104c9791cc8a32b571ac06994.0a970bff806a0024508f6f8ee4d9a4fd.351eb8d9944f049a134c24c2e66c7b3c.b566aee9bcfafd44",
+                "https://cdn-live-tv.ru/api/v1/channels/us-fox/tracks-v1a1/mono.ts.m3u8?token=5438727ad83f96191e7af77fe6e8a2d491049562c50bbe5e7559305d1ffd01fd.1770004392.c4d981d104c9791cc8a32b571ac06994.0a970bff806a0024508f6f8ee4d9a4fd.351eb8d9944f049a134c24c2e66c7b3c.b566aee9bcfafd44"
             ]
         },
         {
             "Title": "סריקה",
             "TitleEng": "Scan",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Search.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "Text",
             "EPGStationId": "חיפוש ערוצים בלחיצה על חץ למעלה (+1), למטה (1-), ימינה (+100) או שמאלה (100-).",        
             "BufferingTimer": "1",
