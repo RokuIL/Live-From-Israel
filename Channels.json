@@ -213,9 +213,7 @@
             "StreamUrls": [
                 "https://zekonew.newkso.ru/zeko/premium144/mono.m3u8",
                 "https://cdn-live-tv.ru/api/v1/channels/il-sport-5/index.m3u8?token=1f35db47a3481fa0d048f58c6d386fa878745ecd5e123eb0555544aae954d2ae.1770004716.b3fba90a9af4d9bcb5268a20aa32fe1a.6f5b922e83136f3632d8a364a5726cdd.6a6412d6c3d2e9d28f404274a1eba864.98d077c3214c95d9",
-                "https://cdn-live-tv.ru/api/v1/channels/il-sport-5/tracks-v1a1/mono.ts.m3u8?token=1f35db47a3481fa0d048f58c6d386fa878745ecd5e123eb0555544aae954d2ae.1770004716.b3fba90a9af4d9bcb5268a20aa32fe1a.6f5b922e83136f3632d8a364a5726cdd.6a6412d6c3d2e9d28f404274a1eba864.98d077c3214c95d9",
-                "https://planetary.lovecdn.ru/SPORT5IL/index.m3u8?token=U1BPUlQ1SUx8bm9fY2hlY2tfaXB8MTc3MDAwNTA1NQ==.f7c64b314124fe2f82a114b348ac0fcda23e87771cf474290ccc2ab13259bd59",
-                "https://planetary.lovecdn.ru/SPORT5IL/tracks-v1a1/mono.m3u8?token=U1BPUlQ1SUx8bm9fY2hlY2tfaXB8MTc3MDAwNTA1NQ%3D%3D.f7c64b314124fe2f82a114b348ac0fcda23e87771cf474290ccc2ab13259bd59"
+                "https://cdn-live-tv.ru/api/v1/channels/il-sport-5/tracks-v1a1/mono.ts.m3u8?token=1f35db47a3481fa0d048f58c6d386fa878745ecd5e123eb0555544aae954d2ae.1770004716.b3fba90a9af4d9bcb5268a20aa32fe1a.6f5b922e83136f3632d8a364a5726cdd.6a6412d6c3d2e9d28f404274a1eba864.98d077c3214c95d9"            
             ]
         },
         {
@@ -631,6 +629,7 @@
             "Title": "סי בי אס ניו יורק",
             "TitleEng": "CBS NY",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CBSNY.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "468311",
             "StreamFormat": "hls",
@@ -640,9 +639,7 @@
                 "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
-                "https://zekonew.newkso.ru/zeko/premium767/mono.m3u8",
-                "https://cdn-live-tv.ru/api/v1/channels/us-cbs/index.m3u8?token=eefc913d744d1c77818e9afb7f427f7b7b94440160b52b683ddfe1a943d0eb95.1770004178.3a22df3fb067a8d587314c6e8fa24e4d.38a734831f635fd8e57cb2fd8fc276f7.7b32e0819dc7cf948858c2270871261b.79dc29ed7962a20c",
-                "https://cdn-live-tv.ru/api/v1/channels/us-cbs/tracks-v1a1/mono.ts.m3u8?token=eefc913d744d1c77818e9afb7f427f7b7b94440160b52b683ddfe1a943d0eb95.1770004178.3a22df3fb067a8d587314c6e8fa24e4d.38a734831f635fd8e57cb2fd8fc276f7.7b32e0819dc7cf948858c2270871261b.79dc29ed7962a20c"
+                "https://zekonew.newkso.ru/zeko/premium767/mono.m3u8"
             ]
         },
         {
