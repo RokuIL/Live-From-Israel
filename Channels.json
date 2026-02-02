@@ -199,6 +199,7 @@
             "Title": "ספורט 5",
             "TitleEng": "Sport 5",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5.jpg",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5",
             "EPGBackupProvider": "Walla",
@@ -211,9 +212,7 @@
                 "Referer:https://epicplayplay.cfd/ https://kondoplay.cfd/"
             ],
             "StreamUrls": [
-                "https://zekonew.newkso.ru/zeko/premium144/mono.m3u8",
-                "https://cdn-live-tv.ru/api/v1/channels/il-sport-5/index.m3u8?token=1f35db47a3481fa0d048f58c6d386fa878745ecd5e123eb0555544aae954d2ae.1770004716.b3fba90a9af4d9bcb5268a20aa32fe1a.6f5b922e83136f3632d8a364a5726cdd.6a6412d6c3d2e9d28f404274a1eba864.98d077c3214c95d9",
-                "https://cdn-live-tv.ru/api/v1/channels/il-sport-5/tracks-v1a1/mono.ts.m3u8?token=1f35db47a3481fa0d048f58c6d386fa878745ecd5e123eb0555544aae954d2ae.1770004716.b3fba90a9af4d9bcb5268a20aa32fe1a.6f5b922e83136f3632d8a364a5726cdd.6a6412d6c3d2e9d28f404274a1eba864.98d077c3214c95d9"            
+                "https://zekonew.newkso.ru/zeko/premium144/mono.m3u8"
             ]
         },
         {
