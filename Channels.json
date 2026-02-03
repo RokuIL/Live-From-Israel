@@ -355,6 +355,7 @@
             "Title": "אן אף אל נטוורק",
             "TitleEng": "NFL Network",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NFLNetwork.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "45399",
             "EPGBackupProvider": "WGP.ENG",
