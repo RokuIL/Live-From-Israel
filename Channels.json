@@ -313,7 +313,6 @@
             "Title": "אי אס פי אן",
             "TitleEng": "ESPN",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN.png",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "10179",
             "EPGBackupProvider": "WGP.ENG",
@@ -326,14 +325,15 @@
                 "Referer:https://kondoplay.cfd/ https://topembed.pw/"
             ],
             "StreamUrls": [
-                "https://zekonew.newkso.ru/zeko/premium44/mono.m3u8"
+                "https://zekonew.newkso.ru/zeko/premium44/mono.m3u8",
+                "https://cdn-live-tv.ru/api/v1/channels/us-espn/index.m3u8?token=7d6f87b8bf66230c8f0c54133ac37b331e9514a73567cc03bb66a3bc997a5225.1770087260.2aeb2668b9c0800878641e643cd7a6f6.14fdb8ee9106a3e426f018b0b754144d.d97ebbf5e433c3233a8b317ddccf08b3.64df34250c93f677",
+                "https://cdn-live-tv.ru/api/v1/channels/us-espn/tracks-v1a1/mono.ts.m3u8?token=7d6f87b8bf66230c8f0c54133ac37b331e9514a73567cc03bb66a3bc997a5225.1770087260.2aeb2668b9c0800878641e643cd7a6f6.14fdb8ee9106a3e426f018b0b754144d.d97ebbf5e433c3233a8b317ddccf08b3.64df34250c93f677"
             ]
         },
         {
             "Title": "אי אס פי אן 2",
             "TitleEng": "ESPN 2",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN2.png",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "12444",
             "EPGBackupProvider": "WGP.ENG",
@@ -346,14 +346,15 @@
                 "Referer:https://kondoplay.cfd/ https://topembed.pw/"
             ],
             "StreamUrls": [
-                "https://windnew.newkso.ru/wind/premium45/mono.m3u8"
+                "https://windnew.newkso.ru/wind/premium45/mono.m3u8",
+                "https://cdn-live-tv.ru/api/v1/channels/us-espn/index.m3u8?token=15ed8afb8254a116df90320387ad9edc6d4b423def3ecf7ff72d5836eb08881c.1770087532.9d21cf857761dea46c7b553fe388de86.69911819e8643d0e74d544e23fda721a.555a2f69e055d5a1e1020e614494b961.129fad2712104f40",
+                "https://cdn-live-tv.ru/api/v1/channels/us-espn/tracks-v1a1/mono.ts.m3u8?token=15ed8afb8254a116df90320387ad9edc6d4b423def3ecf7ff72d5836eb08881c.1770087532.9d21cf857761dea46c7b553fe388de86.69911819e8643d0e74d544e23fda721a.555a2f69e055d5a1e1020e614494b961.129fad2712104f40"
             ]
         },
         {
             "Title": "אן אף אל נטוורק",
             "TitleEng": "NFL Network",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NFLNetwork.png",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "45399",
             "EPGBackupProvider": "WGP.ENG",
@@ -366,7 +367,9 @@
                 "Referer:https://kondoplay.cfd/ https://topembed.pw/"
             ],
             "StreamUrls": [
-                "https://zekonew.newkso.ru/zeko/premium405/mono.m3u8"
+                "https://zekonew.newkso.ru/zeko/premium405/mono.m3u8",
+                "https://cdn-live-tv.ru/api/v1/channels/us-nfl-network/index.m3u8?token=c0dfe5f4fd23a977147860e59f870f55fc4593b72477a3ee88660cf0e3157d16.1770087717.0a69fc8e0c6d7a55c0c58588107b7895.6e19676d30d144b9211f7d2c79d85a44.09b981a7677cd859f0f365d40b9500d9.87100ce63f1be7fd",
+                "https://cdn-live-tv.ru/api/v1/channels/us-nfl-network/tracks-v1a1/mono.ts.m3u8?token=c0dfe5f4fd23a977147860e59f870f55fc4593b72477a3ee88660cf0e3157d16.1770087717.0a69fc8e0c6d7a55c0c58588107b7895.6e19676d30d144b9211f7d2c79d85a44.09b981a7677cd859f0f365d40b9500d9.87100ce63f1be7fd"
             ]
         },
         {
@@ -391,7 +394,6 @@
             "Title": "סקיי ספורטס אירוע מרכזי",
             "TitleEng": "Sky Sports Main Event",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkySportsMainEvent.png",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "7673",
             "BufferingTimer": "1",
@@ -402,7 +404,9 @@
                 "Referer:https://kondoplay.cfd/ https://topembed.pw/"
             ],
             "StreamUrls": [
-                "https://zekonew.newkso.ru/zeko/premium38/mono.m3u8"
+                "https://zekonew.newkso.ru/zeko/premium38/mono.m3u8",
+                "https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-main-event/index.m3u8?token=a8a0bc65e71a0bcec0d622f67bd831253017721e81393f67171d4e28a05081c0.1770087862.9a6f788ed21335b35d0e7ae5543d36ce.c2f55c63fbd49d2bfaaa059545baac35.507fdc47b984b5b6d4eccd563bce144a.bf90e86e2732b164",
+                "https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-main-event/tracks-v1a1/mono.ts.m3u8?token=a8a0bc65e71a0bcec0d622f67bd831253017721e81393f67171d4e28a05081c0.1770087862.9a6f788ed21335b35d0e7ae5543d36ce.c2f55c63fbd49d2bfaaa059545baac35.507fdc47b984b5b6d4eccd563bce144a.bf90e86e2732b164"
             ]
         },        
         {
@@ -628,7 +632,6 @@
             "Title": "סי בי אס ניו יורק",
             "TitleEng": "CBS NY",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CBSNY.png",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "468311",
             "StreamFormat": "hls",
@@ -638,7 +641,9 @@
                 "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
-                "https://zekonew.newkso.ru/zeko/premium767/mono.m3u8"
+                "https://zekonew.newkso.ru/zeko/premium767/mono.m3u8",
+                "https://cdn-live-tv.ru/api/v1/channels/us-cbs/index.m3u8?token=61e43eb5ab5479879e1644653d8fe2486c879c8e85d3da22af58484738f0c857.1770086691.4bd56b15506825fe06c0c664a1bc330d.fa20c456d8739099787ce7d1fa476c70.fc17296e65a880c565735a7530bc4183.d1c7c4e6d2816b04",
+                "https://cdn-live-tv.ru/api/v1/channels/us-cbs/tracks-v1a1/mono.ts.m3u8?token=61e43eb5ab5479879e1644653d8fe2486c879c8e85d3da22af58484738f0c857.1770086691.4bd56b15506825fe06c0c664a1bc330d.fa20c456d8739099787ce7d1fa476c70.fc17296e65a880c565735a7530bc4183.d1c7c4e6d2816b04"
             ]
         },
         {
