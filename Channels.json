@@ -530,8 +530,7 @@
             "EPGBackupStationId": "465150",
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8",
-                "https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master_4000.m3u8",
+                "https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8"
                 "https://abcnews-streams.akamaized.net/hls/live/2023562/abcnewshudson3/master_4000.m3u8"
             ]
         },
@@ -579,7 +578,8 @@
             "EPGStationId": "שידור חדשות חי, או הקלטת החדשות האחרונות.",        
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://content.uplynk.com/SuNoSwen/index.m3u8?channel=106"
+                "https://content.uplynk.com/SuNoSwen/index.m3u8?channel=106",
+                "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreakingnews-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk3MDk1MjQxNn0"
             ]
         },
         {
@@ -590,6 +590,7 @@
             "EPGStationId": "שידור חדשות חי, או הקלטת החדשות האחרונות.",        
             "StreamFormat": "hls",
             "StreamUrls": [
+                "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13seattlekcpq-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAzODYwOTY1MH0"
             ]
         },
         {
