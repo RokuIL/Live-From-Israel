@@ -530,7 +530,9 @@
             "EPGBackupStationId": "465150",
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
+                "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8",
+                "https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master_4000.m3u8",
+                "https://abcnews-streams.akamaized.net/hls/live/2023562/abcnewshudson3/master_4000.m3u8"
             ]
         },
         {
