@@ -530,7 +530,7 @@
             "EPGBackupStationId": "465150",
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8"
+                "https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8",
                 "https://abcnews-streams.akamaized.net/hls/live/2023562/abcnewshudson3/master_4000.m3u8"
             ]
         },
