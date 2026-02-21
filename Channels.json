@@ -116,7 +116,6 @@
             "Title": "ספורט 1",
             "TitleEng": "Sport 1",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-1.png",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "Sport1",
             "EPGStationId": "2",
             "EPGBackupProvider": "Walla",
@@ -125,18 +124,17 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://kondoplay.cfd",
-                "Referer:https://kondoplay.cfd/"
+                "Origin:https://www.ksohls.ru",
+                "Referer:https://www.ksohls.ru/"
             ],
             "StreamUrls": [
-                ""
+                "https://arbitrageai.cc/proxy/zeko/premium140/mono.m3u8"
             ]
         },
         {
             "Title": "ספורט 2",
             "TitleEng": "Sport 2",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-3.png",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "Sport1",
             "EPGStationId": "3",
             "EPGBackupProvider": "Walla",
@@ -145,18 +143,17 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://kondoplay.cfd",
-                "Referer:https://kondoplay.cfd/"
+                "Origin:https://www.ksohls.ru",
+                "Referer:https://www.ksohls.ru/"
             ],
             "StreamUrls": [
-                ""
+                "https://arbitrageai.cc/proxy/zeko/premium141/mono.m3u8"
             ]
         },
         {
             "Title": "ספורט 3",
             "TitleEng": "Sport 3",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-4.png",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "Sport1",
             "EPGStationId": "4",
             "EPGBackupProvider": "Walla",
@@ -165,18 +162,17 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://kondoplay.cfd",
-                "Referer:https://kondoplay.cfd/"
+                "Origin:https://www.ksohls.ru",
+                "Referer:https://www.ksohls.ru/"
             ],
             "StreamUrls": [
-                ""
+                "https://arbitrageai.cc/proxy/zeko/premium142/mono.m3u8"
             ]
         },
         {
             "Title": "ספורט 4",
             "TitleEng": "Sport 4",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-5.png",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "Sport1",
             "EPGStationId": "5",
             "EPGBackupProvider": "Walla",
@@ -185,18 +181,17 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://kondoplay.cfd",
-                "Referer:https://kondoplay.cfd/"
+                "Origin:https://www.ksohls.ru",
+                "Referer:https://www.ksohls.ru/"
             ],
             "StreamUrls": [
-                ""
+                "https://arbitrageai.cc/proxy/zeko/premium143/mono.m3u8"
             ]
         },
         {
             "Title": "ספורט 5",
             "TitleEng": "Sport 5",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5.jpg",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5",
             "EPGBackupProvider": "Walla",
@@ -205,36 +200,34 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://epicplayplay.cfd https://kondoplay.cfd",
-                "Referer:https://epicplayplay.cfd/ https://kondoplay.cfd/"
+                "Origin:https://www.ksohls.ru",
+                "Referer:https://www.ksohls.ru/"
             ],
             "StreamUrls": [
-                ""
+                "https://arbitrageai.cc/proxy/zeko/premium144/mono.m3u8"
             ]
         },
         {
             "Title": "ספורט 5 פלוס",
             "TitleEng": "Sport 5 Plus",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Plus.jpg",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5P",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://kondoplay.cfd",
-                "Referer:https://kondoplay.cfd/"
+                "Origin:https://www.ksohls.ru",
+                "Referer:https://www.ksohls.ru/"
             ],
             "StreamUrls": [
-                ""
+                "https://arbitrageai.cc/proxy/zeko/premium145/mono.m3u8"
             ]
         },
         {
             "Title": "ספורט 5 לייב",
             "TitleEng": "Sport 5 Live",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Live.jpg",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "Sport5TV",
             "EPGStationId": "LIVE",
             "EPGBackupProvider": "Walla",
@@ -243,18 +236,17 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://kondoplay.cfd",
-                "Referer:https://kondoplay.cfd/"
+                "Origin:https://www.ksohls.ru",
+                "Referer:https://www.ksohls.ru/"
             ],
             "StreamUrls": [
-                ""
+                "https://arbitrageai.cc/proxy/zeko/premium146/mono.m3u8"
             ]
         },
         {
             "Title": "ספורט 5 סטארס",
             "TitleEng": "Sport 5 Stars",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Stars.jpg",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5STARS",
             "EPGBackupProvider": "Walla",
@@ -263,11 +255,11 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://kondoplay.cfd",
-                "Referer:https://kondoplay.cfd/"
+                "Origin:https://www.ksohls.ru",
+                "Referer:https://www.ksohls.ru/"
             ],
             "StreamUrls": [
-                ""
+                "https://arbitrageai.cc/proxy/zeko/premium147/mono.m3u8"
             ]
         },
         {
