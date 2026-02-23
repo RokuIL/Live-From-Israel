@@ -31,6 +31,28 @@
             ]
         },  
         {
+            "Title": "סיאטל מרינרס",
+            "TitleEng": "Seattle Mariners",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Mariners.png",
+            "OnlyIn" : "Disabled",
+            "EPGProvider": "Text",
+            "EPGStationId": "שידור ישיר בזמן משחק.",        
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
+                "Origin:https://embedsports.top https://a.embedsports.top https://streams.center https://streams.center",
+                "Referer:https://embedsports.top/ https://a.embedsports.top/ https://streams.center/ https://streams.center/"
+            ],
+            "StreamUrls": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },  
+        {
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
