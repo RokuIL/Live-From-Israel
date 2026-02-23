@@ -332,7 +332,6 @@
             "Title": "אי אס פי אן",
             "TitleEng": "ESPN",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN.png",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "10179",
             "EPGBackupProvider": "WGP.ENG",
@@ -345,14 +344,14 @@
                 "Referer:https://kondoplay.cfd/ https://topembed.pw/"
             ],
             "StreamUrls": [
-                "https://cdn-live-tv.ru/api/v1/channels/us-espn/index.m3u8"
+                "https://tvpass.org/live/ESPN/hd",
+                "https://tvpass.org/live/ESPN/sd"
             ]
         },
         {
             "Title": "אי אס פי אן 2",
             "TitleEng": "ESPN 2",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN2.png",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "12444",
             "EPGBackupProvider": "WGP.ENG",
@@ -365,14 +364,14 @@
                 "Referer:https://kondoplay.cfd/ https://topembed.pw/"
             ],
             "StreamUrls": [
-                "https://cdn-live-tv.ru/api/v1/channels/us-espn-2/index.m3u8"
+                "https://tvpass.org/live/ESPN2/hd",
+                "https://tvpass.org/live/ESPN2/sd"
             ]
         },
         {
             "Title": "אן אף אל נטוורק",
             "TitleEng": "NFL Network",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NFLNetwork.png",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "45399",
             "EPGBackupProvider": "WGP.ENG",
@@ -385,7 +384,8 @@
                 "Referer:https://kondoplay.cfd/ https://topembed.pw/"
             ],
             "StreamUrls": [
-                "https://cdn-live-tv.ru/api/v1/channels/us-nfl-network/index.m3u8"
+                "https://tvpass.org/live/NFLNetwork/hd",
+                "https://tvpass.org/live/NFLNetwork/sd"
             ]
         },
         {
@@ -513,7 +513,9 @@
             "StreamUrls": [
                 "https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8",
                 "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-                "https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8"
+                "https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8",
+                "https://tvpass.org/live/CNN/hd",
+                "https://tvpass.org/live/CNN/sd"
             ]
         },
         {
@@ -535,7 +537,9 @@
                 "https://s3.usnlive.com/stream/foxnews.m3u8",
                 "https://s2.usnlive.com/stream/foxnews.m3u8",
                 "https://s1.usnlive.com/stream/foxnews.m3u8",
-                "https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8"
+                "https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8",
+                "https://tvpass.org/live/FoxNewsChannel/hd",
+                "https://tvpass.org/live/FoxNewsChannel/sd"
             ]
         },
         {
@@ -649,7 +653,6 @@
             "Title": "סי בי אס ניו יורק",
             "TitleEng": "CBS NY",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CBSNY.png",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "468311",
             "StreamFormat": "hls",
@@ -659,14 +662,14 @@
                 "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
-                "https://cdn-live-tv.ru/api/v1/channels/us-cbs/index.m3u8"
+                "https://tvpass.org/live/WCBSDT1/hd",
+                "https://tvpass.org/live/WCBSDT1/sd"
             ]
         },
         {
             "Title": "פוקס ניו יורק",
             "TitleEng": "Fox NY",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FOXNY.png",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "469143",
             "StreamFormat": "hls",
@@ -676,7 +679,8 @@
                 "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
-                "https://cdn-live-tv.ru/api/v1/channels/us-fox/index.m3u8"
+                "https://tvpass.org/live/WNYWDT1/hd",
+                "https://tvpass.org/live/WNYWDT1/sd"
             ]
         },
         {
