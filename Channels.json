@@ -138,6 +138,7 @@
             "Title": "ספורט 1",
             "TitleEng": "Sport 1",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-1.png",
+            "OnlyIn" : "Disabled",
             "EPGProvider": "Sport1",
             "EPGStationId": "2",
             "EPGBackupProvider": "Walla",
@@ -147,10 +148,10 @@
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
                 "Origin:https://www.ksohls.ru",
-                "Referer:https://chevy.soyspace.cyou/proxy/zeko/premium140/mono.css https://www.ksohls.ru/"
+                "Referer:https://www.ksohls.ru/"
             ],
             "StreamUrls": [
-                "https://chevy.soyspace.cyou/proxy/zeko/premium140/mono.css"
+                "https://arbitrageai.cc/proxy/zeko/premium140/mono.m3u8"
             ]
         },
         {
