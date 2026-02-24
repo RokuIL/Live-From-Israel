@@ -636,7 +636,6 @@
             "Title": "אן בי סי ניו יורק",
             "TitleEng": "NBC NY",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNY.png",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "467015",
             "StreamFormat": "hls",
@@ -646,7 +645,8 @@
                 "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
-                "https://cdn-live-tv.ru/api/v1/channels/us-nbc/index.m3u8"
+                "https://tvpass.org/live/WNBCDT1/hd",
+                "https://tvpass.org/live/WNBCDT1/sd"
             ]
         },
         {
