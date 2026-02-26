@@ -569,6 +569,18 @@
             ]
         },
         {
+            "Title": "סי בי אס ניוז",
+            "TitleEng": "CBS News",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CBSNews.png",
+            "EPGProvider": "WGP.ENG",
+            "EPGStationId": "464941",
+            "StreamFormat": "hls",
+            "StreamUrls": [
+                "https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/c9a48de4-5b6e-4bb9-bb5c-04ce6a5b722c:CHS/master.m3u8",
+                "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"
+            ]
+        },
+        {
             "Title": "חדשות קומו 4",
             "TitleEng": "Komo 4 News",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Komo4News.png",
@@ -662,6 +674,7 @@
                 "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
+                "https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8",
                 "https://tvpass.org/live/WCBSDT1/hd",
                 "https://tvpass.org/live/WCBSDT1/sd"
             ]
