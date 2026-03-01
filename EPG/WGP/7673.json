@@ -47,6 +47,11 @@
     {
         "start":  "2026-03-01T14:00:00.0000000",
         "title":  "â‹— Premier League. Manchester United v Crystal Palace",
+        "end":  "2026-03-01T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-01T16:00:00.0000000",
+        "title":  "â‹— Premier League. Arsenal v Chelsea",
         "end":  "2026-03-01T16:25:00.0000000"
     },
     {
@@ -96,7 +101,7 @@
     },
     {
         "start":  "2026-03-02T08:00:00.0000000",
-        "title":  "Sky Sports Breakfast",
+        "title":  "â‹— Sky Sports Breakfast",
         "end":  "2026-03-02T09:00:00.0000000"
     },
     {
@@ -111,7 +116,22 @@
     },
     {
         "start":  "2026-03-02T11:00:00.0000000",
-        "title":  "Sky Sports FC",
+        "title":  "â‹— Sky Sports FC",
+        "end":  "2026-03-02T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-02T12:00:00.0000000",
+        "title":  "â‹— Lunchtime Live",
+        "end":  "2026-03-02T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-02T13:00:00.0000000",
+        "title":  "â‹— Lunchtime Live",
+        "end":  "2026-03-02T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-02T14:00:00.0000000",
+        "title":  "â‹— Sports Desk",
         "end":  "2026-03-03T00:00:00.0000000"
     },
     {
@@ -146,7 +166,7 @@
     },
     {
         "start":  "2026-03-02T08:00:00.0000000",
-        "title":  "Sky Sports Breakfast",
+        "title":  "â‹— Sky Sports Breakfast",
         "end":  "2026-03-02T09:00:00.0000000"
     },
     {
@@ -161,73 +181,23 @@
     },
     {
         "start":  "2026-03-02T11:00:00.0000000",
-        "title":  "Sky Sports FC",
+        "title":  "â‹— Sky Sports FC",
+        "end":  "2026-03-02T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-02T12:00:00.0000000",
+        "title":  "â‹— Lunchtime Live",
+        "end":  "2026-03-02T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-02T13:00:00.0000000",
+        "title":  "â‹— Lunchtime Live",
+        "end":  "2026-03-02T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-02T14:00:00.0000000",
+        "title":  "â‹— Sports Desk",
         "end":  "2026-03-03T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-01T02:15:00.0000000",
-        "title":  "Super League Rugby. Grand Final",
-        "end":  "2026-03-01T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-03-01T02:30:00.0000000",
-        "title":  "â‹— HSBC Women\u0027s World Championship LPGA Golf. Day 4",
-        "end":  "2026-03-01T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-03-01T06:30:00.0000000",
-        "title":  "The Sky Sports Catch-Up",
-        "end":  "2026-03-01T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-01T07:00:00.0000000",
-        "title":  "Goals on Sunday. Series 2026 Episode 8",
-        "end":  "2026-03-01T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-03-01T07:30:00.0000000",
-        "title":  "Goals on Sunday. Series 2026 Episode 8",
-        "end":  "2026-03-01T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-01T08:00:00.0000000",
-        "title":  "Super League Rugby. Hull Kingston Rovers v Leeds Rhinos",
-        "end":  "2026-03-01T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-01T09:00:00.0000000",
-        "title":  "â‹— ICC T20 World Cup. Super Eight: TBA v TBA",
-        "end":  "2026-03-01T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-01T11:00:00.0000000",
-        "title":  "â‹— Scottish Premiership Football. Rangers v Celtic",
-        "end":  "2026-03-01T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-01T13:00:00.0000000",
-        "title":  "â‹— Premier League. Manchester United v Crystal Palace",
-        "end":  "2026-03-01T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-01T14:00:00.0000000",
-        "title":  "â‹— Premier League. Manchester United v Crystal Palace",
-        "end":  "2026-03-01T16:25:00.0000000"
-    },
-    {
-        "start":  "2026-03-01T16:25:00.0000000",
-        "title":  "â‹— Premier League. Arsenal v Chelsea",
-        "end":  "2026-03-01T19:30:00.0000000"
-    },
-    {
-        "start":  "2026-03-01T19:30:00.0000000",
-        "title":  "â‹— Cognizant Classic, PGA Tour Golf. Day 4",
-        "end":  "2026-03-01T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-01T23:00:00.0000000",
-        "title":  "â‹— The Sky Sports Catch-Up",
-        "end":  "2026-03-02T00:00:00.0000000"
     },
     {
         "start":  "2026-03-02T00:00:00.0000000",
@@ -261,7 +231,7 @@
     },
     {
         "start":  "2026-03-02T08:00:00.0000000",
-        "title":  "Sky Sports Breakfast",
+        "title":  "â‹— Sky Sports Breakfast",
         "end":  "2026-03-02T09:00:00.0000000"
     },
     {
@@ -276,7 +246,22 @@
     },
     {
         "start":  "2026-03-02T11:00:00.0000000",
-        "title":  "Sky Sports FC",
+        "title":  "â‹— Sky Sports FC",
+        "end":  "2026-03-02T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-02T12:00:00.0000000",
+        "title":  "â‹— Lunchtime Live",
+        "end":  "2026-03-02T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-02T13:00:00.0000000",
+        "title":  "â‹— Lunchtime Live",
+        "end":  "2026-03-02T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-02T14:00:00.0000000",
+        "title":  "â‹— Sports Desk",
         "end":  "2026-03-03T00:00:00.0000000"
     }
 ]
