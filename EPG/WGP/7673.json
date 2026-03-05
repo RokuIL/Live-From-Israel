@@ -1,130 +1,5 @@
 [
     {
-        "start":  "2026-03-04T00:00:00.0000000",
-        "title":  "Through the Night",
-        "end":  "2026-03-04T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-04T01:00:00.0000000",
-        "title":  "Through the Night",
-        "end":  "2026-03-04T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-04T02:00:00.0000000",
-        "title":  "â‹— TGL. The Bay Golf Club v Jupiter Links Golf Club",
-        "end":  "2026-03-04T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-04T04:00:00.0000000",
-        "title":  "Through the Night",
-        "end":  "2026-03-04T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-04T05:00:00.0000000",
-        "title":  "Through the Night",
-        "end":  "2026-03-04T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-04T07:00:00.0000000",
-        "title":  "â‹— Sky Sports Breakfast",
-        "end":  "2026-03-04T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-04T08:00:00.0000000",
-        "title":  "â‹— Sky Sports Breakfast",
-        "end":  "2026-03-04T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-04T09:00:00.0000000",
-        "title":  "â‹— Sky Sports Breakfast",
-        "end":  "2026-03-04T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-04T10:00:00.0000000",
-        "title":  "â‹— Sky Sports FC",
-        "end":  "2026-03-04T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-04T11:00:00.0000000",
-        "title":  "â‹— Sky Sports FC",
-        "end":  "2026-03-04T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-04T12:00:00.0000000",
-        "title":  "â‹— Lunchtime Live",
-        "end":  "2026-03-04T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-04T13:00:00.0000000",
-        "title":  "â‹— ICC T20 World Cup. Semi-Final: TBA v TBA",
-        "end":  "2026-03-04T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-04T17:00:00.0000000",
-        "title":  "â‹— The Premier League Show",
-        "end":  "2026-03-04T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-04T18:00:00.0000000",
-        "title":  "â‹— The Premier League Show",
-        "end":  "2026-03-04T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-04T19:00:00.0000000",
-        "title":  "â‹— Scottish Premiership Football. Aberdeen v Celtic",
-        "end":  "2026-03-04T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-03-04T22:30:00.0000000",
-        "title":  "â‹— Live Tennis: ATP \u0026 WTA Indian Wells Open 2026. Day 1",
-        "end":  "2026-03-05T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-05T02:00:00.0000000",
-        "title":  "â‹— Live Tennis: ATP \u0026 WTA Indian Wells Open 2026. Day 1",
-        "end":  "2026-03-05T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-05T06:00:00.0000000",
-        "title":  "â‹— Blue Bay LPGA Tour Golf. Day 1",
-        "end":  "2026-03-05T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-05T09:00:00.0000000",
-        "title":  "â‹— Ref Watch",
-        "end":  "2026-03-05T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-05T10:00:00.0000000",
-        "title":  "â‹— Sky Sports FC",
-        "end":  "2026-03-05T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-03-05T10:30:00.0000000",
-        "title":  "â‹— Joburg Open, DP World Tour Golf. Day 1",
-        "end":  "2026-03-05T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-05T13:00:00.0000000",
-        "title":  "â‹— ICC T20 World Cup. Semi-Final: TBA v TBA",
-        "end":  "2026-03-05T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-05T17:00:00.0000000",
-        "title":  "â‹— Arnold Palmer Invitational, PGA Tour Golf. Day 1: Featured Groups",
-        "end":  "2026-03-05T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-05T19:00:00.0000000",
-        "title":  "â‹— Premier League Darts. Night 5: Cardiff",
-        "end":  "2026-03-05T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-05T23:00:00.0000000",
-        "title":  "â‹— Live Tennis: ATP \u0026 WTA Indian Wells Open 2026. Day 2",
-        "end":  "2026-03-06T00:00:00.0000000"
-    },
-    {
         "start":  "2026-03-05T02:00:00.0000000",
         "title":  "â‹— Live Tennis: ATP \u0026 WTA Indian Wells Open 2026. Day 1",
         "end":  "2026-03-05T06:00:00.0000000"
@@ -383,5 +258,145 @@
         "start":  "2026-03-07T23:00:00.0000000",
         "title":  "Live Tennis: ATP \u0026 WTA Indian Wells Open 2026. Day 4",
         "end":  "2026-03-08T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-07T00:10:00.0000000",
+        "title":  "â‹— FIA Formula 3 Championship. Australia: Sprint Race",
+        "end":  "2026-03-07T01:10:00.0000000"
+    },
+    {
+        "start":  "2026-03-07T01:10:00.0000000",
+        "title":  "â‹— Formula 1. Australian Grand Prix: 3rd Practice",
+        "end":  "2026-03-07T03:05:00.0000000"
+    },
+    {
+        "start":  "2026-03-07T03:05:00.0000000",
+        "title":  "â‹— FIA Formula 2 Championship. Australia: Sprint Race",
+        "end":  "2026-03-07T04:10:00.0000000"
+    },
+    {
+        "start":  "2026-03-07T04:10:00.0000000",
+        "title":  "â‹— Formula 1. Australian Grand Prix: Qualifying",
+        "end":  "2026-03-07T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-07T07:00:00.0000000",
+        "title":  "â‹— Ted\u0027s Notebook. Australian Grand Prix: Qualifying",
+        "end":  "2026-03-07T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-07T07:30:00.0000000",
+        "title":  "Formula 1. Australian Grand Prix: Qualifying",
+        "end":  "2026-03-07T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-07T09:30:00.0000000",
+        "title":  "Ted\u0027s Notebook. Australian Grand Prix: Qualifying",
+        "end":  "2026-03-07T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-07T10:00:00.0000000",
+        "title":  "Formula 1. Australian Grand Prix: Qualifying",
+        "end":  "2026-03-07T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-07T11:00:00.0000000",
+        "title":  "â‹— EFL. Blackburn Rovers v Portsmouth",
+        "end":  "2026-03-07T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-07T15:00:00.0000000",
+        "title":  "Formula 1. Australian Grand Prix: Qualifying",
+        "end":  "2026-03-07T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-07T17:00:00.0000000",
+        "title":  "Ted\u0027s Notebook. Australian Grand Prix: Qualifying",
+        "end":  "2026-03-07T17:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-07T17:30:00.0000000",
+        "title":  "â‹— Arnold Palmer Invitational, PGA Tour Golf. Day 3",
+        "end":  "2026-03-07T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-07T23:00:00.0000000",
+        "title":  "Live Tennis: ATP \u0026 WTA Indian Wells Open 2026. Day 4",
+        "end":  "2026-03-08T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-08T02:00:00.0000000",
+        "title":  "â‹— Live Tennis: ATP \u0026 WTA Indian Wells Open 2026. Day 4",
+        "end":  "2026-03-08T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-08T02:30:00.0000000",
+        "title":  "â‹— Formula 1. Australian Grand Prix: Grand Prix Sunday",
+        "end":  "2026-03-08T03:55:00.0000000"
+    },
+    {
+        "start":  "2026-03-08T03:55:00.0000000",
+        "title":  "â‹— Formula 1. Australian Grand Prix: Race",
+        "end":  "2026-03-08T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-08T06:00:00.0000000",
+        "title":  "â‹— Formula 1. Australian Grand Prix: Chequered Flag",
+        "end":  "2026-03-08T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-08T07:00:00.0000000",
+        "title":  "â‹— Ted\u0027s Notebook. Australian Grand Prix: Race",
+        "end":  "2026-03-08T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-08T07:30:00.0000000",
+        "title":  "Formula 1. Australian Grand Prix: Grand Prix Sunday",
+        "end":  "2026-03-08T07:55:00.0000000"
+    },
+    {
+        "start":  "2026-03-08T07:55:00.0000000",
+        "title":  "Formula 1. Australian Grand Prix: Race",
+        "end":  "2026-03-08T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-08T10:00:00.0000000",
+        "title":  "Formula 1. Australian Grand Prix: Highlights",
+        "end":  "2026-03-08T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-08T11:00:00.0000000",
+        "title":  "Ted\u0027s Notebook. Australian Grand Prix: Race",
+        "end":  "2026-03-08T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-08T11:30:00.0000000",
+        "title":  "Formula 1. Australian Grand Prix: Highlights",
+        "end":  "2026-03-08T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-08T12:30:00.0000000",
+        "title":  "Ted\u0027s Notebook. Australian Grand Prix: Race",
+        "end":  "2026-03-08T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-08T13:00:00.0000000",
+        "title":  "â‹— ICC T20 World Cup. Final: TBA v TBA",
+        "end":  "2026-03-08T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-08T18:30:00.0000000",
+        "title":  "The Gloves Are Off. Caroline Dubois v Terri Harper",
+        "end":  "2026-03-08T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-08T19:00:00.0000000",
+        "title":  "â‹— Arnold Palmer Invitational, PGA Tour Golf. Day 4",
+        "end":  "2026-03-08T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-08T22:00:00.0000000",
+        "title":  "Live Tennis: ATP \u0026 WTA Indian Wells Open 2026. Day 5",
+        "end":  "2026-03-09T00:00:00.0000000"
     }
 ]
