@@ -16,7 +16,6 @@
             "EPGProvider": "Text",
             "EPGStationId": "שידור ישיר בזמן משחק.",        
             "Private": "True",
-            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -38,7 +37,6 @@
             "EPGProvider": "Text",
             "EPGStationId": "שידור ישיר בזמן משחק.",        
             "Private": "True",
-            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -143,7 +141,6 @@
             "EPGStationId": "2",
             "EPGBackupProvider": "Walla",
             "EPGBackupStationId": "146",
-            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -163,7 +160,6 @@
             "EPGStationId": "3",
             "EPGBackupProvider": "Walla",
             "EPGBackupStationId": "147",
-            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -183,7 +179,6 @@
             "EPGStationId": "4",
             "EPGBackupProvider": "Walla",
             "EPGBackupStationId": "3762",
-            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -203,7 +198,6 @@
             "EPGStationId": "5",
             "EPGBackupProvider": "Walla",
             "EPGBackupStationId": "3763",
-            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -223,7 +217,6 @@
             "EPGStationId": "5",
             "EPGBackupProvider": "Walla",
             "EPGBackupStationId": "289",
-            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -241,7 +234,6 @@
             "OnlyIn" : "Disabled",
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5P",
-            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -261,7 +253,6 @@
             "EPGStationId": "LIVE",
             "EPGBackupProvider": "Walla",
             "EPGBackupStationId": "322",
-            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -281,7 +272,6 @@
             "EPGStationId": "5STARS",
             "EPGBackupProvider": "Walla",
             "EPGBackupStationId": "521",
-            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -299,7 +289,6 @@
             "OnlyIn" : "Disabled",
             "EPGProvider": "Walla",
             "EPGStationId": "3551",
-            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -317,7 +306,6 @@
             "OnlyIn" : "Disabled",
             "EPGProvider": "WGP",
             "EPGStationId": "Sport%20One%202",
-            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -336,7 +324,6 @@
             "EPGStationId": "10179",
             "EPGBackupProvider": "WGP.ENG",
             "EPGBackupStationId": "465198",
-            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -356,7 +343,6 @@
             "EPGStationId": "12444",
             "EPGBackupProvider": "WGP.ENG",
             "EPGBackupStationId": "465373",
-            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -376,7 +362,6 @@
             "EPGStationId": "45399",
             "EPGBackupProvider": "WGP.ENG",
             "EPGBackupStationId": "465311",
-            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -395,7 +380,6 @@
             "OnlyIn" : "Disabled",
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "454969",
-            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -413,7 +397,6 @@
             "OnlyIn" : "Disabled",
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "7673",
-            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -431,7 +414,6 @@
             "OnlyIn" : "Disabled",
             "EPGProvider": "WGP",
             "EPGStationId": "Yes%20Movies%20Kids",
-            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -449,7 +431,6 @@
             "OnlyIn" : "Disabled",
             "EPGProvider": "WGP",
             "EPGStationId": "Yes%20Movies%20Action",
-            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -467,7 +448,6 @@
             "OnlyIn" : "Disabled",
             "EPGProvider": "WGP",
             "EPGStationId": "Yes%20TV%20Action",
-            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
@@ -485,7 +465,6 @@
             "OnlyIn" : "Disabled",
             "EPGProvider": "WGP",
             "EPGStationId": "Yes%20Movies%20Comedy",
-            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
