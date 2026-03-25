@@ -572,6 +572,151 @@
     {
         "start":  "2026-03-27T04:30:00.0000000",
         "title":  "ABC World News Tonight With David Muir",
+        "end":  "2026-03-27T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T05:00:00.0000000",
+        "title":  "ABCNL Prime With Linsey Davis",
+        "end":  "2026-03-27T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T06:00:00.0000000",
+        "title":  "ABC World News Now",
+        "end":  "2026-03-27T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T06:30:00.0000000",
+        "title":  "ABC World News Now",
+        "end":  "2026-03-27T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T07:00:00.0000000",
+        "title":  "ABC World News Now",
+        "end":  "2026-03-27T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T07:30:00.0000000",
+        "title":  "ABC World News Now",
+        "end":  "2026-03-27T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T08:00:00.0000000",
+        "title":  "Good Morning America First Look",
+        "end":  "2026-03-27T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T08:30:00.0000000",
+        "title":  "Nightline",
+        "end":  "2026-03-27T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T09:00:00.0000000",
+        "title":  "Good Morning America First Look",
+        "end":  "2026-03-27T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T09:30:00.0000000",
+        "title":  "Good Morning America First Look",
+        "end":  "2026-03-27T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T10:00:00.0000000",
+        "title":  "Good Morning America First Look",
+        "end":  "2026-03-27T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T10:30:00.0000000",
+        "title":  "Good Morning America First Look",
+        "end":  "2026-03-27T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T11:00:00.0000000",
+        "title":  "Good Morning America First Look",
+        "end":  "2026-03-27T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T11:30:00.0000000",
+        "title":  "Start Here",
+        "end":  "2026-03-27T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T12:00:00.0000000",
+        "title":  "Good Morning America First Look",
+        "end":  "2026-03-27T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T12:30:00.0000000",
+        "title":  "Start Here",
+        "end":  "2026-03-27T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T13:00:00.0000000",
+        "title":  "ABC News Live First",
+        "end":  "2026-03-27T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T14:30:00.0000000",
+        "title":  "ABC News Live First",
+        "end":  "2026-03-27T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T15:00:00.0000000",
+        "title":  "ABC News Live First",
+        "end":  "2026-03-27T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T15:30:00.0000000",
+        "title":  "ABC News Live First",
+        "end":  "2026-03-27T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T16:00:00.0000000",
+        "title":  "ABC News Live First",
+        "end":  "2026-03-27T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T16:30:00.0000000",
+        "title":  "ABC News Live First",
+        "end":  "2026-03-27T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T17:00:00.0000000",
+        "title":  "ABC News Live",
+        "end":  "2026-03-27T17:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T17:30:00.0000000",
+        "title":  "ABC News Live",
+        "end":  "2026-03-27T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T18:00:00.0000000",
+        "title":  "ABC News Live",
+        "end":  "2026-03-27T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T18:30:00.0000000",
+        "title":  "ABC News Live",
+        "end":  "2026-03-27T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T19:00:00.0000000",
+        "title":  "ABC News Live",
+        "end":  "2026-03-27T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T19:30:00.0000000",
+        "title":  "ABC News Live",
+        "end":  "2026-03-27T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T20:00:00.0000000",
+        "title":  "ABC News Live Reports",
+        "end":  "2026-03-27T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T23:00:00.0000000",
+        "title":  "ABCNL Prime With Linsey Davis",
         "end":  "2026-03-28T00:00:00.0000000"
     },
     {
@@ -607,6 +752,186 @@
     {
         "start":  "2026-03-27T04:30:00.0000000",
         "title":  "ABC World News Tonight With David Muir",
+        "end":  "2026-03-27T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T05:00:00.0000000",
+        "title":  "ABCNL Prime With Linsey Davis",
+        "end":  "2026-03-27T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T06:00:00.0000000",
+        "title":  "ABC World News Now",
+        "end":  "2026-03-27T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T06:30:00.0000000",
+        "title":  "ABC World News Now",
+        "end":  "2026-03-27T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T07:00:00.0000000",
+        "title":  "ABC World News Now",
+        "end":  "2026-03-27T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T07:30:00.0000000",
+        "title":  "ABC World News Now",
+        "end":  "2026-03-27T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T08:00:00.0000000",
+        "title":  "Good Morning America First Look",
+        "end":  "2026-03-27T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T08:30:00.0000000",
+        "title":  "Nightline",
+        "end":  "2026-03-27T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T09:00:00.0000000",
+        "title":  "Good Morning America First Look",
+        "end":  "2026-03-27T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T09:30:00.0000000",
+        "title":  "Good Morning America First Look",
+        "end":  "2026-03-27T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T10:00:00.0000000",
+        "title":  "Good Morning America First Look",
+        "end":  "2026-03-27T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T10:30:00.0000000",
+        "title":  "Good Morning America First Look",
+        "end":  "2026-03-27T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T11:00:00.0000000",
+        "title":  "Good Morning America First Look",
+        "end":  "2026-03-27T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T11:30:00.0000000",
+        "title":  "Start Here",
+        "end":  "2026-03-27T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T12:00:00.0000000",
+        "title":  "Good Morning America First Look",
+        "end":  "2026-03-27T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T12:30:00.0000000",
+        "title":  "Start Here",
+        "end":  "2026-03-27T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T13:00:00.0000000",
+        "title":  "ABC News Live First",
+        "end":  "2026-03-27T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T14:30:00.0000000",
+        "title":  "ABC News Live First",
+        "end":  "2026-03-27T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T15:00:00.0000000",
+        "title":  "ABC News Live First",
+        "end":  "2026-03-27T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T15:30:00.0000000",
+        "title":  "ABC News Live First",
+        "end":  "2026-03-27T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T16:00:00.0000000",
+        "title":  "ABC News Live First",
+        "end":  "2026-03-27T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T16:30:00.0000000",
+        "title":  "ABC News Live First",
+        "end":  "2026-03-27T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T17:00:00.0000000",
+        "title":  "ABC News Live",
+        "end":  "2026-03-27T17:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T17:30:00.0000000",
+        "title":  "ABC News Live",
+        "end":  "2026-03-27T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T18:00:00.0000000",
+        "title":  "ABC News Live",
+        "end":  "2026-03-27T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T18:30:00.0000000",
+        "title":  "ABC News Live",
+        "end":  "2026-03-27T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T19:00:00.0000000",
+        "title":  "ABC News Live",
+        "end":  "2026-03-27T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T19:30:00.0000000",
+        "title":  "ABC News Live",
+        "end":  "2026-03-27T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T20:00:00.0000000",
+        "title":  "ABC News Live Reports",
+        "end":  "2026-03-27T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-27T23:00:00.0000000",
+        "title":  "ABCNL Prime With Linsey Davis",
         "end":  "2026-03-28T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-28T00:30:00.0000000",
+        "title":  "War with Iran",
+        "end":  "2026-03-28T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-28T01:00:00.0000000",
+        "title":  "ABCNL Prime With Linsey Davis",
+        "end":  "2026-03-28T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-28T02:00:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "end":  "2026-03-28T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-28T02:30:00.0000000",
+        "title":  "ABCNL Prime With Linsey Davis",
+        "end":  "2026-03-28T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-28T03:00:00.0000000",
+        "title":  "ABCNL Prime With Linsey Davis",
+        "end":  "2026-03-28T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-28T04:00:00.0000000",
+        "title":  "War with Iran",
+        "end":  "2026-03-28T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-03-28T04:30:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "end":  "2026-03-29T00:00:00.0000000"
     }
 ]
