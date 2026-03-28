@@ -1,135 +1,5 @@
 [
     {
-        "start":  "2026-03-27T00:00:00.0000000",
-        "title":  "Stay Tuned NOW With Gadi Schwartz",
-        "end":  "2026-03-27T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T01:00:00.0000000",
-        "title":  "Top Story With Tom Llamas",
-        "end":  "2026-03-27T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T02:00:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "end":  "2026-03-27T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T02:30:00.0000000",
-        "title":  "Stay Tuned NOW With Gadi Schwartz",
-        "end":  "2026-03-27T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T03:30:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "end":  "2026-03-27T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T04:00:00.0000000",
-        "title":  "Top Story With Tom Llamas",
-        "end":  "2026-03-27T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T05:00:00.0000000",
-        "title":  "Meet the Press NOW",
-        "end":  "2026-03-27T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T06:00:00.0000000",
-        "title":  "Dateline NBC: Graduation Night",
-        "end":  "2026-03-27T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T07:00:00.0000000",
-        "title":  "Dateline NBC: The Interrogation",
-        "end":  "2026-03-27T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T08:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-03-27T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T09:00:00.0000000",
-        "title":  "Early Today",
-        "end":  "2026-03-27T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T09:30:00.0000000",
-        "title":  "Early Today",
-        "end":  "2026-03-27T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T10:00:00.0000000",
-        "title":  "Early Today",
-        "end":  "2026-03-27T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T10:30:00.0000000",
-        "title":  "Early Today",
-        "end":  "2026-03-27T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T11:00:00.0000000",
-        "title":  "Morning News NOW",
-        "end":  "2026-03-27T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T12:00:00.0000000",
-        "title":  "Morning News NOW",
-        "end":  "2026-03-27T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T13:00:00.0000000",
-        "title":  "Morning News NOW",
-        "end":  "2026-03-27T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T14:00:00.0000000",
-        "title":  "Morning News NOW",
-        "end":  "2026-03-27T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T15:00:00.0000000",
-        "title":  "Morning News NOW",
-        "end":  "2026-03-27T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T16:00:00.0000000",
-        "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
-        "end":  "2026-03-27T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T17:00:00.0000000",
-        "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
-        "end":  "2026-03-27T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T18:00:00.0000000",
-        "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
-        "end":  "2026-03-27T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T19:00:00.0000000",
-        "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
-        "end":  "2026-03-27T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T20:00:00.0000000",
-        "title":  "Meet the Press NOW",
-        "end":  "2026-03-27T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T21:00:00.0000000",
-        "title":  "Hallie Jackson NOW",
-        "end":  "2026-03-27T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-27T23:00:00.0000000",
-        "title":  "Top Story With Tom Llamas",
-        "end":  "2026-03-28T00:00:00.0000000"
-    },
-    {
         "start":  "2026-03-28T00:00:00.0000000",
         "title":  "Stay Tuned NOW With Gadi Schwartz",
         "end":  "2026-03-28T01:00:00.0000000"
@@ -226,7 +96,12 @@
     },
     {
         "start":  "2026-03-28T18:00:00.0000000",
-        "title":  "Dateline NBC: While She Was Sleeping",
+        "title":  "Dateline NBC",
+        "end":  "2026-03-28T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-03-28T19:00:00.0000000",
+        "title":  "Dateline NBC: Heart of Darkness",
         "end":  "2026-03-28T20:00:00.0000000"
     },
     {
@@ -286,7 +161,7 @@
     },
     {
         "start":  "2026-03-29T14:00:00.0000000",
-        "title":  "Apollo: Journey to the Moon",
+        "title":  "Apollo: A Journey to the Moon",
         "end":  "2026-03-29T15:00:00.0000000"
     },
     {
@@ -678,5 +553,130 @@
         "start":  "2026-04-01T23:00:00.0000000",
         "title":  "Top Story With Tom Llamas",
         "end":  "2026-04-02T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T00:00:00.0000000",
+        "title":  "Stay Tuned NOW With Gadi Schwartz",
+        "end":  "2026-04-02T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T01:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "end":  "2026-04-02T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T02:00:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "end":  "2026-04-02T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T02:30:00.0000000",
+        "title":  "Stay Tuned NOW With Gadi Schwartz",
+        "end":  "2026-04-02T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T03:30:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "end":  "2026-04-02T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T04:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "end":  "2026-04-02T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T05:00:00.0000000",
+        "title":  "Meet the Press NOW",
+        "end":  "2026-04-02T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T06:00:00.0000000",
+        "title":  "Dateline NBC: Fatal Attraction",
+        "end":  "2026-04-02T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T07:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-04-02T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T09:00:00.0000000",
+        "title":  "Early Today",
+        "end":  "2026-04-02T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T09:30:00.0000000",
+        "title":  "Early Today",
+        "end":  "2026-04-02T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T10:00:00.0000000",
+        "title":  "Early Today",
+        "end":  "2026-04-02T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T10:30:00.0000000",
+        "title":  "Early Today",
+        "end":  "2026-04-02T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T11:00:00.0000000",
+        "title":  "Morning News NOW",
+        "end":  "2026-04-02T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T12:00:00.0000000",
+        "title":  "Morning News NOW",
+        "end":  "2026-04-02T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T13:00:00.0000000",
+        "title":  "Morning News NOW",
+        "end":  "2026-04-02T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T14:00:00.0000000",
+        "title":  "Morning News NOW",
+        "end":  "2026-04-02T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T15:00:00.0000000",
+        "title":  "Morning News NOW",
+        "end":  "2026-04-02T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T16:00:00.0000000",
+        "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
+        "end":  "2026-04-02T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T17:00:00.0000000",
+        "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
+        "end":  "2026-04-02T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T18:00:00.0000000",
+        "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
+        "end":  "2026-04-02T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T19:00:00.0000000",
+        "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
+        "end":  "2026-04-02T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T20:00:00.0000000",
+        "title":  "Meet the Press NOW",
+        "end":  "2026-04-02T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T21:00:00.0000000",
+        "title":  "Hallie Jackson NOW",
+        "end":  "2026-04-02T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-02T23:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "end":  "2026-04-03T00:00:00.0000000"
     }
 ]
