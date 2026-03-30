@@ -1,92 +1,12 @@
 [
     {
-        "start":  "2026-03-29T00:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-03-29T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-29T02:00:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "end":  "2026-03-29T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-03-29T02:30:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "end":  "2026-03-29T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-29T03:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-03-29T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-29T05:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-03-29T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-29T07:00:00.0000000",
-        "title":  "Dateline NBC: A Gathering Storm",
-        "end":  "2026-03-29T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-29T09:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-03-29T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-29T11:00:00.0000000",
-        "title":  "Dateline NBC: Deadly Connection",
-        "end":  "2026-03-29T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-29T13:00:00.0000000",
-        "title":  "Dateline NBC: While He Was Sleeping",
-        "end":  "2026-03-29T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-29T14:00:00.0000000",
-        "title":  "Apollo: A Journey to the Moon",
-        "end":  "2026-03-29T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-29T15:00:00.0000000",
-        "title":  "Sunday Today With Willie Geist",
-        "end":  "2026-03-29T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-29T16:00:00.0000000",
-        "title":  "Meet the Press",
-        "end":  "2026-03-29T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-29T17:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-03-29T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-29T19:00:00.0000000",
-        "title":  "Dateline NBC: The Carrollton Plot",
-        "end":  "2026-03-29T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-29T21:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-03-29T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-03-29T23:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-03-30T01:00:00.0000000"
-    },
-    {
         "start":  "2026-03-30T01:00:00.0000000",
         "title":  "Meet the Press",
         "end":  "2026-03-30T02:00:00.0000000"
     },
     {
         "start":  "2026-03-30T02:00:00.0000000",
-        "title":  "Dateline NBC: The Silhouette",
+        "title":  "Dateline NBC: Savannah Speaks: A Dateline Special",
         "end":  "2026-03-30T03:00:00.0000000"
     },
     {
@@ -688,5 +608,115 @@
         "start":  "2026-04-03T23:00:00.0000000",
         "title":  "Top Story With Tom Llamas",
         "end":  "2026-04-04T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-04T00:00:00.0000000",
+        "title":  "Stay Tuned NOW With Gadi Schwartz",
+        "end":  "2026-04-04T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-04T01:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "end":  "2026-04-04T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-04T02:00:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "end":  "2026-04-04T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-04-04T02:30:00.0000000",
+        "title":  "Stay Tuned NOW With Gadi Schwartz",
+        "end":  "2026-04-04T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-04-04T03:30:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "end":  "2026-04-04T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-04T04:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "end":  "2026-04-04T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-04T05:00:00.0000000",
+        "title":  "Meet the Press NOW",
+        "end":  "2026-04-04T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-04T06:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-04-04T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-04T08:00:00.0000000",
+        "title":  "Dateline NBC: Consumed",
+        "end":  "2026-04-04T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-04T09:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-04-04T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-04T10:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-04-04T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-04T11:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-04-04T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-04T12:00:00.0000000",
+        "title":  "Dateline NBC: The Fugitive Millionaire",
+        "end":  "2026-04-04T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-04T13:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-04-04T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-04T15:00:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "end":  "2026-04-04T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-04-04T15:30:00.0000000",
+        "title":  "Today",
+        "end":  "2026-04-04T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-04T17:00:00.0000000",
+        "title":  "Dateline NBC: A Killing in Cottonwood",
+        "end":  "2026-04-04T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-04T18:00:00.0000000",
+        "title":  "Dateline NBC: The Interrogation",
+        "end":  "2026-04-04T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-04T19:00:00.0000000",
+        "title":  "Dateline NBC: The Collector",
+        "end":  "2026-04-04T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-04T20:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-04-04T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-04T21:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-04-04T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-04-04T22:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-04-05T00:00:00.0000000"
     }
 ]
