@@ -69,26 +69,6 @@
     <display-name lang="US">WFOX-DT</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260412145500 +0000" stop="20260412155500 +0000" channel="Kan 11">
-    <title lang="he">כאן בשש - עם מאיה ראכלין</title>
-    <desc lang="he">הסיפורים הכי מעניינים בחדשות, הדיווחים והראיונות עם האנשים הכי רלוונטיים שנמצאים על סדר היום. כ' סמ'. שידור חי.(n)</desc>
-  </programme>
-  <programme start="20260412155500 +0000" stop="20260412165000 +0000" channel="Kan 11">
-    <title lang="he">שבע - עם ליאל קייזר</title>
-    <desc lang="he">כל ענייני היום הבוערים, האנשים שבמרכז החדשות ומיטב הפרשנים, מימין ומשמאל. שס''י. כ' סמ'. שידור חי.(n)</desc>
-  </programme>
-  <programme start="20260412165000 +0000" stop="20260412183500 +0000" channel="Kan 11">
-    <title lang="he">מהדורת כאן חדשות - עם טלי מורנו</title>
-    <desc lang="he">מהדורת החדשות המרכזית של כאן 11 עם נבחרת הכתבים והפרשנים של כאן חדשות. הפרסומים הראשונים, הכותרות החמות וכל הפרשנויות לצד כתבות מגזין ופינות קבועות. שס''י. כ' סמ'. שידור חי.(n)</desc>
-  </programme>
-  <programme start="20260412183500 +0000" stop="20260412191000 +0000" channel="Kan 11">
-    <title lang="he">זהו זה! - 90 שנה לשידור הציבורי</title>
-    <desc lang="he">חבורת זהו זה בפרק מיוחד שחוגג 90 שנה לשידור הציבורי, מחברים נוסטלגיה והומור עם החיים שלנו כאן ועכשיו: משה רבינו, חביתוש, הזקנים, והטילים מאירן. בפרק יתארחו בין היתר רבקה מיכאלי ולהקת תיסלם. כ' עב'.(n)</desc>
-  </programme>
-  <programme start="20260412191000 +0000" stop="20260412195600 +0000" channel="Kan 11">
-    <title lang="he">מה זה היה? - 90 שנה לשידור הציבורי</title>
-    <desc lang="he">לציון 90 שנות שידור ציבורי, רועי בר נתן לוקח את רבקה מיכאלי, האישה שהיא היא השידור הציבורי, לסיור משעשע בקטעי הארכיון שלה, כדי לנסות ולהבין ''מה זה היה?'' כ' עב'.(n)</desc>
-  </programme>
   <programme start="20260412195600 +0000" stop="20260412210000 +0000" channel="Kan 11">
     <title lang="he">חדשות הלילה - עם שרון דוידוביץ'</title>
     <desc lang="he">רגע לפני שהיום נגמר, חדשות הלילה תסכם עבורכם את כל הדברים החשובים והמעניינים שקרו היום - מזווית קצת אחרת. כ' סמ'. שידור חי.(n)</desc>
@@ -215,7 +195,7 @@
   </programme>
   <programme start="20260414010000 +0000" stop="20260414023400 +0000" channel="Kan 11">
     <title lang="he">מלחמתה של רעיה סיניצינה</title>
-    <desc lang="he">במאי צעיר מתעד גיבורת מלחמה סובייטית בת 94, שלחמה במצור על לנינגרד. במהלך התיעוד צוללים השניים לעמקי נשמתה ומעוררים את האישה הצעירה שבתוכה. סרט על מלחמה ואובדן שהופך לסיפור של אהבה וחברות. כ' עב'. ש.ח.(c)</desc>
+    <desc lang="he">במאי צעיר מתעד גיבורת מלחמה סובייטית בת 94, שלחמה במצור על לנינגרד. במהלך התיעוד צוללים השניים לעמקי נשמתה ומעוררים את האישה הצעירה שבתוכה. סרט על מלחמה ואובדן שהופך לסיפור של אהבה וחברות. כ' עב'. ש.ח.</desc>
   </programme>
   <programme start="20260414023400 +0000" stop="20260414030000 +0000" channel="Kan 11">
     <title lang="he">סליחה על השאלה 2 - דור שני ושלישי</title>
@@ -557,22 +537,6 @@
     <title lang="he">מהצד השני - עם גיא זהר</title>
     <desc lang="he">בימים של שטף בלתי פוסק של מסרים ואינפורמציה, יש מי שמנסה לעשות סדר. גיא זהר בטור יומי, חושף את הפער שבין המציאות לבין הדרך בה היא משתקפת בתקשורת, ואת המנגנונים שמעצבים לנו אותה. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260412145500 +0000" stop="20260412160000 +0000" channel="Keshet 12">
-    <title lang="he">שש עם...</title>
-    <desc lang="he">משדר חדשות מיוחד עם עודד בן עמי. כ' סמ'. שידור חי.(n)</desc>
-  </programme>
-  <programme start="20260412160000 +0000" stop="20260412165000 +0000" channel="Keshet 12">
-    <title lang="he">שבע עם - קרן מרציאנו</title>
-    <desc lang="he">קרן מרציאנו עם כל ההתפתחויות הכי חשובות של היום. בהשתתפות פאנל הפרשנים, בן כספית ועמית סגל. כ' סמ'. שידור חי.(n)</desc>
-  </programme>
-  <programme start="20260412165000 +0000" stop="20260412183000 +0000" channel="Keshet 12">
-    <title lang="he">המהדורה המרכזית</title>
-    <desc lang="he">בהגשת יונית לוי. בכל ערב הכתבים והפרשנים של החדשות 12 מעדכנים על האירועים הבולטים שהיו, וחושפים את מה שאחרים מנסים להסתיר. כ' סמ'. שס''י. שידור חי.(n)</desc>
-  </programme>
-  <programme start="20260412183000 +0000" stop="20260412200500 +0000" channel="Keshet 12">
-    <title lang="he">המירוץ למיליון 2026 - המבחן של אבא</title>
-    <desc lang="he">הרגע הכי קשה בג'מייקה מגיע וקורה הדבר שאזי הכי חשש ממנו ובצדק. האם הוא יעמוד במבחן? כ' עב'. ת.פ.(n)</desc>
-  </programme>
   <programme start="20260412200500 +0000" stop="20260412210000 +0000" channel="Keshet 12">
     <title lang="he">אברי ושרקי</title>
     <desc lang="he">אברי גלעד ויאיר שרקי בתכנית מיוחדת על כל אירועי היום בארץ ובעולם עם הפרשנים, הכתבים והאורחים המעניינים. כ' סמ'/עב'. שידור חי.(n)</desc>
@@ -739,11 +703,11 @@
   </programme>
   <programme start="20260414080000 +0000" stop="20260414091500 +0000" channel="Keshet 12">
     <title lang="he">לכל איש יש שם</title>
-    <desc lang="he">טקס ''לכל איש יש שם'' להנצחת קורבנות השואה במשכן הכנסת. הטקס נערך בסימן המשפחה היהודית בשואה. כ' סמ'.(c)</desc>
+    <desc lang="he">טקס ''לכל איש יש שם'' להנצחת קורבנות השואה במשכן הכנסת. הטקס נערך בסימן המשפחה היהודית בשואה. כ' סמ'.</desc>
   </programme>
   <programme start="20260414091500 +0000" stop="20260414120000 +0000" channel="Keshet 12">
     <title lang="he">12 בצוהריים</title>
-    <desc lang="he">משדר חדשות מיוחד עם עדי זריפי. כ' סמ'. שידור חי.(c)</desc>
+    <desc lang="he">משדר חדשות מיוחד עם עדי זריפי. כ' סמ'. שידור חי.</desc>
   </programme>
   <programme start="20260414120000 +0000" stop="20260414135500 +0000" channel="Keshet 12">
     <title lang="he">מהדורת היום - עם עמליה דואק ועופר חדד</title>
@@ -847,7 +811,7 @@
   </programme>
   <programme start="20260415120000 +0000" stop="20260415135500 +0000" channel="Keshet 12">
     <title lang="he">מהדורת היום - עם עמליה דואק</title>
-    <desc lang="he">עמליה דואק עם הכותרות הראשיות, הפאנלים המובילים עם הפרשנים, הפוליטיקאים והמומחים. כ' סמ'. שידור חי.(c)</desc>
+    <desc lang="he">עמליה דואק עם הכותרות הראשיות, הפאנלים המובילים עם הפרשנים, הפוליטיקאים והמומחים. כ' סמ'. שידור חי.</desc>
   </programme>
   <programme start="20260415135500 +0000" stop="20260415145500 +0000" channel="Keshet 12">
     <title lang="he">חמש עם - רפי רשף</title>
@@ -947,7 +911,7 @@
   </programme>
   <programme start="20260416135500 +0000" stop="20260416145500 +0000" channel="Keshet 12">
     <title lang="he">חמש עם - ירון אברהם</title>
-    <desc lang="he">משדר חדשות מיוחד עם ירון אברהם. כ' סמ'/עב'. שידור חי.(c)</desc>
+    <desc lang="he">משדר חדשות מיוחד עם ירון אברהם. כ' סמ'/עב'. שידור חי.</desc>
   </programme>
   <programme start="20260416145500 +0000" stop="20260416160000 +0000" channel="Keshet 12">
     <title lang="he">שש עם...</title>
@@ -955,7 +919,7 @@
   </programme>
   <programme start="20260416160000 +0000" stop="20260416165000 +0000" channel="Keshet 12">
     <title lang="he">שבע עם - גדעון אוקו</title>
-    <desc lang="he">גדעון אוקו עם כל ההתפתחויות הכי חשובות של היום. בהשתתפות פאנל הפרשנים, בן כספית ועמית סגל. כ' סמ'. שידור חי.(c)</desc>
+    <desc lang="he">גדעון אוקו עם כל ההתפתחויות הכי חשובות של היום. בהשתתפות פאנל הפרשנים, בן כספית ועמית סגל. כ' סמ'. שידור חי.</desc>
   </programme>
   <programme start="20260416165000 +0000" stop="20260416183000 +0000" channel="Keshet 12">
     <title lang="he">המהדורה המרכזית</title>
@@ -1081,51 +1045,31 @@
     <title lang="he">המירוץ למיליון 2026</title>
     <desc lang="he">תכנית הריאליטי הגדולה והאהובה בעולם חוזרת. 14 זוגות יתמודדו זה מול זה באתגרים ומשימות ברחבי העולם במסלול שלא נראה כמותו. בהנחיית יהודה לוי. כ' עב'. ת.פ. ש.ח.</desc>
   </programme>
-  <programme start="20260412145500 +0000" stop="20260412155900 +0000" channel="Reshet 13">
-    <title lang="he">מוריה וברקו</title>
-    <desc lang="he">הצמד הטלוויזיוני החדש מוריה אסרף ואייל ברקוביץ מדברים בלי הנחות על הנושאים החמים והחשובים שעל סדר היום. כ' סמ' שידור חי.(n)</desc>
-  </programme>
-  <programme start="20260412155900 +0000" stop="20260412165000 +0000" channel="Reshet 13">
-    <title lang="he">אזור בחירה - רביב דרוקר</title>
-    <desc lang="he">אזור בחירה עם רביב דרוקר. כ' סמ' שידור חי.(n)</desc>
-  </programme>
-  <programme start="20260412165000 +0000" stop="20260412181500 +0000" channel="Reshet 13">
-    <title lang="he">חדשות: המהדורה המרכזית</title>
-    <desc lang="he">המהדורה המרכזית של ערוץ 13 עם דוריה למפל ואודי סגל. כ' סמ' שידור חי.(n)</desc>
-  </programme>
-  <programme start="20260412181500 +0000" stop="20260412201500 +0000" channel="Reshet 13">
-    <title lang="he">האח הגדול - הסערה שאחרי ההדחה</title>
-    <desc lang="he">זוהר ותמיר הודחו והדיירים לא האמינו שזה אמיתי! ההדחות מדהימות את הבית, והדמעות לא מפסיקות! אבל יש דיירים בבית שדווקא חוגגים... לא תאמינו איך אלירן הגיב בזמן שהסערה בבית הגיעה לשיא. כ' עב'/סמ', ת.פ שידור חי.(n)</desc>
-  </programme>
-  <programme start="20260412201500 +0000" stop="20260412203500 +0000" channel="Reshet 13">
-    <title lang="he">הצינור - גיא לרר</title>
+  <programme start="20260412203000 +0000" stop="20260412205000 +0000" channel="Reshet 13">
+    <title lang="he">הצינור - ראיון הדחה כפול!</title>
     <desc lang="he">מגזין הרשת של ערוץ 13 גיא לרר בתכנית אקטואליה חברתית, עם תחקירים, כתבות וכל הסיפורים החמים מהרשת. כ' סמ' שידור חי.(n)</desc>
   </programme>
-  <programme start="20260412203500 +0000" stop="20260412210400 +0000" channel="Reshet 13">
+  <programme start="20260412205000 +0000" stop="20260412211500 +0000" channel="Reshet 13">
     <title lang="he">היום שהיה - עם טל שורר</title>
     <desc lang="he">טל שורר עם תוכנית סיכום היום - כל אירועי היום שהיה: הכותרות הבולטות, הסיפורים החשובים והעדכונים האחרונים. כ' סמ' שידור חי.(n)</desc>
   </programme>
-  <programme start="20260412210400 +0000" stop="20260412213400 +0000" channel="Reshet 13">
+  <programme start="20260412211500 +0000" stop="20260412215000 +0000" channel="Reshet 13">
     <title lang="he">הורס או להריסה</title>
     <desc lang="he">5 מעצבים ואדריכלים מובילים מדרגים את בתי היוקרה מהארץ ומהעולם ע''פ חוות דעתם המקצועית והאישית. איזה מהבתים יקבל את התואר הנחשק ''הורס'', ואיזה מהם יישלח ''להריסה''? כ' עב', ת.פ.(n)</desc>
   </programme>
-  <programme start="20260412213400 +0000" stop="20260412220400 +0000" channel="Reshet 13">
+  <programme start="20260412215000 +0000" stop="20260412224500 +0000" channel="Reshet 13">
     <title lang="he">לילה TALK: שיחת מנכ''ל - אסף בן דב, מנכ'</title>
     <desc lang="he">רינת נחום, מנטורית מומחית בהשמת בכירים, בראיון עם מנהלים מובילים בישראל המשתפים ברגעי האמת את מאחורי הקלעים של קבלת ההחלטות, בהם נמדדות הבחירות המעצבות את דרכם. הפעם: אסף בן דב, מנכ''ל טבע נאות. כ' עב' ש.ח.(n)</desc>
   </programme>
-  <programme start="20260412220400 +0000" stop="20260412223100 +0000" channel="Reshet 13">
-    <title lang="he">המומחים - אלעד זוהר</title>
-    <desc lang="he">בואו לשמוע את העצות הכי טובות ישירות מהמומחים. אלעד זוהר מארח באולפן בכירים בתחומי הכלכלה, המשפט, הנדל''ן ועוד, לשיחות על הסוגיות החמות שמשפיעות על החיים ועל הכיס של כולנו. כ' עב', ת.פ ש.ח.(n)</desc>
-  </programme>
-  <programme start="20260412223100 +0000" stop="20260412232100 +0000" channel="Reshet 13">
+  <programme start="20260412224500 +0000" stop="20260412233500 +0000" channel="Reshet 13">
     <title lang="he">שישי - הכתבות</title>
     <desc lang="he">הכתבות.(n)</desc>
   </programme>
-  <programme start="20260412232100 +0000" stop="20260413001300 +0000" channel="Reshet 13">
+  <programme start="20260412233500 +0000" stop="20260413002500 +0000" channel="Reshet 13">
     <title lang="he">הדו''ח היומי</title>
     <desc lang="he">מגזין תרבות יומי שמעלה למסך את כל הסיפורים המדוברים, נושאי השיחה החמים והידיעות המרעישות ביותר! בהנחיית קובי מחט. כ' סמ', ת.פ ש.ח.(n)</desc>
   </programme>
-  <programme start="20260413001300 +0000" stop="20260413011100 +0000" channel="Reshet 13">
+  <programme start="20260413002500 +0000" stop="20260413011100 +0000" channel="Reshet 13">
     <title lang="he">מוריה וברקו</title>
     <desc lang="he">הצמד הטלוויזיוני החדש מוריה אסרף ואייל ברקוביץ מדברים בלי הנחות על הנושאים החמים והחשובים שעל סדר היום. כ' סמ' ש.ח.(n)</desc>
   </programme>
@@ -1142,7 +1086,7 @@
     <desc lang="he">שימור פוריות והקפאת ביציות, החלפות מפרקים אצל מטופלים עם רקע של מחלות קשות בעבר וטיפול בלייזר לאקנה וולגריס. כ' עב'/ער' ש.ח.(n)</desc>
   </programme>
   <programme start="20260413023300 +0000" stop="20260413030000 +0000" channel="Reshet 13">
-    <title lang="he">הצינור - גיא לרר</title>
+    <title lang="he">הצינור - ראיון הדחה כפול!</title>
     <desc lang="he">מגזין הרשת של ערוץ 13 גיא לרר בתכנית אקטואליה חברתית, עם תחקירים, כתבות וכל הסיפורים החמים מהרשת. כ' סמ' ש.ח.(n)</desc>
   </programme>
   <programme start="20260413030000 +0000" stop="20260413040000 +0000" channel="Reshet 13">
@@ -1209,25 +1153,73 @@
     <title lang="he">טקס לפתיחת יום הזיכרון לשואה ולגבורה</title>
     <desc lang="he">טקס ממלכתי לפתיחת אירועי יום הזיכרון לשואה ולגבורה. כ' סמ'/שס''י. שידור חי.(n)</desc>
   </programme>
-  <programme start="20260413183000 +0000" stop="20260413191500 +0000" channel="Reshet 13">
-    <title lang="he">בראש מורם</title>
-    <desc lang="he">''בראש מורם'' - סרטו של גיל תמרי הוא סיפור מעורר השראה על הצלת 366 ילדים יהודים בתקופת השואה. כ' עב'. ש.ח.(n)</desc>
-  </programme>
-  <programme start="20260413191500 +0000" stop="20260413203000 +0000" channel="Reshet 13">
+  <programme start="20260413183000 +0000" stop="20260413193000 +0000" channel="Reshet 13">
     <title lang="he">עצרת יום הזיכרון לשואה ולגבורה ביד מרדכי</title>
     <desc lang="he">עצרת השואה המרכזית מקיבוץ יד מרדכי. כ' עב'/שס''י שידור חי.(n)</desc>
   </programme>
-  <programme start="20260413203000 +0000" stop="20260414003000 +0000" channel="Reshet 13">
-    <title lang="he">פרטים יפורסמו בהמשך</title>
-    <desc lang="he">פרטים יפורסמו בהמשך.(n)</desc>
+  <programme start="20260413193000 +0000" stop="20260413201600 +0000" channel="Reshet 13">
+    <title lang="he">בראש מורם</title>
+    <desc lang="he">''בראש מורם'' - סרטו של גיל תמרי הוא סיפור מעורר השראה על הצלת 366 ילדים יהודים בתקופת השואה. כ' עב'. ש.ח.(n)</desc>
   </programme>
-  <programme start="20260414003000 +0000" stop="20260414014500 +0000" channel="Reshet 13">
-    <title lang="he">פרטים יפורסמו בהמשך</title>
-    <desc lang="he">פרטים יפורסמו בהמשך.</desc>
+  <programme start="20260413201600 +0000" stop="20260413204300 +0000" channel="Reshet 13">
+    <title lang="he">אנחנו עוד נתראה - סיפורו של אמיל פרקש</title>
+    <desc lang="he">אמיל פרקש נולד בצ'כוסלובקיה. בשנת 1942, נשלחו אמיל ומשפחתו למחנה הריכוז. הוא שוחרר בכפר סמוך לו. ב-1949 עלה לארץ והתנדב לחיל האוויר. בארץ היה חבר נבחרת ישראל בהתעמלות ורכז מגמת חנ''ג בבית הספר. כ' עב' ש.ח.(n)</desc>
   </programme>
-  <programme start="20260414014500 +0000" stop="20260414030000 +0000" channel="Reshet 13">
+  <programme start="20260413204300 +0000" stop="20260413213400 +0000" channel="Reshet 13">
+    <title lang="he">משחק זכרון</title>
+    <desc lang="he">קבוצת תיאטרון של ניצולי שואה יוצאת למסע הופעות ברחבי הארץ עם מופע שהם כתבו בעצמם. במהלך המסע, הם נפגשים עם הדור הצעיר ועוברים תהליך של שינוי וריפוי. כ' עב'. ש.ח.(n)</desc>
+  </programme>
+  <programme start="20260413213400 +0000" stop="20260413220500 +0000" channel="Reshet 13">
+    <title lang="he">הן נתנו לי חיים - רינה קווינט</title>
+    <desc lang="he">רינה קווינט נולדה בפולין. אמה ושני אחיה נרצחו באקציה עם שילוח יהודי העיר לטרבלינקה. רינה גורשה עם אביה למחנות עבודה. אביה נספה ורינה זכרתה לעזרתן של אסירות שטיפלו בה והצילו את חייה. כ' עב' ש.ח.(n)</desc>
+  </programme>
+  <programme start="20260413220500 +0000" stop="20260413220800 +0000" channel="Reshet 13">
+    <title lang="he">שמיים אחרים</title>
+    <desc lang="he">הסרט מבוסס על עדותו של גרשון פולק כפי שהוצגה באיורים שצייר בזמן שהסתתר במרתף במלחמה ומעניק להם חיים חדשים. בכך הוא מחייה את הזיכרון ומאיר את המרחב הפנימי שנוצר בתקופה זו.(n)</desc>
+  </programme>
+  <programme start="20260413220800 +0000" stop="20260413224100 +0000" channel="Reshet 13">
+    <title lang="he">שמה קמנו לחיים - אריה פינסקר</title>
+    <desc lang="he">אריה פינסקר, יליד טרנסילבניה. במאי 1944 נשלח עם משפחתו לאושוויץ- בירקנאו, שרד את ''צעדת מוות'' ובהמשך אריה עלה לארץ ישראל והיה ממייסדי מושב היוגב. במאי ועורך: צבי נבו. ש.ח.(n)</desc>
+  </programme>
+  <programme start="20260413224100 +0000" stop="20260413224400 +0000" channel="Reshet 13">
+    <title lang="he">בין הקווים</title>
+    <desc lang="he">הסרט מבוסס על עדותו של אברהם בן הדור, המתאר את חייו בבולגריה במהלך מלחמת העולם השנייה. סרט זכרון אישי ואנושי, המבקש להאיר את המתרחש בין שורות החוק הכתוב.(n)</desc>
+  </programme>
+  <programme start="20260413224400 +0000" stop="20260413232600 +0000" channel="Reshet 13">
+    <title lang="he">שלא יבוא הלילה - עליזה לנדאו</title>
+    <desc lang="he">עליזה לנדאו ילידת פולין. בשנות המלחמה נדדה המשפחה בין מקומות מסתור. לאחר שנתפסו בידי הגרמנים ונלקחו לבור ירי, עליזה נמלטה מן היער אל כפר סמוך, שם טופלה בידי זוג איכרים עד לשחרור. במאי ועורך: צבי נבו. ש.ח.(n)</desc>
+  </programme>
+  <programme start="20260413232600 +0000" stop="20260413233100 +0000" channel="Reshet 13">
+    <title lang="he">הילדה הגרמנייה</title>
+    <desc lang="he">הסרט מבוסס על עדות אישית של רודיקה ילידת בוקרשט. רצף של זכרונות המתאר חוויות של ילדות בזמן השואה.(n)</desc>
+  </programme>
+  <programme start="20260413233100 +0000" stop="20260414003200 +0000" channel="Reshet 13">
+    <title lang="he">על עצמך לא סיפרת דבר - מיכאל גולדמן</title>
+    <desc lang="he">מיכאל גולדמן-גלעד יליד פולין. במהלך המלחמה עבר את גטו פשמישל ומשם גורש למחנות. לאחר המלחמה עלה לארץ ישראל ושימש כאחד מקציני המשטרה שניהלו את חקירתו של אדולף אייכמן. ש.ח.(c)</desc>
+  </programme>
+  <programme start="20260414003200 +0000" stop="20260414003600 +0000" channel="Reshet 13">
+    <title lang="he">השמלה</title>
+    <desc lang="he">הסרט מתמקד בילדותה של צילה וכילר ביערות פולין.(c)</desc>
+  </programme>
+  <programme start="20260414003600 +0000" stop="20260414012900 +0000" channel="Reshet 13">
+    <title lang="he">צייד הקברים</title>
+    <desc lang="he">סיפורו של מאיר בולקה, צלם אוכל צבעוני ועקשן, שהפך מבלי להתכוון ל''צייד קברים''. בעשרות אתרים בפולין נלחם בולקה על בתי קברות יהודים נטושים ומחפש אוצרות שהוטמנו ערב המלחמה. ש.ח.(c)</desc>
+  </programme>
+  <programme start="20260414012900 +0000" stop="20260414013300 +0000" channel="Reshet 13">
+    <title lang="he">זוז'ה</title>
+    <desc lang="he">הסרט מבוסס על עדותה של יעל רוזנר, שהוחבאה כילדה במרתף בגטו ורשה. הקשר המיוחד בין יעל לאמה, המשתקף בקשר שיצרה עם הבובה זוז'יה.(c)</desc>
+  </programme>
+  <programme start="20260414013300 +0000" stop="20260414015000 +0000" channel="Reshet 13">
+    <title lang="he">המכתבים של דניאל - מיה איידן</title>
+    <desc lang="he">במשך חודשים ארוכים הבריח דניאל ישראל מהעיר טרייסט באיטליה מכתבים מבית המעצר לילדיו ואשתו שהתחבאו בקרבת מקום בזהות בדויה. 70 שנים אחר כך, האחים ויטוריו ודריו חושפים את המכתבים בפני ילדיהם ונכדיהם. כ עב ש.ח.(c)</desc>
+  </programme>
+  <programme start="20260414015000 +0000" stop="20260414015500 +0000" channel="Reshet 13">
+    <title lang="he">Memories of Prague</title>
+    <desc lang="he">הסרט מבוסס על שיר שכתב פטר ג'ינז, צעיר יהודי מפראג. הסרט מתאר את כניסתו אל זיכרון הדרך האחרונה שבה הלך ברחובות העיר לפני גירושו לגטו טרזינשטט.(c)</desc>
+  </programme>
+  <programme start="20260414015500 +0000" stop="20260414030000 +0000" channel="Reshet 13">
     <title lang="he">עצרת יום הזיכרון לשואה ולגבורה ביד מרדכי</title>
-    <desc lang="he">עצרת השואה המרכזית מקיבוץ יד מרדכי. כ' עב'/שס''י ש.ח.</desc>
+    <desc lang="he">עצרת השואה המרכזית מקיבוץ יד מרדכי. כ' עב'/שס''י ש.ח.(c)</desc>
   </programme>
   <programme start="20260414030000 +0000" stop="20260414040000 +0000" channel="Reshet 13">
     <title lang="he">העולם הבוקר - רגע לפני</title>
@@ -1249,17 +1241,33 @@
     <title lang="he">פותחים יום - ירדן ואלעד</title>
     <desc lang="he">תכנית המגזין של רשת 13. מדי בוקר מתארחים באולפן מומחים בתחום הבריאות, התזונה, המשפחה, ואורח החיים לצד אנשי תרבות, שפים ומובילי דעת קהל. הקפה - עלינו! כ' סמ'. ת.פ. שידור חי.</desc>
   </programme>
-  <programme start="20260414080000 +0000" stop="20260414090000 +0000" channel="Reshet 13">
+  <programme start="20260414080000 +0000" stop="20260414091500 +0000" channel="Reshet 13">
     <title lang="he">לכל איש יש שם</title>
-    <desc lang="he">לכל איש יש שם - טקס יום הזכרון לשואה והגבורה הממלכתי ממשכן הכנסת. שס''י/כ' סמ' שידור חי.</desc>
+    <desc lang="he">לכל איש יש שם - טקס יום הזכרון לשואה והגבורה הממלכתי ממשכן הכנסת. שס''י/כ' סמ' שידור חי.(c)</desc>
   </programme>
-  <programme start="20260414090000 +0000" stop="20260414100000 +0000" channel="Reshet 13">
-    <title lang="he">משדר מיוחד</title>
-    <desc lang="he">משדר חדשות מיוחד. כ' סמ' שידור חי.</desc>
+  <programme start="20260414091500 +0000" stop="20260414100000 +0000" channel="Reshet 13">
+    <title lang="he">פרטים יפורסמו בהמשך</title>
+    <desc lang="he">פרטים יפורסמו בהמשך.(c)</desc>
   </programme>
-  <programme start="20260414100000 +0000" stop="20260414130000 +0000" channel="Reshet 13">
+  <programme start="20260414100000 +0000" stop="20260414100500 +0000" channel="Reshet 13">
+    <title lang="he">מבזק חדשות</title>
+    <desc lang="he">מבזק חדשות ערוץ 13. כ' סמ'. שידור חי.(c)</desc>
+  </programme>
+  <programme start="20260414100500 +0000" stop="20260414110000 +0000" channel="Reshet 13">
+    <title lang="he">פרטים יפורסמו בהמשך</title>
+    <desc lang="he">פרטים יפורסמו בהמשך.(c)</desc>
+  </programme>
+  <programme start="20260414110000 +0000" stop="20260414110500 +0000" channel="Reshet 13">
+    <title lang="he">מבזק חדשות</title>
+    <desc lang="he">מבזק חדשות ערוץ 13. כ' סמ'. שידור חי.(c)</desc>
+  </programme>
+  <programme start="20260414110500 +0000" stop="20260414120000 +0000" channel="Reshet 13">
+    <title lang="he">רבקה ויוסף: סיפור אהבה</title>
+    <desc lang="he">הדסה וצלילה באו יוצאות למסע מרגש ומטלטל בקראקוב בעקבות סיפור החיים המרתק והסודי של הוריהן שהכירו והתחתנו במחנה הריכוז פלאשוב וחתונתן הונצחה בסרט רשימת שינדלר. כ' עב' ש.ח.(c)</desc>
+  </programme>
+  <programme start="20260414120000 +0000" stop="20260414130000 +0000" channel="Reshet 13">
     <title lang="he">משדר מיוחד - אלי ראכלין</title>
-    <desc lang="he">משדר מיוחד. שידור חי.</desc>
+    <desc lang="he">משדר מיוחד. שידור חי.(c)</desc>
   </programme>
   <programme start="20260414130000 +0000" stop="20260414145500 +0000" channel="Reshet 13">
     <title lang="he">שיחת היום - עם לוסי אהריש</title>
@@ -1293,37 +1301,37 @@
     <title lang="he">המומחים - אלעד זוהר</title>
     <desc lang="he">בואו לשמוע את העצות הכי טובות ישירות מהמומחים. אלעד זוהר מארח באולפן בכירים בתחומי הכלכלה, המשפט, הנדל''ן ועוד, לשיחות על הסוגיות החמות שמשפיעות על החיים ועל הכיס של כולנו. כ' עב', ת.פ.</desc>
   </programme>
-  <programme start="20260414213500 +0000" stop="20260414221500 +0000" channel="Reshet 13">
+  <programme start="20260414213500 +0000" stop="20260414221000 +0000" channel="Reshet 13">
     <title lang="he">ליגה משלהן</title>
-    <desc lang="he">'ליגה משלהן' היא תכנית שבועית שבמרכזה כל ההתרחשות שמסביב לליגת העל נשים בכדורסל לצד סיכום מחזור הליגה ברמה המקצועית. כ' עב'.</desc>
+    <desc lang="he">'ליגה משלהן' היא תכנית שבועית שבמרכזה כל ההתרחשות שמסביב לליגת העל נשים בכדורסל לצד סיכום מחזור הליגה ברמה המקצועית. כ' עב'.(c)</desc>
   </programme>
-  <programme start="20260414221500 +0000" stop="20260414225000 +0000" channel="Reshet 13">
-    <title lang="he">לילה TALK - משפט פשוט</title>
-    <desc lang="he">מולי ארי מארח את מיטב המומחים מעולמות המשפט לשיחה בגובה העיניים על כל מה שקרה השבוע בחדשות וכדאי לכם לדעת. כ' סמ', ת.פ ש.ח.</desc>
+  <programme start="20260414221000 +0000" stop="20260414224000 +0000" channel="Reshet 13">
+    <title lang="he">מאחורי הכסף - אריק וייס</title>
+    <desc lang="he">כל הכותרות הכלכליות והסודות שמאחורי הכסף: המניות שחייבים לבדוק, הנדל''ן שיניב לכם את עסקת חייכם, מבחני הרכבים הכי חדשים בשוק והאפליקציות והגאדג'טים שיחסכו לכם כסף. ת.פ. ש.ח.(c)</desc>
   </programme>
-  <programme start="20260414225000 +0000" stop="20260414232000 +0000" channel="Reshet 13">
-    <title lang="he">מלבי אקספרס</title>
-    <desc lang="he">אייל, מושיקו וג'וקה הם החברים הכי טובים שמגיעים לחופשה בברזיל שהופכת להרפתקה פרועה, מלאת אקשן, התאהבויות והפתעות. עם מיקי גבע, יובל שגב, שחר חסון, עדי הימלבלוי וקותי סבג. כ' עב ש.ח.</desc>
-  </programme>
-  <programme start="20260414232000 +0000" stop="20260415002000 +0000" channel="Reshet 13">
+  <programme start="20260414224000 +0000" stop="20260414234400 +0000" channel="Reshet 13">
     <title lang="he">מוריה וברקו</title>
-    <desc lang="he">הצמד הטלוויזיוני החדש מוריה אסרף ואייל ברקוביץ מדברים בלי הנחות על הנושאים החמים והחשובים שעל סדר היום. כ' סמ' ש.ח.</desc>
+    <desc lang="he">הצמד הטלוויזיוני החדש מוריה אסרף ואייל ברקוביץ מדברים בלי הנחות על הנושאים החמים והחשובים שעל סדר היום. כ' סמ' ש.ח.(c)</desc>
   </programme>
-  <programme start="20260415002000 +0000" stop="20260415011000 +0000" channel="Reshet 13">
+  <programme start="20260414234400 +0000" stop="20260415001300 +0000" channel="Reshet 13">
+    <title lang="he">מוריה וברקו</title>
+    <desc lang="he">הצמד הטלוויזיוני החדש מוריה אסרף ואייל ברקוביץ מדברים בלי הנחות על הנושאים החמים והחשובים שעל סדר היום. כ' סמ' ש.ח.(c)</desc>
+  </programme>
+  <programme start="20260415001300 +0000" stop="20260415005800 +0000" channel="Reshet 13">
     <title lang="he">מילון היופי</title>
-    <desc lang="he">תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות. מנחות התוכנית: סנדרה רינגלר, גליה תורן חן וד''ר הדר ישראלי. ת.פ. כ' עב'/ער' ש.ח.</desc>
+    <desc lang="he">תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות. מנחות התוכנית: סנדרה רינגלר, גליה תורן חן וד''ר הדר ישראלי. ת.פ. כ' עב'/ער' ש.ח.(c)</desc>
   </programme>
-  <programme start="20260415011000 +0000" stop="20260415013400 +0000" channel="Reshet 13">
+  <programme start="20260415005800 +0000" stop="20260415011700 +0000" channel="Reshet 13">
     <title lang="he">קליפים ברצף</title>
-    <desc lang="he">קליפים נבחרים ברצף.</desc>
+    <desc lang="he">קליפים נבחרים ברצף.(c)</desc>
   </programme>
-  <programme start="20260415013400 +0000" stop="20260415020000 +0000" channel="Reshet 13">
-    <title lang="he">קליפים ברצף</title>
-    <desc lang="he">קליפים נבחרים ברצף.</desc>
+  <programme start="20260415011700 +0000" stop="20260415014600 +0000" channel="Reshet 13">
+    <title lang="he">מיקס ישראלי</title>
+    <desc lang="he">תרבות ומוסיקה.(c)</desc>
   </programme>
-  <programme start="20260415020000 +0000" stop="20260415023000 +0000" channel="Reshet 13">
+  <programme start="20260415014600 +0000" stop="20260415023000 +0000" channel="Reshet 13">
     <title lang="he">סטטוסקופ - פרק 297</title>
-    <desc lang="he">הפעם: תכנון תלת מימד לניתוחים מסוג סגמנטקטומיה, טיפול להקטנת קשריות בבלוטת התריס, וגם: אפשרויות שונות לניתוחי עפעפיים עליונים. כ' עב'/ער' ש.ח.</desc>
+    <desc lang="he">הפעם: תכנון תלת מימד לניתוחים מסוג סגמנטקטומיה, טיפול להקטנת קשריות בבלוטת התריס, וגם: אפשרויות שונות לניתוחי עפעפיים עליונים. כ' עב'/ער' ש.ח.(c)</desc>
   </programme>
   <programme start="20260415023000 +0000" stop="20260415030000 +0000" channel="Reshet 13">
     <title lang="he">הצינור - גיא לרר</title>
@@ -1547,7 +1555,7 @@
   </programme>
   <programme start="20260416195000 +0000" stop="20260416202500 +0000" channel="Reshet 13">
     <title lang="he">הצינור - הפסקת אש: משדר מיוחד</title>
-    <desc lang="he">משדר מיוחד של הצינור - הפסקת אש עם איראן. כ' סמ' שידור חי.(c)</desc>
+    <desc lang="he">משדר מיוחד של הצינור - הפסקת אש עם איראן. כ' סמ' שידור חי.</desc>
   </programme>
   <programme start="20260416202500 +0000" stop="20260416210000 +0000" channel="Reshet 13">
     <title lang="he">היום שהיה - עם טל שורר</title>
@@ -1684,22 +1692,6 @@
   <programme start="20260417203500 +0000" stop="20260417221000 +0000" channel="Reshet 13">
     <title lang="he">האח הגדול</title>
     <desc lang="he">עונה חדשה לתוכנית הריאליטי המצליחה בעולם... מדינה שלמה עוקבת 24/7 אחרי חייהם של הדיירים החדשים בבית המפורסם במדינה... מי יהיה הדייר האחרון שיצא מהבית? מי יהיה הדייר האהוב מכולם? כ' עב'/סמ', ת.פ ש.ח.</desc>
-  </programme>
-  <programme start="20260412145000 +0000" stop="20260412155700 +0000" channel="i24">
-    <title lang="he">מדד גלבוע</title>
-    <desc lang="he">ניב גלבוע עושה חשבון אך ורק לכיס שלכם. תכנית צרכנות, כלכלה וכמובן אוכל. כ' עב'. שידור חי.(n)</desc>
-  </programme>
-  <programme start="20260412155700 +0000" stop="20260412165000 +0000" channel="i24">
-    <title lang="he">7 שרון גל</title>
-    <desc lang="he">שרון גל - החדשות, הדעות והאנשים שמעצבים את המציאות. ישיר, חד וללא פילטרים - כל ערב בשבע. כ' עב. שידור חי.(n)</desc>
-  </programme>
-  <programme start="20260412165000 +0000" stop="20260412183000 +0000" channel="i24">
-    <title lang="he">המהדורה המרכזית</title>
-    <desc lang="he">מירי מיכאלי ונבחרת הכתבים והפרשנים של i24NEWS בכל ערב עם מהדורת החדשות הכי בינלאומית בישראל. שידור חי.(n)</desc>
-  </programme>
-  <programme start="20260412183000 +0000" stop="20260412193000 +0000" channel="i24">
-    <title lang="he">הערביסטים</title>
-    <desc lang="he">צבי יחזקאלי וצוות מומחים שמכירים את העולם הערבי לעומק, את התרבות, הכוחות החברתיים ודרך המחשבה של המזה''ת, מסכמים את האירועים החשובים של השבוע במרחב הערבי. כ' עב'. שידור חי.(n)</desc>
   </programme>
   <programme start="20260412193000 +0000" stop="20260412212000 +0000" channel="i24">
     <title lang="he">מדברים חדשות</title>
@@ -1847,31 +1839,31 @@
   </programme>
   <programme start="20260413234000 +0000" stop="20260414001000 +0000" channel="i24">
     <title lang="he">עדויות: יום השואה - פרק 2</title>
-    <desc lang="he">תעודה. פרק 2. ש.ח.(c)</desc>
+    <desc lang="he">תעודה. פרק 2. ש.ח.(n)</desc>
   </programme>
   <programme start="20260414001000 +0000" stop="20260414004000 +0000" channel="i24">
     <title lang="he">עדויות: יום השואה - פרק 4</title>
-    <desc lang="he">תעודה. פרק 4. ש.ח.(c)</desc>
+    <desc lang="he">תעודה. פרק 4. ש.ח.</desc>
   </programme>
   <programme start="20260414004000 +0000" stop="20260414011000 +0000" channel="i24">
     <title lang="he">עדויות: יום השואה - פרק 1</title>
-    <desc lang="he">תעודה. פרק 1. ש.ח.(c)</desc>
+    <desc lang="he">תעודה. פרק 1. ש.ח.</desc>
   </programme>
   <programme start="20260414011000 +0000" stop="20260414014000 +0000" channel="i24">
     <title lang="he">עדויות: יום השואה - פרק 6</title>
-    <desc lang="he">תעודה. פרק 6. ש.ח.(c)</desc>
+    <desc lang="he">תעודה. פרק 6. ש.ח.</desc>
   </programme>
   <programme start="20260414014000 +0000" stop="20260414021000 +0000" channel="i24">
     <title lang="he">עדויות: יום השואה - פרק 7</title>
-    <desc lang="he">תעודה. פרק 7. ש.ח.(c)</desc>
+    <desc lang="he">תעודה. פרק 7. ש.ח.</desc>
   </programme>
   <programme start="20260414021000 +0000" stop="20260414024000 +0000" channel="i24">
     <title lang="he">עדויות: יום השואה - פרק 5</title>
-    <desc lang="he">תעודה. פרק 5. ש.ח.(c)</desc>
+    <desc lang="he">תעודה. פרק 5. ש.ח.</desc>
   </programme>
   <programme start="20260414024000 +0000" stop="20260414030000 +0000" channel="i24">
     <title lang="he">עדויות: יום השואה - פרק 3</title>
-    <desc lang="he">תעודה. פרק 3. ש.ח.(c)</desc>
+    <desc lang="he">תעודה. פרק 3. ש.ח.</desc>
   </programme>
   <programme start="20260414030000 +0000" stop="20260414040000 +0000" channel="i24">
     <title lang="he">הערביסטים</title>
@@ -3415,10 +3407,170 @@
     <desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
     <date>2026-04-14</date>
   </programme>
-  <programme channel="465021" start="20260414040000 +0000" stop="20260415000000 +0000">
+  <programme channel="465021" start="20260414040000 +0000" stop="20260414050000 +0000">
     <title lang="zh">The Story Is With Elex Michaelson</title>
     <desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.</desc>
     <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414050000 +0000" stop="20260414054500 +0000">
+    <title lang="zh">The Story Is With Elex Michaelson</title>
+    <desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414054500 +0000" stop="20260414060000 +0000">
+    <title lang="zh">World Sport</title>
+    <desc>Up-to-the minute sports news, highlights and analysis plus interviews with the biggest names in global sport.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414060000 +0000" stop="20260414070000 +0000">
+    <title lang="zh">Live: CNN Newsroom</title>
+    <desc>"CNN Newsroom" presents the day's headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414070000 +0000" stop="20260414074500 +0000">
+    <title lang="zh">Live: CNN Newsroom</title>
+    <desc>"CNN Newsroom" presents the day's headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414074500 +0000" stop="20260414080000 +0000">
+    <title lang="zh">World Sport</title>
+    <desc>Up-to-the minute sports news, highlights and analysis plus interviews with the biggest names in global sport.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414080000 +0000" stop="20260414090000 +0000">
+    <title lang="zh">Amanpour</title>
+    <desc>Hard-hitting interviews with the world's leading newsmakers showcased in the network's flagship daily news and current affairs program hosted by Christiane Amanpour.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414090000 +0000" stop="20260414100000 +0000">
+    <title lang="zh">Early Start</title>
+    <desc>The news you need, first thing. CNN has you covered with the latest headlines.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414100000 +0000" stop="20260414110000 +0000">
+    <title lang="zh">CNN This Morning</title>
+    <desc>Stories from across the world and refreshing conversations with Audie Cornish.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414110000 +0000" stop="20260414120000 +0000">
+    <title lang="zh">CNN News Central</title>
+    <desc>The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414120000 +0000" stop="20260414123000 +0000">
+    <title lang="zh">CNN News Central</title>
+    <desc>The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414123000 +0000" stop="20260414130000 +0000">
+    <title lang="zh">Live: World Sport</title>
+    <desc>Up-to-the minute sports news, highlights and analysis plus interviews with the biggest names in global sport.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414130000 +0000" stop="20260414134500 +0000">
+    <title lang="zh">Connect the World</title>
+    <desc>A journey across the continents.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414134500 +0000" stop="20260414140000 +0000">
+    <title lang="zh">Live: World Sport</title>
+    <desc>Up-to-the minute sports news, highlights and analysis plus interviews with the biggest names in global sport.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414140000 +0000" stop="20260414144500 +0000">
+    <title lang="zh">Connect the World</title>
+    <desc>A journey across the continents.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414144500 +0000" stop="20260414150000 +0000">
+    <title lang="zh">Marketplace Asia</title>
+    <desc>The host offers insight into the latest Asian market trends, analyzing key events and developments impacting the region's economy.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414150000 +0000" stop="20260414160000 +0000">
+    <title lang="zh">One World With Zain Asher and Bianna Golodryga</title>
+    <desc>A fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414160000 +0000" stop="20260414164500 +0000">
+    <title lang="zh">One World With Zain Asher and Bianna Golodryga</title>
+    <desc>A fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414164500 +0000" stop="20260414170000 +0000">
+    <title lang="zh">African Voices</title>
+    <desc>An insightful show featuring some of Africa's most intriguing talent.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414170000 +0000" stop="20260414180000 +0000">
+    <title lang="zh">Amanpour</title>
+    <desc>Hard-hitting interviews with the world's leading newsmakers showcased in the network's flagship daily news and current affairs program hosted by Christiane Amanpour.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414180000 +0000" stop="20260414190000 +0000">
+    <title lang="zh">Isa Soares Tonight</title>
+    <desc>Isa Soares breaks down the day's news.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414190000 +0000" stop="20260414200000 +0000">
+    <title lang="zh">What We Know With Max Foster</title>
+    <desc>Max Foster has a definitive roundup of the day's top stories, giving you the urgent need-to-know context; a deeper dive into the questions sparking debate around the world.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414200000 +0000" stop="20260414204500 +0000">
+    <title lang="zh">Live: Quest Means Business</title>
+    <desc>Richard Quest offers a dynamic look at the day's global business stories.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414204500 +0000" stop="20260414210000 +0000">
+    <title lang="zh">Marketplace Asia</title>
+    <desc>The host offers insight into the latest Asian market trends, analyzing key events and developments impacting the region's economy.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414210000 +0000" stop="20260414213000 +0000">
+    <title lang="zh">The Lead With Jake Tapper</title>
+    <desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money and sports to popular culture.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414213000 +0000" stop="20260414220000 +0000">
+    <title lang="zh">Live: World Sport</title>
+    <desc>Up-to-the minute sports news, highlights and analysis plus interviews with the biggest names in global sport.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414220000 +0000" stop="20260414230000 +0000">
+    <title lang="zh">The Brief With Jim Sciutto</title>
+    <desc>The best of CNN's reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260414230000 +0000" stop="20260415000000 +0000">
+    <title lang="zh">Erin Burnett OutFront</title>
+    <desc>Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative with compelling interviews, lively debates and analysis of situations.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465021" start="20260415000000 +0000" stop="20260415010000 +0000">
+    <title lang="zh">Anderson Cooper 360</title>
+    <desc>Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="465021" start="20260415010000 +0000" stop="20260415020000 +0000">
+    <title lang="zh">The Source With Kaitlan Collins</title>
+    <desc>Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="465021" start="20260415020000 +0000" stop="20260415030000 +0000">
+    <title lang="zh">CNN NewsNight With Abby Phillip</title>
+    <desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="465021" start="20260415030000 +0000" stop="20260415040000 +0000">
+    <title lang="zh">Laura Coates Live</title>
+    <desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="465021" start="20260415040000 +0000" stop="20260416000000 +0000">
+    <title lang="zh">The Story Is With Elex Michaelson</title>
+    <desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.</desc>
+    <date>2026-04-15</date>
   </programme>
   <programme channel="465150" start="20260412000000 +0000" stop="20260412020000 +0000">
     <title lang="zh">20/20</title>
@@ -3955,9 +4107,169 @@
     <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
     <date>2026-04-14</date>
   </programme>
-  <programme channel="465150" start="20260414043000 +0000" stop="20260415000000 +0000">
+  <programme channel="465150" start="20260414043000 +0000" stop="20260414050000 +0000">
     <title lang="zh">ABC World News Tonight With David Muir</title>
     <desc>Delivering the news that matters most.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414050000 +0000" stop="20260414060000 +0000">
+    <title lang="zh">ABCNL Prime With Linsey Davis</title>
+    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414060000 +0000" stop="20260414063000 +0000">
+    <title lang="zh">Live: ABC World News Now</title>
+    <desc>Global news.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414063000 +0000" stop="20260414070000 +0000">
+    <title lang="zh">ABC World News Now</title>
+    <desc>Global news.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414070000 +0000" stop="20260414073000 +0000">
+    <title lang="zh">ABC World News Now</title>
+    <desc>Global news.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414073000 +0000" stop="20260414080000 +0000">
+    <title lang="zh">ABC World News Now</title>
+    <desc>Global news.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414080000 +0000" stop="20260414083000 +0000">
+    <title lang="zh">Live: Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414083000 +0000" stop="20260414090000 +0000">
+    <title lang="zh">Live: Nightline</title>
+    <desc>In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414090000 +0000" stop="20260414093000 +0000">
+    <title lang="zh">Live: Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414093000 +0000" stop="20260414100000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414100000 +0000" stop="20260414103000 +0000">
+    <title lang="zh">Live: Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414103000 +0000" stop="20260414110000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414110000 +0000" stop="20260414113000 +0000">
+    <title lang="zh">Live: Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414113000 +0000" stop="20260414120000 +0000">
+    <title lang="zh">Live: Start Here</title>
+    <desc>Hosted by Brad Mielke, the video version of ABC News' daily podcast dives straight to the heart of the stories that are driving national conversations.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414120000 +0000" stop="20260414123000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414123000 +0000" stop="20260414130000 +0000">
+    <title lang="zh">Start Here</title>
+    <desc>Hosted by Brad Mielke, the video version of ABC News' daily podcast dives straight to the heart of the stories that are driving national conversations.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414130000 +0000" stop="20260414143000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414143000 +0000" stop="20260414150000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414150000 +0000" stop="20260414153000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414153000 +0000" stop="20260414160000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414160000 +0000" stop="20260414163000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414163000 +0000" stop="20260414170000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414170000 +0000" stop="20260414173000 +0000">
+    <title lang="zh">ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414173000 +0000" stop="20260414180000 +0000">
+    <title lang="zh">ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414180000 +0000" stop="20260414183000 +0000">
+    <title lang="zh">ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414183000 +0000" stop="20260414190000 +0000">
+    <title lang="zh">ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414190000 +0000" stop="20260414193000 +0000">
+    <title lang="zh">ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414193000 +0000" stop="20260414200000 +0000">
+    <title lang="zh">ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414200000 +0000" stop="20260414203000 +0000">
+    <title lang="zh">ABC News Live Reports</title>
+    <desc>24/7 coverage of breaking news and live events.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414203000 +0000" stop="20260414210000 +0000">
+    <title lang="zh">Live: Searched</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414210000 +0000" stop="20260414223000 +0000">
+    <title lang="zh">ABC News Live Reports</title>
+    <desc>24/7 coverage of breaking news and live events.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414223000 +0000" stop="20260414230000 +0000">
+    <title lang="zh">Live: Searched</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414230000 +0000" stop="20260415000000 +0000">
+    <title lang="zh">Live: ABCNL Prime With Linsey Davis</title>
+    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
     <date>2026-04-14</date>
   </programme>
   <programme channel="465150" start="20260414000000 +0000" stop="20260414003000 +0000">
@@ -3990,10 +4302,200 @@
     <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
     <date>2026-04-14</date>
   </programme>
-  <programme channel="465150" start="20260414043000 +0000" stop="20260415000000 +0000">
+  <programme channel="465150" start="20260414043000 +0000" stop="20260414050000 +0000">
     <title lang="zh">ABC World News Tonight With David Muir</title>
     <desc>Delivering the news that matters most.</desc>
     <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414050000 +0000" stop="20260414060000 +0000">
+    <title lang="zh">ABCNL Prime With Linsey Davis</title>
+    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414060000 +0000" stop="20260414063000 +0000">
+    <title lang="zh">Live: ABC World News Now</title>
+    <desc>Global news.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414063000 +0000" stop="20260414070000 +0000">
+    <title lang="zh">ABC World News Now</title>
+    <desc>Global news.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414070000 +0000" stop="20260414073000 +0000">
+    <title lang="zh">ABC World News Now</title>
+    <desc>Global news.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414073000 +0000" stop="20260414080000 +0000">
+    <title lang="zh">ABC World News Now</title>
+    <desc>Global news.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414080000 +0000" stop="20260414083000 +0000">
+    <title lang="zh">Live: Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414083000 +0000" stop="20260414090000 +0000">
+    <title lang="zh">Live: Nightline</title>
+    <desc>In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414090000 +0000" stop="20260414093000 +0000">
+    <title lang="zh">Live: Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414093000 +0000" stop="20260414100000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414100000 +0000" stop="20260414103000 +0000">
+    <title lang="zh">Live: Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414103000 +0000" stop="20260414110000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414110000 +0000" stop="20260414113000 +0000">
+    <title lang="zh">Live: Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414113000 +0000" stop="20260414120000 +0000">
+    <title lang="zh">Live: Start Here</title>
+    <desc>Hosted by Brad Mielke, the video version of ABC News' daily podcast dives straight to the heart of the stories that are driving national conversations.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414120000 +0000" stop="20260414123000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414123000 +0000" stop="20260414130000 +0000">
+    <title lang="zh">Start Here</title>
+    <desc>Hosted by Brad Mielke, the video version of ABC News' daily podcast dives straight to the heart of the stories that are driving national conversations.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414130000 +0000" stop="20260414143000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414143000 +0000" stop="20260414150000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414150000 +0000" stop="20260414153000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414153000 +0000" stop="20260414160000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414160000 +0000" stop="20260414163000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414163000 +0000" stop="20260414170000 +0000">
+    <title lang="zh">ABC News Live First</title>
+    <desc>The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414170000 +0000" stop="20260414173000 +0000">
+    <title lang="zh">ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414173000 +0000" stop="20260414180000 +0000">
+    <title lang="zh">ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414180000 +0000" stop="20260414183000 +0000">
+    <title lang="zh">ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414183000 +0000" stop="20260414190000 +0000">
+    <title lang="zh">ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414190000 +0000" stop="20260414193000 +0000">
+    <title lang="zh">ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414193000 +0000" stop="20260414200000 +0000">
+    <title lang="zh">ABC News Live</title>
+    <desc>Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414200000 +0000" stop="20260414203000 +0000">
+    <title lang="zh">ABC News Live Reports</title>
+    <desc>24/7 coverage of breaking news and live events.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414203000 +0000" stop="20260414210000 +0000">
+    <title lang="zh">Live: Searched</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414210000 +0000" stop="20260414223000 +0000">
+    <title lang="zh">ABC News Live Reports</title>
+    <desc>24/7 coverage of breaking news and live events.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414223000 +0000" stop="20260414230000 +0000">
+    <title lang="zh">Live: Searched</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260414230000 +0000" stop="20260415000000 +0000">
+    <title lang="zh">Live: ABCNL Prime With Linsey Davis</title>
+    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465150" start="20260415003000 +0000" stop="20260415010000 +0000">
+    <title lang="zh">Live: Nightline</title>
+    <desc>In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="465150" start="20260415010000 +0000" stop="20260415020000 +0000">
+    <title lang="zh">ABCNL Prime With Linsey Davis</title>
+    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="465150" start="20260415020000 +0000" stop="20260415023000 +0000">
+    <title lang="zh">Live: ABC World News Tonight With David Muir</title>
+    <desc>Delivering the news that matters most.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="465150" start="20260415023000 +0000" stop="20260415030000 +0000">
+    <title lang="zh">ABCNL Prime With Linsey Davis</title>
+    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="465150" start="20260415030000 +0000" stop="20260415043000 +0000">
+    <title lang="zh">ABCNL Prime With Linsey Davis</title>
+    <desc>Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="465150" start="20260415043000 +0000" stop="20260416000000 +0000">
+    <title lang="zh">ABC World News Tonight With David Muir</title>
+    <desc>Delivering the news that matters most.</desc>
+    <date>2026-04-15</date>
   </programme>
   <programme channel="465372" start="20260412000000 +0000" stop="20260412010000 +0000">
     <title lang="zh">Live: Life, Liberty &amp; Levin</title>
@@ -4380,10 +4882,110 @@
     <desc>Hard news and analysis of compelling stories from DC and across the country; journalists provide viewers with must-see information and consequential news.</desc>
     <date>2026-04-14</date>
   </programme>
-  <programme channel="465372" start="20260414040000 +0000" stop="20260415000000 +0000">
+  <programme channel="465372" start="20260414040000 +0000" stop="20260414050000 +0000">
     <title lang="zh">The Five</title>
     <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
     <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414050000 +0000" stop="20260414060000 +0000">
+    <title lang="zh">Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414060000 +0000" stop="20260414070000 +0000">
+    <title lang="zh">Hannity</title>
+    <desc>Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on events.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414070000 +0000" stop="20260414080000 +0000">
+    <title lang="zh">Gutfeld!</title>
+    <desc>Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414080000 +0000" stop="20260414090000 +0000">
+    <title lang="zh">Fox News at Night</title>
+    <desc>Hard news and analysis of compelling stories from DC and across the country; journalists provide viewers with must-see information and consequential news.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414090000 +0000" stop="20260414100000 +0000">
+    <title lang="zh">Live: FOX &amp; Friends First</title>
+    <desc>Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414100000 +0000" stop="20260414110000 +0000">
+    <title lang="zh">Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414110000 +0000" stop="20260414120000 +0000">
+    <title lang="zh">Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414120000 +0000" stop="20260414130000 +0000">
+    <title lang="zh">Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414130000 +0000" stop="20260414140000 +0000">
+    <title lang="zh">Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414140000 +0000" stop="20260414150000 +0000">
+    <title lang="zh">Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414150000 +0000" stop="20260414160000 +0000">
+    <title lang="zh">Live: The Faulkner Focus</title>
+    <desc>Emmy-winning journalist Harris Faulkner provides the latest news with insightful analysis and interviews with top newsmakers.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414160000 +0000" stop="20260414170000 +0000">
+    <title lang="zh">Live: Outnumbered</title>
+    <desc>Four female panelists and one male colleague share their perspectives on the day's top news stories.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414170000 +0000" stop="20260414180000 +0000">
+    <title lang="zh">Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414180000 +0000" stop="20260414190000 +0000">
+    <title lang="zh">Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414190000 +0000" stop="20260414200000 +0000">
+    <title lang="zh">Live: The Story With Martha MacCallum</title>
+    <desc>Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; "The Story" captures the voices that need to be heard and the people at the center of every history-shaping moment.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414200000 +0000" stop="20260414210000 +0000">
+    <title lang="zh">Live: The Will Cain Show</title>
+    <desc>Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414210000 +0000" stop="20260414220000 +0000">
+    <title lang="zh">Live: The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414220000 +0000" stop="20260414230000 +0000">
+    <title lang="zh">Live: Special Report With Bret Baier</title>
+    <desc>Former Fox News chief White House correspondent Bret Baier takes a closer look at political stories from Washington, DC.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414230000 +0000" stop="20260415000000 +0000">
+    <title lang="zh">Live: The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260415000000 +0000" stop="20260416000000 +0000">
+    <title lang="zh">Live: Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <date>2026-04-15</date>
   </programme>
   <programme channel="465372" start="20260414000000 +0000" stop="20260414010000 +0000">
     <title lang="zh">Live: Jesse Watters Primetime</title>
@@ -4405,10 +5007,130 @@
     <desc>Hard news and analysis of compelling stories from DC and across the country; journalists provide viewers with must-see information and consequential news.</desc>
     <date>2026-04-14</date>
   </programme>
-  <programme channel="465372" start="20260414040000 +0000" stop="20260415000000 +0000">
+  <programme channel="465372" start="20260414040000 +0000" stop="20260414050000 +0000">
     <title lang="zh">The Five</title>
     <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
     <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414050000 +0000" stop="20260414060000 +0000">
+    <title lang="zh">Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414060000 +0000" stop="20260414070000 +0000">
+    <title lang="zh">Hannity</title>
+    <desc>Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on events.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414070000 +0000" stop="20260414080000 +0000">
+    <title lang="zh">Gutfeld!</title>
+    <desc>Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414080000 +0000" stop="20260414090000 +0000">
+    <title lang="zh">Fox News at Night</title>
+    <desc>Hard news and analysis of compelling stories from DC and across the country; journalists provide viewers with must-see information and consequential news.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414090000 +0000" stop="20260414100000 +0000">
+    <title lang="zh">Live: FOX &amp; Friends First</title>
+    <desc>Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414100000 +0000" stop="20260414110000 +0000">
+    <title lang="zh">Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414110000 +0000" stop="20260414120000 +0000">
+    <title lang="zh">Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414120000 +0000" stop="20260414130000 +0000">
+    <title lang="zh">Live: FOX and Friends</title>
+    <desc>Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the latest.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414130000 +0000" stop="20260414140000 +0000">
+    <title lang="zh">Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414140000 +0000" stop="20260414150000 +0000">
+    <title lang="zh">Live: America's Newsroom</title>
+    <desc>Bill Hemmer and Dana Perino cover current events happening around the nation and the world; guests pertinent to the news topics are interviewed, and viewer emails are also answered by the anchors and guests.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414150000 +0000" stop="20260414160000 +0000">
+    <title lang="zh">Live: The Faulkner Focus</title>
+    <desc>Emmy-winning journalist Harris Faulkner provides the latest news with insightful analysis and interviews with top newsmakers.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414160000 +0000" stop="20260414170000 +0000">
+    <title lang="zh">Live: Outnumbered</title>
+    <desc>Four female panelists and one male colleague share their perspectives on the day's top news stories.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414170000 +0000" stop="20260414180000 +0000">
+    <title lang="zh">Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414180000 +0000" stop="20260414190000 +0000">
+    <title lang="zh">Live: America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414190000 +0000" stop="20260414200000 +0000">
+    <title lang="zh">Live: The Story With Martha MacCallum</title>
+    <desc>Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; "The Story" captures the voices that need to be heard and the people at the center of every history-shaping moment.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414200000 +0000" stop="20260414210000 +0000">
+    <title lang="zh">Live: The Will Cain Show</title>
+    <desc>Featuring Cain's signature podcast style and thoughtful perspective through conversations with newsmakers across politics, culture and sports.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414210000 +0000" stop="20260414220000 +0000">
+    <title lang="zh">Live: The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414220000 +0000" stop="20260414230000 +0000">
+    <title lang="zh">Live: Special Report With Bret Baier</title>
+    <desc>Former Fox News chief White House correspondent Bret Baier takes a closer look at political stories from Washington, DC.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260414230000 +0000" stop="20260415000000 +0000">
+    <title lang="zh">Live: The Ingraham Angle</title>
+    <desc>Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="465372" start="20260415000000 +0000" stop="20260415010000 +0000">
+    <title lang="zh">Live: Jesse Watters Primetime</title>
+    <desc>Jesse Watters speaks with newsmakers from across America to present news with a clear and direct approach.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="465372" start="20260415010000 +0000" stop="20260415020000 +0000">
+    <title lang="zh">Live: Hannity</title>
+    <desc>Sean Hannity interviews political figures and newsmakers and offers his own conservative perspective on events.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="465372" start="20260415020000 +0000" stop="20260415030000 +0000">
+    <title lang="zh">Gutfeld!</title>
+    <desc>Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="465372" start="20260415030000 +0000" stop="20260415040000 +0000">
+    <title lang="zh">Live: Fox News at Night</title>
+    <desc>Hard news and analysis of compelling stories from DC and across the country; journalists provide viewers with must-see information and consequential news.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="465372" start="20260415040000 +0000" stop="20260416000000 +0000">
+    <title lang="zh">The Five</title>
+    <desc>Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+    <date>2026-04-15</date>
   </programme>
   <programme channel="464941" start="20260412000000 +0000" stop="20260412010000 +0000">
     <title lang="zh">48 Hours</title>
@@ -4815,9 +5537,109 @@
     <desc>Delivering the news you need to know.</desc>
     <date>2026-04-14</date>
   </programme>
-  <programme channel="464941" start="20260414040000 +0000" stop="20260415000000 +0000">
+  <programme channel="464941" start="20260414040000 +0000" stop="20260414050000 +0000">
     <title lang="zh">The Takeout with Major Garrett</title>
     <desc>The Takeout is a new spin on the widely acclaimed podcast hosted by CBS News Chief Washington Correspondent Major Garrett. A daily streaming show that harnesses the best of CBS News's political reporting and lives comfortably in deep discussions of economics, pop culture, sports and technology.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414050000 +0000" stop="20260414060000 +0000">
+    <title lang="zh">CBS News Roundup</title>
+    <desc>The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414060000 +0000" stop="20260414070000 +0000">
+    <title lang="zh">CBS News Roundup</title>
+    <desc>The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414070000 +0000" stop="20260414080000 +0000">
+    <title lang="zh">CBS News Roundup</title>
+    <desc>The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414080000 +0000" stop="20260414090000 +0000">
+    <title lang="zh">CBS News Roundup</title>
+    <desc>The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414090000 +0000" stop="20260414093000 +0000">
+    <title lang="zh">CBS News Mornings</title>
+    <desc>CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414093000 +0000" stop="20260414100000 +0000">
+    <title lang="zh">CBS News Mornings</title>
+    <desc>CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414100000 +0000" stop="20260414103000 +0000">
+    <title lang="zh">CBS News Mornings</title>
+    <desc>CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414103000 +0000" stop="20260414110000 +0000">
+    <title lang="zh">CBS News Mornings</title>
+    <desc>CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414110000 +0000" stop="20260414120000 +0000">
+    <title lang="zh">CBS Morning News</title>
+    <desc>CBS News Mornings is a live daily morning news show that is anchored by Anne-Marie Green. Get ahead on the latest news by streaming the most important national and global stories first thing in the morning.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414120000 +0000" stop="20260414130000 +0000">
+    <title lang="zh">CBS Mornings</title>
+    <desc>Hosts Gayle King, Tony Dokoupil and Nate Burleson set out to unite CBS' morning landscape with their lively and original reporting on international news stories during the weekday program's first hour, while expanding on feature reporting during the second hour with live interviews as well as in-depth pieces, covering topics from news, sports, climate and technology to race, health, parenting and </desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414130000 +0000" stop="20260414150000 +0000">
+    <title lang="zh">CBS News 24/7 Mornings</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414150000 +0000" stop="20260414160000 +0000">
+    <title lang="zh">CBS News 24/7</title>
+    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414160000 +0000" stop="20260414170000 +0000">
+    <title lang="zh">CBS News 24/7</title>
+    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414170000 +0000" stop="20260414180000 +0000">
+    <title lang="zh">CBS News 24/7</title>
+    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414180000 +0000" stop="20260414190000 +0000">
+    <title lang="zh">CBS News 24/7</title>
+    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414190000 +0000" stop="20260414200000 +0000">
+    <title lang="zh">CBS News 24/7</title>
+    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414200000 +0000" stop="20260414210000 +0000">
+    <title lang="zh">CBS News 24/7</title>
+    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414210000 +0000" stop="20260414220000 +0000">
+    <title lang="zh">The Takeout with Major Garrett</title>
+    <desc>The Takeout is a new spin on the widely acclaimed podcast hosted by CBS News Chief Washington Correspondent Major Garrett. A daily streaming show that harnesses the best of CBS News's political reporting and lives comfortably in deep discussions of economics, pop culture, sports and technology.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414220000 +0000" stop="20260414230000 +0000">
+    <title lang="zh">The Daily Report</title>
+    <desc>The Daily Report on CBS News features original interviews and insights on the most important, urgent and interesting stories of the day.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414230000 +0000" stop="20260415000000 +0000">
+    <title lang="zh">24/7 Primetime</title>
+    <desc>Delivering the news you need to know.</desc>
     <date>2026-04-14</date>
   </programme>
   <programme channel="464941" start="20260414010000 +0000" stop="20260414020000 +0000">
@@ -4845,10 +5667,140 @@
     <desc>Delivering the news you need to know.</desc>
     <date>2026-04-14</date>
   </programme>
-  <programme channel="464941" start="20260414040000 +0000" stop="20260415000000 +0000">
+  <programme channel="464941" start="20260414040000 +0000" stop="20260414050000 +0000">
     <title lang="zh">The Takeout with Major Garrett</title>
     <desc>The Takeout is a new spin on the widely acclaimed podcast hosted by CBS News Chief Washington Correspondent Major Garrett. A daily streaming show that harnesses the best of CBS News's political reporting and lives comfortably in deep discussions of economics, pop culture, sports and technology.</desc>
     <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414050000 +0000" stop="20260414060000 +0000">
+    <title lang="zh">CBS News Roundup</title>
+    <desc>The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414060000 +0000" stop="20260414070000 +0000">
+    <title lang="zh">CBS News Roundup</title>
+    <desc>The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414070000 +0000" stop="20260414080000 +0000">
+    <title lang="zh">CBS News Roundup</title>
+    <desc>The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414080000 +0000" stop="20260414090000 +0000">
+    <title lang="zh">CBS News Roundup</title>
+    <desc>The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414090000 +0000" stop="20260414093000 +0000">
+    <title lang="zh">CBS News Mornings</title>
+    <desc>CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414093000 +0000" stop="20260414100000 +0000">
+    <title lang="zh">CBS News Mornings</title>
+    <desc>CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414100000 +0000" stop="20260414103000 +0000">
+    <title lang="zh">CBS News Mornings</title>
+    <desc>CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414103000 +0000" stop="20260414110000 +0000">
+    <title lang="zh">CBS News Mornings</title>
+    <desc>CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414110000 +0000" stop="20260414120000 +0000">
+    <title lang="zh">CBS Morning News</title>
+    <desc>CBS News Mornings is a live daily morning news show that is anchored by Anne-Marie Green. Get ahead on the latest news by streaming the most important national and global stories first thing in the morning.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414120000 +0000" stop="20260414130000 +0000">
+    <title lang="zh">CBS Mornings</title>
+    <desc>Hosts Gayle King, Tony Dokoupil and Nate Burleson set out to unite CBS' morning landscape with their lively and original reporting on international news stories during the weekday program's first hour, while expanding on feature reporting during the second hour with live interviews as well as in-depth pieces, covering topics from news, sports, climate and technology to race, health, parenting and </desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414130000 +0000" stop="20260414150000 +0000">
+    <title lang="zh">CBS News 24/7 Mornings</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414150000 +0000" stop="20260414160000 +0000">
+    <title lang="zh">CBS News 24/7</title>
+    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414160000 +0000" stop="20260414170000 +0000">
+    <title lang="zh">CBS News 24/7</title>
+    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414170000 +0000" stop="20260414180000 +0000">
+    <title lang="zh">CBS News 24/7</title>
+    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414180000 +0000" stop="20260414190000 +0000">
+    <title lang="zh">CBS News 24/7</title>
+    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414190000 +0000" stop="20260414200000 +0000">
+    <title lang="zh">CBS News 24/7</title>
+    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414200000 +0000" stop="20260414210000 +0000">
+    <title lang="zh">CBS News 24/7</title>
+    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414210000 +0000" stop="20260414220000 +0000">
+    <title lang="zh">The Takeout with Major Garrett</title>
+    <desc>The Takeout is a new spin on the widely acclaimed podcast hosted by CBS News Chief Washington Correspondent Major Garrett. A daily streaming show that harnesses the best of CBS News's political reporting and lives comfortably in deep discussions of economics, pop culture, sports and technology.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414220000 +0000" stop="20260414230000 +0000">
+    <title lang="zh">The Daily Report</title>
+    <desc>The Daily Report on CBS News features original interviews and insights on the most important, urgent and interesting stories of the day.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260414230000 +0000" stop="20260415000000 +0000">
+    <title lang="zh">24/7 Primetime</title>
+    <desc>Delivering the news you need to know.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="464941" start="20260415010000 +0000" stop="20260415020000 +0000">
+    <title lang="zh">The Daily Report</title>
+    <desc>The Daily Report on CBS News features original interviews and insights on the most important, urgent and interesting stories of the day.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="464941" start="20260415020000 +0000" stop="20260415023000 +0000">
+    <title lang="zh">CBS Evening News</title>
+    <desc>The CBS Evening News team shares the day's stories, delivering context and depth to bring greater understanding to the world.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="464941" start="20260415023000 +0000" stop="20260415030000 +0000">
+    <title lang="zh">24/7 Primetime</title>
+    <desc>Delivering the news you need to know.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="464941" start="20260415030000 +0000" stop="20260415033000 +0000">
+    <title lang="zh">CBS Evening News</title>
+    <desc>The CBS Evening News team shares the day's stories, delivering context and depth to bring greater understanding to the world.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="464941" start="20260415033000 +0000" stop="20260415040000 +0000">
+    <title lang="zh">24/7 Primetime</title>
+    <desc>Delivering the news you need to know.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="464941" start="20260415040000 +0000" stop="20260416000000 +0000">
+    <title lang="zh">The Takeout with Major Garrett</title>
+    <desc>The Takeout is a new spin on the widely acclaimed podcast hosted by CBS News Chief Washington Correspondent Major Garrett. A daily streaming show that harnesses the best of CBS News's political reporting and lives comfortably in deep discussions of economics, pop culture, sports and technology.</desc>
+    <date>2026-04-15</date>
   </programme>
   <programme channel="465198" start="20260412000000 +0000" stop="20260412020000 +0000">
     <title lang="zh">Live: College Softball</title>
@@ -6170,10 +7122,120 @@
     <desc>Emmy-winning funnyman Jimmy Kimmel serves up comedy bits and welcomes guests that include other comics, celebrities, athletes and musicians, as well as everyday people with unusual or compelling personal stories. Kimmel's family and friends take part in the festivities, including his Cousin Sal, Uncle Frank (until his death in 2011) and childhood friend Cleto Escobedo III, who leads the show's hou</desc>
     <date>2026-04-14</date>
   </programme>
-  <programme channel="467679" start="20260414043700 +0000" stop="20260415000000 +0000">
+  <programme channel="467679" start="20260414043700 +0000" stop="20260414050600 +0000">
     <title lang="zh">Nightline</title>
     <desc>In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
     <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414050600 +0000" stop="20260414053600 +0000">
+    <title lang="zh">ABC World News Tonight With David Muir</title>
+    <desc>Delivering the news that matters most.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414053600 +0000" stop="20260414063600 +0000">
+    <title lang="zh">Live with Kelly and Mark</title>
+    <desc>Jennie Garth drops by the studio; Phoebe Dynevor is here; the hosts open up "The Inbox!".</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414063600 +0000" stop="20260414070600 +0000">
+    <title lang="zh">Jeopardy!</title>
+    <desc>The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414070600 +0000" stop="20260414080000 +0000">
+    <title lang="zh">Tamron Hall</title>
+    <desc>Karli Aylesworth, the daughter of the American woman who went missing on a boat trip in the Bahamas, speaks out in search of answers.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414080000 +0000" stop="20260414083000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414083000 +0000" stop="20260414100000 +0000">
+    <title lang="zh">Eyewitness News This Morning</title>
+    <desc>News coverage to start the day.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414100000 +0000" stop="20260414110000 +0000">
+    <title lang="zh">Eyewitness News This Morning</title>
+    <desc>News coverage to start the day.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414110000 +0000" stop="20260414130000 +0000">
+    <title lang="zh">Good Morning America</title>
+    <desc>Actresses Jean Smart and Hannah Einbinder; entrepreneur Emma Grede; author Lanny Davis; Deals &amp; Steals with Tory Johnson.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414130000 +0000" stop="20260414140000 +0000">
+    <title lang="zh">Live with Kelly and Mark</title>
+    <desc>Michaela JaÃ© Rodriguez and Tom Blyth are here; Lou Gramm of Foreigner performs!</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414140000 +0000" stop="20260414150000 +0000">
+    <title lang="zh">Eyewitness News Mornings at 10</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414150000 +0000" stop="20260414160000 +0000">
+    <title lang="zh">The View</title>
+    <desc>Actresses Jean Smart and Hannah Einbinder ("Hacks"); author Sarah Isgur.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414160000 +0000" stop="20260414170000 +0000">
+    <title lang="zh">Eyewitness News at Noon</title>
+    <desc>Midday news update.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414170000 +0000" stop="20260414180000 +0000">
+    <title lang="zh">GMA3</title>
+    <desc>Actor Joel Kim Booster; director Patricia E. Gillespi; Deals &amp; Steals with Tory Johnson.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414180000 +0000" stop="20260414190000 +0000">
+    <title lang="zh">Tamron Hall</title>
+    <desc>Author Arthur C. Brooks ("The Meaning of Your Life: Finding Purpose in an Age of Emptiness"); Lena Yao shares the other side to online fame; two men who developed an unexpected friendship in the wake of unimaginable pain.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414190000 +0000" stop="20260414200000 +0000">
+    <title lang="zh">General Hospital</title>
+    <desc>Willow makes a confession; Sonny decides to take a risk; Britt has an awkward encounter; Nina is stunned; Lulu is taken aback.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414200000 +0000" stop="20260414210000 +0000">
+    <title lang="zh">Eyewitness News First at 4</title>
+    <desc>Local and regional news coverage.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414210000 +0000" stop="20260414220000 +0000">
+    <title lang="zh">Eyewitness News at 5</title>
+    <desc>Local and regional news.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414220000 +0000" stop="20260414223000 +0000">
+    <title lang="zh">Eyewitness News at 6</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414223000 +0000" stop="20260414230000 +0000">
+    <title lang="zh">ABC World News Tonight With David Muir</title>
+    <desc>Delivering the news that matters most.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414230000 +0000" stop="20260414233000 +0000">
+    <title lang="zh">Jeopardy!</title>
+    <desc>The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414233000 +0000" stop="20260415000000 +0000">
+    <title lang="zh">Wheel of Fortune</title>
+    <desc>In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260415000000 +0000" stop="20260416000000 +0000">
+    <title lang="zh">Will Trent</title>
+    <desc>Faith and Ormewood investigate a girl's alien abduction claim and uncover a darker truth; Amanda uncovers FBI warnings about Adelaide and a mysterious "Commander" figure linked to Will.</desc>
+    <date>2026-04-15</date>
   </programme>
   <programme channel="467679" start="20260414000000 +0000" stop="20260414020000 +0000">
     <title lang="zh">American Idol</title>
@@ -6195,10 +7257,145 @@
     <desc>Emmy-winning funnyman Jimmy Kimmel serves up comedy bits and welcomes guests that include other comics, celebrities, athletes and musicians, as well as everyday people with unusual or compelling personal stories. Kimmel's family and friends take part in the festivities, including his Cousin Sal, Uncle Frank (until his death in 2011) and childhood friend Cleto Escobedo III, who leads the show's hou</desc>
     <date>2026-04-14</date>
   </programme>
-  <programme channel="467679" start="20260414043700 +0000" stop="20260415000000 +0000">
+  <programme channel="467679" start="20260414043700 +0000" stop="20260414050600 +0000">
     <title lang="zh">Nightline</title>
     <desc>In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
     <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414050600 +0000" stop="20260414053600 +0000">
+    <title lang="zh">ABC World News Tonight With David Muir</title>
+    <desc>Delivering the news that matters most.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414053600 +0000" stop="20260414063600 +0000">
+    <title lang="zh">Live with Kelly and Mark</title>
+    <desc>Jennie Garth drops by the studio; Phoebe Dynevor is here; the hosts open up "The Inbox!".</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414063600 +0000" stop="20260414070600 +0000">
+    <title lang="zh">Jeopardy!</title>
+    <desc>The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414070600 +0000" stop="20260414080000 +0000">
+    <title lang="zh">Tamron Hall</title>
+    <desc>Karli Aylesworth, the daughter of the American woman who went missing on a boat trip in the Bahamas, speaks out in search of answers.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414080000 +0000" stop="20260414083000 +0000">
+    <title lang="zh">Good Morning America First Look</title>
+    <desc>Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414083000 +0000" stop="20260414100000 +0000">
+    <title lang="zh">Eyewitness News This Morning</title>
+    <desc>News coverage to start the day.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414100000 +0000" stop="20260414110000 +0000">
+    <title lang="zh">Eyewitness News This Morning</title>
+    <desc>News coverage to start the day.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414110000 +0000" stop="20260414130000 +0000">
+    <title lang="zh">Good Morning America</title>
+    <desc>Actresses Jean Smart and Hannah Einbinder; entrepreneur Emma Grede; author Lanny Davis; Deals &amp; Steals with Tory Johnson.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414130000 +0000" stop="20260414140000 +0000">
+    <title lang="zh">Live with Kelly and Mark</title>
+    <desc>Michaela JaÃ© Rodriguez and Tom Blyth are here; Lou Gramm of Foreigner performs!</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414140000 +0000" stop="20260414150000 +0000">
+    <title lang="zh">Eyewitness News Mornings at 10</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414150000 +0000" stop="20260414160000 +0000">
+    <title lang="zh">The View</title>
+    <desc>Actresses Jean Smart and Hannah Einbinder ("Hacks"); author Sarah Isgur.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414160000 +0000" stop="20260414170000 +0000">
+    <title lang="zh">Eyewitness News at Noon</title>
+    <desc>Midday news update.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414170000 +0000" stop="20260414180000 +0000">
+    <title lang="zh">GMA3</title>
+    <desc>Actor Joel Kim Booster; director Patricia E. Gillespi; Deals &amp; Steals with Tory Johnson.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414180000 +0000" stop="20260414190000 +0000">
+    <title lang="zh">Tamron Hall</title>
+    <desc>Author Arthur C. Brooks ("The Meaning of Your Life: Finding Purpose in an Age of Emptiness"); Lena Yao shares the other side to online fame; two men who developed an unexpected friendship in the wake of unimaginable pain.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414190000 +0000" stop="20260414200000 +0000">
+    <title lang="zh">General Hospital</title>
+    <desc>Willow makes a confession; Sonny decides to take a risk; Britt has an awkward encounter; Nina is stunned; Lulu is taken aback.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414200000 +0000" stop="20260414210000 +0000">
+    <title lang="zh">Eyewitness News First at 4</title>
+    <desc>Local and regional news coverage.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414210000 +0000" stop="20260414220000 +0000">
+    <title lang="zh">Eyewitness News at 5</title>
+    <desc>Local and regional news.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414220000 +0000" stop="20260414223000 +0000">
+    <title lang="zh">Eyewitness News at 6</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414223000 +0000" stop="20260414230000 +0000">
+    <title lang="zh">ABC World News Tonight With David Muir</title>
+    <desc>Delivering the news that matters most.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414230000 +0000" stop="20260414233000 +0000">
+    <title lang="zh">Jeopardy!</title>
+    <desc>The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260414233000 +0000" stop="20260415000000 +0000">
+    <title lang="zh">Wheel of Fortune</title>
+    <desc>In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467679" start="20260415000000 +0000" stop="20260415010000 +0000">
+    <title lang="zh">Will Trent</title>
+    <desc>Faith and Ormewood investigate a girl's alien abduction claim and uncover a darker truth; Amanda uncovers FBI warnings about Adelaide and a mysterious "Commander" figure linked to Will.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="467679" start="20260415010000 +0000" stop="20260415020000 +0000">
+    <title lang="zh">R.J. Decker</title>
+    <desc>R.J. takes on a strange case following a grocery store robbery gone wrong; Emi's loyalty is tested when her father's misdeeds come to light.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="467679" start="20260415020000 +0000" stop="20260415030000 +0000">
+    <title lang="zh">High Potential</title>
+    <desc>Daphne leads an investigation into the attempted murder of a beloved colleague and mentor, which is further complicated when it intertwines with another case; Ava comes to Daphne for advice and support.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="467679" start="20260415030000 +0000" stop="20260415033500 +0000">
+    <title lang="zh">Eyewitness News at 11</title>
+    <desc>Breaking news.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="467679" start="20260415033500 +0000" stop="20260415043700 +0000">
+    <title lang="zh">Jimmy Kimmel Live!</title>
+    <desc>Actress Zach Galifianakis; actor Lucy Halliday.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="467679" start="20260415043700 +0000" stop="20260416000000 +0000">
+    <title lang="zh">Nightline</title>
+    <desc>In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
+    <date>2026-04-15</date>
   </programme>
   <programme channel="467015" start="20260412000000 +0000" stop="20260412010000 +0000">
     <title lang="zh">The Wall</title>
@@ -6695,10 +7892,140 @@
     <desc>Actor Tracy Morgan; actress Neve Campbell; TWICE performs.</desc>
     <date>2026-04-14</date>
   </programme>
-  <programme channel="467015" start="20260414043700 +0000" stop="20260415000000 +0000">
+  <programme channel="467015" start="20260414043700 +0000" stop="20260414053700 +0000">
     <title lang="zh">Late Night With Seth Meyers</title>
     <desc>Actress Kristin Chenoweth; actor Tom Blyth.</desc>
     <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414053700 +0000" stop="20260414060700 +0000">
+    <title lang="zh">News 4 NY at 11</title>
+    <desc>Local and regional news.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414060700 +0000" stop="20260414064200 +0000">
+    <title lang="zh">NBC Nightly News With Tom Llamas</title>
+    <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414064200 +0000" stop="20260414071200 +0000">
+    <title lang="zh">Access Hollywood</title>
+    <desc>Casts of "The Pitt" and "Shrinking" step out at PaleyFest LA 2026; Coachella Festival weekend one highlights, fashions, surprises and star sightings!</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414071200 +0000" stop="20260414080000 +0000">
+    <title lang="zh">The Kelly Clarkson Show</title>
+    <desc>Kellyoke Encore: "Blues in the Night"; Joel McHale; "Who's Your Baddie?"; Antony Starr; bargains and deals with Lawrence Zarian and MorningSave; Jamie MacDonald performs; WIL: Jennifer Lee.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414080000 +0000" stop="20260414083000 +0000">
+    <title lang="zh">Early Today</title>
+    <desc>This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414083000 +0000" stop="20260414090000 +0000">
+    <title lang="zh">Today in New York</title>
+    <desc>The local news, weather and investigative stories impacting your community.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414090000 +0000" stop="20260414100000 +0000">
+    <title lang="zh">Today in New York</title>
+    <desc>The local news, weather and investigative stories impacting your community.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414100000 +0000" stop="20260414110000 +0000">
+    <title lang="zh">Today in New York @ 6AM</title>
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414110000 +0000" stop="20260414130000 +0000">
+    <title lang="zh">Today</title>
+    <desc>Sheinelle launches "Through Mom's Eyes"; "The Fertility Formula" with Dr. Natalie Crawford; curated boxes with Adrianna Brach; chef and author Ina Garten.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414130000 +0000" stop="20260414140000 +0000">
+    <title lang="zh">Today 3rd Hour</title>
+    <desc>How to get better sleep, with Dr. Natalie Azar and Joy Bauer; Sheinelle's book "Through Mom's Eyes"; catching up with Selma Blair; catching up with Richard Gadd; Today Food with Melissa McNeeley.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414140000 +0000" stop="20260414150000 +0000">
+    <title lang="zh">Today With Jenna &amp; Sheinelle</title>
+    <desc>Sheinelle launches "Through Mom's Eyes"; catching up with the moms of Stephen Curry, Kevin Durant, Thomas Rhett and Rob Gronkowski; author Emma Grede on "Start with Yourself"; advice for new business owners.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414150000 +0000" stop="20260414153000 +0000">
+    <title lang="zh">Live: News 4 NY at 11AM</title>
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414153000 +0000" stop="20260414160000 +0000">
+    <title lang="zh">New York Live</title>
+    <desc>Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414160000 +0000" stop="20260414170000 +0000">
+    <title lang="zh">NBC News Daily</title>
+    <desc>NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414170000 +0000" stop="20260414180000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>A recent law school graduate in Georgia who has a promising future disappears without a trace.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414180000 +0000" stop="20260414190000 +0000">
+    <title lang="zh">Access Daily With Mario &amp; Kit</title>
+    <desc>Actresses Kristin Villanueva and Kassie Thornton (HBOMax's "The Pitt"); TV host Segun Oduolowu; crime story updates; daily feed; MorningSave shoppable finds!</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414190000 +0000" stop="20260414200000 +0000">
+    <title lang="zh">The Kelly Clarkson Show</title>
+    <desc>Kellyoke: "Take on Me"; Bryan Cranston and Jane Kaczmarek; Storm Reid; Danielle Kartes kids cooking demo; best in class: cursive club; WIL: lunch notes.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414200000 +0000" stop="20260414203000 +0000">
+    <title lang="zh">Live: News 4 NY at 4</title>
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414203000 +0000" stop="20260414210000 +0000">
+    <title lang="zh">Live: News 4 NY at 4:30</title>
+    <desc>NY news.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414210000 +0000" stop="20260414213000 +0000">
+    <title lang="zh">Live: News 4 NY at 5</title>
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414213000 +0000" stop="20260414220000 +0000">
+    <title lang="zh">Live: News 4 NY at 5:30</title>
+    <desc>NY news.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414220000 +0000" stop="20260414223000 +0000">
+    <title lang="zh">Live: News 4 NY at 6</title>
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414223000 +0000" stop="20260414230000 +0000">
+    <title lang="zh">NBC Nightly News With Tom Llamas</title>
+    <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414230000 +0000" stop="20260414233000 +0000">
+    <title lang="zh">News 4 NY at 7</title>
+    <desc>Stay informed with the breaking news and headlines.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414233000 +0000" stop="20260415000000 +0000">
+    <title lang="zh">Access Hollywood</title>
+    <desc>Jennie Garth gets real in new memoir "I Choose Me.".</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260415000000 +0000" stop="20260416000000 +0000">
+    <title lang="zh">The Voice</title>
+    <desc>A recap of the final round of the competition with performances from the top nine artists.</desc>
+    <date>2026-04-15</date>
   </programme>
   <programme channel="467015" start="20260414000000 +0000" stop="20260414003000 +0000">
     <title lang="zh">The Fall and Rise of Reggie Dinkins</title>
@@ -6725,10 +8052,160 @@
     <desc>Actor Tracy Morgan; actress Neve Campbell; TWICE performs.</desc>
     <date>2026-04-14</date>
   </programme>
-  <programme channel="467015" start="20260414043700 +0000" stop="20260415000000 +0000">
+  <programme channel="467015" start="20260414043700 +0000" stop="20260414053700 +0000">
     <title lang="zh">Late Night With Seth Meyers</title>
     <desc>Actress Kristin Chenoweth; actor Tom Blyth.</desc>
     <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414053700 +0000" stop="20260414060700 +0000">
+    <title lang="zh">News 4 NY at 11</title>
+    <desc>Local and regional news.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414060700 +0000" stop="20260414064200 +0000">
+    <title lang="zh">NBC Nightly News With Tom Llamas</title>
+    <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414064200 +0000" stop="20260414071200 +0000">
+    <title lang="zh">Access Hollywood</title>
+    <desc>Casts of "The Pitt" and "Shrinking" step out at PaleyFest LA 2026; Coachella Festival weekend one highlights, fashions, surprises and star sightings!</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414071200 +0000" stop="20260414080000 +0000">
+    <title lang="zh">The Kelly Clarkson Show</title>
+    <desc>Kellyoke Encore: "Blues in the Night"; Joel McHale; "Who's Your Baddie?"; Antony Starr; bargains and deals with Lawrence Zarian and MorningSave; Jamie MacDonald performs; WIL: Jennifer Lee.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414080000 +0000" stop="20260414083000 +0000">
+    <title lang="zh">Early Today</title>
+    <desc>This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414083000 +0000" stop="20260414090000 +0000">
+    <title lang="zh">Today in New York</title>
+    <desc>The local news, weather and investigative stories impacting your community.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414090000 +0000" stop="20260414100000 +0000">
+    <title lang="zh">Today in New York</title>
+    <desc>The local news, weather and investigative stories impacting your community.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414100000 +0000" stop="20260414110000 +0000">
+    <title lang="zh">Today in New York @ 6AM</title>
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414110000 +0000" stop="20260414130000 +0000">
+    <title lang="zh">Today</title>
+    <desc>Sheinelle launches "Through Mom's Eyes"; "The Fertility Formula" with Dr. Natalie Crawford; curated boxes with Adrianna Brach; chef and author Ina Garten.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414130000 +0000" stop="20260414140000 +0000">
+    <title lang="zh">Today 3rd Hour</title>
+    <desc>How to get better sleep, with Dr. Natalie Azar and Joy Bauer; Sheinelle's book "Through Mom's Eyes"; catching up with Selma Blair; catching up with Richard Gadd; Today Food with Melissa McNeeley.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414140000 +0000" stop="20260414150000 +0000">
+    <title lang="zh">Today With Jenna &amp; Sheinelle</title>
+    <desc>Sheinelle launches "Through Mom's Eyes"; catching up with the moms of Stephen Curry, Kevin Durant, Thomas Rhett and Rob Gronkowski; author Emma Grede on "Start with Yourself"; advice for new business owners.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414150000 +0000" stop="20260414153000 +0000">
+    <title lang="zh">Live: News 4 NY at 11AM</title>
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414153000 +0000" stop="20260414160000 +0000">
+    <title lang="zh">New York Live</title>
+    <desc>Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414160000 +0000" stop="20260414170000 +0000">
+    <title lang="zh">NBC News Daily</title>
+    <desc>NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414170000 +0000" stop="20260414180000 +0000">
+    <title lang="zh">Dateline</title>
+    <desc>A recent law school graduate in Georgia who has a promising future disappears without a trace.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414180000 +0000" stop="20260414190000 +0000">
+    <title lang="zh">Access Daily With Mario &amp; Kit</title>
+    <desc>Actresses Kristin Villanueva and Kassie Thornton (HBOMax's "The Pitt"); TV host Segun Oduolowu; crime story updates; daily feed; MorningSave shoppable finds!</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414190000 +0000" stop="20260414200000 +0000">
+    <title lang="zh">The Kelly Clarkson Show</title>
+    <desc>Kellyoke: "Take on Me"; Bryan Cranston and Jane Kaczmarek; Storm Reid; Danielle Kartes kids cooking demo; best in class: cursive club; WIL: lunch notes.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414200000 +0000" stop="20260414203000 +0000">
+    <title lang="zh">Live: News 4 NY at 4</title>
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414203000 +0000" stop="20260414210000 +0000">
+    <title lang="zh">Live: News 4 NY at 4:30</title>
+    <desc>NY news.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414210000 +0000" stop="20260414213000 +0000">
+    <title lang="zh">Live: News 4 NY at 5</title>
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414213000 +0000" stop="20260414220000 +0000">
+    <title lang="zh">Live: News 4 NY at 5:30</title>
+    <desc>NY news.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414220000 +0000" stop="20260414223000 +0000">
+    <title lang="zh">Live: News 4 NY at 6</title>
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414223000 +0000" stop="20260414230000 +0000">
+    <title lang="zh">NBC Nightly News With Tom Llamas</title>
+    <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414230000 +0000" stop="20260414233000 +0000">
+    <title lang="zh">News 4 NY at 7</title>
+    <desc>Stay informed with the breaking news and headlines.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260414233000 +0000" stop="20260415000000 +0000">
+    <title lang="zh">Access Hollywood</title>
+    <desc>Jennie Garth gets real in new memoir "I Choose Me.".</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="467015" start="20260415000000 +0000" stop="20260415010000 +0000">
+    <title lang="zh">The Voice</title>
+    <desc>A recap of the final round of the competition with performances from the top nine artists.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="467015" start="20260415010000 +0000" stop="20260415030000 +0000">
+    <title lang="zh">The Voice</title>
+    <desc>The top four artists perform a contemporary and classic song for the coaches to compete for the title of "The Voice"; superfans and past artists vote for their favorites from the audience as Carson Daly reveals the Season 29 winner.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="467015" start="20260415030000 +0000" stop="20260415033400 +0000">
+    <title lang="zh">Live: News 4 NY at 11</title>
+    <desc>Local and regional news.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="467015" start="20260415033400 +0000" stop="20260415043700 +0000">
+    <title lang="zh">The Tonight Show Starring Jimmy Fallon</title>
+    <desc>BTS talks and performs.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="467015" start="20260415043700 +0000" stop="20260416000000 +0000">
+    <title lang="zh">Late Night With Seth Meyers</title>
+    <desc>Political commentator Nicolle Wallace; actress Rebecca Ferguson; podcast hosts Joe Santagato and Frank Alvarez.</desc>
+    <date>2026-04-15</date>
   </programme>
   <programme channel="468311" start="20260412000000 +0000" stop="20260412010000 +0000">
     <title lang="zh">Live: UFC 327: ProchÃ¡zka vs. Ulberg - Prelims</title>
@@ -7215,10 +8692,155 @@
     <desc>Actress Maya Rudolph; actor Nick Offerman; Jeff Tweedy talks and performs with Hayley Williams; special appearance by Rachel Dratch.</desc>
     <date>2026-04-14</date>
   </programme>
-  <programme channel="468311" start="20260414043700 +0000" stop="20260415000000 +0000">
+  <programme channel="468311" start="20260414043700 +0000" stop="20260414050700 +0000">
     <title lang="zh">Comics Unleashed With Byron Allen</title>
     <desc>Host and comedian Byron Allen invites four A-List comedians to this round-table comedy talk show. Guest comedians share their own funny perspectives on current events, everyday life, pop culture, entertainment and more. Filmed in front of a live audience in Hollywood, previous guests have included: Dennis Miller, Tom Arnold, Howie Mandel, Jon Lovitz and Cedric the Entertainer.</desc>
     <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414050700 +0000" stop="20260414053700 +0000">
+    <title lang="zh">Comics Unleashed With Byron Allen</title>
+    <desc>Pat Dixon; Heather McDonald; Adam Newman; Clinton Jackson.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414053700 +0000" stop="20260414060700 +0000">
+    <title lang="zh">Funny You Should Ask</title>
+    <desc>Jon Lovitz; Raven-SymonÃ©; Howie Mandel; Byron Allen; Whitney Cummings; Jeff Ross.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414060700 +0000" stop="20260414063700 +0000">
+    <title lang="zh">9/11 Survivors Speak Up</title>
+    <desc>Hear from survivors, first responders and advocates about the devastating impact of 9/11 toxins and the lifetime benefits available; learning about your rights and protection under the law.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414063700 +0000" stop="20260414070700 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414070700 +0000" stop="20260414073700 +0000">
+    <title lang="zh">CBS Evening News</title>
+    <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414073700 +0000" stop="20260414080000 +0000">
+    <title lang="zh">CBS News Roundup</title>
+    <desc>The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414080000 +0000" stop="20260414083000 +0000">
+    <title lang="zh">CBS News Mornings</title>
+    <desc>CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414083000 +0000" stop="20260414090000 +0000">
+    <title lang="zh">CBS News New York This Morning 4:30am</title>
+    <desc>News coverage to start the day.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414090000 +0000" stop="20260414100000 +0000">
+    <title lang="zh">CBS News New York This Morning 5am</title>
+    <desc>News coverage to start the day.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414100000 +0000" stop="20260414110000 +0000">
+    <title lang="zh">CBS News New York This Morning 6am</title>
+    <desc>News coverage to start the day.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414110000 +0000" stop="20260414130000 +0000">
+    <title lang="zh">CBS Mornings</title>
+    <desc>Rep. Elise Stefanik (R-N.Y.); Oprah's Book Club selection announced by Oprah Winfrey.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414130000 +0000" stop="20260414133000 +0000">
+    <title lang="zh">The Drew Barrymore Show</title>
+    <desc>Drew and Sabrina Rudin share recipes for guilt-free cooking in the kitchen.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414133000 +0000" stop="20260414140000 +0000">
+    <title lang="zh">The Drew Barrymore Show</title>
+    <desc>Comic Chris Fleming tells Drew about his special, "Chris Fleming Live at the Palace.".</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414140000 +0000" stop="20260414150000 +0000">
+    <title lang="zh">Let's Make a Deal</title>
+    <desc>Costumed contestants compete for cash and prizes.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414150000 +0000" stop="20260414160000 +0000">
+    <title lang="zh">The Price Is Right</title>
+    <desc>Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414160000 +0000" stop="20260414163000 +0000">
+    <title lang="zh">CBS News New York 12pm</title>
+    <desc>Midday news update.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414163000 +0000" stop="20260414173000 +0000">
+    <title lang="zh">The Young and the Restless</title>
+    <desc>Diane rejects Nikki's offer to call a truce; Holden informs Cane about his new family dynamics; Lily voices her concerns to Stephanie about Malcolm's condition.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414173000 +0000" stop="20260414180000 +0000">
+    <title lang="zh">The Bold and the Beautiful</title>
+    <desc>Electra gives Will an ultimatum; Dylan makes a heartbreaking decision; Brooke urges R.J. to follow his heart.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414180000 +0000" stop="20260414190000 +0000">
+    <title lang="zh">Beyond the Gates</title>
+    <desc>Anita receives a major medical update from her oncologist; Bill doles out some tough questions to Hayley; Randy takes a hands-on approach where Lynette is concerned; Smitty covers in front of Nicole; Chelsea tries to be there for Naomi.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414190000 +0000" stop="20260414193000 +0000">
+    <title lang="zh">Judge Judy</title>
+    <desc>A man says a shop sold him a stolen dirt bike; a videographer seeks payment from a band; a man who totaled his friend's car wants compensation from the person who was supposed to be his designated driver.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414193000 +0000" stop="20260414200000 +0000">
+    <title lang="zh">Judge Judy</title>
+    <desc>A woman angry with her child's father is accused of damaging her own vehicle with a bat; a woman claims her disabled father bought housewarming gifts for her to make up for his past.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414200000 +0000" stop="20260414203000 +0000">
+    <title lang="zh">Hot Bench</title>
+    <desc>A condo rental turns chaotic after a shooting sparks HOA fines and attorney fees; the owner says the tenant agreed to split the costs, but the tenant argues that the guests should be held responsible! Watch as tensions rise and accountability hangs in the balance.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414203000 +0000" stop="20260414210000 +0000">
+    <title lang="zh">Hot Bench</title>
+    <desc>A car owner blames his mechanic for major damage to his transmission, but the mechanic says it was his racing that ruined it; the owner denies racing the car but admits to throwing a violent fit in the shop.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414210000 +0000" stop="20260414220000 +0000">
+    <title lang="zh">CBS News New York 5pm</title>
+    <desc>Evening news coverage.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414220000 +0000" stop="20260414223000 +0000">
+    <title lang="zh">CBS News New York 6pm</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414223000 +0000" stop="20260414230000 +0000">
+    <title lang="zh">CBS Evening News</title>
+    <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414230000 +0000" stop="20260414233000 +0000">
+    <title lang="zh">Inside Edition</title>
+    <desc>A syndicated newsmagazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414233000 +0000" stop="20260415000000 +0000">
+    <title lang="zh">Entertainment Tonight</title>
+    <desc>News and features about performers, productions and the milieu.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260415000000 +0000" stop="20260416000000 +0000">
+    <title lang="zh">NCIS</title>
+    <desc>A Navy lieutenant resurfaces a year after her plane vanished with a story that doesn't quite add up.</desc>
+    <date>2026-04-15</date>
   </programme>
   <programme channel="468311" start="20260414000000 +0000" stop="20260414003000 +0000">
     <title lang="zh">The Neighborhood</title>
@@ -7250,10 +8872,180 @@
     <desc>Actress Maya Rudolph; actor Nick Offerman; Jeff Tweedy talks and performs with Hayley Williams; special appearance by Rachel Dratch.</desc>
     <date>2026-04-14</date>
   </programme>
-  <programme channel="468311" start="20260414043700 +0000" stop="20260415000000 +0000">
+  <programme channel="468311" start="20260414043700 +0000" stop="20260414050700 +0000">
     <title lang="zh">Comics Unleashed With Byron Allen</title>
     <desc>Host and comedian Byron Allen invites four A-List comedians to this round-table comedy talk show. Guest comedians share their own funny perspectives on current events, everyday life, pop culture, entertainment and more. Filmed in front of a live audience in Hollywood, previous guests have included: Dennis Miller, Tom Arnold, Howie Mandel, Jon Lovitz and Cedric the Entertainer.</desc>
     <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414050700 +0000" stop="20260414053700 +0000">
+    <title lang="zh">Comics Unleashed With Byron Allen</title>
+    <desc>Pat Dixon; Heather McDonald; Adam Newman; Clinton Jackson.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414053700 +0000" stop="20260414060700 +0000">
+    <title lang="zh">Funny You Should Ask</title>
+    <desc>Jon Lovitz; Raven-SymonÃ©; Howie Mandel; Byron Allen; Whitney Cummings; Jeff Ross.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414060700 +0000" stop="20260414063700 +0000">
+    <title lang="zh">9/11 Survivors Speak Up</title>
+    <desc>Hear from survivors, first responders and advocates about the devastating impact of 9/11 toxins and the lifetime benefits available; learning about your rights and protection under the law.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414063700 +0000" stop="20260414070700 +0000">
+    <title lang="zh">Paid Programming</title>
+    <desc>Paid programming.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414070700 +0000" stop="20260414073700 +0000">
+    <title lang="zh">CBS Evening News</title>
+    <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414073700 +0000" stop="20260414080000 +0000">
+    <title lang="zh">CBS News Roundup</title>
+    <desc>The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414080000 +0000" stop="20260414083000 +0000">
+    <title lang="zh">CBS News Mornings</title>
+    <desc>CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414083000 +0000" stop="20260414090000 +0000">
+    <title lang="zh">CBS News New York This Morning 4:30am</title>
+    <desc>News coverage to start the day.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414090000 +0000" stop="20260414100000 +0000">
+    <title lang="zh">CBS News New York This Morning 5am</title>
+    <desc>News coverage to start the day.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414100000 +0000" stop="20260414110000 +0000">
+    <title lang="zh">CBS News New York This Morning 6am</title>
+    <desc>News coverage to start the day.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414110000 +0000" stop="20260414130000 +0000">
+    <title lang="zh">CBS Mornings</title>
+    <desc>Rep. Elise Stefanik (R-N.Y.); Oprah's Book Club selection announced by Oprah Winfrey.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414130000 +0000" stop="20260414133000 +0000">
+    <title lang="zh">The Drew Barrymore Show</title>
+    <desc>Drew and Sabrina Rudin share recipes for guilt-free cooking in the kitchen.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414133000 +0000" stop="20260414140000 +0000">
+    <title lang="zh">The Drew Barrymore Show</title>
+    <desc>Comic Chris Fleming tells Drew about his special, "Chris Fleming Live at the Palace.".</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414140000 +0000" stop="20260414150000 +0000">
+    <title lang="zh">Let's Make a Deal</title>
+    <desc>Costumed contestants compete for cash and prizes.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414150000 +0000" stop="20260414160000 +0000">
+    <title lang="zh">The Price Is Right</title>
+    <desc>Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414160000 +0000" stop="20260414163000 +0000">
+    <title lang="zh">CBS News New York 12pm</title>
+    <desc>Midday news update.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414163000 +0000" stop="20260414173000 +0000">
+    <title lang="zh">The Young and the Restless</title>
+    <desc>Diane rejects Nikki's offer to call a truce; Holden informs Cane about his new family dynamics; Lily voices her concerns to Stephanie about Malcolm's condition.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414173000 +0000" stop="20260414180000 +0000">
+    <title lang="zh">The Bold and the Beautiful</title>
+    <desc>Electra gives Will an ultimatum; Dylan makes a heartbreaking decision; Brooke urges R.J. to follow his heart.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414180000 +0000" stop="20260414190000 +0000">
+    <title lang="zh">Beyond the Gates</title>
+    <desc>Anita receives a major medical update from her oncologist; Bill doles out some tough questions to Hayley; Randy takes a hands-on approach where Lynette is concerned; Smitty covers in front of Nicole; Chelsea tries to be there for Naomi.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414190000 +0000" stop="20260414193000 +0000">
+    <title lang="zh">Judge Judy</title>
+    <desc>A man says a shop sold him a stolen dirt bike; a videographer seeks payment from a band; a man who totaled his friend's car wants compensation from the person who was supposed to be his designated driver.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414193000 +0000" stop="20260414200000 +0000">
+    <title lang="zh">Judge Judy</title>
+    <desc>A woman angry with her child's father is accused of damaging her own vehicle with a bat; a woman claims her disabled father bought housewarming gifts for her to make up for his past.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414200000 +0000" stop="20260414203000 +0000">
+    <title lang="zh">Hot Bench</title>
+    <desc>A condo rental turns chaotic after a shooting sparks HOA fines and attorney fees; the owner says the tenant agreed to split the costs, but the tenant argues that the guests should be held responsible! Watch as tensions rise and accountability hangs in the balance.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414203000 +0000" stop="20260414210000 +0000">
+    <title lang="zh">Hot Bench</title>
+    <desc>A car owner blames his mechanic for major damage to his transmission, but the mechanic says it was his racing that ruined it; the owner denies racing the car but admits to throwing a violent fit in the shop.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414210000 +0000" stop="20260414220000 +0000">
+    <title lang="zh">CBS News New York 5pm</title>
+    <desc>Evening news coverage.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414220000 +0000" stop="20260414223000 +0000">
+    <title lang="zh">CBS News New York 6pm</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414223000 +0000" stop="20260414230000 +0000">
+    <title lang="zh">CBS Evening News</title>
+    <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414230000 +0000" stop="20260414233000 +0000">
+    <title lang="zh">Inside Edition</title>
+    <desc>A syndicated newsmagazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260414233000 +0000" stop="20260415000000 +0000">
+    <title lang="zh">Entertainment Tonight</title>
+    <desc>News and features about performers, productions and the milieu.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="468311" start="20260415000000 +0000" stop="20260415010000 +0000">
+    <title lang="zh">NCIS</title>
+    <desc>A Navy lieutenant resurfaces a year after her plane vanished with a story that doesn't quite add up.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="468311" start="20260415010000 +0000" stop="20260415020000 +0000">
+    <title lang="zh">NCIS: Origins</title>
+    <desc>Lala's determination to get Manny out of gang life lands the team in the middle of a turf war.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="468311" start="20260415020000 +0000" stop="20260415030000 +0000">
+    <title lang="zh">NCIS: Sydney</title>
+    <desc>When a Marine linked to Mackey's ill-fated rescue mission in Afghanistan is found dead, old enemies emerge and the person she cares for most comes under threat.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="468311" start="20260415030000 +0000" stop="20260415033500 +0000">
+    <title lang="zh">CBS News New York 11pm</title>
+    <desc>Local news coverage.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="468311" start="20260415033500 +0000" stop="20260415043700 +0000">
+    <title lang="zh">The Late Show With Stephen Colbert</title>
+    <desc>Actor Billy Crystal; author Ina Garten.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="468311" start="20260415043700 +0000" stop="20260416000000 +0000">
+    <title lang="zh">Comics Unleashed With Byron Allen</title>
+    <desc>Nikki Bon; Jackson McQueen; Dan Levy; Feraz Ozel.</desc>
+    <date>2026-04-15</date>
   </programme>
   <programme channel="469143" start="20260412020000 +0000" stop="20260412023000 +0000">
     <title lang="zh">Live: Action News Jax at 10:00pm</title>
@@ -7850,10 +9642,175 @@
     <desc>TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.</desc>
     <date>2026-04-14</date>
   </programme>
-  <programme channel="469143" start="20260414043000 +0000" stop="20260415000000 +0000">
+  <programme channel="469143" start="20260414043000 +0000" stop="20260414050000 +0000">
     <title lang="zh">Live PD Presents</title>
     <desc />
     <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414050000 +0000" stop="20260414053000 +0000">
+    <title lang="zh">Live PD Presents</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414053000 +0000" stop="20260414060000 +0000">
+    <title lang="zh">Modern Family</title>
+    <desc>Mitch struggles to hide his genuine feelings about an unflattering wedding topper Cam's father made; Phil tries to help Gloria sell the apartment she had before Jay but they get sidetracked at a salon; Jay wants to host a nice family evening.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414060000 +0000" stop="20260414063000 +0000">
+    <title lang="zh">Modern Family</title>
+    <desc>The family joins Phil as he travels to Australia to fulfill his mother's wish that he see the land where he was conceived.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414063000 +0000" stop="20260414070000 +0000">
+    <title lang="zh">Justice for the People With Judge Milian</title>
+    <desc>A mother-to-be ends up in the hospital after her friend revealed her pregnancy to their co-workers; an arborist is blamed for damage from a fallen tree.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414070000 +0000" stop="20260414080000 +0000">
+    <title lang="zh">Karamo</title>
+    <desc>Caitlane is convinced Bradley is the father of her twins, but he says she admitted to sleeping with someone else before they hooked up; his exes, Elizabeth and Ciera, want to expose him as a deadbeat, a cheater and still on drugs.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414080000 +0000" stop="20260414083000 +0000">
+    <title lang="zh">National News Tonight</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414083000 +0000" stop="20260414090000 +0000">
+    <title lang="zh">Live: Action News Jax at 4:30am</title>
+    <desc>Morning news coverage.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414090000 +0000" stop="20260414093000 +0000">
+    <title lang="zh">Live: Action News Jax at 5:00am</title>
+    <desc>Morning news coverage.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414093000 +0000" stop="20260414100000 +0000">
+    <title lang="zh">Live: Action News Jax at 5:30am</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414100000 +0000" stop="20260414110000 +0000">
+    <title lang="zh">Live: Action News Jax at 6:00am</title>
+    <desc>Morning news coverage.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414110000 +0000" stop="20260414120000 +0000">
+    <title lang="zh">Live: Action News Jax at 7:00am</title>
+    <desc>Morning news from Jacksonville.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414120000 +0000" stop="20260414130000 +0000">
+    <title lang="zh">Live: Action News Jax at 8:00am</title>
+    <desc>Morning news coverage.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414130000 +0000" stop="20260414133000 +0000">
+    <title lang="zh">Family Feud Favorites</title>
+    <desc>"Family Feud" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414133000 +0000" stop="20260414140000 +0000">
+    <title lang="zh">Family Feud Favorites</title>
+    <desc>"Family Feud" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414140000 +0000" stop="20260414143000 +0000">
+    <title lang="zh">oh baby!</title>
+    <desc>Exploring how newborn wild animals survive in the forests and grasslands.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414143000 +0000" stop="20260414150000 +0000">
+    <title lang="zh">Crime ExposÃ© With Nancy O'Dell</title>
+    <desc>After a man dies from what was thought to be related to his well-known heart condition, an investigation reveals a stunning life insurance murder plotted by two of the people closest to him.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414150000 +0000" stop="20260414160000 +0000">
+    <title lang="zh">Tamron Hall</title>
+    <desc>Author Arthur C. Brooks ("The Meaning of Your Life: Finding Purpose in an Age of Emptiness"); Lena Yao shares the other side to online fame; two men who developed an unexpected friendship in the wake of unimaginable pain.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414160000 +0000" stop="20260414170000 +0000">
+    <title lang="zh">The Steve Wilkos Show</title>
+    <desc>Shanelle, who was desperate to convince her sister that her brother-in-law sexually assaulted her, returns to let us know what happened after the explosive results were revealed; Aquila insists she was the victim of a serious crime, but her fiancÃ© DeMichael believes she was unfaithful and is using accusations to cover it up; Dee bravely opened about the abuse she says she endured as a child at the</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414170000 +0000" stop="20260414173000 +0000">
+    <title lang="zh">Hot Bench</title>
+    <desc>A condo rental turns chaotic after a shooting sparks HOA fines and attorney fees; the owner says the tenant agreed to split the costs, but the tenant argues that the guests should be held responsible! Watch as tensions rise and accountability hangs in the balance.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414173000 +0000" stop="20260414180000 +0000">
+    <title lang="zh">Hot Bench</title>
+    <desc>A car owner blames his mechanic for major damage to his transmission, but the mechanic says it was his racing that ruined it; the owner denies racing the car but admits to throwing a violent fit in the shop.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414180000 +0000" stop="20260414183000 +0000">
+    <title lang="zh">The Perfect Line</title>
+    <desc>Annelise, Stefanie, Joe, and Tjauna.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414183000 +0000" stop="20260414190000 +0000">
+    <title lang="zh">The Perfect Line</title>
+    <desc>Players Rick, Al, Jillian and Lacasa.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414190000 +0000" stop="20260414193000 +0000">
+    <title lang="zh">Family Feud</title>
+    <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414193000 +0000" stop="20260414200000 +0000">
+    <title lang="zh">Family Feud</title>
+    <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414200000 +0000" stop="20260414203000 +0000">
+    <title lang="zh">Live: Action News Jax at 4:00pm</title>
+    <desc>Local and regional news coverage.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414203000 +0000" stop="20260414210000 +0000">
+    <title lang="zh">Judy Justice</title>
+    <desc>Teenagers who met in foster care get into a catfight over a boy; their fight escalates into an aggressive act of caught-on-tape vandalism, an arrest and a 10K lawsuit.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414210000 +0000" stop="20260414213000 +0000">
+    <title lang="zh">Live: Action News Jax at 5:00pm</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414213000 +0000" stop="20260414220000 +0000">
+    <title lang="zh">Live: Action News Jax at 5:30pm</title>
+    <desc>Evening news coverage.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414220000 +0000" stop="20260414223000 +0000">
+    <title lang="zh">Live: Action News Jax at 6:00pm</title>
+    <desc>Local, national and international news coverage.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414223000 +0000" stop="20260414230000 +0000">
+    <title lang="zh">Live: Action News Jax at 6:30pm</title>
+    <desc>Evening news from Jacksonville.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414230000 +0000" stop="20260414233000 +0000">
+    <title lang="zh">iCRIME With Elizabeth Vargas</title>
+    <desc>Crimes from across the country that have been captured by ordinary people on their smartphones; stories of victims, witnesses, law enforcement and the videographers themselves.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414233000 +0000" stop="20260415000000 +0000">
+    <title lang="zh">Judy Justice</title>
+    <desc>A young woman breaks up with her live-in boyfriend and starts to date their new roommate; business partners pay $6K to rent a party space for teens; they sue for breach of contract when event restrictions are put in place without their approval.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260415000000 +0000" stop="20260416000000 +0000">
+    <title lang="zh">Doc</title>
+    <desc>A mysterious, fast-acting and extremely deadly virus triggers an emergency lockdown on the 6th floor of Westside Hospital; in an effort to save a crashing Richard from a deadly virus, Amy gets infected with it.</desc>
+    <date>2026-04-15</date>
   </programme>
   <programme channel="469143" start="20260414000000 +0000" stop="20260414010200 +0000">
     <title lang="zh">The 1% Club</title>
@@ -7890,9 +9847,204 @@
     <desc>TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.</desc>
     <date>2026-04-14</date>
   </programme>
-  <programme channel="469143" start="20260414043000 +0000" stop="20260415000000 +0000">
+  <programme channel="469143" start="20260414043000 +0000" stop="20260414050000 +0000">
     <title lang="zh">Live PD Presents</title>
     <desc />
     <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414050000 +0000" stop="20260414053000 +0000">
+    <title lang="zh">Live PD Presents</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414053000 +0000" stop="20260414060000 +0000">
+    <title lang="zh">Modern Family</title>
+    <desc>Mitch struggles to hide his genuine feelings about an unflattering wedding topper Cam's father made; Phil tries to help Gloria sell the apartment she had before Jay but they get sidetracked at a salon; Jay wants to host a nice family evening.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414060000 +0000" stop="20260414063000 +0000">
+    <title lang="zh">Modern Family</title>
+    <desc>The family joins Phil as he travels to Australia to fulfill his mother's wish that he see the land where he was conceived.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414063000 +0000" stop="20260414070000 +0000">
+    <title lang="zh">Justice for the People With Judge Milian</title>
+    <desc>A mother-to-be ends up in the hospital after her friend revealed her pregnancy to their co-workers; an arborist is blamed for damage from a fallen tree.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414070000 +0000" stop="20260414080000 +0000">
+    <title lang="zh">Karamo</title>
+    <desc>Caitlane is convinced Bradley is the father of her twins, but he says she admitted to sleeping with someone else before they hooked up; his exes, Elizabeth and Ciera, want to expose him as a deadbeat, a cheater and still on drugs.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414080000 +0000" stop="20260414083000 +0000">
+    <title lang="zh">National News Tonight</title>
+    <desc />
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414083000 +0000" stop="20260414090000 +0000">
+    <title lang="zh">Live: Action News Jax at 4:30am</title>
+    <desc>Morning news coverage.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414090000 +0000" stop="20260414093000 +0000">
+    <title lang="zh">Live: Action News Jax at 5:00am</title>
+    <desc>Morning news coverage.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414093000 +0000" stop="20260414100000 +0000">
+    <title lang="zh">Live: Action News Jax at 5:30am</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414100000 +0000" stop="20260414110000 +0000">
+    <title lang="zh">Live: Action News Jax at 6:00am</title>
+    <desc>Morning news coverage.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414110000 +0000" stop="20260414120000 +0000">
+    <title lang="zh">Live: Action News Jax at 7:00am</title>
+    <desc>Morning news from Jacksonville.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414120000 +0000" stop="20260414130000 +0000">
+    <title lang="zh">Live: Action News Jax at 8:00am</title>
+    <desc>Morning news coverage.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414130000 +0000" stop="20260414133000 +0000">
+    <title lang="zh">Family Feud Favorites</title>
+    <desc>"Family Feud" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414133000 +0000" stop="20260414140000 +0000">
+    <title lang="zh">Family Feud Favorites</title>
+    <desc>"Family Feud" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414140000 +0000" stop="20260414143000 +0000">
+    <title lang="zh">oh baby!</title>
+    <desc>Exploring how newborn wild animals survive in the forests and grasslands.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414143000 +0000" stop="20260414150000 +0000">
+    <title lang="zh">Crime ExposÃ© With Nancy O'Dell</title>
+    <desc>After a man dies from what was thought to be related to his well-known heart condition, an investigation reveals a stunning life insurance murder plotted by two of the people closest to him.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414150000 +0000" stop="20260414160000 +0000">
+    <title lang="zh">Tamron Hall</title>
+    <desc>Author Arthur C. Brooks ("The Meaning of Your Life: Finding Purpose in an Age of Emptiness"); Lena Yao shares the other side to online fame; two men who developed an unexpected friendship in the wake of unimaginable pain.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414160000 +0000" stop="20260414170000 +0000">
+    <title lang="zh">The Steve Wilkos Show</title>
+    <desc>Shanelle, who was desperate to convince her sister that her brother-in-law sexually assaulted her, returns to let us know what happened after the explosive results were revealed; Aquila insists she was the victim of a serious crime, but her fiancÃ© DeMichael believes she was unfaithful and is using accusations to cover it up; Dee bravely opened about the abuse she says she endured as a child at the</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414170000 +0000" stop="20260414173000 +0000">
+    <title lang="zh">Hot Bench</title>
+    <desc>A condo rental turns chaotic after a shooting sparks HOA fines and attorney fees; the owner says the tenant agreed to split the costs, but the tenant argues that the guests should be held responsible! Watch as tensions rise and accountability hangs in the balance.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414173000 +0000" stop="20260414180000 +0000">
+    <title lang="zh">Hot Bench</title>
+    <desc>A car owner blames his mechanic for major damage to his transmission, but the mechanic says it was his racing that ruined it; the owner denies racing the car but admits to throwing a violent fit in the shop.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414180000 +0000" stop="20260414183000 +0000">
+    <title lang="zh">The Perfect Line</title>
+    <desc>Annelise, Stefanie, Joe, and Tjauna.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414183000 +0000" stop="20260414190000 +0000">
+    <title lang="zh">The Perfect Line</title>
+    <desc>Players Rick, Al, Jillian and Lacasa.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414190000 +0000" stop="20260414193000 +0000">
+    <title lang="zh">Family Feud</title>
+    <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414193000 +0000" stop="20260414200000 +0000">
+    <title lang="zh">Family Feud</title>
+    <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414200000 +0000" stop="20260414203000 +0000">
+    <title lang="zh">Live: Action News Jax at 4:00pm</title>
+    <desc>Local and regional news coverage.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414203000 +0000" stop="20260414210000 +0000">
+    <title lang="zh">Judy Justice</title>
+    <desc>Teenagers who met in foster care get into a catfight over a boy; their fight escalates into an aggressive act of caught-on-tape vandalism, an arrest and a 10K lawsuit.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414210000 +0000" stop="20260414213000 +0000">
+    <title lang="zh">Live: Action News Jax at 5:00pm</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414213000 +0000" stop="20260414220000 +0000">
+    <title lang="zh">Live: Action News Jax at 5:30pm</title>
+    <desc>Evening news coverage.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414220000 +0000" stop="20260414223000 +0000">
+    <title lang="zh">Live: Action News Jax at 6:00pm</title>
+    <desc>Local, national and international news coverage.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414223000 +0000" stop="20260414230000 +0000">
+    <title lang="zh">Live: Action News Jax at 6:30pm</title>
+    <desc>Evening news from Jacksonville.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414230000 +0000" stop="20260414233000 +0000">
+    <title lang="zh">iCRIME With Elizabeth Vargas</title>
+    <desc>Crimes from across the country that have been captured by ordinary people on their smartphones; stories of victims, witnesses, law enforcement and the videographers themselves.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260414233000 +0000" stop="20260415000000 +0000">
+    <title lang="zh">Judy Justice</title>
+    <desc>A young woman breaks up with her live-in boyfriend and starts to date their new roommate; business partners pay $6K to rent a party space for teens; they sue for breach of contract when event restrictions are put in place without their approval.</desc>
+    <date>2026-04-14</date>
+  </programme>
+  <programme channel="469143" start="20260415000000 +0000" stop="20260415020000 +0000">
+    <title lang="zh">Doc</title>
+    <desc>A mysterious, fast-acting and extremely deadly virus triggers an emergency lockdown on the 6th floor of Westside Hospital; in an effort to save a crashing Richard from a deadly virus, Amy gets infected with it.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="469143" start="20260415020000 +0000" stop="20260415023000 +0000">
+    <title lang="zh">Live: Action News Jax at 10:00pm</title>
+    <desc>Evening news from Jacksonville.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="469143" start="20260415023000 +0000" stop="20260415030000 +0000">
+    <title lang="zh">Live: Action News Jax at 10:30pm</title>
+    <desc>Nighttime news coverage.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="469143" start="20260415030000 +0000" stop="20260415033500 +0000">
+    <title lang="zh">Live: Action News Jax at 11:00pm</title>
+    <desc>Evening news from Jacksonville.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="469143" start="20260415033500 +0000" stop="20260415040500 +0000">
+    <title lang="zh">iCRIME With Elizabeth Vargas</title>
+    <desc>Crimes from across the country that have been captured by ordinary people on their smartphones; stories of victims, witnesses, law enforcement and the videographers themselves.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="469143" start="20260415040500 +0000" stop="20260415043000 +0000">
+    <title lang="zh">TMZ</title>
+    <desc>TMZ TV tracks down today's hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.</desc>
+    <date>2026-04-15</date>
+  </programme>
+  <programme channel="469143" start="20260415043000 +0000" stop="20260416000000 +0000">
+    <title lang="zh">Live PD Presents</title>
+    <desc />
+    <date>2026-04-15</date>
   </programme>
 </tv>
