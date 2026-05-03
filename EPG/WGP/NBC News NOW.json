@@ -1,100 +1,5 @@
 [
     {
-        "start":  "2026-05-02T00:00:00.0000000",
-        "title":  "Stay Tuned NOW With Gadi Schwartz",
-        "end":  "2026-05-02T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-05-02T01:00:00.0000000",
-        "title":  "Top Story With Tom Llamas",
-        "end":  "2026-05-02T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-05-02T02:00:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "end":  "2026-05-02T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-05-02T02:30:00.0000000",
-        "title":  "Stay Tuned NOW With Gadi Schwartz",
-        "end":  "2026-05-02T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-05-02T03:30:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "end":  "2026-05-02T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-05-02T04:00:00.0000000",
-        "title":  "Top Story With Tom Llamas",
-        "end":  "2026-05-02T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-05-02T05:00:00.0000000",
-        "title":  "Meet the Press NOW",
-        "end":  "2026-05-02T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-05-02T06:00:00.0000000",
-        "title":  "Dateline NBC: Deception",
-        "end":  "2026-05-02T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-05-02T08:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-05-02T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-05-02T09:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-05-02T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-05-02T11:00:00.0000000",
-        "title":  "Dateline NBC: Footprint in the Dust",
-        "end":  "2026-05-02T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-05-02T13:00:00.0000000",
-        "title":  "Dateline NBC: Infatuation",
-        "end":  "2026-05-02T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-05-02T15:00:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "end":  "2026-05-02T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-05-02T15:30:00.0000000",
-        "title":  "Today",
-        "end":  "2026-05-02T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-05-02T16:30:00.0000000",
-        "title":  "Artemis II: Mission Around the Moon",
-        "end":  "2026-05-02T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-05-02T17:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-05-02T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-05-02T19:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-05-02T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-05-02T21:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-05-02T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-05-02T23:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-05-03T01:00:00.0000000"
-    },
-    {
         "start":  "2026-05-03T01:00:00.0000000",
         "title":  "Dateline NBC",
         "end":  "2026-05-03T02:00:00.0000000"
@@ -673,5 +578,130 @@
         "start":  "2026-05-07T23:00:00.0000000",
         "title":  "Top Story With Tom Llamas",
         "end":  "2026-05-08T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T00:00:00.0000000",
+        "title":  "Stay Tuned NOW With Gadi Schwartz",
+        "end":  "2026-05-08T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T01:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "end":  "2026-05-08T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T02:00:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "end":  "2026-05-08T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T02:30:00.0000000",
+        "title":  "Stay Tuned NOW With Gadi Schwartz",
+        "end":  "2026-05-08T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T03:30:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "end":  "2026-05-08T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T04:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "end":  "2026-05-08T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T05:00:00.0000000",
+        "title":  "Meet the Press NOW",
+        "end":  "2026-05-08T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T06:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-05-08T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T07:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-05-08T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T09:00:00.0000000",
+        "title":  "Early Today",
+        "end":  "2026-05-08T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T09:30:00.0000000",
+        "title":  "Early Today",
+        "end":  "2026-05-08T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T10:00:00.0000000",
+        "title":  "Early Today",
+        "end":  "2026-05-08T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T10:30:00.0000000",
+        "title":  "Early Today",
+        "end":  "2026-05-08T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T11:00:00.0000000",
+        "title":  "Morning News NOW",
+        "end":  "2026-05-08T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T12:00:00.0000000",
+        "title":  "Morning News NOW",
+        "end":  "2026-05-08T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T13:00:00.0000000",
+        "title":  "Morning News NOW",
+        "end":  "2026-05-08T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T14:00:00.0000000",
+        "title":  "Morning News NOW",
+        "end":  "2026-05-08T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T15:00:00.0000000",
+        "title":  "Morning News NOW",
+        "end":  "2026-05-08T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T16:00:00.0000000",
+        "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
+        "end":  "2026-05-08T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T17:00:00.0000000",
+        "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
+        "end":  "2026-05-08T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T18:00:00.0000000",
+        "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
+        "end":  "2026-05-08T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T19:00:00.0000000",
+        "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
+        "end":  "2026-05-08T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T20:00:00.0000000",
+        "title":  "Meet the Press NOW",
+        "end":  "2026-05-08T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T21:00:00.0000000",
+        "title":  "Hallie Jackson NOW",
+        "end":  "2026-05-08T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-05-08T23:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "end":  "2026-05-09T00:00:00.0000000"
     }
 ]
