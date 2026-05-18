@@ -56,8 +56,8 @@
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
             "EPGProvider": "WGP",
             "EPGStationId": "Kan%2011",
-            "EPGBackupProvider": "Kan",
-            "EPGBackupStationId": "1",
+            "EPGBackupProvider": "XMLTV",
+            "EPGBackupStationId": "111-kanal-il",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
