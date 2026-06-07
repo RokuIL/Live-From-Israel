@@ -339,7 +339,7 @@
             "Title": "סי בי אס ניו יורק",
             "TitleEng": "CBS NY",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CBSNY.png",
-            "OnlyIn" : "US",
+            "OnlyIn" : "US-Disabled",
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "468311",
             "StreamFormat": "hls",
@@ -349,7 +349,7 @@
                 "Referer:https://kondoplay.cfd/"
             ],
             "StreamUrls": [
-                "https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8"            ]
+            ]
         },
         {
             "Title": "פוקס ניו יורק",
