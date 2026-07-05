@@ -259,7 +259,7 @@
             "EPGProvider": "WGP.ENG",
             "EPGStationId": "464941",
             "EPGBackupProvider": "XMLTV",
-            "EPGBackupStationId": "cbs-news-hd",
+            "EPGBackupStationId": "cbs-news-us-hd",
             "StreamFormat": "hls",
             "StreamUrls": [
                 "https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/c202090b-6758-416f-8c9f-bf38f876f79d:CBF2/master.m3u8",
