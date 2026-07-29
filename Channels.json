@@ -223,8 +223,7 @@
                 "https://s4.usnlive.com/stream/foxnews.m3u8",
                 "https://s3.usnlive.com/stream/foxnews.m3u8",
                 "https://s2.usnlive.com/stream/foxnews.m3u8",
-                "https://s1.usnlive.com/stream/foxnews.m3u8",
-                "https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8"
+                "https://s1.usnlive.com/stream/foxnews.m3u8"
             ]
         },
         {
@@ -265,7 +264,6 @@
             "EPGBackupStationId": "cbs-news-us-hd",
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/c202090b-6758-416f-8c9f-bf38f876f79d:CBF2/master.m3u8",
                 "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"
             ]
         },
