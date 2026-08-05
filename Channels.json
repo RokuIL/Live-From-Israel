@@ -33,21 +33,19 @@
             "Title": "סיאטל מרינרס",
             "TitleEng": "Seattle Mariners",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Mariners.png",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "Text",
             "EPGStationId": "שידור ישיר בזמן משחק.",        
             "Private": "True",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://embedsports.top https://a.embedsports.top https://streams.center https://streams.center",
-                "Referer:https://embedsports.top/ https://a.embedsports.top/ https://streams.center/ https://streams.center/"
+                "Origin:https://exposestrat.com https://embed.st https://embedsports.top https://a.embedsports.top https://streams.center https://streams.center",
+                "Referer:https://exposestrat.com/ https://embed.st/ https://embedsports.top/ https://a.embedsports.top/ https://streams.center/ https://streams.center/"
             ],
             "StreamUrls": [
-                "",
-                "",
-                "",
-                ""
+                "https://lb8.strmd.st/secure/ZeNokUrGPybJmefHzpLqquYFibsdECSS/rtmp/stream/kOLaYJ8F92nHGoU6zM8AN9cHBjXvD5rR2JO1Js5m0ZNFgkbLa5AqGmPcAev-cEEZ9VrFpfPfNUGllRy0a6a_4Vk/1/high/mono.m3u8"
+                ,"https://cdn13.zohanayaan.com:1686/hls/mseattlemariners.m3u8?md5=EBE5f9yHultZKnKhxM2m1A&expires=1785902645"
+                ,"https://edgestream1.pro/hls/hefbafbakx28.m3u8?st=KchTSC9HdZJpTZQRKJWgwLysqknebu8QX072Jfm1jTw&e=1785906360"
             ]
         },  
         {
