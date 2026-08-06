@@ -1,0 +1,93 @@
+name: Generate IPTV Playlist
+
+on:
+  # Allow manual execution from the GitHub Actions page
+  workflow_dispatch:
+
+  # Run every 60 minutes
+  schedule:
+    - cron: "*/60 * * * *"
+
+# The workflow needs permission to commit playlist.m3u8
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    name: Generate IPTV playlist
+    runs-on: windows-latest
+
+    steps:
+
+      # ======================================================
+      # CHECK OUT REPOSITORY
+      # ======================================================
+
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+
+      # ======================================================
+      # GENERATE PLAYLIST
+      # ======================================================
+
+      - name: Generate playlist
+        shell: powershell
+        run: |
+          Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+          
+          .\Scripts\GeneratePlaylist.ps1
+
+
+      # ======================================================
+      # SHOW GENERATED FILE
+      # ======================================================
+
+      - name: Check generated playlist
+        shell: powershell
+        run: |
+          if (-not (Test-Path ".\playlist.m3u8")) {
+              Write-Error "playlist.m3u8 was not generated."
+              exit 1
+          }
+
+          Write-Host ""
+          Write-Host "Generated playlist:"
+          Write-Host "-------------------"
+
+          Get-Item ".\playlist.m3u8" |
+              Select-Object Name, Length, LastWriteTime
+
+          Write-Host ""
+          Write-Host "Number of playlist lines:"
+          (Get-Content ".\playlist.m3u8").Count
+
+
+      # ======================================================
+      # COMMIT PLAYLIST
+      # ======================================================
+
+      - name: Commit playlist
+        shell: powershell
+        run: |
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add playlist.m3u8
+
+          $Changes = git diff --cached --name-only
+
+          if ([string]::IsNullOrWhiteSpace($Changes)) {
+
+              Write-Host "Playlist has not changed."
+              Write-Host "Nothing to commit."
+
+              exit 0
+          }
+
+          Write-Host "Playlist changed. Committing..."
+
+          git commit -m "Update IPTV playlist"
+
+          git push
