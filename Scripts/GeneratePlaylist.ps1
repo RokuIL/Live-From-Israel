@@ -835,7 +835,7 @@ foreach ($Channel in $ChannelList) {
     # FIND MATCHING STREAMS
     # ========================================================
 
-    $Matches = @(
+    $MatchedStreams = @(
         $Streams |
             Where-Object {
                 $_.title -eq $RequestedTitle
@@ -843,7 +843,7 @@ foreach ($Channel in $ChannelList) {
     )
 
 
-    if ($Matches.Count -eq 0) {
+    if ($MatchedStreams.Count -eq 0) {
 
         Write-Host "  NOT FOUND" -ForegroundColor Yellow
 
@@ -856,7 +856,7 @@ foreach ($Channel in $ChannelList) {
     }
 
 
-    Write-Host "  Found $($Matches.Count) stream(s)"
+    Write-Host "  Found $($MatchedStreams.Count) stream(s)"
 
 
     # ========================================================
@@ -870,8 +870,8 @@ foreach ($Channel in $ChannelList) {
     #
     # ========================================================
 
-    $Matches = @(
-        $Matches |
+    $MatchedStreams = @(
+        $MatchedStreams |
             Sort-Object -Property @{
                 Expression = {
                     Get-QualityValue $_.quality
@@ -885,7 +885,7 @@ foreach ($Channel in $ChannelList) {
     # PROCESS MATCHING STREAMS
     # ========================================================
 
-    foreach ($Stream in $Matches) {
+    foreach ($Stream in $MatchedStreams) {
 
         $StreamTitle = $Stream.title
         $ChannelId   = $Stream.channel
