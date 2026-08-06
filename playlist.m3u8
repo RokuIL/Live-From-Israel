@@ -9,8 +9,6 @@ http://stream.mcquack.net/294/index.m3u8
 #EXTINF:-1 tvg-name="Reshet 13 (720p)" tvg-id="13-kanal-il" tvg-logo="https://i.imgur.com/eFM3bTq.png",Reshet 13 (720p)
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 
-#EXTINF:-1 tvg-name="Fox News International (720p)" tvg-id="fox-news-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",Fox News International (720p)
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX Sports (1080p)" tvg-id="fox-sports-us-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",FOX Sports (1080p)
 https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
@@ -33,17 +31,17 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-name="TSN1 (1080p)" tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/eRFE0jZ.png",TSN1 (1080p)
 http://40.160.24.55/TSN_1/index.m3u8
 
-#EXTINF:-1 tvg-name="TSN2 (1080p)" tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/960px-TSN2.svg.png",TSN2 (1080p)
-http://40.160.24.55/TSN_2/index.m3u8
 
-#EXTINF:-1 tvg-name="TSN3 (1080p)" tvg-id="TSN3.ca" tvg-logo="https://i.imgur.com/AYza8KO.png",TSN3 (1080p)
-http://40.160.24.55/TSN_3/index.m3u8
 
-#EXTINF:-1 tvg-name="TSN4 (1080p)" tvg-id="TSN4.ca" tvg-logo="https://i.imgur.com/qJyAWU8.png",TSN4 (1080p)
-http://40.160.24.55/TSN_4/index.m3u8
 
-#EXTINF:-1 tvg-name="TSN5 (1080p)" tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/HEzHpzz.png",TSN5 (1080p)
-http://40.160.24.55/TSN_5/index.m3u8
+
+#EXTINF:-1 tvg-name="NFL Channel (1080p)" tvg-id="NFLChannel.us" tvg-logo="https://i.imgur.com/mPGtwAP.png",NFL Channel (1080p)
+https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
+
+#EXTINF:-1 tvg-name="NFL Network (720p)" tvg-id="nfl-network-us-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",NFL Network (720p)
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="NFL Network (720p)" tvg-id="nfl-network-us-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",NFL Network (720p)
+http://40.160.24.53/NFL_Network/index.m3u8
 
 #EXTINF:-1 tvg-name="MLB (720p)" tvg-id="MLB.us" tvg-logo="https://i.imgur.com/ym3su2J.png",MLB (720p)
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
