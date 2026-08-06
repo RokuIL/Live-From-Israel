@@ -33,21 +33,18 @@
             "Title": "סיאטל מרינרס",
             "TitleEng": "Seattle Mariners",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Mariners.png",
-            "OnlyIn" : "Disabled",
             "EPGProvider": "Text",
             "EPGStationId": "שידור ישיר בזמן משחק.",        
             "Private": "True",
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://exposestrat.com https://embed.st https://embedsports.top https://a.embedsports.top https://streams.center https://streams.center",
-                "Referer:https://exposestrat.com/ https://embed.st/ https://embedsports.top/ https://a.embedsports.top/ https://streams.center/ https://streams.center/"
+                "Origin:https://hamis.romponalis.st/ https://exposestrat.com https://embed.st https://embedsports.top https://a.embedsports.top https://streams.center https://streams.center",
+                "Referer:https://hamis.romponalis.st https://exposestrat.com/ https://embed.st/ https://embedsports.top/ https://a.embedsports.top/ https://streams.center/ https://streams.center/"
             ],
             "StreamUrls": [
-                ""
-                ,""
-                ,""
-                ,""
+                "https://xameleon.phantemlis.top/one/secure/7bc61174cd4c03ab188a63213b23b995/1785991517/premium10/tracks-v1a1/mono.m3u8"
+                ,"https://lb9.strmd.st/secure/pGLlxZMogDhFLCsiWPhDnNirmAtmtann/delta/stream/live_mlb_mariners-tigers-live-streaming-591413184/1/playlist.m3u8"
             ]
         },  
         {
