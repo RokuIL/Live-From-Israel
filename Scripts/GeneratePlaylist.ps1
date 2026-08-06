@@ -83,6 +83,8 @@ $ChannelList = @(
     @{ Title = "TSN3";                      TvgId = "";                             Logo = "" }
     @{ Title = "TSN4";                      TvgId = "";                             Logo = "" }
     @{ Title = "TSN5";                      TvgId = "";                             Logo = "" }
+    @{ Title = "NFL Channel";               TvgId = "";                             Logo = "" }
+    @{ Title = "NFL Network";               TvgId = "nfl-network-us-hd";                             Logo = "" }
     @{ Title = "MLB";                       TvgId = "";                             Logo = "" }
     @{ Title = "MLB Channel";               TvgId = "";                             Logo = "" }
     @{ Title = "MLB Network";               TvgId = "mlb-network-us-hd";            Logo = "" }
