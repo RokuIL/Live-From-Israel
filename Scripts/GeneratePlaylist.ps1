@@ -1044,25 +1044,11 @@ foreach ($Channel in $ChannelList) {
         # DISPLAY TITLE
         # ====================================================
         #
-        # Quality is added to the label rather than creating
-        # separate quality groups.
-        #
-        # Example:
-        #
-        #   CNN (1080p)
-        #   CNN (720p)
+        # The playlist label uses the stream title only.
         #
         # ====================================================
 
         $DisplayTitle = $StreamTitle
-
-
-        if (-not [string]::IsNullOrWhiteSpace($Quality)) {
-
-            $DisplayTitle = "$StreamTitle ($Quality)"
-        }
-
-
         $SafeDisplayTitle = $DisplayTitle -replace '"', "'"
 
 
