@@ -12,8 +12,8 @@ $LogosUrl   = "https://iptv-org.github.io/api/logos.json"
 $OutputFile = Join-Path (Get-Location) "playlist.m3u8"
 
 # Number of retries after the initial failed test.
-# 1 = maximum 2 attempts total.
-$StreamRetryCount = 1
+# 4 = maximum 5 attempts total.
+$StreamRetryCount = 4
 
 # Seconds to wait between attempts.
 $RetryDelaySeconds = 1
@@ -84,7 +84,7 @@ $ChannelList = @(
     @{ Title = "TSN4";                      TvgId = "";                             Logo = "" }
     @{ Title = "TSN5";                      TvgId = "";                             Logo = "" }
     @{ Title = "NFL Channel";               TvgId = "";                             Logo = "" }
-    @{ Title = "NFL Network";               TvgId = "nfl-network-us-hd";                             Logo = "" }
+    @{ Title = "NFL Network";               TvgId = "nfl-network-us-hd";            Logo = "" }
     @{ Title = "MLB";                       TvgId = "";                             Logo = "" }
     @{ Title = "MLB Channel";               TvgId = "";                             Logo = "" }
     @{ Title = "MLB Network";               TvgId = "mlb-network-us-hd";            Logo = "" }
