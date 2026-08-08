@@ -1,4 +1,6 @@
 ﻿#EXTM3U max-conn="2" url-tvg="http://tchaikovsky.af-stream.com:8080/epg.xml.gz" catchup-type="shift"
+#EXTINF:-1 tvg-name="Kan 11" tvg-id="11-kanal-il" group-title="Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/960px-Kan11Logo.svg.png",Kan 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Keshet 12" tvg-id="12-kanal-il" group-title="Israel" tvg-logo="https://i.imgur.com/fY3eakc.png",Keshet 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
