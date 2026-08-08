@@ -1,463 +1,283 @@
 [
     {
-        "start":  "2026-08-07T00:00:00.0000000",
+        "start":  "2026-08-08T00:00:00.0000000",
+        "title":  "Live: Slippery Stairs",
+        "end":  "2026-08-08T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T01:00:00.0000000",
+        "title":  "Dodgeball: A True Underdog Story",
+        "end":  "2026-08-08T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T03:00:00.0000000",
+        "title":  "World Juggling Federation Championships",
+        "end":  "2026-08-08T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T04:00:00.0000000",
+        "title":  "The World Series of Armwrestling Season 4 Finals",
+        "end":  "2026-08-08T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T05:00:00.0000000",
+        "title":  "Hollywood Steinholding Invitational",
+        "end":  "2026-08-08T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T06:00:00.0000000",
+        "title":  "2025 National Bubble Gum Blowing Championship",
+        "end":  "2026-08-08T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T06:30:00.0000000",
+        "title":  "WJF 20: The Ultimate Overall Championship",
+        "end":  "2026-08-08T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T07:30:00.0000000",
+        "title":  "2023 Wisconsin Auctioneers Championships",
+        "end":  "2026-08-08T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T08:00:00.0000000",
+        "title":  "Padel Ping Pong Championship",
+        "end":  "2026-08-08T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T08:30:00.0000000",
+        "title":  "Major League Table Tennis Showcase",
+        "end":  "2026-08-08T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T09:30:00.0000000",
+        "title":  "2022 Speed Chess Championship Final",
+        "end":  "2026-08-08T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T10:00:00.0000000",
+        "title":  "Freestyle Chess Grand Slam - Paris Final: Best Of Show",
+        "end":  "2026-08-08T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T10:30:00.0000000",
+        "title":  "Microsoft Excel World Championship 2024 Finals",
+        "end":  "2026-08-08T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T11:00:00.0000000",
+        "title":  "Microsoft Excel World Championship Finals",
+        "end":  "2026-08-08T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T11:30:00.0000000",
+        "title":  "USA Jigsaw Nationals",
+        "end":  "2026-08-08T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T12:00:00.0000000",
+        "title":  "Diving Chess: World Tour",
+        "end":  "2026-08-08T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T12:30:00.0000000",
+        "title":  "Fire Department Racing",
+        "end":  "2026-08-08T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T13:00:00.0000000",
+        "title":  "Brewskee-Ball: Legends of the Lane",
+        "end":  "2026-08-08T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T13:30:00.0000000",
+        "title":  "Hacky Sack 2026 Championship",
+        "end":  "2026-08-08T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T14:00:00.0000000",
+        "title":  "Blaster Tag Invitational",
+        "end":  "2026-08-08T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T15:00:00.0000000",
+        "title":  "Bullshooter Invitational V",
+        "end":  "2026-08-08T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T16:00:00.0000000",
+        "title":  "Ultimate Disc",
+        "end":  "2026-08-08T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T18:00:00.0000000",
+        "title":  "United Grid League",
+        "end":  "2026-08-08T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T19:00:00.0000000",
+        "title":  "The World Axe and Knife Throwing Championship IX",
+        "end":  "2026-08-08T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T20:00:00.0000000",
+        "title":  "2026 OmegaBall Men\u0027s Championship",
+        "end":  "2026-08-08T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T21:00:00.0000000",
+        "title":  "IJRU 2025 World Jump Rope Championships",
+        "end":  "2026-08-08T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T21:30:00.0000000",
+        "title":  "Live: Women\u0027s Lacrosse League",
+        "end":  "2026-08-08T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-08T23:30:00.0000000",
+        "title":  "Meadowlands Racetrack Wiener Dog Derby",
+        "end":  "2026-08-09T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T00:00:00.0000000",
+        "title":  "Fling Golf Lowcountry Open",
+        "end":  "2026-08-09T00:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T00:30:00.0000000",
+        "title":  "Pro Paintball 3v3 National Championship",
+        "end":  "2026-08-09T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T01:00:00.0000000",
+        "title":  "Red Bull Flugtag: Dallas",
+        "end":  "2026-08-09T01:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T01:30:00.0000000",
+        "title":  "Red Bull Non-Stock 600",
+        "end":  "2026-08-09T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T02:00:00.0000000",
+        "title":  "The Goodyear Blimp Tri in the Sky",
+        "end":  "2026-08-09T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T02:30:00.0000000",
+        "title":  "Bare Knuckle Fighting Ice Wars",
+        "end":  "2026-08-09T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T03:00:00.0000000",
+        "title":  "Two Goalies All Goalie Game",
+        "end":  "2026-08-09T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T03:30:00.0000000",
+        "title":  "The 2026 Big Boy Soap Hockey Tournament",
+        "end":  "2026-08-09T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T04:00:00.0000000",
+        "title":  "2026 Nok Hockey Championship",
+        "end":  "2026-08-09T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T04:30:00.0000000",
+        "title":  "Pumpkin Sling Championship",
+        "end":  "2026-08-09T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T05:00:00.0000000",
         "title":  "T-Rex World Championship Races",
-        "end":  "2026-08-07T00:30:00.0000000"
+        "end":  "2026-08-09T05:30:00.0000000"
     },
     {
-        "start":  "2026-08-07T00:30:00.0000000",
+        "start":  "2026-08-09T05:30:00.0000000",
         "title":  "2026 Corgi Races at Emerald Downs",
-        "end":  "2026-08-07T01:00:00.0000000"
+        "end":  "2026-08-09T06:00:00.0000000"
     },
     {
-        "start":  "2026-08-07T01:00:00.0000000",
-        "title":  "Meadowlands Racetrack Wiener Dog Derby",
-        "end":  "2026-08-07T01:30:00.0000000"
+        "start":  "2026-08-09T06:00:00.0000000",
+        "title":  "2026 Housekeeping Games",
+        "end":  "2026-08-09T07:00:00.0000000"
     },
     {
-        "start":  "2026-08-07T01:30:00.0000000",
-        "title":  "2025 NuLu Bock Fest Goat Racing Championships",
-        "end":  "2026-08-07T02:00:00.0000000"
+        "start":  "2026-08-09T07:00:00.0000000",
+        "title":  "2026 Pro Football Hall of Fame Enshrinement Ceremony",
+        "end":  "2026-08-09T09:30:00.0000000"
     },
     {
-        "start":  "2026-08-07T02:00:00.0000000",
-        "title":  "Great Bahamian Crab Races",
-        "end":  "2026-08-07T02:30:00.0000000"
+        "start":  "2026-08-09T09:30:00.0000000",
+        "title":  "World Axe \u0026 Knife Throwing Championship 2025",
+        "end":  "2026-08-09T10:30:00.0000000"
     },
     {
-        "start":  "2026-08-07T02:30:00.0000000",
-        "title":  "2026 World Dog Surfing Championships Best Waves",
-        "end":  "2026-08-07T03:00:00.0000000"
+        "start":  "2026-08-09T10:30:00.0000000",
+        "title":  "2025 Extreme Archery Championship",
+        "end":  "2026-08-09T11:30:00.0000000"
     },
     {
-        "start":  "2026-08-07T03:00:00.0000000",
-        "title":  "2026 Blackbird Cup - Alberta Pro Roller Hockey League",
-        "end":  "2026-08-07T04:00:00.0000000"
+        "start":  "2026-08-09T11:30:00.0000000",
+        "title":  "Extreme Archery 2026 Championship",
+        "end":  "2026-08-09T12:00:00.0000000"
     },
     {
-        "start":  "2026-08-07T04:00:00.0000000",
-        "title":  "National Ball Hockey League",
-        "end":  "2026-08-07T05:00:00.0000000"
+        "start":  "2026-08-09T12:00:00.0000000",
+        "title":  "Slippery Stairs",
+        "end":  "2026-08-09T13:00:00.0000000"
     },
     {
-        "start":  "2026-08-07T05:00:00.0000000",
-        "title":  "2026 Golden Tee Golf World Championship",
-        "end":  "2026-08-07T05:30:00.0000000"
+        "start":  "2026-08-09T13:00:00.0000000",
+        "title":  "WFT World Championships of Foosball",
+        "end":  "2026-08-09T14:00:00.0000000"
     },
     {
-        "start":  "2026-08-07T05:30:00.0000000",
-        "title":  "Stern Pro Circuit Heads-Up Pinball Invitational",
-        "end":  "2026-08-07T06:00:00.0000000"
+        "start":  "2026-08-09T14:00:00.0000000",
+        "title":  "Optima MotoRodeo",
+        "end":  "2026-08-09T15:00:00.0000000"
     },
     {
-        "start":  "2026-08-07T06:00:00.0000000",
-        "title":  "Diving",
-        "end":  "2026-08-07T07:00:00.0000000"
+        "start":  "2026-08-09T15:00:00.0000000",
+        "title":  "Bronco Off Course: Desert Scramble",
+        "end":  "2026-08-09T16:00:00.0000000"
     },
     {
-        "start":  "2026-08-07T07:00:00.0000000",
-        "title":  "Diving Chess: Duel in the Depths",
-        "end":  "2026-08-07T07:30:00.0000000"
+        "start":  "2026-08-09T16:00:00.0000000",
+        "title":  "Cornhole",
+        "end":  "2026-08-09T17:00:00.0000000"
     },
     {
-        "start":  "2026-08-07T07:30:00.0000000",
-        "title":  "NHRL Prime Time Robot Fighting",
-        "end":  "2026-08-07T08:00:00.0000000"
+        "start":  "2026-08-09T17:00:00.0000000",
+        "title":  "Cornhole",
+        "end":  "2026-08-09T18:00:00.0000000"
     },
     {
-        "start":  "2026-08-07T08:00:00.0000000",
-        "title":  "NTPA Unlimited Pulling Tractors",
-        "end":  "2026-08-07T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-07T08:30:00.0000000",
-        "title":  "Grass Drag Racing Season Opener",
-        "end":  "2026-08-07T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-07T09:00:00.0000000",
-        "title":  "2025 Golden Tee Golf World Championships",
-        "end":  "2026-08-07T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-07T09:30:00.0000000",
-        "title":  "FlingGolf: LFC-5 Longest FlingShot Championship",
-        "end":  "2026-08-07T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-07T10:00:00.0000000",
-        "title":  "2026 National Putting Tour\u0027s The Putting Zone Shootout",
-        "end":  "2026-08-07T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-07T10:30:00.0000000",
-        "title":  "IJRU 2025 World Jump Rope Championships",
-        "end":  "2026-08-07T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-07T11:00:00.0000000",
-        "title":  "Bike Polo Championship",
-        "end":  "2026-08-07T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-07T11:30:00.0000000",
-        "title":  "Broom Hockey Championship",
-        "end":  "2026-08-07T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-07T12:00:00.0000000",
-        "title":  "Bottlesbee",
-        "end":  "2026-08-07T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-07T12:30:00.0000000",
-        "title":  "PaddleSmash World Championship",
-        "end":  "2026-08-07T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-07T13:00:00.0000000",
-        "title":  "The National Beach Tennis Invitational",
-        "end":  "2026-08-07T13:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-07T13:30:00.0000000",
-        "title":  "The Donk Toss World Championships",
-        "end":  "2026-08-07T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-07T14:00:00.0000000",
-        "title":  "Live: Big League Wiffle Ball",
-        "end":  "2026-08-07T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-07T15:00:00.0000000",
-        "title":  "Live: Donk Toss Bikini Island Challenge",
-        "end":  "2026-08-07T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-07T16:00:00.0000000",
-        "title":  "Live: Turf Wars Adult Kickball: Battle of The Stars",
-        "end":  "2026-08-07T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-07T17:00:00.0000000",
-        "title":  "Live: The Ocho Show",
-        "end":  "2026-08-07T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-07T18:00:00.0000000",
-        "title":  "Live: Roofball",
-        "end":  "2026-08-07T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-07T19:00:00.0000000",
-        "title":  "Live: Combat Archery All-Stars",
-        "end":  "2026-08-07T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-07T20:00:00.0000000",
-        "title":  "Live: 2026 Housekeeping Games",
-        "end":  "2026-08-07T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-07T21:00:00.0000000",
-        "title":  "Live: Dodgeball",
-        "end":  "2026-08-07T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-07T22:00:00.0000000",
-        "title":  "Live: The Popdarts Championship Presented by APL",
-        "end":  "2026-08-07T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-07T23:00:00.0000000",
-        "title":  "Pop-A-Shot 2026 National Championship",
-        "end":  "2026-08-08T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T00:00:00.0000000",
-        "title":  "Live: Slippery Stairs",
-        "end":  "2026-08-08T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T01:00:00.0000000",
-        "title":  "Dodgeball: A True Underdog Story",
-        "end":  "2026-08-08T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T03:00:00.0000000",
-        "title":  "World Juggling Federation Championships",
-        "end":  "2026-08-08T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T04:00:00.0000000",
-        "title":  "The World Series of Armwrestling Season 4 Finals",
-        "end":  "2026-08-08T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T05:00:00.0000000",
-        "title":  "Hollywood Steinholding Invitational",
-        "end":  "2026-08-08T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T06:00:00.0000000",
-        "title":  "2025 National Bubble Gum Blowing Championship",
-        "end":  "2026-08-08T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T06:30:00.0000000",
-        "title":  "WJF 20: The Ultimate Overall Championship",
-        "end":  "2026-08-08T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T07:30:00.0000000",
-        "title":  "2023 Wisconsin Auctioneers Championships",
-        "end":  "2026-08-08T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T08:00:00.0000000",
-        "title":  "Padel Ping Pong Championship",
-        "end":  "2026-08-08T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T08:30:00.0000000",
-        "title":  "Major League Table Tennis Showcase",
-        "end":  "2026-08-08T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T09:30:00.0000000",
-        "title":  "2022 Speed Chess Championship Final",
-        "end":  "2026-08-08T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T10:00:00.0000000",
-        "title":  "Freestyle Chess Grand Slam - Paris Final: Best Of Show",
-        "end":  "2026-08-08T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T10:30:00.0000000",
-        "title":  "Microsoft Excel World Championship 2024 Finals",
-        "end":  "2026-08-08T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T11:00:00.0000000",
-        "title":  "Microsoft Excel World Championship Finals",
-        "end":  "2026-08-08T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T11:30:00.0000000",
-        "title":  "USA Jigsaw Nationals",
-        "end":  "2026-08-08T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T12:00:00.0000000",
-        "title":  "Diving Chess: World Tour",
-        "end":  "2026-08-08T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T12:30:00.0000000",
-        "title":  "Fire Department Racing",
-        "end":  "2026-08-08T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T13:00:00.0000000",
-        "title":  "Brewskee-Ball: Legends of the Lane",
-        "end":  "2026-08-08T13:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T13:30:00.0000000",
-        "title":  "Hacky Sack 2026 Championship",
-        "end":  "2026-08-08T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T14:00:00.0000000",
-        "title":  "Blaster Tag Invitational",
-        "end":  "2026-08-08T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T15:00:00.0000000",
-        "title":  "Bullshooter Invitational V",
-        "end":  "2026-08-08T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T16:00:00.0000000",
+        "start":  "2026-08-09T18:00:00.0000000",
         "title":  "Ultimate Disc",
-        "end":  "2026-08-08T18:00:00.0000000"
+        "end":  "2026-08-09T20:00:00.0000000"
     },
     {
-        "start":  "2026-08-08T18:00:00.0000000",
-        "title":  "United Grid League",
-        "end":  "2026-08-08T19:00:00.0000000"
+        "start":  "2026-08-09T20:00:00.0000000",
+        "title":  "Dodgeball: A True Underdog Story",
+        "end":  "2026-08-09T22:00:00.0000000"
     },
     {
-        "start":  "2026-08-08T19:00:00.0000000",
-        "title":  "The World Axe and Knife Throwing Championship IX",
-        "end":  "2026-08-08T20:00:00.0000000"
+        "start":  "2026-08-09T22:00:00.0000000",
+        "title":  "Dodgeball",
+        "end":  "2026-08-09T23:00:00.0000000"
     },
     {
-        "start":  "2026-08-08T20:00:00.0000000",
-        "title":  "2026 OmegaBall Men\u0027s Championship",
-        "end":  "2026-08-08T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T21:00:00.0000000",
-        "title":  "IJRU 2025 World Jump Rope Championships",
-        "end":  "2026-08-08T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T21:30:00.0000000",
-        "title":  "Live: Women\u0027s Lacrosse League",
-        "end":  "2026-08-08T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T23:30:00.0000000",
-        "title":  "Meadowlands Racetrack Wiener Dog Derby",
-        "end":  "2026-08-09T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-09T00:00:00.0000000",
-        "title":  "Fling Golf Lowcountry Open",
+        "start":  "2026-08-09T23:00:00.0000000",
+        "title":  "Big League Wiffle Ball",
         "end":  "2026-08-10T00:00:00.0000000"
     },
     {
-        "start":  "2026-08-08T00:00:00.0000000",
-        "title":  "Live: Slippery Stairs",
-        "end":  "2026-08-08T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T01:00:00.0000000",
-        "title":  "Dodgeball: A True Underdog Story",
-        "end":  "2026-08-08T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T03:00:00.0000000",
-        "title":  "World Juggling Federation Championships",
-        "end":  "2026-08-08T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T04:00:00.0000000",
-        "title":  "The World Series of Armwrestling Season 4 Finals",
-        "end":  "2026-08-08T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T05:00:00.0000000",
-        "title":  "Hollywood Steinholding Invitational",
-        "end":  "2026-08-08T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T06:00:00.0000000",
-        "title":  "2025 National Bubble Gum Blowing Championship",
-        "end":  "2026-08-08T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T06:30:00.0000000",
-        "title":  "WJF 20: The Ultimate Overall Championship",
-        "end":  "2026-08-08T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T07:30:00.0000000",
-        "title":  "2023 Wisconsin Auctioneers Championships",
-        "end":  "2026-08-08T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T08:00:00.0000000",
-        "title":  "Padel Ping Pong Championship",
-        "end":  "2026-08-08T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T08:30:00.0000000",
-        "title":  "Major League Table Tennis Showcase",
-        "end":  "2026-08-08T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T09:30:00.0000000",
-        "title":  "2022 Speed Chess Championship Final",
-        "end":  "2026-08-08T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T10:00:00.0000000",
-        "title":  "Freestyle Chess Grand Slam - Paris Final: Best Of Show",
-        "end":  "2026-08-08T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T10:30:00.0000000",
-        "title":  "Microsoft Excel World Championship 2024 Finals",
-        "end":  "2026-08-08T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T11:00:00.0000000",
-        "title":  "Microsoft Excel World Championship Finals",
-        "end":  "2026-08-08T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T11:30:00.0000000",
-        "title":  "USA Jigsaw Nationals",
-        "end":  "2026-08-08T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T12:00:00.0000000",
-        "title":  "Diving Chess: World Tour",
-        "end":  "2026-08-08T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T12:30:00.0000000",
-        "title":  "Fire Department Racing",
-        "end":  "2026-08-08T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T13:00:00.0000000",
-        "title":  "Brewskee-Ball: Legends of the Lane",
-        "end":  "2026-08-08T13:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T13:30:00.0000000",
-        "title":  "Hacky Sack 2026 Championship",
-        "end":  "2026-08-08T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T14:00:00.0000000",
-        "title":  "Blaster Tag Invitational",
-        "end":  "2026-08-08T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T15:00:00.0000000",
-        "title":  "Bullshooter Invitational V",
-        "end":  "2026-08-08T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T16:00:00.0000000",
-        "title":  "Ultimate Disc",
-        "end":  "2026-08-08T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T18:00:00.0000000",
-        "title":  "United Grid League",
-        "end":  "2026-08-08T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T19:00:00.0000000",
-        "title":  "The World Axe and Knife Throwing Championship IX",
-        "end":  "2026-08-08T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T20:00:00.0000000",
-        "title":  "2026 OmegaBall Men\u0027s Championship",
-        "end":  "2026-08-08T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T21:00:00.0000000",
-        "title":  "IJRU 2025 World Jump Rope Championships",
-        "end":  "2026-08-08T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T21:30:00.0000000",
-        "title":  "Live: Women\u0027s Lacrosse League",
-        "end":  "2026-08-08T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-08T23:30:00.0000000",
-        "title":  "Meadowlands Racetrack Wiener Dog Derby",
-        "end":  "2026-08-09T00:00:00.0000000"
+        "start":  "2026-08-10T00:00:00.0000000",
+        "title":  "Turf Wars Adult Kickball: Battle of The Stars",
+        "end":  "2026-08-11T00:00:00.0000000"
     },
     {
         "start":  "2026-08-09T00:00:00.0000000",
@@ -507,56 +327,131 @@
     {
         "start":  "2026-08-09T04:30:00.0000000",
         "title":  "Pumpkin Sling Championship",
+        "end":  "2026-08-09T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T05:00:00.0000000",
+        "title":  "T-Rex World Championship Races",
+        "end":  "2026-08-09T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T05:30:00.0000000",
+        "title":  "2026 Corgi Races at Emerald Downs",
+        "end":  "2026-08-09T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T06:00:00.0000000",
+        "title":  "2026 Housekeeping Games",
+        "end":  "2026-08-09T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T07:00:00.0000000",
+        "title":  "2026 Pro Football Hall of Fame Enshrinement Ceremony",
+        "end":  "2026-08-09T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T09:30:00.0000000",
+        "title":  "World Axe \u0026 Knife Throwing Championship 2025",
+        "end":  "2026-08-09T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T10:30:00.0000000",
+        "title":  "2025 Extreme Archery Championship",
+        "end":  "2026-08-09T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T11:30:00.0000000",
+        "title":  "Extreme Archery 2026 Championship",
+        "end":  "2026-08-09T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T12:00:00.0000000",
+        "title":  "Slippery Stairs",
+        "end":  "2026-08-09T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T13:00:00.0000000",
+        "title":  "WFT World Championships of Foosball",
+        "end":  "2026-08-09T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T14:00:00.0000000",
+        "title":  "Optima MotoRodeo",
+        "end":  "2026-08-09T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T15:00:00.0000000",
+        "title":  "Bronco Off Course: Desert Scramble",
+        "end":  "2026-08-09T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T16:00:00.0000000",
+        "title":  "Cornhole",
+        "end":  "2026-08-09T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T17:00:00.0000000",
+        "title":  "Cornhole",
+        "end":  "2026-08-09T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T18:00:00.0000000",
+        "title":  "Ultimate Disc",
+        "end":  "2026-08-09T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T20:00:00.0000000",
+        "title":  "Dodgeball: A True Underdog Story",
+        "end":  "2026-08-09T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T22:00:00.0000000",
+        "title":  "Dodgeball",
+        "end":  "2026-08-09T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-09T23:00:00.0000000",
+        "title":  "Big League Wiffle Ball",
         "end":  "2026-08-10T00:00:00.0000000"
     },
     {
-        "start":  "2026-08-09T00:00:00.0000000",
-        "title":  "Fling Golf Lowcountry Open",
-        "end":  "2026-08-09T00:30:00.0000000"
+        "start":  "2026-08-10T00:00:00.0000000",
+        "title":  "Turf Wars Adult Kickball: Battle of The Stars",
+        "end":  "2026-08-10T01:00:00.0000000"
     },
     {
-        "start":  "2026-08-09T00:30:00.0000000",
-        "title":  "Pro Paintball 3v3 National Championship",
-        "end":  "2026-08-09T01:00:00.0000000"
+        "start":  "2026-08-10T01:00:00.0000000",
+        "title":  "Banana Ball World Tour",
+        "end":  "2026-08-10T03:00:00.0000000"
     },
     {
-        "start":  "2026-08-09T01:00:00.0000000",
-        "title":  "Red Bull Flugtag: Dallas",
-        "end":  "2026-08-09T01:30:00.0000000"
+        "start":  "2026-08-10T03:00:00.0000000",
+        "title":  "X Games Presents",
+        "end":  "2026-08-10T04:00:00.0000000"
     },
     {
-        "start":  "2026-08-09T01:30:00.0000000",
-        "title":  "Red Bull Non-Stock 600",
-        "end":  "2026-08-09T02:00:00.0000000"
+        "start":  "2026-08-10T04:00:00.0000000",
+        "title":  "30 for 30",
+        "end":  "2026-08-11T00:00:00.0000000"
     },
     {
-        "start":  "2026-08-09T02:00:00.0000000",
-        "title":  "The Goodyear Blimp Tri in the Sky",
-        "end":  "2026-08-09T02:30:00.0000000"
+        "start":  "2026-08-10T00:00:00.0000000",
+        "title":  "Turf Wars Adult Kickball: Battle of The Stars",
+        "end":  "2026-08-10T01:00:00.0000000"
     },
     {
-        "start":  "2026-08-09T02:30:00.0000000",
-        "title":  "Bare Knuckle Fighting Ice Wars",
-        "end":  "2026-08-09T03:00:00.0000000"
+        "start":  "2026-08-10T01:00:00.0000000",
+        "title":  "Banana Ball World Tour",
+        "end":  "2026-08-10T03:00:00.0000000"
     },
     {
-        "start":  "2026-08-09T03:00:00.0000000",
-        "title":  "Two Goalies All Goalie Game",
-        "end":  "2026-08-09T03:30:00.0000000"
+        "start":  "2026-08-10T03:00:00.0000000",
+        "title":  "X Games Presents",
+        "end":  "2026-08-10T04:00:00.0000000"
     },
     {
-        "start":  "2026-08-09T03:30:00.0000000",
-        "title":  "The 2026 Big Boy Soap Hockey Tournament",
-        "end":  "2026-08-09T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-09T04:00:00.0000000",
-        "title":  "2026 Nok Hockey Championship",
-        "end":  "2026-08-09T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-09T04:30:00.0000000",
-        "title":  "Pumpkin Sling Championship",
-        "end":  "2026-08-10T00:00:00.0000000"
+        "start":  "2026-08-10T04:00:00.0000000",
+        "title":  "30 for 30",
+        "end":  "2026-08-11T00:00:00.0000000"
     }
 ]
