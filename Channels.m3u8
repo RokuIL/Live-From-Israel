@@ -1,0 +1,106 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Kan%2011" tvg-name="Kan 11" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" group-title="Israel" tvg_provider="WGP" tvg_backup_provider="XMLTV" tvg_backup_id="11-kanal-il",כאן 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kan%2011" tvg-name="Kan 11" Israel-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" group-title="LFI" tvg_provider="WGP" tvg_backup_provider="XMLTV" tvg_backup_id="11-kanal-il",כאן 11
+http://stream.mcquack.net/293/index.m3u8
+
+#EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" group-title="Israel" tvg_provider="Mako" tvg_backup_provider="WGP" tvg_backup_id="Keshet%2012",קשת 12
+https://mako-streaming.akamaized.net@@MAKO:lp=@@/stream/hls/live/20000821/k12n12wad/index.m3u8@@?@@TICKET@@|Origin=https://www.n12.co.il&Referer=https://www.n12.co.il/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
+
+#EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" group-title="Israel" tvg_provider="Mako" tvg_backup_provider="WGP" tvg_backup_id="Keshet%2012",קשת 12
+http://stream.mcquack.net/294/index.m3u8|Origin=https://www.n12.co.il&Referer=https://www.n12.co.il/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
+
+#EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" group-title="Israel" tvg_provider="Mako" tvg_backup_provider="WGP" tvg_backup_id="Keshet%2012",קשת 12
+https://mako-streaming.akamaized.net@@MAKO:lp=@@/direct/hls/live/2033791/k12dvr/index.m3u8@@?@@TICKET@@|Origin=https://www.n12.co.il&Referer=https://www.n12.co.il/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
+
+#EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" group-title="Israel" tvg_provider="Mako" tvg_backup_provider="WGP" tvg_backup_id="Keshet%2012",קשת 12
+https://mako-streaming.akamaized.net@@MAKO:lp=@@/n12/hls/live/2041434/n12_b/index.m3u8@@?@@TICKET@@|Origin=https://www.n12.co.il&Referer=https://www.n12.co.il/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
+
+#EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" group-title="Israel" tvg_provider="Mako" tvg_backup_provider="WGP" tvg_backup_id="Keshet%2012",קשת 12
+https://mako-streaming.akamaized.net@@MAKO:lp=@@/n12/hls/live/2103938/k12/index.m3u8@@?@@TICKET@@|Origin=https://www.n12.co.il&Referer=https://www.n12.co.il/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
+
+#EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" group-title="Israel" tvg_provider="Mako" tvg_backup_provider="WGP" tvg_backup_id="Keshet%2012",קשת 12
+https://mako-streaming.akamaized.net@@MAKO:lp=@@/stream/hls/live/2033791/k12n12wad/index.m3u8@@?@@TICKET@@|Origin=https://www.n12.co.il&Referer=https://www.n12.co.il/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
+
+#EXTINF:-1 tvg-id="Reshet%2013" tvg-name="Reshet 13" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg" group-title="Israel" tvg_provider="WGP" tvg_backup_provider="Reshet",רשת 13
+https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0&Origin=https://kondoplay.cfd&Referer=https://kondoplay.cfd/
+
+#EXTINF:-1 tvg-id="Reshet%2013" tvg-name="Reshet 13" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg" group-title="Israel" tvg_provider="WGP" tvg_backup_provider="Reshet",רשת 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0&Origin=https://kondoplay.cfd&Referer=https://kondoplay.cfd/
+
+#EXTINF:-1 tvg-id="Reshet%2013" tvg-name="Reshet 13" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg" group-title="Israel" tvg_provider="WGP" tvg_backup_provider="Reshet",רשת 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/66d4ac8748ce4a9298b4e40e48d1ae2f/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0&Origin=https://kondoplay.cfd&Referer=https://kondoplay.cfd/
+
+#EXTINF:-1 tvg-id="Reshet%2013" tvg-name="Reshet 13" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg" group-title="Israel" tvg_provider="WGP" tvg_backup_provider="Reshet",רשת 13
+http://stream.mcquack.net/295/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0&Origin=https://kondoplay.cfd&Referer=https://kondoplay.cfd/
+
+#EXTINF:-1 tvg-id="i24" tvg-name="i24 news" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/i24news.jpg" group-title="Israel" tvg_provider="WGP" tvg_backup_provider="i24",חדשות איי 24
+https://i24newshebrew-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="שידור ישיר 24x7 במהלך העונה." tvg-name="Big Brother" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Big%20Brother.png" group-title="Israel" tvg-country="IL-Disabled" tvg_provider="Text",האח הגדול
+https://d3snfszc9pg25z.cloudfront.net/media/e1739115-9182-4adc-8d19-8eb7fb6fdd3a/playlist_2.m3u8?_uid=b717a25b-7e62-41f3-a066-5530ee52b6df&rK=a10
+
+#EXTINF:-1 tvg-id="465021" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png" group-title="US News" tvg_provider="WGP.ENG" tvg_backup_provider="XMLTV" tvg_backup_id="cnn",סי אן אן
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+
+#EXTINF:-1 tvg-id="465021" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png" group-title="US News" tvg_provider="WGP.ENG" tvg_backup_provider="XMLTV" tvg_backup_id="cnn",סי אן אן
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="465021" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png" group-title="US News" tvg_provider="WGP.ENG" tvg_backup_provider="XMLTV" tvg_backup_id="cnn",סי אן אן
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="465372" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png" group-title="US News" tvg_provider="WGP.ENG" tvg_backup_provider="XMLTV" tvg_backup_id="fox-news-hd",פוקס ניוז
+https://s6.usnlive.com/stream/foxnews.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0&Origin=https://usnewson.com&Referer=https://usnewson.com/
+
+#EXTINF:-1 tvg-id="465372" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png" group-title="US News" tvg_provider="WGP.ENG" tvg_backup_provider="XMLTV" tvg_backup_id="fox-news-hd",פוקס ניוז
+https://s5.usnlive.com/stream/foxnews.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0&Origin=https://usnewson.com&Referer=https://usnewson.com/
+
+#EXTINF:-1 tvg-id="465372" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png" group-title="US News" tvg_provider="WGP.ENG" tvg_backup_provider="XMLTV" tvg_backup_id="fox-news-hd",פוקס ניוז
+https://s4.usnlive.com/stream/foxnews.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0&Origin=https://usnewson.com&Referer=https://usnewson.com/
+
+#EXTINF:-1 tvg-id="465372" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png" group-title="US News" tvg_provider="WGP.ENG" tvg_backup_provider="XMLTV" tvg_backup_id="fox-news-hd",פוקס ניוז
+https://s3.usnlive.com/stream/foxnews.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0&Origin=https://usnewson.com&Referer=https://usnewson.com/
+
+#EXTINF:-1 tvg-id="465372" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png" group-title="US News" tvg_provider="WGP.ENG" tvg_backup_provider="XMLTV" tvg_backup_id="fox-news-hd",פוקס ניוז
+https://s2.usnlive.com/stream/foxnews.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0&Origin=https://usnewson.com&Referer=https://usnewson.com/
+
+#EXTINF:-1 tvg-id="465372" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png" group-title="US News" tvg_provider="WGP.ENG" tvg_backup_provider="XMLTV" tvg_backup_id="fox-news-hd",פוקס ניוז
+https://s1.usnlive.com/stream/foxnews.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0&Origin=https://usnewson.com&Referer=https://usnewson.com/
+
+#EXTINF:-1 tvg-id="465372" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png" group-title="US News" tvg_provider="WGP.ENG" tvg_backup_provider="XMLTV" tvg_backup_id="fox-news-hd",פוקס ניוז
+https://gpuserver3.tier1streams.com/FOX/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0&Origin=https://usnewson.com&Referer=https://usnewson.com/
+
+#EXTINF:-1 tvg-id="465150" tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ABCNews.jpg" group-title="US News" tvg_provider="WGP.ENG" tvg_backup_provider="XMLTV" tvg_backup_id="abc-news-us-hd",איי בי סי ניוז
+https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NEWS_NOW" tvg-name="NBC News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png" group-title="US News" tvg_provider="NBC News ENG" tvg_backup_provider="XMLTV" tvg_backup_id="nbc-news-us-hd",אן בי סי ניוז
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991247
+
+#EXTINF:-1 tvg-id="NEWS_NOW" tvg-name="NBC News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png" group-title="US News" tvg_provider="NBC News ENG" tvg_backup_provider="XMLTV" tvg_backup_id="nbc-news-us-hd",אן בי סי ניוז
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+
+#EXTINF:-1 tvg-id="464941" tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CBSNews.png" group-title="US News" tvg_provider="WGP.ENG" tvg_backup_provider="XMLTV" tvg_backup_id="cbs-news-us-hd",סי בי אס ניוז
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-id="שידור חדשות חי, או הקלטת החדשות האחרונות." tvg-name="Komo 4 News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Komo4News.png" group-title="US News" tvg_provider="Text",חדשות קומו 4
+https://content.uplynk.com/SuNoSwen/index.m3u8?channel=140
+
+#EXTINF:-1 tvg-id="שידור חדשות חי, או הקלטת החדשות האחרונות." tvg-name="King 5 News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/King5News.png" group-title="US News" tvg_provider="Text",חדשות קינג 5
+https://livevideo01.king5.com/hls/live/2006665/live/live.m3u8
+
+#EXTINF:-1 tvg-id="שידור חדשות חי, או הקלטת החדשות האחרונות." tvg-name="King 5 News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/King5News.png" group-title="US News" tvg_provider="Text",חדשות קינג 5
+https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/live/live.m3u8
+
+#EXTINF:-1 tvg-id="שידור חדשות חי, או הקלטת החדשות האחרונות." tvg-name="King 5 News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/King5News.png" group-title="US News" tvg_provider="Text",חדשות קינג 5
+https://content.uplynk.com/SuNoSwen/index.m3u8?channel=233
+
+#EXTINF:-1 tvg-id="שידור חדשות חי, או הקלטת החדשות האחרונות." tvg-name="Kiro 7 News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kiro7News.png" group-title="US News" tvg_provider="Text",חדשות קירו 7
+https://content.uplynk.com/SuNoSwen/index.m3u8?channel=106
+
+#EXTINF:-1 tvg-id="שידור חדשות חי, או הקלטת החדשות האחרונות." tvg-name="Kiro 7 News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kiro7News.png" group-title="US News" tvg_provider="Text",חדשות קירו 7
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreakingnews-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk3MDk1MjQxNn0
+
+#EXTINF:-1 tvg-id="שידור חדשות חי, או הקלטת החדשות האחרונות." tvg-name="Q13 News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Q13News.png" group-title="US News" tvg_provider="Text",חדשות קיו 13
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13seattlekcpq-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAzODYwOTY1MH0
