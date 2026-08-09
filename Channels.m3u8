@@ -3,14 +3,14 @@
 #EXTINF:-1 tvg-id="Kan%2011" tvg-name="Kan 11" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" group-title="Israel" tvg_provider="WGP" tvg_backup_provider="XMLTV" tvg_backup_id="11-kanal-il",כאן 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Kan%2011" tvg-name="Kan 11" Israel-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" group-title="LFI" tvg_provider="WGP" tvg_backup_provider="XMLTV" tvg_backup_id="11-kanal-il",כאן 11
+#EXTINF:-1 tvg-id="Kan%2011" tvg-name="Kan 11" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" group-title="Israel" tvg_provider="WGP" tvg_backup_provider="XMLTV" tvg_backup_id="11-kanal-il",כאן 11
 http://stream.mcquack.net/293/index.m3u8
 
 #EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" group-title="Israel" tvg_provider="Mako" tvg_backup_provider="WGP" tvg_backup_id="Keshet%2012",קשת 12
 https://mako-streaming.akamaized.net@@MAKO:lp=@@/stream/hls/live/20000821/k12n12wad/index.m3u8@@?@@TICKET@@|Origin=https://www.n12.co.il&Referer=https://www.n12.co.il/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
 
 #EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" group-title="Israel" tvg_provider="Mako" tvg_backup_provider="WGP" tvg_backup_id="Keshet%2012",קשת 12
-http://stream.mcquack.net/294/index.m3u8|Origin=https://www.n12.co.il&Referer=https://www.n12.co.il/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
+http://stream.mcquack.net/294/index.m3u8
 
 #EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" group-title="Israel" tvg_provider="Mako" tvg_backup_provider="WGP" tvg_backup_id="Keshet%2012",קשת 12
 https://mako-streaming.akamaized.net@@MAKO:lp=@@/direct/hls/live/2033791/k12dvr/index.m3u8@@?@@TICKET@@|Origin=https://www.n12.co.il&Referer=https://www.n12.co.il/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
