@@ -54,8 +54,17 @@ $PlaylistHeader = '#EXTM3U max-conn="2" url-tvg="http://tchaikovsky.af-stream.co
 # Title:
 #   Must match the "title" field in streams.json.
 #
-# TvgId:
-#   Optional ID used by your program guide.
+# Metadata:
+#   These names map directly to the Roku M3U parser:
+#
+#       Title              -> display title
+#       TitleEng           -> tvg-name
+#       Logo               -> tvg-logo
+#       GroupTitle         -> group-title
+#       EPGProvider        -> tvg-provider
+#       EPGStationId       -> tvg-id
+#       EPGBackupProvider  -> tvg-backup-provider
+#       EPGBackupStationId -> tvg-backup-id
 #
 # Logo:
 #   Optional fallback logo.
@@ -70,33 +79,33 @@ $PlaylistHeader = '#EXTM3U max-conn="2" url-tvg="http://tchaikovsky.af-stream.co
 
 $ChannelList = @(
 
-    @{ Title = "Kan 11";                    GroupId = "Israel";        TvgId = "11-kanal-il";                  Logo = "" }
-    @{ Title = "Keshet 12";                 GroupId = "Israel";        TvgId = "12-kanal-il";                  Logo = "" }
-    @{ Title = "Reshet 13";                 GroupId = "Israel";        TvgId = "13-kanal-il";                  Logo = "" }
-    @{ Title = "Fox News International";    GroupId = "US News";       TvgId = "fox-news-hd";                  Logo = "" }
-    @{ Title = "CBS News New York";         GroupId = "US News";       TvgId = "";                             Logo = "" }
-    @{ Title = "FOX 5 New York NY (WNYW)";  GroupId = "US News";       TvgId = "";                             Logo = "" }
-    @{ Title = "FOX Sports";                GroupId = "Sports";        TvgId = "fox-sports-us-hd";             Logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" }
-    @{ Title = "FOX Sports 1";              GroupId = "Sports";        TvgId = "";                             Logo = "" }
-    @{ Title = "FOX Sports 2";              GroupId = "Sports";        TvgId = "fox-sports2-us";               Logo = "" }
-    @{ Title = "NBC Sports NOW";            GroupId = "Sports";        TvgId = "nbc-sports-us-hd";             Logo = "" }
-    @{ Title = "TSN1";                      GroupId = "Sports";        TvgId = "";                             Logo = "" }
-    @{ Title = "TSN2";                      GroupId = "Sports";        TvgId = "";                             Logo = "" }
-    @{ Title = "TSN3";                      GroupId = "Sports";        TvgId = "";                             Logo = "" }
-    @{ Title = "TSN4";                      GroupId = "Sports";        TvgId = "";                             Logo = "" }
-    @{ Title = "TSN5";                      GroupId = "Sports";        TvgId = "";                             Logo = "" }
-    @{ Title = "NFL Channel";               GroupId = "Sports";        TvgId = "";                             Logo = "" }
-    @{ Title = "NFL Network";               GroupId = "Sports";        TvgId = "nfl-network-us-hd";            Logo = "" }
-    @{ Title = "MLB";                       GroupId = "Sports";        TvgId = "";                             Logo = "" }
-    @{ Title = "MLB Channel";               GroupId = "Sports";        TvgId = "";                             Logo = "" }
-    @{ Title = "MLB Network";               GroupId = "Sports";        TvgId = "mlb-network-us-hd";            Logo = "" }
-    @{ Title = "MLB Strike Zone";           GroupId = "Sports";        TvgId = "";                             Logo = "" }
-    @{ Title = "SportsNet New York";        GroupId = "Sports";        TvgId = "";                             Logo = "" }
-    @{ Title = "Fox Soccer Plus";           GroupId = "Sports";        TvgId = "";                             Logo = "" }
-    @{ Title = "Sky Sports F1";             GroupId = "Sports";        TvgId = "sky-sports-f1-uk-hd";          Logo = "" }
-    @{ Title = "Sky Sports Football";       GroupId = "Sports";        TvgId = "sky-sports-football-uk-hd";    Logo = "" }
-    @{ Title = "Sky Sports Main Event HD";  GroupId = "Sports";        TvgId = "sky-sports-main-event-uk-hd";  Logo = "" }
-    @{ Title = "Sky Mix";                   GroupId = "Sports";        TvgId = "sky-sports-mix-uk-hd";         Logo = "" }
+    @{ Title = "Kan 11";                    TitleEng = "Kan 11";                    GroupTitle = "Israel";  EPGProvider = "WGP";     EPGStationId = "Kan%2011";         EPGBackupProvider = "XMLTV";       EPGBackupStationId = "11-kanal-il";       Logo = "" }
+    @{ Title = "Keshet 12";                 TitleEng = "Keshet 12";                 GroupTitle = "Israel";  EPGProvider = "Mako";    EPGStationId = "";                 EPGBackupProvider = "WGP";         EPGBackupStationId = "Keshet%2012";       Logo = "" }
+    @{ Title = "Reshet 13";                 TitleEng = "Reshet 13";                 GroupTitle = "Israel";  EPGProvider = "WGP";     EPGStationId = "Reshet%2013";      EPGBackupProvider = "Reshet";      EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "Fox News International";    TitleEng = "Fox News International";    GroupTitle = "US News"; EPGProvider = "WGP.ENG"; EPGStationId = "465372";           EPGBackupProvider = "XMLTV";       EPGBackupStationId = "fox-news-hd";       Logo = "" }
+    @{ Title = "CBS News New York";         TitleEng = "CBS News New York";         GroupTitle = "US News"; EPGProvider = "";        EPGStationId = "";                 EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "FOX 5 New York NY (WNYW)";  TitleEng = "FOX 5 New York NY (WNYW)";  GroupTitle = "US News"; EPGProvider = "";        EPGStationId = "";                 EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "FOX Sports";                TitleEng = "FOX Sports";                GroupTitle = "Sports";  EPGProvider = "XMLTV";   EPGStationId = "fox-sports-us-hd"; EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" }
+    @{ Title = "FOX Sports 1";              TitleEng = "FOX Sports 1";              GroupTitle = "Sports";  EPGProvider = "";        EPGStationId = "";                 EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "FOX Sports 2";              TitleEng = "FOX Sports 2";              GroupTitle = "Sports";  EPGProvider = "XMLTV";   EPGStationId = "fox-sports2-us";   EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "NBC Sports NOW";            TitleEng = "NBC Sports NOW";            GroupTitle = "Sports";  EPGProvider = "XMLTV";   EPGStationId = "";                 EPGBackupProvider = "XMLTV";       EPGBackupStationId = "nbc-sports-us-hd";  Logo = "" }
+    @{ Title = "TSN1";                      TitleEng = "TSN1";                      GroupTitle = "Sports";  EPGProvider = "";        EPGStationId = "";                 EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "TSN2";                      TitleEng = "TSN2";                      GroupTitle = "Sports";  EPGProvider = "";        EPGStationId = "";                 EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "TSN3";                      TitleEng = "TSN3";                      GroupTitle = "Sports";  EPGProvider = "";        EPGStationId = "";                 EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "TSN4";                      TitleEng = "TSN4";                      GroupTitle = "Sports";  EPGProvider = "";        EPGStationId = "";                 EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "TSN5";                      TitleEng = "TSN5";                      GroupTitle = "Sports";  EPGProvider = "";        EPGStationId = "";                 EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "NFL Channel";               TitleEng = "NFL Channel";               GroupTitle = "Sports";  EPGProvider = "";        EPGStationId = "";                 EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "NFL Network";               TitleEng = "NFL Network";               GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "465311";           EPGBackupProvider = "XMLTV";       EPGBackupStationId = "nfl-network-us-hd"; Logo = "" }
+    @{ Title = "MLB";                       TitleEng = "MLB";                       GroupTitle = "Sports";  EPGProvider = "";        EPGStationId = "";                 EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "MLB Channel";               TitleEng = "MLB Channel";               GroupTitle = "Sports";  EPGProvider = "";        EPGStationId = "";                 EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "MLB Network";               TitleEng = "MLB Network";               GroupTitle = "Sports";  EPGProvider = "XMLTV";   EPGStationId = "mlb-network-us-hd"; EPGBackupProvider = "";           EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "MLB Strike Zone";           TitleEng = "MLB Strike Zone";           GroupTitle = "Sports";  EPGProvider = "";        EPGStationId = "";                 EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "SportsNet New York";        TitleEng = "SportsNet New York";        GroupTitle = "Sports";  EPGProvider = "";        EPGStationId = "";                 EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "Fox Soccer Plus";           TitleEng = "Fox Soccer Plus";           GroupTitle = "Sports";  EPGProvider = "";        EPGStationId = "";                 EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "Sky Sports F1";             TitleEng = "Sky Sports F1";             GroupTitle = "Sports";  EPGProvider = "XMLTV";   EPGStationId = "sky-sports-f1-uk-hd"; EPGBackupProvider = "";         EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "Sky Sports Football";       TitleEng = "Sky Sports Football";       GroupTitle = "Sports";  EPGProvider = "XMLTV";   EPGStationId = "sky-sports-football-uk-hd"; EPGBackupProvider = "";   EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "Sky Sports Main Event HD";  TitleEng = "Sky Sports Main Event HD";  GroupTitle = "Sports";  EPGProvider = "XMLTV";   EPGStationId = "sky-sports-main-event-uk-hd"; EPGBackupProvider = ""; EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "Sky Mix";                   TitleEng = "Sky Mix";                   GroupTitle = "Sports";  EPGProvider = "XMLTV";   EPGStationId = "sky-sports-mix-uk-hd"; EPGBackupProvider = "";        EPGBackupStationId = "";                  Logo = "" }
 
 )
 
@@ -821,9 +830,7 @@ $OfflineStreams = [System.Collections.Generic.List[string]]::new()
 foreach ($Channel in $ChannelList) {
 
     $RequestedTitle = $Channel.Title
-    $RequestedGroupId = $Channel.GroupId
-    $RequestedTvgId = $Channel.TvgId
-    $FallbackLogo   = $Channel.Logo
+    $FallbackLogo = $Channel.Logo
 
 
     Write-Host ""
@@ -1021,36 +1028,24 @@ foreach ($Channel in $ChannelList) {
 
 
         # ====================================================
-        # TVG-ID
-        # ====================================================
-        #
-        # If the predefined channel list specifies a TvgId,
-        # use it.
-        #
-        # Otherwise use the channel value from streams.json.
-        #
-        # ====================================================
-
-        if (-not [string]::IsNullOrWhiteSpace($RequestedTvgId)) {
-
-            $TvgId = $RequestedTvgId
-        }
-        else {
-
-            $TvgId = $ChannelId
-        }
-
-
-        # ====================================================
         # DISPLAY TITLE
         # ====================================================
         #
-        # The playlist label uses the stream title only.
+        # The predefined metadata controls the playlist label. The
+        # stream title remains the lookup key in streams.json.
         #
         # ====================================================
 
-        $DisplayTitle = $StreamTitle
+        $DisplayTitle = $Channel.Title
+        if ([string]::IsNullOrWhiteSpace($DisplayTitle)) {
+            $DisplayTitle = $StreamTitle
+        }
+
         $SafeDisplayTitle = $DisplayTitle -replace '"', "'"
+
+        if ([string]::IsNullOrWhiteSpace($Channel.TitleEng)) {
+            $Channel.TitleEng = $DisplayTitle
+        }
 
 
         # ====================================================
@@ -1060,46 +1055,21 @@ foreach ($Channel in $ChannelList) {
         $Attributes = @()
 
 
-        # ----------------------------------------------------
-        # tvg-name
-        # ----------------------------------------------------
+        $OutputMetadata = @(
+            @{ Name = "tvg-name";             Value = $Channel.TitleEng }
+            @{ Name = "tvg-logo";             Value = $LogoUrl }
+            @{ Name = "group-title";          Value = $Channel.GroupTitle }
+            @{ Name = "tvg-provider";         Value = $Channel.EPGProvider }
+            @{ Name = "tvg-id";               Value = $Channel.EPGStationId }
+            @{ Name = "tvg-backup-provider";  Value = $Channel.EPGBackupProvider }
+            @{ Name = "tvg-backup-id";        Value = $Channel.EPGBackupStationId }
+        )
 
-        $Attributes += "tvg-name=`"$SafeDisplayTitle`""
-
-
-        # ----------------------------------------------------
-        # tvg-id
-        # ----------------------------------------------------
-
-        if (-not [string]::IsNullOrWhiteSpace($TvgId)) {
-
-            $SafeTvgId = $TvgId -replace '"', "'"
-
-            $Attributes += "tvg-id=`"$SafeTvgId`""
-        }
-
-
-        # ----------------------------------------------------
-        # group-title
-        # ----------------------------------------------------
-
-        if (-not [string]::IsNullOrWhiteSpace($RequestedGroupId)) {
-
-            $SafeGroupTitle = $RequestedGroupId -replace '"', "'"
-
-            $Attributes += "group-title=`"$SafeGroupTitle`""
-        }
-
-
-        # ----------------------------------------------------
-        # tvg-logo
-        # ----------------------------------------------------
-
-        if (-not [string]::IsNullOrWhiteSpace($LogoUrl)) {
-
-            $SafeLogoUrl = $LogoUrl -replace '"', "'"
-
-            $Attributes += "tvg-logo=`"$SafeLogoUrl`""
+        foreach ($MetadataField in $OutputMetadata) {
+            if (-not [string]::IsNullOrWhiteSpace($MetadataField.Value)) {
+                $SafeValue = $MetadataField.Value -replace '"', "'"
+                $Attributes += "$($MetadataField.Name)=`"$SafeValue`""
+            }
         }
 
 
@@ -1154,7 +1124,7 @@ foreach ($Channel in $ChannelList) {
         # ====================================================
 
         Write-Host "      quality: $Quality"
-        Write-Host "      tvg-id:  $TvgId"
+        Write-Host "      tvg-id:  $($Channel.EPGStationId)"
 
 
         switch ($LogoSource) {
