@@ -5,22 +5,20 @@
 # ============================================================
 # CONFIGURATION
 # ============================================================
-
 $StreamsUrl = "https://iptv-org.github.io/api/streams.json"
 $LogosUrl   = "https://iptv-org.github.io/api/logos.json"
 
 $OutputFile = Join-Path (Get-Location) "playlist.m3u8"
 
 # Number of retries after the initial failed test.
-# 4 = maximum 5 attempts total.
-$StreamRetryCount = 4
+# 2 = maximum 3 attempts total.
+$StreamRetryCount = 2
 
 # Seconds to wait between attempts.
 $RetryDelaySeconds = 1
 
 # Maximum number of seconds allowed for each HTTP request.
 $StreamTimeoutSeconds = 5
-
 
 # ============================================================
 # LOAD .NET HTTP LIBRARY
@@ -29,7 +27,6 @@ $StreamTimeoutSeconds = 5
 # Required when running under Windows PowerShell 5.1.
 #
 # ============================================================
-
 try {
     Add-Type -AssemblyName System.Net.Http
 }
@@ -39,13 +36,10 @@ catch {
     exit 1
 }
 
-
 # ============================================================
 # PLAYLIST HEADER
 # ============================================================
-
 $PlaylistHeader = '#EXTM3U'
-
 
 # ============================================================
 # CHANNEL LIST
@@ -76,40 +70,36 @@ $PlaylistHeader = '#EXTM3U'
 #       3. No logo
 #
 # ============================================================
-
 $ChannelList = @(
-
-    @{ Title = "Kan 11";                    TitleEng = "Kan 11";                    GroupTitle = "Israel";  EPGProvider = "WGP";     EPGStationId = "Kan%2011";         EPGBackupProvider = "XMLTV";       EPGBackupStationId = "11-kanal-il";       Logo = "" }
-    @{ Title = "Keshet 12";                 TitleEng = "Keshet 12";                 GroupTitle = "Israel";  EPGProvider = "Mako";    EPGStationId = "";                 EPGBackupProvider = "WGP";         EPGBackupStationId = "Keshet%2012";       Logo = "" }
-    @{ Title = "Reshet 13";                 TitleEng = "Reshet 13";                 GroupTitle = "Israel";  EPGProvider = "WGP";     EPGStationId = "Reshet%2013";      EPGBackupProvider = "Reshet";      EPGBackupStationId = "";                  Logo = "" }
-    @{ Title = "Fox News International";    TitleEng = "Fox News International";    GroupTitle = "US News"; EPGProvider = "WGP.ENG"; EPGStationId = "465372";           EPGBackupProvider = "XMLTV";       EPGBackupStationId = "fox-news-hd";       Logo = "" }
-    @{ Title = "CBS News New York";         TitleEng = "CBS News New York";         GroupTitle = "US News"; EPGProvider = "WGP.ENG"; EPGStationId = "468311";           EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
-    @{ Title = "FOX 5 New York NY (WNYW)";  TitleEng = "FOX 5 New York NY (WNYW)";  GroupTitle = "US News"; EPGProvider = "WGP.ENG"; EPGStationId = "469143";           EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
-    @{ Title = "FOX Sports";                TitleEng = "FOX Sports";                GroupTitle = "Sports";  EPGProvider = "XMLTV";   EPGStationId = "fox-sports-us-hd"; EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" }
-    @{ Title = "FOX Sports 1";              TitleEng = "FOX Sports 1";              GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "465291";           EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
-    @{ Title = "FOX Sports 2";              TitleEng = "FOX Sports 2";              GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "465355";           EPGBackupProvider = "XMLTV";       EPGBackupStationId = "fox-sports2-us";    Logo = "" }
-    @{ Title = "NBC Sports NOW";            TitleEng = "NBC Sports NOW";            GroupTitle = "Sports";  EPGProvider = "XMLTV";   EPGStationId = "nbc-sports-us-hd"; EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
-    @{ Title = "TSN1";                      TitleEng = "TSN1";                      GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "7592";             EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
-    @{ Title = "TSN2";                      TitleEng = "TSN2";                      GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "6721";             EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
-    @{ Title = "TSN3";                      TitleEng = "TSN3";                      GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "6987";             EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
-    @{ Title = "TSN4";                      TitleEng = "TSN4";                      GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "7232";             EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
-    @{ Title = "TSN5";                      TitleEng = "TSN5";                      GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "7658";             EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
-    @{ Title = "NFL Channel";               TitleEng = "NFL Channel";               GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "";                 EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
-    @{ Title = "NFL Network";               TitleEng = "NFL Network";               GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "465311";           EPGBackupProvider = "XMLTV";       EPGBackupStationId = "nfl-network-us-hd"; Logo = "" }
-    @{ Title = "MLB";                       TitleEng = "MLB";                       GroupTitle = "Sports";  EPGProvider = "";        EPGStationId = "";                 EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
-    @{ Title = "MLB Channel";               TitleEng = "MLB";                       GroupTitle = "Sports";  EPGProvider = "";        EPGStationId = "";                 EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
-    @{ Title = "MLB Network";               TitleEng = "MLB Network";               GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "407571";           EPGBackupProvider = "XMLTV";       EPGBackupStationId = "mlb-network-us-hd"; Logo = "" }
-    @{ Title = "MLB Strike Zone";           TitleEng = "MLB Strike Zone";           GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "464844";           EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
-    @{ Title = "SportsNet New York";        TitleEng = "SportsNet New York";        GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "408605";           EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
-    @{ Title = "Fox Soccer Plus";           TitleEng = "Fox Soccer Plus";           GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "465214";           EPGBackupProvider = "";            EPGBackupStationId = "";                  Logo = "" }
-    @{ Title = "Sky Sports F1";             TitleEng = "Sky Sports F1";             GroupTitle = "Sports";  EPGProvider = "XMLTV";   EPGStationId = "sky-sports-f1-uk-hd"; EPGBackupProvider = "";         EPGBackupStationId = "";                  Logo = "" }
-    @{ Title = "Sky Sports Football";       TitleEng = "Sky Sports Football";       GroupTitle = "Sports";  EPGProvider = "XMLTV";   EPGStationId = "sky-sports-football-uk-hd"; EPGBackupProvider = "";   EPGBackupStationId = "";                  Logo = "" }
-    @{ Title = "Sky Sports Main Event";     TitleEng = "Sky Sports Main Event";     GroupTitle = "Sports";  EPGProvider = "XMLTV";   EPGStationId = "sky-sports-main-event-uk-hd"; EPGBackupProvider = ""; EPGBackupStationId = "";                  Logo = "" }
-    @{ Title = "Sky Sports NFL";            TitleEng = "Sky Sports NFL";            GroupTitle = "Sports";  EPGProvider = "XMLTV";   EPGStationId = "sky-sports-nfl-uk-hd"; EPGBackupProvider = "";        EPGBackupStationId = "";                  Logo = "" }
-    @{ Title = "Sky Mix";                   TitleEng = "Sky Mix";                   GroupTitle = "Sports";  EPGProvider = "XMLTV";   EPGStationId = "sky-sports-mix-uk-hd"; EPGBackupProvider = "";        EPGBackupStationId = "";                  Logo = "" }
-
+    @{ Title = "Kan 11";                    TitleEng = "Kan 11";                    GroupTitle = "Israel";  EPGProvider = "WGP";     EPGStationId = "Kan%2011";                    EPGBackupProvider = "XMLTV";  EPGBackupStationId = "11-kanal-il";       Logo = "" }
+    @{ Title = "Keshet 12";                 TitleEng = "Keshet 12";                 GroupTitle = "Israel";  EPGProvider = "Mako";    EPGStationId = "";                            EPGBackupProvider = "WGP";    EPGBackupStationId = "Keshet%2012";       Logo = "" }
+    @{ Title = "Reshet 13";                 TitleEng = "Reshet 13";                 GroupTitle = "Israel";  EPGProvider = "WGP";     EPGStationId = "Reshet%2013";                 EPGBackupProvider = "Reshet"; EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "Fox News International";    TitleEng = "Fox News International";    GroupTitle = "US News"; EPGProvider = "WGP.ENG"; EPGStationId = "465372";                      EPGBackupProvider = "XMLTV";  EPGBackupStationId = "fox-news-hd";       Logo = "" }
+    @{ Title = "CBS News New York";         TitleEng = "CBS News New York";         GroupTitle = "US News"; EPGProvider = "WGP.ENG"; EPGStationId = "468311";                      EPGBackupProvider = "";       EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "FOX 5 New York NY (WNYW)";  TitleEng = "FOX 5 New York NY (WNYW)";  GroupTitle = "US News"; EPGProvider = "WGP.ENG"; EPGStationId = "469143";                      EPGBackupProvider = "";       EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "FOX Sports";                TitleEng = "FOX Sports";                GroupTitle = "Sports";  EPGProvider = "XMLTV";   EPGStationId = "fox-sports-us-hd";            EPGBackupProvider = "";       EPGBackupStationId = "";                  Logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" }
+    @{ Title = "FOX Sports 1";              TitleEng = "FOX Sports 1";              GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "465291";                      EPGBackupProvider = "";       EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "FOX Sports 2";              TitleEng = "FOX Sports 2";              GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "465355";                      EPGBackupProvider = "XMLTV";  EPGBackupStationId = "fox-sports2-us";    Logo = "" }
+    @{ Title = "NBC Sports NOW";            TitleEng = "NBC Sports NOW";            GroupTitle = "Sports";  EPGProvider = "XMLTV";   EPGStationId = "nbc-sports-us-hd";            EPGBackupProvider = "";       EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "TSN1";                      TitleEng = "TSN1";                      GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "7592";                        EPGBackupProvider = "";       EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "TSN2";                      TitleEng = "TSN2";                      GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "6721";                        EPGBackupProvider = "";       EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "TSN3";                      TitleEng = "TSN3";                      GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "6987";                        EPGBackupProvider = "";       EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "TSN4";                      TitleEng = "TSN4";                      GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "7232";                        EPGBackupProvider = "";       EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "TSN5";                      TitleEng = "TSN5";                      GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "7658";                        EPGBackupProvider = "";       EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "NFL Channel";               TitleEng = "NFL Channel";               GroupTitle = "Sports";  EPGProvider = "";        EPGStationId = "";                            EPGBackupProvider = "";       EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "NFL Network";               TitleEng = "NFL Network";               GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "465311";                      EPGBackupProvider = "XMLTV";  EPGBackupStationId = "nfl-network-us-hd"; Logo = "" }
+    @{ Title = "MLB";                       TitleEng = "MLB";                       GroupTitle = "Sports";  EPGProvider = "";        EPGStationId = "";                            EPGBackupProvider = "";       EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "MLB Channel";               TitleEng = "MLB";                       GroupTitle = "Sports";  EPGProvider = "";        EPGStationId = "";                            EPGBackupProvider = "";       EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "MLB Network";               TitleEng = "MLB Network";               GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "407571";                      EPGBackupProvider = "XMLTV";  EPGBackupStationId = "mlb-network-us-hd"; Logo = "" }
+    @{ Title = "MLB Strike Zone";           TitleEng = "MLB Strike Zone";           GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "464844";                      EPGBackupProvider = "";       EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "SportsNet New York";        TitleEng = "SportsNet New York";        GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "408605";                      EPGBackupProvider = "";       EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "Fox Soccer Plus";           TitleEng = "Fox Soccer Plus";           GroupTitle = "Sports";  EPGProvider = "WGP.ENG"; EPGStationId = "465214";                      EPGBackupProvider = "";       EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "Sky Sports F1";             TitleEng = "Sky Sports F1";             GroupTitle = "Sports";  EPGProvider = "XMLTV";   EPGStationId = "sky-sports-f1-uk-hd";         EPGBackupProvider = "";       EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "Sky Sports Football";       TitleEng = "Sky Sports Football";       GroupTitle = "Sports";  EPGProvider = "XMLTV";   EPGStationId = "sky-sports-football-uk-hd";   EPGBackupProvider = "";       EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "Sky Sports Main Event";     TitleEng = "Sky Sports Main Event";     GroupTitle = "Sports";  EPGProvider = "XMLTV";   EPGStationId = "sky-sports-main-event-uk-hd"; EPGBackupProvider = "";       EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "Sky Sports NFL";            TitleEng = "Sky Sports NFL";            GroupTitle = "Sports";  EPGProvider = "";        EPGStationId = "";                            EPGBackupProvider = "";       EPGBackupStationId = "";                  Logo = "" }
+    @{ Title = "Sky Mix";                   TitleEng = "Sky Mix";                   GroupTitle = "Sports";  EPGProvider = "XMLTV";   EPGStationId = "sky-sports-mix-uk-hd";        EPGBackupProvider = "";       EPGBackupStationId = "";                  Logo = "" }
 )
-
 
 # ============================================================
 # QUALITY SORTING
@@ -129,27 +119,21 @@ $ChannelList = @(
 # Unknown quality = 0
 #
 # ============================================================
-
 function Get-QualityValue {
-
     param (
         [string]$Quality
     )
-
 
     if ([string]::IsNullOrWhiteSpace($Quality)) {
         return 0
     }
 
-
     if ($Quality -match '(\d+)') {
         return [int]$Matches[1]
     }
 
-
     return 0
 }
-
 
 # ============================================================
 # TEST WHETHER A STREAM IS LIVE
@@ -176,151 +160,111 @@ function Get-QualityValue {
 # Compatible with Windows PowerShell 5.1.
 #
 # ============================================================
-
 function Test-StreamLive {
-
     param (
         [string]$Url,
         [string]$Referrer,
         [string]$UserAgent
     )
 
-
     if ([string]::IsNullOrWhiteSpace($Url)) {
         return $false
     }
-
 
     $Handler = $null
     $Client = $null
     $Response = $null
 
-
     try {
-
         # ====================================================
         # CREATE HTTP CLIENT
         # ====================================================
-
         $Handler = New-Object System.Net.Http.HttpClientHandler
-
         $Handler.AllowAutoRedirect = $true
-
         $Client = New-Object System.Net.Http.HttpClient($Handler)
-
         $Client.Timeout = [TimeSpan]::FromSeconds(
             $StreamTimeoutSeconds
         )
 
-
         # ====================================================
         # USER AGENT
         # ====================================================
-
         if (-not [string]::IsNullOrWhiteSpace($UserAgent)) {
-
             try {
-
                 $Client.DefaultRequestHeaders.UserAgent.ParseAdd(
                     $UserAgent
                 )
             }
             catch {
-
                 $Client.DefaultRequestHeaders.UserAgent.ParseAdd(
                     "Mozilla/5.0"
                 )
             }
         }
         else {
-
             $Client.DefaultRequestHeaders.UserAgent.ParseAdd(
                 "Mozilla/5.0"
             )
         }
 
-
         # ====================================================
         # REFERRER
         # ====================================================
-
         if (-not [string]::IsNullOrWhiteSpace($Referrer)) {
-
             try {
-
                 $ReferrerUri = New-Object System.Uri($Referrer)
-
                 $Client.DefaultRequestHeaders.Referrer = $ReferrerUri
             }
             catch {
-
                 # Ignore invalid referrer.
             }
         }
 
-
         # ====================================================
         # REQUEST INITIAL URL
         # ====================================================
-
         $Response = $Client.GetAsync(
             $Url,
             [System.Net.Http.HttpCompletionOption]::ResponseHeadersRead
         ).GetAwaiter().GetResult()
 
-
         if (-not $Response.IsSuccessStatusCode) {
-
             return $false
         }
-
 
         # ====================================================
         # DETERMINE CONTENT TYPE
         # ====================================================
-
         $ContentType = ""
-
         if ($null -ne $Response.Content.Headers.ContentType) {
-
             $ContentType =
                 $Response.Content.Headers.ContentType.MediaType
         }
 
-
         # ====================================================
         # DETERMINE WHETHER THIS IS HLS
         # ====================================================
-
         $IsHls = (
             $Url -match '(?i)\.m3u8($|[?#])'
         ) -or (
             $ContentType -match '(?i)mpegurl|x-mpegurl'
         )
 
-
         # ====================================================
         # NON-HLS STREAM
         # ====================================================
-
         if (-not $IsHls) {
-
             # ------------------------------------------------
             # Read only a small amount.
             #
             # We must NOT read the entire response because a
             # live video stream may never end.
             # ------------------------------------------------
-
             $Stream = $Response.Content.ReadAsStreamAsync().
                 GetAwaiter().
                 GetResult()
-
-
             $Buffer = New-Object byte[] 4096
-
             try {
-
                 $BytesRead = $Stream.Read(
                     $Buffer,
                     0,
@@ -328,48 +272,36 @@ function Test-StreamLive {
                 )
             }
             finally {
-
                 $Stream.Dispose()
             }
 
-
             if ($BytesRead -gt 0) {
-
                 return $true
             }
 
-
             return $false
         }
-
 
         # ====================================================
         # READ HLS PLAYLIST
         # ====================================================
-
         $PlaylistText = $Response.Content.ReadAsStringAsync().
             GetAwaiter().
             GetResult()
 
-
         $Response.Dispose()
         $Response = $null
-
 
         # ====================================================
         # VALIDATE HLS
         # ====================================================
-
         if ($PlaylistText -notmatch '#EXTM3U') {
-
             return $false
         }
-
 
         # ====================================================
         # BASE URL
         # ====================================================
-
         try {
 
             $BaseUri = New-Object System.Uri($Url)
@@ -378,7 +310,6 @@ function Test-StreamLive {
 
             return $false
         }
-
 
         # ====================================================
         # MASTER PLAYLIST
@@ -391,66 +322,46 @@ function Test-StreamLive {
         # followed by another M3U8 URL.
         #
         # ====================================================
-
         if ($PlaylistText -match '(?m)#EXT-X-STREAM-INF:') {
-
             $Lines = $PlaylistText -split "`r?`n"
-
             $VariantUrl = $null
 
-
             for ($i = 0; $i -lt $Lines.Count; $i++) {
-
                 $Line = $Lines[$i].Trim()
-
-
                 if ($Line -match '^#EXT-X-STREAM-INF:') {
-
                     for (
                         $j = $i + 1;
                         $j -lt $Lines.Count;
                         $j++
                     ) {
-
                         $Candidate = $Lines[$j].Trim()
-
-
                         if (
                             -not [string]::IsNullOrWhiteSpace($Candidate) -and
                             $Candidate -notmatch '^#'
                         ) {
-
                             $VariantUrl = $Candidate
-
                             break
                         }
                     }
                 }
-
 
                 if ($null -ne $VariantUrl) {
                     break
                 }
             }
 
-
             if ([string]::IsNullOrWhiteSpace($VariantUrl)) {
-
                 return $false
             }
-
 
             # ------------------------------------------------
             # Convert relative URL to absolute URL.
             # ------------------------------------------------
-
             try {
-
                 $VariantUri = New-Object System.Uri(
                     $BaseUri,
                     $VariantUrl
                 )
-
                 $VariantUrl = $VariantUri.AbsoluteUri
             }
             catch {
@@ -458,63 +369,45 @@ function Test-StreamLive {
                 return $false
             }
 
-
             # ------------------------------------------------
             # Download variant playlist.
             # ------------------------------------------------
-
             $VariantResponse = $Client.GetAsync(
                 $VariantUrl,
                 [System.Net.Http.HttpCompletionOption]::ResponseHeadersRead
             ).GetAwaiter().GetResult()
 
-
             if (-not $VariantResponse.IsSuccessStatusCode) {
-
                 $VariantResponse.Dispose()
-
                 return $false
             }
-
 
             $PlaylistText = $VariantResponse.Content.ReadAsStringAsync().
                 GetAwaiter().
                 GetResult()
-
-
             $VariantResponse.Dispose()
-
 
             # The media segments are relative to the variant
             # playlist, not necessarily the original URL.
             $BaseUri = New-Object System.Uri($VariantUrl)
         }
 
-
         # ====================================================
         # FIND MEDIA SEGMENT
         # ====================================================
-
         $Lines = $PlaylistText -split "`r?`n"
-
         $SegmentUrl = $null
 
-
         foreach ($Line in $Lines) {
-
             $Candidate = $Line.Trim()
-
-
             if ([string]::IsNullOrWhiteSpace($Candidate)) {
                 continue
             }
-
 
             # Skip HLS directives.
             if ($Candidate.StartsWith("#")) {
                 continue
             }
-
 
             # First non-comment URL should be a media segment.
             $SegmentUrl = $Candidate
@@ -522,19 +415,14 @@ function Test-StreamLive {
             break
         }
 
-
         if ([string]::IsNullOrWhiteSpace($SegmentUrl)) {
-
             return $false
         }
-
 
         # ====================================================
         # RESOLVE MEDIA SEGMENT URL
         # ====================================================
-
         try {
-
             $SegmentUri = New-Object System.Uri(
                 $BaseUri,
                 $SegmentUrl
@@ -543,10 +431,8 @@ function Test-StreamLive {
             $SegmentUrl = $SegmentUri.AbsoluteUri
         }
         catch {
-
             return $false
         }
-
 
         # ====================================================
         # REQUEST MEDIA SEGMENT
@@ -558,30 +444,22 @@ function Test-StreamLive {
         # confirm that actual media bytes are returned.
         #
         # ====================================================
-
         $SegmentResponse = $Client.GetAsync(
             $SegmentUrl,
             [System.Net.Http.HttpCompletionOption]::ResponseHeadersRead
         ).GetAwaiter().GetResult()
 
-
         if (-not $SegmentResponse.IsSuccessStatusCode) {
-
             $SegmentResponse.Dispose()
-
             return $false
         }
-
 
         $SegmentStream = $SegmentResponse.Content.ReadAsStreamAsync().
             GetAwaiter().
             GetResult()
 
-
         $Buffer = New-Object byte[] 4096
-
         try {
-
             $BytesRead = $SegmentStream.Read(
                 $Buffer,
                 0,
@@ -589,44 +467,34 @@ function Test-StreamLive {
             )
         }
         finally {
-
             $SegmentStream.Dispose()
             $SegmentResponse.Dispose()
         }
 
-
         # ====================================================
         # REQUIRE ACTUAL DATA
         # ====================================================
-
         if ($BytesRead -gt 0) {
-
             return $true
         }
-
 
         return $false
     }
     catch {
-
         return $false
     }
     finally {
-
         if ($null -ne $Response) {
             $Response.Dispose()
         }
-
         if ($null -ne $Client) {
             $Client.Dispose()
         }
-
         if ($null -ne $Handler) {
             $Handler.Dispose()
         }
     }
 }
-
 
 # ============================================================
 # TEST STREAM WITH RETRY
@@ -636,14 +504,12 @@ function Test-StreamLive {
 #
 # With:
 #
-#   $StreamRetryCount = 1
+#   $StreamRetryCount = 2
 #
-# each stream gets a maximum of 2 attempts.
+# each stream gets a maximum of 3 attempts.
 #
 # ============================================================
-
 function Test-StreamWithRetry {
-
     param (
         [string]$Url,
         [string]$Referrer,
@@ -651,46 +517,34 @@ function Test-StreamWithRetry {
         [int]$RetryCount = 1
     )
 
-
     $MaxAttempts = $RetryCount + 1
 
-
     for ($Attempt = 1; $Attempt -le $MaxAttempts; $Attempt++) {
-
         $Result = Test-StreamLive `
             -Url $Url `
             -Referrer $Referrer `
             -UserAgent $UserAgent
 
-
         if ($Result) {
-
             return $true
         }
-
 
         # ----------------------------------------------------
         # Failed, but another attempt is available.
         # ----------------------------------------------------
-
         if ($Attempt -lt $MaxAttempts) {
-
-            if ($RetryDelaySeconds -gt 0) {
-
-                Start-Sleep -Seconds $RetryDelaySeconds
+                if ($RetryDelaySeconds -gt 0) {
+                    Start-Sleep -Seconds $RetryDelaySeconds
+                }
             }
         }
-    }
-
 
     return $false
 }
 
-
 # ============================================================
 # DOWNLOAD STREAMS.JSON
 # ============================================================
-
 Write-Host ""
 Write-Host "========================================"
 Write-Host " IPTV Playlist Generator"
@@ -700,17 +554,14 @@ Write-Host ""
 Write-Host "Downloading streams.json..."
 
 try {
-
     $Streams = Invoke-RestMethod `
         -Uri $StreamsUrl `
         -Method Get `
         -Headers @{ "User-Agent" = "Mozilla/5.0" } `
         -ErrorAction Stop
-
     Write-Host "Loaded $($Streams.Count) stream entries."
 }
 catch {
-
     Write-Host ""
     Write-Host "ERROR downloading streams.json:" -ForegroundColor Red
     Write-Host $_.Exception.Message -ForegroundColor Red
@@ -718,15 +569,11 @@ catch {
     exit 1
 }
 
-
 # ============================================================
 # DOWNLOAD LOGOS.JSON
 # ============================================================
-
 Write-Host "Downloading logos.json..."
-
 try {
-
     $Logos = Invoke-RestMethod `
         -Uri $LogosUrl `
         -Method Get `
@@ -736,14 +583,11 @@ try {
     Write-Host "Loaded $($Logos.Count) logo entries."
 }
 catch {
-
     Write-Host ""
     Write-Host "ERROR downloading logos.json:" -ForegroundColor Red
     Write-Host $_.Exception.Message -ForegroundColor Red
-
     exit 1
 }
-
 
 # ============================================================
 # CREATE LOGO LOOKUP
@@ -756,66 +600,47 @@ catch {
 # If multiple logos exist, prefer one marked "in_use".
 #
 # ============================================================
-
 $LogoLookup = @{}
 
-
 foreach ($Logo in $Logos) {
-
     $ChannelId = $Logo.channel
     $LogoUrl   = $Logo.url
-
 
     if ([string]::IsNullOrWhiteSpace($ChannelId)) {
         continue
     }
-
-
     if ([string]::IsNullOrWhiteSpace($LogoUrl)) {
         continue
     }
 
-
     # First logo found.
     if (-not $LogoLookup.ContainsKey($ChannelId)) {
-
         $LogoLookup[$ChannelId] = $LogoUrl
     }
-
     # Prefer in-use logo.
     elseif ($Logo.in_use -eq $true) {
-
         $LogoLookup[$ChannelId] = $LogoUrl
     }
 }
 
-
 # ============================================================
 # CREATE PLAYLIST
 # ============================================================
-
 $Playlist = [System.Collections.Generic.List[string]]::new()
-
 $Playlist.Add($PlaylistHeader)
-
 
 # ============================================================
 # STATISTICS
 # ============================================================
-
 $TotalStreams = 0
 $TestedStreams = 0
 $LiveStreams = 0
 $FailedStreams = 0
 
 $NotFound = [System.Collections.Generic.List[string]]::new()
-
 $NoLogo = [System.Collections.Generic.List[string]]::new()
-
 $FallbackLogoUsed = [System.Collections.Generic.List[string]]::new()
-
 $OfflineStreams = [System.Collections.Generic.List[string]]::new()
-
 
 # ============================================================
 # PROCESS CHANNEL LIST
@@ -827,23 +652,18 @@ $OfflineStreams = [System.Collections.Generic.List[string]]::new()
 # Each channel's streams are then sorted by quality.
 #
 # ============================================================
-
 foreach ($Channel in $ChannelList) {
-
     $RequestedTitle = $Channel.Title
     $FallbackLogo = $Channel.Logo
-
 
     Write-Host ""
     Write-Host "============================================================"
     Write-Host "Searching: $RequestedTitle"
     Write-Host "============================================================"
 
-
     # ========================================================
     # FIND MATCHING STREAMS
     # ========================================================
-
     $MatchedStreams = @(
         $Streams |
             Where-Object {
@@ -851,22 +671,16 @@ foreach ($Channel in $ChannelList) {
             }
     )
 
-
     if ($MatchedStreams.Count -eq 0) {
-
         Write-Host "  NOT FOUND" -ForegroundColor Yellow
-
         $NotFound.Add($RequestedTitle)
 
         # Blank line separating channel groups.
         $Playlist.Add("")
-
         continue
     }
 
-
     Write-Host "  Found $($MatchedStreams.Count) stream(s)"
-
 
     # ========================================================
     # SORT BY QUALITY
@@ -878,7 +692,6 @@ foreach ($Channel in $ChannelList) {
     # sorting happens only inside the current channel group.
     #
     # ========================================================
-
     $MatchedStreams = @(
         $MatchedStreams |
             Sort-Object -Property @{
@@ -889,13 +702,10 @@ foreach ($Channel in $ChannelList) {
             }
     )
 
-
     # ========================================================
     # PROCESS MATCHING STREAMS
     # ========================================================
-
     foreach ($Stream in $MatchedStreams) {
-
         $StreamTitle = $Stream.title
         $ChannelId   = $Stream.channel
         $StreamUrl   = $Stream.url
@@ -903,28 +713,20 @@ foreach ($Channel in $ChannelList) {
         $Referrer    = $Stream.referrer
         $UserAgent   = $Stream.user_agent
 
-
         # ----------------------------------------------------
         # Ignore streams with no URL.
         # ----------------------------------------------------
-
         if ([string]::IsNullOrWhiteSpace($StreamUrl)) {
-
             Write-Host "    WARNING: stream has no URL" `
                 -ForegroundColor Yellow
-
             continue
         }
-
 
         # ====================================================
         # TEST STREAM
         # ====================================================
-
         $TestedStreams++
-
         Write-Host "    Testing: $StreamTitle" -NoNewline
-
 
         $IsLive = Test-StreamWithRetry `
             -Url $StreamUrl `
@@ -932,37 +734,27 @@ foreach ($Channel in $ChannelList) {
             -UserAgent $UserAgent `
             -RetryCount $StreamRetryCount
 
-
         # ====================================================
         # STREAM FAILED
         # ====================================================
-
         if (-not $IsLive) {
-
             Write-Host " [OFFLINE]" -ForegroundColor DarkYellow
-
             $FailedStreams++
-
 
             $OfflineStreams.Add(
                 "$StreamTitle [$Quality] - $StreamUrl"
             )
-
 
             # IMPORTANT:
             # Do NOT add anything to $Playlist.
             continue
         }
 
-
         # ====================================================
         # STREAM IS LIVE
         # ====================================================
-
         Write-Host " [LIVE]" -ForegroundColor Green
-
         $LiveStreams++
-
 
         # ====================================================
         # FIND LOGO
@@ -975,58 +767,44 @@ foreach ($Channel in $ChannelList) {
         #   3. no logo
         #
         # ====================================================
-
         $LogoUrl = $null
         $LogoSource = "none"
 
-
         if (-not [string]::IsNullOrWhiteSpace($ChannelId)) {
-
             if ($LogoLookup.ContainsKey($ChannelId)) {
-
                 $LogoUrl = $LogoLookup[$ChannelId]
                 $LogoSource = "logos.json"
             }
         }
 
-
         # ----------------------------------------------------
         # Fallback logo.
         # ----------------------------------------------------
-
         if (
             [string]::IsNullOrWhiteSpace($LogoUrl) -and
             -not [string]::IsNullOrWhiteSpace($FallbackLogo)
         ) {
-
             $LogoUrl = $FallbackLogo
             $LogoSource = "fallback"
         }
 
-
         # ----------------------------------------------------
         # No logo.
         # ----------------------------------------------------
-
         if ([string]::IsNullOrWhiteSpace($LogoUrl)) {
-
             $NoLogo.Add(
                 "$StreamTitle ($ChannelId)"
             )
         }
 
-
         # ----------------------------------------------------
         # Record fallback-logo usage.
         # ----------------------------------------------------
-
         if ($LogoSource -eq "fallback") {
-
             $FallbackLogoUsed.Add(
                 "$StreamTitle ($ChannelId)"
             )
         }
-
 
         # ====================================================
         # DISPLAY TITLE
@@ -1036,23 +814,18 @@ foreach ($Channel in $ChannelList) {
         # stream title remains the lookup key in streams.json.
         #
         # ====================================================
-
         $DisplayTitle = $Channel.Title
         if ([string]::IsNullOrWhiteSpace($DisplayTitle)) {
             $DisplayTitle = $StreamTitle
         }
-
         if ([string]::IsNullOrWhiteSpace($Channel.TitleEng)) {
             $Channel.TitleEng = $DisplayTitle
         }
 
-
         # ====================================================
         # EXTINF ATTRIBUTES
         # ====================================================
-
         $Attributes = @()
-
 
         $OutputMetadata = @(
             @{ Name = "tvg-name";             Value = $Channel.TitleEng }
@@ -1071,63 +844,47 @@ foreach ($Channel in $ChannelList) {
             }
         }
 
-
         # ====================================================
         # EXTINF
         # ====================================================
-
         $ExtInf =
             "#EXTINF:-1 " +
             ($Attributes -join " ") +
             ",$DisplayTitle"
 
-
         $Playlist.Add($ExtInf)
-
 
         # ====================================================
         # REFERRER
         # ====================================================
-
         if (-not [string]::IsNullOrWhiteSpace($Referrer)) {
-
             $Playlist.Add(
                 "#EXTVLCOPT:http-referrer=$Referrer"
             )
         }
 
-
         # ====================================================
         # USER AGENT
         # ====================================================
-
         if (-not [string]::IsNullOrWhiteSpace($UserAgent)) {
-
             $Playlist.Add(
                 "#EXTVLCOPT:http-user-agent=$UserAgent"
             )
         }
 
-
         # ====================================================
         # STREAM URL
         # ====================================================
-
         $Playlist.Add($StreamUrl)
-
         $TotalStreams++
-
 
         # ====================================================
         # DISPLAY INFORMATION
         # ====================================================
-
         Write-Host "      quality: $Quality"
         Write-Host "      tvg-id:  $($Channel.EPGStationId)"
 
-
         switch ($LogoSource) {
-
             "logos.json" {
                 Write-Host "      logo:   logos.json"
             }
@@ -1143,7 +900,6 @@ foreach ($Channel in $ChannelList) {
         }
     }
 
-
     # ========================================================
     # END OF CHANNEL GROUP
     # ========================================================
@@ -1151,17 +907,13 @@ foreach ($Channel in $ChannelList) {
     # Always add an empty line after the channel group.
     #
     # ========================================================
-
     $Playlist.Add("")
 }
-
 
 # ============================================================
 # WRITE PLAYLIST
 # ============================================================
-
 try {
-
     $Playlist |
         Set-Content `
             -Path $OutputFile `
@@ -1169,19 +921,15 @@ try {
             -ErrorAction Stop
 }
 catch {
-
     Write-Host ""
     Write-Host "ERROR writing playlist:" -ForegroundColor Red
     Write-Host $_.Exception.Message -ForegroundColor Red
-
     exit 1
 }
-
 
 # ============================================================
 # SUMMARY
 # ============================================================
-
 Write-Host ""
 Write-Host "============================================================"
 Write-Host " Completed"
@@ -1198,13 +946,10 @@ Write-Host "No logo           : $($NoLogo.Count)"
 Write-Host "Fallback logos    : $($FallbackLogoUsed.Count)"
 Write-Host ""
 
-
 # ============================================================
 # CHANNELS NOT FOUND
 # ============================================================
-
 if ($NotFound.Count -gt 0) {
-
     Write-Host "CHANNELS NOT FOUND:" -ForegroundColor Yellow
 
     foreach ($Title in $NotFound) {
@@ -1215,13 +960,10 @@ if ($NotFound.Count -gt 0) {
     Write-Host ""
 }
 
-
 # ============================================================
 # OFFLINE STREAMS
 # ============================================================
-
 if ($OfflineStreams.Count -gt 0) {
-
     Write-Host "OFFLINE STREAMS:" -ForegroundColor DarkYellow
 
     foreach ($Item in $OfflineStreams) {
@@ -1232,13 +974,10 @@ if ($OfflineStreams.Count -gt 0) {
     Write-Host ""
 }
 
-
 # ============================================================
 # STREAMS WITHOUT LOGO
 # ============================================================
-
 if ($NoLogo.Count -gt 0) {
-
     Write-Host "STREAMS WITHOUT LOGO:" -ForegroundColor Yellow
 
     foreach ($Item in $NoLogo) {
@@ -1249,13 +988,10 @@ if ($NoLogo.Count -gt 0) {
     Write-Host ""
 }
 
-
 # ============================================================
 # FALLBACK LOGOS USED
 # ============================================================
-
 if ($FallbackLogoUsed.Count -gt 0) {
-
     Write-Host "FALLBACK LOGOS USED:" -ForegroundColor Cyan
 
     foreach ($Item in $FallbackLogoUsed) {
@@ -1265,7 +1001,6 @@ if ($FallbackLogoUsed.Count -gt 0) {
 
     Write-Host ""
 }
-
 
 Write-Host "Done."
 Write-Host ""
