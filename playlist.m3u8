@@ -9,7 +9,7 @@ https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/in
 
 
 
-#EXTINF:-1 tvg-name="FOX 5 New York NY (WNYW)" tvg-logo="https://i.imgur.com/zZd9Tkt.png" group-title="US News",FOX 5 New York NY (WNYW)
+#EXTINF:-1 tvg-name="FOX 5 New York NY (WNYW)" tvg-logo="https://i.imgur.com/zZd9Tkt.png" group-title="US News" tvg-provider="WGP.ENG" tvg-id="469143",FOX 5 New York NY (WNYW)
 https://aegis-cloudfront-1.tubi.video/36a435c5-f70a-411a-b237-e32738c486a8/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Sports" tvg-provider="XMLTV" tvg-id="fox-sports-us-hd",FOX Sports
@@ -19,25 +19,25 @@ https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 tvg-name="FOX Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Sports" tvg-provider="XMLTV" tvg-id="fox-sports-us-hd",FOX Sports
 https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
 
-#EXTINF:-1 tvg-name="FOX Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FOX Sports 1
+#EXTINF:-1 tvg-name="FOX Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="465291",FOX Sports 1
 http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="FOX Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FOX Sports 1
+#EXTINF:-1 tvg-name="FOX Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="465291",FOX Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
 
-#EXTINF:-1 tvg-name="NBC Sports NOW" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="Sports" tvg-provider="XMLTV" tvg-backup-provider="XMLTV" tvg-backup-id="nbc-sports-us-hd",NBC Sports NOW
+#EXTINF:-1 tvg-name="NBC Sports NOW" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="Sports" tvg-provider="XMLTV" tvg-id="nbc-sports-us-hd",NBC Sports NOW
 https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-name="NBC Sports NOW" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="Sports" tvg-provider="XMLTV" tvg-backup-provider="XMLTV" tvg-backup-id="nbc-sports-us-hd",NBC Sports NOW
+#EXTINF:-1 tvg-name="NBC Sports NOW" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="Sports" tvg-provider="XMLTV" tvg-id="nbc-sports-us-hd",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 
-#EXTINF:-1 tvg-name="TSN1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN1
+#EXTINF:-1 tvg-name="TSN1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="7592",TSN1
 http://40.160.24.55/TSN_1/index.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-name="NFL Channel" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="Sports",NFL Channel
+#EXTINF:-1 tvg-name="NFL Channel" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="Sports" tvg-provider="WGP.ENG",NFL Channel
 https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="465311" tvg-backup-provider="XMLTV" tvg-backup-id="nfl-network-us-hd",NFL Network
@@ -48,14 +48,14 @@ http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="MLB" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports",MLB
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MLB Channel" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports",MLB Channel
+#EXTINF:-1 tvg-name="MLB" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports",MLB Channel
 https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="MLB Strike Zone" tvg-logo="https://i.imgur.com/uMI1ySO.png" group-title="Sports",MLB Strike Zone
+#EXTINF:-1 tvg-name="MLB Strike Zone" tvg-logo="https://i.imgur.com/uMI1ySO.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="464844",MLB Strike Zone
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-name="SportsNet New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/960px-SNY_logo.svg.png" group-title="Sports",SportsNet New York
+#EXTINF:-1 tvg-name="SportsNet New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/960px-SNY_logo.svg.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="408605",SportsNet New York
 http://40.160.24.55/SNY/index.m3u8
 
 
@@ -64,5 +64,12 @@ http://40.160.24.55/SNY/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/39/index.m3u8
 
+#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="Sports" tvg-provider="XMLTV" tvg-id="sky-sports-main-event-uk-hd",Sky Sports Main Event
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/19/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports NFL" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png" group-title="Sports" tvg-provider="XMLTV" tvg-id="sky-sports-nfl-uk-hd",Sky Sports NFL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/12/index.m3u8
 
 
