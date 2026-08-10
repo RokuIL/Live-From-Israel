@@ -26,8 +26,6 @@ http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FOX Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
-#EXTINF:-1 tvg-name="FOX Sports 2" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports" tvg-provider="XMLTV" tvg-id="fox-sports2-us",FOX Sports 2
-https://ftv.itscwd273.workers.dev/?id=FOXSPORTS2
 
 #EXTINF:-1 tvg-name="NBC Sports NOW" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="Sports" tvg-provider="XMLTV" tvg-backup-provider="XMLTV" tvg-backup-id="nbc-sports-us-hd",NBC Sports NOW
 https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
