@@ -44,7 +44,7 @@ catch {
 # PLAYLIST HEADER
 # ============================================================
 
-$PlaylistHeader = '#EXTM3U max-conn="2" url-tvg="http://tchaikovsky.af-stream.com:8080/epg.xml.gz" catchup-type="shift"'
+$PlaylistHeader = '#EXTM3U'
 
 
 # ============================================================
@@ -1041,8 +1041,6 @@ foreach ($Channel in $ChannelList) {
         if ([string]::IsNullOrWhiteSpace($DisplayTitle)) {
             $DisplayTitle = $StreamTitle
         }
-
-        $SafeDisplayTitle = $DisplayTitle -replace '"', "'"
 
         if ([string]::IsNullOrWhiteSpace($Channel.TitleEng)) {
             $Channel.TitleEng = $DisplayTitle
