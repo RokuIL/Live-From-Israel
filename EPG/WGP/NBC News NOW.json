@@ -1,90 +1,5 @@
 [
     {
-        "start":  "2026-08-09T00:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-08-09T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-09T02:00:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "end":  "2026-08-09T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-09T02:30:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "end":  "2026-08-09T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-09T03:00:00.0000000",
-        "title":  "Dateline NBC: Diabolical",
-        "end":  "2026-08-09T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-09T04:00:00.0000000",
-        "title":  "Dateline NBC: Deadly Connection",
-        "end":  "2026-08-09T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-09T06:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-08-09T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-09T08:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-08-09T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-09T09:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-08-09T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-09T11:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-08-09T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-09T13:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-08-09T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-09T14:00:00.0000000",
-        "title":  "Dateline NBC: Shattered Bonds",
-        "end":  "2026-08-09T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-09T15:00:00.0000000",
-        "title":  "Sunday Today With Willie Geist",
-        "end":  "2026-08-09T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-09T16:00:00.0000000",
-        "title":  "Meet the Press",
-        "end":  "2026-08-09T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-09T17:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-08-09T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-09T19:00:00.0000000",
-        "title":  "Dateline NBC: Return to Manitowoc County: The State of Wisconsin vs. Steven A. Avery",
-        "end":  "2026-08-09T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-09T20:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-08-09T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-09T22:00:00.0000000",
-        "title":  "Dateline NBC",
-        "end":  "2026-08-10T00:00:00.0000000"
-    },
-    {
         "start":  "2026-08-10T00:00:00.0000000",
         "title":  "Dateline NBC",
         "end":  "2026-08-10T01:00:00.0000000"
@@ -427,10 +342,15 @@
     {
         "start":  "2026-08-12T17:00:00.0000000",
         "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
-        "end":  "2026-08-12T18:00:00.0000000"
+        "end":  "2026-08-12T17:45:00.0000000"
     },
     {
-        "start":  "2026-08-12T18:00:00.0000000",
+        "start":  "2026-08-12T17:45:00.0000000",
+        "title":  "Total Eclipse 2026",
+        "end":  "2026-08-12T18:45:00.0000000"
+    },
+    {
+        "start":  "2026-08-12T18:45:00.0000000",
         "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
         "end":  "2026-08-12T19:00:00.0000000"
     },
@@ -703,5 +623,115 @@
         "start":  "2026-08-14T23:00:00.0000000",
         "title":  "Top Story With Tom Llamas",
         "end":  "2026-08-15T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T00:00:00.0000000",
+        "title":  "Stay Tuned NOW With Gadi Schwartz",
+        "end":  "2026-08-15T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T01:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "end":  "2026-08-15T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T02:00:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "end":  "2026-08-15T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T02:30:00.0000000",
+        "title":  "Stay Tuned NOW With Gadi Schwartz",
+        "end":  "2026-08-15T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T03:30:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "end":  "2026-08-15T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T04:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "end":  "2026-08-15T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T05:00:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "end":  "2026-08-15T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T05:30:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "end":  "2026-08-15T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T06:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-08-15T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T07:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-08-15T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T08:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-08-15T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T09:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-08-15T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T11:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-08-15T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T12:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-08-15T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T13:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-08-15T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T15:00:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "end":  "2026-08-15T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T15:30:00.0000000",
+        "title":  "Today",
+        "end":  "2026-08-15T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T17:00:00.0000000",
+        "title":  "Dateline NBC: The Fugitive Millionaire",
+        "end":  "2026-08-15T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T18:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-08-15T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T19:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-08-15T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T20:00:00.0000000",
+        "title":  "Dateline NBC: Deception",
+        "end":  "2026-08-15T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T22:00:00.0000000",
+        "title":  "Dateline NBC",
+        "end":  "2026-08-16T00:00:00.0000000"
     }
 ]
