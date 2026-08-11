@@ -260,10 +260,10 @@ function Test-StreamLive {
             # We must NOT read the entire response because a
             # live video stream may never end.
             # ------------------------------------------------
+            $Buffer = New-Object byte[] 4094
             $Stream = $Response.Content.ReadAsStreamAsync().
                 GetAwaiter().
                 GetResult()
-            $Buffer = New-Object byte[] 4096
             try {
                 $BytesRead = $Stream.Read(
                     $Buffer,
@@ -533,11 +533,11 @@ function Test-StreamWithRetry {
         # Failed, but another attempt is available.
         # ----------------------------------------------------
         if ($Attempt -lt $MaxAttempts) {
-                if ($RetryDelaySeconds -gt 0) {
-                    Start-Sleep -Seconds $RetryDelaySeconds
-                }
+            if ($RetryDelaySeconds -gt 0) {
+                Start-Sleep -Seconds $RetryDelaySeconds
             }
         }
+    }
 
     return $false
 }
