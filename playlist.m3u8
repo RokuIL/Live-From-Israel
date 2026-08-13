@@ -43,8 +43,6 @@ http://40.160.24.55/TSN_1/index.m3u8
 https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="465311" tvg-backup-provider="XMLTV" tvg-backup-id="nfl-network-us-hd",NFL Network
-http://40.160.24.53/NFL_Network/index.m3u8
-#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="465311" tvg-backup-provider="XMLTV" tvg-backup-id="nfl-network-us-hd",NFL Network
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-name="MLB" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports",MLB
