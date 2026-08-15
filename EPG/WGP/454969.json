@@ -1,470 +1,704 @@
 [
     {
-        "start":  "2026-08-14T00:00:00.0000000",
+        "start":  "2026-08-15T00:00:00.0000000",
         "title":  "NFL Highlights",
         "desc":  "",
-        "end":  "2026-08-14T01:00:00.0000000"
+        "end":  "2026-08-15T01:00:00.0000000"
     },
     {
-        "start":  "2026-08-14T01:00:00.0000000",
-        "title":  "Betfred Super League",
+        "start":  "2026-08-15T01:00:00.0000000",
+        "title":  "Live MMA: One Championship",
         "desc":  "",
-        "end":  "2026-08-14T03:45:00.0000000"
+        "end":  "2026-08-15T05:00:00.0000000"
     },
     {
-        "start":  "2026-08-14T03:45:00.0000000",
-        "title":  "Women\u0027s Super League",
+        "start":  "2026-08-15T05:00:00.0000000",
+        "title":  "Rugby Greatest Games",
         "desc":  "",
-        "end":  "2026-08-14T04:00:00.0000000"
+        "end":  "2026-08-15T05:05:00.0000000"
     },
     {
-        "start":  "2026-08-14T04:00:00.0000000",
+        "start":  "2026-08-15T05:05:00.0000000",
+        "title":  "Live International Rugby Union",
+        "desc":  "",
+        "end":  "2026-08-15T07:15:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T07:15:00.0000000",
         "title":  "Betfred Super League Highlights",
         "desc":  "",
-        "end":  "2026-08-14T04:15:00.0000000"
+        "end":  "2026-08-15T07:30:00.0000000"
     },
     {
-        "start":  "2026-08-14T04:15:00.0000000",
-        "title":  "Betfred Super League Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T04:30:00.0000000",
-        "title":  "Betfred Super League Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T04:45:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T04:45:00.0000000",
-        "title":  "Betfred Super League Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T05:00:00.0000000",
-        "title":  "Betfred Super League",
-        "desc":  "",
-        "end":  "2026-08-14T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T08:00:00.0000000",
-        "title":  "State of Origin Rugby League",
-        "desc":  "",
-        "end":  "2026-08-14T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T09:00:00.0000000",
-        "title":  "State of Origin Rugby League",
-        "desc":  "",
-        "end":  "2026-08-14T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T10:00:00.0000000",
+        "start":  "2026-08-15T07:30:00.0000000",
         "title":  "Live NRL",
         "desc":  "",
-        "end":  "2026-08-14T12:00:00.0000000"
+        "end":  "2026-08-15T09:35:00.0000000"
     },
     {
-        "start":  "2026-08-14T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "desc":  "",
-        "end":  "2026-08-14T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T14:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T15:00:00.0000000",
-        "title":  "Betfred Super League Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T15:15:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T15:15:00.0000000",
-        "title":  "Betfred Super League Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T15:30:00.0000000",
-        "title":  "Betfred Super League Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T15:45:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T15:45:00.0000000",
-        "title":  "Betfred Super League Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T16:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T17:00:00.0000000",
-        "title":  "NBC\u0027s Pro-Football Talk",
-        "desc":  "",
-        "end":  "2026-08-14T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T19:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T19:15:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T19:15:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T19:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T19:30:00.0000000",
-        "title":  "NBA Basketball",
-        "desc":  "",
-        "end":  "2026-08-14T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T21:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T21:45:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T21:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T22:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T23:00:00.0000000",
-        "title":  "Live Zuffa Boxing",
-        "desc":  "",
-        "end":  "2026-08-15T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T00:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T01:00:00.0000000",
-        "title":  "Betfred Super League",
-        "desc":  "",
-        "end":  "2026-08-14T03:45:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T03:45:00.0000000",
-        "title":  "Women\u0027s Super League",
-        "desc":  "",
-        "end":  "2026-08-14T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T04:00:00.0000000",
-        "title":  "Betfred Super League Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T04:15:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T04:15:00.0000000",
-        "title":  "Betfred Super League Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T04:30:00.0000000",
-        "title":  "Betfred Super League Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T04:45:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T04:45:00.0000000",
-        "title":  "Betfred Super League Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T05:00:00.0000000",
-        "title":  "Betfred Super League",
-        "desc":  "",
-        "end":  "2026-08-14T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T08:00:00.0000000",
-        "title":  "State of Origin Rugby League",
-        "desc":  "",
-        "end":  "2026-08-14T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T09:00:00.0000000",
-        "title":  "State of Origin Rugby League",
-        "desc":  "",
-        "end":  "2026-08-14T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T10:00:00.0000000",
+        "start":  "2026-08-15T09:35:00.0000000",
         "title":  "Live NRL",
         "desc":  "",
-        "end":  "2026-08-14T12:00:00.0000000"
+        "end":  "2026-08-15T11:35:00.0000000"
     },
     {
-        "start":  "2026-08-14T12:00:00.0000000",
-        "title":  "Good Morning Football",
+        "start":  "2026-08-15T11:35:00.0000000",
+        "title":  "Rugby Greatest Games",
         "desc":  "",
-        "end":  "2026-08-14T14:00:00.0000000"
+        "end":  "2026-08-15T11:45:00.0000000"
     },
     {
-        "start":  "2026-08-14T14:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T15:00:00.0000000",
+        "start":  "2026-08-15T11:45:00.0000000",
         "title":  "Betfred Super League Highlights",
         "desc":  "",
-        "end":  "2026-08-14T15:15:00.0000000"
+        "end":  "2026-08-15T12:00:00.0000000"
     },
     {
-        "start":  "2026-08-14T15:15:00.0000000",
-        "title":  "Betfred Super League Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T15:30:00.0000000",
-        "title":  "Betfred Super League Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T15:45:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T15:45:00.0000000",
-        "title":  "Betfred Super League Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T16:00:00.0000000",
+        "start":  "2026-08-15T12:00:00.0000000",
         "title":  "NFL Highlights",
         "desc":  "",
-        "end":  "2026-08-14T17:00:00.0000000"
+        "end":  "2026-08-15T13:00:00.0000000"
     },
     {
-        "start":  "2026-08-14T17:00:00.0000000",
-        "title":  "NBC\u0027s Pro-Football Talk",
+        "start":  "2026-08-15T13:00:00.0000000",
+        "title":  "International Rugby Union",
         "desc":  "",
-        "end":  "2026-08-14T19:00:00.0000000"
+        "end":  "2026-08-15T15:10:00.0000000"
     },
     {
-        "start":  "2026-08-14T19:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
+        "start":  "2026-08-15T15:10:00.0000000",
+        "title":  "Rugby Greatest Games",
         "desc":  "",
-        "end":  "2026-08-14T19:15:00.0000000"
+        "end":  "2026-08-15T15:15:00.0000000"
     },
     {
-        "start":  "2026-08-14T19:15:00.0000000",
-        "title":  "NFL Bitesize Highlights",
+        "start":  "2026-08-15T15:15:00.0000000",
+        "title":  "Betfred Super League Highlights",
         "desc":  "",
-        "end":  "2026-08-14T19:30:00.0000000"
+        "end":  "2026-08-15T15:30:00.0000000"
     },
     {
-        "start":  "2026-08-14T19:30:00.0000000",
-        "title":  "NBA Basketball",
+        "start":  "2026-08-15T15:30:00.0000000",
+        "title":  "Betfred Super League Highlights",
         "desc":  "",
-        "end":  "2026-08-14T21:30:00.0000000"
+        "end":  "2026-08-15T15:45:00.0000000"
     },
     {
-        "start":  "2026-08-14T21:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
+        "start":  "2026-08-15T15:45:00.0000000",
+        "title":  "Betfred Super League Highlights",
         "desc":  "",
-        "end":  "2026-08-14T21:45:00.0000000"
+        "end":  "2026-08-15T16:00:00.0000000"
     },
     {
-        "start":  "2026-08-14T21:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
+        "start":  "2026-08-15T16:00:00.0000000",
+        "title":  "Live Betfred Super League",
         "desc":  "",
-        "end":  "2026-08-14T22:00:00.0000000"
+        "end":  "2026-08-15T18:45:00.0000000"
     },
     {
-        "start":  "2026-08-14T22:00:00.0000000",
+        "start":  "2026-08-15T18:45:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-15T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T19:00:00.0000000",
         "title":  "NFL Highlights",
         "desc":  "",
-        "end":  "2026-08-14T23:00:00.0000000"
+        "end":  "2026-08-15T19:15:00.0000000"
     },
     {
-        "start":  "2026-08-14T23:00:00.0000000",
-        "title":  "Live Zuffa Boxing",
+        "start":  "2026-08-15T19:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
         "desc":  "",
-        "end":  "2026-08-15T00:00:00.0000000"
+        "end":  "2026-08-15T19:30:00.0000000"
     },
     {
-        "start":  "2026-08-14T00:00:00.0000000",
+        "start":  "2026-08-15T19:30:00.0000000",
+        "title":  "International Rugby Union",
+        "desc":  "",
+        "end":  "2026-08-15T21:40:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T21:40:00.0000000",
+        "title":  "Rugby Greatest Games",
+        "desc":  "",
+        "end":  "2026-08-15T21:45:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T21:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "",
+        "end":  "2026-08-15T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T22:00:00.0000000",
         "title":  "NFL Highlights",
         "desc":  "",
-        "end":  "2026-08-14T01:00:00.0000000"
+        "end":  "2026-08-15T23:00:00.0000000"
     },
     {
-        "start":  "2026-08-14T01:00:00.0000000",
+        "start":  "2026-08-15T23:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T00:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T01:00:00.0000000",
         "title":  "Betfred Super League",
         "desc":  "",
-        "end":  "2026-08-14T03:45:00.0000000"
+        "end":  "2026-08-16T03:45:00.0000000"
     },
     {
-        "start":  "2026-08-14T03:45:00.0000000",
+        "start":  "2026-08-16T03:45:00.0000000",
         "title":  "Women\u0027s Super League",
         "desc":  "",
-        "end":  "2026-08-14T04:00:00.0000000"
+        "end":  "2026-08-16T04:00:00.0000000"
     },
     {
-        "start":  "2026-08-14T04:00:00.0000000",
+        "start":  "2026-08-16T04:00:00.0000000",
         "title":  "Betfred Super League Highlights",
         "desc":  "",
-        "end":  "2026-08-14T04:15:00.0000000"
+        "end":  "2026-08-16T04:15:00.0000000"
     },
     {
-        "start":  "2026-08-14T04:15:00.0000000",
+        "start":  "2026-08-16T04:15:00.0000000",
         "title":  "Betfred Super League Highlights",
         "desc":  "",
-        "end":  "2026-08-14T04:30:00.0000000"
+        "end":  "2026-08-16T04:30:00.0000000"
     },
     {
-        "start":  "2026-08-14T04:30:00.0000000",
+        "start":  "2026-08-16T04:30:00.0000000",
         "title":  "Betfred Super League Highlights",
         "desc":  "",
-        "end":  "2026-08-14T04:45:00.0000000"
+        "end":  "2026-08-16T04:45:00.0000000"
     },
     {
-        "start":  "2026-08-14T04:45:00.0000000",
+        "start":  "2026-08-16T04:45:00.0000000",
         "title":  "Betfred Super League Highlights",
         "desc":  "",
-        "end":  "2026-08-14T05:00:00.0000000"
+        "end":  "2026-08-16T05:00:00.0000000"
     },
     {
-        "start":  "2026-08-14T05:00:00.0000000",
+        "start":  "2026-08-16T05:00:00.0000000",
         "title":  "Betfred Super League",
         "desc":  "",
-        "end":  "2026-08-14T08:00:00.0000000"
+        "end":  "2026-08-16T08:00:00.0000000"
     },
     {
-        "start":  "2026-08-14T08:00:00.0000000",
-        "title":  "State of Origin Rugby League",
-        "desc":  "",
-        "end":  "2026-08-14T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T09:00:00.0000000",
-        "title":  "State of Origin Rugby League",
-        "desc":  "",
-        "end":  "2026-08-14T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T10:00:00.0000000",
-        "title":  "Live NRL",
-        "desc":  "",
-        "end":  "2026-08-14T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "desc":  "",
-        "end":  "2026-08-14T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T14:00:00.0000000",
+        "start":  "2026-08-16T08:00:00.0000000",
         "title":  "NFL Highlights",
         "desc":  "",
-        "end":  "2026-08-14T15:00:00.0000000"
+        "end":  "2026-08-16T09:00:00.0000000"
     },
     {
-        "start":  "2026-08-14T15:00:00.0000000",
+        "start":  "2026-08-16T09:00:00.0000000",
+        "title":  "Super Bowl LX Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T10:00:00.0000000",
+        "title":  "Live World Flag Championship",
+        "desc":  "",
+        "end":  "2026-08-16T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T16:00:00.0000000",
         "title":  "Betfred Super League Highlights",
         "desc":  "",
-        "end":  "2026-08-14T15:15:00.0000000"
+        "end":  "2026-08-16T16:15:00.0000000"
     },
     {
-        "start":  "2026-08-14T15:15:00.0000000",
+        "start":  "2026-08-16T16:15:00.0000000",
         "title":  "Betfred Super League Highlights",
         "desc":  "",
-        "end":  "2026-08-14T15:30:00.0000000"
+        "end":  "2026-08-16T16:30:00.0000000"
     },
     {
-        "start":  "2026-08-14T15:30:00.0000000",
+        "start":  "2026-08-16T16:30:00.0000000",
         "title":  "Betfred Super League Highlights",
         "desc":  "",
-        "end":  "2026-08-14T15:45:00.0000000"
+        "end":  "2026-08-16T16:45:00.0000000"
     },
     {
-        "start":  "2026-08-14T15:45:00.0000000",
+        "start":  "2026-08-16T16:45:00.0000000",
         "title":  "Betfred Super League Highlights",
         "desc":  "",
-        "end":  "2026-08-14T16:00:00.0000000"
+        "end":  "2026-08-16T17:00:00.0000000"
     },
     {
-        "start":  "2026-08-14T16:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T17:00:00.0000000",
-        "title":  "NBC\u0027s Pro-Football Talk",
-        "desc":  "",
-        "end":  "2026-08-14T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T19:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T19:15:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T19:15:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T19:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T19:30:00.0000000",
+        "start":  "2026-08-16T17:00:00.0000000",
         "title":  "NBA Basketball",
         "desc":  "",
-        "end":  "2026-08-14T21:30:00.0000000"
+        "end":  "2026-08-16T19:00:00.0000000"
     },
     {
-        "start":  "2026-08-14T21:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
+        "start":  "2026-08-16T19:00:00.0000000",
+        "title":  "NBA Basketball",
         "desc":  "",
-        "end":  "2026-08-14T21:45:00.0000000"
+        "end":  "2026-08-16T21:00:00.0000000"
     },
     {
-        "start":  "2026-08-14T21:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "",
-        "end":  "2026-08-14T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-14T22:00:00.0000000",
+        "start":  "2026-08-16T21:00:00.0000000",
         "title":  "NFL Highlights",
         "desc":  "",
-        "end":  "2026-08-14T23:00:00.0000000"
+        "end":  "2026-08-16T21:15:00.0000000"
     },
     {
-        "start":  "2026-08-14T23:00:00.0000000",
-        "title":  "Live Zuffa Boxing",
+        "start":  "2026-08-16T21:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
         "desc":  "",
-        "end":  "2026-08-15T00:00:00.0000000"
+        "end":  "2026-08-16T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T21:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T21:45:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T21:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T22:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T23:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "",
+        "end":  "2026-08-17T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T00:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T01:00:00.0000000",
+        "title":  "Betfred Super League",
+        "desc":  "",
+        "end":  "2026-08-16T03:45:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T03:45:00.0000000",
+        "title":  "Women\u0027s Super League",
+        "desc":  "",
+        "end":  "2026-08-16T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T04:00:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T04:15:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T04:15:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T04:30:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T04:45:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T04:45:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T05:00:00.0000000",
+        "title":  "Betfred Super League",
+        "desc":  "",
+        "end":  "2026-08-16T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T08:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T09:00:00.0000000",
+        "title":  "Super Bowl LX Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T10:00:00.0000000",
+        "title":  "Live World Flag Championship",
+        "desc":  "",
+        "end":  "2026-08-16T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T16:00:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T16:15:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T16:15:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T16:30:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T16:45:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T16:45:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T17:00:00.0000000",
+        "title":  "NBA Basketball",
+        "desc":  "",
+        "end":  "2026-08-16T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T19:00:00.0000000",
+        "title":  "NBA Basketball",
+        "desc":  "",
+        "end":  "2026-08-16T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T21:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T21:15:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T21:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T21:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T21:45:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T21:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T22:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T23:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "",
+        "end":  "2026-08-17T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T00:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "",
+        "end":  "2026-08-15T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T01:00:00.0000000",
+        "title":  "Live MMA: One Championship",
+        "desc":  "",
+        "end":  "2026-08-15T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T05:00:00.0000000",
+        "title":  "Rugby Greatest Games",
+        "desc":  "",
+        "end":  "2026-08-15T05:05:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T05:05:00.0000000",
+        "title":  "Live International Rugby Union",
+        "desc":  "",
+        "end":  "2026-08-15T07:15:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T07:15:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-15T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T07:30:00.0000000",
+        "title":  "Live NRL",
+        "desc":  "",
+        "end":  "2026-08-15T09:35:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T09:35:00.0000000",
+        "title":  "Live NRL",
+        "desc":  "",
+        "end":  "2026-08-15T11:35:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T11:35:00.0000000",
+        "title":  "Rugby Greatest Games",
+        "desc":  "",
+        "end":  "2026-08-15T11:45:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T11:45:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-15T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T12:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "",
+        "end":  "2026-08-15T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T13:00:00.0000000",
+        "title":  "International Rugby Union",
+        "desc":  "",
+        "end":  "2026-08-15T15:10:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T15:10:00.0000000",
+        "title":  "Rugby Greatest Games",
+        "desc":  "",
+        "end":  "2026-08-15T15:15:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T15:15:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-15T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T15:30:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-15T15:45:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T15:45:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-15T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T16:00:00.0000000",
+        "title":  "Live Betfred Super League",
+        "desc":  "",
+        "end":  "2026-08-15T18:45:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T18:45:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-15T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T19:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "",
+        "end":  "2026-08-15T19:15:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T19:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "",
+        "end":  "2026-08-15T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T19:30:00.0000000",
+        "title":  "International Rugby Union",
+        "desc":  "",
+        "end":  "2026-08-15T21:40:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T21:40:00.0000000",
+        "title":  "Rugby Greatest Games",
+        "desc":  "",
+        "end":  "2026-08-15T21:45:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T21:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "",
+        "end":  "2026-08-15T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T22:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "",
+        "end":  "2026-08-15T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-15T23:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T00:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T01:00:00.0000000",
+        "title":  "Betfred Super League",
+        "desc":  "",
+        "end":  "2026-08-16T03:45:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T03:45:00.0000000",
+        "title":  "Women\u0027s Super League",
+        "desc":  "",
+        "end":  "2026-08-16T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T04:00:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T04:15:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T04:15:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T04:30:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T04:45:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T04:45:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T05:00:00.0000000",
+        "title":  "Betfred Super League",
+        "desc":  "",
+        "end":  "2026-08-16T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T08:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T09:00:00.0000000",
+        "title":  "Super Bowl LX Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T10:00:00.0000000",
+        "title":  "Live World Flag Championship",
+        "desc":  "",
+        "end":  "2026-08-16T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T16:00:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T16:15:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T16:15:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T16:30:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T16:45:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T16:45:00.0000000",
+        "title":  "Betfred Super League Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T17:00:00.0000000",
+        "title":  "NBA Basketball",
+        "desc":  "",
+        "end":  "2026-08-16T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T19:00:00.0000000",
+        "title":  "NBA Basketball",
+        "desc":  "",
+        "end":  "2026-08-16T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T21:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T21:15:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T21:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T21:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T21:45:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T21:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T22:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "",
+        "end":  "2026-08-16T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-16T23:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "",
+        "end":  "2026-08-17T00:00:00.0000000"
     }
 ]
