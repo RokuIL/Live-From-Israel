@@ -71,7 +71,7 @@ $PlaylistHeader = '#EXTM3U'
 #
 # ============================================================
 $ChannelList = @(
-    @{ Title = "Kan 11";                    TitleEng = "Kan 11";                    GroupTitle = "Israel";  EPGProvider = "WGP";     EPGStationId = "Kan%2011";    EPGBackupProvider = "XMLTV";  EPGBackupStationId = "11-kanal-il";                 Logo = "" }
+    @{ Title = "Kan 11";                    TitleEng = "Kan 11";                    GroupTitle = "Israel";  EPGProvider = "WGP";     EPGStationId = "Kan%2011";    EPGBackupProvider = "XMLTV";  EPGBackupStationId = "11-kanal-il";                 Logo = "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan 11.png" }
     @{ Title = "Keshet 12";                 TitleEng = "Keshet 12";                 GroupTitle = "Israel";  EPGProvider = "Mako";    EPGStationId = "";            EPGBackupProvider = "WGP";    EPGBackupStationId = "Keshet%2012";                 Logo = "" }
     @{ Title = "Reshet 13";                 TitleEng = "Reshet 13";                 GroupTitle = "Israel";  EPGProvider = "WGP";     EPGStationId = "Reshet%2013"; EPGBackupProvider = "Reshet"; EPGBackupStationId = "";                            Logo = "" }
     @{ Title = "Fox News International";    TitleEng = "Fox News International";    GroupTitle = "US News"; EPGProvider = "WGP.ENG"; EPGStationId = "465372";      EPGBackupProvider = "XMLTV";  EPGBackupStationId = "fox-news-hd";                 Logo = "" }
