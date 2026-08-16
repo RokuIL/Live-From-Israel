@@ -1,137 +1,5 @@
 [
     {
-        "start":  "2026-08-15T00:00:00.0000000",
-        "title":  "Stay Tuned NOW With Gadi Schwartz",
-        "desc":  "A fresh look at the day\u0027s news, from the latest breaking news to what\u0027s on the horizon.(n)",
-        "end":  "2026-08-15T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-15T01:00:00.0000000",
-        "title":  "Top Story With Tom Llamas",
-        "desc":  "Reporting of breaking news and developing stories in real time.(n)",
-        "end":  "2026-08-15T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-15T02:00:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)",
-        "end":  "2026-08-15T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-15T02:30:00.0000000",
-        "title":  "Stay Tuned NOW With Gadi Schwartz",
-        "desc":  "A fresh look at the day\u0027s news, from the latest breaking news to what\u0027s on the horizon.(n)",
-        "end":  "2026-08-15T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-15T03:30:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)",
-        "end":  "2026-08-15T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-15T04:00:00.0000000",
-        "title":  "Top Story With Tom Llamas",
-        "desc":  "Reporting of breaking news and developing stories in real time.(n)",
-        "end":  "2026-08-15T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-15T05:00:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)",
-        "end":  "2026-08-15T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-15T05:30:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)",
-        "end":  "2026-08-15T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-15T06:00:00.0000000",
-        "title":  "Dateline NBC",
-        "desc":  "A 29-year-old woman goes missing.(n)",
-        "end":  "2026-08-15T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-15T07:00:00.0000000",
-        "title":  "Dateline NBC",
-        "desc":  "A Georgia couple\u0027s romantic tryst takes a deadly turn, leaving investigators stumped -- until tire treads at the scene and cell phone calls reveal a twisted plot.(n)",
-        "end":  "2026-08-15T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-15T08:00:00.0000000",
-        "title":  "Dateline NBC",
-        "desc":  "When a 23-year-old woman goes missing from a shopping mall in Plano, Texas, her family searches for her, and the police seek out who is responsible for her disappearance.(n)",
-        "end":  "2026-08-15T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-15T09:00:00.0000000",
-        "title":  "Dateline NBC",
-        "desc":  "A teen\u0027s murder shakes a Nevada community, especially when two unlikely people make confessions.(n)",
-        "end":  "2026-08-15T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-15T11:00:00.0000000",
-        "title":  "Dateline NBC",
-        "desc":  "The case of Johnny Hincapie, whose conviction for the 1990 murder of a Utah tourist in New York -- a case that represented a tipping point in the city\u0027s law enforcement -- was overturned after 25 years.(n)",
-        "end":  "2026-08-15T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-15T12:00:00.0000000",
-        "title":  "Dateline NBC",
-        "desc":  "After shedding hundreds of pounds, a popular kindergarten teacher goes missing; investigators find a link between her weight loss and her disappearance.(n)",
-        "end":  "2026-08-15T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-15T13:00:00.0000000",
-        "title":  "Dateline NBC",
-        "desc":  "A love triangle leads to years of stalking, property destruction, threats, and murder.(n)",
-        "end":  "2026-08-15T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-15T15:00:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)",
-        "end":  "2026-08-15T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-15T15:30:00.0000000",
-        "title":  "Today",
-        "desc":  "Line dancing comeback; Shark Week on Today: A look into the great white shark surge off the California coast; America 250: Jenna Bush Hager\u0027s trip to the Queen Mary for July 4; The Radio City Rockettes perform on the Plaza.(n)",
-        "end":  "2026-08-15T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-15T17:00:00.0000000",
-        "title":  "Dateline NBC: The Fugitive Millionaire",
-        "desc":  "Computer antivirus pioneer John McAfee -- who remains a person of interest in a murder investigation -- discusses his new business and why he decided to stop running from the law.(n)",
-        "end":  "2026-08-15T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-15T18:00:00.0000000",
-        "title":  "Dateline NBC",
-        "desc":  "When a former hockey player discovers his wife murdered in their home, his daughter says she saw a burglar.(n)",
-        "end":  "2026-08-15T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-15T19:00:00.0000000",
-        "title":  "Dateline NBC",
-        "desc":  "Detectives look into a couple\u0027s complicated past when a man finds his wife stabbed to death in their home.(n)",
-        "end":  "2026-08-15T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-15T20:00:00.0000000",
-        "title":  "Dateline NBC: Deception",
-        "desc":  "A woman\u0027s disappearance tears her young children apart; a sting operation catches an unlikely villain.(n)",
-        "end":  "2026-08-15T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-15T22:00:00.0000000",
-        "title":  "Dateline NBC",
-        "desc":  "A young father in California calls 911 after being in a shootout in a car full of strangers that injures two people and kills another.(n)",
-        "end":  "2026-08-16T00:00:00.0000000"
-    },
-    {
         "start":  "2026-08-16T00:00:00.0000000",
         "title":  "Dateline NBC",
         "desc":  "A microscopic clue and a stroke of luck help authorities solve the murder of a young woman that took place inside her Jacksonville Beach, Fla., home.(n)",
@@ -266,145 +134,145 @@
     {
         "start":  "2026-08-17T00:00:00.0000000",
         "title":  "Dateline NBC: Deadly Exchange",
-        "desc":  "A foreign exchange student and soccer player\u0027s participation in a dangerous game leads to deadly consequences.",
+        "desc":  "A foreign exchange student and soccer player\u0027s participation in a dangerous game leads to deadly consequences.(n)",
         "end":  "2026-08-17T01:00:00.0000000"
     },
     {
         "start":  "2026-08-17T01:00:00.0000000",
         "title":  "Meet the Press",
-        "desc":  "Interviews with public figures and those making news, setting the political agenda and spotlighting the impact Washington decision-making has on Americans.",
+        "desc":  "Attorney General Todd Blanche; Rep. Hakeem Jeffries (D-N.Y.); Rep. Ro Khanna (D-Calif.); roundtable discussion with Sara Fagen, Jeh Johnson and Jonathan Martin.(n)",
         "end":  "2026-08-17T02:00:00.0000000"
     },
     {
         "start":  "2026-08-17T02:00:00.0000000",
         "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)",
         "end":  "2026-08-17T02:30:00.0000000"
     },
     {
         "start":  "2026-08-17T02:30:00.0000000",
         "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)",
         "end":  "2026-08-17T03:00:00.0000000"
     },
     {
         "start":  "2026-08-17T03:00:00.0000000",
         "title":  "Dateline NBC",
-        "desc":  "A woman comes forward with the truth about the deaths of three other women, solving a 17-year-old mystery; interviews with two people at the center of the case.",
+        "desc":  "A woman comes forward with the truth about the deaths of three other women, solving a 17-year-old mystery; interviews with two people at the center of the case.(n)",
         "end":  "2026-08-17T05:00:00.0000000"
     },
     {
         "start":  "2026-08-17T05:00:00.0000000",
         "title":  "Dateline NBC",
-        "desc":  "The security cameras at the home of a wife and mother of three\u0027s home may hold the key to solving the mystery of her disappearance.",
+        "desc":  "The security cameras at the home of a wife and mother of three\u0027s home may hold the key to solving the mystery of her disappearance.(n)",
         "end":  "2026-08-17T06:00:00.0000000"
     },
     {
         "start":  "2026-08-17T06:00:00.0000000",
         "title":  "Dateline NBC: Consumed",
-        "desc":  "When remains are found amid the rubble after a house fire, authorities soon discover the incident was no accident.",
+        "desc":  "When remains are found amid the rubble after a house fire, authorities soon discover the incident was no accident.(n)",
         "end":  "2026-08-17T07:00:00.0000000"
     },
     {
         "start":  "2026-08-17T07:00:00.0000000",
         "title":  "Dateline NBC: The Collector",
-        "desc":  "Detectives suspect an inside job when a coin collector and his wife are found dead in their home with no sign of forced entry or evidence of theft.",
+        "desc":  "Detectives suspect an inside job when a coin collector and his wife are found dead in their home with no sign of forced entry or evidence of theft.(n)",
         "end":  "2026-08-17T08:00:00.0000000"
     },
     {
         "start":  "2026-08-17T08:00:00.0000000",
         "title":  "Dateline NBC",
-        "desc":  "Four years after a 28-year-old dies after hosting a New Year\u0027s Eve party, a jury must decide if it was suicide or murder.",
+        "desc":  "Four years after a 28-year-old dies after hosting a New Year\u0027s Eve party, a jury must decide if it was suicide or murder.(n)",
         "end":  "2026-08-17T09:00:00.0000000"
     },
     {
         "start":  "2026-08-17T09:00:00.0000000",
         "title":  "Early Today",
-        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.",
+        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)",
         "end":  "2026-08-17T09:30:00.0000000"
     },
     {
         "start":  "2026-08-17T09:30:00.0000000",
         "title":  "Early Today",
-        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.",
+        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)",
         "end":  "2026-08-17T10:00:00.0000000"
     },
     {
         "start":  "2026-08-17T10:00:00.0000000",
         "title":  "Early Today",
-        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.",
+        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)",
         "end":  "2026-08-17T10:30:00.0000000"
     },
     {
         "start":  "2026-08-17T10:30:00.0000000",
         "title":  "Early Today",
-        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.",
+        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)",
         "end":  "2026-08-17T11:00:00.0000000"
     },
     {
         "start":  "2026-08-17T11:00:00.0000000",
         "title":  "Morning News NOW",
-        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.",
+        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)",
         "end":  "2026-08-17T12:00:00.0000000"
     },
     {
         "start":  "2026-08-17T12:00:00.0000000",
         "title":  "Morning News NOW",
-        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.",
+        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)",
         "end":  "2026-08-17T13:00:00.0000000"
     },
     {
         "start":  "2026-08-17T13:00:00.0000000",
         "title":  "Morning News NOW",
-        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.",
+        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)",
         "end":  "2026-08-17T14:00:00.0000000"
     },
     {
         "start":  "2026-08-17T14:00:00.0000000",
         "title":  "Current With Christine Romans",
-        "desc":  "Christine gets you current - from breaking news, to the economy, to politics, to global events; real news, real context, right now.",
+        "desc":  "Christine gets you current - from breaking news, to the economy, to politics, to global events; real news, real context, right now.(n)",
         "end":  "2026-08-17T16:00:00.0000000"
     },
     {
         "start":  "2026-08-17T16:00:00.0000000",
         "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
-        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)",
         "end":  "2026-08-17T17:00:00.0000000"
     },
     {
         "start":  "2026-08-17T17:00:00.0000000",
         "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
-        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)",
         "end":  "2026-08-17T18:00:00.0000000"
     },
     {
         "start":  "2026-08-17T18:00:00.0000000",
         "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
-        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)",
         "end":  "2026-08-17T19:00:00.0000000"
     },
     {
         "start":  "2026-08-17T19:00:00.0000000",
         "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
-        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)",
         "end":  "2026-08-17T20:00:00.0000000"
     },
     {
         "start":  "2026-08-17T20:00:00.0000000",
         "title":  "Meet the Press NOW",
-        "desc":  "Looking at the key stories of the day with political newsmakers.",
+        "desc":  "Looking at the key stories of the day with political newsmakers.(n)",
         "end":  "2026-08-17T21:00:00.0000000"
     },
     {
         "start":  "2026-08-17T21:00:00.0000000",
         "title":  "Hallie Jackson NOW",
-        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.",
+        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)",
         "end":  "2026-08-17T23:00:00.0000000"
     },
     {
         "start":  "2026-08-17T23:00:00.0000000",
         "title":  "Top Story With Tom Llamas",
-        "desc":  "Reporting of breaking news and developing stories in real time.",
+        "desc":  "Reporting of breaking news and developing stories in real time.(n)",
         "end":  "2026-08-18T00:00:00.0000000"
     },
     {
@@ -874,5 +742,161 @@
         "title":  "Top Story With Tom Llamas",
         "desc":  "Reporting of breaking news and developing stories in real time.",
         "end":  "2026-08-21T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T00:00:00.0000000",
+        "title":  "Stay Tuned NOW With Gadi Schwartz",
+        "desc":  "A fresh look at the day\u0027s news, from the latest breaking news to what\u0027s on the horizon.(n)",
+        "end":  "2026-08-21T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T01:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "desc":  "Reporting of breaking news and developing stories in real time.(n)",
+        "end":  "2026-08-21T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T02:00:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)",
+        "end":  "2026-08-21T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T02:30:00.0000000",
+        "title":  "Stay Tuned NOW With Gadi Schwartz",
+        "desc":  "A fresh look at the day\u0027s news, from the latest breaking news to what\u0027s on the horizon.(n)",
+        "end":  "2026-08-21T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T03:30:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)",
+        "end":  "2026-08-21T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T04:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "desc":  "Reporting of breaking news and developing stories in real time.(n)",
+        "end":  "2026-08-21T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T05:00:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)",
+        "end":  "2026-08-21T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T05:30:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)",
+        "end":  "2026-08-21T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T06:00:00.0000000",
+        "title":  "Dateline NBC: The Collector",
+        "desc":  "Detectives suspect an inside job when a coin collector and his wife are found dead in their home with no sign of forced entry or evidence of theft.(n)",
+        "end":  "2026-08-21T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T07:00:00.0000000",
+        "title":  "Dateline NBC: Diabolical",
+        "desc":  "Michelle Hadley is exonerated after spending three months in jail for attempted forcible rape of her ex-fiance\u0027s wife.(n)",
+        "end":  "2026-08-21T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T08:00:00.0000000",
+        "title":  "Dateline NBC",
+        "desc":  "The security cameras at the home of a wife and mother of three\u0027s home may hold the key to solving the mystery of her disappearance.(n)",
+        "end":  "2026-08-21T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T09:00:00.0000000",
+        "title":  "Early Today",
+        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)",
+        "end":  "2026-08-21T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T09:30:00.0000000",
+        "title":  "Early Today",
+        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)",
+        "end":  "2026-08-21T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T10:00:00.0000000",
+        "title":  "Early Today",
+        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)",
+        "end":  "2026-08-21T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T10:30:00.0000000",
+        "title":  "Early Today",
+        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)",
+        "end":  "2026-08-21T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T11:00:00.0000000",
+        "title":  "Morning News NOW",
+        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)",
+        "end":  "2026-08-21T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T12:00:00.0000000",
+        "title":  "Morning News NOW",
+        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)",
+        "end":  "2026-08-21T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T13:00:00.0000000",
+        "title":  "Morning News NOW",
+        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)",
+        "end":  "2026-08-21T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T14:00:00.0000000",
+        "title":  "Current With Christine Romans",
+        "desc":  "Christine gets you current - from breaking news, to the economy, to politics, to global events; real news, real context, right now.(n)",
+        "end":  "2026-08-21T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T16:00:00.0000000",
+        "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)",
+        "end":  "2026-08-21T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T17:00:00.0000000",
+        "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)",
+        "end":  "2026-08-21T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T18:00:00.0000000",
+        "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)",
+        "end":  "2026-08-21T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T19:00:00.0000000",
+        "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)",
+        "end":  "2026-08-21T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T20:00:00.0000000",
+        "title":  "Meet the Press NOW",
+        "desc":  "Looking at the key stories of the day with political newsmakers.(n)",
+        "end":  "2026-08-21T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T21:00:00.0000000",
+        "title":  "Hallie Jackson NOW",
+        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)",
+        "end":  "2026-08-21T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-21T23:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "desc":  "Reporting of breaking news and developing stories in real time.(n)",
+        "end":  "2026-08-22T00:00:00.0000000"
     }
 ]
