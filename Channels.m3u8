@@ -12,18 +12,6 @@ https://mako-streaming.akamaized.net@@MAKO:lp=@@/stream/hls/live/20000821/k12n12
 #EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" group-title="Israel" tvg-provider="Mako" tvg-backup-provider="WGP" tvg-backup-id="Keshet%2012",קשת 12
 http://stream.mcquack.net/294/index.m3u8
 
-#EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" group-title="Israel" tvg-provider="Mako" tvg-backup-provider="WGP" tvg-backup-id="Keshet%2012",קשת 12
-https://mako-streaming.akamaized.net@@MAKO:lp=@@/direct/hls/live/2033791/k12dvr/index.m3u8@@?@@TICKET@@|Origin=https://www.n12.co.il&Referer=https://www.n12.co.il/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
-
-#EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" group-title="Israel" tvg-provider="Mako" tvg-backup-provider="WGP" tvg-backup-id="Keshet%2012",קשת 12
-https://mako-streaming.akamaized.net@@MAKO:lp=@@/n12/hls/live/2041434/n12-b/index.m3u8@@?@@TICKET@@|Origin=https://www.n12.co.il&Referer=https://www.n12.co.il/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
-
-#EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" group-title="Israel" tvg-provider="Mako" tvg-backup-provider="WGP" tvg-backup-id="Keshet%2012",קשת 12
-https://mako-streaming.akamaized.net@@MAKO:lp=@@/n12/hls/live/2103938/k12/index.m3u8@@?@@TICKET@@|Origin=https://www.n12.co.il&Referer=https://www.n12.co.il/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
-
-#EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" group-title="Israel" tvg-provider="Mako" tvg-backup-provider="WGP" tvg-backup-id="Keshet%2012",קשת 12
-https://mako-streaming.akamaized.net@@MAKO:lp=@@/stream/hls/live/2033791/k12n12wad/index.m3u8@@?@@TICKET@@|Origin=https://www.n12.co.il&Referer=https://www.n12.co.il/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
-
 #EXTINF:-1 tvg-id="Reshet%2013" tvg-name="Reshet 13" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg" group-title="Israel" tvg-provider="WGP" tvg-backup-provider="Reshet",רשת 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0&Origin=https://kondoplay.cfd&Referer=https://kondoplay.cfd/
 
