@@ -1,239 +1,5 @@
 [
     {
-        "start":  "2026-08-22T01:00:00.0000000",
-        "title":  "Live: Women\u0027s College Volleyball",
-        "desc":  "",
-        "end":  "2026-08-22T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-22T03:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-22T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-22T04:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-22T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-22T05:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-22T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-22T06:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-22T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-22T07:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-22T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-22T08:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-22T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-22T09:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-22T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-22T10:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-22T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-22T11:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-22T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-22T12:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-22T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-22T13:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-22T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-22T14:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-22T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-22T15:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-22T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-22T16:00:00.0000000",
-        "title":  "E60",
-        "desc":  "",
-        "end":  "2026-08-22T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-22T16:30:00.0000000",
-        "title":  "Live: Little League Today",
-        "desc":  "",
-        "end":  "2026-08-22T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-22T17:00:00.0000000",
-        "title":  "Live: 2026 Little League Baseball World Series",
-        "desc":  "",
-        "end":  "2026-08-22T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-22T19:00:00.0000000",
-        "title":  "Live: 2026 Little League Baseball World Series",
-        "desc":  "",
-        "end":  "2026-08-22T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-22T21:00:00.0000000",
-        "title":  "Live: 2026 Little League Baseball World Series",
-        "desc":  "",
-        "end":  "2026-08-22T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-22T23:00:00.0000000",
-        "title":  "Live: 2026 Little League Baseball World Series",
-        "desc":  "",
-        "end":  "2026-08-23T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-23T01:00:00.0000000",
-        "title":  "Live: Professional Fighters League",
-        "desc":  "",
-        "end":  "2026-08-23T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-23T03:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-23T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-23T04:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-23T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-23T05:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-23T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-23T06:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-23T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-23T07:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-23T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-23T08:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-23T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-23T09:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-23T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-23T10:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-23T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-23T11:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-23T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-23T12:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "",
-        "end":  "2026-08-23T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-23T13:00:00.0000000",
-        "title":  "Live: 2026 Little League Baseball World Series",
-        "desc":  "",
-        "end":  "2026-08-23T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-23T15:00:00.0000000",
-        "title":  "Live: 2026 Little League Baseball World Series",
-        "desc":  "",
-        "end":  "2026-08-23T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-23T17:00:00.0000000",
-        "title":  "All ACC",
-        "desc":  "",
-        "end":  "2026-08-23T17:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-23T17:30:00.0000000",
-        "title":  "ACC Huddle",
-        "desc":  "",
-        "end":  "2026-08-23T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-23T18:00:00.0000000",
-        "title":  "Live: 2026 Little League Baseball World Series",
-        "desc":  "",
-        "end":  "2026-08-23T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-23T20:00:00.0000000",
-        "title":  "Live: Women\u0027s College Volleyball",
-        "desc":  "",
-        "end":  "2026-08-23T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-23T22:00:00.0000000",
-        "title":  "Live: Baseball Tonight",
-        "desc":  "",
-        "end":  "2026-08-23T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-23T23:00:00.0000000",
-        "title":  "Live: MLB Baseball",
-        "desc":  "",
-        "end":  "2026-08-24T00:00:00.0000000"
-    },
-    {
         "start":  "2026-08-23T01:00:00.0000000",
         "title":  "Live: Professional Fighters League",
         "desc":  "",
@@ -363,6 +129,90 @@
         "start":  "2026-08-24T04:00:00.0000000",
         "title":  "Live: SportsCenter",
         "desc":  "",
+        "end":  "2026-08-24T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T05:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "",
+        "end":  "2026-08-24T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T06:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "",
+        "end":  "2026-08-24T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T07:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "",
+        "end":  "2026-08-24T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T08:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "",
+        "end":  "2026-08-24T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T09:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "",
+        "end":  "2026-08-24T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T10:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "",
+        "end":  "2026-08-24T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T11:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "",
+        "end":  "2026-08-24T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T12:00:00.0000000",
+        "title":  "Live: Get Up",
+        "desc":  "",
+        "end":  "2026-08-24T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T14:00:00.0000000",
+        "title":  "Live: First Take",
+        "desc":  "",
+        "end":  "2026-08-24T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T16:00:00.0000000",
+        "title":  "Live: The Pat McAfee Show",
+        "desc":  "",
+        "end":  "2026-08-24T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T17:00:00.0000000",
+        "title":  "Live: 2026 Little League Baseball World Series",
+        "desc":  "",
+        "end":  "2026-08-24T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T19:00:00.0000000",
+        "title":  "Live: 2026 Little League Baseball World Series",
+        "desc":  "",
+        "end":  "2026-08-24T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T21:00:00.0000000",
+        "title":  "Live: 2026 Little League Baseball World Series",
+        "desc":  "",
+        "end":  "2026-08-24T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T23:00:00.0000000",
+        "title":  "Live: 2026 Little League Baseball World Series",
+        "desc":  "",
         "end":  "2026-08-25T00:00:00.0000000"
     },
     {
@@ -381,6 +231,126 @@
         "start":  "2026-08-24T04:00:00.0000000",
         "title":  "Live: SportsCenter",
         "desc":  "",
+        "end":  "2026-08-24T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T05:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "",
+        "end":  "2026-08-24T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T06:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "",
+        "end":  "2026-08-24T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T07:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "",
+        "end":  "2026-08-24T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T08:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "",
+        "end":  "2026-08-24T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T09:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "",
+        "end":  "2026-08-24T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T10:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "",
+        "end":  "2026-08-24T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T11:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "",
+        "end":  "2026-08-24T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T12:00:00.0000000",
+        "title":  "Live: Get Up",
+        "desc":  "",
+        "end":  "2026-08-24T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T14:00:00.0000000",
+        "title":  "Live: First Take",
+        "desc":  "",
+        "end":  "2026-08-24T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T16:00:00.0000000",
+        "title":  "Live: The Pat McAfee Show",
+        "desc":  "",
+        "end":  "2026-08-24T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T17:00:00.0000000",
+        "title":  "Live: 2026 Little League Baseball World Series",
+        "desc":  "",
+        "end":  "2026-08-24T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T19:00:00.0000000",
+        "title":  "Live: 2026 Little League Baseball World Series",
+        "desc":  "",
+        "end":  "2026-08-24T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T21:00:00.0000000",
+        "title":  "Live: 2026 Little League Baseball World Series",
+        "desc":  "",
+        "end":  "2026-08-24T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-24T23:00:00.0000000",
+        "title":  "Live: 2026 Little League Baseball World Series",
+        "desc":  "",
         "end":  "2026-08-25T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T01:00:00.0000000",
+        "title":  "Live: Fantasy Football Now",
+        "desc":  "",
+        "end":  "2026-08-25T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T03:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "",
+        "end":  "2026-08-25T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T04:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "",
+        "end":  "2026-08-26T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T01:00:00.0000000",
+        "title":  "Live: Fantasy Football Now",
+        "desc":  "",
+        "end":  "2026-08-25T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T03:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "",
+        "end":  "2026-08-25T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T04:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "",
+        "end":  "2026-08-26T00:00:00.0000000"
     }
 ]
