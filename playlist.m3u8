@@ -1,6 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-name="Kan 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/960px-Kan11Logo.svg.png" group-title="Israel" tvg-provider="WGP" tvg-id="Kan%2011" tvg-backup-provider="XMLTV" tvg-backup-id="11-kanal-il",Kan 11
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://i.imgur.com/fY3eakc.png" group-title="Israel" tvg-provider="Mako" tvg-backup-provider="WGP" tvg-backup-id="Keshet%2012",Keshet 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -28,6 +26,8 @@ http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="465291",FOX Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
+#EXTINF:-1 tvg-name="FOX Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/960px-FS2_logo_2015.svg.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="465355" tvg-backup-provider="XMLTV" tvg-backup-id="fox-sports2-us",FOX Sports 2
+https://tvsen7.aynascope.net/foxsports2/index.m3u8
 
 #EXTINF:-1 tvg-name="NBC Sports NOW" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="485735" tvg-backup-provider="XMLTV" tvg-backup-id="nbc-sports-us-hd",NBC Sports NOW
 https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
