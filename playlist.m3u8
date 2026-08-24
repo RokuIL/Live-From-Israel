@@ -22,8 +22,6 @@ https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
 
 #EXTINF:-1 tvg-name="FOX Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="465291",FOX Sports 1
-https://tvsen7.aynascope.net/foxsports1/index.m3u8
-#EXTINF:-1 tvg-name="FOX Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="465291",FOX Sports 1
 http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="465291",FOX Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
@@ -57,17 +55,8 @@ https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="5791" tvg-backup-provider="XMLTV" tvg-backup-id="sky-sports-football-uk-hd",Sky Sports Football
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/39/index.m3u8
 
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="7673" tvg-backup-provider="XMLTV" tvg-backup-id="sky-sports-main-event-uk-hd",Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/19/index.m3u8
 
-#EXTINF:-1 tvg-name="Sky Sports NFL" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="454969",Sky Sports NFL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/12/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Yes Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/960px-YES_Network_logo.svg.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="427689",Yes Network
