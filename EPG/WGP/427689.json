@@ -1,182 +1,734 @@
 [
     {
-        "start":  "2026-08-24T01:00:00.0000000",
+        "start":  "2026-08-25T00:30:00.0000000",
+        "title":  "Nets Generation",
+        "desc":  "",
+        "end":  "2026-08-25T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T01:00:00.0000000",
+        "title":  "Yankees Classics: Late Rally in the Bronx",
+        "desc":  "",
+        "end":  "2026-08-25T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T04:00:00.0000000",
+        "title":  "Yankees Classics: A Debut to Remember â€“ George Lombard Jr. (8/4/26 vs Cardinals)",
+        "desc":  "",
+        "end":  "2026-08-25T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T06:30:00.0000000",
+        "title":  "Home Plate New York: Manny Pacquiao",
+        "desc":  "",
+        "end":  "2026-08-25T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T07:00:00.0000000",
+        "title":  "Homegrown: The Path to Pinstripes",
+        "desc":  "",
+        "end":  "2026-08-25T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T07:30:00.0000000",
+        "title":  "The Bare Knuckle Show",
+        "desc":  "",
+        "end":  "2026-08-25T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T08:00:00.0000000",
+        "title":  "BKFC Rewind: BKFC 91 Naples, Italy",
+        "desc":  "",
+        "end":  "2026-08-25T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T09:00:00.0000000",
+        "title":  "The Story of My Number: Ottis Anderson",
+        "desc":  "",
+        "end":  "2026-08-25T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T09:30:00.0000000",
+        "title":  "The Story of My Number: Mike Richter",
+        "desc":  "",
+        "end":  "2026-08-25T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T10:00:00.0000000",
+        "title":  "Sportico Sports Business",
+        "desc":  "",
+        "end":  "2026-08-25T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T10:30:00.0000000",
+        "title":  "Home Plate New York: Omar and Justin Minaya",
+        "desc":  "",
+        "end":  "2026-08-25T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T11:00:00.0000000",
+        "title":  "DraftKings Casino Report",
+        "desc":  "",
+        "end":  "2026-08-25T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T11:30:00.0000000",
+        "title":  "DraftKings Casino Report",
+        "desc":  "",
+        "end":  "2026-08-25T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T12:00:00.0000000",
+        "title":  "DraftKings Casino Report",
+        "desc":  "",
+        "end":  "2026-08-25T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T12:30:00.0000000",
+        "title":  "DraftKings Casino Report",
+        "desc":  "",
+        "end":  "2026-08-25T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T13:00:00.0000000",
+        "title":  "Yankees Classics: A Debut to Remember â€“ George Lombard Jr. (8/4/26 vs Cardinals)",
+        "desc":  "",
+        "end":  "2026-08-25T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T15:30:00.0000000",
+        "title":  "The Stadium",
+        "desc":  "",
+        "end":  "2026-08-25T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T16:00:00.0000000",
+        "title":  "Yankees Classics: Late Rally in the Bronx",
+        "desc":  "",
+        "end":  "2026-08-25T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T19:00:00.0000000",
+        "title":  "Home Plate New York: Manny Pacquiao",
+        "desc":  "",
+        "end":  "2026-08-25T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T19:30:00.0000000",
+        "title":  "Homegrown: The Path to Pinstripes",
+        "desc":  "",
+        "end":  "2026-08-25T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T20:00:00.0000000",
+        "title":  "MLS Soccer: New York City FC at New England Revolution (Gillette Stadium, Foxboro, MA, USA)",
+        "desc":  "",
+        "end":  "2026-08-25T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T22:00:00.0000000",
+        "title":  "â‹— Yankees Rewind",
+        "desc":  "",
+        "end":  "2026-08-25T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T22:30:00.0000000",
+        "title":  "â‹— Yankees Lineup",
+        "desc":  "",
+        "end":  "2026-08-25T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T23:00:00.0000000",
+        "title":  "â‹— Yankees Batting Practice Today",
+        "desc":  "",
+        "end":  "2026-08-25T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-25T23:30:00.0000000",
+        "title":  "â‹— New York Yankees Pregame",
+        "desc":  "",
+        "end":  "2026-08-26T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T00:00:00.0000000",
+        "title":  "â‹— MLB Baseball: Houston Astros at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "desc":  "",
+        "end":  "2026-08-26T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T03:00:00.0000000",
+        "title":  "â‹— New York Yankees Postgame",
+        "desc":  "",
+        "end":  "2026-08-26T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T03:30:00.0000000",
+        "title":  "â‹— Yankees Extra Innings Postgame",
+        "desc":  "",
+        "end":  "2026-08-26T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T04:00:00.0000000",
+        "title":  "Sportico Sports Business",
+        "desc":  "",
+        "end":  "2026-08-26T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T04:30:00.0000000",
+        "title":  "Homegrown: The Path to Pinstripes",
+        "desc":  "",
+        "end":  "2026-08-26T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T05:00:00.0000000",
+        "title":  "MLB Baseball: Houston Astros at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "desc":  "",
+        "end":  "2026-08-26T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T08:30:00.0000000",
+        "title":  "The Bare Knuckle Show",
+        "desc":  "",
+        "end":  "2026-08-26T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T09:00:00.0000000",
+        "title":  "The Story of My Number: Willie Randolph",
+        "desc":  "",
+        "end":  "2026-08-26T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T09:30:00.0000000",
+        "title":  "From Badalona to Brooklyn: The Jordi Fernandez Story",
+        "desc":  "",
+        "end":  "2026-08-26T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T11:00:00.0000000",
+        "title":  "DraftKings Casino Report",
+        "desc":  "",
+        "end":  "2026-08-26T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T11:30:00.0000000",
+        "title":  "DraftKings Casino Report",
+        "desc":  "",
+        "end":  "2026-08-26T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T12:00:00.0000000",
+        "title":  "DraftKings Casino Report",
+        "desc":  "",
+        "end":  "2026-08-26T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T12:30:00.0000000",
+        "title":  "DraftKings Casino Report",
+        "desc":  "",
+        "end":  "2026-08-26T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T13:00:00.0000000",
+        "title":  "MLB Baseball: Houston Astros at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "desc":  "",
+        "end":  "2026-08-26T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T16:30:00.0000000",
+        "title":  "MLB Baseball: Houston Astros at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "desc":  "",
+        "end":  "2026-08-26T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T20:00:00.0000000",
         "title":  "Men\u0027s Club Soccer Friendlies: Liverpool vs. Wrexham",
         "desc":  "",
-        "end":  "2026-08-24T01:30:00.0000000"
+        "end":  "2026-08-26T22:00:00.0000000"
     },
     {
-        "start":  "2026-08-24T01:30:00.0000000",
-        "title":  "Yankeeography: Derek Jeter",
+        "start":  "2026-08-26T22:00:00.0000000",
+        "title":  "Sportico Sports Business",
         "desc":  "",
-        "end":  "2026-08-24T03:00:00.0000000"
+        "end":  "2026-08-26T22:30:00.0000000"
     },
     {
-        "start":  "2026-08-24T03:00:00.0000000",
-        "title":  "MLB Baseball: Toronto Blue Jays at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "start":  "2026-08-26T22:30:00.0000000",
+        "title":  "Yankees Magazine",
         "desc":  "",
-        "end":  "2026-08-24T06:30:00.0000000"
+        "end":  "2026-08-26T23:00:00.0000000"
     },
     {
-        "start":  "2026-08-24T06:30:00.0000000",
-        "title":  "BKFC Rewind: BKFC 90: Birmingham, UK",
+        "start":  "2026-08-26T23:00:00.0000000",
+        "title":  "â‹— Yankees Batting Practice Today",
         "desc":  "",
-        "end":  "2026-08-24T07:30:00.0000000"
+        "end":  "2026-08-26T23:30:00.0000000"
     },
     {
-        "start":  "2026-08-24T07:30:00.0000000",
-        "title":  "MLB Baseball: Toronto Blue Jays at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "start":  "2026-08-26T23:30:00.0000000",
+        "title":  "Home Plate New York: Manny Pacquiao",
         "desc":  "",
-        "end":  "2026-08-24T11:00:00.0000000"
+        "end":  "2026-08-27T00:00:00.0000000"
     },
     {
-        "start":  "2026-08-24T11:00:00.0000000",
+        "start":  "2026-08-27T00:00:00.0000000",
+        "title":  "MLS Soccer: New York City FC at New England Revolution (Gillette Stadium, Foxboro, MA, USA)",
+        "desc":  "",
+        "end":  "2026-08-28T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T00:00:00.0000000",
+        "title":  "â‹— MLB Baseball: Houston Astros at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "desc":  "",
+        "end":  "2026-08-26T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T03:00:00.0000000",
+        "title":  "â‹— New York Yankees Postgame",
+        "desc":  "",
+        "end":  "2026-08-26T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T03:30:00.0000000",
+        "title":  "â‹— Yankees Extra Innings Postgame",
+        "desc":  "",
+        "end":  "2026-08-26T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T04:00:00.0000000",
+        "title":  "Sportico Sports Business",
+        "desc":  "",
+        "end":  "2026-08-26T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T04:30:00.0000000",
+        "title":  "Homegrown: The Path to Pinstripes",
+        "desc":  "",
+        "end":  "2026-08-26T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T05:00:00.0000000",
+        "title":  "MLB Baseball: Houston Astros at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "desc":  "",
+        "end":  "2026-08-26T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T08:30:00.0000000",
+        "title":  "The Bare Knuckle Show",
+        "desc":  "",
+        "end":  "2026-08-26T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T09:00:00.0000000",
+        "title":  "The Story of My Number: Willie Randolph",
+        "desc":  "",
+        "end":  "2026-08-26T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T09:30:00.0000000",
+        "title":  "From Badalona to Brooklyn: The Jordi Fernandez Story",
+        "desc":  "",
+        "end":  "2026-08-26T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T11:00:00.0000000",
         "title":  "DraftKings Casino Report",
         "desc":  "",
-        "end":  "2026-08-24T11:30:00.0000000"
+        "end":  "2026-08-26T11:30:00.0000000"
     },
     {
-        "start":  "2026-08-24T11:30:00.0000000",
+        "start":  "2026-08-26T11:30:00.0000000",
         "title":  "DraftKings Casino Report",
         "desc":  "",
-        "end":  "2026-08-24T12:00:00.0000000"
+        "end":  "2026-08-26T12:00:00.0000000"
     },
     {
-        "start":  "2026-08-24T12:00:00.0000000",
+        "start":  "2026-08-26T12:00:00.0000000",
         "title":  "DraftKings Casino Report",
         "desc":  "",
-        "end":  "2026-08-24T12:30:00.0000000"
+        "end":  "2026-08-26T12:30:00.0000000"
     },
     {
-        "start":  "2026-08-24T12:30:00.0000000",
+        "start":  "2026-08-26T12:30:00.0000000",
         "title":  "DraftKings Casino Report",
         "desc":  "",
-        "end":  "2026-08-24T13:00:00.0000000"
+        "end":  "2026-08-26T13:00:00.0000000"
     },
     {
-        "start":  "2026-08-24T13:00:00.0000000",
-        "title":  "MLB Baseball: Toronto Blue Jays at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "start":  "2026-08-26T13:00:00.0000000",
+        "title":  "MLB Baseball: Houston Astros at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
         "desc":  "",
-        "end":  "2026-08-25T00:00:00.0000000"
+        "end":  "2026-08-26T16:30:00.0000000"
     },
     {
-        "start":  "2026-08-24T01:00:00.0000000",
+        "start":  "2026-08-26T16:30:00.0000000",
+        "title":  "MLB Baseball: Houston Astros at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "desc":  "",
+        "end":  "2026-08-26T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-26T20:00:00.0000000",
         "title":  "Men\u0027s Club Soccer Friendlies: Liverpool vs. Wrexham",
         "desc":  "",
-        "end":  "2026-08-24T01:30:00.0000000"
+        "end":  "2026-08-26T22:00:00.0000000"
     },
     {
-        "start":  "2026-08-24T01:30:00.0000000",
-        "title":  "Yankeeography: Derek Jeter",
+        "start":  "2026-08-26T22:00:00.0000000",
+        "title":  "Sportico Sports Business",
         "desc":  "",
-        "end":  "2026-08-24T03:00:00.0000000"
+        "end":  "2026-08-26T22:30:00.0000000"
     },
     {
-        "start":  "2026-08-24T03:00:00.0000000",
-        "title":  "MLB Baseball: Toronto Blue Jays at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "start":  "2026-08-26T22:30:00.0000000",
+        "title":  "Yankees Magazine",
         "desc":  "",
-        "end":  "2026-08-24T06:30:00.0000000"
+        "end":  "2026-08-26T23:00:00.0000000"
     },
     {
-        "start":  "2026-08-24T06:30:00.0000000",
-        "title":  "BKFC Rewind: BKFC 90: Birmingham, UK",
+        "start":  "2026-08-26T23:00:00.0000000",
+        "title":  "â‹— Yankees Batting Practice Today",
         "desc":  "",
-        "end":  "2026-08-24T07:30:00.0000000"
+        "end":  "2026-08-26T23:30:00.0000000"
     },
     {
-        "start":  "2026-08-24T07:30:00.0000000",
-        "title":  "MLB Baseball: Toronto Blue Jays at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "start":  "2026-08-26T23:30:00.0000000",
+        "title":  "Home Plate New York: Manny Pacquiao",
         "desc":  "",
-        "end":  "2026-08-24T11:00:00.0000000"
+        "end":  "2026-08-27T00:00:00.0000000"
     },
     {
-        "start":  "2026-08-24T11:00:00.0000000",
+        "start":  "2026-08-27T00:00:00.0000000",
+        "title":  "MLS Soccer: New York City FC at New England Revolution (Gillette Stadium, Foxboro, MA, USA)",
+        "desc":  "",
+        "end":  "2026-08-27T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T02:00:00.0000000",
+        "title":  "Breaking Par",
+        "desc":  "",
+        "end":  "2026-08-27T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T02:30:00.0000000",
+        "title":  "Nets Generation",
+        "desc":  "",
+        "end":  "2026-08-27T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T03:00:00.0000000",
+        "title":  "â‹— New York Yankees Postgame",
+        "desc":  "",
+        "end":  "2026-08-27T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T03:30:00.0000000",
+        "title":  "Yankees Magazine",
+        "desc":  "",
+        "end":  "2026-08-27T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T04:00:00.0000000",
+        "title":  "Sportico Sports Business",
+        "desc":  "",
+        "end":  "2026-08-27T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T04:30:00.0000000",
+        "title":  "BKFC Rewind",
+        "desc":  "",
+        "end":  "2026-08-27T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T05:30:00.0000000",
+        "title":  "MLB Baseball: Houston Astros at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "desc":  "",
+        "end":  "2026-08-27T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T09:00:00.0000000",
+        "title":  "Yankeeography: Tino Martinez",
+        "desc":  "",
+        "end":  "2026-08-27T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T10:00:00.0000000",
+        "title":  "Yankeeography: 1998",
+        "desc":  "",
+        "end":  "2026-08-27T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T11:00:00.0000000",
         "title":  "DraftKings Casino Report",
         "desc":  "",
-        "end":  "2026-08-24T11:30:00.0000000"
+        "end":  "2026-08-27T11:30:00.0000000"
     },
     {
-        "start":  "2026-08-24T11:30:00.0000000",
+        "start":  "2026-08-27T11:30:00.0000000",
         "title":  "DraftKings Casino Report",
         "desc":  "",
-        "end":  "2026-08-24T12:00:00.0000000"
+        "end":  "2026-08-27T12:00:00.0000000"
     },
     {
-        "start":  "2026-08-24T12:00:00.0000000",
+        "start":  "2026-08-27T12:00:00.0000000",
+        "title":  "MLB Baseball: Houston Astros at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "desc":  "",
+        "end":  "2026-08-27T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T15:30:00.0000000",
+        "title":  "MLB Baseball: Houston Astros at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "desc":  "",
+        "end":  "2026-08-27T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T19:00:00.0000000",
+        "title":  "AC Milan Magazine",
+        "desc":  "",
+        "end":  "2026-08-27T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T22:00:00.0000000",
+        "title":  "â‹— Yankees Rewind",
+        "desc":  "",
+        "end":  "2026-08-27T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T22:30:00.0000000",
+        "title":  "â‹— Yankees Lineup",
+        "desc":  "",
+        "end":  "2026-08-27T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T23:00:00.0000000",
+        "title":  "â‹— Yankees Batting Practice Today",
+        "desc":  "",
+        "end":  "2026-08-27T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T23:30:00.0000000",
+        "title":  "â‹— New York Yankees Pregame",
+        "desc":  "",
+        "end":  "2026-08-28T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T00:00:00.0000000",
+        "title":  "â‹— MLB Baseball: Houston Astros at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "desc":  "",
+        "end":  "2026-08-29T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T00:00:00.0000000",
+        "title":  "MLS Soccer: New York City FC at New England Revolution (Gillette Stadium, Foxboro, MA, USA)",
+        "desc":  "",
+        "end":  "2026-08-27T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T02:00:00.0000000",
+        "title":  "Breaking Par",
+        "desc":  "",
+        "end":  "2026-08-27T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T02:30:00.0000000",
+        "title":  "Nets Generation",
+        "desc":  "",
+        "end":  "2026-08-27T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T03:00:00.0000000",
+        "title":  "â‹— New York Yankees Postgame",
+        "desc":  "",
+        "end":  "2026-08-27T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T03:30:00.0000000",
+        "title":  "Yankees Magazine",
+        "desc":  "",
+        "end":  "2026-08-27T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T04:00:00.0000000",
+        "title":  "Sportico Sports Business",
+        "desc":  "",
+        "end":  "2026-08-27T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T04:30:00.0000000",
+        "title":  "BKFC Rewind",
+        "desc":  "",
+        "end":  "2026-08-27T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T05:30:00.0000000",
+        "title":  "MLB Baseball: Houston Astros at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "desc":  "",
+        "end":  "2026-08-27T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T09:00:00.0000000",
+        "title":  "Yankeeography: Tino Martinez",
+        "desc":  "",
+        "end":  "2026-08-27T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T10:00:00.0000000",
+        "title":  "Yankeeography: 1998",
+        "desc":  "",
+        "end":  "2026-08-27T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-27T11:00:00.0000000",
         "title":  "DraftKings Casino Report",
         "desc":  "",
-        "end":  "2026-08-24T12:30:00.0000000"
+        "end":  "2026-08-27T11:30:00.0000000"
     },
     {
-        "start":  "2026-08-24T12:30:00.0000000",
+        "start":  "2026-08-27T11:30:00.0000000",
         "title":  "DraftKings Casino Report",
         "desc":  "",
-        "end":  "2026-08-24T13:00:00.0000000"
+        "end":  "2026-08-27T12:00:00.0000000"
     },
     {
-        "start":  "2026-08-24T13:00:00.0000000",
-        "title":  "MLB Baseball: Toronto Blue Jays at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "start":  "2026-08-27T12:00:00.0000000",
+        "title":  "MLB Baseball: Houston Astros at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
         "desc":  "",
-        "end":  "2026-08-25T00:00:00.0000000"
+        "end":  "2026-08-27T15:30:00.0000000"
     },
     {
-        "start":  "2026-08-24T01:00:00.0000000",
-        "title":  "Men\u0027s Club Soccer Friendlies: Liverpool vs. Wrexham",
+        "start":  "2026-08-27T15:30:00.0000000",
+        "title":  "MLB Baseball: Houston Astros at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
         "desc":  "",
-        "end":  "2026-08-24T01:30:00.0000000"
+        "end":  "2026-08-27T19:00:00.0000000"
     },
     {
-        "start":  "2026-08-24T01:30:00.0000000",
-        "title":  "Yankeeography: Derek Jeter",
+        "start":  "2026-08-27T19:00:00.0000000",
+        "title":  "AC Milan Magazine",
         "desc":  "",
-        "end":  "2026-08-24T03:00:00.0000000"
+        "end":  "2026-08-27T22:00:00.0000000"
     },
     {
-        "start":  "2026-08-24T03:00:00.0000000",
-        "title":  "MLB Baseball: Toronto Blue Jays at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "start":  "2026-08-27T22:00:00.0000000",
+        "title":  "â‹— Yankees Rewind",
         "desc":  "",
-        "end":  "2026-08-24T06:30:00.0000000"
+        "end":  "2026-08-27T22:30:00.0000000"
     },
     {
-        "start":  "2026-08-24T06:30:00.0000000",
-        "title":  "BKFC Rewind: BKFC 90: Birmingham, UK",
+        "start":  "2026-08-27T22:30:00.0000000",
+        "title":  "â‹— Yankees Lineup",
         "desc":  "",
-        "end":  "2026-08-24T07:30:00.0000000"
+        "end":  "2026-08-27T23:00:00.0000000"
     },
     {
-        "start":  "2026-08-24T07:30:00.0000000",
-        "title":  "MLB Baseball: Toronto Blue Jays at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "start":  "2026-08-27T23:00:00.0000000",
+        "title":  "â‹— Yankees Batting Practice Today",
         "desc":  "",
-        "end":  "2026-08-24T11:00:00.0000000"
+        "end":  "2026-08-27T23:30:00.0000000"
     },
     {
-        "start":  "2026-08-24T11:00:00.0000000",
-        "title":  "DraftKings Casino Report",
+        "start":  "2026-08-27T23:30:00.0000000",
+        "title":  "â‹— New York Yankees Pregame",
         "desc":  "",
-        "end":  "2026-08-24T11:30:00.0000000"
+        "end":  "2026-08-28T00:00:00.0000000"
     },
     {
-        "start":  "2026-08-24T11:30:00.0000000",
-        "title":  "DraftKings Casino Report",
+        "start":  "2026-08-28T00:00:00.0000000",
+        "title":  "â‹— MLB Baseball: Houston Astros at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
         "desc":  "",
-        "end":  "2026-08-24T12:00:00.0000000"
+        "end":  "2026-08-28T03:00:00.0000000"
     },
     {
-        "start":  "2026-08-24T12:00:00.0000000",
-        "title":  "DraftKings Casino Report",
+        "start":  "2026-08-28T03:00:00.0000000",
+        "title":  "â‹— New York Yankees Postgame",
         "desc":  "",
-        "end":  "2026-08-24T12:30:00.0000000"
+        "end":  "2026-08-28T03:30:00.0000000"
     },
     {
-        "start":  "2026-08-24T12:30:00.0000000",
-        "title":  "DraftKings Casino Report",
+        "start":  "2026-08-28T03:30:00.0000000",
+        "title":  "â‹— Yankees Extra Innings Postgame",
         "desc":  "",
-        "end":  "2026-08-24T13:00:00.0000000"
+        "end":  "2026-08-28T04:00:00.0000000"
     },
     {
-        "start":  "2026-08-24T13:00:00.0000000",
-        "title":  "MLB Baseball: Toronto Blue Jays at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "start":  "2026-08-28T04:00:00.0000000",
+        "title":  "The Stadium",
         "desc":  "",
-        "end":  "2026-08-25T00:00:00.0000000"
+        "end":  "2026-08-28T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T04:30:00.0000000",
+        "title":  "Yankees Magazine",
+        "desc":  "",
+        "end":  "2026-08-28T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T05:00:00.0000000",
+        "title":  "MLB Baseball: Houston Astros at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "desc":  "",
+        "end":  "2026-08-28T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T08:30:00.0000000",
+        "title":  "The Bare Knuckle Show",
+        "desc":  "",
+        "end":  "2026-08-28T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T09:00:00.0000000",
+        "title":  "Supergirl Surf Pro 2025: Oceanside, Calif",
+        "desc":  "",
+        "end":  "2026-08-28T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T10:00:00.0000000",
+        "title":  "CenterStage: Best of Volume 3",
+        "desc":  "",
+        "end":  "2026-08-28T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T11:00:00.0000000",
+        "title":  "Yankeeography: Whitey Ford",
+        "desc":  "",
+        "end":  "2026-08-28T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T12:00:00.0000000",
+        "title":  "MLB Baseball: Houston Astros at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "desc":  "",
+        "end":  "2026-08-28T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T15:30:00.0000000",
+        "title":  "MLB Baseball: Houston Astros at New York Yankees (Yankee Stadium, Bronx, NY, USA)",
+        "desc":  "",
+        "end":  "2026-08-28T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T19:00:00.0000000",
+        "title":  "Yankees Classics: Ron Guidry: 18 K\u0027s",
+        "desc":  "",
+        "end":  "2026-08-28T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T21:00:00.0000000",
+        "title":  "Yankeeography: Moments of Glory: Ron Guidry",
+        "desc":  "",
+        "end":  "2026-08-28T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T21:30:00.0000000",
+        "title":  "Yankees Classics: 1978 AL East Playoff Game",
+        "desc":  "",
+        "end":  "2026-08-28T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T23:30:00.0000000",
+        "title":  "Talkin\u0027 Yanks",
+        "desc":  "",
+        "end":  "2026-08-29T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T00:00:00.0000000",
+        "title":  "AC Milan Magazine",
+        "desc":  "",
+        "end":  "2026-08-30T00:00:00.0000000"
     }
 ]
