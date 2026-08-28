@@ -1,321 +1,249 @@
 [
     {
-        "start":  "2026-08-27T01:00:00.0000000",
+        "start":  "2026-08-28T00:30:00.0000000",
+        "title":  "IndyCar Racing",
+        "desc":  "",
+        "end":  "2026-08-28T01:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T01:30:00.0000000",
+        "title":  "LIV Golf Highlights",
+        "desc":  "",
+        "end":  "2026-08-28T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T02:30:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "",
+        "end":  "2026-08-28T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T03:30:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "",
+        "end":  "2026-08-28T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T04:30:00.0000000",
+        "title":  "Leagues Cup",
+        "desc":  "",
+        "end":  "2026-08-28T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T06:30:00.0000000",
+        "title":  "Leagues Cup",
+        "desc":  "",
+        "end":  "2026-08-28T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T08:30:00.0000000",
+        "title":  "The Clay Travis Show",
+        "desc":  "",
+        "end":  "2026-08-28T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T09:00:00.0000000",
+        "title":  "Professional Triathletes Organisation",
+        "desc":  "",
+        "end":  "2026-08-28T09:26:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T09:26:00.0000000",
+        "title":  "Live: AFL Premiership Football",
+        "desc":  "",
+        "end":  "2026-08-28T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T12:30:00.0000000",
+        "title":  "The Clay Travis Show",
+        "desc":  "",
+        "end":  "2026-08-28T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T13:00:00.0000000",
         "title":  "NASCAR Craftsman Truck Series",
         "desc":  "",
-        "end":  "2026-08-27T02:00:00.0000000"
+        "end":  "2026-08-28T14:00:00.0000000"
     },
     {
-        "start":  "2026-08-27T02:00:00.0000000",
+        "start":  "2026-08-28T14:00:00.0000000",
+        "title":  "IndyCar Racing",
+        "desc":  "",
+        "end":  "2026-08-28T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T16:00:00.0000000",
+        "title":  "SPEED With Harvick \u0026 Buxton",
+        "desc":  "",
+        "end":  "2026-08-28T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-28T16:30:00.0000000",
         "title":  "Kevin Harvick\u0027s Happy Hour",
         "desc":  "",
-        "end":  "2026-08-27T03:00:00.0000000"
+        "end":  "2026-08-28T17:00:00.0000000"
     },
     {
-        "start":  "2026-08-27T03:00:00.0000000",
-        "title":  "The Clay Travis Show",
-        "desc":  "",
-        "end":  "2026-08-27T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-27T03:30:00.0000000",
-        "title":  "The Joel Klatt Show: Big Noon Conversations - RGIII \u0026 Brady Quinn",
-        "desc":  "",
-        "end":  "2026-08-27T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-27T04:30:00.0000000",
-        "title":  "Pokerstars Big Game on Tour",
-        "desc":  "",
-        "end":  "2026-08-27T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-27T05:30:00.0000000",
-        "title":  "Pokerstars Big Game on Tour",
-        "desc":  "",
-        "end":  "2026-08-27T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-27T06:30:00.0000000",
-        "title":  "Pokerstars Big Game on Tour",
-        "desc":  "",
-        "end":  "2026-08-27T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-27T07:30:00.0000000",
-        "title":  "Pokerstars Big Game on Tour",
-        "desc":  "",
-        "end":  "2026-08-27T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-27T08:30:00.0000000",
-        "title":  "Pokerstars Big Game on Tour",
-        "desc":  "",
-        "end":  "2026-08-27T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-27T09:30:00.0000000",
-        "title":  "The Clay Travis Show",
-        "desc":  "",
-        "end":  "2026-08-27T09:48:00.0000000"
-    },
-    {
-        "start":  "2026-08-27T09:48:00.0000000",
-        "title":  "Live: NRL Rugby",
-        "desc":  "",
-        "end":  "2026-08-27T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-27T12:00:00.0000000",
-        "title":  "Greatest Games: College Football",
-        "desc":  "",
-        "end":  "2026-08-27T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-27T15:00:00.0000000",
-        "title":  "Greatest Games: College Football",
-        "desc":  "",
-        "end":  "2026-08-27T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-27T16:00:00.0000000",
-        "title":  "The Joel Klatt Show: Big Noon Conversations - RGIII \u0026 Brady Quinn",
-        "desc":  "",
-        "end":  "2026-08-27T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-27T17:00:00.0000000",
+        "start":  "2026-08-28T17:00:00.0000000",
         "title":  "Live: Horse Racing",
         "desc":  "",
-        "end":  "2026-08-27T22:00:00.0000000"
+        "end":  "2026-08-28T22:30:00.0000000"
     },
     {
-        "start":  "2026-08-27T22:00:00.0000000",
-        "title":  "Professional Triathletes Organisation",
+        "start":  "2026-08-28T22:30:00.0000000",
+        "title":  "CPL Matchday Live",
         "desc":  "",
-        "end":  "2026-08-27T22:30:00.0000000"
+        "end":  "2026-08-28T23:00:00.0000000"
     },
     {
-        "start":  "2026-08-27T22:30:00.0000000",
-        "title":  "Professional Triathletes Organisation",
+        "start":  "2026-08-28T23:00:00.0000000",
+        "title":  "Live: Canadian Premier League Soccer",
         "desc":  "",
-        "end":  "2026-08-27T23:00:00.0000000"
+        "end":  "2026-08-29T00:00:00.0000000"
     },
     {
-        "start":  "2026-08-27T23:00:00.0000000",
+        "start":  "2026-08-29T01:00:00.0000000",
+        "title":  "STIHL Timbersports",
+        "desc":  "",
+        "end":  "2026-08-29T01:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T01:30:00.0000000",
+        "title":  "STIHL Timbersports",
+        "desc":  "",
+        "end":  "2026-08-29T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T02:00:00.0000000",
+        "title":  "STIHL Timbersports",
+        "desc":  "",
+        "end":  "2026-08-29T02:43:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T02:43:00.0000000",
+        "title":  "Live: NRL Women\u0027s Premiership",
+        "desc":  "",
+        "end":  "2026-08-29T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T04:00:00.0000000",
+        "title":  "The Joel Klatt Show: Big Noon Conversations - RGIII \u0026 Brady Quinn",
+        "desc":  "",
+        "end":  "2026-08-29T05:13:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T05:13:00.0000000",
+        "title":  "Live: NRL Women\u0027s Premiership",
+        "desc":  "",
+        "end":  "2026-08-29T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T06:30:00.0000000",
+        "title":  "The Clay Travis Show",
+        "desc":  "",
+        "end":  "2026-08-29T07:13:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T07:13:00.0000000",
+        "title":  "Live: NRL Women\u0027s Premiership",
+        "desc":  "",
+        "end":  "2026-08-29T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T08:30:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "",
+        "end":  "2026-08-29T09:21:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T09:21:00.0000000",
+        "title":  "Live: AFL Premiership Football",
+        "desc":  "",
+        "end":  "2026-08-29T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T12:30:00.0000000",
+        "title":  "SPEED With Harvick \u0026 Buxton",
+        "desc":  "",
+        "end":  "2026-08-29T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T13:00:00.0000000",
+        "title":  "Live: Indy NXT Series",
+        "desc":  "",
+        "end":  "2026-08-29T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T14:00:00.0000000",
+        "title":  "Kevin Harvick\u0027s Happy Hour",
+        "desc":  "",
+        "end":  "2026-08-29T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T14:30:00.0000000",
+        "title":  "SPEED With Harvick \u0026 Buxton",
+        "desc":  "",
+        "end":  "2026-08-29T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T15:00:00.0000000",
+        "title":  "Live: Horse Racing",
+        "desc":  "",
+        "end":  "2026-08-29T17:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T17:30:00.0000000",
         "title":  "EWC Paris: Rise Above",
         "desc":  "",
-        "end":  "2026-08-27T23:30:00.0000000"
+        "end":  "2026-08-29T18:00:00.0000000"
     },
     {
-        "start":  "2026-08-27T23:30:00.0000000",
-        "title":  "IROC Racing",
-        "desc":  "",
-        "end":  "2026-08-28T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T00:30:00.0000000",
-        "title":  "IndyCar Racing",
-        "desc":  "",
-        "end":  "2026-08-28T01:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T01:30:00.0000000",
-        "title":  "LIV Golf Highlights",
-        "desc":  "",
-        "end":  "2026-08-28T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T02:30:00.0000000",
-        "title":  "Wild World of Western Sports",
-        "desc":  "",
-        "end":  "2026-08-28T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T03:30:00.0000000",
-        "title":  "Wild World of Western Sports",
-        "desc":  "",
-        "end":  "2026-08-28T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T04:30:00.0000000",
-        "title":  "Leagues Cup",
-        "desc":  "",
-        "end":  "2026-08-28T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T06:30:00.0000000",
-        "title":  "Leagues Cup",
-        "desc":  "",
-        "end":  "2026-08-28T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T08:30:00.0000000",
-        "title":  "The Clay Travis Show",
-        "desc":  "",
-        "end":  "2026-08-28T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T09:00:00.0000000",
+        "start":  "2026-08-29T18:00:00.0000000",
         "title":  "Professional Triathletes Organisation",
         "desc":  "",
-        "end":  "2026-08-28T09:26:00.0000000"
+        "end":  "2026-08-29T18:30:00.0000000"
     },
     {
-        "start":  "2026-08-28T09:26:00.0000000",
-        "title":  "Live: AFL Premiership Football",
-        "desc":  "",
-        "end":  "2026-08-28T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T12:30:00.0000000",
-        "title":  "The Clay Travis Show",
-        "desc":  "",
-        "end":  "2026-08-28T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T13:00:00.0000000",
-        "title":  "NASCAR Craftsman Truck Series",
-        "desc":  "",
-        "end":  "2026-08-28T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T14:00:00.0000000",
-        "title":  "IndyCar Racing",
-        "desc":  "",
-        "end":  "2026-08-28T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T16:00:00.0000000",
-        "title":  "SPEED With Harvick \u0026 Buxton",
-        "desc":  "",
-        "end":  "2026-08-28T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T16:30:00.0000000",
-        "title":  "Kevin Harvick\u0027s Happy Hour",
-        "desc":  "",
-        "end":  "2026-08-28T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T17:00:00.0000000",
-        "title":  "Live: Horse Racing",
-        "desc":  "",
-        "end":  "2026-08-28T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T22:30:00.0000000",
-        "title":  "CPL Matchday Live",
-        "desc":  "",
-        "end":  "2026-08-28T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T23:00:00.0000000",
-        "title":  "Live: Canadian Premier League Soccer",
-        "desc":  "",
-        "end":  "2026-08-29T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T00:30:00.0000000",
-        "title":  "IndyCar Racing",
-        "desc":  "",
-        "end":  "2026-08-28T01:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T01:30:00.0000000",
-        "title":  "LIV Golf Highlights",
-        "desc":  "",
-        "end":  "2026-08-28T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T02:30:00.0000000",
-        "title":  "Wild World of Western Sports",
-        "desc":  "",
-        "end":  "2026-08-28T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T03:30:00.0000000",
-        "title":  "Wild World of Western Sports",
-        "desc":  "",
-        "end":  "2026-08-28T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T04:30:00.0000000",
-        "title":  "Leagues Cup",
-        "desc":  "",
-        "end":  "2026-08-28T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T06:30:00.0000000",
-        "title":  "Leagues Cup",
-        "desc":  "",
-        "end":  "2026-08-28T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T08:30:00.0000000",
-        "title":  "The Clay Travis Show",
-        "desc":  "",
-        "end":  "2026-08-28T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T09:00:00.0000000",
+        "start":  "2026-08-29T18:30:00.0000000",
         "title":  "Professional Triathletes Organisation",
         "desc":  "",
-        "end":  "2026-08-28T09:26:00.0000000"
+        "end":  "2026-08-29T19:00:00.0000000"
     },
     {
-        "start":  "2026-08-28T09:26:00.0000000",
-        "title":  "Live: AFL Premiership Football",
-        "desc":  "",
-        "end":  "2026-08-28T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T12:30:00.0000000",
-        "title":  "The Clay Travis Show",
-        "desc":  "",
-        "end":  "2026-08-28T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T13:00:00.0000000",
-        "title":  "NASCAR Craftsman Truck Series",
-        "desc":  "",
-        "end":  "2026-08-28T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T14:00:00.0000000",
-        "title":  "IndyCar Racing",
-        "desc":  "",
-        "end":  "2026-08-28T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T16:00:00.0000000",
-        "title":  "SPEED With Harvick \u0026 Buxton",
-        "desc":  "",
-        "end":  "2026-08-28T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T16:30:00.0000000",
-        "title":  "Kevin Harvick\u0027s Happy Hour",
-        "desc":  "",
-        "end":  "2026-08-28T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T17:00:00.0000000",
+        "start":  "2026-08-29T19:00:00.0000000",
         "title":  "Live: Horse Racing",
         "desc":  "",
-        "end":  "2026-08-28T22:30:00.0000000"
+        "end":  "2026-08-29T21:00:00.0000000"
     },
     {
-        "start":  "2026-08-28T22:30:00.0000000",
-        "title":  "CPL Matchday Live",
+        "start":  "2026-08-29T21:00:00.0000000",
+        "title":  "MotoGP Racing",
         "desc":  "",
-        "end":  "2026-08-28T23:00:00.0000000"
+        "end":  "2026-08-29T21:30:00.0000000"
     },
     {
-        "start":  "2026-08-28T23:00:00.0000000",
-        "title":  "Live: Canadian Premier League Soccer",
+        "start":  "2026-08-29T21:30:00.0000000",
+        "title":  "All In: Indycar",
         "desc":  "",
-        "end":  "2026-08-29T00:00:00.0000000"
+        "end":  "2026-08-29T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T22:00:00.0000000",
+        "title":  "Indy NXT Series",
+        "desc":  "",
+        "end":  "2026-08-29T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T23:00:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "",
+        "end":  "2026-08-30T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T00:00:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "",
+        "end":  "2026-08-31T00:00:00.0000000"
     },
     {
         "start":  "2026-08-29T01:00:00.0000000",
@@ -345,36 +273,162 @@
         "start":  "2026-08-29T04:00:00.0000000",
         "title":  "The Joel Klatt Show: Big Noon Conversations - RGIII \u0026 Brady Quinn",
         "desc":  "",
-        "end":  "2026-08-30T00:00:00.0000000"
+        "end":  "2026-08-29T05:13:00.0000000"
     },
     {
-        "start":  "2026-08-29T01:00:00.0000000",
-        "title":  "STIHL Timbersports",
-        "desc":  "",
-        "end":  "2026-08-29T01:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-29T01:30:00.0000000",
-        "title":  "STIHL Timbersports",
-        "desc":  "",
-        "end":  "2026-08-29T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-29T02:00:00.0000000",
-        "title":  "STIHL Timbersports",
-        "desc":  "",
-        "end":  "2026-08-29T02:43:00.0000000"
-    },
-    {
-        "start":  "2026-08-29T02:43:00.0000000",
+        "start":  "2026-08-29T05:13:00.0000000",
         "title":  "Live: NRL Women\u0027s Premiership",
         "desc":  "",
-        "end":  "2026-08-29T04:00:00.0000000"
+        "end":  "2026-08-29T06:30:00.0000000"
     },
     {
-        "start":  "2026-08-29T04:00:00.0000000",
-        "title":  "The Joel Klatt Show: Big Noon Conversations - RGIII \u0026 Brady Quinn",
+        "start":  "2026-08-29T06:30:00.0000000",
+        "title":  "The Clay Travis Show",
+        "desc":  "",
+        "end":  "2026-08-29T07:13:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T07:13:00.0000000",
+        "title":  "Live: NRL Women\u0027s Premiership",
+        "desc":  "",
+        "end":  "2026-08-29T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T08:30:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "",
+        "end":  "2026-08-29T09:21:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T09:21:00.0000000",
+        "title":  "Live: AFL Premiership Football",
+        "desc":  "",
+        "end":  "2026-08-29T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T12:30:00.0000000",
+        "title":  "SPEED With Harvick \u0026 Buxton",
+        "desc":  "",
+        "end":  "2026-08-29T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T13:00:00.0000000",
+        "title":  "Live: Indy NXT Series",
+        "desc":  "",
+        "end":  "2026-08-29T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T14:00:00.0000000",
+        "title":  "Kevin Harvick\u0027s Happy Hour",
+        "desc":  "",
+        "end":  "2026-08-29T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T14:30:00.0000000",
+        "title":  "SPEED With Harvick \u0026 Buxton",
+        "desc":  "",
+        "end":  "2026-08-29T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T15:00:00.0000000",
+        "title":  "Live: Horse Racing",
+        "desc":  "",
+        "end":  "2026-08-29T17:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T17:30:00.0000000",
+        "title":  "EWC Paris: Rise Above",
+        "desc":  "",
+        "end":  "2026-08-29T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T18:00:00.0000000",
+        "title":  "Professional Triathletes Organisation",
+        "desc":  "",
+        "end":  "2026-08-29T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T18:30:00.0000000",
+        "title":  "Professional Triathletes Organisation",
+        "desc":  "",
+        "end":  "2026-08-29T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T19:00:00.0000000",
+        "title":  "Live: Horse Racing",
+        "desc":  "",
+        "end":  "2026-08-29T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T21:00:00.0000000",
+        "title":  "MotoGP Racing",
+        "desc":  "",
+        "end":  "2026-08-29T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T21:30:00.0000000",
+        "title":  "All In: Indycar",
+        "desc":  "",
+        "end":  "2026-08-29T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T22:00:00.0000000",
+        "title":  "Indy NXT Series",
+        "desc":  "",
+        "end":  "2026-08-29T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-29T23:00:00.0000000",
+        "title":  "Wild World of Western Sports",
         "desc":  "",
         "end":  "2026-08-30T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T00:00:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "",
+        "end":  "2026-08-30T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T01:00:00.0000000",
+        "title":  "Pokerstars Big Game on Tour",
+        "desc":  "",
+        "end":  "2026-08-30T01:48:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T01:48:00.0000000",
+        "title":  "Live: NRL Women\u0027s Premiership",
+        "desc":  "",
+        "end":  "2026-08-30T03:43:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T03:43:00.0000000",
+        "title":  "Live: NRL Women\u0027s Premiership",
+        "desc":  "",
+        "end":  "2026-08-31T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T00:00:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "",
+        "end":  "2026-08-30T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T01:00:00.0000000",
+        "title":  "Pokerstars Big Game on Tour",
+        "desc":  "",
+        "end":  "2026-08-30T01:48:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T01:48:00.0000000",
+        "title":  "Live: NRL Women\u0027s Premiership",
+        "desc":  "",
+        "end":  "2026-08-30T03:43:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T03:43:00.0000000",
+        "title":  "Live: NRL Women\u0027s Premiership",
+        "desc":  "",
+        "end":  "2026-08-31T00:00:00.0000000"
     }
 ]
