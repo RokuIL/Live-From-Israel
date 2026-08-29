@@ -1,179 +1,5 @@
 [
     {
-        "start":  "2026-08-28T00:00:00.0000000",
-        "title":  "The Dan Patrick Show",
-        "desc":  "",
-        "end":  "2026-08-28T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T03:00:00.0000000",
-        "title":  "National Heads-Up Poker Championship",
-        "desc":  "",
-        "end":  "2026-08-28T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T04:00:00.0000000",
-        "title":  "The Dan Le Batard Show",
-        "desc":  "",
-        "end":  "2026-08-28T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T07:00:00.0000000",
-        "title":  "PFT Live",
-        "desc":  "",
-        "end":  "2026-08-28T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T09:00:00.0000000",
-        "title":  "Chris Simms Unbuttoned",
-        "desc":  "",
-        "end":  "2026-08-28T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T10:00:00.0000000",
-        "title":  "Premier League on NBC Highlights Factory",
-        "desc":  "",
-        "end":  "2026-08-28T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T11:00:00.0000000",
-        "title":  "PFT Live",
-        "desc":  "",
-        "end":  "2026-08-28T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T13:00:00.0000000",
-        "title":  "The Dan Patrick Show",
-        "desc":  "",
-        "end":  "2026-08-28T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T16:00:00.0000000",
-        "title":  "The Dan Le Batard Show",
-        "desc":  "",
-        "end":  "2026-08-28T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T19:00:00.0000000",
-        "title":  "Chris Simms Unbuttoned",
-        "desc":  "",
-        "end":  "2026-08-28T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-28T20:00:00.0000000",
-        "title":  "PFT Live",
-        "desc":  "",
-        "end":  "2026-08-29T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-29T00:00:00.0000000",
-        "title":  "National Heads-Up Poker Championship",
-        "desc":  "",
-        "end":  "2026-08-29T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-29T01:00:00.0000000",
-        "title":  "National Heads-Up Poker Championship",
-        "desc":  "",
-        "end":  "2026-08-29T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-29T02:00:00.0000000",
-        "title":  "National Heads-Up Poker Championship",
-        "desc":  "",
-        "end":  "2026-08-29T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-29T03:00:00.0000000",
-        "title":  "National Heads-Up Poker Championship",
-        "desc":  "",
-        "end":  "2026-08-29T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-29T04:00:00.0000000",
-        "title":  "National Heads-Up Poker Championship",
-        "desc":  "",
-        "end":  "2026-08-29T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-29T05:00:00.0000000",
-        "title":  "National Heads-Up Poker Championship",
-        "desc":  "",
-        "end":  "2026-08-29T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-29T06:00:00.0000000",
-        "title":  "The Dan Patrick Show",
-        "desc":  "",
-        "end":  "2026-08-29T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-29T09:00:00.0000000",
-        "title":  "MLB According to CC",
-        "desc":  "",
-        "end":  "2026-08-29T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-29T09:30:00.0000000",
-        "title":  "NBC Sports Highlights Factory",
-        "desc":  "",
-        "end":  "2026-08-29T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-29T10:00:00.0000000",
-        "title":  "Premier League on NBC Highlights Factory",
-        "desc":  "",
-        "end":  "2026-08-29T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-29T11:00:00.0000000",
-        "title":  "The Dan Patrick Show",
-        "desc":  "",
-        "end":  "2026-08-29T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-29T14:00:00.0000000",
-        "title":  "PFT Live",
-        "desc":  "",
-        "end":  "2026-08-29T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-29T18:00:00.0000000",
-        "title":  "Chris Simms Unbuttoned",
-        "desc":  "",
-        "end":  "2026-08-29T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-29T19:00:00.0000000",
-        "title":  "Premier League on NBC Highlights Factory",
-        "desc":  "",
-        "end":  "2026-08-29T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-29T20:00:00.0000000",
-        "title":  "NBC Sports Highlights Factory",
-        "desc":  "",
-        "end":  "2026-08-29T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-29T20:30:00.0000000",
-        "title":  "Premier League on NBC Highlights Factory",
-        "desc":  "",
-        "end":  "2026-08-29T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-08-29T21:30:00.0000000",
-        "title":  "MLB According to CC",
-        "desc":  "",
-        "end":  "2026-08-29T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-08-29T22:00:00.0000000",
-        "title":  "Pro Motocross Championship",
-        "desc":  "",
-        "end":  "2026-08-30T00:00:00.0000000"
-    },
-    {
         "start":  "2026-08-29T00:00:00.0000000",
         "title":  "National Heads-Up Poker Championship",
         "desc":  "",
@@ -303,7 +129,61 @@
         "start":  "2026-08-30T09:00:00.0000000",
         "title":  "WNBA on NBC Highlights Factory",
         "desc":  "",
+        "end":  "2026-08-30T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T09:30:00.0000000",
+        "title":  "WNBA on NBC Highlights Factory",
+        "desc":  "",
+        "end":  "2026-08-30T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T10:00:00.0000000",
+        "title":  "PFT Live",
+        "desc":  "",
+        "end":  "2026-08-30T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T14:00:00.0000000",
+        "title":  "The Dan Patrick Show",
+        "desc":  "",
+        "end":  "2026-08-30T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T17:00:00.0000000",
+        "title":  "Pro Motocross Championship",
+        "desc":  "",
+        "end":  "2026-08-30T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T22:00:00.0000000",
+        "title":  "WNBA on NBC Highlights Factory",
+        "desc":  "",
+        "end":  "2026-08-30T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T22:30:00.0000000",
+        "title":  "WNBA on NBC Highlights Factory",
+        "desc":  "",
+        "end":  "2026-08-30T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T23:00:00.0000000",
+        "title":  "WNBA on NBC Highlights Factory",
+        "desc":  "",
+        "end":  "2026-08-30T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T23:30:00.0000000",
+        "title":  "WNBA on NBC Highlights Factory",
+        "desc":  "",
         "end":  "2026-08-31T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-31T00:00:00.0000000",
+        "title":  "Chris Simms Unbuttoned",
+        "desc":  "",
+        "end":  "2026-09-01T00:00:00.0000000"
     },
     {
         "start":  "2026-08-30T03:00:00.0000000",
@@ -327,6 +207,174 @@
         "start":  "2026-08-30T09:00:00.0000000",
         "title":  "WNBA on NBC Highlights Factory",
         "desc":  "",
+        "end":  "2026-08-30T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T09:30:00.0000000",
+        "title":  "WNBA on NBC Highlights Factory",
+        "desc":  "",
+        "end":  "2026-08-30T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T10:00:00.0000000",
+        "title":  "PFT Live",
+        "desc":  "",
+        "end":  "2026-08-30T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T14:00:00.0000000",
+        "title":  "The Dan Patrick Show",
+        "desc":  "",
+        "end":  "2026-08-30T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T17:00:00.0000000",
+        "title":  "Pro Motocross Championship",
+        "desc":  "",
+        "end":  "2026-08-30T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T22:00:00.0000000",
+        "title":  "WNBA on NBC Highlights Factory",
+        "desc":  "",
+        "end":  "2026-08-30T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T22:30:00.0000000",
+        "title":  "WNBA on NBC Highlights Factory",
+        "desc":  "",
+        "end":  "2026-08-30T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T23:00:00.0000000",
+        "title":  "WNBA on NBC Highlights Factory",
+        "desc":  "",
+        "end":  "2026-08-30T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-30T23:30:00.0000000",
+        "title":  "WNBA on NBC Highlights Factory",
+        "desc":  "",
         "end":  "2026-08-31T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-31T00:00:00.0000000",
+        "title":  "Chris Simms Unbuttoned",
+        "desc":  "",
+        "end":  "2026-08-31T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-31T03:00:00.0000000",
+        "title":  "Chris Simms Unbuttoned",
+        "desc":  "",
+        "end":  "2026-08-31T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-31T04:00:00.0000000",
+        "title":  "Incredible Dog Challenge",
+        "desc":  "",
+        "end":  "2026-08-31T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-31T05:00:00.0000000",
+        "title":  "MLB According to CC",
+        "desc":  "",
+        "end":  "2026-08-31T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-31T05:30:00.0000000",
+        "title":  "WNBA on NBC Highlights Factory",
+        "desc":  "",
+        "end":  "2026-08-31T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-31T06:00:00.0000000",
+        "title":  "WNBA on NBC Highlights Factory",
+        "desc":  "",
+        "end":  "2026-08-31T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-31T06:30:00.0000000",
+        "title":  "WNBA on NBC Highlights Factory",
+        "desc":  "",
+        "end":  "2026-08-31T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-31T07:00:00.0000000",
+        "title":  "WNBA on NBC Highlights Factory",
+        "desc":  "",
+        "end":  "2026-08-31T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-31T07:30:00.0000000",
+        "title":  "MLB According to CC",
+        "desc":  "",
+        "end":  "2026-08-31T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-31T08:00:00.0000000",
+        "title":  "Chris Simms Unbuttoned",
+        "desc":  "",
+        "end":  "2026-09-01T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-31T00:00:00.0000000",
+        "title":  "Chris Simms Unbuttoned",
+        "desc":  "",
+        "end":  "2026-08-31T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-31T03:00:00.0000000",
+        "title":  "Chris Simms Unbuttoned",
+        "desc":  "",
+        "end":  "2026-08-31T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-31T04:00:00.0000000",
+        "title":  "Incredible Dog Challenge",
+        "desc":  "",
+        "end":  "2026-08-31T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-31T05:00:00.0000000",
+        "title":  "MLB According to CC",
+        "desc":  "",
+        "end":  "2026-08-31T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-31T05:30:00.0000000",
+        "title":  "WNBA on NBC Highlights Factory",
+        "desc":  "",
+        "end":  "2026-08-31T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-31T06:00:00.0000000",
+        "title":  "WNBA on NBC Highlights Factory",
+        "desc":  "",
+        "end":  "2026-08-31T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-31T06:30:00.0000000",
+        "title":  "WNBA on NBC Highlights Factory",
+        "desc":  "",
+        "end":  "2026-08-31T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-31T07:00:00.0000000",
+        "title":  "WNBA on NBC Highlights Factory",
+        "desc":  "",
+        "end":  "2026-08-31T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-08-31T07:30:00.0000000",
+        "title":  "MLB According to CC",
+        "desc":  "",
+        "end":  "2026-08-31T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-08-31T08:00:00.0000000",
+        "title":  "Chris Simms Unbuttoned",
+        "desc":  "",
+        "end":  "2026-09-01T00:00:00.0000000"
     }
 ]
