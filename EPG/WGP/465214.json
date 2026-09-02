@@ -1,173 +1,5 @@
 [
     {
-        "start":  "2026-09-01T00:30:00.0000000",
-        "title":  "Italian Serie B Soccer",
-        "desc":  "",
-        "end":  "2026-09-01T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-01T02:30:00.0000000",
-        "title":  "CPL Week in Review",
-        "desc":  "",
-        "end":  "2026-09-01T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-01T03:00:00.0000000",
-        "title":  "OneSoccer Match Night",
-        "desc":  "",
-        "end":  "2026-09-01T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-01T04:00:00.0000000",
-        "title":  "AFL Mini Matches",
-        "desc":  "",
-        "end":  "2026-09-01T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-01T04:30:00.0000000",
-        "title":  "AFL Mini Matches",
-        "desc":  "",
-        "end":  "2026-09-01T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-01T05:00:00.0000000",
-        "title":  "Serie A Women\u0027s Cup Soccer",
-        "desc":  "",
-        "end":  "2026-09-01T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-01T07:00:00.0000000",
-        "title":  "Italian Serie B Soccer",
-        "desc":  "",
-        "end":  "2026-09-01T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-01T09:00:00.0000000",
-        "title":  "Italian Serie B Soccer",
-        "desc":  "",
-        "end":  "2026-09-01T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-01T11:00:00.0000000",
-        "title":  "Serie A Women\u0027s Cup Soccer",
-        "desc":  "",
-        "end":  "2026-09-01T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-01T13:00:00.0000000",
-        "title":  "Rugby Super League",
-        "desc":  "",
-        "end":  "2026-09-01T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-01T15:00:00.0000000",
-        "title":  "AFL Women\u0027s Premiership Football",
-        "desc":  "",
-        "end":  "2026-09-01T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-01T17:00:00.0000000",
-        "title":  "AFL Women\u0027s Premiership Football",
-        "desc":  "",
-        "end":  "2026-09-01T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-01T19:00:00.0000000",
-        "title":  "AFL Women\u0027s Premiership Football",
-        "desc":  "",
-        "end":  "2026-09-01T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-01T21:00:00.0000000",
-        "title":  "Rugby Super League",
-        "desc":  "",
-        "end":  "2026-09-01T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-01T23:00:00.0000000",
-        "title":  "Rugby Super League",
-        "desc":  "",
-        "end":  "2026-09-02T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T01:00:00.0000000",
-        "title":  "Saudi League Soccer",
-        "desc":  "",
-        "end":  "2026-09-02T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T03:00:00.0000000",
-        "title":  "Canadian Championship",
-        "desc":  "",
-        "end":  "2026-09-02T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T05:00:00.0000000",
-        "title":  "AFL Women\u0027s Premiership Football",
-        "desc":  "",
-        "end":  "2026-09-02T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T07:00:00.0000000",
-        "title":  "NRL Women\u0027s Premiership",
-        "desc":  "",
-        "end":  "2026-09-02T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T08:30:00.0000000",
-        "title":  "NRL Women\u0027s Premiership",
-        "desc":  "",
-        "end":  "2026-09-02T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T10:00:00.0000000",
-        "title":  "NRL Women\u0027s Premiership",
-        "desc":  "",
-        "end":  "2026-09-02T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T11:30:00.0000000",
-        "title":  "Rugby Super League",
-        "desc":  "",
-        "end":  "2026-09-02T13:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T13:30:00.0000000",
-        "title":  "Rugby Super League",
-        "desc":  "",
-        "end":  "2026-09-02T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T15:30:00.0000000",
-        "title":  "NRL Women\u0027s Premiership",
-        "desc":  "",
-        "end":  "2026-09-02T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T17:00:00.0000000",
-        "title":  "NRL Women\u0027s Premiership",
-        "desc":  "",
-        "end":  "2026-09-02T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T18:30:00.0000000",
-        "title":  "AFL Women\u0027s Premiership Football",
-        "desc":  "",
-        "end":  "2026-09-02T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T20:30:00.0000000",
-        "title":  "Rugby Super League",
-        "desc":  "",
-        "end":  "2026-09-02T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T22:30:00.0000000",
-        "title":  "Italian Serie B Soccer",
-        "desc":  "",
-        "end":  "2026-09-03T00:00:00.0000000"
-    },
-    {
         "start":  "2026-09-02T01:00:00.0000000",
         "title":  "Saudi League Soccer",
         "desc":  "",
@@ -273,7 +105,67 @@
         "start":  "2026-09-03T04:00:00.0000000",
         "title":  "AFL Women\u0027s Premiership Football",
         "desc":  "",
+        "end":  "2026-09-03T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-03T06:00:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "",
+        "end":  "2026-09-03T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-03T08:00:00.0000000",
+        "title":  "Canadian Championship",
+        "desc":  "",
+        "end":  "2026-09-03T09:48:00.0000000"
+    },
+    {
+        "start":  "2026-09-03T09:48:00.0000000",
+        "title":  "Live: NRL Rugby",
+        "desc":  "",
+        "end":  "2026-09-03T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-03T12:00:00.0000000",
+        "title":  "An American Rugby Odyssey",
+        "desc":  "",
+        "end":  "2026-09-03T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-03T13:00:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "",
+        "end":  "2026-09-03T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-03T15:00:00.0000000",
+        "title":  "AFL Premiership Football",
+        "desc":  "",
+        "end":  "2026-09-03T17:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-03T17:45:00.0000000",
+        "title":  "Live: Saudi League Soccer",
+        "desc":  "",
+        "end":  "2026-09-03T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-03T20:00:00.0000000",
+        "title":  "Canadian Championship",
+        "desc":  "",
+        "end":  "2026-09-03T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-03T22:00:00.0000000",
+        "title":  "Canadian Championship",
+        "desc":  "",
         "end":  "2026-09-04T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-04T00:00:00.0000000",
+        "title":  "Rugby Super League",
+        "desc":  "",
+        "end":  "2026-09-05T00:00:00.0000000"
     },
     {
         "start":  "2026-09-03T00:30:00.0000000",
@@ -303,6 +195,96 @@
         "start":  "2026-09-03T04:00:00.0000000",
         "title":  "AFL Women\u0027s Premiership Football",
         "desc":  "",
+        "end":  "2026-09-03T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-03T06:00:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "",
+        "end":  "2026-09-03T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-03T08:00:00.0000000",
+        "title":  "Canadian Championship",
+        "desc":  "",
+        "end":  "2026-09-03T09:48:00.0000000"
+    },
+    {
+        "start":  "2026-09-03T09:48:00.0000000",
+        "title":  "Live: NRL Rugby",
+        "desc":  "",
+        "end":  "2026-09-03T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-03T12:00:00.0000000",
+        "title":  "An American Rugby Odyssey",
+        "desc":  "",
+        "end":  "2026-09-03T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-03T13:00:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "",
+        "end":  "2026-09-03T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-03T15:00:00.0000000",
+        "title":  "AFL Premiership Football",
+        "desc":  "",
+        "end":  "2026-09-03T17:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-03T17:45:00.0000000",
+        "title":  "Live: Saudi League Soccer",
+        "desc":  "",
+        "end":  "2026-09-03T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-03T20:00:00.0000000",
+        "title":  "Canadian Championship",
+        "desc":  "",
+        "end":  "2026-09-03T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-03T22:00:00.0000000",
+        "title":  "Canadian Championship",
+        "desc":  "",
         "end":  "2026-09-04T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-04T00:00:00.0000000",
+        "title":  "Rugby Super League",
+        "desc":  "",
+        "end":  "2026-09-04T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-04T02:00:00.0000000",
+        "title":  "Saudi League Soccer",
+        "desc":  "",
+        "end":  "2026-09-04T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-04T04:00:00.0000000",
+        "title":  "NRL Rugby",
+        "desc":  "",
+        "end":  "2026-09-05T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-04T00:00:00.0000000",
+        "title":  "Rugby Super League",
+        "desc":  "",
+        "end":  "2026-09-04T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-04T02:00:00.0000000",
+        "title":  "Saudi League Soccer",
+        "desc":  "",
+        "end":  "2026-09-04T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-04T04:00:00.0000000",
+        "title":  "NRL Rugby",
+        "desc":  "",
+        "end":  "2026-09-05T00:00:00.0000000"
     }
 ]
