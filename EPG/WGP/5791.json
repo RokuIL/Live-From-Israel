@@ -1,539 +1,5 @@
 [
     {
-        "start":  "2026-09-02T00:00:00.0000000",
-        "title":  "EFL Cup. Round 2: TBA v TBA",
-        "desc":  "",
-        "end":  "2026-09-02T00:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T00:30:00.0000000",
-        "title":  "SPFL Round-Up. Series 2026 Episode 3",
-        "desc":  "",
-        "end":  "2026-09-02T00:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T00:45:00.0000000",
-        "title":  "Scottish Premiership Football. Aberdeen v Rangers",
-        "desc":  "",
-        "end":  "2026-09-02T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T01:00:00.0000000",
-        "title":  "EFL. The Championship Play-Off, Final",
-        "desc":  "",
-        "end":  "2026-09-02T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T02:00:00.0000000",
-        "title":  "Scottish Premiership Football. Rangers v Celtic",
-        "desc":  "",
-        "end":  "2026-09-02T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T02:30:00.0000000",
-        "title":  "EFL Greatest. 2015: Derby County v Nottingham Forest",
-        "desc":  "",
-        "end":  "2026-09-02T02:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T02:45:00.0000000",
-        "title":  "EFL Greatest. 2015: Norwich City v Ipswich Town",
-        "desc":  "",
-        "end":  "2026-09-02T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T03:00:00.0000000",
-        "title":  "EFL Cup Football. 2020 Final: Aston Villa V Manchester City",
-        "desc":  "",
-        "end":  "2026-09-02T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T05:00:00.0000000",
-        "title":  "Retro League One. 2019 Play-Off Final: Charlton Athletic v Sunderland",
-        "desc":  "",
-        "end":  "2026-09-02T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T07:00:00.0000000",
-        "title":  "Best Moments from the Championship Play-Off Final: 1993-2019",
-        "desc":  "",
-        "end":  "2026-09-02T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T07:30:00.0000000",
-        "title":  "Best Moments from the League 1 and 2 Play-Off Final (1993-2019)",
-        "desc":  "",
-        "end":  "2026-09-02T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T08:00:00.0000000",
-        "title":  "Scottish Premiership Football. Rangers v Celtic",
-        "desc":  "",
-        "end":  "2026-09-02T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T08:30:00.0000000",
-        "title":  "EFL Greatest. 2015: Wolverhampton Wanderers v Leeds United",
-        "desc":  "",
-        "end":  "2026-09-02T08:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T08:45:00.0000000",
-        "title":  "EFL Greatest. 2015: Swindon Town v Sheffield United",
-        "desc":  "",
-        "end":  "2026-09-02T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T09:00:00.0000000",
-        "title":  "Carabao Cup Football. Final: Arsenal v Manchester City",
-        "desc":  "",
-        "end":  "2026-09-02T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T09:30:00.0000000",
-        "title":  "The Best Championship Goals. 2017/18",
-        "desc":  "",
-        "end":  "2026-09-02T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T10:00:00.0000000",
-        "title":  "EFL Championship. Stoke City v Norwich City",
-        "desc":  "",
-        "end":  "2026-09-02T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T12:00:00.0000000",
-        "title":  "EFL Greatest. 2017: Huddersfield Town v Reading",
-        "desc":  "",
-        "end":  "2026-09-02T12:10:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T12:10:00.0000000",
-        "title":  "EFL Greatest. Ipswich Town v Southampton",
-        "desc":  "",
-        "end":  "2026-09-02T12:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T12:15:00.0000000",
-        "title":  "EFL Cup. Round 2: TBA v TBA",
-        "desc":  "",
-        "end":  "2026-09-02T12:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T12:45:00.0000000",
-        "title":  "EFL Championship. Cardiff City v Sheffield United",
-        "desc":  "",
-        "end":  "2026-09-02T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T13:00:00.0000000",
-        "title":  "EFL Championship. Charlton Athletic v Preston North End",
-        "desc":  "",
-        "end":  "2026-09-02T13:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T13:15:00.0000000",
-        "title":  "EFL Championship. Norwich City v Burnley",
-        "desc":  "",
-        "end":  "2026-09-02T13:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T13:30:00.0000000",
-        "title":  "Bundesliga Highlights",
-        "desc":  "",
-        "end":  "2026-09-02T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T14:30:00.0000000",
-        "title":  "EFL Cup. Round 2: TBA v TBA",
-        "desc":  "",
-        "end":  "2026-09-02T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T15:00:00.0000000",
-        "title":  "EFL Championship. Stoke City v Norwich City",
-        "desc":  "",
-        "end":  "2026-09-02T15:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T15:15:00.0000000",
-        "title":  "EFL Championship. Birmingham City v Southampton",
-        "desc":  "",
-        "end":  "2026-09-02T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T15:30:00.0000000",
-        "title":  "SPFL Round-Up. Series 2026 Episode 3",
-        "desc":  "",
-        "end":  "2026-09-02T15:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T15:45:00.0000000",
-        "title":  "Scottish Premiership Football. Aberdeen v Rangers",
-        "desc":  "",
-        "end":  "2026-09-02T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T16:00:00.0000000",
-        "title":  "EFL Championship. Lincoln City v Blackburn Rovers",
-        "desc":  "",
-        "end":  "2026-09-02T16:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T16:15:00.0000000",
-        "title":  "EFL Championship. Portsmouth v Derby County",
-        "desc":  "",
-        "end":  "2026-09-02T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T16:30:00.0000000",
-        "title":  "EFL Championship. Preston North End v Bristol City",
-        "desc":  "",
-        "end":  "2026-09-02T16:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T16:45:00.0000000",
-        "title":  "EFL Championship. Sheffield United v Bolton Wanderers",
-        "desc":  "",
-        "end":  "2026-09-02T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T17:00:00.0000000",
-        "title":  "Bundesliga Highlights",
-        "desc":  "",
-        "end":  "2026-09-02T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T18:00:00.0000000",
-        "title":  "â‹— Scottish Premiership Football. Falkirk v Rangers",
-        "desc":  "",
-        "end":  "2026-09-02T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T22:00:00.0000000",
-        "title":  "EFL Championship. Preston North End v Bristol City",
-        "desc":  "",
-        "end":  "2026-09-02T22:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T22:15:00.0000000",
-        "title":  "EFL Championship. Sheffield United v Bolton Wanderers",
-        "desc":  "",
-        "end":  "2026-09-02T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T22:30:00.0000000",
-        "title":  "EFL Championship. Stoke City v Norwich City",
-        "desc":  "",
-        "end":  "2026-09-02T22:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T22:45:00.0000000",
-        "title":  "EFL Championship. Birmingham City v Southampton",
-        "desc":  "",
-        "end":  "2026-09-02T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-02T23:00:00.0000000",
-        "title":  "EFL. League Two Play-Off Final",
-        "desc":  "",
-        "end":  "2026-09-03T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T00:00:00.0000000",
-        "title":  "EFL. League One Play-Off Final",
-        "desc":  "",
-        "end":  "2026-09-03T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T01:00:00.0000000",
-        "title":  "EFL. The Championship Play-Off Final",
-        "desc":  "",
-        "end":  "2026-09-03T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T02:00:00.0000000",
-        "title":  "Scottish Premiership Football. Celtic v Rangers",
-        "desc":  "",
-        "end":  "2026-09-03T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T02:30:00.0000000",
-        "title":  "EFL Greatest. 2015: Hull City v Reading",
-        "desc":  "",
-        "end":  "2026-09-03T02:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T02:45:00.0000000",
-        "title":  "EFL Greatest. 2016: Queens Park Rangers v Middlesbrough",
-        "desc":  "",
-        "end":  "2026-09-03T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T03:00:00.0000000",
-        "title":  "SPFL Greatest. 2010: Motherwell v Hibernian",
-        "desc":  "",
-        "end":  "2026-09-03T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T05:00:00.0000000",
-        "title":  "Championship Retro. 2019 Play-Off Semi-Final: Leeds United v Derby County",
-        "desc":  "",
-        "end":  "2026-09-03T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T07:00:00.0000000",
-        "title":  "EFL Play-Off Classics. 2010: Cardiff v Leicester",
-        "desc":  "",
-        "end":  "2026-09-03T07:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T07:15:00.0000000",
-        "title":  "EFL Play-Off Classics. 2010: Blackpool v Cardiff",
-        "desc":  "",
-        "end":  "2026-09-03T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T07:30:00.0000000",
-        "title":  "EFL Play-Off Classics. 2012: Blackpool v West Ham",
-        "desc":  "",
-        "end":  "2026-09-03T07:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T07:45:00.0000000",
-        "title":  "EFL Play-Off Classics. 2013: Watford v Leicester",
-        "desc":  "",
-        "end":  "2026-09-03T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T08:00:00.0000000",
-        "title":  "Scottish Premiership Football. Rangers v Celtic",
-        "desc":  "",
-        "end":  "2026-09-03T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T08:30:00.0000000",
-        "title":  "EFL Greatest. 2016: Birmingham City v Middlesbrough",
-        "desc":  "",
-        "end":  "2026-09-03T08:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T08:45:00.0000000",
-        "title":  "EFL Greatest. 2016: Middlesbrough v Brighton \u0026 Hove Albion",
-        "desc":  "",
-        "end":  "2026-09-03T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T09:00:00.0000000",
-        "title":  "Carabao Cup Football. Final: Chelsea v Manchester City",
-        "desc":  "",
-        "end":  "2026-09-03T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T10:00:00.0000000",
-        "title":  "EFL Championship. Burnley v Middlesbrough",
-        "desc":  "",
-        "end":  "2026-09-03T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T12:00:00.0000000",
-        "title":  "EFL Greatest. 2017 EFL Cup: Manchester United v Southampton",
-        "desc":  "",
-        "end":  "2026-09-03T12:10:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T12:10:00.0000000",
-        "title":  "EFL Greatest. 2009/10: Nottingham Forest v Blackpool",
-        "desc":  "",
-        "end":  "2026-09-03T12:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T12:15:00.0000000",
-        "title":  "EFL Cup. Round 2: TBA v TBA",
-        "desc":  "",
-        "end":  "2026-09-03T12:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T12:45:00.0000000",
-        "title":  "Scottish Premiership Football. Falkirk v Rangers",
-        "desc":  "",
-        "end":  "2026-09-03T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T13:00:00.0000000",
-        "title":  "â‹— The World Football Show",
-        "desc":  "",
-        "end":  "2026-09-03T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T14:00:00.0000000",
-        "title":  "EFL Championship. Preston North End v Bristol City",
-        "desc":  "",
-        "end":  "2026-09-03T14:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T14:15:00.0000000",
-        "title":  "EFL Championship. Sheffield United v Bolton Wanderers",
-        "desc":  "",
-        "end":  "2026-09-03T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T14:30:00.0000000",
-        "title":  "Bundesliga Highlights",
-        "desc":  "",
-        "end":  "2026-09-03T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T15:30:00.0000000",
-        "title":  "EFL Championship. Swansea City v Watford",
-        "desc":  "",
-        "end":  "2026-09-03T15:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T15:45:00.0000000",
-        "title":  "EFL Championship. West Ham United v Wolverhampton Wanderers",
-        "desc":  "",
-        "end":  "2026-09-03T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T16:00:00.0000000",
-        "title":  "EFL Championship. Burnley v Middlesbrough",
-        "desc":  "",
-        "end":  "2026-09-03T16:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T16:15:00.0000000",
-        "title":  "EFL Championship. Millwall v Wrexham",
-        "desc":  "",
-        "end":  "2026-09-03T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T16:30:00.0000000",
-        "title":  "EFL Championship. Queens Park Rangers v Cardiff City",
-        "desc":  "",
-        "end":  "2026-09-03T16:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T16:45:00.0000000",
-        "title":  "EFL Championship. West Bromwich Albion v Charlton Athletic",
-        "desc":  "",
-        "end":  "2026-09-03T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T17:00:00.0000000",
-        "title":  "EFL Championship. Swansea City v Watford",
-        "desc":  "",
-        "end":  "2026-09-03T17:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T17:15:00.0000000",
-        "title":  "EFL Championship. West Ham United v Wolverhampton Wanderers",
-        "desc":  "",
-        "end":  "2026-09-03T17:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T17:30:00.0000000",
-        "title":  "Bundesliga Weekly",
-        "desc":  "",
-        "end":  "2026-09-03T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T18:00:00.0000000",
-        "title":  "EFL League One. Goals",
-        "desc":  "",
-        "end":  "2026-09-03T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T18:30:00.0000000",
-        "title":  "EFL League Two. Goals",
-        "desc":  "",
-        "end":  "2026-09-03T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T19:00:00.0000000",
-        "title":  "EFL Championship. West Bromwich Albion v Charlton Athletic",
-        "desc":  "",
-        "end":  "2026-09-03T19:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T19:15:00.0000000",
-        "title":  "Scottish Premiership Football. Falkirk v Rangers",
-        "desc":  "",
-        "end":  "2026-09-03T19:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T19:30:00.0000000",
-        "title":  "EFL Championship. Burnley v Middlesbrough",
-        "desc":  "",
-        "end":  "2026-09-03T19:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T19:45:00.0000000",
-        "title":  "EFL Championship. Millwall v Wrexham",
-        "desc":  "",
-        "end":  "2026-09-03T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T20:00:00.0000000",
-        "title":  "EFL Championship. Queens Park Rangers v Cardiff City",
-        "desc":  "",
-        "end":  "2026-09-03T20:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T20:15:00.0000000",
-        "title":  "EFL Championship. West Bromwich Albion v Charlton Athletic",
-        "desc":  "",
-        "end":  "2026-09-03T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T20:30:00.0000000",
-        "title":  "EFL Championship. Swansea City v Watford",
-        "desc":  "",
-        "end":  "2026-09-03T20:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T20:45:00.0000000",
-        "title":  "EFL Championship. West Ham United v Wolverhampton Wanderers",
-        "desc":  "",
-        "end":  "2026-09-03T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T21:00:00.0000000",
-        "title":  "Bundesliga Weekly",
-        "desc":  "",
-        "end":  "2026-09-03T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T21:30:00.0000000",
-        "title":  "EFL League One. Goals",
-        "desc":  "",
-        "end":  "2026-09-03T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T22:00:00.0000000",
-        "title":  "EFL League Two. Goals",
-        "desc":  "",
-        "end":  "2026-09-03T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T22:30:00.0000000",
-        "title":  "EFL Championship. Burnley v Middlesbrough",
-        "desc":  "",
-        "end":  "2026-09-03T22:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T22:45:00.0000000",
-        "title":  "EFL Championship. Millwall v Wrexham",
-        "desc":  "",
-        "end":  "2026-09-03T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-03T23:00:00.0000000",
-        "title":  "EFL Cup Football. Final 2008: Chelsea v Tottenham Hotspur",
-        "desc":  "",
-        "end":  "2026-09-04T00:00:00.0000000"
-    },
-    {
         "start":  "2026-09-03T00:00:00.0000000",
         "title":  "EFL. League One Play-Off Final",
         "desc":  "",
@@ -1606,5 +1072,575 @@
         "title":  "EFL Championship. West Bromwich Albion v Watford",
         "desc":  "",
         "end":  "2026-09-07T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T01:45:00.0000000",
+        "title":  "EFL Play-Off Classics. 1999: Gillingham v Manchester City",
+        "desc":  "",
+        "end":  "2026-09-05T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T02:00:00.0000000",
+        "title":  "SPFL Greatest. 1999: Rangers v Celtic",
+        "desc":  "",
+        "end":  "2026-09-05T02:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T02:15:00.0000000",
+        "title":  "SPFL Greatest. 2000: Celtic v Rangers",
+        "desc":  "",
+        "end":  "2026-09-05T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T02:30:00.0000000",
+        "title":  "EFL Greatest. 2014: Queens Park Rangers v Nottingham Forest",
+        "desc":  "",
+        "end":  "2026-09-05T02:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T02:45:00.0000000",
+        "title":  "EFL Greatest. 2014: Brentford v Fulham",
+        "desc":  "",
+        "end":  "2026-09-05T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T03:00:00.0000000",
+        "title":  "EFL Football. 2014/15 Championship Season Review",
+        "desc":  "",
+        "end":  "2026-09-05T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T04:00:00.0000000",
+        "title":  "SPFL Greatest. 2017: Aberdeen v Rangers",
+        "desc":  "",
+        "end":  "2026-09-05T04:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T04:15:00.0000000",
+        "title":  "SPFL Greatest. 2017: Hibernian v Rangers",
+        "desc":  "",
+        "end":  "2026-09-05T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T04:30:00.0000000",
+        "title":  "EFL Greatest. 2015: Derby County v Nottingham Forest",
+        "desc":  "",
+        "end":  "2026-09-05T04:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T04:45:00.0000000",
+        "title":  "EFL Greatest. 2015: Norwich City v Ipswich Town",
+        "desc":  "",
+        "end":  "2026-09-05T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T05:00:00.0000000",
+        "title":  "WSL. London City Lionesses v Manchester United",
+        "desc":  "",
+        "end":  "2026-09-05T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T05:30:00.0000000",
+        "title":  "SPFL Greatest. 2010: Motherwell v Hibernian",
+        "desc":  "",
+        "end":  "2026-09-05T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T07:30:00.0000000",
+        "title":  "WSL. London City Lionesses v Manchester United",
+        "desc":  "",
+        "end":  "2026-09-05T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T08:00:00.0000000",
+        "title":  "â‹— Saturday Social",
+        "desc":  "",
+        "end":  "2026-09-05T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T09:00:00.0000000",
+        "title":  "EFL League One. Goals",
+        "desc":  "",
+        "end":  "2026-09-05T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T09:30:00.0000000",
+        "title":  "EFL League Two. Goals",
+        "desc":  "",
+        "end":  "2026-09-05T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T10:00:00.0000000",
+        "title":  "WSL. London City Lionesses v Manchester United",
+        "desc":  "",
+        "end":  "2026-09-05T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T10:30:00.0000000",
+        "title":  "â‹— EFL Championship. Preston North End v Blackburn Rovers",
+        "desc":  "",
+        "end":  "2026-09-05T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T14:00:00.0000000",
+        "title":  "â‹— Soccer Saturday",
+        "desc":  "",
+        "end":  "2026-09-05T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T16:00:00.0000000",
+        "title":  "â‹— Soccer Saturday",
+        "desc":  "",
+        "end":  "2026-09-05T16:20:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T16:20:00.0000000",
+        "title":  "â‹— Bundesliga. FC Schalke 04 v FC Bayern MÃ¼nchen",
+        "desc":  "",
+        "end":  "2026-09-05T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T18:30:00.0000000",
+        "title":  "â‹— Scottish Premiership Football. St. Mirren v Celtic",
+        "desc":  "",
+        "end":  "2026-09-05T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T21:30:00.0000000",
+        "title":  "EFL Championship. Preston North End v Blackburn Rovers",
+        "desc":  "",
+        "end":  "2026-09-05T21:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T21:45:00.0000000",
+        "title":  "EFL Championship. Lincoln City v Southampton",
+        "desc":  "",
+        "end":  "2026-09-05T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T22:00:00.0000000",
+        "title":  "EFL Championship. Stoke City v Charlton Athletic",
+        "desc":  "",
+        "end":  "2026-09-05T22:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T22:15:00.0000000",
+        "title":  "EFL Championship. Burnley v Bristol City",
+        "desc":  "",
+        "end":  "2026-09-05T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T22:30:00.0000000",
+        "title":  "EFL Championship. Millwall v Bolton Wanderers",
+        "desc":  "",
+        "end":  "2026-09-05T22:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T22:45:00.0000000",
+        "title":  "WSL. London City Lionesses v Manchester United",
+        "desc":  "",
+        "end":  "2026-09-05T23:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T23:15:00.0000000",
+        "title":  "EFL Championship. Portsmouth v Cardiff City",
+        "desc":  "",
+        "end":  "2026-09-05T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T23:30:00.0000000",
+        "title":  "EFL Championship. Queens Park Rangers v Middlesbrough",
+        "desc":  "",
+        "end":  "2026-09-05T23:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T23:45:00.0000000",
+        "title":  "EFL Championship. Sheffield United v Norwich City",
+        "desc":  "",
+        "end":  "2026-09-06T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T00:00:00.0000000",
+        "title":  "EFL Championship. West Bromwich Albion v Watford",
+        "desc":  "",
+        "end":  "2026-09-06T00:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T00:15:00.0000000",
+        "title":  "EFL Championship. West Ham United v Derby County",
+        "desc":  "",
+        "end":  "2026-09-06T00:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T00:30:00.0000000",
+        "title":  "EFL Championship. Swansea City v Wrexham",
+        "desc":  "",
+        "end":  "2026-09-06T00:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T00:45:00.0000000",
+        "title":  "EFL Championship. Preston North End v Blackburn Rovers",
+        "desc":  "",
+        "end":  "2026-09-06T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T01:00:00.0000000",
+        "title":  "Scottish Goals Of The Season. 2009/10",
+        "desc":  "",
+        "end":  "2026-09-06T01:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T01:30:00.0000000",
+        "title":  "Scottish Goals Of The Season. 2010/11",
+        "desc":  "",
+        "end":  "2026-09-06T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T02:00:00.0000000",
+        "title":  "SPFL Greatest. 2000: Rangers v Celtic",
+        "desc":  "",
+        "end":  "2026-09-06T02:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T02:15:00.0000000",
+        "title":  "SPFL Greatest. 2009: Rangers v Celtic",
+        "desc":  "",
+        "end":  "2026-09-06T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T02:30:00.0000000",
+        "title":  "EFL Greatest. 2016: Birmingham City v Middlesbrough",
+        "desc":  "",
+        "end":  "2026-09-06T02:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T02:45:00.0000000",
+        "title":  "EFL Greatest. 2016: Middlesbrough v Brighton \u0026 Hove Albion",
+        "desc":  "",
+        "end":  "2026-09-06T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T03:00:00.0000000",
+        "title":  "EFL Football. 2015/16 Championship Season Review",
+        "desc":  "",
+        "end":  "2026-09-06T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T04:00:00.0000000",
+        "title":  "SPFL Greatest. 2017: Hibernian v Celtic",
+        "desc":  "",
+        "end":  "2026-09-06T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T04:30:00.0000000",
+        "title":  "EFL Greatest. 2016: Aston Villa v Nottingham Forest",
+        "desc":  "",
+        "end":  "2026-09-06T04:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T04:45:00.0000000",
+        "title":  "EFL Greatest. 2016: Cardiff City v Bristol City",
+        "desc":  "",
+        "end":  "2026-09-06T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T05:00:00.0000000",
+        "title":  "Scottish Premiership Football. St Mirren v Celtic",
+        "desc":  "",
+        "end":  "2026-09-06T05:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T05:15:00.0000000",
+        "title":  "EFL Championship. Stoke City v Charlton Athletic",
+        "desc":  "",
+        "end":  "2026-09-06T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T05:30:00.0000000",
+        "title":  "EFL Championship. Burnley v Bristol City",
+        "desc":  "",
+        "end":  "2026-09-06T05:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T05:45:00.0000000",
+        "title":  "EFL Championship. Millwall v Bolton Wanderers",
+        "desc":  "",
+        "end":  "2026-09-06T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T06:00:00.0000000",
+        "title":  "EFL Championship. Portsmouth v Cardiff City",
+        "desc":  "",
+        "end":  "2026-09-06T06:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T06:15:00.0000000",
+        "title":  "EFL Championship. Queens Park Rangers v Middlesbrough",
+        "desc":  "",
+        "end":  "2026-09-06T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T06:30:00.0000000",
+        "title":  "EFL Championship. Sheffield United v Norwich City",
+        "desc":  "",
+        "end":  "2026-09-06T06:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T06:45:00.0000000",
+        "title":  "EFL Championship. West Bromwich Albion v Watford",
+        "desc":  "",
+        "end":  "2026-09-06T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T07:00:00.0000000",
+        "title":  "EFL Championship. West Ham United v Derby County",
+        "desc":  "",
+        "end":  "2026-09-06T07:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T07:15:00.0000000",
+        "title":  "EFL Championship. Swansea City v Wrexham",
+        "desc":  "",
+        "end":  "2026-09-06T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T07:30:00.0000000",
+        "title":  "EFL Championship. Preston North End v Blackburn Rovers",
+        "desc":  "",
+        "end":  "2026-09-06T07:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T07:45:00.0000000",
+        "title":  "EFL Championship. Lincoln City v Southampton",
+        "desc":  "",
+        "end":  "2026-09-06T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T08:00:00.0000000",
+        "title":  "Scottish Premiership Football. St Mirren v Celtic",
+        "desc":  "",
+        "end":  "2026-09-06T08:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T08:15:00.0000000",
+        "title":  "EFL Championship. Burnley v Bristol City",
+        "desc":  "",
+        "end":  "2026-09-06T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T08:30:00.0000000",
+        "title":  "EFL Championship. Millwall v Bolton Wanderers",
+        "desc":  "",
+        "end":  "2026-09-06T08:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T08:45:00.0000000",
+        "title":  "EFL Championship. Portsmouth v Cardiff City",
+        "desc":  "",
+        "end":  "2026-09-06T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T09:00:00.0000000",
+        "title":  "EFL Championship. Queens Park Rangers v Middlesbrough",
+        "desc":  "",
+        "end":  "2026-09-06T09:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T09:15:00.0000000",
+        "title":  "EFL Championship. Sheffield United v Norwich City",
+        "desc":  "",
+        "end":  "2026-09-06T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T09:30:00.0000000",
+        "title":  "EFL Championship. West Bromwich Albion v Watford",
+        "desc":  "",
+        "end":  "2026-09-06T09:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T09:45:00.0000000",
+        "title":  "EFL Championship. West Ham United v Derby County",
+        "desc":  "",
+        "end":  "2026-09-06T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T10:00:00.0000000",
+        "title":  "WSL. London City Lionesses v Manchester United",
+        "desc":  "",
+        "end":  "2026-09-06T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T10:30:00.0000000",
+        "title":  "â‹— EFL Championship. Birmingham City v Wolverhampton Wanderers",
+        "desc":  "",
+        "end":  "2026-09-06T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T13:30:00.0000000",
+        "title":  "EFL Championship. Swansea City v Wrexham",
+        "desc":  "",
+        "end":  "2026-09-06T13:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T13:45:00.0000000",
+        "title":  "EFL Championship. Preston North End v Blackburn Rovers",
+        "desc":  "",
+        "end":  "2026-09-06T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T14:00:00.0000000",
+        "title":  "EFL Championship. Lincoln City v Southampton",
+        "desc":  "",
+        "end":  "2026-09-06T14:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T14:15:00.0000000",
+        "title":  "EFL Championship. Stoke City v Charlton Athletic",
+        "desc":  "",
+        "end":  "2026-09-06T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T14:30:00.0000000",
+        "title":  "EFL Championship. Burnley v Bristol City",
+        "desc":  "",
+        "end":  "2026-09-06T14:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T14:45:00.0000000",
+        "title":  "EFL Championship. Millwall v Bolton Wanderers",
+        "desc":  "",
+        "end":  "2026-09-06T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T15:00:00.0000000",
+        "title":  "Scottish Premiership Football. St Mirren v Celtic",
+        "desc":  "",
+        "end":  "2026-09-06T15:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T15:15:00.0000000",
+        "title":  "EFL Championship. Queens Park Rangers v Middlesbrough",
+        "desc":  "",
+        "end":  "2026-09-06T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T15:30:00.0000000",
+        "title":  "EFL Championship. Sheffield United v Norwich City",
+        "desc":  "",
+        "end":  "2026-09-06T15:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T15:45:00.0000000",
+        "title":  "EFL Championship. West Bromwich Albion v Watford",
+        "desc":  "",
+        "end":  "2026-09-06T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T16:00:00.0000000",
+        "title":  "EFL Championship. West Ham United v Derby County",
+        "desc":  "",
+        "end":  "2026-09-06T16:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T16:15:00.0000000",
+        "title":  "EFL Championship. Swansea City v Wrexham",
+        "desc":  "",
+        "end":  "2026-09-06T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T16:30:00.0000000",
+        "title":  "WSL. London City Lionesses v Manchester United",
+        "desc":  "",
+        "end":  "2026-09-06T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T17:00:00.0000000",
+        "title":  "EFL Championship. Lincoln City v Southampton",
+        "desc":  "",
+        "end":  "2026-09-06T17:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T17:15:00.0000000",
+        "title":  "EFL Championship. Stoke City v Charlton Athletic",
+        "desc":  "",
+        "end":  "2026-09-06T17:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T17:30:00.0000000",
+        "title":  "EFL Championship. Burnley v Bristol City",
+        "desc":  "",
+        "end":  "2026-09-06T17:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T17:45:00.0000000",
+        "title":  "EFL Championship. Millwall v Bolton Wanderers",
+        "desc":  "",
+        "end":  "2026-09-06T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T18:00:00.0000000",
+        "title":  "EFL League One. Goals",
+        "desc":  "",
+        "end":  "2026-09-06T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T18:30:00.0000000",
+        "title":  "EFL League Two. Goals",
+        "desc":  "",
+        "end":  "2026-09-06T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T19:00:00.0000000",
+        "title":  "EFL Championship. Birmingham City v Wolverhampton Wanderers",
+        "desc":  "",
+        "end":  "2026-09-06T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T21:00:00.0000000",
+        "title":  "WSL. London City Lionesses v Manchester United",
+        "desc":  "",
+        "end":  "2026-09-06T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T21:30:00.0000000",
+        "title":  "WSL. Brighton \u0026 Hove Albion v Arsenal",
+        "desc":  "",
+        "end":  "2026-09-06T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T22:00:00.0000000",
+        "title":  "Scottish Premiership Football. St Mirren v Celtic",
+        "desc":  "",
+        "end":  "2026-09-06T22:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T22:15:00.0000000",
+        "title":  "EFL Championship. Birmingham City v Wolverhampton Wanderers",
+        "desc":  "",
+        "end":  "2026-09-06T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T22:30:00.0000000",
+        "title":  "EFL League One. Goals",
+        "desc":  "",
+        "end":  "2026-09-06T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T23:00:00.0000000",
+        "title":  "EFL League Two. Goals",
+        "desc":  "",
+        "end":  "2026-09-06T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T23:30:00.0000000",
+        "title":  "WSL. London City Lionesses v Manchester United",
+        "desc":  "",
+        "end":  "2026-09-07T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T00:00:00.0000000",
+        "title":  "WSL. Brighton \u0026 Hove Albion v Arsenal",
+        "desc":  "",
+        "end":  "2026-09-08T00:00:00.0000000"
     }
 ]
