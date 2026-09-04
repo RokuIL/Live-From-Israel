@@ -1,5 +1,8 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://i.imgur.com/fY3eakc.png" group-title="Israel" tvg-provider="Mako" tvg-backup-provider="WGP" tvg-backup-id="Keshet%2012",Keshet 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/294/index.m3u8
 
 #EXTINF:-1 tvg-name="Reshet 13" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="Israel" tvg-provider="WGP" tvg-id="Reshet%2013" tvg-backup-provider="Reshet",Reshet 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
@@ -56,4 +59,6 @@ https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-name="Yes Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/960px-YES_Network_logo.svg.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="427689",Yes Network
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 
