@@ -1,299 +1,5 @@
 [
     {
-        "start":  "2026-09-04T00:00:00.0000000",
-        "title":  "â‹— MLB Big Inning",
-        "desc":  "",
-        "end":  "2026-09-04T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T01:00:00.0000000",
-        "title":  "â‹— MLB Big Inning",
-        "desc":  "",
-        "end":  "2026-09-04T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T02:30:00.0000000",
-        "title":  "â‹— MLB Baseball: Athletics at Seattle Mariners (T-Mobile Park, Seattle, WA, USA)",
-        "desc":  "",
-        "end":  "2026-09-04T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T04:00:00.0000000",
-        "title":  "â‹— Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-04T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T05:00:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-04T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T05:30:00.0000000",
-        "title":  "â‹— Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-04T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T06:00:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-04T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T06:30:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-04T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T07:00:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-04T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T07:30:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-04T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T08:00:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-04T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T08:30:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-04T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T09:00:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-04T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T09:30:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-04T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T10:00:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-04T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T11:00:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-04T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T12:00:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-04T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T13:00:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-04T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T14:00:00.0000000",
-        "title":  "â‹— The Leadoff Spot",
-        "desc":  "",
-        "end":  "2026-09-04T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T15:00:00.0000000",
-        "title":  "â‹— MLB Central",
-        "desc":  "",
-        "end":  "2026-09-04T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T17:00:00.0000000",
-        "title":  "â‹— MLB Now",
-        "desc":  "",
-        "end":  "2026-09-04T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T18:00:00.0000000",
-        "title":  "â‹— Intentional Talk",
-        "desc":  "",
-        "end":  "2026-09-04T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T19:00:00.0000000",
-        "title":  "â‹— MLB Baseball: Detroit Tigers at Cleveland Guardians (Progressive Field, Cleveland, OH, USA)",
-        "desc":  "",
-        "end":  "2026-09-04T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T22:00:00.0000000",
-        "title":  "â‹— MLB Tonight: National Pregame Show",
-        "desc":  "",
-        "end":  "2026-09-04T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T22:30:00.0000000",
-        "title":  "â‹— Intentional Talk",
-        "desc":  "",
-        "end":  "2026-09-04T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T23:30:00.0000000",
-        "title":  "â‹— MLB Tonight",
-        "desc":  "",
-        "end":  "2026-09-05T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T00:00:00.0000000",
-        "title":  "â‹— MLB Baseball: Regional Coverage",
-        "desc":  "",
-        "end":  "2026-09-05T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T01:00:00.0000000",
-        "title":  "â‹— MLB Baseball",
-        "desc":  "",
-        "end":  "2026-09-05T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T03:00:00.0000000",
-        "title":  "â‹— MLB Baseball: Regional Coverage",
-        "desc":  "",
-        "end":  "2026-09-05T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T04:00:00.0000000",
-        "title":  "â‹— MLB Baseball",
-        "desc":  "",
-        "end":  "2026-09-05T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T05:30:00.0000000",
-        "title":  "â‹— Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-05T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T06:30:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-05T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T07:30:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-05T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T08:30:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-05T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T09:30:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-05T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T10:00:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-05T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T11:00:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-05T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T12:00:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-05T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T13:00:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-05T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T14:00:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-05T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T15:00:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-05T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T15:30:00.0000000",
-        "title":  "MLB Network Breakdown",
-        "desc":  "",
-        "end":  "2026-09-05T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T16:00:00.0000000",
-        "title":  "Quick Pitch",
-        "desc":  "",
-        "end":  "2026-09-05T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T17:00:00.0000000",
-        "title":  "Play Ball",
-        "desc":  "",
-        "end":  "2026-09-05T17:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T17:30:00.0000000",
-        "title":  "MLB Network Podcast",
-        "desc":  "",
-        "end":  "2026-09-05T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T18:00:00.0000000",
-        "title":  "Movie: The Rookie",
-        "desc":  "",
-        "end":  "2026-09-05T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T21:00:00.0000000",
-        "title":  "â‹— MLB Baseball: Chicago Cubs at Miami Marlins (LoanDepot Park, Miami, FL, USA)",
-        "desc":  "",
-        "end":  "2026-09-05T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T23:30:00.0000000",
-        "title":  "â‹— MLB Tonight",
-        "desc":  "",
-        "end":  "2026-09-06T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-06T00:00:00.0000000",
-        "title":  "â‹— MLB Tonight: Inside the Park",
-        "desc":  "",
-        "end":  "2026-09-07T00:00:00.0000000"
-    },
-    {
         "start":  "2026-09-05T00:00:00.0000000",
         "title":  "â‹— MLB Baseball: Regional Coverage",
         "desc":  "",
@@ -806,6 +512,48 @@
     {
         "start":  "2026-09-07T03:00:00.0000000",
         "title":  "â‹— MLB Baseball: Washington Nationals at Los Angeles Dodgers (Uniqlo Field at Dodger Stadium, Los Ang",
+        "desc":  "",
+        "end":  "2026-09-07T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T06:00:00.0000000",
+        "title":  "MLB Tonight: Sunday Scorecard",
+        "desc":  "",
+        "end":  "2026-09-07T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T07:00:00.0000000",
+        "title":  "MLB Tonight: Sunday Scorecard",
+        "desc":  "",
+        "end":  "2026-09-08T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T00:00:00.0000000",
+        "title":  "â‹— MLB Tonight: Sunday Scorecard",
+        "desc":  "",
+        "end":  "2026-09-07T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T01:00:00.0000000",
+        "title":  "Movie: Rookie of the Year",
+        "desc":  "",
+        "end":  "2026-09-07T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T03:00:00.0000000",
+        "title":  "â‹— MLB Baseball: Washington Nationals at Los Angeles Dodgers (Uniqlo Field at Dodger Stadium, Los Ang",
+        "desc":  "",
+        "end":  "2026-09-07T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T06:00:00.0000000",
+        "title":  "MLB Tonight: Sunday Scorecard",
+        "desc":  "",
+        "end":  "2026-09-07T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T07:00:00.0000000",
+        "title":  "MLB Tonight: Sunday Scorecard",
         "desc":  "",
         "end":  "2026-09-08T00:00:00.0000000"
     }

@@ -1,579 +1,423 @@
 [
     {
-        "start":  "2026-09-04T00:00:00.0000000",
+        "start":  "2026-09-05T00:00:00.0000000",
         "title":  "Anderson Cooper 360",
-        "desc":  "Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.",
-        "end":  "2026-09-04T01:00:00.0000000"
+        "desc":  "Anderson Cooper goes beyond the headlines with in-depth reporting and investigations. Through nightly \"Keeping Them Honest\" reports, Anderson keeps his commitment to holding those in power accountable. And, of course, there\u0027s the RidicuList, a tongue-in-cheek commentary on the day\u0027s news that may leave viewers (and Anderson) laughing. Joining him are guests that frequently include political and le",
+        "end":  "2026-09-05T01:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T01:00:00.0000000",
+        "start":  "2026-09-05T01:00:00.0000000",
         "title":  "The Source With Kaitlan Collins",
         "desc":  "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
-        "end":  "2026-09-04T02:00:00.0000000"
+        "end":  "2026-09-05T02:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T02:00:00.0000000",
+        "start":  "2026-09-05T02:00:00.0000000",
         "title":  "CNN NewsNight With Abby Phillip",
         "desc":  "Abby Phillip leads a roundtable discussion on the day\u0027s biggest stories and issues shaping our world.",
-        "end":  "2026-09-04T03:00:00.0000000"
+        "end":  "2026-09-05T03:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T03:00:00.0000000",
+        "start":  "2026-09-05T03:00:00.0000000",
         "title":  "Laura Coates Live",
         "desc":  "Laura Coates sparks unique conversations and covers the most interesting stories of the day through a news, legal and pop culture lens.",
-        "end":  "2026-09-04T03:30:00.0000000"
+        "end":  "2026-09-05T04:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T03:30:00.0000000",
-        "title":  "Live: World Sport",
-        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-09-04T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T04:00:00.0000000",
+        "start":  "2026-09-05T04:00:00.0000000",
         "title":  "The Story Is With Elex Michaelson",
         "desc":  "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
-        "end":  "2026-09-04T05:00:00.0000000"
+        "end":  "2026-09-05T05:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T05:00:00.0000000",
+        "start":  "2026-09-05T05:00:00.0000000",
         "title":  "The Story Is With Elex Michaelson",
         "desc":  "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
-        "end":  "2026-09-04T06:00:00.0000000"
+        "end":  "2026-09-05T05:30:00.0000000"
     },
     {
-        "start":  "2026-09-04T06:00:00.0000000",
-        "title":  "CNN Newsroom",
+        "start":  "2026-09-05T05:30:00.0000000",
+        "title":  "Quest\u0027s World of Wonder",
+        "desc":  "Globe trotter Richard Quest travels to different cities to discover and learn things about them in ways tourists can\u0027t.",
+        "end":  "2026-09-05T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T06:00:00.0000000",
+        "title":  "Live: CNN Newsroom",
         "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-09-04T07:00:00.0000000"
+        "end":  "2026-09-05T06:30:00.0000000"
     },
     {
-        "start":  "2026-09-04T07:00:00.0000000",
-        "title":  "CNN Newsroom",
+        "start":  "2026-09-05T06:30:00.0000000",
+        "title":  "African Voices",
+        "desc":  "CNN producer Lamide Akintobi rode with U.S. rapper Rick Ross and Nigerian singers Spyro, Kah-Lo, Falana and Chella as they discussed their journeys, while in Kenya, Larry Madowo explored the streets of Nairobi with radio personality Maina Kageni.",
+        "end":  "2026-09-05T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T07:00:00.0000000",
+        "title":  "Live: CNN Newsroom",
         "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-09-04T08:00:00.0000000"
+        "end":  "2026-09-05T07:30:00.0000000"
     },
     {
-        "start":  "2026-09-04T08:00:00.0000000",
-        "title":  "CNN Newsroom",
+        "start":  "2026-09-05T07:30:00.0000000",
+        "title":  "Connecting Africa",
+        "desc":  "From futuristic transport systems in North Africa to the rise of AI-powered data infrastructure, we explore how major projects are reshaping trade, investment and economic growth.",
+        "end":  "2026-09-05T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T08:00:00.0000000",
+        "title":  "Live: CNN Newsroom",
         "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-09-04T09:00:00.0000000"
+        "end":  "2026-09-05T08:30:00.0000000"
     },
     {
-        "start":  "2026-09-04T09:00:00.0000000",
-        "title":  "CNN Headline Express",
-        "desc":  "Brad Smith brings you the biggest headlines and most buzzworthy stories.",
-        "end":  "2026-09-04T10:00:00.0000000"
+        "start":  "2026-09-05T08:30:00.0000000",
+        "title":  "CNN Creators: The Intro",
+        "desc":  "\"CNN Creators: The Intro\" is the initial, phased launch of a 30-minute weekly, multiplatform show from CNN International, designed to introduce a team of digital-native journalists and storytellers; broadcasting live from a temporary studio in Doha, Qatar, the show focuses on \"news-adjacent\" topics including technology, AI, art, culture, sport, and social trends.",
+        "end":  "2026-09-05T09:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T10:00:00.0000000",
-        "title":  "CNN This Morning",
-        "desc":  "Stories from across the world and refreshing conversations with Audie Cornish.",
-        "end":  "2026-09-04T11:00:00.0000000"
+        "start":  "2026-09-05T09:00:00.0000000",
+        "title":  "Live: CNN Newsroom",
+        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
+        "end":  "2026-09-05T10:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T11:00:00.0000000",
-        "title":  "CNN News Central",
-        "desc":  "The latest news from around the world live from CNN\u0027s immersive news hub with John Berman, Kate Bolduan and Sara Sidner.",
-        "end":  "2026-09-04T12:00:00.0000000"
+        "start":  "2026-09-05T10:00:00.0000000",
+        "title":  "African Voices",
+        "desc":  "An in-depth show highlighting engaging personalities from across the continent of Africa; from newsmakers in politics and business to the pioneers of music, arts and sport.",
+        "end":  "2026-09-05T10:30:00.0000000"
     },
     {
-        "start":  "2026-09-04T12:00:00.0000000",
-        "title":  "CNN News Central",
-        "desc":  "The latest news from around the world live from CNN\u0027s immersive news hub with John Berman, Kate Bolduan and Sara Sidner.",
-        "end":  "2026-09-04T12:30:00.0000000"
+        "start":  "2026-09-05T10:30:00.0000000",
+        "title":  "Inside Africa",
+        "desc":  "A journey across Africa, exploring the diversity and depth of different cultures, countries and regions.",
+        "end":  "2026-09-05T11:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T12:30:00.0000000",
+        "start":  "2026-09-05T11:00:00.0000000",
+        "title":  "African Voices",
+        "desc":  "CNN producer Lamide Akintobi rode with U.S. rapper Rick Ross and Nigerian singers Spyro, Kah-Lo, Falana and Chella as they discussed their journeys, while in Kenya, Larry Madowo explored the streets of Nairobi with radio personality Maina Kageni.",
+        "end":  "2026-09-05T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T12:00:00.0000000",
+        "title":  "K-Everything",
+        "desc":  "Daniel Dae Kim explores the worldwide surge of South Korean influence, examining its impact on everything from cinema and music to aesthetics and cuisine.",
+        "end":  "2026-09-05T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T13:00:00.0000000",
+        "title":  "Smerconish",
+        "desc":  "Radio host, newspaper columnist and author Michael Smerconish tackles the American political and news stories of the week, offering only one kind of talking point: his own. On his eponymous program, Smerconish takes an independent point of view on political topics -- his infamous commentaries cross party lines and he calls the shots as he sees them. The hourlong program also incorporates reaction ",
+        "end":  "2026-09-05T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T14:00:00.0000000",
+        "title":  "CNN Creators: The Intro",
+        "desc":  "\"CNN Creators: The Intro\" is the initial, phased launch of a 30-minute weekly, multiplatform show from CNN International, designed to introduce a team of digital-native journalists and storytellers; broadcasting live from a temporary studio in Doha, Qatar, the show focuses on \"news-adjacent\" topics including technology, AI, art, culture, sport, and social trends.",
+        "end":  "2026-09-05T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T14:30:00.0000000",
+        "title":  "Inside Africa",
+        "desc":  "A journey across Africa, exploring the diversity and depth of different cultures, countries and regions.",
+        "end":  "2026-09-05T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T15:00:00.0000000",
+        "title":  "The Amanpour Hour",
+        "desc":  "Christiane Amanpour, CNN\u0027s chief international anchor, brings valuable insight to the biggest global and domestic news stories of the week.",
+        "end":  "2026-09-05T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T16:00:00.0000000",
         "title":  "Live: World Sport",
         "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-09-04T13:00:00.0000000"
+        "end":  "2026-09-05T16:30:00.0000000"
     },
     {
-        "start":  "2026-09-04T13:00:00.0000000",
-        "title":  "Connect the World",
-        "desc":  "A journey across the continents.",
-        "end":  "2026-09-04T13:45:00.0000000"
+        "start":  "2026-09-05T16:30:00.0000000",
+        "title":  "Marketplace Middle East",
+        "desc":  "The host provides unique insights into the Middle Eastern financial markets, observing critical events and developments that impact the global business landscape.",
+        "end":  "2026-09-05T16:45:00.0000000"
     },
     {
-        "start":  "2026-09-04T13:45:00.0000000",
+        "start":  "2026-09-05T16:45:00.0000000",
+        "title":  "Marketplace Africa",
+        "desc":  "South Africa\u0027s contributions to space tech are growing at a rapid rate, with the country exporting a valued $1 billion worth of products used primarily in satellites; taking a look at the types of tech these companies are creating and their goals for development when it comes to the ever-growing space race; building off the success of Zipline across the continent, one company has developed an unma",
+        "end":  "2026-09-05T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T17:00:00.0000000",
+        "title":  "Smerconish",
+        "desc":  "Radio host, newspaper columnist and author Michael Smerconish tackles the American political and news stories of the week, offering only one kind of talking point: his own. On his eponymous program, Smerconish takes an independent point of view on political topics -- his infamous commentaries cross party lines and he calls the shots as he sees them. The hourlong program also incorporates reaction ",
+        "end":  "2026-09-05T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T18:00:00.0000000",
+        "title":  "CNN Newsroom Saturday",
+        "desc":  "Updates of the news from around the world.",
+        "end":  "2026-09-05T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T19:00:00.0000000",
+        "title":  "CNN Newsroom Saturday",
+        "desc":  "Updates of the news from around the world.",
+        "end":  "2026-09-05T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T20:00:00.0000000",
+        "title":  "The Arena: Saturday",
+        "desc":  "Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the week\u0027s news in politics and culture.",
+        "end":  "2026-09-05T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T21:00:00.0000000",
         "title":  "Live: World Sport",
         "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-09-04T14:00:00.0000000"
+        "end":  "2026-09-05T21:30:00.0000000"
     },
     {
-        "start":  "2026-09-04T14:00:00.0000000",
-        "title":  "Connect the World",
-        "desc":  "A journey across the continents.",
-        "end":  "2026-09-04T15:00:00.0000000"
+        "start":  "2026-09-05T21:30:00.0000000",
+        "title":  "CNN Creators: The Intro",
+        "desc":  "\"CNN Creators: The Intro\" is the initial, phased launch of a 30-minute weekly, multiplatform show from CNN International, designed to introduce a team of digital-native journalists and storytellers; broadcasting live from a temporary studio in Doha, Qatar, the show focuses on \"news-adjacent\" topics including technology, AI, art, culture, sport, and social trends.",
+        "end":  "2026-09-05T22:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T15:00:00.0000000",
-        "title":  "One World With Zain Asher and Bianna Golodryga",
-        "desc":  "A fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.",
-        "end":  "2026-09-04T16:00:00.0000000"
+        "start":  "2026-09-05T22:00:00.0000000",
+        "title":  "CNN Newsroom Saturday",
+        "desc":  "Updates of the news from around the world.",
+        "end":  "2026-09-05T23:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T16:00:00.0000000",
-        "title":  "One World With Zain Asher and Bianna Golodryga",
-        "desc":  "A fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.",
-        "end":  "2026-09-04T17:00:00.0000000"
+        "start":  "2026-09-05T23:00:00.0000000",
+        "title":  "CNN Newsroom Saturday",
+        "desc":  "Updates of the news from around the world.",
+        "end":  "2026-09-06T00:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T17:00:00.0000000",
-        "title":  "Amanpour",
-        "desc":  "Peabody Award-winning journalist Christiane Amanpour, CNN\u0027s chief international correspondent, hosts this half-hour weeknight interview program, with each episode focusing on a newsworthy topic and featuring guests, from global leaders to heads of state and cultural icons, who are comfortable challenging conventional wisdom.",
-        "end":  "2026-09-04T18:00:00.0000000"
+        "start":  "2026-09-06T00:00:00.0000000",
+        "title":  "K-Everything",
+        "desc":  "Daniel Dae Kim explores the worldwide surge of South Korean influence, examining its impact on everything from cinema and music to aesthetics and cuisine.",
+        "end":  "2026-09-06T01:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T18:00:00.0000000",
-        "title":  "Isa Soares Tonight",
-        "desc":  "Isa Soares brings together CNN\u0027s world-class journalists with top newsmakers and experts to help viewers navigate the complex events shaping our present and our future.",
-        "end":  "2026-09-04T19:00:00.0000000"
+        "start":  "2026-09-06T01:00:00.0000000",
+        "title":  "World Sport",
+        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
+        "end":  "2026-09-06T01:30:00.0000000"
     },
     {
-        "start":  "2026-09-04T19:00:00.0000000",
-        "title":  "What We Know With Max Foster",
-        "desc":  "Drawing on Foster\u0027s decades of experience covering major world events both on scene and in the studio, \"What We Know\" provides a definitive roundup of the day\u0027s top stories, and a deeper dive into the questions sparking debate around the world; in a nod to his digital prowess, Foster will seek to integrate social media throughout.",
-        "end":  "2026-09-04T20:00:00.0000000"
+        "start":  "2026-09-06T01:30:00.0000000",
+        "title":  "Blueprint",
+        "desc":  "The host explores the innovations that thrive across the UK, from breakthroughs in bioengineering to pioneering advances in energy and infrastructure.",
+        "end":  "2026-09-06T02:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T20:00:00.0000000",
-        "title":  "Live: Quest Means Business",
-        "desc":  "Richard Quest offers a dynamic look at the day\u0027s global business stories.",
-        "end":  "2026-09-04T20:45:00.0000000"
+        "start":  "2026-09-06T02:00:00.0000000",
+        "title":  "Inside Africa",
+        "desc":  "A journey across Africa, exploring the diversity and depth of different cultures, countries and regions.",
+        "end":  "2026-09-06T02:30:00.0000000"
     },
     {
-        "start":  "2026-09-04T20:45:00.0000000",
+        "start":  "2026-09-06T02:30:00.0000000",
+        "title":  "African Voices",
+        "desc":  "CNN producer Lamide Akintobi rode with U.S. rapper Rick Ross and Nigerian singers Spyro, Kah-Lo, Falana and Chella as they discussed their journeys, while in Kenya, Larry Madowo explored the streets of Nairobi with radio personality Maina Kageni.",
+        "end":  "2026-09-06T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T03:00:00.0000000",
+        "title":  "Connecting Africa",
+        "desc":  "From futuristic transport systems in North Africa to the rise of AI-powered data infrastructure, we explore how major projects are reshaping trade, investment and economic growth.",
+        "end":  "2026-09-06T03:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T03:45:00.0000000",
+        "title":  "Marketplace Africa",
+        "desc":  "South Africa\u0027s contributions to space tech are growing at a rapid rate, with the country exporting a valued $1 billion worth of products used primarily in satellites; taking a look at the types of tech these companies are creating and their goals for development when it comes to the ever-growing space race; building off the success of Zipline across the continent, one company has developed an unma",
+        "end":  "2026-09-06T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T04:00:00.0000000",
+        "title":  "CNN Newsroom",
+        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
+        "end":  "2026-09-06T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T04:30:00.0000000",
+        "title":  "Africa Inc",
+        "desc":  "African music has evolved from a regional cultural force into a global commercial industry, powering sold-out tours, streaming growth, destination festivals, sponsorship deals, and international fan communities. We explore the business behind that growth through The Malachite Group (TMG), the company behind Afro Nation Portugal, one of the world\u0027s largest festivals dedicated to Afrobeats and Afric",
+        "end":  "2026-09-06T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T05:00:00.0000000",
+        "title":  "CNN Newsroom",
+        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
+        "end":  "2026-09-06T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T05:30:00.0000000",
+        "title":  "Inside Africa",
+        "desc":  "Lesotho is known as the Kingdom in the Sky, a country of vast mountains where horses remain central to everyday life; we explore how a centuries-old equestrian culture continues to shape transport, livelihoods, tourism and community life across the highlands.",
+        "end":  "2026-09-06T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T06:00:00.0000000",
+        "title":  "CNN Newsroom",
+        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
+        "end":  "2026-09-06T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T06:30:00.0000000",
+        "title":  "Marketplace Middle East",
+        "desc":  "The Gulf is experiencing a data center boom, with Saudi Arabia, the UAE and Oman operating more than 130 facilities. But SpaceX\u0027s plans for orbital data centers could transform how and where digital infrastructure is built. If the technology delivers on speed, latency and efficiency, future investment could shift from the ground to space. We speak to Schneider Electric\u0027s Manish Pant about their in",
+        "end":  "2026-09-06T06:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T06:45:00.0000000",
+        "title":  "Marketplace Africa",
+        "desc":  "South Africa\u0027s contributions to space tech are growing at a rapid rate, with the country exporting a valued $1 billion worth of products used primarily in satellites; taking a look at the types of tech these companies are creating and their goals for development when it comes to the ever-growing space race; building off the success of Zipline across the continent, one company has developed an unma",
+        "end":  "2026-09-06T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T07:00:00.0000000",
+        "title":  "CNN Newsroom",
+        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
+        "end":  "2026-09-06T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T07:30:00.0000000",
         "title":  "Quest\u0027s World of Wonder",
         "desc":  "The 250th birthday of the United States is the perfect reason for a summer holiday and a great American road trip! And what better road to travel than Route 66 during its centennial year? It\u0027s a bucket list trip for many. The road is inextricably tied to the history of and major milestones in the United States. A drive on Route 66 immerses us in the story of the country.",
-        "end":  "2026-09-04T21:00:00.0000000"
+        "end":  "2026-09-06T08:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T21:00:00.0000000",
-        "title":  "The Lead With Jake Tapper",
-        "desc":  "CNN\u0027s chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which covers all the day\u0027s top stories from around the country and the world, headlines that span politics, money, sports and popular culture. \"The Lead\" works to ensure that viewers are caught up on the stories that matter, often highlighting news that may have been overlooked. Prior to joining CNN, ",
-        "end":  "2026-09-04T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T21:30:00.0000000",
-        "title":  "Live: World Sport",
-        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-09-04T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T22:00:00.0000000",
-        "title":  "The Brief With Jim Sciutto",
-        "desc":  "CNN\u0027s correspondents across the world are reporting to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.",
-        "end":  "2026-09-04T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T23:00:00.0000000",
-        "title":  "Erin Burnett OutFront",
-        "desc":  "Anchored by Erin Burnett, \"OutFront\" stays ahead of the headlines, providing objective reporting on the day\u0027s top issues. The Monday to Friday nightly news program features compelling newsmaker interviews, provides lively debates and offers in-depth analysis of the latest news and global headlines. \"I want people to say that our show is smart. I want our show to be authentic,\" Burnett says. \"I wan",
-        "end":  "2026-09-05T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T00:00:00.0000000",
-        "title":  "Anderson Cooper 360",
-        "desc":  "Anderson Cooper goes beyond the headlines with in-depth reporting and investigations. Through nightly \"Keeping Them Honest\" reports, Anderson keeps his commitment to holding those in power accountable. And, of course, there\u0027s the RidicuList, a tongue-in-cheek commentary on the day\u0027s news that may leave viewers (and Anderson) laughing. Joining him are guests that frequently include political and le",
-        "end":  "2026-09-05T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T01:00:00.0000000",
-        "title":  "The Source With Kaitlan Collins",
-        "desc":  "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
-        "end":  "2026-09-05T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T02:00:00.0000000",
-        "title":  "CNN NewsNight With Abby Phillip",
-        "desc":  "Abby Phillip leads a roundtable discussion on the day\u0027s biggest stories and issues shaping our world.",
-        "end":  "2026-09-05T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T03:00:00.0000000",
-        "title":  "Laura Coates Live",
-        "desc":  "Laura Coates sparks unique conversations and covers the most interesting stories of the day through a news, legal and pop culture lens.",
-        "end":  "2026-09-05T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T04:00:00.0000000",
-        "title":  "The Story Is With Elex Michaelson",
-        "desc":  "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
-        "end":  "2026-09-05T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T05:00:00.0000000",
-        "title":  "The Story Is With Elex Michaelson",
-        "desc":  "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
-        "end":  "2026-09-05T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T05:30:00.0000000",
-        "title":  "Quest\u0027s World of Wonder",
-        "desc":  "Globe trotter Richard Quest travels to different cities to discover and learn things about them in ways tourists can\u0027t.",
-        "end":  "2026-09-05T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T06:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
+        "start":  "2026-09-06T08:00:00.0000000",
+        "title":  "CNN Newsroom",
         "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-09-05T06:30:00.0000000"
+        "end":  "2026-09-06T09:00:00.0000000"
     },
     {
-        "start":  "2026-09-05T06:30:00.0000000",
-        "title":  "African Voices",
-        "desc":  "CNN producer Lamide Akintobi rode with U.S. rapper Rick Ross and Nigerian singers Spyro, Kah-Lo, Falana and Chella as they discussed their journeys, while in Kenya, Larry Madowo explored the streets of Nairobi with radio personality Maina Kageni.",
-        "end":  "2026-09-05T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T07:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
+        "start":  "2026-09-06T09:00:00.0000000",
+        "title":  "CNN Newsroom",
         "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-09-05T07:30:00.0000000"
+        "end":  "2026-09-06T10:00:00.0000000"
     },
     {
-        "start":  "2026-09-05T07:30:00.0000000",
+        "start":  "2026-09-06T10:00:00.0000000",
         "title":  "Connecting Africa",
         "desc":  "From futuristic transport systems in North Africa to the rise of AI-powered data infrastructure, we explore how major projects are reshaping trade, investment and economic growth.",
-        "end":  "2026-09-05T08:00:00.0000000"
+        "end":  "2026-09-06T10:30:00.0000000"
     },
     {
-        "start":  "2026-09-05T08:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-09-05T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T08:30:00.0000000",
-        "title":  "CNN Creators: The Intro",
-        "desc":  "\"CNN Creators: The Intro\" is the initial, phased launch of a 30-minute weekly, multiplatform show from CNN International, designed to introduce a team of digital-native journalists and storytellers; broadcasting live from a temporary studio in Doha, Qatar, the show focuses on \"news-adjacent\" topics including technology, AI, art, culture, sport, and social trends.",
-        "end":  "2026-09-05T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T09:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-09-05T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T10:00:00.0000000",
-        "title":  "African Voices",
-        "desc":  "An in-depth show highlighting engaging personalities from across the continent of Africa; from newsmakers in politics and business to the pioneers of music, arts and sport.",
-        "end":  "2026-09-05T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T10:30:00.0000000",
+        "start":  "2026-09-06T10:30:00.0000000",
         "title":  "Inside Africa",
-        "desc":  "A journey across Africa, exploring the diversity and depth of different cultures, countries and regions.",
-        "end":  "2026-09-05T11:00:00.0000000"
+        "desc":  "Lesotho is known as the Kingdom in the Sky, a country of vast mountains where horses remain central to everyday life; we explore how a centuries-old equestrian culture continues to shape transport, livelihoods, tourism and community life across the highlands.",
+        "end":  "2026-09-06T11:00:00.0000000"
     },
     {
-        "start":  "2026-09-05T11:00:00.0000000",
+        "start":  "2026-09-06T11:00:00.0000000",
+        "title":  "CNN This Morning Weekend",
+        "desc":  "Stories from across the world and refreshing conversations with Victor Blackwell.",
+        "end":  "2026-09-06T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T12:00:00.0000000",
+        "title":  "Inside Politics With Manu Raju",
+        "desc":  "Manu Raju leads an in-depth conversation on the week\u0027s most important political storylines, with a diverse set of analysts and news-making interviews.",
+        "end":  "2026-09-06T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T13:00:00.0000000",
+        "title":  "State of the Union With Jake Tapper and Dana Bash",
+        "desc":  "Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.",
+        "end":  "2026-09-06T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T14:00:00.0000000",
+        "title":  "Fareed Zakaria GPS",
+        "desc":  "Insights, analysis and interviews to world leaders, artists, scientists, business leaders, global affairs analysts and other cultural observers.",
+        "end":  "2026-09-06T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T15:00:00.0000000",
+        "title":  "Inside Politics With Manu Raju",
+        "desc":  "Manu Raju leads an in-depth conversation on the week\u0027s most important political storylines, with a diverse set of analysts and news-making interviews.",
+        "end":  "2026-09-06T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T16:00:00.0000000",
+        "title":  "Live: World Sport",
+        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
+        "end":  "2026-09-06T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T16:30:00.0000000",
+        "title":  "Inside Africa",
+        "desc":  "Lesotho is known as the Kingdom in the Sky, a country of vast mountains where horses remain central to everyday life; we explore how a centuries-old equestrian culture continues to shape transport, livelihoods, tourism and community life across the highlands.",
+        "end":  "2026-09-06T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T17:00:00.0000000",
         "title":  "African Voices",
         "desc":  "CNN producer Lamide Akintobi rode with U.S. rapper Rick Ross and Nigerian singers Spyro, Kah-Lo, Falana and Chella as they discussed their journeys, while in Kenya, Larry Madowo explored the streets of Nairobi with radio personality Maina Kageni.",
-        "end":  "2026-09-05T12:00:00.0000000"
+        "end":  "2026-09-06T17:30:00.0000000"
     },
     {
-        "start":  "2026-09-05T12:00:00.0000000",
-        "title":  "K-Everything",
-        "desc":  "Daniel Dae Kim explores the worldwide surge of South Korean influence, examining its impact on everything from cinema and music to aesthetics and cuisine.",
-        "end":  "2026-09-05T13:00:00.0000000"
+        "start":  "2026-09-06T17:30:00.0000000",
+        "title":  "Detours",
+        "desc":  "Vacations have become just as busy as our lives. With packed tours on trending sites, our travel philosophy is overdue for a reset. In Tokyo, despite its futuristic flash, slow is still a way of life. Century-old rituals are what set the city apart for travelers who seek intentionality, depth, and culture inside a vast metropolis.",
+        "end":  "2026-09-06T18:00:00.0000000"
     },
     {
-        "start":  "2026-09-05T13:00:00.0000000",
-        "title":  "Smerconish",
-        "desc":  "Radio host, newspaper columnist and author Michael Smerconish tackles the American political and news stories of the week, offering only one kind of talking point: his own. On his eponymous program, Smerconish takes an independent point of view on political topics -- his infamous commentaries cross party lines and he calls the shots as he sees them. The hourlong program also incorporates reaction ",
-        "end":  "2026-09-05T14:00:00.0000000"
+        "start":  "2026-09-06T18:00:00.0000000",
+        "title":  "CNN Newsroom Sunday",
+        "desc":  "Updates of the news from around the world.",
+        "end":  "2026-09-06T19:00:00.0000000"
     },
     {
-        "start":  "2026-09-05T14:00:00.0000000",
-        "title":  "CNN Creators: The Intro",
-        "desc":  "\"CNN Creators: The Intro\" is the initial, phased launch of a 30-minute weekly, multiplatform show from CNN International, designed to introduce a team of digital-native journalists and storytellers; broadcasting live from a temporary studio in Doha, Qatar, the show focuses on \"news-adjacent\" topics including technology, AI, art, culture, sport, and social trends.",
-        "end":  "2026-09-05T14:30:00.0000000"
+        "start":  "2026-09-06T19:00:00.0000000",
+        "title":  "CNN Newsroom Sunday",
+        "desc":  "Updates of the news from around the world.",
+        "end":  "2026-09-06T20:00:00.0000000"
     },
     {
-        "start":  "2026-09-05T14:30:00.0000000",
-        "title":  "Inside Africa",
-        "desc":  "A journey across Africa, exploring the diversity and depth of different cultures, countries and regions.",
-        "end":  "2026-09-05T15:00:00.0000000"
+        "start":  "2026-09-06T20:00:00.0000000",
+        "title":  "CNN Newsroom Sunday",
+        "desc":  "Updates of the news from around the world.",
+        "end":  "2026-09-06T21:00:00.0000000"
     },
     {
-        "start":  "2026-09-05T15:00:00.0000000",
-        "title":  "The Amanpour Hour",
-        "desc":  "Christiane Amanpour, CNN\u0027s chief international anchor, brings valuable insight to the biggest global and domestic news stories of the week.",
-        "end":  "2026-09-05T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T16:00:00.0000000",
+        "start":  "2026-09-06T21:00:00.0000000",
         "title":  "Live: World Sport",
         "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-09-05T16:30:00.0000000"
+        "end":  "2026-09-06T21:30:00.0000000"
     },
     {
-        "start":  "2026-09-05T16:30:00.0000000",
-        "title":  "Marketplace Middle East",
-        "desc":  "The host provides unique insights into the Middle Eastern financial markets, observing critical events and developments that impact the global business landscape.",
-        "end":  "2026-09-05T16:45:00.0000000"
+        "start":  "2026-09-06T21:30:00.0000000",
+        "title":  "Connecting Africa",
+        "desc":  "From futuristic transport systems in North Africa to the rise of AI-powered data infrastructure, we explore how major projects are reshaping trade, investment and economic growth.",
+        "end":  "2026-09-06T22:00:00.0000000"
     },
     {
-        "start":  "2026-09-05T16:45:00.0000000",
-        "title":  "Marketplace Africa",
-        "desc":  "South Africa\u0027s contributions to space tech are growing at a rapid rate, with the country exporting a valued $1 billion worth of products used primarily in satellites; taking a look at the types of tech these companies are creating and their goals for development when it comes to the ever-growing space race; building off the success of Zipline across the continent, one company has developed an unma",
-        "end":  "2026-09-05T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T17:00:00.0000000",
-        "title":  "Smerconish",
-        "desc":  "Radio host, newspaper columnist and author Michael Smerconish tackles the American political and news stories of the week, offering only one kind of talking point: his own. On his eponymous program, Smerconish takes an independent point of view on political topics -- his infamous commentaries cross party lines and he calls the shots as he sees them. The hourlong program also incorporates reaction ",
-        "end":  "2026-09-05T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T18:00:00.0000000",
-        "title":  "CNN Newsroom Saturday",
+        "start":  "2026-09-06T22:00:00.0000000",
+        "title":  "CNN Newsroom Sunday",
         "desc":  "Updates of the news from around the world.",
-        "end":  "2026-09-05T19:00:00.0000000"
+        "end":  "2026-09-06T23:00:00.0000000"
     },
     {
-        "start":  "2026-09-05T19:00:00.0000000",
-        "title":  "CNN Newsroom Saturday",
+        "start":  "2026-09-06T23:00:00.0000000",
+        "title":  "CNN Newsroom Sunday",
         "desc":  "Updates of the news from around the world.",
-        "end":  "2026-09-05T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T20:00:00.0000000",
-        "title":  "The Arena: Saturday",
-        "desc":  "Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the week\u0027s news in politics and culture.",
-        "end":  "2026-09-05T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T21:00:00.0000000",
-        "title":  "Live: World Sport",
-        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-09-05T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T21:30:00.0000000",
-        "title":  "CNN Creators: The Intro",
-        "desc":  "\"CNN Creators: The Intro\" is the initial, phased launch of a 30-minute weekly, multiplatform show from CNN International, designed to introduce a team of digital-native journalists and storytellers; broadcasting live from a temporary studio in Doha, Qatar, the show focuses on \"news-adjacent\" topics including technology, AI, art, culture, sport, and social trends.",
-        "end":  "2026-09-05T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T22:00:00.0000000",
-        "title":  "CNN Newsroom Saturday",
-        "desc":  "Updates of the news from around the world.",
-        "end":  "2026-09-05T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T23:00:00.0000000",
-        "title":  "CNN Newsroom Saturday",
-        "desc":  "Updates of the news from around the world.",
-        "end":  "2026-09-06T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-06T00:00:00.0000000",
-        "title":  "K-Everything",
-        "desc":  "Daniel Dae Kim explores the worldwide surge of South Korean influence, examining its impact on everything from cinema and music to aesthetics and cuisine.",
         "end":  "2026-09-07T00:00:00.0000000"
     },
     {
-        "start":  "2026-09-05T00:00:00.0000000",
-        "title":  "Anderson Cooper 360",
-        "desc":  "Anderson Cooper goes beyond the headlines with in-depth reporting and investigations. Through nightly \"Keeping Them Honest\" reports, Anderson keeps his commitment to holding those in power accountable. And, of course, there\u0027s the RidicuList, a tongue-in-cheek commentary on the day\u0027s news that may leave viewers (and Anderson) laughing. Joining him are guests that frequently include political and le",
-        "end":  "2026-09-05T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T01:00:00.0000000",
-        "title":  "The Source With Kaitlan Collins",
-        "desc":  "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
-        "end":  "2026-09-05T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T02:00:00.0000000",
-        "title":  "CNN NewsNight With Abby Phillip",
-        "desc":  "Abby Phillip leads a roundtable discussion on the day\u0027s biggest stories and issues shaping our world.",
-        "end":  "2026-09-05T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T03:00:00.0000000",
-        "title":  "Laura Coates Live",
-        "desc":  "Laura Coates sparks unique conversations and covers the most interesting stories of the day through a news, legal and pop culture lens.",
-        "end":  "2026-09-05T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T04:00:00.0000000",
-        "title":  "The Story Is With Elex Michaelson",
-        "desc":  "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
-        "end":  "2026-09-05T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T05:00:00.0000000",
-        "title":  "The Story Is With Elex Michaelson",
-        "desc":  "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
-        "end":  "2026-09-05T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T05:30:00.0000000",
-        "title":  "Quest\u0027s World of Wonder",
-        "desc":  "Globe trotter Richard Quest travels to different cities to discover and learn things about them in ways tourists can\u0027t.",
-        "end":  "2026-09-05T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T06:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-09-05T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T06:30:00.0000000",
-        "title":  "African Voices",
-        "desc":  "CNN producer Lamide Akintobi rode with U.S. rapper Rick Ross and Nigerian singers Spyro, Kah-Lo, Falana and Chella as they discussed their journeys, while in Kenya, Larry Madowo explored the streets of Nairobi with radio personality Maina Kageni.",
-        "end":  "2026-09-05T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T07:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-09-05T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T07:30:00.0000000",
-        "title":  "Connecting Africa",
-        "desc":  "From futuristic transport systems in North Africa to the rise of AI-powered data infrastructure, we explore how major projects are reshaping trade, investment and economic growth.",
-        "end":  "2026-09-05T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T08:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-09-05T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T08:30:00.0000000",
-        "title":  "CNN Creators: The Intro",
-        "desc":  "\"CNN Creators: The Intro\" is the initial, phased launch of a 30-minute weekly, multiplatform show from CNN International, designed to introduce a team of digital-native journalists and storytellers; broadcasting live from a temporary studio in Doha, Qatar, the show focuses on \"news-adjacent\" topics including technology, AI, art, culture, sport, and social trends.",
-        "end":  "2026-09-05T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T09:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-09-05T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T10:00:00.0000000",
-        "title":  "African Voices",
-        "desc":  "An in-depth show highlighting engaging personalities from across the continent of Africa; from newsmakers in politics and business to the pioneers of music, arts and sport.",
-        "end":  "2026-09-05T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T10:30:00.0000000",
-        "title":  "Inside Africa",
-        "desc":  "A journey across Africa, exploring the diversity and depth of different cultures, countries and regions.",
-        "end":  "2026-09-05T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T11:00:00.0000000",
-        "title":  "African Voices",
-        "desc":  "CNN producer Lamide Akintobi rode with U.S. rapper Rick Ross and Nigerian singers Spyro, Kah-Lo, Falana and Chella as they discussed their journeys, while in Kenya, Larry Madowo explored the streets of Nairobi with radio personality Maina Kageni.",
-        "end":  "2026-09-05T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T12:00:00.0000000",
-        "title":  "K-Everything",
-        "desc":  "Daniel Dae Kim explores the worldwide surge of South Korean influence, examining its impact on everything from cinema and music to aesthetics and cuisine.",
-        "end":  "2026-09-05T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T13:00:00.0000000",
-        "title":  "Smerconish",
-        "desc":  "Radio host, newspaper columnist and author Michael Smerconish tackles the American political and news stories of the week, offering only one kind of talking point: his own. On his eponymous program, Smerconish takes an independent point of view on political topics -- his infamous commentaries cross party lines and he calls the shots as he sees them. The hourlong program also incorporates reaction ",
-        "end":  "2026-09-05T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T14:00:00.0000000",
-        "title":  "CNN Creators: The Intro",
-        "desc":  "\"CNN Creators: The Intro\" is the initial, phased launch of a 30-minute weekly, multiplatform show from CNN International, designed to introduce a team of digital-native journalists and storytellers; broadcasting live from a temporary studio in Doha, Qatar, the show focuses on \"news-adjacent\" topics including technology, AI, art, culture, sport, and social trends.",
-        "end":  "2026-09-05T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T14:30:00.0000000",
-        "title":  "Inside Africa",
-        "desc":  "A journey across Africa, exploring the diversity and depth of different cultures, countries and regions.",
-        "end":  "2026-09-05T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T15:00:00.0000000",
-        "title":  "The Amanpour Hour",
-        "desc":  "Christiane Amanpour, CNN\u0027s chief international anchor, brings valuable insight to the biggest global and domestic news stories of the week.",
-        "end":  "2026-09-05T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T16:00:00.0000000",
-        "title":  "Live: World Sport",
-        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-09-05T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T16:30:00.0000000",
-        "title":  "Marketplace Middle East",
-        "desc":  "The host provides unique insights into the Middle Eastern financial markets, observing critical events and developments that impact the global business landscape.",
-        "end":  "2026-09-05T16:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T16:45:00.0000000",
-        "title":  "Marketplace Africa",
-        "desc":  "South Africa\u0027s contributions to space tech are growing at a rapid rate, with the country exporting a valued $1 billion worth of products used primarily in satellites; taking a look at the types of tech these companies are creating and their goals for development when it comes to the ever-growing space race; building off the success of Zipline across the continent, one company has developed an unma",
-        "end":  "2026-09-05T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T17:00:00.0000000",
-        "title":  "Smerconish",
-        "desc":  "Radio host, newspaper columnist and author Michael Smerconish tackles the American political and news stories of the week, offering only one kind of talking point: his own. On his eponymous program, Smerconish takes an independent point of view on political topics -- his infamous commentaries cross party lines and he calls the shots as he sees them. The hourlong program also incorporates reaction ",
-        "end":  "2026-09-05T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T18:00:00.0000000",
-        "title":  "CNN Newsroom Saturday",
-        "desc":  "Updates of the news from around the world.",
-        "end":  "2026-09-05T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T19:00:00.0000000",
-        "title":  "CNN Newsroom Saturday",
-        "desc":  "Updates of the news from around the world.",
-        "end":  "2026-09-05T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T20:00:00.0000000",
-        "title":  "The Arena: Saturday",
-        "desc":  "Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the week\u0027s news in politics and culture.",
-        "end":  "2026-09-05T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T21:00:00.0000000",
-        "title":  "Live: World Sport",
-        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-09-05T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T21:30:00.0000000",
-        "title":  "CNN Creators: The Intro",
-        "desc":  "\"CNN Creators: The Intro\" is the initial, phased launch of a 30-minute weekly, multiplatform show from CNN International, designed to introduce a team of digital-native journalists and storytellers; broadcasting live from a temporary studio in Doha, Qatar, the show focuses on \"news-adjacent\" topics including technology, AI, art, culture, sport, and social trends.",
-        "end":  "2026-09-05T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T22:00:00.0000000",
-        "title":  "CNN Newsroom Saturday",
-        "desc":  "Updates of the news from around the world.",
-        "end":  "2026-09-05T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T23:00:00.0000000",
-        "title":  "CNN Newsroom Saturday",
-        "desc":  "Updates of the news from around the world.",
-        "end":  "2026-09-06T00:00:00.0000000"
+        "start":  "2026-09-07T00:00:00.0000000",
+        "title":  "9/11",
+        "desc":  "A real-life documentary following the events of Sept. 11 from an insider\u0027s view, through the lens of James Hanlon and two French filmmakers who were in Manhattan that one day.",
+        "end":  "2026-09-08T00:00:00.0000000"
     },
     {
         "start":  "2026-09-06T00:00:00.0000000",
@@ -627,60 +471,264 @@
         "start":  "2026-09-06T04:30:00.0000000",
         "title":  "Africa Inc",
         "desc":  "African music has evolved from a regional cultural force into a global commercial industry, powering sold-out tours, streaming growth, destination festivals, sponsorship deals, and international fan communities. We explore the business behind that growth through The Malachite Group (TMG), the company behind Afro Nation Portugal, one of the world\u0027s largest festivals dedicated to Afrobeats and Afric",
-        "end":  "2026-09-07T00:00:00.0000000"
+        "end":  "2026-09-06T05:00:00.0000000"
     },
     {
-        "start":  "2026-09-06T00:00:00.0000000",
-        "title":  "K-Everything",
-        "desc":  "Daniel Dae Kim explores the worldwide surge of South Korean influence, examining its impact on everything from cinema and music to aesthetics and cuisine.",
-        "end":  "2026-09-06T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-06T01:00:00.0000000",
-        "title":  "World Sport",
-        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-09-06T01:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-06T01:30:00.0000000",
-        "title":  "Blueprint",
-        "desc":  "The host explores the innovations that thrive across the UK, from breakthroughs in bioengineering to pioneering advances in energy and infrastructure.",
-        "end":  "2026-09-06T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-06T02:00:00.0000000",
-        "title":  "Inside Africa",
-        "desc":  "A journey across Africa, exploring the diversity and depth of different cultures, countries and regions.",
-        "end":  "2026-09-06T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-06T02:30:00.0000000",
-        "title":  "African Voices",
-        "desc":  "CNN producer Lamide Akintobi rode with U.S. rapper Rick Ross and Nigerian singers Spyro, Kah-Lo, Falana and Chella as they discussed their journeys, while in Kenya, Larry Madowo explored the streets of Nairobi with radio personality Maina Kageni.",
-        "end":  "2026-09-06T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-06T03:00:00.0000000",
-        "title":  "Connecting Africa",
-        "desc":  "From futuristic transport systems in North Africa to the rise of AI-powered data infrastructure, we explore how major projects are reshaping trade, investment and economic growth.",
-        "end":  "2026-09-06T03:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-06T03:45:00.0000000",
-        "title":  "Marketplace Africa",
-        "desc":  "South Africa\u0027s contributions to space tech are growing at a rapid rate, with the country exporting a valued $1 billion worth of products used primarily in satellites; taking a look at the types of tech these companies are creating and their goals for development when it comes to the ever-growing space race; building off the success of Zipline across the continent, one company has developed an unma",
-        "end":  "2026-09-06T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-06T04:00:00.0000000",
+        "start":  "2026-09-06T05:00:00.0000000",
         "title":  "CNN Newsroom",
         "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-09-06T04:30:00.0000000"
+        "end":  "2026-09-06T05:30:00.0000000"
     },
     {
-        "start":  "2026-09-06T04:30:00.0000000",
-        "title":  "Africa Inc",
-        "desc":  "African music has evolved from a regional cultural force into a global commercial industry, powering sold-out tours, streaming growth, destination festivals, sponsorship deals, and international fan communities. We explore the business behind that growth through The Malachite Group (TMG), the company behind Afro Nation Portugal, one of the world\u0027s largest festivals dedicated to Afrobeats and Afric",
+        "start":  "2026-09-06T05:30:00.0000000",
+        "title":  "Inside Africa",
+        "desc":  "Lesotho is known as the Kingdom in the Sky, a country of vast mountains where horses remain central to everyday life; we explore how a centuries-old equestrian culture continues to shape transport, livelihoods, tourism and community life across the highlands.",
+        "end":  "2026-09-06T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T06:00:00.0000000",
+        "title":  "CNN Newsroom",
+        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
+        "end":  "2026-09-06T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T06:30:00.0000000",
+        "title":  "Marketplace Middle East",
+        "desc":  "The Gulf is experiencing a data center boom, with Saudi Arabia, the UAE and Oman operating more than 130 facilities. But SpaceX\u0027s plans for orbital data centers could transform how and where digital infrastructure is built. If the technology delivers on speed, latency and efficiency, future investment could shift from the ground to space. We speak to Schneider Electric\u0027s Manish Pant about their in",
+        "end":  "2026-09-06T06:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T06:45:00.0000000",
+        "title":  "Marketplace Africa",
+        "desc":  "South Africa\u0027s contributions to space tech are growing at a rapid rate, with the country exporting a valued $1 billion worth of products used primarily in satellites; taking a look at the types of tech these companies are creating and their goals for development when it comes to the ever-growing space race; building off the success of Zipline across the continent, one company has developed an unma",
+        "end":  "2026-09-06T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T07:00:00.0000000",
+        "title":  "CNN Newsroom",
+        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
+        "end":  "2026-09-06T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T07:30:00.0000000",
+        "title":  "Quest\u0027s World of Wonder",
+        "desc":  "The 250th birthday of the United States is the perfect reason for a summer holiday and a great American road trip! And what better road to travel than Route 66 during its centennial year? It\u0027s a bucket list trip for many. The road is inextricably tied to the history of and major milestones in the United States. A drive on Route 66 immerses us in the story of the country.",
+        "end":  "2026-09-06T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T08:00:00.0000000",
+        "title":  "CNN Newsroom",
+        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
+        "end":  "2026-09-06T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T09:00:00.0000000",
+        "title":  "CNN Newsroom",
+        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
+        "end":  "2026-09-06T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T10:00:00.0000000",
+        "title":  "Connecting Africa",
+        "desc":  "From futuristic transport systems in North Africa to the rise of AI-powered data infrastructure, we explore how major projects are reshaping trade, investment and economic growth.",
+        "end":  "2026-09-06T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T10:30:00.0000000",
+        "title":  "Inside Africa",
+        "desc":  "Lesotho is known as the Kingdom in the Sky, a country of vast mountains where horses remain central to everyday life; we explore how a centuries-old equestrian culture continues to shape transport, livelihoods, tourism and community life across the highlands.",
+        "end":  "2026-09-06T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T11:00:00.0000000",
+        "title":  "CNN This Morning Weekend",
+        "desc":  "Stories from across the world and refreshing conversations with Victor Blackwell.",
+        "end":  "2026-09-06T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T12:00:00.0000000",
+        "title":  "Inside Politics With Manu Raju",
+        "desc":  "Manu Raju leads an in-depth conversation on the week\u0027s most important political storylines, with a diverse set of analysts and news-making interviews.",
+        "end":  "2026-09-06T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T13:00:00.0000000",
+        "title":  "State of the Union With Jake Tapper and Dana Bash",
+        "desc":  "Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.",
+        "end":  "2026-09-06T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T14:00:00.0000000",
+        "title":  "Fareed Zakaria GPS",
+        "desc":  "Insights, analysis and interviews to world leaders, artists, scientists, business leaders, global affairs analysts and other cultural observers.",
+        "end":  "2026-09-06T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T15:00:00.0000000",
+        "title":  "Inside Politics With Manu Raju",
+        "desc":  "Manu Raju leads an in-depth conversation on the week\u0027s most important political storylines, with a diverse set of analysts and news-making interviews.",
+        "end":  "2026-09-06T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T16:00:00.0000000",
+        "title":  "Live: World Sport",
+        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
+        "end":  "2026-09-06T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T16:30:00.0000000",
+        "title":  "Inside Africa",
+        "desc":  "Lesotho is known as the Kingdom in the Sky, a country of vast mountains where horses remain central to everyday life; we explore how a centuries-old equestrian culture continues to shape transport, livelihoods, tourism and community life across the highlands.",
+        "end":  "2026-09-06T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T17:00:00.0000000",
+        "title":  "African Voices",
+        "desc":  "CNN producer Lamide Akintobi rode with U.S. rapper Rick Ross and Nigerian singers Spyro, Kah-Lo, Falana and Chella as they discussed their journeys, while in Kenya, Larry Madowo explored the streets of Nairobi with radio personality Maina Kageni.",
+        "end":  "2026-09-06T17:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T17:30:00.0000000",
+        "title":  "Detours",
+        "desc":  "Vacations have become just as busy as our lives. With packed tours on trending sites, our travel philosophy is overdue for a reset. In Tokyo, despite its futuristic flash, slow is still a way of life. Century-old rituals are what set the city apart for travelers who seek intentionality, depth, and culture inside a vast metropolis.",
+        "end":  "2026-09-06T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T18:00:00.0000000",
+        "title":  "CNN Newsroom Sunday",
+        "desc":  "Updates of the news from around the world.",
+        "end":  "2026-09-06T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T19:00:00.0000000",
+        "title":  "CNN Newsroom Sunday",
+        "desc":  "Updates of the news from around the world.",
+        "end":  "2026-09-06T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T20:00:00.0000000",
+        "title":  "CNN Newsroom Sunday",
+        "desc":  "Updates of the news from around the world.",
+        "end":  "2026-09-06T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T21:00:00.0000000",
+        "title":  "Live: World Sport",
+        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
+        "end":  "2026-09-06T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T21:30:00.0000000",
+        "title":  "Connecting Africa",
+        "desc":  "From futuristic transport systems in North Africa to the rise of AI-powered data infrastructure, we explore how major projects are reshaping trade, investment and economic growth.",
+        "end":  "2026-09-06T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T22:00:00.0000000",
+        "title":  "CNN Newsroom Sunday",
+        "desc":  "Updates of the news from around the world.",
+        "end":  "2026-09-06T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T23:00:00.0000000",
+        "title":  "CNN Newsroom Sunday",
+        "desc":  "Updates of the news from around the world.",
         "end":  "2026-09-07T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T00:00:00.0000000",
+        "title":  "9/11",
+        "desc":  "A real-life documentary following the events of Sept. 11 from an insider\u0027s view, through the lens of James Hanlon and two French filmmakers who were in Manhattan that one day.",
+        "end":  "2026-09-07T01:36:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T01:36:00.0000000",
+        "title":  "9/11: Inside The Film",
+        "desc":  "Twenty-five years after capturing the defining images of September 11, Jules and GÃ©dÃ©on Naudet share previously unaired footage; they reflect on the trauma, responsibility and enduring bond forged by witnessing one of history\u0027s darkest days.",
+        "end":  "2026-09-07T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T02:00:00.0000000",
+        "title":  "African Voices",
+        "desc":  "CNN producer Lamide Akintobi rode with U.S. rapper Rick Ross and Nigerian singers Spyro, Kah-Lo, Falana and Chella as they discussed their journeys, while in Kenya, Larry Madowo explored the streets of Nairobi with radio personality Maina Kageni.",
+        "end":  "2026-09-07T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T02:30:00.0000000",
+        "title":  "Marketplace Middle East",
+        "desc":  "The Gulf is experiencing a data center boom, with Saudi Arabia, the UAE and Oman operating more than 130 facilities. But SpaceX\u0027s plans for orbital data centers could transform how and where digital infrastructure is built. If the technology delivers on speed, latency and efficiency, future investment could shift from the ground to space. We speak to Schneider Electric\u0027s Manish Pant about their in",
+        "end":  "2026-09-07T02:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T02:45:00.0000000",
+        "title":  "Marketplace Africa",
+        "desc":  "South Africa\u0027s contributions to space tech are growing at a rapid rate, with the country exporting a valued $1 billion worth of products used primarily in satellites; taking a look at the types of tech these companies are creating and their goals for development when it comes to the ever-growing space race; building off the success of Zipline across the continent, one company has developed an unma",
+        "end":  "2026-09-07T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T03:00:00.0000000",
+        "title":  "Quest\u0027s World of Wonder",
+        "desc":  "The 250th birthday of the United States is the perfect reason for a summer holiday and a great American road trip! And what better road to travel than Route 66 during its centennial year? It\u0027s a bucket list trip for many. The road is inextricably tied to the history of and major milestones in the United States. A drive on Route 66 immerses us in the story of the country.",
+        "end":  "2026-09-07T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T03:30:00.0000000",
+        "title":  "Inside Africa",
+        "desc":  "Lesotho is known as the Kingdom in the Sky, a country of vast mountains where horses remain central to everyday life; we explore how a centuries-old equestrian culture continues to shape transport, livelihoods, tourism and community life across the highlands.",
+        "end":  "2026-09-07T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T04:00:00.0000000",
+        "title":  "CNN Newsroom",
+        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
+        "end":  "2026-09-08T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T00:00:00.0000000",
+        "title":  "9/11",
+        "desc":  "A real-life documentary following the events of Sept. 11 from an insider\u0027s view, through the lens of James Hanlon and two French filmmakers who were in Manhattan that one day.",
+        "end":  "2026-09-07T01:36:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T01:36:00.0000000",
+        "title":  "9/11: Inside The Film",
+        "desc":  "Twenty-five years after capturing the defining images of September 11, Jules and GÃ©dÃ©on Naudet share previously unaired footage; they reflect on the trauma, responsibility and enduring bond forged by witnessing one of history\u0027s darkest days.",
+        "end":  "2026-09-07T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T02:00:00.0000000",
+        "title":  "African Voices",
+        "desc":  "CNN producer Lamide Akintobi rode with U.S. rapper Rick Ross and Nigerian singers Spyro, Kah-Lo, Falana and Chella as they discussed their journeys, while in Kenya, Larry Madowo explored the streets of Nairobi with radio personality Maina Kageni.",
+        "end":  "2026-09-07T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T02:30:00.0000000",
+        "title":  "Marketplace Middle East",
+        "desc":  "The Gulf is experiencing a data center boom, with Saudi Arabia, the UAE and Oman operating more than 130 facilities. But SpaceX\u0027s plans for orbital data centers could transform how and where digital infrastructure is built. If the technology delivers on speed, latency and efficiency, future investment could shift from the ground to space. We speak to Schneider Electric\u0027s Manish Pant about their in",
+        "end":  "2026-09-07T02:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T02:45:00.0000000",
+        "title":  "Marketplace Africa",
+        "desc":  "South Africa\u0027s contributions to space tech are growing at a rapid rate, with the country exporting a valued $1 billion worth of products used primarily in satellites; taking a look at the types of tech these companies are creating and their goals for development when it comes to the ever-growing space race; building off the success of Zipline across the continent, one company has developed an unma",
+        "end":  "2026-09-07T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T03:00:00.0000000",
+        "title":  "Quest\u0027s World of Wonder",
+        "desc":  "The 250th birthday of the United States is the perfect reason for a summer holiday and a great American road trip! And what better road to travel than Route 66 during its centennial year? It\u0027s a bucket list trip for many. The road is inextricably tied to the history of and major milestones in the United States. A drive on Route 66 immerses us in the story of the country.",
+        "end":  "2026-09-07T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T03:30:00.0000000",
+        "title":  "Inside Africa",
+        "desc":  "Lesotho is known as the Kingdom in the Sky, a country of vast mountains where horses remain central to everyday life; we explore how a centuries-old equestrian culture continues to shape transport, livelihoods, tourism and community life across the highlands.",
+        "end":  "2026-09-07T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-07T04:00:00.0000000",
+        "title":  "CNN Newsroom",
+        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
+        "end":  "2026-09-08T00:00:00.0000000"
     }
 ]

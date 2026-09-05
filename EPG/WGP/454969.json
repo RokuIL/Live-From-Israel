@@ -1,579 +1,495 @@
 [
     {
-        "start":  "2026-09-04T00:00:00.0000000",
+        "start":  "2026-09-05T00:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "San Francisco 49ers v Arizona Cardinals from the 2024/25 season.",
-        "end":  "2026-09-04T01:00:00.0000000"
+        "desc":  "Los Angeles Chargers v Baltimore Ravens from the 2024/25 season.",
+        "end":  "2026-09-05T01:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T01:00:00.0000000",
+        "start":  "2026-09-05T01:00:00.0000000",
+        "title":  "Live MMA: One Championship",
+        "desc":  "One Fight Night 47. Coverage of the event from Lumpinee Stadium in Bangkok, headlined by Stamp Fairtex v Selina Flores for the Atomweight Muay Thai Championship.",
+        "end":  "2026-09-05T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T05:00:00.0000000",
+        "title":  "Live NRL",
+        "desc":  "New Zealand Warriors V Manly Sea Eagles (Kick-off 6.00am). Coverage of the match at Go Media Stadium in Auckland.",
+        "end":  "2026-09-05T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T07:00:00.0000000",
+        "title":  "NFL Super Bowl LI Highlights",
+        "desc":  "New England Patriots v Atlanta Falcons. Action from American football\u0027s showpiece match in the 2016/17 season, which took place at NRG Stadium in Houston, Texas.",
+        "end":  "2026-09-05T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T09:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "New York Jets v Buffalo Bills from the 2024/25 season.",
-        "end":  "2026-09-04T02:00:00.0000000"
+        "desc":  "Action from Kansas City Chiefs v Buffalo Bills in the 2024/25 AFC Championship match.",
+        "end":  "2026-09-05T09:15:00.0000000"
     },
     {
-        "start":  "2026-09-04T02:00:00.0000000",
+        "start":  "2026-09-05T09:15:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "New York Giants v Cincinnati Bengals from the 2024/25 season.",
-        "end":  "2026-09-04T03:00:00.0000000"
+        "desc":  "Philadelphia Eagles v Washington Commanders in the 2024/25 NFC Championship match.",
+        "end":  "2026-09-05T09:30:00.0000000"
     },
     {
-        "start":  "2026-09-04T03:00:00.0000000",
+        "start":  "2026-09-05T09:30:00.0000000",
+        "title":  "Rugby Greatest Games",
+        "desc":  "Hurricanes v Highlanders from 2015.",
+        "end":  "2026-09-05T09:35:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T09:35:00.0000000",
+        "title":  "Live NRL",
+        "desc":  "Cronulla-Sutherland Sharks v Melbourne Storm (Kick-off 10.35am). Coverage of the match from the 27th round of fixtures at Ocean Protect Stadium in Sydney.",
+        "end":  "2026-09-05T11:35:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T11:35:00.0000000",
+        "title":  "Rugby Greatest Games",
+        "desc":  "Highlanders v Crusaders from 2017.",
+        "end":  "2026-09-05T11:40:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T11:40:00.0000000",
+        "title":  "NFL: America\u0027s Game",
+        "desc":  "The story of New England Patriots\u0027s 2019 Super Bowl success.",
+        "end":  "2026-09-05T12:40:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T12:40:00.0000000",
+        "title":  "International Rugby Union",
+        "desc":  "South Africa v New Zealand. Action from the second Test in the four-match series from DHL Stadium in Cape Town.",
+        "end":  "2026-09-05T14:55:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T14:55:00.0000000",
+        "title":  "Live International Rugby Union",
+        "desc":  "South Africa v New Zealand (Kick-off 4.10pm). Coverage of the Third Test in the four-match series, which takes place at First National Bank Stadium in Johannesburg.",
+        "end":  "2026-09-05T17:10:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T17:10:00.0000000",
+        "title":  "Rugby Greatest Games",
+        "desc":  "Crusaders v Sharks from 2014.",
+        "end":  "2026-09-05T17:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T17:15:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Dallas Cowboys v Detroit Lions from the 2024/25 season.",
-        "end":  "2026-09-04T04:00:00.0000000"
+        "desc":  "Action from Kansas City Chiefs v Buffalo Bills in the 2024/25 AFC Championship match.",
+        "end":  "2026-09-05T17:30:00.0000000"
     },
     {
-        "start":  "2026-09-04T04:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Kansas City Chiefs v Houston Texans in the first 2024/25 Divisional play-off match.",
-        "end":  "2026-09-04T04:15:00.0000000"
+        "start":  "2026-09-05T17:30:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Philadelphia Eagles v Washington Commanders in the 2024/25 NFC Championship match.",
+        "end":  "2026-09-05T17:45:00.0000000"
     },
     {
-        "start":  "2026-09-04T04:15:00.0000000",
+        "start":  "2026-09-05T17:45:00.0000000",
         "title":  "NFL Bitesize Highlights",
-        "desc":  "Detroit Lions v Washington Commanders in the second 2024/25 Divisional play-off match.",
-        "end":  "2026-09-04T04:30:00.0000000"
+        "desc":  "Los Angeles Rams v Philadelphia Eagles.",
+        "end":  "2026-09-05T18:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T04:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Philadelphia Eagles v Los Angeles Rams in the third 2024/25 Divisional play-off match.",
-        "end":  "2026-09-04T04:45:00.0000000"
+        "start":  "2026-09-05T18:00:00.0000000",
+        "title":  "The Proving Ground",
+        "desc":  "Following the New York Jets in the summer of 2026.",
+        "end":  "2026-09-05T18:30:00.0000000"
     },
     {
-        "start":  "2026-09-04T04:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
+        "start":  "2026-09-05T18:30:00.0000000",
+        "title":  "Live Betfred Super League",
+        "desc":  "Leeds Rhinos v Wigan Warriors (Kick-off 8.00pm). Coverage of the match from the 26th round of fixtures at AMT Headingley Stadium.",
+        "end":  "2026-09-05T20:50:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T20:50:00.0000000",
+        "title":  "Live International Rugby Union",
+        "desc":  "Argentina v Australia (Kick-off 10.00pm). Coverage of the Second and Final Test in the series from Estadio Malvinas Argentinas in Mendoza, Argentina.",
+        "end":  "2026-09-05T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T23:00:00.0000000",
+        "title":  "Super Bowl LIX Highlights",
+        "desc":  "Kansas City Chiefs v Philadelphia Eagles. Highlights of the showpiece match, which took place at Caesars Superdome in New Orleans, Louisiana.",
+        "end":  "2026-09-05T23:10:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T23:10:00.0000000",
+        "title":  "British and Irish Lions Tour",
+        "desc":  "Chiefs v British \u0026 Irish Lions. Action from FMG Stadium Waikato in Hamilton, as the Lions played their final fixture before the first Test against New Zealand.",
+        "end":  "2026-09-05T23:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T23:15:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Philadelphia Eagles v Los Angeles Rams in the third Divisional play-off match from 2024/25.",
+        "end":  "2026-09-05T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T23:30:00.0000000",
+        "title":  "NFL Highlights",
         "desc":  "Buffalo Bills v Baltimore Ravens in the fourth 2024/25 Divisional play-off match.",
-        "end":  "2026-09-04T05:00:00.0000000"
+        "end":  "2026-09-05T23:45:00.0000000"
     },
     {
-        "start":  "2026-09-04T05:00:00.0000000",
+        "start":  "2026-09-05T23:45:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Action from Kansas City Chiefs v Buffalo Bills in the 2024/25 AFC Championship match.",
+        "end":  "2026-09-06T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T00:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Philadelphia Eagles v Atlanta Falcons from the 2024/25 season.",
+        "end":  "2026-09-06T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T01:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Houston Texans v Chicago Bears from the 2024/25 season.",
+        "end":  "2026-09-06T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T02:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Kansas City Chiefs v Cincinnati Bengals from the 2024/25 season.",
+        "end":  "2026-09-06T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T03:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Cincinnati Bengals v Washington Commanders from the 2024/25 season.",
+        "end":  "2026-09-06T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T04:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Atlanta Falcons v Kansas City Chiefs from the 2024/25 season.",
+        "end":  "2026-09-06T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T05:00:00.0000000",
         "title":  "NFL Highlights",
         "desc":  "Atlanta Falcons v Green Bay Packers in the 2016/17 NFC Championship Game.",
-        "end":  "2026-09-04T06:00:00.0000000"
+        "end":  "2026-09-06T06:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T06:00:00.0000000",
+        "start":  "2026-09-06T06:00:00.0000000",
+        "title":  "Rugby Greatest Games",
+        "desc":  "Australia v England from 2016.",
+        "end":  "2026-09-06T06:05:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T06:05:00.0000000",
+        "title":  "Live NRL",
+        "desc":  "Penrith Panthers v Wests Tigers (Kick-off 7.05am). Coverage of the match at CommBank Stadium in Sydney.",
+        "end":  "2026-09-06T08:05:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T08:05:00.0000000",
+        "title":  "Rugby Greatest Games",
+        "desc":  "Australia v New Zealand from 2000.",
+        "end":  "2026-09-06T08:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T08:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Minnesota Vikings v Chicago Bears from the 2025/26 season.",
+        "end":  "2026-09-06T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T08:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Buffalo Bills v Tampa Bay Buccaneers from the 2025/26 season.",
+        "end":  "2026-09-06T08:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T08:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Miami Dolphins v Washington Commanders from the 2025/26 season.",
+        "end":  "2026-09-06T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T09:00:00.0000000",
         "title":  "NFL: America\u0027s Game",
-        "desc":  "A look at the Kansas City Chiefs road to Super Bowl success in 2023/24.",
-        "end":  "2026-09-04T07:00:00.0000000"
+        "desc":  "The story of New England Patriots\u0027s 2014 Super Bowl success, which saw them defeat Seattle Seahawks at University of Phoenix Stadium in Glendale, Arizona.",
+        "end":  "2026-09-06T10:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T07:00:00.0000000",
+        "start":  "2026-09-06T10:00:00.0000000",
+        "title":  "The Proving Ground",
+        "desc":  "Following the New York Jets in the summer of 2026.",
+        "end":  "2026-09-06T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T10:30:00.0000000",
+        "title":  "The Proving Ground",
+        "desc":  "Following the New York Jets in the summer of 2026.",
+        "end":  "2026-09-06T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T11:00:00.0000000",
+        "title":  "International Rugby Union",
+        "desc":  "South Africa v New Zealand. Action from the Third Test in the four-match series, which took place at First National Bank Stadium in Johannesburg.",
+        "end":  "2026-09-06T13:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T13:15:00.0000000",
+        "title":  "International Rugby Union",
+        "desc":  "Argentina v Australia. Action from the Second and Final Test in the series at Estadio Malvinas Argentinas in Mendoza, Argentina.",
+        "end":  "2026-09-06T15:25:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T15:25:00.0000000",
+        "title":  "Rugby Greatest Games",
+        "desc":  "Crusaders v Sharks from 2014.",
+        "end":  "2026-09-06T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T15:30:00.0000000",
+        "title":  "The Proving Ground",
+        "desc":  "Following the New York Jets in the summer of 2026.",
+        "end":  "2026-09-06T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T16:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Buffalo Bills v Tampa Bay Buccaneers from the 2025/26 season.",
+        "end":  "2026-09-06T16:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T16:15:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Action from Kansas City Chiefs v Buffalo Bills in the 2024/25 AFC Championship match.",
+        "end":  "2026-09-06T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T16:30:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Kansas City Chiefs v Houston Texans in the first 2024/25 Divisional play-off match.",
+        "end":  "2026-09-06T16:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T16:45:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Philadelphia Eagles v Washington Commanders in the 2024/25 NFC Championship match.",
+        "end":  "2026-09-06T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T17:00:00.0000000",
+        "title":  "International Rugby Union",
+        "desc":  "South Africa v New Zealand. Action from the Third Test in the four-match series, which took place at First National Bank Stadium in Johannesburg.",
+        "end":  "2026-09-06T19:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T19:15:00.0000000",
+        "title":  "International Rugby Union",
+        "desc":  "Argentina v Australia. Action from the Second and Final Test in the series at Estadio Malvinas Argentinas in Mendoza, Argentina.",
+        "end":  "2026-09-06T21:25:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T21:25:00.0000000",
+        "title":  "Super Rugby Classics",
+        "desc":  "Sharks v Bulls from 2007.",
+        "end":  "2026-09-06T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T21:30:00.0000000",
         "title":  "Super Bowl LIX Highlights",
         "desc":  "Kansas City Chiefs v Philadelphia Eagles. Highlights of the showpiece match, which took place at Caesars Superdome in New Orleans, Louisiana.",
-        "end":  "2026-09-04T08:00:00.0000000"
+        "end":  "2026-09-06T22:30:00.0000000"
     },
     {
-        "start":  "2026-09-04T08:00:00.0000000",
+        "start":  "2026-09-06T22:30:00.0000000",
         "title":  "Super Bowl LX Highlights",
         "desc":  "Seattle Seahawks v New England Patriots. Action from the showpiece NFL match at Levi\u0027s Stadium in Santa Clara, California.",
-        "end":  "2026-09-04T09:00:00.0000000"
+        "end":  "2026-09-06T23:30:00.0000000"
     },
     {
-        "start":  "2026-09-04T09:00:00.0000000",
-        "title":  "NFL: America\u0027s Game",
-        "desc":  "A look at the Kansas City Chiefs road to Super Bowl success in 2022/23.",
-        "end":  "2026-09-04T10:00:00.0000000"
+        "start":  "2026-09-06T23:30:00.0000000",
+        "title":  "Live NCAA College Football",
+        "desc":  "Wisconsin Badgers v Notre Dame Fighting Irish (Kick-off 12.30am). Coverage of the match from Lambeau Field in Green Bay.",
+        "end":  "2026-09-07T00:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T10:00:00.0000000",
+        "start":  "2026-09-06T00:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Philadelphia Eagles v Los Angeles Rams in the third Divisional play-off match from 2024/25.",
-        "end":  "2026-09-04T11:00:00.0000000"
+        "desc":  "Philadelphia Eagles v Atlanta Falcons from the 2024/25 season.",
+        "end":  "2026-09-06T01:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T11:00:00.0000000",
-        "title":  "Kansas City Chiefs: The Franchise",
-        "desc":  "A behind-the-scenes look at the Kansas City Chiefs.",
-        "end":  "2026-09-04T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T11:30:00.0000000",
-        "title":  "The Proving Ground",
-        "desc":  "Following the New York Jets in the summer of 2026.",
-        "end":  "2026-09-04T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "desc":  "The latest NFL news and talking points.",
-        "end":  "2026-09-04T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T14:00:00.0000000",
-        "title":  "The Proving Ground",
-        "desc":  "Following the New York Jets in the summer of 2026.",
-        "end":  "2026-09-04T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T14:30:00.0000000",
+        "start":  "2026-09-06T01:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Philadelphia Eagles v Los Angeles Rams in the third Divisional play-off match from 2024/25.",
-        "end":  "2026-09-04T14:45:00.0000000"
+        "desc":  "Houston Texans v Chicago Bears from the 2024/25 season.",
+        "end":  "2026-09-06T02:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T14:45:00.0000000",
+        "start":  "2026-09-06T02:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Philadelphia Eagles v Washington Commanders in the 2024/25 NFC Championship match.",
-        "end":  "2026-09-04T15:00:00.0000000"
+        "desc":  "Kansas City Chiefs v Cincinnati Bengals from the 2024/25 season.",
+        "end":  "2026-09-06T03:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T15:00:00.0000000",
-        "title":  "NFL: America\u0027s Game",
-        "desc":  "The story of the Los Angeles Rams 2022 Super Bowl success.",
-        "end":  "2026-09-04T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T16:00:00.0000000",
-        "title":  "The Proving Ground",
-        "desc":  "Following the New York Jets in the summer of 2026.",
-        "end":  "2026-09-04T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T16:30:00.0000000",
-        "title":  "NBC\u0027s Pro-Football Talk",
-        "desc":  "Mike Florio and Chris Simms present this NFL talk show, as they discuss and debate the biggest stories from around the league.",
-        "end":  "2026-09-04T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T18:30:00.0000000",
-        "title":  "Live Betfred Super League",
-        "desc":  "Leigh Leopards v St Helens (Kick-off 8.00pm). Coverage of the match from the 26th round of fixtures, which takes place at The Progress with Unity Stadium.",
-        "end":  "2026-09-04T21:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T21:15:00.0000000",
-        "title":  "NFL Fantasy",
-        "desc":  "Featuring the top NFL fantasy experts and analysts.",
-        "end":  "2026-09-04T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T22:00:00.0000000",
-        "title":  "The Proving Ground",
-        "desc":  "Following the New York Jets in the summer of 2026.",
-        "end":  "2026-09-04T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T22:30:00.0000000",
-        "title":  "The Proving Ground",
-        "desc":  "Following the New York Jets in the summer of 2026.",
-        "end":  "2026-09-04T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T23:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "Real-time breaking National Football League news.",
-        "end":  "2026-09-05T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T00:00:00.0000000",
+        "start":  "2026-09-06T03:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Los Angeles Chargers v Baltimore Ravens from the 2024/25 season.",
-        "end":  "2026-09-05T01:00:00.0000000"
+        "desc":  "Cincinnati Bengals v Washington Commanders from the 2024/25 season.",
+        "end":  "2026-09-06T04:00:00.0000000"
     },
     {
-        "start":  "2026-09-05T01:00:00.0000000",
-        "title":  "Live MMA: One Championship",
-        "desc":  "One Fight Night 47. Coverage of the event from Lumpinee Stadium in Bangkok, headlined by Stamp Fairtex v Selina Flores for the Atomweight Muay Thai Championship.",
-        "end":  "2026-09-05T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T05:00:00.0000000",
-        "title":  "Live NRL",
-        "desc":  "New Zealand Warriors V Manly Sea Eagles (Kick-off 6.00am). Coverage of the match at Go Media Stadium in Auckland.",
-        "end":  "2026-09-05T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T07:00:00.0000000",
-        "title":  "NFL Super Bowl LI Highlights",
-        "desc":  "New England Patriots v Atlanta Falcons. Action from American football\u0027s showpiece match in the 2016/17 season, which took place at NRG Stadium in Houston, Texas.",
-        "end":  "2026-09-05T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T09:00:00.0000000",
+        "start":  "2026-09-06T04:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Action from Kansas City Chiefs v Buffalo Bills in the 2024/25 AFC Championship match.",
-        "end":  "2026-09-05T09:15:00.0000000"
+        "desc":  "Atlanta Falcons v Kansas City Chiefs from the 2024/25 season.",
+        "end":  "2026-09-06T05:00:00.0000000"
     },
     {
-        "start":  "2026-09-05T09:15:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Philadelphia Eagles v Washington Commanders in the 2024/25 NFC Championship match.",
-        "end":  "2026-09-05T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T09:30:00.0000000",
-        "title":  "Rugby Greatest Games",
-        "desc":  "Hurricanes v Highlanders from 2015.",
-        "end":  "2026-09-05T09:35:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T09:35:00.0000000",
-        "title":  "Live NRL",
-        "desc":  "Cronulla-Sutherland Sharks v Melbourne Storm (Kick-off 10.35am). Coverage of the match from the 27th round of fixtures at Ocean Protect Stadium in Sydney.",
-        "end":  "2026-09-05T11:35:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T11:35:00.0000000",
-        "title":  "Rugby Greatest Games",
-        "desc":  "Highlanders v Crusaders from 2017.",
-        "end":  "2026-09-05T11:40:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T11:40:00.0000000",
-        "title":  "NFL: America\u0027s Game",
-        "desc":  "The story of New England Patriots\u0027s 2019 Super Bowl success.",
-        "end":  "2026-09-05T12:40:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T12:40:00.0000000",
-        "title":  "International Rugby Union",
-        "desc":  "South Africa v New Zealand. Action from the second Test in the four-match series from DHL Stadium in Cape Town.",
-        "end":  "2026-09-05T14:55:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T14:55:00.0000000",
-        "title":  "Live International Rugby Union",
-        "desc":  "South Africa v New Zealand (Kick-off 4.10pm). Coverage of the Third Test in the four-match series, which takes place at First National Bank Stadium in Johannesburg.",
-        "end":  "2026-09-05T17:10:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T17:10:00.0000000",
-        "title":  "Rugby Greatest Games",
-        "desc":  "Crusaders v Sharks from 2014.",
-        "end":  "2026-09-05T17:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T17:15:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Action from Kansas City Chiefs v Buffalo Bills in the 2024/25 AFC Championship match.",
-        "end":  "2026-09-05T17:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T17:30:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Philadelphia Eagles v Washington Commanders in the 2024/25 NFC Championship match.",
-        "end":  "2026-09-05T17:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T17:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Los Angeles Rams v Philadelphia Eagles.",
-        "end":  "2026-09-05T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T18:00:00.0000000",
-        "title":  "The Proving Ground",
-        "desc":  "Following the New York Jets in the summer of 2026.",
-        "end":  "2026-09-05T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T18:30:00.0000000",
-        "title":  "Live Betfred Super League",
-        "desc":  "Leeds Rhinos v Wigan Warriors (Kick-off 8.00pm). Coverage of the match from the 26th round of fixtures at AMT Headingley Stadium.",
-        "end":  "2026-09-05T20:50:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T20:50:00.0000000",
-        "title":  "Live International Rugby Union",
-        "desc":  "Argentina v Australia (Kick-off 10.00pm). Coverage of the Second and Final Test in the series from Estadio Malvinas Argentinas in Mendoza, Argentina.",
-        "end":  "2026-09-05T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T23:00:00.0000000",
-        "title":  "Super Bowl LIX Highlights",
-        "desc":  "Kansas City Chiefs v Philadelphia Eagles. Highlights of the showpiece match, which took place at Caesars Superdome in New Orleans, Louisiana.",
-        "end":  "2026-09-06T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T00:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Los Angeles Chargers v Baltimore Ravens from the 2024/25 season.",
-        "end":  "2026-09-05T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T01:00:00.0000000",
-        "title":  "Live MMA: One Championship",
-        "desc":  "One Fight Night 47. Coverage of the event from Lumpinee Stadium in Bangkok, headlined by Stamp Fairtex v Selina Flores for the Atomweight Muay Thai Championship.",
-        "end":  "2026-09-05T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T05:00:00.0000000",
-        "title":  "Live NRL",
-        "desc":  "New Zealand Warriors V Manly Sea Eagles (Kick-off 6.00am). Coverage of the match at Go Media Stadium in Auckland.",
-        "end":  "2026-09-05T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T07:00:00.0000000",
-        "title":  "NFL Super Bowl LI Highlights",
-        "desc":  "New England Patriots v Atlanta Falcons. Action from American football\u0027s showpiece match in the 2016/17 season, which took place at NRG Stadium in Houston, Texas.",
-        "end":  "2026-09-05T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T09:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Action from Kansas City Chiefs v Buffalo Bills in the 2024/25 AFC Championship match.",
-        "end":  "2026-09-05T09:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T09:15:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Philadelphia Eagles v Washington Commanders in the 2024/25 NFC Championship match.",
-        "end":  "2026-09-05T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T09:30:00.0000000",
-        "title":  "Rugby Greatest Games",
-        "desc":  "Hurricanes v Highlanders from 2015.",
-        "end":  "2026-09-05T09:35:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T09:35:00.0000000",
-        "title":  "Live NRL",
-        "desc":  "Cronulla-Sutherland Sharks v Melbourne Storm (Kick-off 10.35am). Coverage of the match from the 27th round of fixtures at Ocean Protect Stadium in Sydney.",
-        "end":  "2026-09-05T11:35:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T11:35:00.0000000",
-        "title":  "Rugby Greatest Games",
-        "desc":  "Highlanders v Crusaders from 2017.",
-        "end":  "2026-09-05T11:40:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T11:40:00.0000000",
-        "title":  "NFL: America\u0027s Game",
-        "desc":  "The story of New England Patriots\u0027s 2019 Super Bowl success.",
-        "end":  "2026-09-05T12:40:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T12:40:00.0000000",
-        "title":  "International Rugby Union",
-        "desc":  "South Africa v New Zealand. Action from the second Test in the four-match series from DHL Stadium in Cape Town.",
-        "end":  "2026-09-05T14:55:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T14:55:00.0000000",
-        "title":  "Live International Rugby Union",
-        "desc":  "South Africa v New Zealand (Kick-off 4.10pm). Coverage of the Third Test in the four-match series, which takes place at First National Bank Stadium in Johannesburg.",
-        "end":  "2026-09-05T17:10:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T17:10:00.0000000",
-        "title":  "Rugby Greatest Games",
-        "desc":  "Crusaders v Sharks from 2014.",
-        "end":  "2026-09-05T17:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T17:15:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Action from Kansas City Chiefs v Buffalo Bills in the 2024/25 AFC Championship match.",
-        "end":  "2026-09-05T17:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T17:30:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Philadelphia Eagles v Washington Commanders in the 2024/25 NFC Championship match.",
-        "end":  "2026-09-05T17:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T17:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Los Angeles Rams v Philadelphia Eagles.",
-        "end":  "2026-09-05T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T18:00:00.0000000",
-        "title":  "The Proving Ground",
-        "desc":  "Following the New York Jets in the summer of 2026.",
-        "end":  "2026-09-05T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T18:30:00.0000000",
-        "title":  "Live Betfred Super League",
-        "desc":  "Leeds Rhinos v Wigan Warriors (Kick-off 8.00pm). Coverage of the match from the 26th round of fixtures at AMT Headingley Stadium.",
-        "end":  "2026-09-05T20:50:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T20:50:00.0000000",
-        "title":  "Live International Rugby Union",
-        "desc":  "Argentina v Australia (Kick-off 10.00pm). Coverage of the Second and Final Test in the series from Estadio Malvinas Argentinas in Mendoza, Argentina.",
-        "end":  "2026-09-05T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-05T23:00:00.0000000",
-        "title":  "Super Bowl LIX Highlights",
-        "desc":  "Kansas City Chiefs v Philadelphia Eagles. Highlights of the showpiece match, which took place at Caesars Superdome in New Orleans, Louisiana.",
-        "end":  "2026-09-06T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T00:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "San Francisco 49ers v Arizona Cardinals from the 2024/25 season.",
-        "end":  "2026-09-04T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T01:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "New York Jets v Buffalo Bills from the 2024/25 season.",
-        "end":  "2026-09-04T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T02:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "New York Giants v Cincinnati Bengals from the 2024/25 season.",
-        "end":  "2026-09-04T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T03:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Dallas Cowboys v Detroit Lions from the 2024/25 season.",
-        "end":  "2026-09-04T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T04:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Kansas City Chiefs v Houston Texans in the first 2024/25 Divisional play-off match.",
-        "end":  "2026-09-04T04:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T04:15:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Detroit Lions v Washington Commanders in the second 2024/25 Divisional play-off match.",
-        "end":  "2026-09-04T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T04:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Philadelphia Eagles v Los Angeles Rams in the third 2024/25 Divisional play-off match.",
-        "end":  "2026-09-04T04:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T04:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Buffalo Bills v Baltimore Ravens in the fourth 2024/25 Divisional play-off match.",
-        "end":  "2026-09-04T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T05:00:00.0000000",
+        "start":  "2026-09-06T05:00:00.0000000",
         "title":  "NFL Highlights",
         "desc":  "Atlanta Falcons v Green Bay Packers in the 2016/17 NFC Championship Game.",
-        "end":  "2026-09-04T06:00:00.0000000"
+        "end":  "2026-09-06T06:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T06:00:00.0000000",
+        "start":  "2026-09-06T06:00:00.0000000",
+        "title":  "Rugby Greatest Games",
+        "desc":  "Australia v England from 2016.",
+        "end":  "2026-09-06T06:05:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T06:05:00.0000000",
+        "title":  "Live NRL",
+        "desc":  "Penrith Panthers v Wests Tigers (Kick-off 7.05am). Coverage of the match at CommBank Stadium in Sydney.",
+        "end":  "2026-09-06T08:05:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T08:05:00.0000000",
+        "title":  "Rugby Greatest Games",
+        "desc":  "Australia v New Zealand from 2000.",
+        "end":  "2026-09-06T08:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T08:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Minnesota Vikings v Chicago Bears from the 2025/26 season.",
+        "end":  "2026-09-06T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T08:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Buffalo Bills v Tampa Bay Buccaneers from the 2025/26 season.",
+        "end":  "2026-09-06T08:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T08:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Miami Dolphins v Washington Commanders from the 2025/26 season.",
+        "end":  "2026-09-06T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T09:00:00.0000000",
         "title":  "NFL: America\u0027s Game",
-        "desc":  "A look at the Kansas City Chiefs road to Super Bowl success in 2023/24.",
-        "end":  "2026-09-04T07:00:00.0000000"
+        "desc":  "The story of New England Patriots\u0027s 2014 Super Bowl success, which saw them defeat Seattle Seahawks at University of Phoenix Stadium in Glendale, Arizona.",
+        "end":  "2026-09-06T10:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T07:00:00.0000000",
-        "title":  "Super Bowl LIX Highlights",
-        "desc":  "Kansas City Chiefs v Philadelphia Eagles. Highlights of the showpiece match, which took place at Caesars Superdome in New Orleans, Louisiana.",
-        "end":  "2026-09-04T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T08:00:00.0000000",
-        "title":  "Super Bowl LX Highlights",
-        "desc":  "Seattle Seahawks v New England Patriots. Action from the showpiece NFL match at Levi\u0027s Stadium in Santa Clara, California.",
-        "end":  "2026-09-04T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T09:00:00.0000000",
-        "title":  "NFL: America\u0027s Game",
-        "desc":  "A look at the Kansas City Chiefs road to Super Bowl success in 2022/23.",
-        "end":  "2026-09-04T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T10:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Philadelphia Eagles v Los Angeles Rams in the third Divisional play-off match from 2024/25.",
-        "end":  "2026-09-04T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T11:00:00.0000000",
-        "title":  "Kansas City Chiefs: The Franchise",
-        "desc":  "A behind-the-scenes look at the Kansas City Chiefs.",
-        "end":  "2026-09-04T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T11:30:00.0000000",
+        "start":  "2026-09-06T10:00:00.0000000",
         "title":  "The Proving Ground",
         "desc":  "Following the New York Jets in the summer of 2026.",
-        "end":  "2026-09-04T12:00:00.0000000"
+        "end":  "2026-09-06T10:30:00.0000000"
     },
     {
-        "start":  "2026-09-04T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "desc":  "The latest NFL news and talking points.",
-        "end":  "2026-09-04T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T14:00:00.0000000",
+        "start":  "2026-09-06T10:30:00.0000000",
         "title":  "The Proving Ground",
         "desc":  "Following the New York Jets in the summer of 2026.",
-        "end":  "2026-09-04T14:30:00.0000000"
+        "end":  "2026-09-06T11:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T14:30:00.0000000",
+        "start":  "2026-09-06T11:00:00.0000000",
+        "title":  "International Rugby Union",
+        "desc":  "South Africa v New Zealand. Action from the Third Test in the four-match series, which took place at First National Bank Stadium in Johannesburg.",
+        "end":  "2026-09-06T13:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T13:15:00.0000000",
+        "title":  "International Rugby Union",
+        "desc":  "Argentina v Australia. Action from the Second and Final Test in the series at Estadio Malvinas Argentinas in Mendoza, Argentina.",
+        "end":  "2026-09-06T15:25:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T15:25:00.0000000",
+        "title":  "Rugby Greatest Games",
+        "desc":  "Crusaders v Sharks from 2014.",
+        "end":  "2026-09-06T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T15:30:00.0000000",
+        "title":  "The Proving Ground",
+        "desc":  "Following the New York Jets in the summer of 2026.",
+        "end":  "2026-09-06T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T16:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Buffalo Bills v Tampa Bay Buccaneers from the 2025/26 season.",
+        "end":  "2026-09-06T16:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T16:15:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Philadelphia Eagles v Los Angeles Rams in the third Divisional play-off match from 2024/25.",
-        "end":  "2026-09-04T14:45:00.0000000"
+        "desc":  "Action from Kansas City Chiefs v Buffalo Bills in the 2024/25 AFC Championship match.",
+        "end":  "2026-09-06T16:30:00.0000000"
     },
     {
-        "start":  "2026-09-04T14:45:00.0000000",
+        "start":  "2026-09-06T16:30:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Kansas City Chiefs v Houston Texans in the first 2024/25 Divisional play-off match.",
+        "end":  "2026-09-06T16:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T16:45:00.0000000",
         "title":  "NFL Highlights",
         "desc":  "Philadelphia Eagles v Washington Commanders in the 2024/25 NFC Championship match.",
-        "end":  "2026-09-04T15:00:00.0000000"
+        "end":  "2026-09-06T17:00:00.0000000"
     },
     {
-        "start":  "2026-09-04T15:00:00.0000000",
-        "title":  "NFL: America\u0027s Game",
-        "desc":  "The story of the Los Angeles Rams 2022 Super Bowl success.",
-        "end":  "2026-09-04T16:00:00.0000000"
+        "start":  "2026-09-06T17:00:00.0000000",
+        "title":  "International Rugby Union",
+        "desc":  "South Africa v New Zealand. Action from the Third Test in the four-match series, which took place at First National Bank Stadium in Johannesburg.",
+        "end":  "2026-09-06T19:15:00.0000000"
     },
     {
-        "start":  "2026-09-04T16:00:00.0000000",
-        "title":  "The Proving Ground",
-        "desc":  "Following the New York Jets in the summer of 2026.",
-        "end":  "2026-09-04T16:30:00.0000000"
+        "start":  "2026-09-06T19:15:00.0000000",
+        "title":  "International Rugby Union",
+        "desc":  "Argentina v Australia. Action from the Second and Final Test in the series at Estadio Malvinas Argentinas in Mendoza, Argentina.",
+        "end":  "2026-09-06T21:25:00.0000000"
     },
     {
-        "start":  "2026-09-04T16:30:00.0000000",
-        "title":  "NBC\u0027s Pro-Football Talk",
-        "desc":  "Mike Florio and Chris Simms present this NFL talk show, as they discuss and debate the biggest stories from around the league.",
-        "end":  "2026-09-04T18:30:00.0000000"
+        "start":  "2026-09-06T21:25:00.0000000",
+        "title":  "Super Rugby Classics",
+        "desc":  "Sharks v Bulls from 2007.",
+        "end":  "2026-09-06T21:30:00.0000000"
     },
     {
-        "start":  "2026-09-04T18:30:00.0000000",
-        "title":  "Live Betfred Super League",
-        "desc":  "Leigh Leopards v St Helens (Kick-off 8.00pm). Coverage of the match from the 26th round of fixtures, which takes place at The Progress with Unity Stadium.",
-        "end":  "2026-09-04T21:15:00.0000000"
+        "start":  "2026-09-06T21:30:00.0000000",
+        "title":  "Super Bowl LIX Highlights",
+        "desc":  "Kansas City Chiefs v Philadelphia Eagles. Highlights of the showpiece match, which took place at Caesars Superdome in New Orleans, Louisiana.",
+        "end":  "2026-09-06T22:30:00.0000000"
     },
     {
-        "start":  "2026-09-04T21:15:00.0000000",
-        "title":  "NFL Fantasy",
-        "desc":  "Featuring the top NFL fantasy experts and analysts.",
-        "end":  "2026-09-04T22:00:00.0000000"
+        "start":  "2026-09-06T22:30:00.0000000",
+        "title":  "Super Bowl LX Highlights",
+        "desc":  "Seattle Seahawks v New England Patriots. Action from the showpiece NFL match at Levi\u0027s Stadium in Santa Clara, California.",
+        "end":  "2026-09-06T23:30:00.0000000"
     },
     {
-        "start":  "2026-09-04T22:00:00.0000000",
-        "title":  "The Proving Ground",
-        "desc":  "Following the New York Jets in the summer of 2026.",
-        "end":  "2026-09-04T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T22:30:00.0000000",
-        "title":  "The Proving Ground",
-        "desc":  "Following the New York Jets in the summer of 2026.",
-        "end":  "2026-09-04T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-04T23:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "Real-time breaking National Football League news.",
-        "end":  "2026-09-05T00:00:00.0000000"
+        "start":  "2026-09-06T23:30:00.0000000",
+        "title":  "Live NCAA College Football",
+        "desc":  "Wisconsin Badgers v Notre Dame Fighting Irish (Kick-off 12.30am). Coverage of the match from Lambeau Field in Green Bay.",
+        "end":  "2026-09-07T00:00:00.0000000"
     },
     {
         "start":  "2026-09-05T00:00:00.0000000",
@@ -693,6 +609,204 @@
         "start":  "2026-09-05T23:00:00.0000000",
         "title":  "Super Bowl LIX Highlights",
         "desc":  "Kansas City Chiefs v Philadelphia Eagles. Highlights of the showpiece match, which took place at Caesars Superdome in New Orleans, Louisiana.",
+        "end":  "2026-09-05T23:10:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T23:10:00.0000000",
+        "title":  "British and Irish Lions Tour",
+        "desc":  "Chiefs v British \u0026 Irish Lions. Action from FMG Stadium Waikato in Hamilton, as the Lions played their final fixture before the first Test against New Zealand.",
+        "end":  "2026-09-05T23:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T23:15:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Philadelphia Eagles v Los Angeles Rams in the third Divisional play-off match from 2024/25.",
+        "end":  "2026-09-05T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T23:30:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Buffalo Bills v Baltimore Ravens in the fourth 2024/25 Divisional play-off match.",
+        "end":  "2026-09-05T23:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-05T23:45:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Action from Kansas City Chiefs v Buffalo Bills in the 2024/25 AFC Championship match.",
         "end":  "2026-09-06T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T00:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Philadelphia Eagles v Atlanta Falcons from the 2024/25 season.",
+        "end":  "2026-09-06T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T01:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Houston Texans v Chicago Bears from the 2024/25 season.",
+        "end":  "2026-09-06T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T02:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Kansas City Chiefs v Cincinnati Bengals from the 2024/25 season.",
+        "end":  "2026-09-06T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T03:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Cincinnati Bengals v Washington Commanders from the 2024/25 season.",
+        "end":  "2026-09-06T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T04:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Atlanta Falcons v Kansas City Chiefs from the 2024/25 season.",
+        "end":  "2026-09-06T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T05:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Atlanta Falcons v Green Bay Packers in the 2016/17 NFC Championship Game.",
+        "end":  "2026-09-06T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T06:00:00.0000000",
+        "title":  "Rugby Greatest Games",
+        "desc":  "Australia v England from 2016.",
+        "end":  "2026-09-06T06:05:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T06:05:00.0000000",
+        "title":  "Live NRL",
+        "desc":  "Penrith Panthers v Wests Tigers (Kick-off 7.05am). Coverage of the match at CommBank Stadium in Sydney.",
+        "end":  "2026-09-06T08:05:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T08:05:00.0000000",
+        "title":  "Rugby Greatest Games",
+        "desc":  "Australia v New Zealand from 2000.",
+        "end":  "2026-09-06T08:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T08:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Minnesota Vikings v Chicago Bears from the 2025/26 season.",
+        "end":  "2026-09-06T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T08:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Buffalo Bills v Tampa Bay Buccaneers from the 2025/26 season.",
+        "end":  "2026-09-06T08:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T08:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Miami Dolphins v Washington Commanders from the 2025/26 season.",
+        "end":  "2026-09-06T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T09:00:00.0000000",
+        "title":  "NFL: America\u0027s Game",
+        "desc":  "The story of New England Patriots\u0027s 2014 Super Bowl success, which saw them defeat Seattle Seahawks at University of Phoenix Stadium in Glendale, Arizona.",
+        "end":  "2026-09-06T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T10:00:00.0000000",
+        "title":  "The Proving Ground",
+        "desc":  "Following the New York Jets in the summer of 2026.",
+        "end":  "2026-09-06T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T10:30:00.0000000",
+        "title":  "The Proving Ground",
+        "desc":  "Following the New York Jets in the summer of 2026.",
+        "end":  "2026-09-06T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T11:00:00.0000000",
+        "title":  "International Rugby Union",
+        "desc":  "South Africa v New Zealand. Action from the Third Test in the four-match series, which took place at First National Bank Stadium in Johannesburg.",
+        "end":  "2026-09-06T13:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T13:15:00.0000000",
+        "title":  "International Rugby Union",
+        "desc":  "Argentina v Australia. Action from the Second and Final Test in the series at Estadio Malvinas Argentinas in Mendoza, Argentina.",
+        "end":  "2026-09-06T15:25:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T15:25:00.0000000",
+        "title":  "Rugby Greatest Games",
+        "desc":  "Crusaders v Sharks from 2014.",
+        "end":  "2026-09-06T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T15:30:00.0000000",
+        "title":  "The Proving Ground",
+        "desc":  "Following the New York Jets in the summer of 2026.",
+        "end":  "2026-09-06T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T16:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Buffalo Bills v Tampa Bay Buccaneers from the 2025/26 season.",
+        "end":  "2026-09-06T16:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T16:15:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Action from Kansas City Chiefs v Buffalo Bills in the 2024/25 AFC Championship match.",
+        "end":  "2026-09-06T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T16:30:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Kansas City Chiefs v Houston Texans in the first 2024/25 Divisional play-off match.",
+        "end":  "2026-09-06T16:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T16:45:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Philadelphia Eagles v Washington Commanders in the 2024/25 NFC Championship match.",
+        "end":  "2026-09-06T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T17:00:00.0000000",
+        "title":  "International Rugby Union",
+        "desc":  "South Africa v New Zealand. Action from the Third Test in the four-match series, which took place at First National Bank Stadium in Johannesburg.",
+        "end":  "2026-09-06T19:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T19:15:00.0000000",
+        "title":  "International Rugby Union",
+        "desc":  "Argentina v Australia. Action from the Second and Final Test in the series at Estadio Malvinas Argentinas in Mendoza, Argentina.",
+        "end":  "2026-09-06T21:25:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T21:25:00.0000000",
+        "title":  "Super Rugby Classics",
+        "desc":  "Sharks v Bulls from 2007.",
+        "end":  "2026-09-06T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T21:30:00.0000000",
+        "title":  "Super Bowl LIX Highlights",
+        "desc":  "Kansas City Chiefs v Philadelphia Eagles. Highlights of the showpiece match, which took place at Caesars Superdome in New Orleans, Louisiana.",
+        "end":  "2026-09-06T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T22:30:00.0000000",
+        "title":  "Super Bowl LX Highlights",
+        "desc":  "Seattle Seahawks v New England Patriots. Action from the showpiece NFL match at Levi\u0027s Stadium in Santa Clara, California.",
+        "end":  "2026-09-06T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-06T23:30:00.0000000",
+        "title":  "Live NCAA College Football",
+        "desc":  "Wisconsin Badgers v Notre Dame Fighting Irish (Kick-off 12.30am). Coverage of the match from Lambeau Field in Green Bay.",
+        "end":  "2026-09-07T00:00:00.0000000"
     }
 ]
