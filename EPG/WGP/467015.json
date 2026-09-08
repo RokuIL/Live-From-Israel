@@ -1,359 +1,5 @@
 [
     {
-        "start":  "2026-09-07T03:00:00.0000000",
-        "title":  "News 4 New York at 11 Weekend",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-09-07T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T03:30:00.0000000",
-        "title":  "News 4 NY at 11:30",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-09-07T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T04:00:00.0000000",
-        "title":  "Sports Final",
-        "desc":  "News, scores, highlights.",
-        "end":  "2026-09-07T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T04:30:00.0000000",
-        "title":  "1st Look",
-        "desc":  "Lifestyle trends in food, nightlife, art, travel and entertainment.",
-        "end":  "2026-09-07T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T05:00:00.0000000",
-        "title":  "Access Hollywood",
-        "desc":  "Hosts Mario Lopez, Kit Hoover, Scott Evans and Zuri Hall take viewers behind the velvet ropes and onto the red carpet to deliver celebrity interviews and entertainment news stories in Hollywood.",
-        "end":  "2026-09-07T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T06:00:00.0000000",
-        "title":  "In Touch With Dr. Charles Stanley",
-        "desc":  "Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.",
-        "end":  "2026-09-07T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T06:30:00.0000000",
-        "title":  "Meet the Press",
-        "desc":  "Journalist Steve Kornacki; Sen. John Kennedy (R-La.); Rep. Jamie Raskin (D-Md.); roundtable discussion with Matt Gorman, Steve Ricchetti, Julie Tsirkin and Amy Walter.",
-        "end":  "2026-09-07T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T07:30:00.0000000",
-        "title":  "Early Today",
-        "desc":  "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day\u0027s anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
-        "end":  "2026-09-07T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T08:00:00.0000000",
-        "title":  "Early Today",
-        "desc":  "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day\u0027s anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
-        "end":  "2026-09-07T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T08:30:00.0000000",
-        "title":  "Today in New York",
-        "desc":  "The local news, weather and investigative stories impacting your community.",
-        "end":  "2026-09-07T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T09:00:00.0000000",
-        "title":  "Today in New York",
-        "desc":  "The local news, weather and investigative stories impacting your community.",
-        "end":  "2026-09-07T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T10:00:00.0000000",
-        "title":  "Today in New York @ 6AM",
-        "desc":  "The latest local news, weather and investigative stories impacting the community.",
-        "end":  "2026-09-07T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T11:00:00.0000000",
-        "title":  "Today",
-        "desc":  "News headlines, interviews, and stories intended to inform, entertain, inspire and set the agenda each morning for Americans and help viewers with their finances, health and well-being.",
-        "end":  "2026-09-07T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T13:00:00.0000000",
-        "title":  "Today 3rd Hour",
-        "desc":  "A news program intended to inform, entertain, inspire and set the agenda each morning, offering news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.",
-        "end":  "2026-09-07T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T14:00:00.0000000",
-        "title":  "Today With Jenna \u0026 Sheinelle",
-        "desc":  "America\u0027s feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.",
-        "end":  "2026-09-07T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T15:00:00.0000000",
-        "title":  "Live: News 4 NY at 11AM",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-09-07T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T15:30:00.0000000",
-        "title":  "New York Live",
-        "desc":  "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
-        "end":  "2026-09-07T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T16:00:00.0000000",
-        "title":  "NBC News Daily",
-        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-        "end":  "2026-09-07T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T17:00:00.0000000",
-        "title":  "Dateline",
-        "desc":  "The forgotten murder of a policeman\u0027s wife open\u0027s up years later.",
-        "end":  "2026-09-07T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T18:00:00.0000000",
-        "title":  "Access Daily With Mario \u0026 Kit",
-        "desc":  "The daily one-hour syndicated entertainment news and lifestyle talk show co-hosted by Mario Lopez, Kit Hoover and Scott Evans features celebrity interviews and gives viewers insider access to Hollywood\u0027s biggest stories.",
-        "end":  "2026-09-07T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T19:00:00.0000000",
-        "title":  "News Zone",
-        "desc":  "News, as it happens; raw coverage and inside access from the tri-state and beyond.",
-        "end":  "2026-09-07T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T20:00:00.0000000",
-        "title":  "News 4 NY at 4",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-09-07T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T20:30:00.0000000",
-        "title":  "News 4 NY at 4:30",
-        "desc":  "NY news.",
-        "end":  "2026-09-07T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T21:00:00.0000000",
-        "title":  "News 4 NY at 5",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-09-07T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T21:30:00.0000000",
-        "title":  "News 4 NY at 5:30",
-        "desc":  "NY news.",
-        "end":  "2026-09-07T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T22:00:00.0000000",
-        "title":  "News 4 NY at 6",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-09-07T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T22:30:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-        "end":  "2026-09-07T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T23:00:00.0000000",
-        "title":  "News 4 NY at 7",
-        "desc":  "Stay informed with the breaking news and headlines.",
-        "end":  "2026-09-07T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-07T23:30:00.0000000",
-        "title":  "Access Hollywood",
-        "desc":  "Deidre Hall\u0027s \"Days of our Lives\" 50th anniversary celebration; Genie Francis\u0027 \"General Hospital\" tribute; Shemar Moore\u0027s \"The Young and the Restless\" reunion.",
-        "end":  "2026-09-08T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T00:00:00.0000000",
-        "title":  "Live: MLB Baseball",
-        "desc":  "From Oracle Park in San Francisco.",
-        "end":  "2026-09-08T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T03:00:00.0000000",
-        "title":  "Live: News 4 NY at 11",
-        "desc":  "Local and regional news.",
-        "end":  "2026-09-08T03:34:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T03:34:00.0000000",
-        "title":  "The Tonight Show Starring Jimmy Fallon",
-        "desc":  "Actor Matt Damon; actor Anthony Michael Hall.",
-        "end":  "2026-09-08T04:37:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T04:37:00.0000000",
-        "title":  "Late Night With Seth Meyers",
-        "desc":  "Actress Anne Hathaway; actor Alan Ritchson.",
-        "end":  "2026-09-08T05:37:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T05:37:00.0000000",
-        "title":  "News 4 NY at 11",
-        "desc":  "Local and regional news.",
-        "end":  "2026-09-08T06:12:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T06:12:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-        "end":  "2026-09-08T06:42:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T06:42:00.0000000",
-        "title":  "Today",
-        "desc":  "A daily live broadcast provides current domestic and international news, weather reports and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports. Additionally, specific segments such as Today\u0027s Money, Today\u0027s Kitchen and Today Throws a Wedding target specific lifestyle issues, and the show\u0027s anchors frequently report on special themes from around the g",
-        "end":  "2026-09-08T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T07:30:00.0000000",
-        "title":  "Access Hollywood",
-        "desc":  "The 2025-2026 season of \"Access Hollywood\" marks the 30th year of bringing the biggest Hollywood headlines and celebrity interviews to viewers. The show is hosted by Mario Lopez, Kit Hoover, Scott Evans and Zuri Hall. The Emmy Award-nominated, daily, half-hour syndicated program delivers the inside scoop on the latest breaking entertainment news. \"Access\" also delves into the latest true crime hea",
-        "end":  "2026-09-08T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T08:00:00.0000000",
-        "title":  "Early Today",
-        "desc":  "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day\u0027s anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
-        "end":  "2026-09-08T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T08:30:00.0000000",
-        "title":  "Today in New York",
-        "desc":  "The local news, weather and investigative stories impacting your community.",
-        "end":  "2026-09-08T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T09:00:00.0000000",
-        "title":  "Today in New York",
-        "desc":  "The local news, weather and investigative stories impacting your community.",
-        "end":  "2026-09-08T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T10:00:00.0000000",
-        "title":  "Today in New York @ 6AM",
-        "desc":  "The latest local news, weather and investigative stories impacting the community.",
-        "end":  "2026-09-08T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T11:00:00.0000000",
-        "title":  "Today",
-        "desc":  "Former professional football coach Mike Tomlin; actresses Sandra Bullock and Nicole Kidman (\"Practical Magic 2\"); journalists Rebecca Blumenstein and Diana Kapp (\"The Last Free Women\"); lifestyle expert Sarah Eggenberger.",
-        "end":  "2026-09-08T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T13:00:00.0000000",
-        "title":  "Today 3rd Hour",
-        "desc":  "Journalist Jean Chatzky; aerial yoga; TV personality Laila Ali; what to do with one\u0027s summer photos with Amy E. Goodman; Today Food with Beejhy Barhany.",
-        "end":  "2026-09-08T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T14:00:00.0000000",
-        "title":  "Today With Jenna \u0026 Sheinelle",
-        "desc":  "The Scoop with Zuri Hall; singer-songwriter Sara Bareilles; the \"Real Housewives of NYC\"; a couple\u0027s fertility treatment journey.",
-        "end":  "2026-09-08T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T15:00:00.0000000",
-        "title":  "Live: News 4 NY at 11AM",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-09-08T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T15:30:00.0000000",
-        "title":  "New York Live",
-        "desc":  "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
-        "end":  "2026-09-08T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T16:00:00.0000000",
-        "title":  "NBC News Daily",
-        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-        "end":  "2026-09-08T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T17:00:00.0000000",
-        "title":  "Dateline",
-        "desc":  "The father of an Alabama teenager calls the police after he returns home to find his son had thrown a party, leaving the place trashed; 11 minutes after the deputy leaves the house, another 911 call is placed reporting a shooting at the residence.",
-        "end":  "2026-09-08T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T18:00:00.0000000",
-        "title":  "Access Daily With Mario \u0026 Kit",
-        "desc":  "Actress Melissa Peterman (NBC\u0027s \"Happy\u0027s Place\"); TV host Matt Iseman talks about his \"Front Office Sports\" show; actress Tabitha Brown; Female Quotient founder and CEO Shelley Zalis; group chat with journalist Nina Parker and comic Bryan Safi; cocktail connoisseur Paul Zahn shares celebratory drinks.",
-        "end":  "2026-09-08T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T19:00:00.0000000",
-        "title":  "News Zone",
-        "desc":  "News, as it happens; raw coverage and inside access from the tri-state and beyond.",
-        "end":  "2026-09-08T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T20:00:00.0000000",
-        "title":  "Live: News 4 NY at 4",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-09-08T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T20:30:00.0000000",
-        "title":  "Live: News 4 NY at 4:30",
-        "desc":  "NY news.",
-        "end":  "2026-09-08T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T21:00:00.0000000",
-        "title":  "Live: News 4 NY at 5",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-09-08T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T21:30:00.0000000",
-        "title":  "Live: News 4 NY at 5:30",
-        "desc":  "NY news.",
-        "end":  "2026-09-08T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T22:00:00.0000000",
-        "title":  "Live: News 4 NY at 6",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-09-08T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T22:30:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-        "end":  "2026-09-08T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T23:00:00.0000000",
-        "title":  "News 4 NY at 7",
-        "desc":  "Stay informed with the breaking news and headlines.",
-        "end":  "2026-09-08T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T23:30:00.0000000",
-        "title":  "Access Hollywood",
-        "desc":  "\"Practical Magic 2\" cast interviews; on the set of Amy Poehler\u0027s comedy series \"Dig\"; \"Access\" newsmakers lookback.",
-        "end":  "2026-09-09T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T00:00:00.0000000",
-        "title":  "Live: America\u0027s Got Talent",
-        "desc":  "Eleven acts take the stage in the final week of live quarterfinals; the Live Show Golden Buzzer sends one act directly to the finals and America begins the vote for their three favorite acts to advance.",
-        "end":  "2026-09-10T00:00:00.0000000"
-    },
-    {
         "start":  "2026-09-08T00:00:00.0000000",
         "title":  "Live: MLB Baseball",
         "desc":  "From Oracle Park in San Francisco.",
@@ -555,6 +201,162 @@
         "start":  "2026-09-09T04:35:00.0000000",
         "title":  "Late Night With Seth Meyers",
         "desc":  "Actress Molly Shannon; actor Jake Johnson.",
+        "end":  "2026-09-09T05:35:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T05:35:00.0000000",
+        "title":  "Chicago Fire",
+        "desc":  "As the courageous firefighters, rescue squad and paramedics of Chicago Firehouse 51 head first into danger, bravely fighting to save the people of their city from peril, they also forge deep, unbreakable bonds with each other.",
+        "end":  "2026-09-09T05:36:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T05:36:00.0000000",
+        "title":  "The Voice",
+        "desc":  "America\u0027s best undiscovered talent goes head-to-head on teams led by four of today\u0027s biggest musical icons, who playfully compete against each other while mentoring these inspiring singers in search of the next superstar Voice.",
+        "end":  "2026-09-09T05:37:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T05:37:00.0000000",
+        "title":  "News 4 NY at 11",
+        "desc":  "Local and regional news.",
+        "end":  "2026-09-09T06:12:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T06:12:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+        "end":  "2026-09-09T06:42:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T06:42:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "desc":  "Reporting of breaking news and developing stories in real time.",
+        "end":  "2026-09-09T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T07:30:00.0000000",
+        "title":  "Access Hollywood",
+        "desc":  "The 2025-2026 season of \"Access Hollywood\" marks the 30th year of bringing the biggest Hollywood headlines and celebrity interviews to viewers. The show is hosted by Mario Lopez, Kit Hoover, Scott Evans and Zuri Hall. The Emmy Award-nominated, daily, half-hour syndicated program delivers the inside scoop on the latest breaking entertainment news. \"Access\" also delves into the latest true crime hea",
+        "end":  "2026-09-09T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T08:00:00.0000000",
+        "title":  "Early Today",
+        "desc":  "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day\u0027s anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+        "end":  "2026-09-09T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T08:30:00.0000000",
+        "title":  "Today in New York",
+        "desc":  "The local news, weather and investigative stories impacting your community.",
+        "end":  "2026-09-09T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T09:00:00.0000000",
+        "title":  "Today in New York",
+        "desc":  "The local news, weather and investigative stories impacting your community.",
+        "end":  "2026-09-09T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T10:00:00.0000000",
+        "title":  "Today in New York @ 6AM",
+        "desc":  "The latest local news, weather and investigative stories impacting the community.",
+        "end":  "2026-09-09T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T11:00:00.0000000",
+        "title":  "Today",
+        "desc":  "Actress Gal Gadot; actresses Joey King and Maisie Williams (\"Practical Magic 2\"); Today Food with Elizabeth Heiskell.",
+        "end":  "2026-09-09T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T13:00:00.0000000",
+        "title":  "Today 3rd Hour",
+        "desc":  "Health reset with Dr. Natalie Azar; actors Liam Neeson and Zachary Levi (\"The Fix\"); actress Kaya Scodelario; lifestyle expert Jill Martin; actors Maitreyi Ramakrishnan and Hasan Minhaj (\"Best of the Best\").",
+        "end":  "2026-09-09T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T14:00:00.0000000",
+        "title":  "Today With Jenna \u0026 Sheinelle",
+        "desc":  "Actress Naomi Watts; style expert Lilliana Vazquez; rapper Shyne; Today Food.",
+        "end":  "2026-09-09T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T15:00:00.0000000",
+        "title":  "Live: News 4 NY at 11AM",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-09-09T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T15:30:00.0000000",
+        "title":  "New York Live",
+        "desc":  "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
+        "end":  "2026-09-09T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T16:00:00.0000000",
+        "title":  "NBC News Daily",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+        "end":  "2026-09-09T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T17:00:00.0000000",
+        "title":  "Dateline",
+        "desc":  "Investigators didn\u0027t know if Kathy Heckel was a missing person or murder victim; decades later the case is reopened by a new detective.",
+        "end":  "2026-09-09T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T18:00:00.0000000",
+        "title":  "Access Daily With Mario \u0026 Kit",
+        "desc":  "Actor Oliver Hudson; comic Bert Kreischer discusses his \"Permission to Party\" tour; actor Jay Hernandez; TV personality Phil Rosenthal talks about his \"Phil Rosenthal World\" brand; sommelier Helen Johannesen shares the best wines for every budget.",
+        "end":  "2026-09-09T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T19:00:00.0000000",
+        "title":  "News Zone",
+        "desc":  "News, as it happens; raw coverage and inside access from the tri-state and beyond.",
+        "end":  "2026-09-09T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T20:00:00.0000000",
+        "title":  "Live: News 4 NY at 4",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-09-09T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T20:30:00.0000000",
+        "title":  "Live: News 4 NY at 4:30",
+        "desc":  "NY news.",
+        "end":  "2026-09-09T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T21:00:00.0000000",
+        "title":  "Live: News 4 NY at 5",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-09-09T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T21:30:00.0000000",
+        "title":  "Live: News 4 NY at 5:30",
+        "desc":  "NY news.",
+        "end":  "2026-09-09T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T22:00:00.0000000",
+        "title":  "Live: News 4 NY at 6",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-09-09T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T22:30:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+        "end":  "2026-09-09T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T23:00:00.0000000",
+        "title":  "Live: NFL Kickoff 2026",
+        "desc":  "The pregame show before the first game of the 2026 season, featuring the Patriots and Seahawks in a Super Bowl LX rematch.",
         "end":  "2026-09-10T00:00:00.0000000"
     },
     {
@@ -585,6 +387,198 @@
         "start":  "2026-09-09T04:35:00.0000000",
         "title":  "Late Night With Seth Meyers",
         "desc":  "Actress Molly Shannon; actor Jake Johnson.",
+        "end":  "2026-09-09T05:35:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T05:35:00.0000000",
+        "title":  "Chicago Fire",
+        "desc":  "As the courageous firefighters, rescue squad and paramedics of Chicago Firehouse 51 head first into danger, bravely fighting to save the people of their city from peril, they also forge deep, unbreakable bonds with each other.",
+        "end":  "2026-09-09T05:36:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T05:36:00.0000000",
+        "title":  "The Voice",
+        "desc":  "America\u0027s best undiscovered talent goes head-to-head on teams led by four of today\u0027s biggest musical icons, who playfully compete against each other while mentoring these inspiring singers in search of the next superstar Voice.",
+        "end":  "2026-09-09T05:37:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T05:37:00.0000000",
+        "title":  "News 4 NY at 11",
+        "desc":  "Local and regional news.",
+        "end":  "2026-09-09T06:12:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T06:12:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+        "end":  "2026-09-09T06:42:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T06:42:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "desc":  "Reporting of breaking news and developing stories in real time.",
+        "end":  "2026-09-09T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T07:30:00.0000000",
+        "title":  "Access Hollywood",
+        "desc":  "The 2025-2026 season of \"Access Hollywood\" marks the 30th year of bringing the biggest Hollywood headlines and celebrity interviews to viewers. The show is hosted by Mario Lopez, Kit Hoover, Scott Evans and Zuri Hall. The Emmy Award-nominated, daily, half-hour syndicated program delivers the inside scoop on the latest breaking entertainment news. \"Access\" also delves into the latest true crime hea",
+        "end":  "2026-09-09T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T08:00:00.0000000",
+        "title":  "Early Today",
+        "desc":  "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day\u0027s anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+        "end":  "2026-09-09T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T08:30:00.0000000",
+        "title":  "Today in New York",
+        "desc":  "The local news, weather and investigative stories impacting your community.",
+        "end":  "2026-09-09T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T09:00:00.0000000",
+        "title":  "Today in New York",
+        "desc":  "The local news, weather and investigative stories impacting your community.",
+        "end":  "2026-09-09T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T10:00:00.0000000",
+        "title":  "Today in New York @ 6AM",
+        "desc":  "The latest local news, weather and investigative stories impacting the community.",
+        "end":  "2026-09-09T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T11:00:00.0000000",
+        "title":  "Today",
+        "desc":  "Actress Gal Gadot; actresses Joey King and Maisie Williams (\"Practical Magic 2\"); Today Food with Elizabeth Heiskell.",
+        "end":  "2026-09-09T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T13:00:00.0000000",
+        "title":  "Today 3rd Hour",
+        "desc":  "Health reset with Dr. Natalie Azar; actors Liam Neeson and Zachary Levi (\"The Fix\"); actress Kaya Scodelario; lifestyle expert Jill Martin; actors Maitreyi Ramakrishnan and Hasan Minhaj (\"Best of the Best\").",
+        "end":  "2026-09-09T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T14:00:00.0000000",
+        "title":  "Today With Jenna \u0026 Sheinelle",
+        "desc":  "Actress Naomi Watts; style expert Lilliana Vazquez; rapper Shyne; Today Food.",
+        "end":  "2026-09-09T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T15:00:00.0000000",
+        "title":  "Live: News 4 NY at 11AM",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-09-09T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T15:30:00.0000000",
+        "title":  "New York Live",
+        "desc":  "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
+        "end":  "2026-09-09T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T16:00:00.0000000",
+        "title":  "NBC News Daily",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+        "end":  "2026-09-09T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T17:00:00.0000000",
+        "title":  "Dateline",
+        "desc":  "Investigators didn\u0027t know if Kathy Heckel was a missing person or murder victim; decades later the case is reopened by a new detective.",
+        "end":  "2026-09-09T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T18:00:00.0000000",
+        "title":  "Access Daily With Mario \u0026 Kit",
+        "desc":  "Actor Oliver Hudson; comic Bert Kreischer discusses his \"Permission to Party\" tour; actor Jay Hernandez; TV personality Phil Rosenthal talks about his \"Phil Rosenthal World\" brand; sommelier Helen Johannesen shares the best wines for every budget.",
+        "end":  "2026-09-09T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T19:00:00.0000000",
+        "title":  "News Zone",
+        "desc":  "News, as it happens; raw coverage and inside access from the tri-state and beyond.",
+        "end":  "2026-09-09T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T20:00:00.0000000",
+        "title":  "Live: News 4 NY at 4",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-09-09T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T20:30:00.0000000",
+        "title":  "Live: News 4 NY at 4:30",
+        "desc":  "NY news.",
+        "end":  "2026-09-09T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T21:00:00.0000000",
+        "title":  "Live: News 4 NY at 5",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-09-09T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T21:30:00.0000000",
+        "title":  "Live: News 4 NY at 5:30",
+        "desc":  "NY news.",
+        "end":  "2026-09-09T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T22:00:00.0000000",
+        "title":  "Live: News 4 NY at 6",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-09-09T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T22:30:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+        "end":  "2026-09-09T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T23:00:00.0000000",
+        "title":  "Live: NFL Kickoff 2026",
+        "desc":  "The pregame show before the first game of the 2026 season, featuring the Patriots and Seahawks in a Super Bowl LX rematch.",
         "end":  "2026-09-10T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T00:15:00.0000000",
+        "title":  "Live: NFL Football",
+        "desc":  "The Seattle Seahawks host the New England Patriots in Week 1 at Lumen Field. Seattle defeated New England 29-13 at Levi\u0027s Stadium to win Super Bowl LX. Entering this matchup, Seattle leads the all-time head-to-head series 12-9 against New England.",
+        "end":  "2026-09-10T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T03:30:00.0000000",
+        "title":  "News 4 NY at 11",
+        "desc":  "Local and regional news.",
+        "end":  "2026-09-10T04:05:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T04:05:00.0000000",
+        "title":  "The Tonight Show Starring Jimmy Fallon",
+        "desc":  "Actor Matthew McConaughey; influencer Alix Earle; Riley Green performs.",
+        "end":  "2026-09-11T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T00:15:00.0000000",
+        "title":  "Live: NFL Football",
+        "desc":  "The Seattle Seahawks host the New England Patriots in Week 1 at Lumen Field. Seattle defeated New England 29-13 at Levi\u0027s Stadium to win Super Bowl LX. Entering this matchup, Seattle leads the all-time head-to-head series 12-9 against New England.",
+        "end":  "2026-09-10T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T03:30:00.0000000",
+        "title":  "News 4 NY at 11",
+        "desc":  "Local and regional news.",
+        "end":  "2026-09-10T04:05:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T04:05:00.0000000",
+        "title":  "The Tonight Show Starring Jimmy Fallon",
+        "desc":  "Actor Matthew McConaughey; influencer Alix Earle; Riley Green performs.",
+        "end":  "2026-09-11T00:00:00.0000000"
     }
 ]
