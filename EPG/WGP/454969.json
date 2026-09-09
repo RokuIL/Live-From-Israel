@@ -1,639 +1,465 @@
 [
     {
-        "start":  "2026-09-08T00:00:00.0000000",
+        "start":  "2026-09-09T00:00:00.0000000",
         "title":  "NFL: America\u0027s Game",
-        "desc":  "A look back at the Kansas City Chiefs side of 2020, who overcame San Francisco 49ers in Super Bowl LIV at Hard Rock Stadium in Miami, Florida.",
-        "end":  "2026-09-08T01:00:00.0000000"
+        "desc":  "The story of Seattle Seahawks\u0027 2013 Super Bowl success over Denver Broncos at MetLife Stadium in East Rutherford, New Jersey.",
+        "end":  "2026-09-09T01:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T01:00:00.0000000",
+        "start":  "2026-09-09T01:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Atlanta Falcons v Green Bay Packers in the 2016/17 NFC Championship Game.",
+        "end":  "2026-09-09T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T02:00:00.0000000",
+        "title":  "Super Bowl LV Highlights",
+        "desc":  "Tampa Bay Buccaneers v Kansas City Chiefs from the 2020/21 season.",
+        "end":  "2026-09-09T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T04:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Washington Commanders v Chicago Bears from the 2024/25 season.",
+        "end":  "2026-09-09T04:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T04:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Green Bay Packers v Detroit Lions from the 2024/25 season.",
+        "end":  "2026-09-09T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T04:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Denver Broncos v Kansas City Chiefs from the 2024/25 season.",
+        "end":  "2026-09-09T04:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T04:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Dallas Cowboys v Philadelphia Eagles from the 2024/25 season.",
+        "end":  "2026-09-09T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T05:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Atlanta Falcons v Green Bay Packers in the 2016/17 NFC Championship Game.",
+        "end":  "2026-09-09T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T06:00:00.0000000",
         "title":  "Super Bowl LX Highlights",
         "desc":  "Seattle Seahawks v New England Patriots. Action from the showpiece NFL match at Levi\u0027s Stadium in Santa Clara, California.",
-        "end":  "2026-09-08T02:00:00.0000000"
+        "end":  "2026-09-09T07:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T02:00:00.0000000",
-        "title":  "NFL Super Bowl LI Highlights",
-        "desc":  "New England Patriots v Atlanta Falcons. Action from American football\u0027s showpiece match in the 2016/17 season, which took place at NRG Stadium in Houston, Texas.",
-        "end":  "2026-09-08T04:00:00.0000000"
+        "start":  "2026-09-09T07:00:00.0000000",
+        "title":  "Super Bowl LV Highlights",
+        "desc":  "Tampa Bay Buccaneers v Kansas City Chiefs from the 2020/21 season.",
+        "end":  "2026-09-09T09:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T04:00:00.0000000",
+        "start":  "2026-09-09T09:00:00.0000000",
+        "title":  "NFL: America\u0027s Game",
+        "desc":  "The story of Seattle Seahawks\u0027 2013 Super Bowl success over Denver Broncos at MetLife Stadium in East Rutherford, New Jersey.",
+        "end":  "2026-09-09T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T10:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Atlanta Falcons v Green Bay Packers in the 2016/17 NFC Championship Game.",
+        "end":  "2026-09-09T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T11:00:00.0000000",
+        "title":  "Super Bowl LIX Highlights",
+        "desc":  "Kansas City Chiefs v Philadelphia Eagles. Highlights of the showpiece match, which took place at Caesars Superdome in New Orleans, Louisiana.",
+        "end":  "2026-09-09T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T12:00:00.0000000",
+        "title":  "Good Morning Football",
+        "desc":  "Up-to-the-minute breaking NFL news.",
+        "end":  "2026-09-09T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T14:00:00.0000000",
+        "title":  "The Proving Ground",
+        "desc":  "Following the New York Jets in the summer of 2026.",
+        "end":  "2026-09-09T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T14:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Carolina Panthers v Los Angeles Rams. Action from the first Wild Card play-off match from the 2025/26 season at Bank of America Stadium in Charlotte, North Carolina.",
+        "end":  "2026-09-09T14:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T14:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Chicago Bears v Los Angeles Rams. Action from the fourth Divisional play-off match from the 2025/26 season at Soldier Field.",
+        "end":  "2026-09-09T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T15:00:00.0000000",
+        "title":  "NFL: America\u0027s Game",
+        "desc":  "The story of the Los Angeles Rams 2022 Super Bowl success.",
+        "end":  "2026-09-09T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T16:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Jacksonville Jaguars v Buffalo Bills. Action from the third Wild Card play-off match from the 2025/26 season at EverBank Stadium.",
+        "end":  "2026-09-09T16:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T16:15:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Carolina Panthers v Seattle Seahawks from the 2025/26 season.",
+        "end":  "2026-09-09T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T16:30:00.0000000",
+        "title":  "The Proving Ground",
+        "desc":  "Following the New York Jets in the summer of 2026.",
+        "end":  "2026-09-09T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T17:00:00.0000000",
+        "title":  "NBC\u0027s Pro-Football Talk",
+        "desc":  "Mike Florio and Chris Simms present the NFL talk show, as they discuss and debate the biggest stories from around the league.",
+        "end":  "2026-09-09T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T19:00:00.0000000",
+        "title":  "NFL: America\u0027s Game",
+        "desc":  "The story of Seattle Seahawks\u0027 2013 Super Bowl success over Denver Broncos at MetLife Stadium in East Rutherford, New Jersey.",
+        "end":  "2026-09-09T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T20:00:00.0000000",
+        "title":  "Super Bowl LIX Highlights",
+        "desc":  "Kansas City Chiefs v Philadelphia Eagles. Highlights of the showpiece match, which took place at Caesars Superdome in New Orleans, Louisiana.",
+        "end":  "2026-09-09T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T21:00:00.0000000",
+        "title":  "NFL Fantasy",
+        "desc":  "Featuring the top NFL fantasy experts and analysts.",
+        "end":  "2026-09-09T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T22:00:00.0000000",
+        "title":  "Super Bowl LX Highlights",
+        "desc":  "Seattle Seahawks v New England Patriots. Action from the showpiece NFL match at Levi\u0027s Stadium in Santa Clara, California.",
+        "end":  "2026-09-09T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-09T23:00:00.0000000",
+        "title":  "NBC\u0027s FNIA",
+        "desc":  "The Football Night in America team preview the match between reigning Super Bowl champions Seattle Seahawks and New England Patriots, while also looking ahead to the season.",
+        "end":  "2026-09-10T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T00:10:00.0000000",
+        "title":  "Live NFL",
+        "desc":  "Seattle Seahawks v New England Patriots (Kick-off 1.20am). Coverage of the opening match of the season, which takes place at Lumen Field. These two teams last met in the Super Bowl back in February which the Seahawks won thanks to a 29-13 victory at Levi\u0027s Stadium in Santa Clara, California. The hosts have a good recent record against the Patriots as well, winning the last four meetings and also b",
+        "end":  "2026-09-10T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T04:00:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Buffalo Bills v Denver Broncos in the third 2024/25 Wild Card play-off match.",
-        "end":  "2026-09-08T04:15:00.0000000"
+        "end":  "2026-09-10T04:15:00.0000000"
     },
     {
-        "start":  "2026-09-08T04:15:00.0000000",
+        "start":  "2026-09-10T04:15:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Philadelphia Eagles v Green Bay Packers in the fourth 2024/25 Wild Card play-off match.",
-        "end":  "2026-09-08T04:30:00.0000000"
+        "end":  "2026-09-10T04:30:00.0000000"
     },
     {
-        "start":  "2026-09-08T04:30:00.0000000",
+        "start":  "2026-09-10T04:30:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Tampa Bay Buccaneers v Washington Commanders in the fifth 2024/25 Wild Card play-off match.",
-        "end":  "2026-09-08T04:45:00.0000000"
+        "end":  "2026-09-10T04:45:00.0000000"
     },
     {
-        "start":  "2026-09-08T04:45:00.0000000",
+        "start":  "2026-09-10T04:45:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Los Angeles Rams v Minnesota Vikings in the sixth 2024/25 Wild Card play-off match.",
-        "end":  "2026-09-08T05:00:00.0000000"
+        "end":  "2026-09-10T05:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T05:00:00.0000000",
-        "title":  "Super Bowl LIX Highlights",
-        "desc":  "Kansas City Chiefs v Philadelphia Eagles. Highlights of the showpiece match, which took place at Caesars Superdome in New Orleans, Louisiana.",
-        "end":  "2026-09-08T06:00:00.0000000"
+        "start":  "2026-09-10T05:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Atlanta Falcons v Green Bay Packers in the 2016/17 NFC Championship Game.",
+        "end":  "2026-09-10T06:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T06:00:00.0000000",
+        "start":  "2026-09-10T06:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Seattle Seahawks v New England Patriots.",
+        "end":  "2026-09-10T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T07:00:00.0000000",
         "title":  "Super Bowl LX Highlights",
         "desc":  "Seattle Seahawks v New England Patriots. Action from the showpiece NFL match at Levi\u0027s Stadium in Santa Clara, California.",
-        "end":  "2026-09-08T07:00:00.0000000"
+        "end":  "2026-09-10T08:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T07:00:00.0000000",
-        "title":  "NFL Super Bowl LI Highlights",
-        "desc":  "New England Patriots v Atlanta Falcons. Action from American football\u0027s showpiece match in the 2016/17 season, which took place at NRG Stadium in Houston, Texas.",
-        "end":  "2026-09-08T09:00:00.0000000"
+        "start":  "2026-09-10T08:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Seattle Seahawks v New England Patriots.",
+        "end":  "2026-09-10T09:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T09:00:00.0000000",
-        "title":  "NFL: America\u0027s Game",
-        "desc":  "The story of the Los Angeles Rams 2022 Super Bowl success.",
-        "end":  "2026-09-08T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T10:00:00.0000000",
-        "title":  "Super Bowl LV Highlights",
-        "desc":  "Tampa Bay Buccaneers v Kansas City Chiefs from the 2020/21 season.",
-        "end":  "2026-09-08T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "desc":  "Up-to-the-minute breaking NFL news.",
-        "end":  "2026-09-08T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T14:00:00.0000000",
-        "title":  "The Proving Ground",
-        "desc":  "Following the New York Jets in the summer of 2026.",
-        "end":  "2026-09-08T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T14:30:00.0000000",
-        "title":  "Super Bowl LX Bitesize Highlights",
-        "desc":  "Seattle Seahawks v New England Patriots. Action from the showpiece NFL match at Levi\u0027s Stadium in Santa Clara, California.",
-        "end":  "2026-09-08T14:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T14:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "New England Patriots v Houston Texans. Action from the third Divisional play-off match from the 2025/26 season at Gillette Stadium in Foxborough. Massachusetts.",
-        "end":  "2026-09-08T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T15:00:00.0000000",
+        "start":  "2026-09-10T09:00:00.0000000",
         "title":  "NFL: America\u0027s Game",
         "desc":  "A look at the Kansas City Chiefs road to Super Bowl success in 2022/23.",
-        "end":  "2026-09-08T16:00:00.0000000"
+        "end":  "2026-09-10T10:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T16:00:00.0000000",
+        "start":  "2026-09-10T10:00:00.0000000",
+        "title":  "Super Bowl LIX Highlights",
+        "desc":  "Kansas City Chiefs v Philadelphia Eagles. Highlights of the showpiece match, which took place at Caesars Superdome in New Orleans, Louisiana.",
+        "end":  "2026-09-10T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T11:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v New England Patriots.",
+        "end":  "2026-09-10T11:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T11:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Philadelphia Eagles v San Francisco 49ers. Action from the fourth Wild Card play-off match from the 2025/26 season at Lincoln Financial Field.",
+        "end":  "2026-09-10T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T11:30:00.0000000",
+        "title":  "The Proving Ground",
+        "desc":  "Following the New York Jets in the summer of 2026.",
+        "end":  "2026-09-10T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T12:00:00.0000000",
+        "title":  "Good Morning Football",
+        "desc":  "Up-to-the-minute breaking NFL news.",
+        "end":  "2026-09-10T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T14:00:00.0000000",
+        "title":  "Kansas City Chiefs: The Franchise",
+        "desc":  "A behind-the-scenes look at the Kansas City Chiefs.",
+        "end":  "2026-09-10T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T14:30:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Chicago Bears v Green Bay Packers. Action from the second Wild Card play-off match from the 2025/26 season at Soldier Field.",
-        "end":  "2026-09-08T16:15:00.0000000"
+        "end":  "2026-09-10T14:45:00.0000000"
     },
     {
-        "start":  "2026-09-08T16:15:00.0000000",
+        "start":  "2026-09-10T14:45:00.0000000",
         "title":  "NFL Bitesize Highlights",
-        "desc":  "Carolina Panthers v Tampa Bay Buccaneers from the 2025/26 season.",
-        "end":  "2026-09-08T16:30:00.0000000"
+        "desc":  "Seattle Seahawks v San Francisco 49ers. Action from the second Divisional play-off match from the 2025/26 season at Lumen Field.",
+        "end":  "2026-09-10T15:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T16:30:00.0000000",
-        "title":  "The Proving Ground",
-        "desc":  "Following the New York Jets in the summer of 2026.",
-        "end":  "2026-09-08T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T17:00:00.0000000",
-        "title":  "NBC\u0027s Pro-Football Talk",
-        "desc":  "Mike Florio and Chris Simms present the NFL talk show, as they discuss and debate the biggest stories from around the league.",
-        "end":  "2026-09-08T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T19:00:00.0000000",
+        "start":  "2026-09-10T15:00:00.0000000",
         "title":  "NFL: America\u0027s Game",
-        "desc":  "A look at the Kansas City Chiefs road to Super Bowl success in 2023/24.",
-        "end":  "2026-09-08T20:00:00.0000000"
+        "desc":  "The story of Seattle Seahawks\u0027 2013 Super Bowl success over Denver Broncos at MetLife Stadium in East Rutherford, New Jersey.",
+        "end":  "2026-09-10T16:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T20:00:00.0000000",
-        "title":  "Super Bowl LX Highlights",
-        "desc":  "Seattle Seahawks v New England Patriots. Action from the showpiece NFL match at Levi\u0027s Stadium in Santa Clara, California.",
-        "end":  "2026-09-08T21:00:00.0000000"
+        "start":  "2026-09-10T16:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Seattle Seahawks v New England Patriots.",
+        "end":  "2026-09-10T17:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T21:00:00.0000000",
+        "start":  "2026-09-10T17:00:00.0000000",
+        "title":  "NBC\u0027s Pro-Football Talk",
+        "desc":  "Mike Florio and Chris Simms present this NFL talk show, as they discuss and debate the biggest stories from around the league.",
+        "end":  "2026-09-10T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T19:00:00.0000000",
+        "title":  "NFL",
+        "desc":  "Extended highlights of Seattle Seahawks v New England Patriots.",
+        "end":  "2026-09-10T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T21:00:00.0000000",
         "title":  "NFL Fantasy",
         "desc":  "Featuring the top NFL fantasy experts and analysts.",
-        "end":  "2026-09-08T22:00:00.0000000"
+        "end":  "2026-09-10T22:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T22:00:00.0000000",
+        "start":  "2026-09-10T22:00:00.0000000",
         "title":  "Chris Simms Unbuttoned",
         "desc":  "The broadcaster and former quarterback takes an unfiltered look at the NFL.",
-        "end":  "2026-09-08T23:00:00.0000000"
+        "end":  "2026-09-10T23:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T23:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "The latest news covering all 32 NFL teams.",
-        "end":  "2026-09-09T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T00:00:00.0000000",
+        "start":  "2026-09-10T23:00:00.0000000",
         "title":  "NFL: America\u0027s Game",
         "desc":  "The story of Seattle Seahawks\u0027 2013 Super Bowl success over Denver Broncos at MetLife Stadium in East Rutherford, New Jersey.",
-        "end":  "2026-09-09T01:00:00.0000000"
+        "end":  "2026-09-11T00:00:00.0000000"
     },
     {
-        "start":  "2026-09-09T01:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Atlanta Falcons v Green Bay Packers in the 2016/17 NFC Championship Game.",
-        "end":  "2026-09-09T02:00:00.0000000"
+        "start":  "2026-09-10T00:10:00.0000000",
+        "title":  "Live NFL",
+        "desc":  "Seattle Seahawks v New England Patriots (Kick-off 1.20am). Coverage of the opening match of the season, which takes place at Lumen Field. These two teams last met in the Super Bowl back in February which the Seahawks won thanks to a 29-13 victory at Levi\u0027s Stadium in Santa Clara, California. The hosts have a good recent record against the Patriots as well, winning the last four meetings and also b",
+        "end":  "2026-09-10T04:00:00.0000000"
     },
     {
-        "start":  "2026-09-09T02:00:00.0000000",
-        "title":  "Super Bowl LV Highlights",
-        "desc":  "Tampa Bay Buccaneers v Kansas City Chiefs from the 2020/21 season.",
-        "end":  "2026-09-09T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T04:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Washington Commanders v Chicago Bears from the 2024/25 season.",
-        "end":  "2026-09-09T04:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T04:15:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Green Bay Packers v Detroit Lions from the 2024/25 season.",
-        "end":  "2026-09-09T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T04:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Denver Broncos v Kansas City Chiefs from the 2024/25 season.",
-        "end":  "2026-09-09T04:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T04:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Dallas Cowboys v Philadelphia Eagles from the 2024/25 season.",
-        "end":  "2026-09-09T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T05:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Atlanta Falcons v Green Bay Packers in the 2016/17 NFC Championship Game.",
-        "end":  "2026-09-09T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T06:00:00.0000000",
-        "title":  "Super Bowl LX Highlights",
-        "desc":  "Seattle Seahawks v New England Patriots. Action from the showpiece NFL match at Levi\u0027s Stadium in Santa Clara, California.",
-        "end":  "2026-09-09T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T07:00:00.0000000",
-        "title":  "Super Bowl LV Highlights",
-        "desc":  "Tampa Bay Buccaneers v Kansas City Chiefs from the 2020/21 season.",
-        "end":  "2026-09-09T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T09:00:00.0000000",
-        "title":  "NFL: America\u0027s Game",
-        "desc":  "The story of Seattle Seahawks\u0027 2013 Super Bowl success over Denver Broncos at MetLife Stadium in East Rutherford, New Jersey.",
-        "end":  "2026-09-09T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T10:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Atlanta Falcons v Green Bay Packers in the 2016/17 NFC Championship Game.",
-        "end":  "2026-09-09T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T11:00:00.0000000",
-        "title":  "Super Bowl LIX Highlights",
-        "desc":  "Kansas City Chiefs v Philadelphia Eagles. Highlights of the showpiece match, which took place at Caesars Superdome in New Orleans, Louisiana.",
-        "end":  "2026-09-09T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "desc":  "Up-to-the-minute breaking NFL news.",
-        "end":  "2026-09-09T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T14:00:00.0000000",
-        "title":  "The Proving Ground",
-        "desc":  "Following the New York Jets in the summer of 2026.",
-        "end":  "2026-09-09T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T14:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Carolina Panthers v Los Angeles Rams. Action from the first Wild Card play-off match from the 2025/26 season at Bank of America Stadium in Charlotte, North Carolina.",
-        "end":  "2026-09-09T14:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T14:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Chicago Bears v Los Angeles Rams. Action from the fourth Divisional play-off match from the 2025/26 season at Soldier Field.",
-        "end":  "2026-09-09T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T15:00:00.0000000",
-        "title":  "NFL: America\u0027s Game",
-        "desc":  "The story of the Los Angeles Rams 2022 Super Bowl success.",
-        "end":  "2026-09-09T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T16:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Jacksonville Jaguars v Buffalo Bills. Action from the third Wild Card play-off match from the 2025/26 season at EverBank Stadium.",
-        "end":  "2026-09-09T16:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T16:15:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Carolina Panthers v Seattle Seahawks from the 2025/26 season.",
-        "end":  "2026-09-09T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T16:30:00.0000000",
-        "title":  "The Proving Ground",
-        "desc":  "Following the New York Jets in the summer of 2026.",
-        "end":  "2026-09-09T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T17:00:00.0000000",
-        "title":  "NBC\u0027s Pro-Football Talk",
-        "desc":  "Mike Florio and Chris Simms present the NFL talk show, as they discuss and debate the biggest stories from around the league.",
-        "end":  "2026-09-09T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T19:00:00.0000000",
-        "title":  "NFL: America\u0027s Game",
-        "desc":  "The story of Seattle Seahawks\u0027 2013 Super Bowl success over Denver Broncos at MetLife Stadium in East Rutherford, New Jersey.",
-        "end":  "2026-09-09T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T20:00:00.0000000",
-        "title":  "Super Bowl LIX Highlights",
-        "desc":  "Kansas City Chiefs v Philadelphia Eagles. Highlights of the showpiece match, which took place at Caesars Superdome in New Orleans, Louisiana.",
-        "end":  "2026-09-09T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T21:00:00.0000000",
-        "title":  "NFL Fantasy",
-        "desc":  "Featuring the top NFL fantasy experts and analysts.",
-        "end":  "2026-09-09T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T22:00:00.0000000",
-        "title":  "Super Bowl LX Highlights",
-        "desc":  "Seattle Seahawks v New England Patriots. Action from the showpiece NFL match at Levi\u0027s Stadium in Santa Clara, California.",
-        "end":  "2026-09-09T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T23:00:00.0000000",
-        "title":  "NBC\u0027s FNIA",
-        "desc":  "The Football Night in America team preview the match between reigning Super Bowl champions Seattle Seahawks and New England Patriots, while also looking ahead to the season.",
-        "end":  "2026-09-10T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T00:00:00.0000000",
-        "title":  "NFL: America\u0027s Game",
-        "desc":  "The story of Seattle Seahawks\u0027 2013 Super Bowl success over Denver Broncos at MetLife Stadium in East Rutherford, New Jersey.",
-        "end":  "2026-09-09T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T01:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Atlanta Falcons v Green Bay Packers in the 2016/17 NFC Championship Game.",
-        "end":  "2026-09-09T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T02:00:00.0000000",
-        "title":  "Super Bowl LV Highlights",
-        "desc":  "Tampa Bay Buccaneers v Kansas City Chiefs from the 2020/21 season.",
-        "end":  "2026-09-09T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T04:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Washington Commanders v Chicago Bears from the 2024/25 season.",
-        "end":  "2026-09-09T04:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T04:15:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Green Bay Packers v Detroit Lions from the 2024/25 season.",
-        "end":  "2026-09-09T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T04:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Denver Broncos v Kansas City Chiefs from the 2024/25 season.",
-        "end":  "2026-09-09T04:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T04:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Dallas Cowboys v Philadelphia Eagles from the 2024/25 season.",
-        "end":  "2026-09-09T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T05:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Atlanta Falcons v Green Bay Packers in the 2016/17 NFC Championship Game.",
-        "end":  "2026-09-09T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T06:00:00.0000000",
-        "title":  "Super Bowl LX Highlights",
-        "desc":  "Seattle Seahawks v New England Patriots. Action from the showpiece NFL match at Levi\u0027s Stadium in Santa Clara, California.",
-        "end":  "2026-09-09T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T07:00:00.0000000",
-        "title":  "Super Bowl LV Highlights",
-        "desc":  "Tampa Bay Buccaneers v Kansas City Chiefs from the 2020/21 season.",
-        "end":  "2026-09-09T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T09:00:00.0000000",
-        "title":  "NFL: America\u0027s Game",
-        "desc":  "The story of Seattle Seahawks\u0027 2013 Super Bowl success over Denver Broncos at MetLife Stadium in East Rutherford, New Jersey.",
-        "end":  "2026-09-09T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T10:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Atlanta Falcons v Green Bay Packers in the 2016/17 NFC Championship Game.",
-        "end":  "2026-09-09T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T11:00:00.0000000",
-        "title":  "Super Bowl LIX Highlights",
-        "desc":  "Kansas City Chiefs v Philadelphia Eagles. Highlights of the showpiece match, which took place at Caesars Superdome in New Orleans, Louisiana.",
-        "end":  "2026-09-09T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "desc":  "Up-to-the-minute breaking NFL news.",
-        "end":  "2026-09-09T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T14:00:00.0000000",
-        "title":  "The Proving Ground",
-        "desc":  "Following the New York Jets in the summer of 2026.",
-        "end":  "2026-09-09T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T14:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Carolina Panthers v Los Angeles Rams. Action from the first Wild Card play-off match from the 2025/26 season at Bank of America Stadium in Charlotte, North Carolina.",
-        "end":  "2026-09-09T14:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T14:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Chicago Bears v Los Angeles Rams. Action from the fourth Divisional play-off match from the 2025/26 season at Soldier Field.",
-        "end":  "2026-09-09T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T15:00:00.0000000",
-        "title":  "NFL: America\u0027s Game",
-        "desc":  "The story of the Los Angeles Rams 2022 Super Bowl success.",
-        "end":  "2026-09-09T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T16:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Jacksonville Jaguars v Buffalo Bills. Action from the third Wild Card play-off match from the 2025/26 season at EverBank Stadium.",
-        "end":  "2026-09-09T16:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T16:15:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Carolina Panthers v Seattle Seahawks from the 2025/26 season.",
-        "end":  "2026-09-09T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T16:30:00.0000000",
-        "title":  "The Proving Ground",
-        "desc":  "Following the New York Jets in the summer of 2026.",
-        "end":  "2026-09-09T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T17:00:00.0000000",
-        "title":  "NBC\u0027s Pro-Football Talk",
-        "desc":  "Mike Florio and Chris Simms present the NFL talk show, as they discuss and debate the biggest stories from around the league.",
-        "end":  "2026-09-09T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T19:00:00.0000000",
-        "title":  "NFL: America\u0027s Game",
-        "desc":  "The story of Seattle Seahawks\u0027 2013 Super Bowl success over Denver Broncos at MetLife Stadium in East Rutherford, New Jersey.",
-        "end":  "2026-09-09T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T20:00:00.0000000",
-        "title":  "Super Bowl LIX Highlights",
-        "desc":  "Kansas City Chiefs v Philadelphia Eagles. Highlights of the showpiece match, which took place at Caesars Superdome in New Orleans, Louisiana.",
-        "end":  "2026-09-09T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T21:00:00.0000000",
-        "title":  "NFL Fantasy",
-        "desc":  "Featuring the top NFL fantasy experts and analysts.",
-        "end":  "2026-09-09T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T22:00:00.0000000",
-        "title":  "Super Bowl LX Highlights",
-        "desc":  "Seattle Seahawks v New England Patriots. Action from the showpiece NFL match at Levi\u0027s Stadium in Santa Clara, California.",
-        "end":  "2026-09-09T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T23:00:00.0000000",
-        "title":  "NBC\u0027s FNIA",
-        "desc":  "The Football Night in America team preview the match between reigning Super Bowl champions Seattle Seahawks and New England Patriots, while also looking ahead to the season.",
-        "end":  "2026-09-10T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T00:00:00.0000000",
-        "title":  "NFL: America\u0027s Game",
-        "desc":  "A look back at the Kansas City Chiefs side of 2020, who overcame San Francisco 49ers in Super Bowl LIV at Hard Rock Stadium in Miami, Florida.",
-        "end":  "2026-09-08T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T01:00:00.0000000",
-        "title":  "Super Bowl LX Highlights",
-        "desc":  "Seattle Seahawks v New England Patriots. Action from the showpiece NFL match at Levi\u0027s Stadium in Santa Clara, California.",
-        "end":  "2026-09-08T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T02:00:00.0000000",
-        "title":  "NFL Super Bowl LI Highlights",
-        "desc":  "New England Patriots v Atlanta Falcons. Action from American football\u0027s showpiece match in the 2016/17 season, which took place at NRG Stadium in Houston, Texas.",
-        "end":  "2026-09-08T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T04:00:00.0000000",
+        "start":  "2026-09-10T04:00:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Buffalo Bills v Denver Broncos in the third 2024/25 Wild Card play-off match.",
-        "end":  "2026-09-08T04:15:00.0000000"
+        "end":  "2026-09-10T04:15:00.0000000"
     },
     {
-        "start":  "2026-09-08T04:15:00.0000000",
+        "start":  "2026-09-10T04:15:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Philadelphia Eagles v Green Bay Packers in the fourth 2024/25 Wild Card play-off match.",
-        "end":  "2026-09-08T04:30:00.0000000"
+        "end":  "2026-09-10T04:30:00.0000000"
     },
     {
-        "start":  "2026-09-08T04:30:00.0000000",
+        "start":  "2026-09-10T04:30:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Tampa Bay Buccaneers v Washington Commanders in the fifth 2024/25 Wild Card play-off match.",
-        "end":  "2026-09-08T04:45:00.0000000"
+        "end":  "2026-09-10T04:45:00.0000000"
     },
     {
-        "start":  "2026-09-08T04:45:00.0000000",
+        "start":  "2026-09-10T04:45:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Los Angeles Rams v Minnesota Vikings in the sixth 2024/25 Wild Card play-off match.",
-        "end":  "2026-09-08T05:00:00.0000000"
+        "end":  "2026-09-10T05:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T05:00:00.0000000",
-        "title":  "Super Bowl LIX Highlights",
-        "desc":  "Kansas City Chiefs v Philadelphia Eagles. Highlights of the showpiece match, which took place at Caesars Superdome in New Orleans, Louisiana.",
-        "end":  "2026-09-08T06:00:00.0000000"
+        "start":  "2026-09-10T05:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Atlanta Falcons v Green Bay Packers in the 2016/17 NFC Championship Game.",
+        "end":  "2026-09-10T06:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T06:00:00.0000000",
+        "start":  "2026-09-10T06:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Seattle Seahawks v New England Patriots.",
+        "end":  "2026-09-10T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T07:00:00.0000000",
         "title":  "Super Bowl LX Highlights",
         "desc":  "Seattle Seahawks v New England Patriots. Action from the showpiece NFL match at Levi\u0027s Stadium in Santa Clara, California.",
-        "end":  "2026-09-08T07:00:00.0000000"
+        "end":  "2026-09-10T08:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T07:00:00.0000000",
-        "title":  "NFL Super Bowl LI Highlights",
-        "desc":  "New England Patriots v Atlanta Falcons. Action from American football\u0027s showpiece match in the 2016/17 season, which took place at NRG Stadium in Houston, Texas.",
-        "end":  "2026-09-08T09:00:00.0000000"
+        "start":  "2026-09-10T08:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Seattle Seahawks v New England Patriots.",
+        "end":  "2026-09-10T09:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T09:00:00.0000000",
-        "title":  "NFL: America\u0027s Game",
-        "desc":  "The story of the Los Angeles Rams 2022 Super Bowl success.",
-        "end":  "2026-09-08T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T10:00:00.0000000",
-        "title":  "Super Bowl LV Highlights",
-        "desc":  "Tampa Bay Buccaneers v Kansas City Chiefs from the 2020/21 season.",
-        "end":  "2026-09-08T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "desc":  "Up-to-the-minute breaking NFL news.",
-        "end":  "2026-09-08T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T14:00:00.0000000",
-        "title":  "The Proving Ground",
-        "desc":  "Following the New York Jets in the summer of 2026.",
-        "end":  "2026-09-08T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T14:30:00.0000000",
-        "title":  "Super Bowl LX Bitesize Highlights",
-        "desc":  "Seattle Seahawks v New England Patriots. Action from the showpiece NFL match at Levi\u0027s Stadium in Santa Clara, California.",
-        "end":  "2026-09-08T14:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T14:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "New England Patriots v Houston Texans. Action from the third Divisional play-off match from the 2025/26 season at Gillette Stadium in Foxborough. Massachusetts.",
-        "end":  "2026-09-08T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-08T15:00:00.0000000",
+        "start":  "2026-09-10T09:00:00.0000000",
         "title":  "NFL: America\u0027s Game",
         "desc":  "A look at the Kansas City Chiefs road to Super Bowl success in 2022/23.",
-        "end":  "2026-09-08T16:00:00.0000000"
+        "end":  "2026-09-10T10:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T16:00:00.0000000",
+        "start":  "2026-09-10T10:00:00.0000000",
+        "title":  "Super Bowl LIX Highlights",
+        "desc":  "Kansas City Chiefs v Philadelphia Eagles. Highlights of the showpiece match, which took place at Caesars Superdome in New Orleans, Louisiana.",
+        "end":  "2026-09-10T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T11:00:00.0000000",
         "title":  "NFL Bitesize Highlights",
-        "desc":  "Chicago Bears v Green Bay Packers. Action from the second Wild Card play-off match from the 2025/26 season at Soldier Field.",
-        "end":  "2026-09-08T16:15:00.0000000"
+        "desc":  "Seattle Seahawks v New England Patriots.",
+        "end":  "2026-09-10T11:15:00.0000000"
     },
     {
-        "start":  "2026-09-08T16:15:00.0000000",
+        "start":  "2026-09-10T11:15:00.0000000",
         "title":  "NFL Bitesize Highlights",
-        "desc":  "Carolina Panthers v Tampa Bay Buccaneers from the 2025/26 season.",
-        "end":  "2026-09-08T16:30:00.0000000"
+        "desc":  "Philadelphia Eagles v San Francisco 49ers. Action from the fourth Wild Card play-off match from the 2025/26 season at Lincoln Financial Field.",
+        "end":  "2026-09-10T11:30:00.0000000"
     },
     {
-        "start":  "2026-09-08T16:30:00.0000000",
+        "start":  "2026-09-10T11:30:00.0000000",
         "title":  "The Proving Ground",
         "desc":  "Following the New York Jets in the summer of 2026.",
-        "end":  "2026-09-08T17:00:00.0000000"
+        "end":  "2026-09-10T12:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T17:00:00.0000000",
-        "title":  "NBC\u0027s Pro-Football Talk",
-        "desc":  "Mike Florio and Chris Simms present the NFL talk show, as they discuss and debate the biggest stories from around the league.",
-        "end":  "2026-09-08T19:00:00.0000000"
+        "start":  "2026-09-10T12:00:00.0000000",
+        "title":  "Good Morning Football",
+        "desc":  "Up-to-the-minute breaking NFL news.",
+        "end":  "2026-09-10T14:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T19:00:00.0000000",
+        "start":  "2026-09-10T14:00:00.0000000",
+        "title":  "Kansas City Chiefs: The Franchise",
+        "desc":  "A behind-the-scenes look at the Kansas City Chiefs.",
+        "end":  "2026-09-10T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T14:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Chicago Bears v Green Bay Packers. Action from the second Wild Card play-off match from the 2025/26 season at Soldier Field.",
+        "end":  "2026-09-10T14:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T14:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v San Francisco 49ers. Action from the second Divisional play-off match from the 2025/26 season at Lumen Field.",
+        "end":  "2026-09-10T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T15:00:00.0000000",
         "title":  "NFL: America\u0027s Game",
-        "desc":  "A look at the Kansas City Chiefs road to Super Bowl success in 2023/24.",
-        "end":  "2026-09-08T20:00:00.0000000"
+        "desc":  "The story of Seattle Seahawks\u0027 2013 Super Bowl success over Denver Broncos at MetLife Stadium in East Rutherford, New Jersey.",
+        "end":  "2026-09-10T16:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T20:00:00.0000000",
-        "title":  "Super Bowl LX Highlights",
-        "desc":  "Seattle Seahawks v New England Patriots. Action from the showpiece NFL match at Levi\u0027s Stadium in Santa Clara, California.",
-        "end":  "2026-09-08T21:00:00.0000000"
+        "start":  "2026-09-10T16:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Seattle Seahawks v New England Patriots.",
+        "end":  "2026-09-10T17:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T21:00:00.0000000",
+        "start":  "2026-09-10T17:00:00.0000000",
+        "title":  "NBC\u0027s Pro-Football Talk",
+        "desc":  "Mike Florio and Chris Simms present this NFL talk show, as they discuss and debate the biggest stories from around the league.",
+        "end":  "2026-09-10T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T19:00:00.0000000",
+        "title":  "NFL",
+        "desc":  "Extended highlights of Seattle Seahawks v New England Patriots.",
+        "end":  "2026-09-10T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T21:00:00.0000000",
         "title":  "NFL Fantasy",
         "desc":  "Featuring the top NFL fantasy experts and analysts.",
-        "end":  "2026-09-08T22:00:00.0000000"
+        "end":  "2026-09-10T22:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T22:00:00.0000000",
+        "start":  "2026-09-10T22:00:00.0000000",
         "title":  "Chris Simms Unbuttoned",
         "desc":  "The broadcaster and former quarterback takes an unfiltered look at the NFL.",
-        "end":  "2026-09-08T23:00:00.0000000"
+        "end":  "2026-09-10T23:00:00.0000000"
     },
     {
-        "start":  "2026-09-08T23:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "The latest news covering all 32 NFL teams.",
-        "end":  "2026-09-09T00:00:00.0000000"
+        "start":  "2026-09-10T23:00:00.0000000",
+        "title":  "NFL: America\u0027s Game",
+        "desc":  "The story of Seattle Seahawks\u0027 2013 Super Bowl success over Denver Broncos at MetLife Stadium in East Rutherford, New Jersey.",
+        "end":  "2026-09-11T00:00:00.0000000"
     },
     {
         "start":  "2026-09-09T00:00:00.0000000",
@@ -796,5 +622,155 @@
         "title":  "NBC\u0027s FNIA",
         "desc":  "The Football Night in America team preview the match between reigning Super Bowl champions Seattle Seahawks and New England Patriots, while also looking ahead to the season.",
         "end":  "2026-09-10T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T00:10:00.0000000",
+        "title":  "Live NFL",
+        "desc":  "Seattle Seahawks v New England Patriots (Kick-off 1.20am). Coverage of the opening match of the season, which takes place at Lumen Field. These two teams last met in the Super Bowl back in February which the Seahawks won thanks to a 29-13 victory at Levi\u0027s Stadium in Santa Clara, California. The hosts have a good recent record against the Patriots as well, winning the last four meetings and also b",
+        "end":  "2026-09-10T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T04:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Buffalo Bills v Denver Broncos in the third 2024/25 Wild Card play-off match.",
+        "end":  "2026-09-10T04:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T04:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Philadelphia Eagles v Green Bay Packers in the fourth 2024/25 Wild Card play-off match.",
+        "end":  "2026-09-10T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T04:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Tampa Bay Buccaneers v Washington Commanders in the fifth 2024/25 Wild Card play-off match.",
+        "end":  "2026-09-10T04:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T04:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Los Angeles Rams v Minnesota Vikings in the sixth 2024/25 Wild Card play-off match.",
+        "end":  "2026-09-10T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T05:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Atlanta Falcons v Green Bay Packers in the 2016/17 NFC Championship Game.",
+        "end":  "2026-09-10T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T06:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Seattle Seahawks v New England Patriots.",
+        "end":  "2026-09-10T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T07:00:00.0000000",
+        "title":  "Super Bowl LX Highlights",
+        "desc":  "Seattle Seahawks v New England Patriots. Action from the showpiece NFL match at Levi\u0027s Stadium in Santa Clara, California.",
+        "end":  "2026-09-10T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T08:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Seattle Seahawks v New England Patriots.",
+        "end":  "2026-09-10T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T09:00:00.0000000",
+        "title":  "NFL: America\u0027s Game",
+        "desc":  "A look at the Kansas City Chiefs road to Super Bowl success in 2022/23.",
+        "end":  "2026-09-10T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T10:00:00.0000000",
+        "title":  "Super Bowl LIX Highlights",
+        "desc":  "Kansas City Chiefs v Philadelphia Eagles. Highlights of the showpiece match, which took place at Caesars Superdome in New Orleans, Louisiana.",
+        "end":  "2026-09-10T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T11:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v New England Patriots.",
+        "end":  "2026-09-10T11:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T11:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Philadelphia Eagles v San Francisco 49ers. Action from the fourth Wild Card play-off match from the 2025/26 season at Lincoln Financial Field.",
+        "end":  "2026-09-10T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T11:30:00.0000000",
+        "title":  "The Proving Ground",
+        "desc":  "Following the New York Jets in the summer of 2026.",
+        "end":  "2026-09-10T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T12:00:00.0000000",
+        "title":  "Good Morning Football",
+        "desc":  "Up-to-the-minute breaking NFL news.",
+        "end":  "2026-09-10T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T14:00:00.0000000",
+        "title":  "Kansas City Chiefs: The Franchise",
+        "desc":  "A behind-the-scenes look at the Kansas City Chiefs.",
+        "end":  "2026-09-10T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T14:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Chicago Bears v Green Bay Packers. Action from the second Wild Card play-off match from the 2025/26 season at Soldier Field.",
+        "end":  "2026-09-10T14:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T14:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v San Francisco 49ers. Action from the second Divisional play-off match from the 2025/26 season at Lumen Field.",
+        "end":  "2026-09-10T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T15:00:00.0000000",
+        "title":  "NFL: America\u0027s Game",
+        "desc":  "The story of Seattle Seahawks\u0027 2013 Super Bowl success over Denver Broncos at MetLife Stadium in East Rutherford, New Jersey.",
+        "end":  "2026-09-10T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T16:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Seattle Seahawks v New England Patriots.",
+        "end":  "2026-09-10T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T17:00:00.0000000",
+        "title":  "NBC\u0027s Pro-Football Talk",
+        "desc":  "Mike Florio and Chris Simms present this NFL talk show, as they discuss and debate the biggest stories from around the league.",
+        "end":  "2026-09-10T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T19:00:00.0000000",
+        "title":  "NFL",
+        "desc":  "Extended highlights of Seattle Seahawks v New England Patriots.",
+        "end":  "2026-09-10T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T21:00:00.0000000",
+        "title":  "NFL Fantasy",
+        "desc":  "Featuring the top NFL fantasy experts and analysts.",
+        "end":  "2026-09-10T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T22:00:00.0000000",
+        "title":  "Chris Simms Unbuttoned",
+        "desc":  "The broadcaster and former quarterback takes an unfiltered look at the NFL.",
+        "end":  "2026-09-10T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T23:00:00.0000000",
+        "title":  "NFL: America\u0027s Game",
+        "desc":  "The story of Seattle Seahawks\u0027 2013 Super Bowl success over Denver Broncos at MetLife Stadium in East Rutherford, New Jersey.",
+        "end":  "2026-09-11T00:00:00.0000000"
     }
 ]
