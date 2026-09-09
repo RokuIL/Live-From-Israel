@@ -1,6 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-name="Kan 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/960px-Kan11Logo.svg.png" group-title="Israel" tvg-provider="WGP" tvg-id="Kan%2011" tvg-backup-provider="XMLTV" tvg-backup-id="11-kanal-il",Kan 11
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="Reshet 13" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="Israel" tvg-provider="WGP" tvg-id="Reshet%2013" tvg-backup-provider="Reshet",Reshet 13
@@ -12,6 +10,8 @@ http://4.30.180.36:8420/foxnews/index.m3u8?token=test
 http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 #EXTINF:-1 tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="US News" tvg-provider="WGP.ENG" tvg-id="465372" tvg-backup-provider="XMLTV" tvg-backup-id="fox-news-hd",Fox News Channel
 http://45.190.28.50/FOX_NEWS/index.m3u8
+#EXTINF:-1 tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="US News" tvg-provider="WGP.ENG" tvg-id="465372" tvg-backup-provider="XMLTV" tvg-backup-id="fox-news-hd",Fox News Channel
+https://tvsen6.aynaott.com/foxnews/index.m3u8
 #EXTINF:-1 tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="US News" tvg-provider="WGP.ENG" tvg-id="465372" tvg-backup-provider="XMLTV" tvg-backup-id="fox-news-hd",Fox News Channel
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 
