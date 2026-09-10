@@ -7,8 +7,6 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playli
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 
 #EXTINF:-1 tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="US News" tvg-provider="WGP.ENG" tvg-id="465372" tvg-backup-provider="XMLTV" tvg-backup-id="fox-news-hd",Fox News Channel
-http://138.121.15.230:9002/FOX-NEWS/index.m3u8
-#EXTINF:-1 tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="US News" tvg-provider="WGP.ENG" tvg-id="465372" tvg-backup-provider="XMLTV" tvg-backup-id="fox-news-hd",Fox News Channel
 https://tvsen6.aynaott.com/foxnews/index.m3u8
 #EXTINF:-1 tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="US News" tvg-provider="WGP.ENG" tvg-id="465372" tvg-backup-provider="XMLTV" tvg-backup-id="fox-news-hd",Fox News Channel
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
@@ -26,6 +24,8 @@ https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0
 
 #EXTINF:-1 tvg-name="FOX Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="465291",FOX Sports 1
 https://tvsen7.aynascope.net/foxsports1/index.m3u8
+#EXTINF:-1 tvg-name="FOX Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="465291",FOX Sports 1
+http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="465291",FOX Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
