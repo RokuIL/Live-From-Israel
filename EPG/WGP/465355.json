@@ -1,249 +1,207 @@
 [
     {
-        "start":  "2026-09-09T00:00:00.0000000",
-        "title":  "NHRA Drag Racing",
-        "desc":  "From Indianapolis.",
-        "end":  "2026-09-09T03:00:00.0000000"
+        "start":  "2026-09-10T00:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Marshall Thundering Herd face the Penn State Nittany Lions at Beaver Stadium. Marshall lost their final game of the 2025 season against Georgia Southern 24-19. Penn State had a four-game win streak, including a 22-10 win against Clemson.",
+        "end":  "2026-09-10T03:00:00.0000000"
     },
     {
-        "start":  "2026-09-09T03:00:00.0000000",
+        "start":  "2026-09-10T03:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "Toledo Rockets visit the Michigan State Spartans at Spartan Stadium to open the season. The home Spartans look to improve on a 4-8 finish in 2025, while the visiting Rockets targets early momentum coming off an 8-5 record last season.",
+        "end":  "2026-09-10T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T06:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Abilene Christian Wildcats and the Texas Tech Red Raiders meet at Galaxy Stadium for a college football game. The Wildcats broke a five-game win streak last season after a loss to the Lumberjacks, while Texas Tech lost against Oregon 23-0.",
+        "end":  "2026-09-10T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T09:00:00.0000000",
+        "title":  "The Clay Travis Show",
+        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
+        "end":  "2026-09-10T09:43:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T09:43:00.0000000",
+        "title":  "Live: NRL Women\u0027s Premiership",
+        "desc":  "From Allianz Stadium in Sydney, Australia.",
+        "end":  "2026-09-10T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T11:00:00.0000000",
+        "title":  "ARCA Menards Series",
+        "desc":  "From DuQuoin State Fairgrounds in Du Quoin, Ill.",
+        "end":  "2026-09-10T12:48:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T12:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "Group F.",
+        "end":  "2026-09-10T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T15:00:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "Wild World of Western Sports heads to Paris, France for the World Reining Horse Continental Championships of Europe.",
+        "end":  "2026-09-10T15:48:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T15:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "Group E.",
+        "end":  "2026-09-10T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T18:00:00.0000000",
+        "title":  "All In: Indycar",
+        "desc":  "In the aftermath of the Indy 500, Santino Ferrucci tries to live up to the name of AJ Foyt Racing, Felix Rosenqvist announces his decision from Meyer Shank Racing, and multi-race winner Christian Lundgaard discovers that winning may not be enough to keep his seat at Arrow McLaren.",
+        "end":  "2026-09-10T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T18:30:00.0000000",
+        "title":  "All In: Indycar",
+        "desc":  "An all-access pass to the drivers, owners, and INDYCAR crews - capturing the preparation, pressure, bad blood, and personal stakes that define life at 230 mph.",
+        "end":  "2026-09-10T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T19:00:00.0000000",
+        "title":  "IndyCar Racing",
+        "desc":  "The Mission Grand Prix of Monterey takes place at WeatherTech Raceway Laguna Seca. This race marks the grand finale of the 2026 NTT INDYCAR SERIES season. The course\u0027s Corkscrew turn is known for its blind crest and six-story drop across 450 feet.",
+        "end":  "2026-09-10T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-10T21:00:00.0000000",
+        "title":  "NHRA Drag Racing",
+        "desc":  "From Indianapolis.",
+        "end":  "2026-09-11T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-11T00:00:00.0000000",
+        "title":  "The Joel Klatt Show: A College Football Podcast",
+        "desc":  "Joel Klatt breaks down the biggest topics in the world of college football.",
+        "end":  "2026-09-11T00:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-11T00:30:00.0000000",
+        "title":  "Big Noon Kickoff Presents Bear Bets",
+        "desc":  "Betting expert Chris \"The Bear\" Fallica hosts the Big Noon Kickoff college football show.",
+        "end":  "2026-09-11T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-11T01:00:00.0000000",
+        "title":  "The Clay Travis Show",
+        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
+        "end":  "2026-09-11T01:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-11T01:30:00.0000000",
+        "title":  "2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "Group D.",
+        "end":  "2026-09-11T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-11T03:30:00.0000000",
+        "title":  "MLS Soccer",
+        "desc":  "From Subaru Park in Chester, Pa.",
+        "end":  "2026-09-11T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-11T05:30:00.0000000",
         "title":  "NHRA Drag Racing",
         "desc":  "Coverage of drag racing action from the National Hot Rod Association.",
-        "end":  "2026-09-09T04:30:00.0000000"
+        "end":  "2026-09-11T07:00:00.0000000"
     },
     {
-        "start":  "2026-09-09T04:30:00.0000000",
-        "title":  "Wild World of Western Sports",
-        "desc":  "The first stop on the worldwide western journey is the First Nations Rodeo and Relay Races from the world-famous Calgary Stampede grounds in Alberta, Canada.",
-        "end":  "2026-09-09T05:00:00.0000000"
+        "start":  "2026-09-11T07:00:00.0000000",
+        "title":  "SPEED With Harvick \u0026 Buxton",
+        "desc":  "Kevin Harvick and Will Buxton celebrate the world of motorsports.",
+        "end":  "2026-09-11T07:38:00.0000000"
     },
     {
-        "start":  "2026-09-09T05:00:00.0000000",
-        "title":  "Wild World of Western Sports",
-        "desc":  "Wild World of Western Sports heads to Paris, France for the World Reining Horse Continental Championships of Europe.",
-        "end":  "2026-09-09T06:00:00.0000000"
+        "start":  "2026-09-11T07:38:00.0000000",
+        "title":  "Live: NRL Women\u0027s Premiership",
+        "desc":  "From Leichhardt Oval in Leichhardt, New South Wales, Australia.",
+        "end":  "2026-09-11T09:00:00.0000000"
     },
     {
-        "start":  "2026-09-09T06:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Mean Green play the Hoosiers at Memorial Stadium in Bloomington for a Saturday Week 1 opener. Indiana enters after finishing No. 1 in the final 2025 poll, while North Texas looks to improve upon a No. 24 rank finish from the previous year.",
-        "end":  "2026-09-09T07:00:00.0000000"
+        "start":  "2026-09-11T09:00:00.0000000",
+        "title":  "The Joel Klatt Show: A College Football Podcast",
+        "desc":  "Joel Klatt breaks down the biggest topics in the world of college football.",
+        "end":  "2026-09-11T09:30:00.0000000"
     },
     {
-        "start":  "2026-09-09T07:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The USC Trojans host the Fresno State Bulldogs in Los Angeles for a Week 1 game. Home USC looks to build on a 42-26 victory over the Spartans led by quarterback Jayden Maiava, while visiting Fresno State looks to build on an 18-3 last season win.",
-        "end":  "2026-09-09T10:00:00.0000000"
+        "start":  "2026-09-11T09:30:00.0000000",
+        "title":  "Live: AFL Premiership Football",
+        "desc":  "Coverage of matches played as part of the premier Australian rules competition.",
+        "end":  "2026-09-11T12:30:00.0000000"
     },
     {
-        "start":  "2026-09-09T10:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Nebraska Cornhuskers host the Ohio Bobcats at Memorial Stadium in Lincoln. Nebraska opens its 2026 campaign after concluding last fall with a 44-22 bowl loss to Utah, while Ohio begins the year following a 9-4 overall record in 2025.",
-        "end":  "2026-09-09T12:48:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T12:48:00.0000000",
-        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
-        "desc":  "Group D.",
-        "end":  "2026-09-09T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T15:00:00.0000000",
-        "title":  "Kevin Harvick\u0027s Happy Hour",
-        "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
-        "end":  "2026-09-09T15:48:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T15:48:00.0000000",
-        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
-        "desc":  "Group D.",
-        "end":  "2026-09-09T17:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T17:45:00.0000000",
-        "title":  "Live: Saudi League Soccer",
-        "desc":  "From King Saud University Stadium, in Saudi Arabia.",
-        "end":  "2026-09-09T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T20:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The USC Trojans host the Fresno State Bulldogs in Los Angeles for a Week 1 game. Home USC looks to build on a 42-26 victory over the Spartans led by quarterback Jayden Maiava, while visiting Fresno State looks to build on an 18-3 last season win.",
-        "end":  "2026-09-09T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T21:00:00.0000000",
-        "title":  "IndyCar Racing",
-        "desc":  "The Mission Grand Prix of Monterey takes place at WeatherTech Raceway Laguna Seca. This race marks the grand finale of the 2026 NTT INDYCAR SERIES season. The course\u0027s Corkscrew turn is known for its blind crest and six-story drop across 450 feet.",
-        "end":  "2026-09-09T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-09T23:00:00.0000000",
-        "title":  "Kevin Harvick\u0027s Happy Hour",
-        "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
-        "end":  "2026-09-10T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T00:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Marshall Thundering Herd face the Penn State Nittany Lions at Beaver Stadium. Marshall lost their final game of the 2025 season against Georgia Southern 24-19. Penn State had a four-game win streak, including a 22-10 win against Clemson.",
-        "end":  "2026-09-10T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T03:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "Toledo Rockets visit the Michigan State Spartans at Spartan Stadium to open the season. The home Spartans look to improve on a 4-8 finish in 2025, while the visiting Rockets targets early momentum coming off an 8-5 record last season.",
-        "end":  "2026-09-10T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T06:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Abilene Christian Wildcats and the Texas Tech Red Raiders meet at Galaxy Stadium for a college football game. The Wildcats broke a five-game win streak last season after a loss to the Lumberjacks, while Texas Tech lost against Oregon 23-0.",
-        "end":  "2026-09-10T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T09:00:00.0000000",
+        "start":  "2026-09-11T12:30:00.0000000",
         "title":  "The Clay Travis Show",
         "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
-        "end":  "2026-09-10T09:43:00.0000000"
+        "end":  "2026-09-11T12:48:00.0000000"
     },
     {
-        "start":  "2026-09-10T09:43:00.0000000",
-        "title":  "Live: NRL Women\u0027s Premiership",
-        "desc":  "From Allianz Stadium in Sydney, Australia.",
-        "end":  "2026-09-10T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T11:00:00.0000000",
-        "title":  "ARCA Menards Series",
-        "desc":  "From DuQuoin State Fairgrounds in Du Quoin, Ill.",
-        "end":  "2026-09-10T12:48:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T12:48:00.0000000",
+        "start":  "2026-09-11T12:48:00.0000000",
         "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
-        "desc":  "Group F.",
-        "end":  "2026-09-10T15:00:00.0000000"
+        "desc":  "Group B.",
+        "end":  "2026-09-11T15:00:00.0000000"
     },
     {
-        "start":  "2026-09-10T15:00:00.0000000",
-        "title":  "Wild World of Western Sports",
-        "desc":  "Wild World of Western Sports heads to Paris, France for the World Reining Horse Continental Championships of Europe.",
-        "end":  "2026-09-10T15:48:00.0000000"
+        "start":  "2026-09-11T15:00:00.0000000",
+        "title":  "The Joel Klatt Show: A College Football Podcast",
+        "desc":  "Joel Klatt breaks down the biggest topics in the world of college football.",
+        "end":  "2026-09-11T15:30:00.0000000"
     },
     {
-        "start":  "2026-09-10T15:48:00.0000000",
+        "start":  "2026-09-11T15:30:00.0000000",
+        "title":  "Big Noon Kickoff Presents Bear Bets",
+        "desc":  "Betting expert Chris \"The Bear\" Fallica hosts the Big Noon Kickoff college football show.",
+        "end":  "2026-09-11T15:48:00.0000000"
+    },
+    {
+        "start":  "2026-09-11T15:48:00.0000000",
         "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
-        "desc":  "Group E.",
-        "end":  "2026-09-10T18:00:00.0000000"
+        "desc":  "Group A.",
+        "end":  "2026-09-11T18:00:00.0000000"
     },
     {
-        "start":  "2026-09-10T18:00:00.0000000",
-        "title":  "All In: Indycar",
-        "desc":  "In the aftermath of the Indy 500, Santino Ferrucci tries to live up to the name of AJ Foyt Racing, Felix Rosenqvist announces his decision from Meyer Shank Racing, and multi-race winner Christian Lundgaard discovers that winning may not be enough to keep his seat at Arrow McLaren.",
-        "end":  "2026-09-10T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T18:30:00.0000000",
-        "title":  "All In: Indycar",
-        "desc":  "An all-access pass to the drivers, owners, and INDYCAR crews - capturing the preparation, pressure, bad blood, and personal stakes that define life at 230 mph.",
-        "end":  "2026-09-10T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T19:00:00.0000000",
-        "title":  "IndyCar Racing",
-        "desc":  "The Mission Grand Prix of Monterey takes place at WeatherTech Raceway Laguna Seca. This race marks the grand finale of the 2026 NTT INDYCAR SERIES season. The course\u0027s Corkscrew turn is known for its blind crest and six-story drop across 450 feet.",
-        "end":  "2026-09-10T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T21:00:00.0000000",
+        "start":  "2026-09-11T18:00:00.0000000",
         "title":  "NHRA Drag Racing",
         "desc":  "From Indianapolis.",
-        "end":  "2026-09-11T00:00:00.0000000"
+        "end":  "2026-09-11T21:00:00.0000000"
     },
     {
-        "start":  "2026-09-11T00:00:00.0000000",
+        "start":  "2026-09-11T21:00:00.0000000",
+        "title":  "NHRA Drag Racing",
+        "desc":  "Coverage of drag racing action from the National Hot Rod Association.",
+        "end":  "2026-09-11T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-11T22:30:00.0000000",
+        "title":  "The Clay Travis Show",
+        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
+        "end":  "2026-09-11T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-11T23:00:00.0000000",
+        "title":  "Big Noon Kickoff Presents Bear Bets",
+        "desc":  "Betting expert Chris \"The Bear\" Fallica hosts the Big Noon Kickoff college football show.",
+        "end":  "2026-09-11T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-11T23:30:00.0000000",
         "title":  "The Joel Klatt Show: A College Football Podcast",
         "desc":  "Joel Klatt breaks down the biggest topics in the world of college football.",
         "end":  "2026-09-12T00:00:00.0000000"
     },
     {
-        "start":  "2026-09-10T00:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Marshall Thundering Herd face the Penn State Nittany Lions at Beaver Stadium. Marshall lost their final game of the 2025 season against Georgia Southern 24-19. Penn State had a four-game win streak, including a 22-10 win against Clemson.",
-        "end":  "2026-09-10T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T03:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "Toledo Rockets visit the Michigan State Spartans at Spartan Stadium to open the season. The home Spartans look to improve on a 4-8 finish in 2025, while the visiting Rockets targets early momentum coming off an 8-5 record last season.",
-        "end":  "2026-09-10T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T06:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Abilene Christian Wildcats and the Texas Tech Red Raiders meet at Galaxy Stadium for a college football game. The Wildcats broke a five-game win streak last season after a loss to the Lumberjacks, while Texas Tech lost against Oregon 23-0.",
-        "end":  "2026-09-10T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T09:00:00.0000000",
-        "title":  "The Clay Travis Show",
-        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
-        "end":  "2026-09-10T09:43:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T09:43:00.0000000",
-        "title":  "Live: NRL Women\u0027s Premiership",
-        "desc":  "From Allianz Stadium in Sydney, Australia.",
-        "end":  "2026-09-10T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T11:00:00.0000000",
-        "title":  "ARCA Menards Series",
-        "desc":  "From DuQuoin State Fairgrounds in Du Quoin, Ill.",
-        "end":  "2026-09-10T12:48:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T12:48:00.0000000",
-        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
-        "desc":  "Group F.",
-        "end":  "2026-09-10T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T15:00:00.0000000",
-        "title":  "Wild World of Western Sports",
-        "desc":  "Wild World of Western Sports heads to Paris, France for the World Reining Horse Continental Championships of Europe.",
-        "end":  "2026-09-10T15:48:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T15:48:00.0000000",
-        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
-        "desc":  "Group E.",
-        "end":  "2026-09-10T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T18:00:00.0000000",
-        "title":  "All In: Indycar",
-        "desc":  "In the aftermath of the Indy 500, Santino Ferrucci tries to live up to the name of AJ Foyt Racing, Felix Rosenqvist announces his decision from Meyer Shank Racing, and multi-race winner Christian Lundgaard discovers that winning may not be enough to keep his seat at Arrow McLaren.",
-        "end":  "2026-09-10T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T18:30:00.0000000",
-        "title":  "All In: Indycar",
-        "desc":  "An all-access pass to the drivers, owners, and INDYCAR crews - capturing the preparation, pressure, bad blood, and personal stakes that define life at 230 mph.",
-        "end":  "2026-09-10T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T19:00:00.0000000",
-        "title":  "IndyCar Racing",
-        "desc":  "The Mission Grand Prix of Monterey takes place at WeatherTech Raceway Laguna Seca. This race marks the grand finale of the 2026 NTT INDYCAR SERIES season. The course\u0027s Corkscrew turn is known for its blind crest and six-story drop across 450 feet.",
-        "end":  "2026-09-10T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T21:00:00.0000000",
-        "title":  "NHRA Drag Racing",
-        "desc":  "From Indianapolis.",
-        "end":  "2026-09-11T00:00:00.0000000"
+        "start":  "2026-09-12T00:00:00.0000000",
+        "title":  "The Climbing Post",
+        "desc":  "It\u0027s the start of the 2026 season and World Climbing begins its tour of the globe. Follow the circuit for the latest highlights, features, interviews and more.",
+        "end":  "2026-09-13T00:00:00.0000000"
     },
     {
         "start":  "2026-09-11T00:00:00.0000000",
@@ -273,36 +231,144 @@
         "start":  "2026-09-11T03:30:00.0000000",
         "title":  "MLS Soccer",
         "desc":  "From Subaru Park in Chester, Pa.",
-        "end":  "2026-09-12T00:00:00.0000000"
+        "end":  "2026-09-11T05:30:00.0000000"
     },
     {
-        "start":  "2026-09-11T00:00:00.0000000",
+        "start":  "2026-09-11T05:30:00.0000000",
+        "title":  "NHRA Drag Racing",
+        "desc":  "Coverage of drag racing action from the National Hot Rod Association.",
+        "end":  "2026-09-11T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-11T07:00:00.0000000",
+        "title":  "SPEED With Harvick \u0026 Buxton",
+        "desc":  "Kevin Harvick and Will Buxton celebrate the world of motorsports.",
+        "end":  "2026-09-11T07:38:00.0000000"
+    },
+    {
+        "start":  "2026-09-11T07:38:00.0000000",
+        "title":  "Live: NRL Women\u0027s Premiership",
+        "desc":  "From Leichhardt Oval in Leichhardt, New South Wales, Australia.",
+        "end":  "2026-09-11T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-11T09:00:00.0000000",
         "title":  "The Joel Klatt Show: A College Football Podcast",
         "desc":  "Joel Klatt breaks down the biggest topics in the world of college football.",
-        "end":  "2026-09-11T00:30:00.0000000"
+        "end":  "2026-09-11T09:30:00.0000000"
     },
     {
-        "start":  "2026-09-11T00:30:00.0000000",
-        "title":  "Big Noon Kickoff Presents Bear Bets",
-        "desc":  "Betting expert Chris \"The Bear\" Fallica hosts the Big Noon Kickoff college football show.",
-        "end":  "2026-09-11T01:00:00.0000000"
+        "start":  "2026-09-11T09:30:00.0000000",
+        "title":  "Live: AFL Premiership Football",
+        "desc":  "Coverage of matches played as part of the premier Australian rules competition.",
+        "end":  "2026-09-11T12:30:00.0000000"
     },
     {
-        "start":  "2026-09-11T01:00:00.0000000",
+        "start":  "2026-09-11T12:30:00.0000000",
         "title":  "The Clay Travis Show",
         "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
-        "end":  "2026-09-11T01:30:00.0000000"
+        "end":  "2026-09-11T12:48:00.0000000"
     },
     {
-        "start":  "2026-09-11T01:30:00.0000000",
-        "title":  "2026 FIFA U-20 Women\u0027s World Cup",
-        "desc":  "Group D.",
-        "end":  "2026-09-11T03:30:00.0000000"
+        "start":  "2026-09-11T12:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "Group B.",
+        "end":  "2026-09-11T15:00:00.0000000"
     },
     {
-        "start":  "2026-09-11T03:30:00.0000000",
-        "title":  "MLS Soccer",
-        "desc":  "From Subaru Park in Chester, Pa.",
+        "start":  "2026-09-11T15:00:00.0000000",
+        "title":  "The Joel Klatt Show: A College Football Podcast",
+        "desc":  "Joel Klatt breaks down the biggest topics in the world of college football.",
+        "end":  "2026-09-11T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-11T15:30:00.0000000",
+        "title":  "Big Noon Kickoff Presents Bear Bets",
+        "desc":  "Betting expert Chris \"The Bear\" Fallica hosts the Big Noon Kickoff college football show.",
+        "end":  "2026-09-11T15:48:00.0000000"
+    },
+    {
+        "start":  "2026-09-11T15:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "Group A.",
+        "end":  "2026-09-11T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-11T18:00:00.0000000",
+        "title":  "NHRA Drag Racing",
+        "desc":  "From Indianapolis.",
+        "end":  "2026-09-11T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-11T21:00:00.0000000",
+        "title":  "NHRA Drag Racing",
+        "desc":  "Coverage of drag racing action from the National Hot Rod Association.",
+        "end":  "2026-09-11T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-11T22:30:00.0000000",
+        "title":  "The Clay Travis Show",
+        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
+        "end":  "2026-09-11T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-11T23:00:00.0000000",
+        "title":  "Big Noon Kickoff Presents Bear Bets",
+        "desc":  "Betting expert Chris \"The Bear\" Fallica hosts the Big Noon Kickoff college football show.",
+        "end":  "2026-09-11T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-11T23:30:00.0000000",
+        "title":  "The Joel Klatt Show: A College Football Podcast",
+        "desc":  "Joel Klatt breaks down the biggest topics in the world of college football.",
         "end":  "2026-09-12T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T00:00:00.0000000",
+        "title":  "The Climbing Post",
+        "desc":  "It\u0027s the start of the 2026 season and World Climbing begins its tour of the globe. Follow the circuit for the latest highlights, features, interviews and more.",
+        "end":  "2026-09-12T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T01:00:00.0000000",
+        "title":  "The Climbing Post",
+        "desc":  "The 2026 World Climbing Season moves to Europe with Lead, Boulder and Speed in action. As we tour the world we follow the circuit, bringing you highlights, features, interviews and more.",
+        "end":  "2026-09-12T01:58:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T01:58:00.0000000",
+        "title":  "Live: NRL Women\u0027s Premiership",
+        "desc":  "From CommBank Stadium in Parramatta, New South Wales, Australia.",
+        "end":  "2026-09-12T03:43:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T03:43:00.0000000",
+        "title":  "Live: NRL Women\u0027s Premiership",
+        "desc":  "Coverage of matches played in the Australian Women\u0027s National Rugby League.",
+        "end":  "2026-09-13T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T00:00:00.0000000",
+        "title":  "The Climbing Post",
+        "desc":  "It\u0027s the start of the 2026 season and World Climbing begins its tour of the globe. Follow the circuit for the latest highlights, features, interviews and more.",
+        "end":  "2026-09-12T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T01:00:00.0000000",
+        "title":  "The Climbing Post",
+        "desc":  "The 2026 World Climbing Season moves to Europe with Lead, Boulder and Speed in action. As we tour the world we follow the circuit, bringing you highlights, features, interviews and more.",
+        "end":  "2026-09-12T01:58:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T01:58:00.0000000",
+        "title":  "Live: NRL Women\u0027s Premiership",
+        "desc":  "From CommBank Stadium in Parramatta, New South Wales, Australia.",
+        "end":  "2026-09-12T03:43:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T03:43:00.0000000",
+        "title":  "Live: NRL Women\u0027s Premiership",
+        "desc":  "Coverage of matches played in the Australian Women\u0027s National Rugby League.",
+        "end":  "2026-09-13T00:00:00.0000000"
     }
 ]
