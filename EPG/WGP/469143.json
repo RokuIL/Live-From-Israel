@@ -1,485 +1,5 @@
 [
     {
-        "start":  "2026-09-10T00:00:00.0000000",
-        "title":  "MasterChef",
-        "desc":  "The top three home cooks face their biggest challenge yet; with friends, family and a packed audience cheering them on, the finalists must deliver the performance of their lives.",
-        "end":  "2026-09-10T01:02:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T01:02:00.0000000",
-        "title":  "Nation\u0027s Dumbest",
-        "desc":  "Family members come to witness their loved ones\u0027 intellectual demise.",
-        "end":  "2026-09-10T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T02:00:00.0000000",
-        "title":  "Live: Action News Jax at 10:00pm",
-        "desc":  "Evening news from Jacksonville.",
-        "end":  "2026-09-10T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T02:30:00.0000000",
-        "title":  "Live: Action News Jax at 10:30pm",
-        "desc":  "Nighttime news coverage.",
-        "end":  "2026-09-10T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T03:00:00.0000000",
-        "title":  "Live: Action News Jax at 11:00pm",
-        "desc":  "Evening news from Jacksonville.",
-        "end":  "2026-09-10T03:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T03:15:00.0000000",
-        "title":  "Action Sports Jax - 1st \u0026 10 Training Camp",
-        "desc":  "",
-        "end":  "2026-09-10T03:35:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T03:35:00.0000000",
-        "title":  "Florida Tonight",
-        "desc":  "News alerts, headlines and weather forecast for Central Florida.",
-        "end":  "2026-09-10T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T04:00:00.0000000",
-        "title":  "The Steve Wilkos Show",
-        "desc":  "Landers pleaded guilty to sexually abusing a child and is a lifetime registered sex offender but insists that he\u0027s innocent; Gloria and Sarafin, cleared of starving their son, tell what happened since their last appearance on the show.",
-        "end":  "2026-09-10T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T05:00:00.0000000",
-        "title":  "Live PD Presents",
-        "desc":  "",
-        "end":  "2026-09-10T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T05:30:00.0000000",
-        "title":  "Modern Family",
-        "desc":  "When Alex returns from a humanitarian trip, the family dynamic shifts; Cameron remains in a lovey-dovey mood even after the honeymoon ends; Gloria gives Jay a taste of his own medicine after noticing the lack of effort he puts into his appearance.",
-        "end":  "2026-09-10T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T06:00:00.0000000",
-        "title":  "Modern Family",
-        "desc":  "Jay and Gloria can\u0027t agree on what kind of anniversary gifts they want to exchange; the Dunphys go with Alex to Caltech for her college tour; Mitch, Cam and Lily take a new family portrait.",
-        "end":  "2026-09-10T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T06:30:00.0000000",
-        "title":  "Justice for the People With Judge Milian",
-        "desc":  "An unusual attempt at conception ends in disappointment and a lawsuit for false advertisement; a woman sues after a dog bites her young son.",
-        "end":  "2026-09-10T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T07:00:00.0000000",
-        "title":  "Karamo",
-        "desc":  "While Ariana admits to cheating more than once, she insists that Antonio is the father of her 2-year-old daughter.",
-        "end":  "2026-09-10T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T08:00:00.0000000",
-        "title":  "National News Tonight",
-        "desc":  "",
-        "end":  "2026-09-10T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T08:30:00.0000000",
-        "title":  "Live: Action News Jax at 4:30am",
-        "desc":  "Morning news coverage.",
-        "end":  "2026-09-10T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T09:00:00.0000000",
-        "title":  "Live: Action News Jax at 5:00am",
-        "desc":  "Morning news coverage.",
-        "end":  "2026-09-10T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T09:30:00.0000000",
-        "title":  "Live: Action News Jax at 5:30am",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-09-10T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T10:00:00.0000000",
-        "title":  "Live: Action News Jax at 6:00am",
-        "desc":  "Morning news coverage.",
-        "end":  "2026-09-10T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T11:00:00.0000000",
-        "title":  "Live: Action News Jax at 7:00am",
-        "desc":  "Morning news from Jacksonville.",
-        "end":  "2026-09-10T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T12:00:00.0000000",
-        "title":  "Live: Action News Jax at 8:00am",
-        "desc":  "Morning news coverage.",
-        "end":  "2026-09-10T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T13:00:00.0000000",
-        "title":  "Family Feud Favorites",
-        "desc":  "\"Family Feud\" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.",
-        "end":  "2026-09-10T13:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T13:30:00.0000000",
-        "title":  "Family Feud Favorites",
-        "desc":  "\"Family Feud\" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.",
-        "end":  "2026-09-10T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T14:00:00.0000000",
-        "title":  "Live Life and Win!",
-        "desc":  "Inspirational teen success stories.",
-        "end":  "2026-09-10T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T14:30:00.0000000",
-        "title":  "Crime ExposÃ© With Nancy O\u0027Dell",
-        "desc":  "Angela Craig is admitted to the hospital with unusual symptoms, leaving doctors baffled.",
-        "end":  "2026-09-10T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T15:00:00.0000000",
-        "title":  "Tamron Hall",
-        "desc":  "Daytime talk show legend Ricki Lake talks about her headline-making cosmetic transformation; double board-certified facial plastic and reconstructive surgeon Dr. Sean Alemi; \"momfluencer\" Cayley Schlyer.",
-        "end":  "2026-09-10T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T16:00:00.0000000",
-        "title":  "The Steve Wilkos Show",
-        "desc":  "Kishana took her 19-year-old son off life support after it was reported that he shot himself in the head in a suicide attempt, but his death was treated as a homicide by detectives; she believes that his girlfriend and her sister were involved.",
-        "end":  "2026-09-10T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T17:00:00.0000000",
-        "title":  "Hot Bench",
-        "desc":  "A private investigator sues his former friend for unpaid fees after an unsuccessful search for sentimental belongings; the friend says he abandoned the job.",
-        "end":  "2026-09-10T17:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T17:30:00.0000000",
-        "title":  "Hot Bench",
-        "desc":  "A woman says her framed prints came back with blood stains; the framer says it\u0027s just ink -- and the calendar made from them isn\u0027t worth much anyway.",
-        "end":  "2026-09-10T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T18:00:00.0000000",
-        "title":  "The Perfect Line",
-        "desc":  "Players Jacinta, Taylor, Nikki and Emily.",
-        "end":  "2026-09-10T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T18:30:00.0000000",
-        "title":  "The Perfect Line",
-        "desc":  "Players Rohan, Clar, Karen, and Crystal.",
-        "end":  "2026-09-10T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T19:00:00.0000000",
-        "title":  "Family Feud",
-        "desc":  "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
-        "end":  "2026-09-10T19:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T19:30:00.0000000",
-        "title":  "Family Feud",
-        "desc":  "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
-        "end":  "2026-09-10T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T20:00:00.0000000",
-        "title":  "Live: Action News Jax at 4:00pm",
-        "desc":  "Local and regional news coverage.",
-        "end":  "2026-09-10T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T20:30:00.0000000",
-        "title":  "Judy Justice",
-        "desc":  "The Judge rules on two cases; two Pit Bulls jump over a fence and maul a neighbor\u0027s small dog; the Judge speaks to the responsibility that comes with owning dangerous dog breeds; in the next case, a woman sues a hairstylist.",
-        "end":  "2026-09-10T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T21:00:00.0000000",
-        "title":  "Live: Action News Jax at 5:00pm",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-09-10T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T21:30:00.0000000",
-        "title":  "Live: Action News Jax at 5:30pm",
-        "desc":  "Evening news coverage.",
-        "end":  "2026-09-10T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T22:00:00.0000000",
-        "title":  "Live: Action News Jax at 6:00pm",
-        "desc":  "Local, national and international news coverage.",
-        "end":  "2026-09-10T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T22:30:00.0000000",
-        "title":  "Live: Action News Jax at 6:30pm",
-        "desc":  "Evening news from Jacksonville.",
-        "end":  "2026-09-10T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T23:00:00.0000000",
-        "title":  "iCRIME With Elizabeth Vargas",
-        "desc":  "Crimes from across the country that have been captured by ordinary people on their smartphones; stories of victims, witnesses, law enforcement and the videographers themselves.",
-        "end":  "2026-09-10T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T23:30:00.0000000",
-        "title":  "Judy Justice",
-        "desc":  "A dog attack on Christmas day divides neighbors who fight over which of their dogs was the aggressor and who is responsible for vet bills.",
-        "end":  "2026-09-11T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T00:00:00.0000000",
-        "title":  "The 1% Club",
-        "desc":  "Previous contenders return for one last shot at redemption.",
-        "end":  "2026-09-11T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T01:00:00.0000000",
-        "title":  "Best Medicine",
-        "desc":  "Martin must toggle between the potential revelation of his blood phobia, a startling baby delivery and the arrival of his amorous ex; Louisa receives some thought-provoking medical results; Al and Elaine must navigate their uncertain future.",
-        "end":  "2026-09-11T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T02:00:00.0000000",
-        "title":  "Live: Action News Jax at 10:00pm",
-        "desc":  "Evening news from Jacksonville.",
-        "end":  "2026-09-11T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T02:30:00.0000000",
-        "title":  "Live: Action News Jax at 10:30pm",
-        "desc":  "Nighttime news coverage.",
-        "end":  "2026-09-11T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T03:00:00.0000000",
-        "title":  "Live: Action News Jax at 11:00pm",
-        "desc":  "Evening news from Jacksonville.",
-        "end":  "2026-09-11T03:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T03:15:00.0000000",
-        "title":  "Action Sports Jax - 1st \u0026 10 Training Camp",
-        "desc":  "",
-        "end":  "2026-09-11T03:35:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T03:35:00.0000000",
-        "title":  "Florida Tonight",
-        "desc":  "News alerts, headlines and weather forecast for Central Florida.",
-        "end":  "2026-09-11T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T04:00:00.0000000",
-        "title":  "The Steve Wilkos Show",
-        "desc":  "Kishana took her 19-year-old son off life support after it was reported that he shot himself in the head in a suicide attempt, but his death was treated as a homicide by detectives; she believes that his girlfriend and her sister were involved.",
-        "end":  "2026-09-11T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T05:00:00.0000000",
-        "title":  "Live PD Presents",
-        "desc":  "",
-        "end":  "2026-09-11T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T05:30:00.0000000",
-        "title":  "Modern Family",
-        "desc":  "Phil must make creative edits in Cam and Mitch\u0027s wedding video when footage reveals that Phil is responsible for a terrible cold that has plagued the family; Gloria and Jay try to help Manny cope with stress in different ways.",
-        "end":  "2026-09-11T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T06:00:00.0000000",
-        "title":  "Modern Family",
-        "desc":  "The Dunphys stay in a cramped hotel room while the house is treated for mold; Gloria feels protective when Manny starts dating an older girl; Cameron wants to maintain his team\u0027s winning streak but fears Mitchell is a jinx.",
-        "end":  "2026-09-11T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T06:30:00.0000000",
-        "title":  "Justice for the People With Judge Milian",
-        "desc":  "An exotic dancer accuses her former manager of taking more of her earnings than he was entitled to do when he collected them on her behalf.",
-        "end":  "2026-09-11T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T07:00:00.0000000",
-        "title":  "Karamo",
-        "desc":  "Jennifer\u0027s boyfriend Latrayl questions the paternity of all three of their children; genealogy led Sydney to a man who may be her father, so they meet for the first time.",
-        "end":  "2026-09-11T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T08:00:00.0000000",
-        "title":  "National News Tonight",
-        "desc":  "",
-        "end":  "2026-09-11T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T08:30:00.0000000",
-        "title":  "Live: Action News Jax at 4:30am",
-        "desc":  "Morning news coverage.",
-        "end":  "2026-09-11T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T09:00:00.0000000",
-        "title":  "Live: Action News Jax at 5:00am",
-        "desc":  "Morning news coverage.",
-        "end":  "2026-09-11T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T09:30:00.0000000",
-        "title":  "Live: Action News Jax at 5:30am",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-09-11T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T10:00:00.0000000",
-        "title":  "Live: Action News Jax at 6:00am",
-        "desc":  "Morning news coverage.",
-        "end":  "2026-09-11T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T11:00:00.0000000",
-        "title":  "Live: Action News Jax at 7:00am",
-        "desc":  "Morning news from Jacksonville.",
-        "end":  "2026-09-11T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T12:00:00.0000000",
-        "title":  "Live: Action News Jax at 8:00am",
-        "desc":  "Morning news coverage.",
-        "end":  "2026-09-11T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T13:00:00.0000000",
-        "title":  "Family Feud Favorites",
-        "desc":  "\"Family Feud\" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.",
-        "end":  "2026-09-11T13:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T13:30:00.0000000",
-        "title":  "Family Feud Favorites",
-        "desc":  "\"Family Feud\" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.",
-        "end":  "2026-09-11T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T14:00:00.0000000",
-        "title":  "Made in Hollywood: Teen Edition",
-        "desc":  "This educational/informational weekly series showcases how and why movies are made, including behind-the-scenes filmmaking and special effects techniques, in addition to introducing teenagers to career opportunities within the motion picture industry.",
-        "end":  "2026-09-11T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T14:30:00.0000000",
-        "title":  "Crime ExposÃ© With Nancy O\u0027Dell",
-        "desc":  "An ambush shooting in a quiet Arizona suburb leads police to surveillance video, a past romantic relationship gone wrong, and a baby caught in the middle of a fatal dispute.",
-        "end":  "2026-09-11T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T15:00:00.0000000",
-        "title":  "Tamron Hall",
-        "desc":  "Author Arthur C. Brooks (\"The Meaning of Your Life: Finding Purpose in an Age of Emptiness\"); Lena Yao shares the other side to online fame; two men who developed an unexpected friendship in the wake of unimaginable pain.",
-        "end":  "2026-09-11T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T16:00:00.0000000",
-        "title":  "The Steve Wilkos Show",
-        "desc":  "After Dee gave birth, she feared that boyfriend Jhazel was cheating, so he called her delusional and denied her children; after Lolo lost her unborn twins, husband Sharez was nowhere to be found, and she thought he left her at the hospital to cheat.",
-        "end":  "2026-09-11T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T17:00:00.0000000",
-        "title":  "Hot Bench",
-        "desc":  "A man says he handed over a deposit and the first month\u0027s rent only to leave when roommate tensions boiled over, and now he demands a refund; the roommate says he was the one who broke their agreement, damaged her things and moved out early; so, who really caused this roommate ruckus?",
-        "end":  "2026-09-11T17:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T17:30:00.0000000",
-        "title":  "Hot Bench",
-        "desc":  "A former couple dispute a car loan, cellphone charges and rental costs after their breakup; the woman says the man bailed on repayment; he says the car being totaled and her rejection of repayment wipes his debt clear; with romance wrecked and receipts reviving, this case is riding toward justice.",
-        "end":  "2026-09-11T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T18:00:00.0000000",
-        "title":  "The Perfect Line",
-        "desc":  "Players Adam, Latonya, Beatrice and Kelly compete.",
-        "end":  "2026-09-11T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T18:30:00.0000000",
-        "title":  "The Perfect Line",
-        "desc":  "Players Sonja, Louisa, Todd and Jay.",
-        "end":  "2026-09-11T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T19:00:00.0000000",
-        "title":  "Family Feud",
-        "desc":  "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
-        "end":  "2026-09-11T19:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T19:30:00.0000000",
-        "title":  "Family Feud",
-        "desc":  "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
-        "end":  "2026-09-11T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T20:00:00.0000000",
-        "title":  "Live: Action News Jax at 4:00pm",
-        "desc":  "Local and regional news coverage.",
-        "end":  "2026-09-11T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T20:30:00.0000000",
-        "title":  "Judy Justice",
-        "desc":  "A woman is granted a lifetime restraining order against an ex-boyfriend who sues her for thousands in personal belongings he says she never returned.",
-        "end":  "2026-09-11T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T21:00:00.0000000",
-        "title":  "Live: Action News Jax at 5:00pm",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-09-11T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T21:30:00.0000000",
-        "title":  "Live: Action News Jax at 5:30pm",
-        "desc":  "Evening news coverage.",
-        "end":  "2026-09-11T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T22:00:00.0000000",
-        "title":  "Live: Action News Jax at 6:00pm",
-        "desc":  "Local, national and international news coverage.",
-        "end":  "2026-09-11T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T22:30:00.0000000",
-        "title":  "Live: Action News Jax at 6:30pm",
-        "desc":  "Evening news from Jacksonville.",
-        "end":  "2026-09-11T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T23:00:00.0000000",
-        "title":  "Live: Action Sports Jax: Jaguars Season Preview Special",
-        "desc":  "",
-        "end":  "2026-09-12T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T00:00:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "The Missouri Tigers visit the Kansas Jayhawks in Week 2 action. Missouri opened with a 54-14 win over the Golden Lions behind Donovan Olugbode\u0027s 116 receiving yards and two TDs, while Kansas beat the Sharks 51-6 behind two TDs from Isaiah Marshall.",
-        "end":  "2026-09-13T00:00:00.0000000"
-    },
-    {
         "start":  "2026-09-11T00:00:00.0000000",
         "title":  "The 1% Club",
         "desc":  "Previous contenders return for one last shot at redemption.",
@@ -741,7 +261,115 @@
         "start":  "2026-09-12T04:35:00.0000000",
         "title":  "Florida Tonight",
         "desc":  "News alerts, headlines and weather forecast for Central Florida.",
+        "end":  "2026-09-12T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T05:00:00.0000000",
+        "title":  "Live PD Presents",
+        "desc":  "",
+        "end":  "2026-09-12T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T05:30:00.0000000",
+        "title":  "Modern Family",
+        "desc":  "Phil and Claire panic when an obnoxious couple looks at the house for sale next door; Jay learns Manny\u0027s girlfriend is the granddaughter of a business rival -- after forbidding Manny to see her; Cam and Mitch are scared of Lily\u0027s teacher (Tyne Daly).",
+        "end":  "2026-09-12T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T06:00:00.0000000",
+        "title":  "Modern Family",
+        "desc":  "Phil and Claire aren\u0027t sure what to think when Haley and Andy start spending a lot of time together; Gloria hires a Spanish tutor for Manny; Cam and Mitch run into a popular journalist at a school function.",
+        "end":  "2026-09-12T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T06:30:00.0000000",
+        "title":  "Justice for the People With Judge Milian",
+        "desc":  "A motivational speaker sues his ex-girlfriend for exposing his intimate behavior online; a dispute over a Thanksgiving re-enactment ends up in court.",
+        "end":  "2026-09-12T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T07:00:00.0000000",
+        "title":  "Karamo",
+        "desc":  "Kyeasiha was able to forgive her girlfriend, Savenia, for cheating once but fears she could be doing it again; Shawn has always wanted to know who his father is and took a genealogy test that directed him to several potential sisters.",
+        "end":  "2026-09-12T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T08:00:00.0000000",
+        "title":  "TMZ",
+        "desc":  "TMZ TV tracks down today\u0027s hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
+        "end":  "2026-09-12T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T09:00:00.0000000",
+        "title":  "Family Feud",
+        "desc":  "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+        "end":  "2026-09-12T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T09:30:00.0000000",
+        "title":  "The Short List",
+        "desc":  "Mike Tyson; Tonya Harding; Metta World Peace.",
+        "end":  "2026-09-12T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T10:00:00.0000000",
+        "title":  "Live: Action News Jax at 6:00am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-09-12T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T11:00:00.0000000",
+        "title":  "Live: Action News Jax at 7:00am",
+        "desc":  "Morning news from Jacksonville.",
+        "end":  "2026-09-12T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T12:00:00.0000000",
+        "title":  "Live: Action News Jax at 8:00am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-09-12T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T13:00:00.0000000",
+        "title":  "Live: Action News Jax at 9:00am",
+        "desc":  "Morning news from Jacksonville.",
+        "end":  "2026-09-12T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T14:00:00.0000000",
+        "title":  "Live: Big Noon Kickoff",
+        "desc":  "College football pregame show with Urban Meyer, Mark Ingram, Matt Leinart, Brady Quinn and Dave Portnoy. Led by Rob Stone, the group analyzes the biggest games, with special attention to the \"Big Noon Saturday\" game on FOX.",
+        "end":  "2026-09-12T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T16:00:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From Michigan Stadium in Ann Arbor, Mich.",
+        "end":  "2026-09-12T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T19:30:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "The No. 15 BYU Cougars host the Arizona Wildcats at LaVell Edwards Stadium in a Big 12 game. BYU enters following a 63-7 victory over the Utah Tech Trailblazers, while Arizona arrives after a 35-7 win against the Northern Arizona Lumberjacks.",
+        "end":  "2026-09-12T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T23:00:00.0000000",
+        "title":  "SSN Sports",
+        "desc":  "",
+        "end":  "2026-09-12T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T23:30:00.0000000",
+        "title":  "Florida Tonight",
+        "desc":  "News alerts, headlines and weather forecast for Central Florida.",
         "end":  "2026-09-13T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T00:00:00.0000000",
+        "title":  "Live: ARCA Menards Series",
+        "desc":  "From Salem Speedway in Salem, Ind.",
+        "end":  "2026-09-14T00:00:00.0000000"
     },
     {
         "start":  "2026-09-12T00:00:00.0000000",
@@ -771,6 +399,456 @@
         "start":  "2026-09-12T04:35:00.0000000",
         "title":  "Florida Tonight",
         "desc":  "News alerts, headlines and weather forecast for Central Florida.",
+        "end":  "2026-09-12T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T05:00:00.0000000",
+        "title":  "Live PD Presents",
+        "desc":  "",
+        "end":  "2026-09-12T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T05:30:00.0000000",
+        "title":  "Modern Family",
+        "desc":  "Phil and Claire panic when an obnoxious couple looks at the house for sale next door; Jay learns Manny\u0027s girlfriend is the granddaughter of a business rival -- after forbidding Manny to see her; Cam and Mitch are scared of Lily\u0027s teacher (Tyne Daly).",
+        "end":  "2026-09-12T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T06:00:00.0000000",
+        "title":  "Modern Family",
+        "desc":  "Phil and Claire aren\u0027t sure what to think when Haley and Andy start spending a lot of time together; Gloria hires a Spanish tutor for Manny; Cam and Mitch run into a popular journalist at a school function.",
+        "end":  "2026-09-12T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T06:30:00.0000000",
+        "title":  "Justice for the People With Judge Milian",
+        "desc":  "A motivational speaker sues his ex-girlfriend for exposing his intimate behavior online; a dispute over a Thanksgiving re-enactment ends up in court.",
+        "end":  "2026-09-12T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T07:00:00.0000000",
+        "title":  "Karamo",
+        "desc":  "Kyeasiha was able to forgive her girlfriend, Savenia, for cheating once but fears she could be doing it again; Shawn has always wanted to know who his father is and took a genealogy test that directed him to several potential sisters.",
+        "end":  "2026-09-12T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T08:00:00.0000000",
+        "title":  "TMZ",
+        "desc":  "TMZ TV tracks down today\u0027s hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
+        "end":  "2026-09-12T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T09:00:00.0000000",
+        "title":  "Family Feud",
+        "desc":  "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+        "end":  "2026-09-12T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T09:30:00.0000000",
+        "title":  "The Short List",
+        "desc":  "Mike Tyson; Tonya Harding; Metta World Peace.",
+        "end":  "2026-09-12T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T10:00:00.0000000",
+        "title":  "Live: Action News Jax at 6:00am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-09-12T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T11:00:00.0000000",
+        "title":  "Live: Action News Jax at 7:00am",
+        "desc":  "Morning news from Jacksonville.",
+        "end":  "2026-09-12T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T12:00:00.0000000",
+        "title":  "Live: Action News Jax at 8:00am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-09-12T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T13:00:00.0000000",
+        "title":  "Live: Action News Jax at 9:00am",
+        "desc":  "Morning news from Jacksonville.",
+        "end":  "2026-09-12T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T14:00:00.0000000",
+        "title":  "Live: Big Noon Kickoff",
+        "desc":  "College football pregame show with Urban Meyer, Mark Ingram, Matt Leinart, Brady Quinn and Dave Portnoy. Led by Rob Stone, the group analyzes the biggest games, with special attention to the \"Big Noon Saturday\" game on FOX.",
+        "end":  "2026-09-12T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T16:00:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From Michigan Stadium in Ann Arbor, Mich.",
+        "end":  "2026-09-12T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T19:30:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "The No. 15 BYU Cougars host the Arizona Wildcats at LaVell Edwards Stadium in a Big 12 game. BYU enters following a 63-7 victory over the Utah Tech Trailblazers, while Arizona arrives after a 35-7 win against the Northern Arizona Lumberjacks.",
+        "end":  "2026-09-12T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T23:00:00.0000000",
+        "title":  "SSN Sports",
+        "desc":  "",
+        "end":  "2026-09-12T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T23:30:00.0000000",
+        "title":  "Florida Tonight",
+        "desc":  "News alerts, headlines and weather forecast for Central Florida.",
         "end":  "2026-09-13T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T00:00:00.0000000",
+        "title":  "Live: ARCA Menards Series",
+        "desc":  "From Salem Speedway in Salem, Ind.",
+        "end":  "2026-09-13T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T02:00:00.0000000",
+        "title":  "Live: Action News Jax at 10:00pm",
+        "desc":  "Evening news from Jacksonville.",
+        "end":  "2026-09-13T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T02:30:00.0000000",
+        "title":  "Live: Action Sports JAX Primetime",
+        "desc":  "Scores and stories from across sports of the day.",
+        "end":  "2026-09-13T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T03:00:00.0000000",
+        "title":  "The 1% Club",
+        "desc":  "A competitive family of four, stars of the WNBA\u0027s Atlanta Dream, a Savannah Bananas pitcher and a drag queen are among 100 contestants competing for the chance to win up to $100,000.",
+        "end":  "2026-09-13T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T04:00:00.0000000",
+        "title":  "Modern Family",
+        "desc":  "Claire and Phil worry that Alex\u0027s boyfriend is imaginary; Manny might ruin Jay\u0027s plan to avoid attending a party; Mitch and Cam\u0027s new white couch becomes a mishap waiting to happen.",
+        "end":  "2026-09-13T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T04:30:00.0000000",
+        "title":  "Modern Family",
+        "desc":  "The whole family takes Haley to a bar to celebrate her 21st birthday; Phil and Jay hit a snag while trying to pick up Haley\u0027s present; Lily asks Alex, Luke and Manny where babies come from.",
+        "end":  "2026-09-13T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T05:00:00.0000000",
+        "title":  "Forensic Files",
+        "desc":  "When dozens of infants develop serious breathing problems in the Cleveland area, doctors and investigators search high and low for the cause.",
+        "end":  "2026-09-13T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T05:30:00.0000000",
+        "title":  "Forensic Files",
+        "desc":  "After a Vancouver custodian finds a burned body in a dumpster, investigators determine the corpse\u0027s identity and attacker.",
+        "end":  "2026-09-13T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T06:00:00.0000000",
+        "title":  "Crime Beat",
+        "desc":  "Three public execution-style murders in 2012 leave police hunting for suspects as the cocaine-trafficking gang war continues to escalate; on-the-run kingpin Rabih Alkhalil escapes from prison in plain sight.",
+        "end":  "2026-09-13T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T06:30:00.0000000",
+        "title":  "Crime Beat",
+        "desc":  "Recently released on bail, a middle-aged man returns to a home he\u0027s been ordered to stay away from and allegedly attacks; after a miraculous recovery, a traumatized teenage girl and her mother wonder where Harry Rajkumar is.",
+        "end":  "2026-09-13T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T07:00:00.0000000",
+        "title":  "Storm of Suspicion",
+        "desc":  "After Hurricane Ivan wreaks havoc in Alabama, a woman\u0027s charred remains are discovered.",
+        "end":  "2026-09-13T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T08:00:00.0000000",
+        "title":  "Heartland",
+        "desc":  "Jack and Tim try to mend fences with Nathan on a fishing trip; Amy and Caleb save a horse in distress; Lou finds herself in a dangerous situation.",
+        "end":  "2026-09-13T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T09:00:00.0000000",
+        "title":  "Family Feud",
+        "desc":  "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+        "end":  "2026-09-13T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T09:30:00.0000000",
+        "title":  "This Week in the 904",
+        "desc":  "A conversation-driven show with local newsmakers, delving into community issues of importance to viewers in the Jacksonville area.",
+        "end":  "2026-09-13T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T10:00:00.0000000",
+        "title":  "Live: Action News Jax at 6:00am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-09-13T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T11:00:00.0000000",
+        "title":  "Live: Action News Jax at 7:00am",
+        "desc":  "Morning news from Jacksonville.",
+        "end":  "2026-09-13T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T12:00:00.0000000",
+        "title":  "Live: Action News Jax at 8:00am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-09-13T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T13:00:00.0000000",
+        "title":  "FOX News Sunday",
+        "desc":  "Anchor Shannon Bream interviews the biggest newsmakers of the week and leads guests in providing context and analysis of the issues facing Americans.",
+        "end":  "2026-09-13T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T14:00:00.0000000",
+        "title":  "This Week in the 904",
+        "desc":  "A conversation-driven show with local newsmakers, delving into community issues of importance to viewers in the Jacksonville area.",
+        "end":  "2026-09-13T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T14:30:00.0000000",
+        "title":  "Live: Jags Weekend",
+        "desc":  "",
+        "end":  "2026-09-13T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T15:00:00.0000000",
+        "title":  "Live: FOX NFL Kickoff",
+        "desc":  "FOX NFL Kickoff is hosted by Charissa Thompson alongside Pro Football Hall of Famer and Super Bowl champion Charles Woodson, three-time Super Bowl champion Julian Edelman and longtime sports media personality Colin Cowherd.",
+        "end":  "2026-09-13T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T16:00:00.0000000",
+        "title":  "Live: FOX NFL Sunday",
+        "desc":  "Hosts Curt Menefee and Terry Bradshaw with analysts Howie Long, Michael Strahan and Rob Gronkowski. FOX NFL insider Jay Glazer returns with the FOX NFL Sunday crew, delivering exclusive insights and breaking news across the league.",
+        "end":  "2026-09-13T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T17:00:00.0000000",
+        "title":  "Live: NFL Football",
+        "desc":  "Cincinnati Bengals host Tampa Bay Buccaneers in a regular-season NFL Week 1 game at Paycor Stadium. The Bengals finished the previous season third in AFC North with an 6-11 record while the Buccaneers finished second in NFC South with an 8-9 record.",
+        "end":  "2026-09-13T20:25:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T20:25:00.0000000",
+        "title":  "Live: NFL Football",
+        "desc":  "The Eagles host the Commanders in Week 1 NFL action at Lincoln Financial Field. The Eagles enter this matchup after splitting their 2025 head-to-head series 1-1. The Eagles finished last season with an 11-6 record, while the Commanders finished 5-12.",
+        "end":  "2026-09-13T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T23:30:00.0000000",
+        "title":  "Live: The OT",
+        "desc":  "Hosts Curt Menefee and Terry Bradshaw alongside analysts Howie Long, Rob Gronkowski and Michael Strahan discuss what has occurred during today\u0027s slate of games.",
+        "end":  "2026-09-14T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-14T00:00:00.0000000",
+        "title":  "The Floor",
+        "desc":  "One hundred experts who are all champions, titleholders and record setters are locked in to fight for $250,000; a brand-new weapon, The Power Shot, allows the players to act as a human randomizer.",
+        "end":  "2026-09-15T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T00:00:00.0000000",
+        "title":  "Live: ARCA Menards Series",
+        "desc":  "From Salem Speedway in Salem, Ind.",
+        "end":  "2026-09-13T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T02:00:00.0000000",
+        "title":  "Live: Action News Jax at 10:00pm",
+        "desc":  "Evening news from Jacksonville.",
+        "end":  "2026-09-13T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T02:30:00.0000000",
+        "title":  "Live: Action Sports JAX Primetime",
+        "desc":  "Scores and stories from across sports of the day.",
+        "end":  "2026-09-13T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T03:00:00.0000000",
+        "title":  "The 1% Club",
+        "desc":  "A competitive family of four, stars of the WNBA\u0027s Atlanta Dream, a Savannah Bananas pitcher and a drag queen are among 100 contestants competing for the chance to win up to $100,000.",
+        "end":  "2026-09-13T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T04:00:00.0000000",
+        "title":  "Modern Family",
+        "desc":  "Claire and Phil worry that Alex\u0027s boyfriend is imaginary; Manny might ruin Jay\u0027s plan to avoid attending a party; Mitch and Cam\u0027s new white couch becomes a mishap waiting to happen.",
+        "end":  "2026-09-13T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T04:30:00.0000000",
+        "title":  "Modern Family",
+        "desc":  "The whole family takes Haley to a bar to celebrate her 21st birthday; Phil and Jay hit a snag while trying to pick up Haley\u0027s present; Lily asks Alex, Luke and Manny where babies come from.",
+        "end":  "2026-09-13T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T05:00:00.0000000",
+        "title":  "Forensic Files",
+        "desc":  "When dozens of infants develop serious breathing problems in the Cleveland area, doctors and investigators search high and low for the cause.",
+        "end":  "2026-09-13T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T05:30:00.0000000",
+        "title":  "Forensic Files",
+        "desc":  "After a Vancouver custodian finds a burned body in a dumpster, investigators determine the corpse\u0027s identity and attacker.",
+        "end":  "2026-09-13T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T06:00:00.0000000",
+        "title":  "Crime Beat",
+        "desc":  "Three public execution-style murders in 2012 leave police hunting for suspects as the cocaine-trafficking gang war continues to escalate; on-the-run kingpin Rabih Alkhalil escapes from prison in plain sight.",
+        "end":  "2026-09-13T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T06:30:00.0000000",
+        "title":  "Crime Beat",
+        "desc":  "Recently released on bail, a middle-aged man returns to a home he\u0027s been ordered to stay away from and allegedly attacks; after a miraculous recovery, a traumatized teenage girl and her mother wonder where Harry Rajkumar is.",
+        "end":  "2026-09-13T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T07:00:00.0000000",
+        "title":  "Storm of Suspicion",
+        "desc":  "After Hurricane Ivan wreaks havoc in Alabama, a woman\u0027s charred remains are discovered.",
+        "end":  "2026-09-13T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T08:00:00.0000000",
+        "title":  "Heartland",
+        "desc":  "Jack and Tim try to mend fences with Nathan on a fishing trip; Amy and Caleb save a horse in distress; Lou finds herself in a dangerous situation.",
+        "end":  "2026-09-13T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T09:00:00.0000000",
+        "title":  "Family Feud",
+        "desc":  "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+        "end":  "2026-09-13T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T09:30:00.0000000",
+        "title":  "This Week in the 904",
+        "desc":  "A conversation-driven show with local newsmakers, delving into community issues of importance to viewers in the Jacksonville area.",
+        "end":  "2026-09-13T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T10:00:00.0000000",
+        "title":  "Live: Action News Jax at 6:00am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-09-13T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T11:00:00.0000000",
+        "title":  "Live: Action News Jax at 7:00am",
+        "desc":  "Morning news from Jacksonville.",
+        "end":  "2026-09-13T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T12:00:00.0000000",
+        "title":  "Live: Action News Jax at 8:00am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-09-13T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T13:00:00.0000000",
+        "title":  "FOX News Sunday",
+        "desc":  "Anchor Shannon Bream interviews the biggest newsmakers of the week and leads guests in providing context and analysis of the issues facing Americans.",
+        "end":  "2026-09-13T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T14:00:00.0000000",
+        "title":  "This Week in the 904",
+        "desc":  "A conversation-driven show with local newsmakers, delving into community issues of importance to viewers in the Jacksonville area.",
+        "end":  "2026-09-13T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T14:30:00.0000000",
+        "title":  "Live: Jags Weekend",
+        "desc":  "",
+        "end":  "2026-09-13T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T15:00:00.0000000",
+        "title":  "Live: FOX NFL Kickoff",
+        "desc":  "FOX NFL Kickoff is hosted by Charissa Thompson alongside Pro Football Hall of Famer and Super Bowl champion Charles Woodson, three-time Super Bowl champion Julian Edelman and longtime sports media personality Colin Cowherd.",
+        "end":  "2026-09-13T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T16:00:00.0000000",
+        "title":  "Live: FOX NFL Sunday",
+        "desc":  "Hosts Curt Menefee and Terry Bradshaw with analysts Howie Long, Michael Strahan and Rob Gronkowski. FOX NFL insider Jay Glazer returns with the FOX NFL Sunday crew, delivering exclusive insights and breaking news across the league.",
+        "end":  "2026-09-13T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T17:00:00.0000000",
+        "title":  "Live: NFL Football",
+        "desc":  "Cincinnati Bengals host Tampa Bay Buccaneers in a regular-season NFL Week 1 game at Paycor Stadium. The Bengals finished the previous season third in AFC North with an 6-11 record while the Buccaneers finished second in NFC South with an 8-9 record.",
+        "end":  "2026-09-13T20:25:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T20:25:00.0000000",
+        "title":  "Live: NFL Football",
+        "desc":  "The Eagles host the Commanders in Week 1 NFL action at Lincoln Financial Field. The Eagles enter this matchup after splitting their 2025 head-to-head series 1-1. The Eagles finished last season with an 11-6 record, while the Commanders finished 5-12.",
+        "end":  "2026-09-13T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T23:30:00.0000000",
+        "title":  "Live: The OT",
+        "desc":  "Hosts Curt Menefee and Terry Bradshaw alongside analysts Howie Long, Rob Gronkowski and Michael Strahan discuss what has occurred during today\u0027s slate of games.",
+        "end":  "2026-09-14T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-14T00:00:00.0000000",
+        "title":  "The Floor",
+        "desc":  "One hundred experts who are all champions, titleholders and record setters are locked in to fight for $250,000; a brand-new weapon, The Power Shot, allows the players to act as a human randomizer.",
+        "end":  "2026-09-14T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-14T01:00:00.0000000",
+        "title":  "American Dad!",
+        "desc":  "Stan nearly dies on his 400th mission and returns home to realize the CIA\u0027s secret clone program has already replaced him; the Smiths take on new roles across the harsh frontier of space, confronting mortality, purpose and that relentless Mars dust.",
+        "end":  "2026-09-14T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-14T02:00:00.0000000",
+        "title":  "Live: Action News Jax at 10:00pm",
+        "desc":  "Evening news from Jacksonville.",
+        "end":  "2026-09-14T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-14T02:30:00.0000000",
+        "title":  "Live: Action Sports JAX Primetime",
+        "desc":  "Scores and stories from across sports of the day.",
+        "end":  "2026-09-14T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-14T03:00:00.0000000",
+        "title":  "In Depth With Graham Bensinger",
+        "desc":  "Before the age of 30, journalist and Emmy-winner Graham Bensinger worked not only for major networks like NBC and ESPN, but he also began his own syndicated interview program that airs weekly across the country. Bensinger chats with some of sports\u0027 biggest names, including pro football players Terrell Owens and Tony Romo, professional basketball player Kobe Bryant, boxing champion George Foreman a",
+        "end":  "2026-09-14T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-14T03:30:00.0000000",
+        "title":  "Hot Topics",
+        "desc":  "",
+        "end":  "2026-09-14T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-14T04:00:00.0000000",
+        "title":  "The Rookie",
+        "desc":  "Nolan and Juarez are on the hunt for a fugitive after a car incident goes awry; a past injury comes to haunt Tim and Lucy comes through during his time in need in more ways than one.",
+        "end":  "2026-09-15T00:00:00.0000000"
     }
 ]

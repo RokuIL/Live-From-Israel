@@ -1,335 +1,5 @@
 [
     {
-        "start":  "2026-09-10T00:00:00.0000000",
-        "title":  "Who Wants to Be a Millionaire",
-        "desc":  "Contestants Jesse Eisenberg, Paul Giamatti, Krysten Ritter and Sarah Shahi.",
-        "end":  "2026-09-10T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T01:00:00.0000000",
-        "title":  "Shark Tank",
-        "desc":  "Interactive tutoring centers; a clever picture-hanging tool; a camping bed for cars; oversized, collapsible building blocks; Mark Cuban returns for a business update.",
-        "end":  "2026-09-10T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T02:00:00.0000000",
-        "title":  "Shark Tank",
-        "desc":  "An app to curb phone distractions; a revolutionary baseball bat grip; all-fruit tropical ice pops; clean glam products for the next generation.",
-        "end":  "2026-09-10T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T03:00:00.0000000",
-        "title":  "Eyewitness News at 11",
-        "desc":  "Breaking news.",
-        "end":  "2026-09-10T03:35:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T03:35:00.0000000",
-        "title":  "Jimmy Kimmel Live!",
-        "desc":  "Actress Mariska Hargitay; actress Kaia Gerber; Franky Perez sits in with The Cletones.",
-        "end":  "2026-09-10T04:37:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T04:37:00.0000000",
-        "title":  "Nightline",
-        "desc":  "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
-        "end":  "2026-09-10T05:06:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T05:06:00.0000000",
-        "title":  "ABC World News Tonight With David Muir",
-        "desc":  "Delivering the news that matters most.",
-        "end":  "2026-09-10T05:36:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T05:36:00.0000000",
-        "title":  "Live with Kelly and Mark",
-        "desc":  "Gal Gadot; Jim Kwik shares a \"positivity puzzle.\".",
-        "end":  "2026-09-10T06:36:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T06:36:00.0000000",
-        "title":  "Jeopardy!",
-        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
-        "end":  "2026-09-10T07:06:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T07:06:00.0000000",
-        "title":  "Tamron Hall",
-        "desc":  "New York Times best-selling authors Jonathan Haidt and Catherine Price discuss their new book, \"The Amazing Generation: Your Guide to Fun and Freedom in a Screen-Filled World\"; the global conversation on how to empower young people to choose a life not dominated by screens and social media; a 24-year-old California native has chosen life without social media or Internet access on her phone; a Palm",
-        "end":  "2026-09-10T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T08:00:00.0000000",
-        "title":  "Good Morning America First Look",
-        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-        "end":  "2026-09-10T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T08:30:00.0000000",
-        "title":  "Eyewitness News This Morning",
-        "desc":  "News coverage to start the day.",
-        "end":  "2026-09-10T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T10:00:00.0000000",
-        "title":  "Eyewitness News This Morning",
-        "desc":  "News coverage to start the day.",
-        "end":  "2026-09-10T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T11:00:00.0000000",
-        "title":  "Good Morning America",
-        "desc":  "Actors Jaclyn Smith, Kate Jackson and Cheryl Ladd; actor Andrew Garfield; fashion mogul Tommy Hilfiger talks fashion week; CMA Award nominations with Lara Spencer; Deals \u0026 Steals with Tory Johnson.",
-        "end":  "2026-09-10T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T13:00:00.0000000",
-        "title":  "Live with Kelly and Mark",
-        "desc":  "Sandra Bullock; shopping with Monica Mangin; Dr. Gail Saltz gives advice on resetting your mindset for fall.",
-        "end":  "2026-09-10T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T14:00:00.0000000",
-        "title":  "Eyewitness News Mornings at 10",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-09-10T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T15:00:00.0000000",
-        "title":  "The View",
-        "desc":  "Actor Andrew Garfield.",
-        "end":  "2026-09-10T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T16:00:00.0000000",
-        "title":  "Eyewitness News at Noon",
-        "desc":  "Midday news update.",
-        "end":  "2026-09-10T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T17:00:00.0000000",
-        "title":  "GMA3",
-        "desc":  "Actors Jaclyn Smith, Kate Jackson and Cheryl Ladd; author Jon Rohde; Deals \u0026 Steals with Tory Johnson.",
-        "end":  "2026-09-10T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T18:00:00.0000000",
-        "title":  "Tamron Hall",
-        "desc":  "Daytime talk show legend Ricki Lake talks about her headline-making cosmetic transformation; double board-certified facial plastic and reconstructive surgeon Dr. Sean Alemi; \"momfluencer\" Cayley Schlyer.",
-        "end":  "2026-09-10T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T19:00:00.0000000",
-        "title":  "General Hospital",
-        "desc":  "Jason issues a warning; Chase opens up to Dante; Brook Lynn gets a reality check; Trina gets an unwelcome visitor; Emma regrets her actions.",
-        "end":  "2026-09-10T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T20:00:00.0000000",
-        "title":  "Eyewitness News First at 4",
-        "desc":  "Local and regional news coverage.",
-        "end":  "2026-09-10T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T21:00:00.0000000",
-        "title":  "Eyewitness News at 5",
-        "desc":  "Local and regional news.",
-        "end":  "2026-09-10T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T22:00:00.0000000",
-        "title":  "Eyewitness News at 6",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-09-10T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T22:30:00.0000000",
-        "title":  "ABC World News Tonight With David Muir",
-        "desc":  "Delivering the news that matters most.",
-        "end":  "2026-09-10T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T23:00:00.0000000",
-        "title":  "Jeopardy!",
-        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
-        "end":  "2026-09-10T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-10T23:30:00.0000000",
-        "title":  "Wheel of Fortune",
-        "desc":  "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
-        "end":  "2026-09-11T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T00:00:00.0000000",
-        "title":  "9-1-1",
-        "desc":  "Eddie and Buck\u0027s flight back to Los Angeles is cancelled following the National Firefighter Games; hoping to be home for Hen\u0027s birthday, Eddie and Buck decide a cross-country road trip is the fastest way, until Buck goes missing.",
-        "end":  "2026-09-11T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T01:00:00.0000000",
-        "title":  "9-1-1: Nashville",
-        "desc":  "Roxie notices Don is having panic attacks; Cammie begins to face reality when she starts attending a grief counseling group.",
-        "end":  "2026-09-11T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T02:00:00.0000000",
-        "title":  "9-1-1: Nashville",
-        "desc":  "Flashbacks reveal how a devastating house fire reshaped Don\u0027s life, along with how he later met Dixie and Blythe; the 113 responds to a cyclist pinned against a tree after being hit by a car.",
-        "end":  "2026-09-11T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T03:00:00.0000000",
-        "title":  "Eyewitness News at 11",
-        "desc":  "Breaking news.",
-        "end":  "2026-09-11T03:35:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T03:35:00.0000000",
-        "title":  "Jimmy Kimmel Live!",
-        "desc":  "Actress Gal Gadot; Franky Perez sits in with The Cletones.",
-        "end":  "2026-09-11T04:37:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T04:37:00.0000000",
-        "title":  "Nightline",
-        "desc":  "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
-        "end":  "2026-09-11T05:06:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T05:06:00.0000000",
-        "title":  "ABC World News Tonight With David Muir",
-        "desc":  "Delivering the news that matters most.",
-        "end":  "2026-09-11T05:36:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T05:36:00.0000000",
-        "title":  "Live with Kelly and Mark",
-        "desc":  "Sandra Bullock; shopping with Monica Mangin; Dr. Gail Saltz gives advice on resetting your mindset for fall.",
-        "end":  "2026-09-11T06:36:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T06:36:00.0000000",
-        "title":  "Jeopardy!",
-        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
-        "end":  "2026-09-11T07:06:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T07:06:00.0000000",
-        "title":  "Tamron Hall",
-        "desc":  "Daytime talk show legend Ricki Lake talks about her headline-making cosmetic transformation; double board-certified facial plastic and reconstructive surgeon Dr. Sean Alemi; \"momfluencer\" Cayley Schlyer.",
-        "end":  "2026-09-11T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T08:00:00.0000000",
-        "title":  "Good Morning America First Look",
-        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-        "end":  "2026-09-11T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T08:30:00.0000000",
-        "title":  "Eyewitness News This Morning",
-        "desc":  "News coverage to start the day.",
-        "end":  "2026-09-11T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T10:00:00.0000000",
-        "title":  "Eyewitness News This Morning",
-        "desc":  "News coverage to start the day.",
-        "end":  "2026-09-11T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T11:00:00.0000000",
-        "title":  "Good Morning America",
-        "desc":  "Honoring the 25th anniversary of the 9/11 terrorist attacks; MLB Hall of Famer and Yankees legend Derek Jeter; Broadway\u0027s \"The Lion King\" tribute performance.",
-        "end":  "2026-09-11T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T13:00:00.0000000",
-        "title":  "Live with Kelly and Mark",
-        "desc":  "Theo James; Sherri Shepherd; Eden Grinshpan shares a recipe.",
-        "end":  "2026-09-11T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T14:00:00.0000000",
-        "title":  "Eyewitness News Mornings at 10",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-09-11T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T15:00:00.0000000",
-        "title":  "The View",
-        "desc":  "Actress Sherri Shepherd; actress Maisie Williams.",
-        "end":  "2026-09-11T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T16:00:00.0000000",
-        "title":  "Eyewitness News at Noon",
-        "desc":  "Midday news update.",
-        "end":  "2026-09-11T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T17:00:00.0000000",
-        "title":  "GMA3",
-        "desc":  "Honoring the 25th anniversary of the 9/11 terrorist attacks.",
-        "end":  "2026-09-11T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T18:00:00.0000000",
-        "title":  "Tamron Hall",
-        "desc":  "Author Arthur C. Brooks (\"The Meaning of Your Life: Finding Purpose in an Age of Emptiness\"); Lena Yao shares the other side to online fame; two men who developed an unexpected friendship in the wake of unimaginable pain.",
-        "end":  "2026-09-11T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T19:00:00.0000000",
-        "title":  "General Hospital",
-        "desc":  "Jason clashes with a loved one; Drew toys with Willow; Valentin fears for Nina; Tracy goes behind Brook Lynn\u0027s back; Jordan makes a revelation.",
-        "end":  "2026-09-11T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T20:00:00.0000000",
-        "title":  "Eyewitness News First at 4",
-        "desc":  "Local and regional news coverage.",
-        "end":  "2026-09-11T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T21:00:00.0000000",
-        "title":  "Eyewitness News at 5",
-        "desc":  "Local and regional news.",
-        "end":  "2026-09-11T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T22:00:00.0000000",
-        "title":  "Eyewitness News at 6",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-09-11T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T22:30:00.0000000",
-        "title":  "ABC World News Tonight With David Muir",
-        "desc":  "Delivering the news that matters most.",
-        "end":  "2026-09-11T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T23:00:00.0000000",
-        "title":  "Jeopardy!",
-        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
-        "end":  "2026-09-11T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T23:30:00.0000000",
-        "title":  "Wheel of Fortune",
-        "desc":  "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
-        "end":  "2026-09-12T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T00:00:00.0000000",
-        "title":  "9/11 Tribute in Light: Live From Lower Manhattan",
-        "desc":  "Honoring the victims killed in the September 11 attacks, reflecting on the lasting impact, and commemorating the resilience of the survivors, families, first responders and communities forever changed by the attacks.",
-        "end":  "2026-09-13T00:00:00.0000000"
-    },
-    {
         "start":  "2026-09-11T00:00:00.0000000",
         "title":  "9-1-1",
         "desc":  "Eddie and Buck\u0027s flight back to Los Angeles is cancelled following the National Firefighter Games; hoping to be home for Hen\u0027s birthday, Eddie and Buck decide a cross-country road trip is the fastest way, until Buck goes missing.",
@@ -519,6 +189,132 @@
         "start":  "2026-09-12T04:37:00.0000000",
         "title":  "Nightline",
         "desc":  "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
+        "end":  "2026-09-12T05:06:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T05:06:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "desc":  "Delivering the news that matters most.",
+        "end":  "2026-09-12T05:36:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T05:36:00.0000000",
+        "title":  "Live with Kelly and Mark",
+        "desc":  "John Leguizamo; Lamorne Morris; cooking school with Matt Groark.",
+        "end":  "2026-09-12T06:36:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T06:36:00.0000000",
+        "title":  "Jeopardy!",
+        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
+        "end":  "2026-09-12T07:06:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T07:06:00.0000000",
+        "title":  "Wheel of Fortune",
+        "desc":  "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+        "end":  "2026-09-12T07:37:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T07:37:00.0000000",
+        "title":  "Tamron Hall",
+        "desc":  "Author Arthur C. Brooks (\"The Meaning of Your Life: Finding Purpose in an Age of Emptiness\"); Lena Yao shares the other side to online fame; two men who developed an unexpected friendship in the wake of unimaginable pain.",
+        "end":  "2026-09-12T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T08:00:00.0000000",
+        "title":  "Wildlife Nation With Jeff Corwin",
+        "desc":  "Exploring Alaskan wildlife; helping a population of endangered beluga whales; managing the American bison population on the Kodiak islands; the western bumblebee.",
+        "end":  "2026-09-12T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T08:30:00.0000000",
+        "title":  "Sports Stars of Tomorrow",
+        "desc":  "Profiles of the top rookie, college and high-school talent in sports; athletes share their experiences, advice and personal impressions of the road to stardom.",
+        "end":  "2026-09-12T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T09:00:00.0000000",
+        "title":  "Jeopardy!",
+        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
+        "end":  "2026-09-12T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T09:30:00.0000000",
+        "title":  "Wheel of Fortune",
+        "desc":  "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+        "end":  "2026-09-12T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T10:00:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-09-12T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T12:00:00.0000000",
+        "title":  "Good Morning America",
+        "desc":  "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
+        "end":  "2026-09-12T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T13:00:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-09-12T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T14:00:00.0000000",
+        "title":  "Good Morning America",
+        "desc":  "Parenting journalist Ericka SÃ³uter; September Book Club pick author Chloe Benjamin; Deals \u0026 Steals with Tory Johnson.",
+        "end":  "2026-09-12T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T15:00:00.0000000",
+        "title":  "Jack Hanna\u0027s Passport",
+        "desc":  "A carriage ride from a miniature donkey; a cattle drive in Montana; rescued hounds in Costa Rica; hyenas in Tanzania.",
+        "end":  "2026-09-12T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T15:30:00.0000000",
+        "title":  "The Champion\u0027s Edge with Bonnie Bernstein",
+        "desc":  "Vanessa Wallace, Chief Marketing Officer at GLD and former VP of Marketing at Jordan Brand, brings insight on leadership, storytelling and what it takes to stand out in the current competitive landscape.",
+        "end":  "2026-09-12T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T16:00:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "The No. 10 Texas A\u0026M Aggies host the Arizona State Sun Devils at Kyle Field. Texas A\u0026M enters following a 50-0 shutout victory against the Missouri State Bears, while Arizona State arrives after securing a 70-7 win over the Morgan State Bears.",
+        "end":  "2026-09-12T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T19:00:00.0000000",
+        "title":  "Live: College Football Scoreboard",
+        "desc":  "All the latest news and analysis from the world of college football.",
+        "end":  "2026-09-12T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T19:30:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "The No. 12 Alabama faces Kentucky at Kroger Field. Kalen DeBoer\u0027s Alabama team enters its first road test off a 48-10 win over East Carolina. It marks the SEC test for new Wildcats head coach Will Stein, whose team beat Youngstown State 45-13.",
+        "end":  "2026-09-12T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T22:30:00.0000000",
+        "title":  "Live: College Football Scoreboard",
+        "desc":  "All the latest news and analysis from the world of college football.",
+        "end":  "2026-09-12T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T23:00:00.0000000",
+        "title":  "Live: College Football Scoreboard",
+        "desc":  "All the latest news and analysis from the world of college football.",
+        "end":  "2026-09-12T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T23:30:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "No.4 Texas Longhorns host the No.1 Ohio State Buckeyes at DKR-Texas Memorial Stadium in Week 2. Home Texas counts on Arch Manning after four touchdown passes, while visiting Ohio State relies on Julian Sayin following a 320-yard, three-score opener.",
         "end":  "2026-09-13T00:00:00.0000000"
     },
     {
@@ -549,6 +345,414 @@
         "start":  "2026-09-12T04:37:00.0000000",
         "title":  "Nightline",
         "desc":  "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
+        "end":  "2026-09-12T05:06:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T05:06:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "desc":  "Delivering the news that matters most.",
+        "end":  "2026-09-12T05:36:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T05:36:00.0000000",
+        "title":  "Live with Kelly and Mark",
+        "desc":  "John Leguizamo; Lamorne Morris; cooking school with Matt Groark.",
+        "end":  "2026-09-12T06:36:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T06:36:00.0000000",
+        "title":  "Jeopardy!",
+        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
+        "end":  "2026-09-12T07:06:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T07:06:00.0000000",
+        "title":  "Wheel of Fortune",
+        "desc":  "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+        "end":  "2026-09-12T07:37:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T07:37:00.0000000",
+        "title":  "Tamron Hall",
+        "desc":  "Author Arthur C. Brooks (\"The Meaning of Your Life: Finding Purpose in an Age of Emptiness\"); Lena Yao shares the other side to online fame; two men who developed an unexpected friendship in the wake of unimaginable pain.",
+        "end":  "2026-09-12T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T08:00:00.0000000",
+        "title":  "Wildlife Nation With Jeff Corwin",
+        "desc":  "Exploring Alaskan wildlife; helping a population of endangered beluga whales; managing the American bison population on the Kodiak islands; the western bumblebee.",
+        "end":  "2026-09-12T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T08:30:00.0000000",
+        "title":  "Sports Stars of Tomorrow",
+        "desc":  "Profiles of the top rookie, college and high-school talent in sports; athletes share their experiences, advice and personal impressions of the road to stardom.",
+        "end":  "2026-09-12T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T09:00:00.0000000",
+        "title":  "Jeopardy!",
+        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
+        "end":  "2026-09-12T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T09:30:00.0000000",
+        "title":  "Wheel of Fortune",
+        "desc":  "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+        "end":  "2026-09-12T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T10:00:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-09-12T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T12:00:00.0000000",
+        "title":  "Good Morning America",
+        "desc":  "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
+        "end":  "2026-09-12T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T13:00:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-09-12T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T14:00:00.0000000",
+        "title":  "Good Morning America",
+        "desc":  "Parenting journalist Ericka SÃ³uter; September Book Club pick author Chloe Benjamin; Deals \u0026 Steals with Tory Johnson.",
+        "end":  "2026-09-12T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T15:00:00.0000000",
+        "title":  "Jack Hanna\u0027s Passport",
+        "desc":  "A carriage ride from a miniature donkey; a cattle drive in Montana; rescued hounds in Costa Rica; hyenas in Tanzania.",
+        "end":  "2026-09-12T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T15:30:00.0000000",
+        "title":  "The Champion\u0027s Edge with Bonnie Bernstein",
+        "desc":  "Vanessa Wallace, Chief Marketing Officer at GLD and former VP of Marketing at Jordan Brand, brings insight on leadership, storytelling and what it takes to stand out in the current competitive landscape.",
+        "end":  "2026-09-12T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T16:00:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "The No. 10 Texas A\u0026M Aggies host the Arizona State Sun Devils at Kyle Field. Texas A\u0026M enters following a 50-0 shutout victory against the Missouri State Bears, while Arizona State arrives after securing a 70-7 win over the Morgan State Bears.",
+        "end":  "2026-09-12T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T19:00:00.0000000",
+        "title":  "Live: College Football Scoreboard",
+        "desc":  "All the latest news and analysis from the world of college football.",
+        "end":  "2026-09-12T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T19:30:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "The No. 12 Alabama faces Kentucky at Kroger Field. Kalen DeBoer\u0027s Alabama team enters its first road test off a 48-10 win over East Carolina. It marks the SEC test for new Wildcats head coach Will Stein, whose team beat Youngstown State 45-13.",
+        "end":  "2026-09-12T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T22:30:00.0000000",
+        "title":  "Live: College Football Scoreboard",
+        "desc":  "All the latest news and analysis from the world of college football.",
+        "end":  "2026-09-12T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T23:00:00.0000000",
+        "title":  "Live: College Football Scoreboard",
+        "desc":  "All the latest news and analysis from the world of college football.",
+        "end":  "2026-09-12T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T23:30:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "No.4 Texas Longhorns host the No.1 Ohio State Buckeyes at DKR-Texas Memorial Stadium in Week 2. Home Texas counts on Arch Manning after four touchdown passes, while visiting Ohio State relies on Julian Sayin following a 320-yard, three-score opener.",
         "end":  "2026-09-13T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T03:00:00.0000000",
+        "title":  "Eyewitness News at 11",
+        "desc":  "Breaking news.",
+        "end":  "2026-09-13T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T04:00:00.0000000",
+        "title":  "On The Red Carpet Celebrates \"Dancing With the Stars\"",
+        "desc":  "",
+        "end":  "2026-09-13T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T04:30:00.0000000",
+        "title":  "9-1-1",
+        "desc":  "While in Florida caring for her ailing father, Athena and Bobby investigate the disappearance of her childhood friend from 45 years ago.",
+        "end":  "2026-09-13T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T05:30:00.0000000",
+        "title":  "9-1-1",
+        "desc":  "Athena investigates when the same house is hit with two home invasion 911 calls within hours of each other; the 118 race to the rescue when a man is trapped in an attic; Hen asks for a second chance with her medical school professor.",
+        "end":  "2026-09-13T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T06:30:00.0000000",
+        "title":  "Fast: Home Rescue",
+        "desc":  "Tre and Cierra Boston rebuild the Moore family house in Austin, Texas, after it is destroyed by the Deep Freeze of 2021; with only five days to pull it off, adrenaline and emotions run high as they transform the property.",
+        "end":  "2026-09-13T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T07:30:00.0000000",
+        "title":  "Beautiful Homes \u0026 Great Estates",
+        "desc":  "The Curwood Estate features a 300-bottle wine cellar, a home theater, and an infinity pool and cabana.",
+        "end":  "2026-09-13T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T08:00:00.0000000",
+        "title":  "Entertainers",
+        "desc":  "The story of Omar, an entertainer who owns a performance business called Evento en popa.",
+        "end":  "2026-09-13T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T09:00:00.0000000",
+        "title":  "She\u0027s in the Game",
+        "desc":  "Meet the next generation of superstar female athletes around the country as we go behind the scenes to shine the light on them and their interests off the field, along with catching up with the female legends who paved the way for all this growth.",
+        "end":  "2026-09-13T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T09:30:00.0000000",
+        "title":  "Small Town Big Deal",
+        "desc":  "Jann and Rodney put their skills to the test in a milking contest.",
+        "end":  "2026-09-13T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T10:00:00.0000000",
+        "title":  "Eyewitness News Sunday Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-09-13T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T12:00:00.0000000",
+        "title":  "Good Morning America",
+        "desc":  "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
+        "end":  "2026-09-13T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T13:00:00.0000000",
+        "title":  "Eyewitness News Sunday Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-09-13T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T14:00:00.0000000",
+        "title":  "This Week With George Stephanopoulos",
+        "desc":  "Anchor George Stephanopoulos and co-anchors Martha Raddatz and Jonathan Karl interview top newsmakers and officials, with reporting from across the country and roundtable debates over the hottest political issues.",
+        "end":  "2026-09-13T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T15:00:00.0000000",
+        "title":  "Hearts of Heroes",
+        "desc":  "Young heroes rise to the occasion when children take extraordinary action to save loved ones from danger; a Hollywood star delivers an unforgettable surprise to a young fan facing the fight of a lifetime.",
+        "end":  "2026-09-13T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T15:30:00.0000000",
+        "title":  "Home for Good",
+        "desc":  "The hard-working staff at the PAWs Atlanta animal shelter protect vulnerable people and pets; the team helps give a fresh and functional update to their outdoor spaces.",
+        "end":  "2026-09-13T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T16:00:00.0000000",
+        "title":  "5th Avenue Mile, Annual New York Road Runners 1 Mile Race",
+        "desc":  "",
+        "end":  "2026-09-13T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T17:00:00.0000000",
+        "title":  "Live: 2026 U.S. Open Tennis: Men\u0027s Championship Preshow",
+        "desc":  "Tennis experts preview the U.S. Open Men\u0027s Singles Championship. From Flushing, N.Y.",
+        "end":  "2026-09-13T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T18:00:00.0000000",
+        "title":  "Live: 2026 US Open Tennis",
+        "desc":  "From the USTA Billie Jean King National Tennis Center in Flushing, N.Y.",
+        "end":  "2026-09-13T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T21:30:00.0000000",
+        "title":  "Eyewitness News at 5",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-09-13T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T22:00:00.0000000",
+        "title":  "Eyewitness News at 6",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-09-13T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T22:30:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "desc":  "Delivering the news that matters most.",
+        "end":  "2026-09-13T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T23:00:00.0000000",
+        "title":  "America\u0027s Funniest Home Videos",
+        "desc":  "Kids say the funniest things; copycats steal the show; unexpected moments unfold in the great outdoors.",
+        "end":  "2026-09-14T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T03:00:00.0000000",
+        "title":  "Eyewitness News at 11",
+        "desc":  "Breaking news.",
+        "end":  "2026-09-13T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T04:00:00.0000000",
+        "title":  "On The Red Carpet Celebrates \"Dancing With the Stars\"",
+        "desc":  "",
+        "end":  "2026-09-13T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T04:30:00.0000000",
+        "title":  "9-1-1",
+        "desc":  "While in Florida caring for her ailing father, Athena and Bobby investigate the disappearance of her childhood friend from 45 years ago.",
+        "end":  "2026-09-13T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T05:30:00.0000000",
+        "title":  "9-1-1",
+        "desc":  "Athena investigates when the same house is hit with two home invasion 911 calls within hours of each other; the 118 race to the rescue when a man is trapped in an attic; Hen asks for a second chance with her medical school professor.",
+        "end":  "2026-09-13T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T06:30:00.0000000",
+        "title":  "Fast: Home Rescue",
+        "desc":  "Tre and Cierra Boston rebuild the Moore family house in Austin, Texas, after it is destroyed by the Deep Freeze of 2021; with only five days to pull it off, adrenaline and emotions run high as they transform the property.",
+        "end":  "2026-09-13T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T07:30:00.0000000",
+        "title":  "Beautiful Homes \u0026 Great Estates",
+        "desc":  "The Curwood Estate features a 300-bottle wine cellar, a home theater, and an infinity pool and cabana.",
+        "end":  "2026-09-13T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T08:00:00.0000000",
+        "title":  "Entertainers",
+        "desc":  "The story of Omar, an entertainer who owns a performance business called Evento en popa.",
+        "end":  "2026-09-13T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T09:00:00.0000000",
+        "title":  "She\u0027s in the Game",
+        "desc":  "Meet the next generation of superstar female athletes around the country as we go behind the scenes to shine the light on them and their interests off the field, along with catching up with the female legends who paved the way for all this growth.",
+        "end":  "2026-09-13T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T09:30:00.0000000",
+        "title":  "Small Town Big Deal",
+        "desc":  "Jann and Rodney put their skills to the test in a milking contest.",
+        "end":  "2026-09-13T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T10:00:00.0000000",
+        "title":  "Eyewitness News Sunday Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-09-13T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T12:00:00.0000000",
+        "title":  "Good Morning America",
+        "desc":  "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
+        "end":  "2026-09-13T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T13:00:00.0000000",
+        "title":  "Eyewitness News Sunday Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-09-13T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T14:00:00.0000000",
+        "title":  "This Week With George Stephanopoulos",
+        "desc":  "Anchor George Stephanopoulos and co-anchors Martha Raddatz and Jonathan Karl interview top newsmakers and officials, with reporting from across the country and roundtable debates over the hottest political issues.",
+        "end":  "2026-09-13T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T15:00:00.0000000",
+        "title":  "Hearts of Heroes",
+        "desc":  "Young heroes rise to the occasion when children take extraordinary action to save loved ones from danger; a Hollywood star delivers an unforgettable surprise to a young fan facing the fight of a lifetime.",
+        "end":  "2026-09-13T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T15:30:00.0000000",
+        "title":  "Home for Good",
+        "desc":  "The hard-working staff at the PAWs Atlanta animal shelter protect vulnerable people and pets; the team helps give a fresh and functional update to their outdoor spaces.",
+        "end":  "2026-09-13T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T16:00:00.0000000",
+        "title":  "5th Avenue Mile, Annual New York Road Runners 1 Mile Race",
+        "desc":  "",
+        "end":  "2026-09-13T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T17:00:00.0000000",
+        "title":  "Live: 2026 U.S. Open Tennis: Men\u0027s Championship Preshow",
+        "desc":  "Tennis experts preview the U.S. Open Men\u0027s Singles Championship. From Flushing, N.Y.",
+        "end":  "2026-09-13T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T18:00:00.0000000",
+        "title":  "Live: 2026 US Open Tennis",
+        "desc":  "From the USTA Billie Jean King National Tennis Center in Flushing, N.Y.",
+        "end":  "2026-09-13T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T21:30:00.0000000",
+        "title":  "Eyewitness News at 5",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-09-13T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T22:00:00.0000000",
+        "title":  "Eyewitness News at 6",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-09-13T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T22:30:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "desc":  "Delivering the news that matters most.",
+        "end":  "2026-09-13T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T23:00:00.0000000",
+        "title":  "America\u0027s Funniest Home Videos",
+        "desc":  "Kids say the funniest things; copycats steal the show; unexpected moments unfold in the great outdoors.",
+        "end":  "2026-09-14T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-14T00:02:00.0000000",
+        "title":  "The Parent Trap",
+        "desc":  "Twins Annie and Hallie are strangers until happenstance unites them. The preteen girls\u0027 divorced parents, Nick and Elizabeth are living on opposite sides of the Atlantic, each with one child. After meeting at camp, American Hallie and British-raised Annie engineer an identity swap, giving both the chance to spend time with the parent they\u0027ve missed. If the scheme works, it might just make the fami",
+        "end":  "2026-09-14T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-14T03:00:00.0000000",
+        "title":  "Eyewitness News at 11",
+        "desc":  "Breaking news.",
+        "end":  "2026-09-14T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-14T04:00:00.0000000",
+        "title":  "The Rookie",
+        "desc":  "Nolan and Juarez are on the hunt for a fugitive after a car incident goes awry; a past injury comes to haunt Tim and Lucy comes through during his time in need in more ways than one.",
+        "end":  "2026-09-15T00:00:00.0000000"
     }
 ]
