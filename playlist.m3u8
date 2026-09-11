@@ -9,6 +9,8 @@ https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/in
 #EXTINF:-1 tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="US News" tvg-provider="WGP.ENG" tvg-id="465372" tvg-backup-provider="XMLTV" tvg-backup-id="fox-news-hd",Fox News Channel
 http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 #EXTINF:-1 tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="US News" tvg-provider="WGP.ENG" tvg-id="465372" tvg-backup-provider="XMLTV" tvg-backup-id="fox-news-hd",Fox News Channel
+https://tvsen6.aynaott.com/foxnews/index.m3u8
+#EXTINF:-1 tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="US News" tvg-provider="WGP.ENG" tvg-id="465372" tvg-backup-provider="XMLTV" tvg-backup-id="fox-news-hd",Fox News Channel
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 
 
@@ -52,6 +54,8 @@ https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playl
 #EXTINF:-1 tvg-name="MLB" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports",MLB Channel
 https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
 
+#EXTINF:-1 tvg-name="MLB Network" tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="407571" tvg-backup-provider="XMLTV" tvg-backup-id="mlb-network-us-hd",MLB Network
+https://messi.damitv.st/papi/ts/mlbnetwork-usa/playlist.m3u8
 
 
 
