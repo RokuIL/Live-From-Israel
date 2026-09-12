@@ -1,326 +1,308 @@
 [
     {
-        "start":  "2026-09-11T00:00:00.0000000",
+        "start":  "2026-09-12T01:00:00.0000000",
         "title":  "Italian Serie B Soccer",
-        "desc":  "From Alberto Braglia Stadium in Modena, Emilia-Romagna, Italy.",
-        "end":  "2026-09-11T02:00:00.0000000"
+        "desc":  "From Ciro Vigorito Stadium in Benevento, Campania, Italy.",
+        "end":  "2026-09-12T03:00:00.0000000"
     },
     {
-        "start":  "2026-09-11T02:00:00.0000000",
-        "title":  "Italian Serie B Soccer",
-        "desc":  "From Marcantonio Bentegodi Stadium in Verona, Veneto, Italy.",
-        "end":  "2026-09-11T04:00:00.0000000"
+        "start":  "2026-09-12T03:00:00.0000000",
+        "title":  "Live: AFL Women\u0027s Premiership Football",
+        "desc":  "From Kennedy Community Centre in Melbourne, Australia.",
+        "end":  "2026-09-12T05:00:00.0000000"
     },
     {
-        "start":  "2026-09-11T04:00:00.0000000",
-        "title":  "Italian Serie B Soccer",
-        "desc":  "From Renzo Barbera Stadium in Palermo, Palermo, Italy.",
-        "end":  "2026-09-11T06:00:00.0000000"
+        "start":  "2026-09-12T05:00:00.0000000",
+        "title":  "Live: AFL Women\u0027s Premiership Football",
+        "desc":  "From Thomas Farms Oval in Unley, South Australia, Australia.",
+        "end":  "2026-09-12T07:08:00.0000000"
     },
     {
-        "start":  "2026-09-11T06:00:00.0000000",
-        "title":  "Canadian Premier League Soccer",
-        "desc":  "From York Lions Stadium in Toronto.",
-        "end":  "2026-09-11T08:00:00.0000000"
+        "start":  "2026-09-12T07:08:00.0000000",
+        "title":  "Live: NRL Women\u0027s Premiership",
+        "desc":  "Coverage of matches played in the Australian Women\u0027s National Rugby League.",
+        "end":  "2026-09-12T08:30:00.0000000"
     },
     {
-        "start":  "2026-09-11T08:00:00.0000000",
-        "title":  "Rugby Super League",
-        "desc":  "From Headingley Stadium in Leeds, England, United Kingdom.",
-        "end":  "2026-09-11T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T10:00:00.0000000",
-        "title":  "Live: NRL Rugby",
-        "desc":  "From Allegiant Stadium in Las Vegas.",
-        "end":  "2026-09-11T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T12:00:00.0000000",
-        "title":  "An American Rugby Odyssey",
-        "desc":  "From a parking lot in South Los Angeles, Coach Stuart Krohn takes a girls\u0027 team and a boys\u0027 team on an international tour each year through the Inner City Education Foundation\u0027s rugby program.",
-        "end":  "2026-09-11T12:48:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T12:48:00.0000000",
-        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
-        "desc":  "Group B.",
-        "end":  "2026-09-11T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T15:00:00.0000000",
-        "title":  "Football\u0027s Greatest Stage",
-        "desc":  "Beyond the exciting football which was presented there, the 2022 World Cup in Qatar will remain in memories as having marked a challenge launched by the African teams to the domination of European and South American football.",
-        "end":  "2026-09-11T15:19:00.0000000"
-    },
-    {
-        "start":  "2026-09-11T15:19:00.0000000",
-        "title":  "Live: Saudi League Soccer",
+        "start":  "2026-09-12T08:30:00.0000000",
+        "title":  "Saudi League Soccer",
         "desc":  "From Prince Mohamed bin Fahd Stadium in Ad Dammam, Ash Sharqiyah, Saudi Arabia.",
-        "end":  "2026-09-11T17:30:00.0000000"
+        "end":  "2026-09-12T10:30:00.0000000"
     },
     {
-        "start":  "2026-09-11T17:30:00.0000000",
+        "start":  "2026-09-12T10:30:00.0000000",
+        "title":  "Italian Serie B Soccer",
+        "desc":  "From Ciro Vigorito Stadium in Benevento, Campania, Italy.",
+        "end":  "2026-09-12T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T12:30:00.0000000",
         "title":  "Football Nation",
-        "desc":  "The northern region of CAF has been dominated by Egypt, but it was Morocco that broke new ground by reaching the semi-finals of the 2022 World Cup.",
-        "end":  "2026-09-11T18:00:00.0000000"
+        "desc":  "Japan, the 2002 World Cup hosts, cemented their status as a top-tier footballing nation, propelled by the technical excellence of the J-League.",
+        "end":  "2026-09-12T12:48:00.0000000"
     },
     {
-        "start":  "2026-09-11T18:00:00.0000000",
+        "start":  "2026-09-12T12:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "Group D.",
+        "end":  "2026-09-12T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T15:00:00.0000000",
         "title":  "Football\u0027s Greatest Stage",
-        "desc":  "The most prolific international goalscorer of all time defies age and logic to keep on scoring.",
-        "end":  "2026-09-11T18:30:00.0000000"
+        "desc":  "Platini and Maldini never won the World Cup but their brilliance and legacy still shine on football\u0027s greatest stage.",
+        "end":  "2026-09-12T15:30:00.0000000"
     },
     {
-        "start":  "2026-09-11T18:30:00.0000000",
+        "start":  "2026-09-12T15:30:00.0000000",
+        "title":  "Football\u0027s Greatest Stage",
+        "desc":  "Kylian MbappÃ© is the modern face of football\u0027s biggest stage. A World Cup winner as a teenager, then the scorer of a World Cup final hat-trick, MbappÃ© is French footballing royalty.",
+        "end":  "2026-09-12T15:48:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T15:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "Group C.",
+        "end":  "2026-09-12T17:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T17:45:00.0000000",
+        "title":  "Live: Saudi League Soccer",
+        "desc":  "From Prince Nayef bin Abdulaziz Stadium in Saudi Arabia.",
+        "end":  "2026-09-12T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T20:00:00.0000000",
+        "title":  "Saudi League Soccer",
+        "desc":  "From King Abdullah Sports City Stadium in AI Qasim, Saudi Arabia.",
+        "end":  "2026-09-12T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T22:00:00.0000000",
+        "title":  "Football\u0027s Greatest Stage",
+        "desc":  "Johan Cruyff is the godfather of modern football. He was the mastermind behind the Netherlands reaching the World Cup final in 1974.",
+        "end":  "2026-09-12T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T22:30:00.0000000",
+        "title":  "Football\u0027s Greatest Stage",
+        "desc":  "Nobody has scored more goals during a single World Cup than Just Fontaine.",
+        "end":  "2026-09-12T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-12T23:00:00.0000000",
+        "title":  "Live: Canadian Premier League Soccer",
+        "desc":  "From Hamilton Stadium in Hamilton, Ontario.",
+        "end":  "2026-09-13T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T01:00:00.0000000",
+        "title":  "NRL Women\u0027s Premiership",
+        "desc":  "Coverage of matches played in the Australian Women\u0027s National Rugby League.",
+        "end":  "2026-09-13T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T02:30:00.0000000",
+        "title":  "Live: AFL Women\u0027s Premiership Football",
+        "desc":  "From Casey Fields in Melbourne, Victoria, Australia.",
+        "end":  "2026-09-13T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T04:30:00.0000000",
+        "title":  "Live: AFL Women\u0027s Premiership Football",
+        "desc":  "From Henson Park in Marrickville, New South Wales, Australia.",
+        "end":  "2026-09-13T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T06:30:00.0000000",
+        "title":  "The Rover of Tobruk",
+        "desc":  "Bob Quinn, a former AFL player for Port Adelaide, was a recipient of the Military Medal for his heroic actions in World War II in Tobruk.",
+        "end":  "2026-09-13T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T07:00:00.0000000",
+        "title":  "Live: AFL Women\u0027s Premiership Football",
+        "desc":  "Coverage of women\u0027s Australian rules football.",
+        "end":  "2026-09-13T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T09:00:00.0000000",
+        "title":  "Saudi League Soccer",
+        "desc":  "From King Abdullah Sports City Stadium in AI Qasim, Saudi Arabia.",
+        "end":  "2026-09-13T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T11:00:00.0000000",
+        "title":  "Saudi League Soccer",
+        "desc":  "From Prince Mohamed bin Fahd Stadium in Ad Dammam, Ash Sharqiyah, Saudi Arabia.",
+        "end":  "2026-09-13T12:48:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T12:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "Group F.",
+        "end":  "2026-09-13T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T15:00:00.0000000",
         "title":  "Football Nation",
-        "desc":  "Italy is one of the most impassioned and significant of footballing nations. The four-time World Cup winners are renowned for their defensive nous and passion, the product of Serie A, one of the game\u0027s most cut-throat leagues.",
-        "end":  "2026-09-11T18:55:00.0000000"
+        "desc":  "Saudi Arabia, a powerhouse of the AFC, has established one of the most influential domestic competitions, invested heavily in football in other countries, and will host the 2034 World Cup.",
+        "end":  "2026-09-13T15:30:00.0000000"
     },
     {
-        "start":  "2026-09-11T18:55:00.0000000",
-        "title":  "Live: Rugby Super League",
-        "desc":  "From BrewDog Stadium in St. Helens, England.",
-        "end":  "2026-09-11T21:00:00.0000000"
+        "start":  "2026-09-13T15:30:00.0000000",
+        "title":  "Football Nation",
+        "desc":  "During the 1950s Hungary\u0027s Magnificent Magyars drove footballing culture forward. Their failure to win the 1954 World Cup remains one of the sport\u0027s great missed opportunities.",
+        "end":  "2026-09-13T15:48:00.0000000"
     },
     {
-        "start":  "2026-09-11T21:00:00.0000000",
+        "start":  "2026-09-13T15:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "Group E.",
+        "end":  "2026-09-13T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T18:00:00.0000000",
         "title":  "2026 FIFA U-20 Women\u0027s World Cup",
-        "desc":  "Group A.",
-        "end":  "2026-09-11T23:00:00.0000000"
+        "desc":  "Group C.",
+        "end":  "2026-09-13T20:00:00.0000000"
     },
     {
-        "start":  "2026-09-11T23:00:00.0000000",
+        "start":  "2026-09-13T20:00:00.0000000",
+        "title":  "Serie A Women\u0027s Cup Soccer",
+        "desc":  "Coverage of the soccer tournament featuring clubs from Serie A.",
+        "end":  "2026-09-13T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T22:00:00.0000000",
+        "title":  "Italian Serie B Soccer",
+        "desc":  "From Partenio Stadium in Avellino, Campania, Italy.",
+        "end":  "2026-09-14T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-14T00:00:00.0000000",
+        "title":  "Italian Serie B Soccer",
+        "desc":  "From Dino Manuzzi Stadium in Cesena, Emilia-Romagna, Italy.",
+        "end":  "2026-09-15T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T01:00:00.0000000",
+        "title":  "NRL Women\u0027s Premiership",
+        "desc":  "Coverage of matches played in the Australian Women\u0027s National Rugby League.",
+        "end":  "2026-09-13T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T02:30:00.0000000",
+        "title":  "Live: AFL Women\u0027s Premiership Football",
+        "desc":  "From Casey Fields in Melbourne, Victoria, Australia.",
+        "end":  "2026-09-13T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T04:30:00.0000000",
+        "title":  "Live: AFL Women\u0027s Premiership Football",
+        "desc":  "From Henson Park in Marrickville, New South Wales, Australia.",
+        "end":  "2026-09-13T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T06:30:00.0000000",
+        "title":  "The Rover of Tobruk",
+        "desc":  "Bob Quinn, a former AFL player for Port Adelaide, was a recipient of the Military Medal for his heroic actions in World War II in Tobruk.",
+        "end":  "2026-09-13T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T07:00:00.0000000",
+        "title":  "Live: AFL Women\u0027s Premiership Football",
+        "desc":  "Coverage of women\u0027s Australian rules football.",
+        "end":  "2026-09-13T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T09:00:00.0000000",
+        "title":  "Saudi League Soccer",
+        "desc":  "From King Abdullah Sports City Stadium in AI Qasim, Saudi Arabia.",
+        "end":  "2026-09-13T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T11:00:00.0000000",
+        "title":  "Saudi League Soccer",
+        "desc":  "From Prince Mohamed bin Fahd Stadium in Ad Dammam, Ash Sharqiyah, Saudi Arabia.",
+        "end":  "2026-09-13T12:48:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T12:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "Group F.",
+        "end":  "2026-09-13T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T15:00:00.0000000",
+        "title":  "Football Nation",
+        "desc":  "Saudi Arabia, a powerhouse of the AFC, has established one of the most influential domestic competitions, invested heavily in football in other countries, and will host the 2034 World Cup.",
+        "end":  "2026-09-13T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T15:30:00.0000000",
+        "title":  "Football Nation",
+        "desc":  "During the 1950s Hungary\u0027s Magnificent Magyars drove footballing culture forward. Their failure to win the 1954 World Cup remains one of the sport\u0027s great missed opportunities.",
+        "end":  "2026-09-13T15:48:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T15:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "Group E.",
+        "end":  "2026-09-13T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T18:00:00.0000000",
+        "title":  "2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "Group C.",
+        "end":  "2026-09-13T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T20:00:00.0000000",
+        "title":  "Serie A Women\u0027s Cup Soccer",
+        "desc":  "Coverage of the soccer tournament featuring clubs from Serie A.",
+        "end":  "2026-09-13T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-13T22:00:00.0000000",
+        "title":  "Italian Serie B Soccer",
+        "desc":  "From Partenio Stadium in Avellino, Campania, Italy.",
+        "end":  "2026-09-14T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-14T00:00:00.0000000",
+        "title":  "Italian Serie B Soccer",
+        "desc":  "From Dino Manuzzi Stadium in Cesena, Emilia-Romagna, Italy.",
+        "end":  "2026-09-14T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-14T02:00:00.0000000",
+        "title":  "Serie A Women\u0027s Cup Soccer",
+        "desc":  "Coverage of the soccer tournament featuring clubs from Serie A.",
+        "end":  "2026-09-14T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-14T04:00:00.0000000",
         "title":  "Rugby Super League",
-        "desc":  "From Leigh Sports Village Stadium in England, United Kingdom.",
-        "end":  "2026-09-12T00:00:00.0000000"
+        "desc":  "Comprehensive coverage of all the action from the matches played as part of the Rugby Super League.",
+        "end":  "2026-09-15T00:00:00.0000000"
     },
     {
-        "start":  "2026-09-12T01:00:00.0000000",
+        "start":  "2026-09-14T00:00:00.0000000",
         "title":  "Italian Serie B Soccer",
-        "desc":  "From Ciro Vigorito Stadium in Benevento, Campania, Italy.",
-        "end":  "2026-09-12T03:00:00.0000000"
+        "desc":  "From Dino Manuzzi Stadium in Cesena, Emilia-Romagna, Italy.",
+        "end":  "2026-09-14T02:00:00.0000000"
     },
     {
-        "start":  "2026-09-12T03:00:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "From Kennedy Community Centre in Melbourne, Australia.",
-        "end":  "2026-09-12T05:00:00.0000000"
+        "start":  "2026-09-14T02:00:00.0000000",
+        "title":  "Serie A Women\u0027s Cup Soccer",
+        "desc":  "Coverage of the soccer tournament featuring clubs from Serie A.",
+        "end":  "2026-09-14T04:00:00.0000000"
     },
     {
-        "start":  "2026-09-12T05:00:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "From Thomas Farms Oval in Unley, South Australia, Australia.",
-        "end":  "2026-09-12T07:08:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T07:08:00.0000000",
-        "title":  "Live: NRL Women\u0027s Premiership",
-        "desc":  "Coverage of matches played in the Australian Women\u0027s National Rugby League.",
-        "end":  "2026-09-12T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T08:30:00.0000000",
-        "title":  "Saudi League Soccer",
-        "desc":  "From Prince Mohamed bin Fahd Stadium in Ad Dammam, Ash Sharqiyah, Saudi Arabia.",
-        "end":  "2026-09-12T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T10:30:00.0000000",
-        "title":  "Italian Serie B Soccer",
-        "desc":  "From Ciro Vigorito Stadium in Benevento, Campania, Italy.",
-        "end":  "2026-09-12T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T12:30:00.0000000",
-        "title":  "Football Nation",
-        "desc":  "Japan, the 2002 World Cup hosts, cemented their status as a top-tier footballing nation, propelled by the technical excellence of the J-League.",
-        "end":  "2026-09-12T12:48:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T12:48:00.0000000",
-        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
-        "desc":  "Group D.",
-        "end":  "2026-09-12T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T15:00:00.0000000",
-        "title":  "Football\u0027s Greatest Stage",
-        "desc":  "Platini and Maldini never won the World Cup but their brilliance and legacy still shine on football\u0027s greatest stage.",
-        "end":  "2026-09-12T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T15:30:00.0000000",
-        "title":  "Football\u0027s Greatest Stage",
-        "desc":  "Kylian MbappÃ© is the modern face of football\u0027s biggest stage. A World Cup winner as a teenager, then the scorer of a World Cup final hat-trick, MbappÃ© is French footballing royalty.",
-        "end":  "2026-09-12T15:48:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T15:48:00.0000000",
-        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
-        "desc":  "Group C.",
-        "end":  "2026-09-12T17:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T17:45:00.0000000",
-        "title":  "Live: Saudi League Soccer",
-        "desc":  "From Prince Nayef bin Abdulaziz Stadium in Saudi Arabia.",
-        "end":  "2026-09-12T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T20:00:00.0000000",
-        "title":  "Saudi League Soccer",
-        "desc":  "From King Abdullah Sports City Stadium in AI Qasim, Saudi Arabia.",
-        "end":  "2026-09-12T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T22:00:00.0000000",
-        "title":  "Football\u0027s Greatest Stage",
-        "desc":  "Johan Cruyff is the godfather of modern football. He was the mastermind behind the Netherlands reaching the World Cup final in 1974.",
-        "end":  "2026-09-12T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T22:30:00.0000000",
-        "title":  "Football\u0027s Greatest Stage",
-        "desc":  "Nobody has scored more goals during a single World Cup than Just Fontaine.",
-        "end":  "2026-09-12T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T23:00:00.0000000",
-        "title":  "Live: Canadian Premier League Soccer",
-        "desc":  "From Hamilton Stadium in Hamilton, Ontario.",
-        "end":  "2026-09-13T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T01:00:00.0000000",
-        "title":  "Italian Serie B Soccer",
-        "desc":  "From Ciro Vigorito Stadium in Benevento, Campania, Italy.",
-        "end":  "2026-09-12T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T03:00:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "From Kennedy Community Centre in Melbourne, Australia.",
-        "end":  "2026-09-12T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T05:00:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "From Thomas Farms Oval in Unley, South Australia, Australia.",
-        "end":  "2026-09-12T07:08:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T07:08:00.0000000",
-        "title":  "Live: NRL Women\u0027s Premiership",
-        "desc":  "Coverage of matches played in the Australian Women\u0027s National Rugby League.",
-        "end":  "2026-09-12T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T08:30:00.0000000",
-        "title":  "Saudi League Soccer",
-        "desc":  "From Prince Mohamed bin Fahd Stadium in Ad Dammam, Ash Sharqiyah, Saudi Arabia.",
-        "end":  "2026-09-12T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T10:30:00.0000000",
-        "title":  "Italian Serie B Soccer",
-        "desc":  "From Ciro Vigorito Stadium in Benevento, Campania, Italy.",
-        "end":  "2026-09-12T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T12:30:00.0000000",
-        "title":  "Football Nation",
-        "desc":  "Japan, the 2002 World Cup hosts, cemented their status as a top-tier footballing nation, propelled by the technical excellence of the J-League.",
-        "end":  "2026-09-12T12:48:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T12:48:00.0000000",
-        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
-        "desc":  "Group D.",
-        "end":  "2026-09-12T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T15:00:00.0000000",
-        "title":  "Football\u0027s Greatest Stage",
-        "desc":  "Platini and Maldini never won the World Cup but their brilliance and legacy still shine on football\u0027s greatest stage.",
-        "end":  "2026-09-12T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T15:30:00.0000000",
-        "title":  "Football\u0027s Greatest Stage",
-        "desc":  "Kylian MbappÃ© is the modern face of football\u0027s biggest stage. A World Cup winner as a teenager, then the scorer of a World Cup final hat-trick, MbappÃ© is French footballing royalty.",
-        "end":  "2026-09-12T15:48:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T15:48:00.0000000",
-        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
-        "desc":  "Group C.",
-        "end":  "2026-09-12T17:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T17:45:00.0000000",
-        "title":  "Live: Saudi League Soccer",
-        "desc":  "From Prince Nayef bin Abdulaziz Stadium in Saudi Arabia.",
-        "end":  "2026-09-12T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T20:00:00.0000000",
-        "title":  "Saudi League Soccer",
-        "desc":  "From King Abdullah Sports City Stadium in AI Qasim, Saudi Arabia.",
-        "end":  "2026-09-12T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T22:00:00.0000000",
-        "title":  "Football\u0027s Greatest Stage",
-        "desc":  "Johan Cruyff is the godfather of modern football. He was the mastermind behind the Netherlands reaching the World Cup final in 1974.",
-        "end":  "2026-09-12T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T22:30:00.0000000",
-        "title":  "Football\u0027s Greatest Stage",
-        "desc":  "Nobody has scored more goals during a single World Cup than Just Fontaine.",
-        "end":  "2026-09-12T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T23:00:00.0000000",
-        "title":  "Live: Canadian Premier League Soccer",
-        "desc":  "From Hamilton Stadium in Hamilton, Ontario.",
-        "end":  "2026-09-13T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-13T01:00:00.0000000",
-        "title":  "NRL Women\u0027s Premiership",
-        "desc":  "Coverage of matches played in the Australian Women\u0027s National Rugby League.",
-        "end":  "2026-09-13T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-13T02:30:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "From Casey Fields in Melbourne, Victoria, Australia.",
-        "end":  "2026-09-13T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-13T04:30:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "From Henson Park in Marrickville, New South Wales, Australia.",
-        "end":  "2026-09-14T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-13T01:00:00.0000000",
-        "title":  "NRL Women\u0027s Premiership",
-        "desc":  "Coverage of matches played in the Australian Women\u0027s National Rugby League.",
-        "end":  "2026-09-13T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-13T02:30:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "From Casey Fields in Melbourne, Victoria, Australia.",
-        "end":  "2026-09-13T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-13T04:30:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "From Henson Park in Marrickville, New South Wales, Australia.",
-        "end":  "2026-09-14T00:00:00.0000000"
+        "start":  "2026-09-14T04:00:00.0000000",
+        "title":  "Rugby Super League",
+        "desc":  "Comprehensive coverage of all the action from the matches played as part of the Rugby Super League.",
+        "end":  "2026-09-15T00:00:00.0000000"
     }
 ]
