@@ -1,155 +1,5 @@
 [
     {
-        "start":  "2026-09-12T00:00:00.0000000",
-        "title":  "Stay Tuned NOW With Gadi Schwartz",
-        "desc":  "A fresh look at the day\u0027s news, from the latest breaking news to what\u0027s on the horizon.(n)",
-        "end":  "2026-09-12T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T01:00:00.0000000",
-        "title":  "Top Story With Tom Llamas",
-        "desc":  "Reporting of breaking news and developing stories in real time.(n)",
-        "end":  "2026-09-12T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T02:00:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)",
-        "end":  "2026-09-12T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T02:30:00.0000000",
-        "title":  "NBC Nightly News: Great Americans: Service and Sacrifice",
-        "desc":  "Tom Llamas sits down with Americans who answered the call for their country.(n)",
-        "end":  "2026-09-12T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T03:00:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)",
-        "end":  "2026-09-12T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T03:30:00.0000000",
-        "title":  "NBC Nightly News: Great Americans: Service and Sacrifice",
-        "desc":  "Tom Llamas sits down with Americans who answered the call for their country.(n)",
-        "end":  "2026-09-12T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T04:00:00.0000000",
-        "title":  "Top Story With Tom Llamas",
-        "desc":  "Reporting of breaking news and developing stories in real time.(n)",
-        "end":  "2026-09-12T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T05:00:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)",
-        "end":  "2026-09-12T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T05:30:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)",
-        "end":  "2026-09-12T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T06:00:00.0000000",
-        "title":  "Dateline NBC",
-        "desc":  "A mother in Pennsylvania disappears after co-workers see her leaving for lunch.(n)",
-        "end":  "2026-09-12T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T07:00:00.0000000",
-        "title":  "Dateline NBC: Down the Back Staircase",
-        "desc":  "Michael Peterson, who was granted a new trial after the 2003 conviction in the murder of his wife was overturned, discusses the case and his decision to enter an Alford plea.(n)",
-        "end":  "2026-09-12T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T09:00:00.0000000",
-        "title":  "Dateline NBC",
-        "desc":  "When a young woman finds out that her boyfriend might have shot and killed a college football player out of revenge, she struggles with coming forward to officials, fearing she could lose her life.(n)",
-        "end":  "2026-09-12T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T10:00:00.0000000",
-        "title":  "Dateline NBC: Jonestown: An American Tragedy",
-        "desc":  "An in-depth look at the journalists who exposed the dangers of cult leader Reverend Jim Jones; interviews with witnesses to murders carried out by Jones\u0027 followers.(n)",
-        "end":  "2026-09-12T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T11:00:00.0000000",
-        "title":  "Dateline NBC: The Prussian Blue Mystery",
-        "desc":  "When a San Diego woman who is near death arrives at an emergency room, the FBI and local law enforcement are called in to try to solve a medical mystery and a horrific crime.(n)",
-        "end":  "2026-09-12T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T12:00:00.0000000",
-        "title":  "Dateline NBC",
-        "desc":  "A former marine who once was the hero for a woman in an abusive marriage may have let his desire to help go too far.(n)",
-        "end":  "2026-09-12T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T13:00:00.0000000",
-        "title":  "Dateline NBC",
-        "desc":  "The parents of a missing South Carolina woman speak out about her disappearance.(n)",
-        "end":  "2026-09-12T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T14:00:00.0000000",
-        "title":  "Dateline NBC",
-        "desc":  "When Ohio mother Heather Bogle goes missing, a detective identifies multiple suspects, until he himself comes under scrutiny for his investigation.(n)",
-        "end":  "2026-09-12T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T15:00:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)",
-        "end":  "2026-09-12T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T15:30:00.0000000",
-        "title":  "Today",
-        "desc":  "News headlines, interviews, and stories intended to inform, entertain, inspire and set the agenda each morning for Americans and help viewers with their finances, health and well-being.(n)",
-        "end":  "2026-09-12T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T17:00:00.0000000",
-        "title":  "Dateline NBC: Facing Ground Zero: A Dateline Special",
-        "desc":  "A documentary profiles New Yorkers captured by NBC News cameras on Sept. 11, 2001; in new interviews, they reflect on what they witnessed, survived and how the attacks forever shaped their lives and the country.(n)",
-        "end":  "2026-09-12T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T18:00:00.0000000",
-        "title":  "Dateline NBC: Before Midnight",
-        "desc":  "A successful businesswoman and mother of three is found shot in her office; the investigation into her death leaves a family divided.(n)",
-        "end":  "2026-09-12T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T19:00:00.0000000",
-        "title":  "Dateline NBC: Suspicion in Silver City",
-        "desc":  "When the mysterious death of a 23-year-old mother in New Mexico goes unsolved, her family searches for answers.(n)",
-        "end":  "2026-09-12T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T20:00:00.0000000",
-        "title":  "Dateline NBC: A Crack in Everything",
-        "desc":  "A woman\u0027s death is initially ruled a suicide, but when a new investigation begins, police begin to suspect murder.(n)",
-        "end":  "2026-09-12T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T21:00:00.0000000",
-        "title":  "Dateline NBC",
-        "desc":  "A beloved former firefighter is found dead in his garage; a neighbor\u0027s home security camera may provide answers.(n)",
-        "end":  "2026-09-12T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-12T22:00:00.0000000",
-        "title":  "Dateline NBC",
-        "desc":  "A man convicted of murdering a woman in her upscale Austin, Texas, home tells his story for the first time.(n)",
-        "end":  "2026-09-13T00:00:00.0000000"
-    },
-    {
         "start":  "2026-09-13T00:00:00.0000000",
         "title":  "Dateline NBC: Everything She Knew",
         "desc":  "A young woman\u0027s murder remains unsolved until someone comes forward to reveal her own harrowing story.(n)",
@@ -290,151 +140,151 @@
     {
         "start":  "2026-09-14T00:00:00.0000000",
         "title":  "Dateline NBC: The Other Side of Paradise",
-        "desc":  "A father in Hawaii tackles setback after setback in his fight for justice for his murdered daughter.",
+        "desc":  "A father in Hawaii tackles setback after setback in his fight for justice for his murdered daughter.(n)",
         "end":  "2026-09-14T01:00:00.0000000"
     },
     {
         "start":  "2026-09-14T01:00:00.0000000",
         "title":  "Meet the Press",
-        "desc":  "Interviews with public figures and those making news, setting the political agenda and spotlighting the impact Washington decision-making has on Americans.",
+        "desc":  "Rep. Mike Johnson (R-La.); former Transportation Secretary Pete Buttigieg; Jacob Coxon, AI whistleblower; roundtable discussion with Ashley Etienne, Jonathan Martin and Marc Short.(n)",
         "end":  "2026-09-14T02:00:00.0000000"
     },
     {
         "start":  "2026-09-14T02:00:00.0000000",
         "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)",
         "end":  "2026-09-14T02:30:00.0000000"
     },
     {
         "start":  "2026-09-14T02:30:00.0000000",
         "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)",
         "end":  "2026-09-14T03:00:00.0000000"
     },
     {
         "start":  "2026-09-14T03:00:00.0000000",
-        "title":  "Dateline NBC",
-        "desc":  "Pamela Smart\u0027s husband is found murdered; police investigate and discover that Smart is keeping a big secret.",
+        "title":  "Dateline NBC: Facing Ground Zero: A Dateline Special",
+        "desc":  "A documentary profiles New Yorkers captured by NBC News cameras on Sept. 11, 2001; in new interviews, they reflect on what they witnessed, survived and how the attacks forever shaped their lives and the country.(n)",
         "end":  "2026-09-14T04:00:00.0000000"
     },
     {
         "start":  "2026-09-14T04:00:00.0000000",
         "title":  "Dateline NBC: Unchecked Evil",
-        "desc":  "A 21-year-old college senior is shot and killed in a public park just months before her graduation.",
+        "desc":  "A 21-year-old college senior is shot and killed in a public park just months before her graduation.(n)",
         "end":  "2026-09-14T05:00:00.0000000"
     },
     {
         "start":  "2026-09-14T05:00:00.0000000",
         "title":  "Dateline NBC: Before Midnight",
-        "desc":  "A successful businesswoman and mother of three is found shot in her office; the investigation into her death leaves a family divided.",
+        "desc":  "A successful businesswoman and mother of three is found shot in her office; the investigation into her death leaves a family divided.(n)",
         "end":  "2026-09-14T06:00:00.0000000"
     },
     {
         "start":  "2026-09-14T06:00:00.0000000",
         "title":  "Dateline NBC",
-        "desc":  "When a young woman finds out that her boyfriend might have shot and killed a college football player out of revenge, she struggles with coming forward to officials, fearing she could lose her life.",
+        "desc":  "When a young woman finds out that her boyfriend might have shot and killed a college football player out of revenge, she struggles with coming forward to officials, fearing she could lose her life.(n)",
         "end":  "2026-09-14T07:00:00.0000000"
     },
     {
         "start":  "2026-09-14T07:00:00.0000000",
         "title":  "Dateline NBC: Deadly Circumstances",
-        "desc":  "A Tennessee resident is murdered in her bedroom; investigators have little evidence and struggle to find answers.",
+        "desc":  "A Tennessee resident is murdered in her bedroom; investigators have little evidence and struggle to find answers.(n)",
         "end":  "2026-09-14T08:00:00.0000000"
     },
     {
         "start":  "2026-09-14T08:00:00.0000000",
         "title":  "Dateline NBC: A Crack in Everything",
-        "desc":  "A woman\u0027s death is initially ruled a suicide, but when a new investigation begins, police begin to suspect murder.",
+        "desc":  "A woman\u0027s death is initially ruled a suicide, but when a new investigation begins, police begin to suspect murder.(n)",
         "end":  "2026-09-14T09:00:00.0000000"
     },
     {
         "start":  "2026-09-14T09:00:00.0000000",
         "title":  "Early Today",
-        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.",
+        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)",
         "end":  "2026-09-14T09:30:00.0000000"
     },
     {
         "start":  "2026-09-14T09:30:00.0000000",
         "title":  "Early Today",
-        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.",
+        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)",
         "end":  "2026-09-14T10:00:00.0000000"
     },
     {
         "start":  "2026-09-14T10:00:00.0000000",
         "title":  "Early Today",
-        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.",
+        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)",
         "end":  "2026-09-14T10:30:00.0000000"
     },
     {
         "start":  "2026-09-14T10:30:00.0000000",
         "title":  "Early Today",
-        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.",
+        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)",
         "end":  "2026-09-14T11:00:00.0000000"
     },
     {
         "start":  "2026-09-14T11:00:00.0000000",
         "title":  "Morning News NOW",
-        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.",
+        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)",
         "end":  "2026-09-14T12:00:00.0000000"
     },
     {
         "start":  "2026-09-14T12:00:00.0000000",
         "title":  "Morning News NOW",
-        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.",
+        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)",
         "end":  "2026-09-14T13:00:00.0000000"
     },
     {
         "start":  "2026-09-14T13:00:00.0000000",
         "title":  "Morning News NOW",
-        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.",
+        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)",
         "end":  "2026-09-14T14:00:00.0000000"
     },
     {
         "start":  "2026-09-14T14:00:00.0000000",
         "title":  "Current With Christine Romans",
-        "desc":  "Christine gets you current - from breaking news, to the economy, to politics, to global events; real news, real context, right now.",
+        "desc":  "Christine gets you current - from breaking news, to the economy, to politics, to global events; real news, real context, right now.(n)",
         "end":  "2026-09-14T16:00:00.0000000"
     },
     {
         "start":  "2026-09-14T16:00:00.0000000",
         "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
-        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)",
         "end":  "2026-09-14T17:00:00.0000000"
     },
     {
         "start":  "2026-09-14T17:00:00.0000000",
         "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
-        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)",
         "end":  "2026-09-14T18:00:00.0000000"
     },
     {
         "start":  "2026-09-14T18:00:00.0000000",
         "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
-        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)",
         "end":  "2026-09-14T19:00:00.0000000"
     },
     {
         "start":  "2026-09-14T19:00:00.0000000",
         "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
-        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)",
         "end":  "2026-09-14T20:00:00.0000000"
     },
     {
         "start":  "2026-09-14T20:00:00.0000000",
         "title":  "Meet the Press NOW",
-        "desc":  "Looking at the key stories of the day with political newsmakers.",
+        "desc":  "Looking at the key stories of the day with political newsmakers.(n)",
         "end":  "2026-09-14T21:00:00.0000000"
     },
     {
         "start":  "2026-09-14T21:00:00.0000000",
         "title":  "Hallie Jackson NOW",
-        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.",
+        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)",
         "end":  "2026-09-14T23:00:00.0000000"
     },
     {
         "start":  "2026-09-14T23:00:00.0000000",
         "title":  "Top Story With Tom Llamas",
-        "desc":  "Reporting of breaking news and developing stories in real time.",
+        "desc":  "Reporting of breaking news and developing stories in real time.(n)",
         "end":  "2026-09-15T00:00:00.0000000"
     },
     {
@@ -886,5 +736,155 @@
         "title":  "Top Story With Tom Llamas",
         "desc":  "Reporting of breaking news and developing stories in real time.",
         "end":  "2026-09-18T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T00:00:00.0000000",
+        "title":  "Stay Tuned NOW With Gadi Schwartz",
+        "desc":  "A fresh look at the day\u0027s news, from the latest breaking news to what\u0027s on the horizon.(n)",
+        "end":  "2026-09-18T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T01:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "desc":  "Reporting of breaking news and developing stories in real time.(n)",
+        "end":  "2026-09-18T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T02:00:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)",
+        "end":  "2026-09-18T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T02:30:00.0000000",
+        "title":  "Stay Tuned NOW With Gadi Schwartz",
+        "desc":  "A fresh look at the day\u0027s news, from the latest breaking news to what\u0027s on the horizon.(n)",
+        "end":  "2026-09-18T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T03:30:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)",
+        "end":  "2026-09-18T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T04:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "desc":  "Reporting of breaking news and developing stories in real time.(n)",
+        "end":  "2026-09-18T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T05:00:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)",
+        "end":  "2026-09-18T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T05:30:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.(n)",
+        "end":  "2026-09-18T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T06:00:00.0000000",
+        "title":  "Dateline NBC: The Other Side of Paradise",
+        "desc":  "A father in Hawaii tackles setback after setback in his fight for justice for his murdered daughter.(n)",
+        "end":  "2026-09-18T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T07:00:00.0000000",
+        "title":  "Dateline NBC",
+        "desc":  "As a murder victim\u0027s sisters dedicate themselves to finding the killer, an unexpected source turns the case upside down.(n)",
+        "end":  "2026-09-18T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T09:00:00.0000000",
+        "title":  "Early Today",
+        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)",
+        "end":  "2026-09-18T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T09:30:00.0000000",
+        "title":  "Early Today",
+        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)",
+        "end":  "2026-09-18T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T10:00:00.0000000",
+        "title":  "Early Today",
+        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)",
+        "end":  "2026-09-18T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T10:30:00.0000000",
+        "title":  "Early Today",
+        "desc":  "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.(n)",
+        "end":  "2026-09-18T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T11:00:00.0000000",
+        "title":  "Morning News NOW",
+        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)",
+        "end":  "2026-09-18T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T12:00:00.0000000",
+        "title":  "Morning News NOW",
+        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)",
+        "end":  "2026-09-18T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T13:00:00.0000000",
+        "title":  "Morning News NOW",
+        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)",
+        "end":  "2026-09-18T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T14:00:00.0000000",
+        "title":  "Current With Christine Romans",
+        "desc":  "Christine gets you current - from breaking news, to the economy, to politics, to global events; real news, real context, right now.(n)",
+        "end":  "2026-09-18T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T16:00:00.0000000",
+        "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)",
+        "end":  "2026-09-18T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T17:00:00.0000000",
+        "title":  "NBC News Daily With Morgan Radford and Vicky Nguyen",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)",
+        "end":  "2026-09-18T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T18:00:00.0000000",
+        "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)",
+        "end":  "2026-09-18T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T19:00:00.0000000",
+        "title":  "NBC News Daily With Kate Snow and Zinhle Essamuah",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.(n)",
+        "end":  "2026-09-18T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T20:00:00.0000000",
+        "title":  "Meet the Press NOW",
+        "desc":  "Looking at the key stories of the day with political newsmakers.(n)",
+        "end":  "2026-09-18T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T21:00:00.0000000",
+        "title":  "Hallie Jackson NOW",
+        "desc":  "Reporting breaking news and developing stories in real time; covering the most important stories of the day and taking deep dives on issues.(n)",
+        "end":  "2026-09-18T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T23:00:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "desc":  "Reporting of breaking news and developing stories in real time.(n)",
+        "end":  "2026-09-19T00:00:00.0000000"
     }
 ]
