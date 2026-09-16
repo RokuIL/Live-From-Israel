@@ -1,302 +1,212 @@
 [
     {
-        "start":  "2026-09-15T00:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Purdue Boilermakers face the Wake Forest Demon Deacons at Ross-Ade Stadium. Purdue opened its 2026 campaign with a 44-19 victory over Indiana State, while head coach Jake Dickert has Wake Forest at 1-0 following a 38-16 win over Akron.",
-        "end":  "2026-09-15T03:00:00.0000000"
+        "start":  "2026-09-16T01:00:00.0000000",
+        "title":  "OneSoccer Matchday Live",
+        "desc":  "Previews, highlights, and studio analysis for the Canadian Premier League.",
+        "end":  "2026-09-16T01:30:00.0000000"
     },
     {
-        "start":  "2026-09-15T03:00:00.0000000",
+        "start":  "2026-09-16T01:30:00.0000000",
+        "title":  "Football\u0027s Greatest Stage",
+        "desc":  "Kylian MbappÃ© is the modern face of football\u0027s biggest stage. A World Cup winner as a teenager, then the scorer of a World Cup final hat-trick, MbappÃ© is French footballing royalty.",
+        "end":  "2026-09-16T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-16T02:00:00.0000000",
+        "title":  "ARCA Menards Series",
+        "desc":  "From Salem Speedway in Salem, Ind.",
+        "end":  "2026-09-16T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-16T04:00:00.0000000",
+        "title":  "Kevin Harvick\u0027s Happy Hour",
+        "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
+        "end":  "2026-09-16T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-16T05:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The No. 15 BYU Cougars host the Arizona Wildcats at LaVell Edwards Stadium in a Big 12 game. BYU enters following a 63-7 victory over the Utah Tech Trailblazers, while Arizona arrives after a 35-7 win against the Northern Arizona Lumberjacks.",
+        "end":  "2026-09-16T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-16T08:00:00.0000000",
         "title":  "College Football",
         "desc":  "The Air Force Falcons host the North Dakota State Bison at Falcon Stadium in Colorado Springs. Air Force enters following a 34-0 victory over the Duquesne Dukes, while North Dakota State arrives after a 38-0 shutout against the Fordham Rams.",
-        "end":  "2026-09-15T06:00:00.0000000"
+        "end":  "2026-09-16T11:00:00.0000000"
     },
     {
-        "start":  "2026-09-15T06:00:00.0000000",
+        "start":  "2026-09-16T11:00:00.0000000",
+        "title":  "Women\u0027s College Volleyball",
+        "desc":  "",
+        "end":  "2026-09-16T12:48:00.0000000"
+    },
+    {
+        "start":  "2026-09-16T12:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "From Arena Katowice in Katowice, Poland.",
+        "end":  "2026-09-16T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-16T15:00:00.0000000",
         "title":  "The Gronk \u0026 Jules Show",
         "desc":  "Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
-        "end":  "2026-09-15T06:30:00.0000000"
+        "end":  "2026-09-16T15:30:00.0000000"
     },
     {
-        "start":  "2026-09-15T06:30:00.0000000",
-        "title":  "SPEED With Harvick \u0026 Buxton",
-        "desc":  "Kevin Harvick and Will Buxton celebrate the world of motorsports.",
-        "end":  "2026-09-15T07:30:00.0000000"
+        "start":  "2026-09-16T15:30:00.0000000",
+        "title":  "College Football",
+        "desc":  "Michigan hosts No. 11 Oklahoma at Michigan Stadium in Week 2 play. Michigan relies on quarterback Bryce Underwood following his 2,428 passing yards, while visiting Oklahoma counters behind John Mateer, who threw for 2,885 yards and 14 touchdowns.",
+        "end":  "2026-09-16T16:18:00.0000000"
     },
     {
-        "start":  "2026-09-15T07:30:00.0000000",
+        "start":  "2026-09-16T16:18:00.0000000",
+        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "From Arena Sosnowiec in Sosnowiec, Poland.",
+        "end":  "2026-09-16T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-16T18:30:00.0000000",
+        "title":  "College Football",
+        "desc":  "The No. 15 BYU Cougars host the Arizona Wildcats at LaVell Edwards Stadium in a Big 12 game. BYU enters following a 63-7 victory over the Utah Tech Trailblazers, while Arizona arrives after a 35-7 win against the Northern Arizona Lumberjacks.",
+        "end":  "2026-09-16T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-16T21:30:00.0000000",
+        "title":  "The Climbing Post",
+        "desc":  "The Climbing Post keeps the sport\u0027s fans abreast of the latest news and highlights.",
+        "end":  "2026-09-16T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-16T22:30:00.0000000",
+        "title":  "OneSoccer Matchday Live",
+        "desc":  "Previews, highlights, and studio analysis for the Canadian Premier League.",
+        "end":  "2026-09-16T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-16T23:00:00.0000000",
+        "title":  "Live: Canadian Championship",
+        "desc":  "Semifinal, 2nd Leg.",
+        "end":  "2026-09-17T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T01:00:00.0000000",
+        "title":  "OneSoccer Matchday Live",
+        "desc":  "Previews, highlights, and studio analysis for the Canadian Premier League.",
+        "end":  "2026-09-17T01:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T01:30:00.0000000",
+        "title":  "Women\u0027s Football Weekly",
+        "desc":  "Discover the best of the action from the top divisions of women\u0027s football in Italy, Germany and the Netherlands with this brand-new highlights show.",
+        "end":  "2026-09-17T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T02:00:00.0000000",
+        "title":  "2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "From Arena Katowice in Katowice, Poland.",
+        "end":  "2026-09-17T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T04:00:00.0000000",
+        "title":  "American Flat Track",
+        "desc":  "Motorcycle action from the American Flat Track racing series.",
+        "end":  "2026-09-17T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T05:00:00.0000000",
         "title":  "GT4 America",
         "desc":  "GT4 America features the fast-growing GT4 category with a wide-array of the world\u0027s top sports cars.",
-        "end":  "2026-09-15T08:30:00.0000000"
+        "end":  "2026-09-17T06:00:00.0000000"
     },
     {
-        "start":  "2026-09-15T08:30:00.0000000",
-        "title":  "MotoGP Racing",
-        "desc":  "From Misano World Circuit Marco Simoncelli in Misano Adriatico, Rimini, Italy.",
-        "end":  "2026-09-15T09:30:00.0000000"
+        "start":  "2026-09-17T06:00:00.0000000",
+        "title":  "ARCA Menards Series",
+        "desc":  "From Salem Speedway in Salem, Ind.",
+        "end":  "2026-09-17T08:00:00.0000000"
     },
     {
-        "start":  "2026-09-15T09:30:00.0000000",
-        "title":  "MotoGP Racing",
-        "desc":  "From Misano World Circuit Marco Simoncelli in Misano Adriatico, Rimini, Italy.",
-        "end":  "2026-09-15T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-15T10:00:00.0000000",
-        "title":  "American Flat Track",
-        "desc":  "Motorcycle action from the American Flat Track racing series.",
-        "end":  "2026-09-15T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-15T11:00:00.0000000",
-        "title":  "SPEED With Harvick \u0026 Buxton",
-        "desc":  "Kevin Harvick and Will Buxton celebrate the world of motorsports.",
-        "end":  "2026-09-15T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-15T12:00:00.0000000",
-        "title":  "MotoGP Racing",
-        "desc":  "From Misano World Circuit Marco Simoncelli in Misano Adriatico, Rimini, Italy.",
-        "end":  "2026-09-15T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-15T13:00:00.0000000",
+        "start":  "2026-09-17T08:00:00.0000000",
         "title":  "College Football",
-        "desc":  "The Illinois Fighting Illini host the Duke Blue Devils in a non-conference Week 2 action. Illinois enters following a 42-23 victory over UAB led by Collin Dixon\u0027s two receiving scores, while visiting Duke comes off a 17-3 win over Tulane.",
-        "end":  "2026-09-15T16:00:00.0000000"
+        "desc":  "Michigan hosts No. 11 Oklahoma at Michigan Stadium in Week 2 play. Michigan relies on quarterback Bryce Underwood following his 2,428 passing yards, while visiting Oklahoma counters behind John Mateer, who threw for 2,885 yards and 14 touchdowns.",
+        "end":  "2026-09-17T09:00:00.0000000"
     },
     {
-        "start":  "2026-09-15T16:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Purdue Boilermakers face the Wake Forest Demon Deacons at Ross-Ade Stadium. Purdue opened its 2026 campaign with a 44-19 victory over Indiana State, while head coach Jake Dickert has Wake Forest at 1-0 following a 38-16 win over Akron.",
-        "end":  "2026-09-15T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-15T19:00:00.0000000",
+        "start":  "2026-09-17T09:00:00.0000000",
         "title":  "College Football",
         "desc":  "The Missouri Tigers visit the Kansas Jayhawks in Week 2 action. Missouri opened with a 54-14 win over the Golden Lions behind Donovan Olugbode\u0027s 116 receiving yards and two TDs, while Kansas beat the Sharks 51-6 behind two TDs from Isaiah Marshall.",
-        "end":  "2026-09-15T22:00:00.0000000"
+        "end":  "2026-09-17T10:00:00.0000000"
     },
     {
-        "start":  "2026-09-15T22:00:00.0000000",
-        "title":  "The Gronk \u0026 Jules Show",
-        "desc":  "Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
-        "end":  "2026-09-15T22:30:00.0000000"
+        "start":  "2026-09-17T10:00:00.0000000",
+        "title":  "The Clay Travis Show",
+        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
+        "end":  "2026-09-17T10:30:00.0000000"
     },
     {
-        "start":  "2026-09-15T22:30:00.0000000",
-        "title":  "OneSoccer Matchday Live",
-        "desc":  "Previews, highlights, and studio analysis for the Canadian Premier League.",
-        "end":  "2026-09-15T23:00:00.0000000"
+        "start":  "2026-09-17T10:30:00.0000000",
+        "title":  "SPEED With Harvick \u0026 Buxton",
+        "desc":  "Kevin Harvick and Will Buxton celebrate the world of motorsports.",
+        "end":  "2026-09-17T11:30:00.0000000"
     },
     {
-        "start":  "2026-09-15T23:00:00.0000000",
-        "title":  "Live: Canadian Championship",
-        "desc":  "Semifinal, 2nd Leg.",
-        "end":  "2026-09-16T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T01:00:00.0000000",
-        "title":  "OneSoccer Matchday Live",
-        "desc":  "Previews, highlights, and studio analysis for the Canadian Premier League.",
-        "end":  "2026-09-16T01:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T01:30:00.0000000",
-        "title":  "Football\u0027s Greatest Stage",
-        "desc":  "Kylian MbappÃ© is the modern face of football\u0027s biggest stage. A World Cup winner as a teenager, then the scorer of a World Cup final hat-trick, MbappÃ© is French footballing royalty.",
-        "end":  "2026-09-16T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T02:00:00.0000000",
-        "title":  "ARCA Menards Series",
-        "desc":  "From Salem Speedway in Salem, Ind.",
-        "end":  "2026-09-16T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T04:00:00.0000000",
+        "start":  "2026-09-17T11:30:00.0000000",
         "title":  "Kevin Harvick\u0027s Happy Hour",
         "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
-        "end":  "2026-09-16T05:00:00.0000000"
+        "end":  "2026-09-17T12:30:00.0000000"
     },
     {
-        "start":  "2026-09-16T05:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 15 BYU Cougars host the Arizona Wildcats at LaVell Edwards Stadium in a Big 12 game. BYU enters following a 63-7 victory over the Utah Tech Trailblazers, while Arizona arrives after a 35-7 win against the Northern Arizona Lumberjacks.",
-        "end":  "2026-09-16T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T08:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Air Force Falcons host the North Dakota State Bison at Falcon Stadium in Colorado Springs. Air Force enters following a 34-0 victory over the Duquesne Dukes, while North Dakota State arrives after a 38-0 shutout against the Fordham Rams.",
-        "end":  "2026-09-16T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T11:00:00.0000000",
-        "title":  "Women\u0027s College Volleyball",
-        "desc":  "",
-        "end":  "2026-09-16T12:48:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T12:48:00.0000000",
-        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
-        "desc":  "From Arena Katowice in Katowice, Poland.",
-        "end":  "2026-09-16T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T15:00:00.0000000",
-        "title":  "The Gronk \u0026 Jules Show",
-        "desc":  "Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
-        "end":  "2026-09-16T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T15:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "Michigan hosts No. 11 Oklahoma at Michigan Stadium in Week 2 play. Michigan relies on quarterback Bryce Underwood following his 2,428 passing yards, while visiting Oklahoma counters behind John Mateer, who threw for 2,885 yards and 14 touchdowns.",
-        "end":  "2026-09-16T16:18:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T16:18:00.0000000",
-        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
-        "desc":  "From Arena Sosnowiec in Sosnowiec, Poland.",
-        "end":  "2026-09-16T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T18:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 15 BYU Cougars host the Arizona Wildcats at LaVell Edwards Stadium in a Big 12 game. BYU enters following a 63-7 victory over the Utah Tech Trailblazers, while Arizona arrives after a 35-7 win against the Northern Arizona Lumberjacks.",
-        "end":  "2026-09-16T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T21:30:00.0000000",
-        "title":  "The Climbing Post",
-        "desc":  "The Climbing Post keeps the sport\u0027s fans abreast of the latest news and highlights.",
-        "end":  "2026-09-16T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T22:30:00.0000000",
-        "title":  "OneSoccer Matchday Live",
-        "desc":  "Previews, highlights, and studio analysis for the Canadian Premier League.",
-        "end":  "2026-09-16T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T23:00:00.0000000",
-        "title":  "Live: Canadian Championship",
-        "desc":  "Semifinal, 2nd Leg.",
-        "end":  "2026-09-17T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T01:00:00.0000000",
-        "title":  "OneSoccer Matchday Live",
-        "desc":  "Previews, highlights, and studio analysis for the Canadian Premier League.",
-        "end":  "2026-09-16T01:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T01:30:00.0000000",
-        "title":  "Football\u0027s Greatest Stage",
-        "desc":  "Kylian MbappÃ© is the modern face of football\u0027s biggest stage. A World Cup winner as a teenager, then the scorer of a World Cup final hat-trick, MbappÃ© is French footballing royalty.",
-        "end":  "2026-09-16T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T02:00:00.0000000",
-        "title":  "ARCA Menards Series",
-        "desc":  "From Salem Speedway in Salem, Ind.",
-        "end":  "2026-09-16T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T04:00:00.0000000",
-        "title":  "Kevin Harvick\u0027s Happy Hour",
-        "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
-        "end":  "2026-09-16T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T05:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 15 BYU Cougars host the Arizona Wildcats at LaVell Edwards Stadium in a Big 12 game. BYU enters following a 63-7 victory over the Utah Tech Trailblazers, while Arizona arrives after a 35-7 win against the Northern Arizona Lumberjacks.",
-        "end":  "2026-09-16T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T08:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Air Force Falcons host the North Dakota State Bison at Falcon Stadium in Colorado Springs. Air Force enters following a 34-0 victory over the Duquesne Dukes, while North Dakota State arrives after a 38-0 shutout against the Fordham Rams.",
-        "end":  "2026-09-16T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T11:00:00.0000000",
-        "title":  "Women\u0027s College Volleyball",
-        "desc":  "",
-        "end":  "2026-09-16T12:48:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T12:48:00.0000000",
-        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
-        "desc":  "From Arena Katowice in Katowice, Poland.",
-        "end":  "2026-09-16T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T15:00:00.0000000",
-        "title":  "The Gronk \u0026 Jules Show",
-        "desc":  "Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
-        "end":  "2026-09-16T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T15:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "Michigan hosts No. 11 Oklahoma at Michigan Stadium in Week 2 play. Michigan relies on quarterback Bryce Underwood following his 2,428 passing yards, while visiting Oklahoma counters behind John Mateer, who threw for 2,885 yards and 14 touchdowns.",
-        "end":  "2026-09-16T16:18:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T16:18:00.0000000",
-        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
-        "desc":  "From Arena Sosnowiec in Sosnowiec, Poland.",
-        "end":  "2026-09-16T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T18:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 15 BYU Cougars host the Arizona Wildcats at LaVell Edwards Stadium in a Big 12 game. BYU enters following a 63-7 victory over the Utah Tech Trailblazers, while Arizona arrives after a 35-7 win against the Northern Arizona Lumberjacks.",
-        "end":  "2026-09-16T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T21:30:00.0000000",
-        "title":  "The Climbing Post",
-        "desc":  "The Climbing Post keeps the sport\u0027s fans abreast of the latest news and highlights.",
-        "end":  "2026-09-16T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T22:30:00.0000000",
-        "title":  "OneSoccer Matchday Live",
-        "desc":  "Previews, highlights, and studio analysis for the Canadian Premier League.",
-        "end":  "2026-09-16T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-16T23:00:00.0000000",
-        "title":  "Live: Canadian Championship",
-        "desc":  "Semifinal, 2nd Leg.",
-        "end":  "2026-09-17T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-17T01:00:00.0000000",
-        "title":  "OneSoccer Matchday Live",
-        "desc":  "Previews, highlights, and studio analysis for the Canadian Premier League.",
-        "end":  "2026-09-17T01:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-17T01:30:00.0000000",
+        "start":  "2026-09-17T12:30:00.0000000",
         "title":  "Women\u0027s Football Weekly",
         "desc":  "Discover the best of the action from the top divisions of women\u0027s football in Italy, Germany and the Netherlands with this brand-new highlights show.",
-        "end":  "2026-09-17T02:00:00.0000000"
+        "end":  "2026-09-17T12:48:00.0000000"
     },
     {
-        "start":  "2026-09-17T02:00:00.0000000",
+        "start":  "2026-09-17T12:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "Coverage of the biennial international women\u0027s youth soccer championship. From host country Poland.",
+        "end":  "2026-09-17T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T15:00:00.0000000",
+        "title":  "MotoGP Racing",
+        "desc":  "From Misano World Circuit Marco Simoncelli in Misano Adriatico, Rimini, Italy.",
+        "end":  "2026-09-17T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T15:30:00.0000000",
+        "title":  "MotoGP Racing",
+        "desc":  "From Misano World Circuit Marco Simoncelli in Misano Adriatico, Rimini, Italy.",
+        "end":  "2026-09-17T16:18:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T16:18:00.0000000",
+        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "Coverage of the biennial international women\u0027s youth soccer championship. From host country Poland.",
+        "end":  "2026-09-17T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T18:30:00.0000000",
+        "title":  "The Clay Travis Show",
+        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
+        "end":  "2026-09-17T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T19:00:00.0000000",
+        "title":  "Live: NASCAR Craftsman Truck Series",
+        "desc":  "From Bristol Motor Speedway Dirt Course in Bristol, Tenn.",
+        "end":  "2026-09-17T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T21:00:00.0000000",
         "title":  "2026 FIFA U-20 Women\u0027s World Cup",
-        "desc":  "From Arena Katowice in Katowice, Poland.",
-        "end":  "2026-09-17T04:00:00.0000000"
+        "desc":  "Round of 16.",
+        "end":  "2026-09-17T23:00:00.0000000"
     },
     {
-        "start":  "2026-09-17T04:00:00.0000000",
-        "title":  "American Flat Track",
-        "desc":  "Motorcycle action from the American Flat Track racing series.",
+        "start":  "2026-09-17T23:00:00.0000000",
+        "title":  "Summer of \u002794",
+        "desc":  "Chronicling the rise of the U.S. Men\u0027s National Soccer Team\u0027s ahead of the 1994 FIFA World Cup.",
         "end":  "2026-09-18T00:00:00.0000000"
     },
     {
@@ -321,6 +231,126 @@
         "start":  "2026-09-17T04:00:00.0000000",
         "title":  "American Flat Track",
         "desc":  "Motorcycle action from the American Flat Track racing series.",
+        "end":  "2026-09-17T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T05:00:00.0000000",
+        "title":  "GT4 America",
+        "desc":  "GT4 America features the fast-growing GT4 category with a wide-array of the world\u0027s top sports cars.",
+        "end":  "2026-09-17T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T06:00:00.0000000",
+        "title":  "ARCA Menards Series",
+        "desc":  "From Salem Speedway in Salem, Ind.",
+        "end":  "2026-09-17T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T08:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "Michigan hosts No. 11 Oklahoma at Michigan Stadium in Week 2 play. Michigan relies on quarterback Bryce Underwood following his 2,428 passing yards, while visiting Oklahoma counters behind John Mateer, who threw for 2,885 yards and 14 touchdowns.",
+        "end":  "2026-09-17T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T09:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Missouri Tigers visit the Kansas Jayhawks in Week 2 action. Missouri opened with a 54-14 win over the Golden Lions behind Donovan Olugbode\u0027s 116 receiving yards and two TDs, while Kansas beat the Sharks 51-6 behind two TDs from Isaiah Marshall.",
+        "end":  "2026-09-17T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T10:00:00.0000000",
+        "title":  "The Clay Travis Show",
+        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
+        "end":  "2026-09-17T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T10:30:00.0000000",
+        "title":  "SPEED With Harvick \u0026 Buxton",
+        "desc":  "Kevin Harvick and Will Buxton celebrate the world of motorsports.",
+        "end":  "2026-09-17T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T11:30:00.0000000",
+        "title":  "Kevin Harvick\u0027s Happy Hour",
+        "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
+        "end":  "2026-09-17T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T12:30:00.0000000",
+        "title":  "Women\u0027s Football Weekly",
+        "desc":  "Discover the best of the action from the top divisions of women\u0027s football in Italy, Germany and the Netherlands with this brand-new highlights show.",
+        "end":  "2026-09-17T12:48:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T12:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "Coverage of the biennial international women\u0027s youth soccer championship. From host country Poland.",
+        "end":  "2026-09-17T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T15:00:00.0000000",
+        "title":  "MotoGP Racing",
+        "desc":  "From Misano World Circuit Marco Simoncelli in Misano Adriatico, Rimini, Italy.",
+        "end":  "2026-09-17T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T15:30:00.0000000",
+        "title":  "MotoGP Racing",
+        "desc":  "From Misano World Circuit Marco Simoncelli in Misano Adriatico, Rimini, Italy.",
+        "end":  "2026-09-17T16:18:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T16:18:00.0000000",
+        "title":  "Live: 2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "Coverage of the biennial international women\u0027s youth soccer championship. From host country Poland.",
+        "end":  "2026-09-17T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T18:30:00.0000000",
+        "title":  "The Clay Travis Show",
+        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
+        "end":  "2026-09-17T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T19:00:00.0000000",
+        "title":  "Live: NASCAR Craftsman Truck Series",
+        "desc":  "From Bristol Motor Speedway Dirt Course in Bristol, Tenn.",
+        "end":  "2026-09-17T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T21:00:00.0000000",
+        "title":  "2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "Round of 16.",
+        "end":  "2026-09-17T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-17T23:00:00.0000000",
+        "title":  "Summer of \u002794",
+        "desc":  "Chronicling the rise of the U.S. Men\u0027s National Soccer Team\u0027s ahead of the 1994 FIFA World Cup.",
         "end":  "2026-09-18T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T01:00:00.0000000",
+        "title":  "The Story of FIFA World Cup 2026",
+        "desc":  "Highlights and special moments from the FIFA World Cup 2026.",
+        "end":  "2026-09-18T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T03:00:00.0000000",
+        "title":  "2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "Round of 16.",
+        "end":  "2026-09-19T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T01:00:00.0000000",
+        "title":  "The Story of FIFA World Cup 2026",
+        "desc":  "Highlights and special moments from the FIFA World Cup 2026.",
+        "end":  "2026-09-18T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-18T03:00:00.0000000",
+        "title":  "2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "Round of 16.",
+        "end":  "2026-09-19T00:00:00.0000000"
     }
 ]
