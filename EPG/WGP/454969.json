@@ -1,129 +1,543 @@
 [
     {
-        "start":  "2026-09-20T03:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Seattle Seahawks v San Francisco 49ers. Action from the second Divisional play-off match from the 2025/26 season at Lumen Field.",
-        "end":  "2026-09-20T03:15:00.0000000"
+        "start":  "2026-09-21T00:10:00.0000000",
+        "title":  "Live NFL",
+        "desc":  "Kansas City Chiefs v Indianapolis Colts (Kick-off 1.20am). Coverage of the week two match from Arrowhead Stadium. The Chiefs secured a 23-20 victory in overtime when the teams met here last season, but both sides went on to miss out on the play-offs.",
+        "end":  "2026-09-21T03:45:00.0000000"
     },
     {
-        "start":  "2026-09-20T03:15:00.0000000",
+        "start":  "2026-09-21T03:45:00.0000000",
         "title":  "NFL Bitesize Highlights",
-        "desc":  "Seattle Seahawks v Los Angeles Rams in the 2025/26 NFC Championship.",
-        "end":  "2026-09-20T03:30:00.0000000"
+        "desc":  "Minnesota Vikings v Green Bay Packers.",
+        "end":  "2026-09-21T04:00:00.0000000"
     },
     {
-        "start":  "2026-09-20T03:30:00.0000000",
+        "start":  "2026-09-21T04:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Cincinnati Bengals v Tampa Bay Buccaneers.",
+        "end":  "2026-09-21T04:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-21T04:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v Green Bay Packers in the 2024/25 season.",
+        "end":  "2026-09-21T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-21T04:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Dallas Cowboys v Tampa Bay Buccaneers in the 2024/25 season.",
+        "end":  "2026-09-21T04:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-21T04:45:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "New York Giants v Dallas Cowboys.",
-        "end":  "2026-09-20T04:30:00.0000000"
+        "desc":  "Houston Texans v Chicago Bears from the 2024/25 season.",
+        "end":  "2026-09-21T05:00:00.0000000"
     },
     {
-        "start":  "2026-09-20T04:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Seattle Seahawks v New England Patriots.",
-        "end":  "2026-09-20T04:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T04:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Tennessee Titans v New England Patriots from the 2025/26 season.",
-        "end":  "2026-09-20T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T05:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Houston Texans v Buffalo Bills.",
-        "end":  "2026-09-20T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T06:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Seattle Seahawks v New England Patriots.",
-        "end":  "2026-09-20T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T07:00:00.0000000",
-        "title":  "Super Bowl LX Highlights",
-        "desc":  "Seattle Seahawks v New England Patriots. Action from the showpiece NFL match at Levi\u0027s Stadium in Santa Clara, California.",
-        "end":  "2026-09-20T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T08:00:00.0000000",
+        "start":  "2026-09-21T05:00:00.0000000",
         "title":  "NFL Highlights",
         "desc":  "Kansas City Chiefs v Denver Broncos.",
-        "end":  "2026-09-20T09:00:00.0000000"
+        "end":  "2026-09-21T06:00:00.0000000"
     },
     {
-        "start":  "2026-09-20T09:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Kansas City Chiefs v Denver Broncos.",
-        "end":  "2026-09-20T09:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T09:15:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Houston Texans v Buffalo Bills.",
-        "end":  "2026-09-20T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T09:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "New York Giants v Dallas Cowboys.",
-        "end":  "2026-09-20T09:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T09:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Seattle Seahawks v New England Patriots.",
-        "end":  "2026-09-20T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T10:00:00.0000000",
+        "start":  "2026-09-21T06:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "New York Giants v Dallas Cowboys.",
-        "end":  "2026-09-20T11:00:00.0000000"
+        "desc":  "Chicago Bears v Minnesota Vikings.",
+        "end":  "2026-09-21T07:00:00.0000000"
     },
     {
-        "start":  "2026-09-20T11:00:00.0000000",
-        "title":  "NFL Gameday",
-        "desc":  "A round-up of the latest American football news and results and a look ahead to forthcoming matches.",
-        "end":  "2026-09-20T11:45:00.0000000"
+        "start":  "2026-09-21T07:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Denver Broncos v Jacksonville Jaguars.",
+        "end":  "2026-09-21T08:00:00.0000000"
     },
     {
-        "start":  "2026-09-20T11:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Houston Texans v San Francisco 49ers from the 2025/26 season.",
-        "end":  "2026-09-20T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T12:00:00.0000000",
+        "start":  "2026-09-21T08:00:00.0000000",
         "title":  "NFL Highlights",
         "desc":  "Buffalo Bills v Detroit Lions.",
-        "end":  "2026-09-20T13:00:00.0000000"
+        "end":  "2026-09-21T09:00:00.0000000"
     },
     {
-        "start":  "2026-09-20T13:00:00.0000000",
-        "title":  "NFL Gameday",
-        "desc":  "All the latest news and build-up to another Sunday of action from the 2026 NFL season, with discussion and analysis of all the latest talking points.",
-        "end":  "2026-09-20T16:30:00.0000000"
+        "start":  "2026-09-21T09:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Chicago Bears v Minnesota Vikings.",
+        "end":  "2026-09-21T09:15:00.0000000"
     },
     {
-        "start":  "2026-09-20T16:30:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "Chicago Bears v Minnesota Vikings (Kick-off 6.00pm). Coverage of the week two match from Soldier Field.",
-        "end":  "2026-09-20T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T20:00:00.0000000",
+        "start":  "2026-09-21T09:15:00.0000000",
         "title":  "Live NFL",
         "desc":  "Denver Broncos v Jacksonville Jaguars (Kick-off 9.05pm). Coverage of the week two match from Empower Field at Mile High.",
-        "end":  "2026-09-20T23:30:00.0000000"
+        "end":  "2026-09-21T09:30:00.0000000"
     },
     {
-        "start":  "2026-09-20T23:30:00.0000000",
-        "title":  "NBC\u0027s FNIA",
-        "desc":  "The build-up to Kansas City Chiefs v Indianapolis Colts, plus reaction to Sunday\u0027s week two matches.",
-        "end":  "2026-09-21T00:00:00.0000000"
+        "start":  "2026-09-21T09:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New York Giants v Dallas Cowboys.",
+        "end":  "2026-09-21T09:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-21T09:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v New England Patriots.",
+        "end":  "2026-09-21T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-21T10:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
+        "end":  "2026-09-21T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-21T11:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Chicago Bears v Minnesota Vikings.",
+        "end":  "2026-09-21T11:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-21T11:15:00.0000000",
+        "title":  "Live NFL",
+        "desc":  "Denver Broncos v Jacksonville Jaguars (Kick-off 9.05pm). Coverage of the week two match from Empower Field at Mile High.",
+        "end":  "2026-09-21T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-21T11:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
+        "end":  "2026-09-21T11:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-21T11:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Kansas City Chiefs v Denver Broncos.",
+        "end":  "2026-09-21T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-21T12:00:00.0000000",
+        "title":  "Good Morning Football",
+        "desc":  "Up-to-the-minute breaking NFL news.",
+        "end":  "2026-09-21T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-21T14:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New England Patriots v Pittsburgh Steelers.",
+        "end":  "2026-09-21T14:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-21T14:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Dallas Cowboys v Washington Commanders.",
+        "end":  "2026-09-21T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-21T14:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Arizona Cardinals v Seattle Seahawks.",
+        "end":  "2026-09-21T14:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-21T14:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
+        "end":  "2026-09-21T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-21T15:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Denver Broncos v Jacksonville Jaguars.",
+        "end":  "2026-09-21T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-21T16:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
+        "end":  "2026-09-21T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-21T17:00:00.0000000",
+        "title":  "NBC\u0027s Pro-Football Talk",
+        "desc":  "Mike Florio and Chris Simms present the NFL talk show, as they discuss and debate the biggest stories from around the league.",
+        "end":  "2026-09-21T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-21T19:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
+        "end":  "2026-09-21T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-21T21:00:00.0000000",
+        "title":  "NFL Fantasy",
+        "desc":  "Featuring the top NFL fantasy experts and analysts.",
+        "end":  "2026-09-21T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-21T22:00:00.0000000",
+        "title":  "Chris Simms Unbuttoned",
+        "desc":  "The broadcaster and former quarterback takes an unfiltered look at the NFL.",
+        "end":  "2026-09-21T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-21T23:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Arizona Cardinals v Seattle Seahawks.",
+        "end":  "2026-09-21T23:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-21T23:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
+        "end":  "2026-09-22T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T00:00:00.0000000",
+        "title":  "Live NFL",
+        "desc":  "Los Angeles Rams v New York Giants (Kick-off 1.15am). Coverage of the week two match from SoFi Stadium. These two sides last met on New Year\u0027s Eve 2023 in a thrilling match that saw the Rams come away with a 26-25 victory in New York. That win was Los Angeles fourth success in a row against their visitors and haven\u0027t lost to the Giants since a 17-10 defeat in October 2016.",
+        "end":  "2026-09-22T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T03:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New York Giants v Dallas Cowboys.",
+        "end":  "2026-09-22T03:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T03:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v New England Patriots.",
+        "end":  "2026-09-22T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T04:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
+        "end":  "2026-09-22T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T05:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Chicago Bears v Minnesota Vikings.",
+        "end":  "2026-09-22T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T06:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Denver Broncos v Jacksonville Jaguars.",
+        "end":  "2026-09-22T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T07:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
+        "end":  "2026-09-22T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T08:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Buffalo Bills v Detroit Lions.",
+        "end":  "2026-09-22T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T09:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New England Patriots v Pittsburgh Steelers.",
+        "end":  "2026-09-22T09:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T09:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Dallas Cowboys v Washington Commanders.",
+        "end":  "2026-09-22T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T09:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Arizona Cardinals v Seattle Seahawks.",
+        "end":  "2026-09-22T09:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T09:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
+        "end":  "2026-09-22T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T10:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Los Angeles Rams v New York Giants.",
+        "end":  "2026-09-22T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T11:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New England Patriots v Pittsburgh Steelers.",
+        "end":  "2026-09-22T11:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T11:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Dallas Cowboys v Washington Commanders.",
+        "end":  "2026-09-22T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T11:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Los Angeles Rams v New York Giants.",
+        "end":  "2026-09-22T11:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T11:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
+        "end":  "2026-09-22T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T12:00:00.0000000",
+        "title":  "Good Morning Football",
+        "desc":  "Up-to-the-minute breaking NFL news.",
+        "end":  "2026-09-22T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T14:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Los Angeles Rams v New York Giants.",
+        "end":  "2026-09-22T14:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T14:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
+        "end":  "2026-09-22T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T14:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New England Patriots v Pittsburgh Steelers.",
+        "end":  "2026-09-22T14:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T14:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Dallas Cowboys v Washington Commanders.",
+        "end":  "2026-09-22T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T15:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Buffalo Bills v Detroit Lions.",
+        "end":  "2026-09-22T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T16:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Los Angeles Rams v New York Giants.",
+        "end":  "2026-09-22T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T17:00:00.0000000",
+        "title":  "NBC\u0027s Pro-Football Talk",
+        "desc":  "Mike Florio and Chris Simms present the NFL talk show, as they discuss and debate the biggest stories from around the league.",
+        "end":  "2026-09-22T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T19:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Los Angeles Rams v New York Giants.",
+        "end":  "2026-09-22T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T21:00:00.0000000",
+        "title":  "NFL Fantasy",
+        "desc":  "Featuring the top NFL fantasy experts and analysts.",
+        "end":  "2026-09-22T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T22:00:00.0000000",
+        "title":  "Chris Simms Unbuttoned",
+        "desc":  "The broadcaster and former quarterback takes an unfiltered look at the NFL.",
+        "end":  "2026-09-22T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T23:00:00.0000000",
+        "title":  "The Insiders",
+        "desc":  "The latest news covering all 32 NFL teams.",
+        "end":  "2026-09-23T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T00:00:00.0000000",
+        "title":  "Live NFL",
+        "desc":  "Los Angeles Rams v New York Giants (Kick-off 1.15am). Coverage of the week two match from SoFi Stadium. These two sides last met on New Year\u0027s Eve 2023 in a thrilling match that saw the Rams come away with a 26-25 victory in New York. That win was Los Angeles fourth success in a row against their visitors and haven\u0027t lost to the Giants since a 17-10 defeat in October 2016.",
+        "end":  "2026-09-22T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T03:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New York Giants v Dallas Cowboys.",
+        "end":  "2026-09-22T03:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T03:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v New England Patriots.",
+        "end":  "2026-09-22T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T04:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
+        "end":  "2026-09-22T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T05:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Chicago Bears v Minnesota Vikings.",
+        "end":  "2026-09-22T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T06:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Denver Broncos v Jacksonville Jaguars.",
+        "end":  "2026-09-22T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T07:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
+        "end":  "2026-09-22T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T08:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Buffalo Bills v Detroit Lions.",
+        "end":  "2026-09-22T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T09:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New England Patriots v Pittsburgh Steelers.",
+        "end":  "2026-09-22T09:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T09:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Dallas Cowboys v Washington Commanders.",
+        "end":  "2026-09-22T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T09:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Arizona Cardinals v Seattle Seahawks.",
+        "end":  "2026-09-22T09:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T09:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
+        "end":  "2026-09-22T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T10:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Los Angeles Rams v New York Giants.",
+        "end":  "2026-09-22T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T11:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New England Patriots v Pittsburgh Steelers.",
+        "end":  "2026-09-22T11:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T11:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Dallas Cowboys v Washington Commanders.",
+        "end":  "2026-09-22T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T11:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Los Angeles Rams v New York Giants.",
+        "end":  "2026-09-22T11:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T11:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
+        "end":  "2026-09-22T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T12:00:00.0000000",
+        "title":  "Good Morning Football",
+        "desc":  "Up-to-the-minute breaking NFL news.",
+        "end":  "2026-09-22T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T14:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Los Angeles Rams v New York Giants.",
+        "end":  "2026-09-22T14:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T14:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
+        "end":  "2026-09-22T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T14:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New England Patriots v Pittsburgh Steelers.",
+        "end":  "2026-09-22T14:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T14:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Dallas Cowboys v Washington Commanders.",
+        "end":  "2026-09-22T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T15:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Buffalo Bills v Detroit Lions.",
+        "end":  "2026-09-22T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T16:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Los Angeles Rams v New York Giants.",
+        "end":  "2026-09-22T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T17:00:00.0000000",
+        "title":  "NBC\u0027s Pro-Football Talk",
+        "desc":  "Mike Florio and Chris Simms present the NFL talk show, as they discuss and debate the biggest stories from around the league.",
+        "end":  "2026-09-22T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T19:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Los Angeles Rams v New York Giants.",
+        "end":  "2026-09-22T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T21:00:00.0000000",
+        "title":  "NFL Fantasy",
+        "desc":  "Featuring the top NFL fantasy experts and analysts.",
+        "end":  "2026-09-22T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T22:00:00.0000000",
+        "title":  "Chris Simms Unbuttoned",
+        "desc":  "The broadcaster and former quarterback takes an unfiltered look at the NFL.",
+        "end":  "2026-09-22T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T23:00:00.0000000",
+        "title":  "The Insiders",
+        "desc":  "The latest news covering all 32 NFL teams.",
+        "end":  "2026-09-23T00:00:00.0000000"
     },
     {
         "start":  "2026-09-21T00:10:00.0000000",
@@ -318,513 +732,177 @@
         "end":  "2026-09-22T00:00:00.0000000"
     },
     {
-        "start":  "2026-09-21T00:10:00.0000000",
+        "start":  "2026-09-22T00:00:00.0000000",
         "title":  "Live NFL",
-        "desc":  "Kansas City Chiefs v Indianapolis Colts (Kick-off 1.20am). Coverage of the week two match from Arrowhead Stadium. The Chiefs secured a 23-20 victory in overtime when the teams met here last season, but both sides went on to miss out on the play-offs.",
-        "end":  "2026-09-21T03:45:00.0000000"
+        "desc":  "Los Angeles Rams v New York Giants (Kick-off 1.15am). Coverage of the week two match from SoFi Stadium. These two sides last met on New Year\u0027s Eve 2023 in a thrilling match that saw the Rams come away with a 26-25 victory in New York. That win was Los Angeles fourth success in a row against their visitors and haven\u0027t lost to the Giants since a 17-10 defeat in October 2016.",
+        "end":  "2026-09-22T03:30:00.0000000"
     },
     {
-        "start":  "2026-09-21T03:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Minnesota Vikings v Green Bay Packers.",
-        "end":  "2026-09-21T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T04:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Cincinnati Bengals v Tampa Bay Buccaneers.",
-        "end":  "2026-09-21T04:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T04:15:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Seattle Seahawks v Green Bay Packers in the 2024/25 season.",
-        "end":  "2026-09-21T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T04:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Dallas Cowboys v Tampa Bay Buccaneers in the 2024/25 season.",
-        "end":  "2026-09-21T04:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T04:45:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Houston Texans v Chicago Bears from the 2024/25 season.",
-        "end":  "2026-09-21T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T05:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Kansas City Chiefs v Denver Broncos.",
-        "end":  "2026-09-21T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T06:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Chicago Bears v Minnesota Vikings.",
-        "end":  "2026-09-21T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T07:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Denver Broncos v Jacksonville Jaguars.",
-        "end":  "2026-09-21T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T08:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Buffalo Bills v Detroit Lions.",
-        "end":  "2026-09-21T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T09:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Chicago Bears v Minnesota Vikings.",
-        "end":  "2026-09-21T09:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T09:15:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "Denver Broncos v Jacksonville Jaguars (Kick-off 9.05pm). Coverage of the week two match from Empower Field at Mile High.",
-        "end":  "2026-09-21T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T09:30:00.0000000",
+        "start":  "2026-09-22T03:30:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "New York Giants v Dallas Cowboys.",
-        "end":  "2026-09-21T09:45:00.0000000"
+        "end":  "2026-09-22T03:45:00.0000000"
     },
     {
-        "start":  "2026-09-21T09:45:00.0000000",
+        "start":  "2026-09-22T03:45:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Seattle Seahawks v New England Patriots.",
-        "end":  "2026-09-21T10:00:00.0000000"
+        "end":  "2026-09-22T04:00:00.0000000"
     },
     {
-        "start":  "2026-09-21T10:00:00.0000000",
+        "start":  "2026-09-22T04:00:00.0000000",
         "title":  "NFL Highlights",
         "desc":  "Kansas City Chiefs v Indianapolis Colts.",
-        "end":  "2026-09-21T11:00:00.0000000"
+        "end":  "2026-09-22T05:00:00.0000000"
     },
     {
-        "start":  "2026-09-21T11:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
+        "start":  "2026-09-22T05:00:00.0000000",
+        "title":  "NFL Highlights",
         "desc":  "Chicago Bears v Minnesota Vikings.",
-        "end":  "2026-09-21T11:15:00.0000000"
+        "end":  "2026-09-22T06:00:00.0000000"
     },
     {
-        "start":  "2026-09-21T11:15:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "Denver Broncos v Jacksonville Jaguars (Kick-off 9.05pm). Coverage of the week two match from Empower Field at Mile High.",
-        "end":  "2026-09-21T11:30:00.0000000"
+        "start":  "2026-09-22T06:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Denver Broncos v Jacksonville Jaguars.",
+        "end":  "2026-09-22T07:00:00.0000000"
     },
     {
-        "start":  "2026-09-21T11:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
+        "start":  "2026-09-22T07:00:00.0000000",
+        "title":  "NFL Highlights",
         "desc":  "Kansas City Chiefs v Indianapolis Colts.",
-        "end":  "2026-09-21T11:45:00.0000000"
+        "end":  "2026-09-22T08:00:00.0000000"
     },
     {
-        "start":  "2026-09-21T11:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Kansas City Chiefs v Denver Broncos.",
-        "end":  "2026-09-21T12:00:00.0000000"
+        "start":  "2026-09-22T08:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Buffalo Bills v Detroit Lions.",
+        "end":  "2026-09-22T09:00:00.0000000"
     },
     {
-        "start":  "2026-09-21T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "desc":  "Up-to-the-minute breaking NFL news.",
-        "end":  "2026-09-21T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T14:00:00.0000000",
+        "start":  "2026-09-22T09:00:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "New England Patriots v Pittsburgh Steelers.",
-        "end":  "2026-09-21T14:15:00.0000000"
+        "end":  "2026-09-22T09:15:00.0000000"
     },
     {
-        "start":  "2026-09-21T14:15:00.0000000",
+        "start":  "2026-09-22T09:15:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Dallas Cowboys v Washington Commanders.",
-        "end":  "2026-09-21T14:30:00.0000000"
+        "end":  "2026-09-22T09:30:00.0000000"
     },
     {
-        "start":  "2026-09-21T14:30:00.0000000",
+        "start":  "2026-09-22T09:30:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Arizona Cardinals v Seattle Seahawks.",
-        "end":  "2026-09-21T14:45:00.0000000"
+        "end":  "2026-09-22T09:45:00.0000000"
     },
     {
-        "start":  "2026-09-21T14:45:00.0000000",
+        "start":  "2026-09-22T09:45:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Kansas City Chiefs v Indianapolis Colts.",
-        "end":  "2026-09-21T15:00:00.0000000"
+        "end":  "2026-09-22T10:00:00.0000000"
     },
     {
-        "start":  "2026-09-21T15:00:00.0000000",
+        "start":  "2026-09-22T10:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Denver Broncos v Jacksonville Jaguars.",
-        "end":  "2026-09-21T16:00:00.0000000"
+        "desc":  "Los Angeles Rams v New York Giants.",
+        "end":  "2026-09-22T11:00:00.0000000"
     },
     {
-        "start":  "2026-09-21T16:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
-        "end":  "2026-09-21T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T17:00:00.0000000",
-        "title":  "NBC\u0027s Pro-Football Talk",
-        "desc":  "Mike Florio and Chris Simms present the NFL talk show, as they discuss and debate the biggest stories from around the league.",
-        "end":  "2026-09-21T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T19:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
-        "end":  "2026-09-21T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T21:00:00.0000000",
-        "title":  "NFL Fantasy",
-        "desc":  "Featuring the top NFL fantasy experts and analysts.",
-        "end":  "2026-09-21T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T22:00:00.0000000",
-        "title":  "Chris Simms Unbuttoned",
-        "desc":  "The broadcaster and former quarterback takes an unfiltered look at the NFL.",
-        "end":  "2026-09-21T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T23:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Arizona Cardinals v Seattle Seahawks.",
-        "end":  "2026-09-21T23:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T23:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
-        "end":  "2026-09-22T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T03:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Seattle Seahawks v San Francisco 49ers. Action from the second Divisional play-off match from the 2025/26 season at Lumen Field.",
-        "end":  "2026-09-20T03:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T03:15:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Seattle Seahawks v Los Angeles Rams in the 2025/26 NFC Championship.",
-        "end":  "2026-09-20T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T03:30:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "New York Giants v Dallas Cowboys.",
-        "end":  "2026-09-20T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T04:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Seattle Seahawks v New England Patriots.",
-        "end":  "2026-09-20T04:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T04:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Tennessee Titans v New England Patriots from the 2025/26 season.",
-        "end":  "2026-09-20T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T05:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Houston Texans v Buffalo Bills.",
-        "end":  "2026-09-20T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T06:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Seattle Seahawks v New England Patriots.",
-        "end":  "2026-09-20T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T07:00:00.0000000",
-        "title":  "Super Bowl LX Highlights",
-        "desc":  "Seattle Seahawks v New England Patriots. Action from the showpiece NFL match at Levi\u0027s Stadium in Santa Clara, California.",
-        "end":  "2026-09-20T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T08:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Kansas City Chiefs v Denver Broncos.",
-        "end":  "2026-09-20T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T09:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Kansas City Chiefs v Denver Broncos.",
-        "end":  "2026-09-20T09:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T09:15:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Houston Texans v Buffalo Bills.",
-        "end":  "2026-09-20T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T09:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "New York Giants v Dallas Cowboys.",
-        "end":  "2026-09-20T09:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T09:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Seattle Seahawks v New England Patriots.",
-        "end":  "2026-09-20T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T10:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "New York Giants v Dallas Cowboys.",
-        "end":  "2026-09-20T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T11:00:00.0000000",
-        "title":  "NFL Gameday",
-        "desc":  "A round-up of the latest American football news and results and a look ahead to forthcoming matches.",
-        "end":  "2026-09-20T11:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T11:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Houston Texans v San Francisco 49ers from the 2025/26 season.",
-        "end":  "2026-09-20T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T12:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Buffalo Bills v Detroit Lions.",
-        "end":  "2026-09-20T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T13:00:00.0000000",
-        "title":  "NFL Gameday",
-        "desc":  "All the latest news and build-up to another Sunday of action from the 2026 NFL season, with discussion and analysis of all the latest talking points.",
-        "end":  "2026-09-20T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T16:30:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "Chicago Bears v Minnesota Vikings (Kick-off 6.00pm). Coverage of the week two match from Soldier Field.",
-        "end":  "2026-09-20T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T20:00:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "Denver Broncos v Jacksonville Jaguars (Kick-off 9.05pm). Coverage of the week two match from Empower Field at Mile High.",
-        "end":  "2026-09-20T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-20T23:30:00.0000000",
-        "title":  "NBC\u0027s FNIA",
-        "desc":  "The build-up to Kansas City Chiefs v Indianapolis Colts, plus reaction to Sunday\u0027s week two matches.",
-        "end":  "2026-09-21T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T00:10:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "Kansas City Chiefs v Indianapolis Colts (Kick-off 1.20am). Coverage of the week two match from Arrowhead Stadium. The Chiefs secured a 23-20 victory in overtime when the teams met here last season, but both sides went on to miss out on the play-offs.",
-        "end":  "2026-09-21T03:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T03:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Minnesota Vikings v Green Bay Packers.",
-        "end":  "2026-09-21T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T04:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Cincinnati Bengals v Tampa Bay Buccaneers.",
-        "end":  "2026-09-21T04:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T04:15:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Seattle Seahawks v Green Bay Packers in the 2024/25 season.",
-        "end":  "2026-09-21T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T04:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Dallas Cowboys v Tampa Bay Buccaneers in the 2024/25 season.",
-        "end":  "2026-09-21T04:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T04:45:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Houston Texans v Chicago Bears from the 2024/25 season.",
-        "end":  "2026-09-21T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T05:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Kansas City Chiefs v Denver Broncos.",
-        "end":  "2026-09-21T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T06:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Chicago Bears v Minnesota Vikings.",
-        "end":  "2026-09-21T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T07:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Denver Broncos v Jacksonville Jaguars.",
-        "end":  "2026-09-21T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T08:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Buffalo Bills v Detroit Lions.",
-        "end":  "2026-09-21T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T09:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Chicago Bears v Minnesota Vikings.",
-        "end":  "2026-09-21T09:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T09:15:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "Denver Broncos v Jacksonville Jaguars (Kick-off 9.05pm). Coverage of the week two match from Empower Field at Mile High.",
-        "end":  "2026-09-21T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T09:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "New York Giants v Dallas Cowboys.",
-        "end":  "2026-09-21T09:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T09:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Seattle Seahawks v New England Patriots.",
-        "end":  "2026-09-21T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T10:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
-        "end":  "2026-09-21T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T11:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Chicago Bears v Minnesota Vikings.",
-        "end":  "2026-09-21T11:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T11:15:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "Denver Broncos v Jacksonville Jaguars (Kick-off 9.05pm). Coverage of the week two match from Empower Field at Mile High.",
-        "end":  "2026-09-21T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T11:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
-        "end":  "2026-09-21T11:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T11:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Kansas City Chiefs v Denver Broncos.",
-        "end":  "2026-09-21T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "desc":  "Up-to-the-minute breaking NFL news.",
-        "end":  "2026-09-21T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T14:00:00.0000000",
+        "start":  "2026-09-22T11:00:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "New England Patriots v Pittsburgh Steelers.",
-        "end":  "2026-09-21T14:15:00.0000000"
+        "end":  "2026-09-22T11:15:00.0000000"
     },
     {
-        "start":  "2026-09-21T14:15:00.0000000",
+        "start":  "2026-09-22T11:15:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Dallas Cowboys v Washington Commanders.",
-        "end":  "2026-09-21T14:30:00.0000000"
+        "end":  "2026-09-22T11:30:00.0000000"
     },
     {
-        "start":  "2026-09-21T14:30:00.0000000",
+        "start":  "2026-09-22T11:30:00.0000000",
         "title":  "NFL Bitesize Highlights",
-        "desc":  "Arizona Cardinals v Seattle Seahawks.",
-        "end":  "2026-09-21T14:45:00.0000000"
+        "desc":  "Los Angeles Rams v New York Giants.",
+        "end":  "2026-09-22T11:45:00.0000000"
     },
     {
-        "start":  "2026-09-21T14:45:00.0000000",
+        "start":  "2026-09-22T11:45:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Kansas City Chiefs v Indianapolis Colts.",
-        "end":  "2026-09-21T15:00:00.0000000"
+        "end":  "2026-09-22T12:00:00.0000000"
     },
     {
-        "start":  "2026-09-21T15:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Denver Broncos v Jacksonville Jaguars.",
-        "end":  "2026-09-21T16:00:00.0000000"
+        "start":  "2026-09-22T12:00:00.0000000",
+        "title":  "Good Morning Football",
+        "desc":  "Up-to-the-minute breaking NFL news.",
+        "end":  "2026-09-22T14:00:00.0000000"
     },
     {
-        "start":  "2026-09-21T16:00:00.0000000",
-        "title":  "NFL Highlights",
+        "start":  "2026-09-22T14:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Los Angeles Rams v New York Giants.",
+        "end":  "2026-09-22T14:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T14:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
         "desc":  "Kansas City Chiefs v Indianapolis Colts.",
-        "end":  "2026-09-21T17:00:00.0000000"
+        "end":  "2026-09-22T14:30:00.0000000"
     },
     {
-        "start":  "2026-09-21T17:00:00.0000000",
+        "start":  "2026-09-22T14:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New England Patriots v Pittsburgh Steelers.",
+        "end":  "2026-09-22T14:45:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T14:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Dallas Cowboys v Washington Commanders.",
+        "end":  "2026-09-22T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T15:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Buffalo Bills v Detroit Lions.",
+        "end":  "2026-09-22T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T16:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Los Angeles Rams v New York Giants.",
+        "end":  "2026-09-22T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-22T17:00:00.0000000",
         "title":  "NBC\u0027s Pro-Football Talk",
         "desc":  "Mike Florio and Chris Simms present the NFL talk show, as they discuss and debate the biggest stories from around the league.",
-        "end":  "2026-09-21T19:00:00.0000000"
+        "end":  "2026-09-22T19:00:00.0000000"
     },
     {
-        "start":  "2026-09-21T19:00:00.0000000",
+        "start":  "2026-09-22T19:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
-        "end":  "2026-09-21T21:00:00.0000000"
+        "desc":  "Los Angeles Rams v New York Giants.",
+        "end":  "2026-09-22T21:00:00.0000000"
     },
     {
-        "start":  "2026-09-21T21:00:00.0000000",
+        "start":  "2026-09-22T21:00:00.0000000",
         "title":  "NFL Fantasy",
         "desc":  "Featuring the top NFL fantasy experts and analysts.",
-        "end":  "2026-09-21T22:00:00.0000000"
+        "end":  "2026-09-22T22:00:00.0000000"
     },
     {
-        "start":  "2026-09-21T22:00:00.0000000",
+        "start":  "2026-09-22T22:00:00.0000000",
         "title":  "Chris Simms Unbuttoned",
         "desc":  "The broadcaster and former quarterback takes an unfiltered look at the NFL.",
-        "end":  "2026-09-21T23:30:00.0000000"
+        "end":  "2026-09-22T23:00:00.0000000"
     },
     {
-        "start":  "2026-09-21T23:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Arizona Cardinals v Seattle Seahawks.",
-        "end":  "2026-09-21T23:45:00.0000000"
-    },
-    {
-        "start":  "2026-09-21T23:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Kansas City Chiefs v Indianapolis Colts.",
-        "end":  "2026-09-22T00:00:00.0000000"
+        "start":  "2026-09-22T23:00:00.0000000",
+        "title":  "The Insiders",
+        "desc":  "The latest news covering all 32 NFL teams.",
+        "end":  "2026-09-23T00:00:00.0000000"
     }
 ]
