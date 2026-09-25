@@ -1,194 +1,554 @@
 [
     {
-        "start":  "2026-09-24T01:00:00.0000000",
-        "title":  "Women\u0027s Football Weekly",
-        "desc":  "Discover the best of the action from the top divisions of women\u0027s football in Italy, Germany and the Netherlands with this brand-new highlights show.",
-        "end":  "2026-09-24T01:30:00.0000000"
+        "start":  "2026-09-25T01:50:00.0000000",
+        "title":  "Live: CONCACAF Nations League Soccer",
+        "desc":  "From Ricardo Saprissa Ayma Stadium in San Juan de Tibas, San Jose, Costa Rica.",
+        "end":  "2026-09-25T04:00:00.0000000"
     },
     {
-        "start":  "2026-09-24T01:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 17 Utah Utes host the Utah State Aggies at Rice-Eccles Stadium for an NCAAF clash. Both in-state rivals enter Week 3 with contrasting momentum. Utah State enters this match with a 0-2 record, while Utah holds a 2-0 perfect record.",
-        "end":  "2026-09-24T04:30:00.0000000"
+        "start":  "2026-09-25T04:00:00.0000000",
+        "title":  "Live: AFL Women\u0027s Premiership Football",
+        "desc":  "From Mission Whitten Oval in Footscray, Victoria, Australia.",
+        "end":  "2026-09-25T06:00:00.0000000"
     },
     {
-        "start":  "2026-09-24T04:30:00.0000000",
+        "start":  "2026-09-25T06:00:00.0000000",
+        "title":  "Live: AFL Women\u0027s Premiership Football",
+        "desc":  "From IKON Park in Melbourne, Victoria, Australia.",
+        "end":  "2026-09-25T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-25T08:00:00.0000000",
+        "title":  "The Joel Klatt Show: A College Football Podcast",
+        "desc":  "Joel Klatt breaks down the biggest topics in the world of college football.",
+        "end":  "2026-09-25T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-25T08:30:00.0000000",
+        "title":  "The Gronk \u0026 Jules Show",
+        "desc":  "Former teammates, best friends and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
+        "end":  "2026-09-25T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-25T09:00:00.0000000",
+        "title":  "SPEED With Harvick \u0026 Buxton",
+        "desc":  "Kevin Harvick and Will Buxton celebrate the world of motorsports.",
+        "end":  "2026-09-25T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-25T09:30:00.0000000",
+        "title":  "Kevin Harvick\u0027s Happy Hour",
+        "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
+        "end":  "2026-09-25T09:48:00.0000000"
+    },
+    {
+        "start":  "2026-09-25T09:48:00.0000000",
+        "title":  "Live: NRL Rugby",
+        "desc":  "Preliminary Final.",
+        "end":  "2026-09-25T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-25T12:00:00.0000000",
+        "title":  "UEFA Nations League Soccer",
+        "desc":  "League A, Group 4.",
+        "end":  "2026-09-25T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-25T14:00:00.0000000",
         "title":  "The Clay Travis Show",
         "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
-        "end":  "2026-09-24T05:00:00.0000000"
+        "end":  "2026-09-25T14:30:00.0000000"
     },
     {
-        "start":  "2026-09-24T05:00:00.0000000",
-        "title":  "NASCAR Craftsman Truck Series",
-        "desc":  "The NASCAR Craftsman Truck Series UNOH 250 gets underway at Bristol Motor Speedway. Layne Riggs, Kaden Honeycutt, Chandler Smith, Ty Majeski and Christian Eckes take on the 0.533-mile, all-concrete oval for 250 laps in Eastern Tennessee.",
-        "end":  "2026-09-24T07:00:00.0000000"
+        "start":  "2026-09-25T14:30:00.0000000",
+        "title":  "The Gronk \u0026 Jules Show",
+        "desc":  "Former teammates, best friends and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
+        "end":  "2026-09-25T15:00:00.0000000"
     },
     {
-        "start":  "2026-09-24T07:00:00.0000000",
-        "title":  "High Limit Racing",
-        "desc":  "From Kokomo Speedway in Kokomo, Ind.",
-        "end":  "2026-09-24T09:00:00.0000000"
+        "start":  "2026-09-25T15:00:00.0000000",
+        "title":  "Big Noon Kickoff Presents Bear Bets",
+        "desc":  "Betting expert Chris \"The Bear\" Fallica hosts the Big Noon Kickoff college football show.",
+        "end":  "2026-09-25T15:30:00.0000000"
     },
     {
-        "start":  "2026-09-24T09:00:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "From GMHBA Stadium in South Geelong, Victoria, Australia.",
-        "end":  "2026-09-24T11:00:00.0000000"
+        "start":  "2026-09-25T15:30:00.0000000",
+        "title":  "The Joel Klatt Show: A College Football Podcast",
+        "desc":  "Joel Klatt breaks down the biggest topics in the world of college football.",
+        "end":  "2026-09-25T16:00:00.0000000"
     },
     {
-        "start":  "2026-09-24T11:00:00.0000000",
-        "title":  "AMSOIL Championship Off Road",
-        "desc":  "Off-road racing action.",
-        "end":  "2026-09-24T12:00:00.0000000"
+        "start":  "2026-09-25T16:00:00.0000000",
+        "title":  "SPEED With Harvick \u0026 Buxton",
+        "desc":  "Kevin Harvick and Will Buxton celebrate the world of motorsports.",
+        "end":  "2026-09-25T16:30:00.0000000"
     },
     {
-        "start":  "2026-09-24T12:00:00.0000000",
-        "title":  "ARCA Menards Series",
-        "desc":  "From Bristol Motor Speedway in Bristol, Tenn.",
-        "end":  "2026-09-24T14:00:00.0000000"
+        "start":  "2026-09-25T16:30:00.0000000",
+        "title":  "Kevin Harvick\u0027s Happy Hour",
+        "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
+        "end":  "2026-09-25T17:00:00.0000000"
     },
     {
-        "start":  "2026-09-24T14:00:00.0000000",
-        "title":  "NHRA Drag Racing",
-        "desc":  "Coverage of drag racing action from the National Hot Rod Association.",
-        "end":  "2026-09-24T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-24T17:00:00.0000000",
+        "start":  "2026-09-25T17:00:00.0000000",
         "title":  "Live: Horse Racing",
         "desc":  "Following all the action from the world of horse racing.",
-        "end":  "2026-09-24T23:00:00.0000000"
+        "end":  "2026-09-25T18:30:00.0000000"
     },
     {
-        "start":  "2026-09-24T23:00:00.0000000",
-        "title":  "The Clay Travis Show",
-        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
-        "end":  "2026-09-24T23:30:00.0000000"
+        "start":  "2026-09-25T18:30:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League A, Group 1.",
+        "end":  "2026-09-25T20:30:00.0000000"
     },
     {
-        "start":  "2026-09-24T23:30:00.0000000",
-        "title":  "Women\u0027s Football Weekly",
-        "desc":  "Discover the best of the action from the top divisions of women\u0027s football in Italy, Germany and the Netherlands with this brand-new highlights show.",
-        "end":  "2026-09-24T23:50:00.0000000"
-    },
-    {
-        "start":  "2026-09-24T23:50:00.0000000",
-        "title":  "Live: CONCACAF Nations League Soccer",
-        "desc":  "From Cibao Stadium, in Santiago de los Caballeros, Dominican Republic.",
-        "end":  "2026-09-25T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-25T01:50:00.0000000",
-        "title":  "Live: CONCACAF Nations League Soccer",
-        "desc":  "From Ricardo Saprissa Ayma Stadium in San Juan de Tibas, San Jose, Costa Rica.",
-        "end":  "2026-09-25T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-25T04:00:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "From Mission Whitten Oval in Footscray, Victoria, Australia.",
-        "end":  "2026-09-26T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-25T01:50:00.0000000",
-        "title":  "Live: CONCACAF Nations League Soccer",
-        "desc":  "From Ricardo Saprissa Ayma Stadium in San Juan de Tibas, San Jose, Costa Rica.",
-        "end":  "2026-09-25T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-25T04:00:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "From Mission Whitten Oval in Footscray, Victoria, Australia.",
-        "end":  "2026-09-26T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-24T01:00:00.0000000",
-        "title":  "Women\u0027s Football Weekly",
-        "desc":  "Discover the best of the action from the top divisions of women\u0027s football in Italy, Germany and the Netherlands with this brand-new highlights show.",
-        "end":  "2026-09-24T01:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-24T01:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 17 Utah Utes host the Utah State Aggies at Rice-Eccles Stadium for an NCAAF clash. Both in-state rivals enter Week 3 with contrasting momentum. Utah State enters this match with a 0-2 record, while Utah holds a 2-0 perfect record.",
-        "end":  "2026-09-24T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-24T04:30:00.0000000",
-        "title":  "The Clay Travis Show",
-        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
-        "end":  "2026-09-24T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-24T05:00:00.0000000",
-        "title":  "NASCAR Craftsman Truck Series",
-        "desc":  "The NASCAR Craftsman Truck Series UNOH 250 gets underway at Bristol Motor Speedway. Layne Riggs, Kaden Honeycutt, Chandler Smith, Ty Majeski and Christian Eckes take on the 0.533-mile, all-concrete oval for 250 laps in Eastern Tennessee.",
-        "end":  "2026-09-24T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-24T07:00:00.0000000",
-        "title":  "High Limit Racing",
-        "desc":  "From Kokomo Speedway in Kokomo, Ind.",
-        "end":  "2026-09-24T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-24T09:00:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "From GMHBA Stadium in South Geelong, Victoria, Australia.",
-        "end":  "2026-09-24T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-24T11:00:00.0000000",
-        "title":  "AMSOIL Championship Off Road",
-        "desc":  "Off-road racing action.",
-        "end":  "2026-09-24T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-24T12:00:00.0000000",
-        "title":  "ARCA Menards Series",
-        "desc":  "From Bristol Motor Speedway in Bristol, Tenn.",
-        "end":  "2026-09-24T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-24T14:00:00.0000000",
-        "title":  "NHRA Drag Racing",
-        "desc":  "Coverage of drag racing action from the National Hot Rod Association.",
-        "end":  "2026-09-24T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-24T17:00:00.0000000",
+        "start":  "2026-09-25T20:30:00.0000000",
         "title":  "Live: Horse Racing",
         "desc":  "Following all the action from the world of horse racing.",
-        "end":  "2026-09-24T23:00:00.0000000"
+        "end":  "2026-09-25T21:00:00.0000000"
     },
     {
-        "start":  "2026-09-24T23:00:00.0000000",
-        "title":  "The Clay Travis Show",
-        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
-        "end":  "2026-09-24T23:30:00.0000000"
+        "start":  "2026-09-25T21:00:00.0000000",
+        "title":  "Live: NASCAR Craftsman Truck Series",
+        "desc":  "From Kansas Speedway in Kansas City, Kan.",
+        "end":  "2026-09-25T23:00:00.0000000"
     },
     {
-        "start":  "2026-09-24T23:30:00.0000000",
-        "title":  "Women\u0027s Football Weekly",
-        "desc":  "Discover the best of the action from the top divisions of women\u0027s football in Italy, Germany and the Netherlands with this brand-new highlights show.",
-        "end":  "2026-09-24T23:50:00.0000000"
-    },
-    {
-        "start":  "2026-09-24T23:50:00.0000000",
-        "title":  "Live: CONCACAF Nations League Soccer",
-        "desc":  "From Cibao Stadium, in Santiago de los Caballeros, Dominican Republic.",
-        "end":  "2026-09-25T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-25T01:50:00.0000000",
-        "title":  "Live: CONCACAF Nations League Soccer",
-        "desc":  "From Ricardo Saprissa Ayma Stadium in San Juan de Tibas, San Jose, Costa Rica.",
-        "end":  "2026-09-25T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-25T04:00:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "From Mission Whitten Oval in Footscray, Victoria, Australia.",
+        "start":  "2026-09-25T23:00:00.0000000",
+        "title":  "NHRA Sportsman Series",
+        "desc":  "Nine Lucas Oil Series classes compete for the drive to the championship at over 60 events nationally to culminate in a world championship in Pomona, Calif.",
         "end":  "2026-09-26T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T00:00:00.0000000",
+        "title":  "Live: Horse Racing",
+        "desc":  "The best racehorses square off in the premiere races from across the country.",
+        "end":  "2026-09-26T02:50:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T02:50:00.0000000",
+        "title":  "Live: CONCACAF Nations League Soccer",
+        "desc":  "From Estadio Jorge \"El MÃ¡gico\" GonzÃ¡lez in San Salvador, San Salvador, El Salvador.",
+        "end":  "2026-09-26T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T05:00:00.0000000",
+        "title":  "UEFA Nations League Soccer",
+        "desc":  "League A, Group 1.",
+        "end":  "2026-09-26T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T07:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The No. 5 Hoosiers face the Wildcats to kick off Big Ten conference play. Indiana secured a 38-0 win against West Kentucky behind Josh Hoover\u0027s 273 passing yards. Northwestern defeated Colorado 41-7 where Aidan Chiles led with 241 passing yards.",
+        "end":  "2026-09-26T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T10:00:00.0000000",
+        "title":  "SPEED With Harvick \u0026 Buxton",
+        "desc":  "Kevin Harvick and Will Buxton celebrate the world of motorsports.",
+        "end":  "2026-09-26T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T10:30:00.0000000",
+        "title":  "Kevin Harvick\u0027s Happy Hour",
+        "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
+        "end":  "2026-09-26T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T11:00:00.0000000",
+        "title":  "ARCA Menards Series",
+        "desc":  "From Kansas Speedway in Kansas City, Kan.",
+        "end":  "2026-09-26T12:50:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T12:50:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League B, Group 1.",
+        "end":  "2026-09-26T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T15:00:00.0000000",
+        "title":  "Professional Triathletes Organisation",
+        "desc":  "Professional triathletes strive to reach the highest levels of the sport while inspiring all triathletes, from the experienced age groupers to the newbies.",
+        "end":  "2026-09-26T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T15:30:00.0000000",
+        "title":  "Professional Triathletes Organisation",
+        "desc":  "Professional triathletes strive to reach the highest levels of the sport while inspiring all triathletes, from the experienced age groupers to the newbies.",
+        "end":  "2026-09-26T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T16:00:00.0000000",
+        "title":  "NHRA Sportsman Series",
+        "desc":  "Nine Lucas Oil Series classes compete for the drive to the championship at over 60 events nationally to culminate in a world championship in Pomona, Calif.",
+        "end":  "2026-09-26T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T17:00:00.0000000",
+        "title":  "Live: Horse Racing",
+        "desc":  "Following all the action from the world of horse racing.",
+        "end":  "2026-09-26T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T18:30:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League A, Group 3.",
+        "end":  "2026-09-26T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T20:30:00.0000000",
+        "title":  "Football Nation",
+        "desc":  "Spain has become the world\u0027s leading footballing nation. Their 2024 European Championship title was forged by a squad representative of all Spain, unlike its past successes which had been dictated by two of the world\u0027s biggest clubs.",
+        "end":  "2026-09-26T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T21:00:00.0000000",
+        "title":  "Live: Horse Racing",
+        "desc":  "The best racehorses square off in the premiere races from across the country.",
+        "end":  "2026-09-26T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T22:00:00.0000000",
+        "title":  "2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "Third-place play-off.",
+        "end":  "2026-09-27T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T00:00:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "The first stop on the worldwide western journey is the First Nations Rodeo and Relay Races from the world-famous Calgary Stampede grounds in Alberta, Canada.",
+        "end":  "2026-09-28T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T00:00:00.0000000",
+        "title":  "Live: Horse Racing",
+        "desc":  "The best racehorses square off in the premiere races from across the country.",
+        "end":  "2026-09-26T02:50:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T02:50:00.0000000",
+        "title":  "Live: CONCACAF Nations League Soccer",
+        "desc":  "From Estadio Jorge \"El MÃ¡gico\" GonzÃ¡lez in San Salvador, San Salvador, El Salvador.",
+        "end":  "2026-09-26T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T05:00:00.0000000",
+        "title":  "UEFA Nations League Soccer",
+        "desc":  "League A, Group 1.",
+        "end":  "2026-09-26T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T07:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The No. 5 Hoosiers face the Wildcats to kick off Big Ten conference play. Indiana secured a 38-0 win against West Kentucky behind Josh Hoover\u0027s 273 passing yards. Northwestern defeated Colorado 41-7 where Aidan Chiles led with 241 passing yards.",
+        "end":  "2026-09-26T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T10:00:00.0000000",
+        "title":  "SPEED With Harvick \u0026 Buxton",
+        "desc":  "Kevin Harvick and Will Buxton celebrate the world of motorsports.",
+        "end":  "2026-09-26T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T10:30:00.0000000",
+        "title":  "Kevin Harvick\u0027s Happy Hour",
+        "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
+        "end":  "2026-09-26T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T11:00:00.0000000",
+        "title":  "ARCA Menards Series",
+        "desc":  "From Kansas Speedway in Kansas City, Kan.",
+        "end":  "2026-09-26T12:50:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T12:50:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League B, Group 1.",
+        "end":  "2026-09-26T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T15:00:00.0000000",
+        "title":  "Professional Triathletes Organisation",
+        "desc":  "Professional triathletes strive to reach the highest levels of the sport while inspiring all triathletes, from the experienced age groupers to the newbies.",
+        "end":  "2026-09-26T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T15:30:00.0000000",
+        "title":  "Professional Triathletes Organisation",
+        "desc":  "Professional triathletes strive to reach the highest levels of the sport while inspiring all triathletes, from the experienced age groupers to the newbies.",
+        "end":  "2026-09-26T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T16:00:00.0000000",
+        "title":  "NHRA Sportsman Series",
+        "desc":  "Nine Lucas Oil Series classes compete for the drive to the championship at over 60 events nationally to culminate in a world championship in Pomona, Calif.",
+        "end":  "2026-09-26T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T17:00:00.0000000",
+        "title":  "Live: Horse Racing",
+        "desc":  "Following all the action from the world of horse racing.",
+        "end":  "2026-09-26T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T18:30:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League A, Group 3.",
+        "end":  "2026-09-26T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T20:30:00.0000000",
+        "title":  "Football Nation",
+        "desc":  "Spain has become the world\u0027s leading footballing nation. Their 2024 European Championship title was forged by a squad representative of all Spain, unlike its past successes which had been dictated by two of the world\u0027s biggest clubs.",
+        "end":  "2026-09-26T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T21:00:00.0000000",
+        "title":  "Live: Horse Racing",
+        "desc":  "The best racehorses square off in the premiere races from across the country.",
+        "end":  "2026-09-26T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-26T22:00:00.0000000",
+        "title":  "2026 FIFA U-20 Women\u0027s World Cup",
+        "desc":  "Third-place play-off.",
+        "end":  "2026-09-27T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T00:00:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "The first stop on the worldwide western journey is the First Nations Rodeo and Relay Races from the world-famous Calgary Stampede grounds in Alberta, Canada.",
+        "end":  "2026-09-27T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T01:00:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "Wild World of Western Sports heads to Paris, France for the World Reining Horse Continental Championships of Europe.",
+        "end":  "2026-09-27T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T02:00:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "Wild World\u0027s 3rd stop takes the audience back to the north to the spectacular Canadian province of British Columbia for the Cloverdale Rodeo and Country Fair.",
+        "end":  "2026-09-27T03:03:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T03:03:00.0000000",
+        "title":  "Live: NRL Women\u0027s Premiership",
+        "desc":  "From Cbus Super Stadium in Robina, Australia.",
+        "end":  "2026-09-27T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T04:30:00.0000000",
+        "title":  "Football Nation",
+        "desc":  "England is the home of football and has shaped the culture for over 100 years. But the men\u0027s national team has only one major trophy to show for it, the 1966 World Cup.",
+        "end":  "2026-09-27T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T05:00:00.0000000",
+        "title":  "UEFA Nations League Matchnight Highlights",
+        "desc":  "Top moments and highlights from UEFA National League matches.",
+        "end":  "2026-09-27T05:58:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T05:58:00.0000000",
+        "title":  "Live: NRL Rugby",
+        "desc":  "Preliminary Final.",
+        "end":  "2026-09-27T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T08:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "Iowa State hosts the No.15 Utah Utes at Jack Trice Stadium for a regular-season NCAA game. Iowa State looks to running back Aidan Flora following his 194 yards in Week 3, while No. 15 Utah counters behind a Devon Dampier coming off a 33-0 shutout.",
+        "end":  "2026-09-27T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T11:00:00.0000000",
+        "title":  "UEFA Nations League Soccer",
+        "desc":  "League A, Group 3.",
+        "end":  "2026-09-27T12:50:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T12:50:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League D, Group 2.",
+        "end":  "2026-09-27T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T15:00:00.0000000",
+        "title":  "Football\u0027s Greatest Stage",
+        "desc":  "Edson Arantes do Nascimento - or PelÃ© - is the greatest figure in football history.",
+        "end":  "2026-09-27T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T15:30:00.0000000",
+        "title":  "Football\u0027s Greatest Stage",
+        "desc":  "The 1982 World Cup in Italy influences modern football through its political atmosphere, venue quality and tactical developments; the tournament remains a turning point for the sport.",
+        "end":  "2026-09-27T15:50:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T15:50:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League A, Group 2.",
+        "end":  "2026-09-27T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T18:00:00.0000000",
+        "title":  "Football\u0027s Greatest Stage",
+        "desc":  "Franz Beckenbauer tasted World Cup glory as both player and manager.",
+        "end":  "2026-09-27T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T18:30:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League A, Group 2.",
+        "end":  "2026-09-27T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T20:30:00.0000000",
+        "title":  "Live: Horse Racing",
+        "desc":  "The best racehorses square off in the premier races from across the country.",
+        "end":  "2026-09-27T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T22:00:00.0000000",
+        "title":  "American Flat Track",
+        "desc":  "Motorcycle action from the American Flat Track racing series.",
+        "end":  "2026-09-27T22:50:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T22:50:00.0000000",
+        "title":  "Live: CONCACAF Nations League Soccer",
+        "desc":  "From Sabina Park in Kingston, Kingston, Jamaica.",
+        "end":  "2026-09-28T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T00:00:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "The first stop on the worldwide western journey is the First Nations Rodeo and Relay Races from the world-famous Calgary Stampede grounds in Alberta, Canada.",
+        "end":  "2026-09-27T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T01:00:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "Wild World of Western Sports heads to Paris, France for the World Reining Horse Continental Championships of Europe.",
+        "end":  "2026-09-27T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T02:00:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "Wild World\u0027s 3rd stop takes the audience back to the north to the spectacular Canadian province of British Columbia for the Cloverdale Rodeo and Country Fair.",
+        "end":  "2026-09-27T03:03:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T03:03:00.0000000",
+        "title":  "Live: NRL Women\u0027s Premiership",
+        "desc":  "From Cbus Super Stadium in Robina, Australia.",
+        "end":  "2026-09-27T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T04:30:00.0000000",
+        "title":  "Football Nation",
+        "desc":  "England is the home of football and has shaped the culture for over 100 years. But the men\u0027s national team has only one major trophy to show for it, the 1966 World Cup.",
+        "end":  "2026-09-27T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T05:00:00.0000000",
+        "title":  "UEFA Nations League Matchnight Highlights",
+        "desc":  "Top moments and highlights from UEFA National League matches.",
+        "end":  "2026-09-27T05:58:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T05:58:00.0000000",
+        "title":  "Live: NRL Rugby",
+        "desc":  "Preliminary Final.",
+        "end":  "2026-09-27T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T08:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "Iowa State hosts the No.15 Utah Utes at Jack Trice Stadium for a regular-season NCAA game. Iowa State looks to running back Aidan Flora following his 194 yards in Week 3, while No. 15 Utah counters behind a Devon Dampier coming off a 33-0 shutout.",
+        "end":  "2026-09-27T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T11:00:00.0000000",
+        "title":  "UEFA Nations League Soccer",
+        "desc":  "League A, Group 3.",
+        "end":  "2026-09-27T12:50:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T12:50:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League D, Group 2.",
+        "end":  "2026-09-27T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T15:00:00.0000000",
+        "title":  "Football\u0027s Greatest Stage",
+        "desc":  "Edson Arantes do Nascimento - or PelÃ© - is the greatest figure in football history.",
+        "end":  "2026-09-27T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T15:30:00.0000000",
+        "title":  "Football\u0027s Greatest Stage",
+        "desc":  "The 1982 World Cup in Italy influences modern football through its political atmosphere, venue quality and tactical developments; the tournament remains a turning point for the sport.",
+        "end":  "2026-09-27T15:50:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T15:50:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League A, Group 2.",
+        "end":  "2026-09-27T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T18:00:00.0000000",
+        "title":  "Football\u0027s Greatest Stage",
+        "desc":  "Franz Beckenbauer tasted World Cup glory as both player and manager.",
+        "end":  "2026-09-27T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T18:30:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League A, Group 2.",
+        "end":  "2026-09-27T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T20:30:00.0000000",
+        "title":  "Live: Horse Racing",
+        "desc":  "The best racehorses square off in the premier races from across the country.",
+        "end":  "2026-09-27T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T22:00:00.0000000",
+        "title":  "American Flat Track",
+        "desc":  "Motorcycle action from the American Flat Track racing series.",
+        "end":  "2026-09-27T22:50:00.0000000"
+    },
+    {
+        "start":  "2026-09-27T22:50:00.0000000",
+        "title":  "Live: CONCACAF Nations League Soccer",
+        "desc":  "From Sabina Park in Kingston, Kingston, Jamaica.",
+        "end":  "2026-09-28T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T00:50:00.0000000",
+        "title":  "Live: CONCACAF Nations League Soccer",
+        "desc":  "From Hasely Crawford Stadium in Port of Spain, Trinidad and Tobago.",
+        "end":  "2026-09-28T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T03:00:00.0000000",
+        "title":  "SpeedFreaks",
+        "desc":  "Go in-depth with the big names in racing, showcasing a side of these athletes rarely seen with a unique interview style and flair combining elements of commentary, entertainment and lifestyle.",
+        "end":  "2026-09-28T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T04:00:00.0000000",
+        "title":  "NHRA Sportsman Series",
+        "desc":  "Nine Lucas Oil Series classes compete for the drive to the championship at over 60 events nationally to culminate in a world championship in Pomona, Calif.",
+        "end":  "2026-09-29T00:00:00.0000000"
     }
 ]
