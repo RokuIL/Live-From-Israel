@@ -471,6 +471,306 @@
         "start":  "2026-09-28T04:00:00.0000000",
         "title":  "The Rookie",
         "desc":  "Officer John Nolan and the team investigate the unexpected death of a suspect in police custody; Sgt. Grey and his wife, Luna, go to New York to visit their daughter, Dominique, only to realize she never made it home from the night before.",
+        "end":  "2026-09-28T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T05:00:00.0000000",
+        "title":  "The Rookie",
+        "desc":  "Detective Nyla Harper and James find themselves in the middle of a bank robbery which leads the entire team on a citywide manhunt; Tim and Lucy go on their first date.",
+        "end":  "2026-09-28T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T06:00:00.0000000",
+        "title":  "Murdoch Mysteries",
+        "desc":  "Crabtree and Effie\u0027s celebration of Charles Dickens\u0027 birthday is upended when the host winds up mysteriously dead.",
+        "end":  "2026-09-28T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T07:00:00.0000000",
+        "title":  "This Week With George Stephanopoulos",
+        "desc":  "Anchor George Stephanopoulos and co-anchors Martha Raddatz and Jonathan Karl interview top newsmakers and officials, with reporting from across the country and roundtable debates over the hottest political issues.",
+        "end":  "2026-09-28T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T08:00:00.0000000",
+        "title":  "Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-09-28T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T08:30:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-09-28T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T10:00:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-09-28T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T11:00:00.0000000",
+        "title":  "Good Morning America",
+        "desc":  "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
+        "end":  "2026-09-28T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T13:00:00.0000000",
+        "title":  "Live with Kelly and Mark",
+        "desc":  "Mark Duplass; Mauricio Umansky; a recipe from Christian Petroni.",
+        "end":  "2026-09-28T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T14:00:00.0000000",
+        "title":  "Eyewitness News Mornings at 10",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-09-28T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T15:00:00.0000000",
+        "title":  "The View",
+        "desc":  "Created in 1997 by veteran journalist Barbara Walters, \"The View\" is a daytime talk show hosted by women -- including Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, Alyssa Farah Griffin and Ana Navarro -- and each offers her take on the day\u0027s news during the opening \"Hot Topics\" segment. Later, the ladies welcome various celebrities, who join them in a chat or perform for the audience. The",
+        "end":  "2026-09-28T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T16:00:00.0000000",
+        "title":  "Eyewitness News at Noon",
+        "desc":  "Midday news update.",
+        "end":  "2026-09-28T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T17:00:00.0000000",
+        "title":  "GMA3",
+        "desc":  "News, lifestyle and entertainment.",
+        "end":  "2026-09-28T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T18:00:00.0000000",
+        "title":  "Tamron Hall",
+        "desc":  "From the deeply moving to the purely fun, the show is a daily destination for all things topical and a platform for viewers to connect with the people who are shaping the world through meaningful, engaging and entertaining conversations.",
+        "end":  "2026-09-28T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T19:00:00.0000000",
+        "title":  "General Hospital",
+        "desc":  "The ongoing lives of the diverse and evolving citizens of the fictional town of Port Charles in upstate New York.",
+        "end":  "2026-09-28T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T20:00:00.0000000",
+        "title":  "Eyewitness News First at 4",
+        "desc":  "Local and regional news coverage.",
+        "end":  "2026-09-28T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T21:00:00.0000000",
+        "title":  "Eyewitness News at 5",
+        "desc":  "Local and regional news.",
+        "end":  "2026-09-28T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T22:00:00.0000000",
+        "title":  "Eyewitness News at 6",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-09-28T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T22:30:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "desc":  "Delivering the news that matters most.",
+        "end":  "2026-09-28T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T23:00:00.0000000",
+        "title":  "Jeopardy!",
+        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
+        "end":  "2026-09-28T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T23:30:00.0000000",
+        "title":  "Wheel of Fortune",
+        "desc":  "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
         "end":  "2026-09-29T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-29T00:00:00.0000000",
+        "title":  "Live: Monday Night Kickoff",
+        "desc":  "The legendary Monday Night Football crew of Joe Buck, Troy Aikman, and Lisa Salters preview the upcoming Monday Night Football action.",
+        "end":  "2026-09-30T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T00:01:00.0000000",
+        "title":  "America\u0027s Funniest Home Videos",
+        "desc":  "Birthday blunders; epic pranksters; a little girl cries tears of joy over her new pet.",
+        "end":  "2026-09-28T01:02:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T01:02:00.0000000",
+        "title":  "Inside Out 2",
+        "desc":  "Joy, Sadness, Anger, Fear and Disgust have been running a successful operation by all accounts. However, when Anxiety shows up, they aren\u0027t sure how to feel.",
+        "end":  "2026-09-28T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T03:00:00.0000000",
+        "title":  "Eyewitness News at 11",
+        "desc":  "Breaking news.",
+        "end":  "2026-09-28T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T04:00:00.0000000",
+        "title":  "The Rookie",
+        "desc":  "Officer John Nolan and the team investigate the unexpected death of a suspect in police custody; Sgt. Grey and his wife, Luna, go to New York to visit their daughter, Dominique, only to realize she never made it home from the night before.",
+        "end":  "2026-09-28T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T05:00:00.0000000",
+        "title":  "The Rookie",
+        "desc":  "Detective Nyla Harper and James find themselves in the middle of a bank robbery which leads the entire team on a citywide manhunt; Tim and Lucy go on their first date.",
+        "end":  "2026-09-28T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T06:00:00.0000000",
+        "title":  "Murdoch Mysteries",
+        "desc":  "Crabtree and Effie\u0027s celebration of Charles Dickens\u0027 birthday is upended when the host winds up mysteriously dead.",
+        "end":  "2026-09-28T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T07:00:00.0000000",
+        "title":  "This Week With George Stephanopoulos",
+        "desc":  "Anchor George Stephanopoulos and co-anchors Martha Raddatz and Jonathan Karl interview top newsmakers and officials, with reporting from across the country and roundtable debates over the hottest political issues.",
+        "end":  "2026-09-28T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T08:00:00.0000000",
+        "title":  "Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-09-28T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T08:30:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-09-28T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T10:00:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-09-28T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T11:00:00.0000000",
+        "title":  "Good Morning America",
+        "desc":  "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
+        "end":  "2026-09-28T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T13:00:00.0000000",
+        "title":  "Live with Kelly and Mark",
+        "desc":  "Mark Duplass; Mauricio Umansky; a recipe from Christian Petroni.",
+        "end":  "2026-09-28T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T14:00:00.0000000",
+        "title":  "Eyewitness News Mornings at 10",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-09-28T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T15:00:00.0000000",
+        "title":  "The View",
+        "desc":  "Created in 1997 by veteran journalist Barbara Walters, \"The View\" is a daytime talk show hosted by women -- including Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, Alyssa Farah Griffin and Ana Navarro -- and each offers her take on the day\u0027s news during the opening \"Hot Topics\" segment. Later, the ladies welcome various celebrities, who join them in a chat or perform for the audience. The",
+        "end":  "2026-09-28T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T16:00:00.0000000",
+        "title":  "Eyewitness News at Noon",
+        "desc":  "Midday news update.",
+        "end":  "2026-09-28T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T17:00:00.0000000",
+        "title":  "GMA3",
+        "desc":  "News, lifestyle and entertainment.",
+        "end":  "2026-09-28T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T18:00:00.0000000",
+        "title":  "Tamron Hall",
+        "desc":  "From the deeply moving to the purely fun, the show is a daily destination for all things topical and a platform for viewers to connect with the people who are shaping the world through meaningful, engaging and entertaining conversations.",
+        "end":  "2026-09-28T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T19:00:00.0000000",
+        "title":  "General Hospital",
+        "desc":  "The ongoing lives of the diverse and evolving citizens of the fictional town of Port Charles in upstate New York.",
+        "end":  "2026-09-28T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T20:00:00.0000000",
+        "title":  "Eyewitness News First at 4",
+        "desc":  "Local and regional news coverage.",
+        "end":  "2026-09-28T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T21:00:00.0000000",
+        "title":  "Eyewitness News at 5",
+        "desc":  "Local and regional news.",
+        "end":  "2026-09-28T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T22:00:00.0000000",
+        "title":  "Eyewitness News at 6",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-09-28T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T22:30:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "desc":  "Delivering the news that matters most.",
+        "end":  "2026-09-28T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T23:00:00.0000000",
+        "title":  "Jeopardy!",
+        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
+        "end":  "2026-09-28T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T23:30:00.0000000",
+        "title":  "Wheel of Fortune",
+        "desc":  "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+        "end":  "2026-09-29T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-29T00:00:00.0000000",
+        "title":  "Live: Monday Night Kickoff",
+        "desc":  "The legendary Monday Night Football crew of Joe Buck, Troy Aikman, and Lisa Salters preview the upcoming Monday Night Football action.",
+        "end":  "2026-09-29T00:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-29T00:15:00.0000000",
+        "title":  "Live: NFL Football",
+        "desc":  "The Chicago Bears host the Philadelphia Eagles at Soldier Field in Week 3. Philadelphia beat Tennessee 24-20 behind Jalen Hurts, who hit Darius Cooper for a TD with nine seconds left, while Chicago seeks to recover from a recent loss to Minnesota.",
+        "end":  "2026-09-29T03:15:00.0000000"
+    },
+    {
+        "start":  "2026-09-29T03:15:00.0000000",
+        "title":  "Eyewitness News at 11",
+        "desc":  "Breaking news.",
+        "end":  "2026-09-29T03:50:00.0000000"
+    },
+    {
+        "start":  "2026-09-29T03:50:00.0000000",
+        "title":  "Jimmy Kimmel Live!",
+        "desc":  "Emmy-winning funnyman Jimmy Kimmel serves up comedy bits and welcomes guests that include other comics, celebrities, athletes and musicians, as well as everyday people with unusual or compelling personal stories. Kimmel\u0027s family and friends take part in the festivities, including his Cousin Sal, Uncle Frank (until his death in 2011) and childhood friend Cleto Escobedo III, who leads the show\u0027s hou",
+        "end":  "2026-09-29T04:52:00.0000000"
+    },
+    {
+        "start":  "2026-09-29T04:52:00.0000000",
+        "title":  "Nightline",
+        "desc":  "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
+        "end":  "2026-09-30T00:00:00.0000000"
     }
 ]
