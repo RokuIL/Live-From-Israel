@@ -1,263 +1,5 @@
 [
     {
-        "start":  "2026-09-26T00:00:00.0000000",
-        "title":  "Line of Fire",
-        "desc":  "A family of law enforcement agents investigate a double homicide involving a U.S. Marshal; a mysterious murder hits close to home, forcing the Hollingsworths to focus on protecting each other as a family.",
-        "end":  "2026-09-26T01:01:00.0000000"
-    },
-    {
-        "start":  "2026-09-26T01:01:00.0000000",
-        "title":  "Dateline NBC",
-        "desc":  "Compelling mysteries, powerful documentaries, in-depth investigations.",
-        "end":  "2026-09-26T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-26T03:00:00.0000000",
-        "title":  "Live: News 4 NY at 11",
-        "desc":  "Local and regional news.",
-        "end":  "2026-09-26T03:34:00.0000000"
-    },
-    {
-        "start":  "2026-09-26T03:34:00.0000000",
-        "title":  "The Tonight Show Starring Jimmy Fallon",
-        "desc":  "Actor Matthew McConaughey; influencer Alix Earle; Riley Green performs.",
-        "end":  "2026-09-26T04:37:00.0000000"
-    },
-    {
-        "start":  "2026-09-26T04:37:00.0000000",
-        "title":  "Late Night With Seth Meyers",
-        "desc":  "Actor Timothy Olyphant; actor Cooper Hoffman.",
-        "end":  "2026-09-26T05:37:00.0000000"
-    },
-    {
-        "start":  "2026-09-26T05:37:00.0000000",
-        "title":  "News 4 NY at 11",
-        "desc":  "Local and regional news.",
-        "end":  "2026-09-26T06:12:00.0000000"
-    },
-    {
-        "start":  "2026-09-26T06:12:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-        "end":  "2026-09-26T06:42:00.0000000"
-    },
-    {
-        "start":  "2026-09-26T06:42:00.0000000",
-        "title":  "Top Story With Tom Llamas",
-        "desc":  "Reporting of breaking news and developing stories in real time.",
-        "end":  "2026-09-26T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-26T07:30:00.0000000",
-        "title":  "New York Live Tonight",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-09-26T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-26T08:00:00.0000000",
-        "title":  "1st Look",
-        "desc":  "Guest host Danielle Robay finds San Diego treasures, from the only 3 Michelin Star restaurant in California to an indoor carousel bar.",
-        "end":  "2026-09-26T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-26T08:30:00.0000000",
-        "title":  "9/11 Survivors Speak Up",
-        "desc":  "It\u0027s been 25 years since the 9/11 attacks and people are still getting sick. Hear from survivors, first responders and advocates about the devastating impact of 9/11 toxins and the lifetime benefits available. Learn about your rights and protection.",
-        "end":  "2026-09-26T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-26T09:00:00.0000000",
-        "title":  "1st Look",
-        "desc":  "Lifestyle trends in food, nightlife, art, travel and entertainment.",
-        "end":  "2026-09-26T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-26T09:30:00.0000000",
-        "title":  "Open House NYC",
-        "desc":  "Host Sara Gore presents a guide to upscale real estate in and around the Big Apple. In addition to a look at the hottest homes on the market, the show also provides interior design tips from specialists and a wealth of information on renovation and stylish living.",
-        "end":  "2026-09-26T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-26T10:00:00.0000000",
-        "title":  "Earth Odyssey With Dylan Dreyer",
-        "desc":  "Dylan Dreyer takes a trip around the world to see some of the most amazingly adorable baby animals in the wild.",
-        "end":  "2026-09-26T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-26T10:30:00.0000000",
-        "title":  "The Great American Journey",
-        "desc":  "Kelsey Grammer kicks off a journey from the Statue of Liberty and the Transcontinental Railroad, to the Appalachian Trail and the bright lights of Broadway.",
-        "end":  "2026-09-26T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-26T11:00:00.0000000",
-        "title":  "Saturday Today in New York",
-        "desc":  "The local news, weather and investigative stories impacting your community.",
-        "end":  "2026-09-26T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-26T12:00:00.0000000",
-        "title":  "Saturday Today in New York",
-        "desc":  "The local news, weather and investigative stories impacting your community.",
-        "end":  "2026-09-26T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-26T13:00:00.0000000",
-        "title":  "Live: 2026 Presidents Cup",
-        "desc":  "Brandt Snedeker\u0027s U.S. Team takes on Geoff Ogilvy\u0027s International Team in Day 3 four-ball at Medinah Country Club Course. Course No. 3 features wider fairways, open vistas, and areas of long fescue rough following its recent transformation.",
-        "end":  "2026-09-26T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-26T23:00:00.0000000",
-        "title":  "Live: Big Ten Countdown",
-        "desc":  "Preseason breakdown of Big Ten football team expectations.",
-        "end":  "2026-09-26T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-26T23:30:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "USC hosts Big Ten rival Oregon at LA Memorial Coliseum in Week 4 college football action. USC builds on a 42-35 Week 3 win over Rutgers behind Jayden Maiava\u0027s passing, while Oregon enters following a 84-0 shutout of Portland State led by Dante Moore.",
-        "end":  "2026-09-27T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T03:00:00.0000000",
-        "title":  "Live: News 4 NY at 11",
-        "desc":  "Local and regional news.",
-        "end":  "2026-09-27T03:29:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T03:29:00.0000000",
-        "title":  "Saturday Night Live",
-        "desc":  "Host Jalen Brunson; KATSEYE performs.",
-        "end":  "2026-09-27T05:03:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T05:03:00.0000000",
-        "title":  "The Effect: Knicks in 26",
-        "desc":  "The 2025-26 New York Knicks end a 53-year championship drought, igniting a healing outpouring of joy across the five boroughs and the entire nation.",
-        "end":  "2026-09-27T05:32:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T05:32:00.0000000",
-        "title":  "George to the Rescue",
-        "desc":  "George Oliphant comes to the rescue of families in need of renovating their homes.",
-        "end":  "2026-09-27T06:02:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T06:02:00.0000000",
-        "title":  "1st Look",
-        "desc":  "The 2025-26 New York Knicks end a 53-year championship drought, igniting a healing outpouring of joy across the five boroughs and the entire nation.",
-        "end":  "2026-09-27T06:32:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T06:32:00.0000000",
-        "title":  "Open House NYC",
-        "desc":  "Inspiring surprises for a historic community center supporting children.",
-        "end":  "2026-09-27T07:02:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T07:02:00.0000000",
-        "title":  "Open House NYC",
-        "desc":  "An empowering transformation for an ALS fighter and her family.",
-        "end":  "2026-09-27T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T07:30:00.0000000",
-        "title":  "The Effect: Knicks in 26",
-        "desc":  "The 2025-26 New York Knicks end a 53-year championship drought, igniting a healing outpouring of joy across the five boroughs and the entire nation.",
-        "end":  "2026-09-27T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T08:00:00.0000000",
-        "title":  "Open House NYC",
-        "desc":  "Host Sara Gore presents a guide to upscale real estate in and around the Big Apple. In addition to a look at the hottest homes on the market, the show also provides interior design tips from specialists and a wealth of information on renovation and stylish living.",
-        "end":  "2026-09-27T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T08:30:00.0000000",
-        "title":  "The Aging Brain",
-        "desc":  "Learn what\u0027s behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ\u0027s Darrin Peterson and Dale Bredesen MD.",
-        "end":  "2026-09-27T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T09:00:00.0000000",
-        "title":  "1st Look",
-        "desc":  "Lifestyle trends in food, nightlife, art, travel and entertainment.",
-        "end":  "2026-09-27T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T09:30:00.0000000",
-        "title":  "Sunday Today in New York",
-        "desc":  "Sunday New York news show.",
-        "end":  "2026-09-27T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T10:00:00.0000000",
-        "title":  "Sunday Today in New York",
-        "desc":  "Sunday New York news show.",
-        "end":  "2026-09-27T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T11:00:00.0000000",
-        "title":  "Sunday Today in New York",
-        "desc":  "Sunday New York news show.",
-        "end":  "2026-09-27T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T12:00:00.0000000",
-        "title":  "Sunday Today With Willie Geist",
-        "desc":  "Sharp conversational coverage of the week\u0027s news, along with in-depth profiles of the people and personalities shaping American culture, assessing the highs and lows of the week and looking ahead to the next one.",
-        "end":  "2026-09-27T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T13:00:00.0000000",
-        "title":  "Forever Young With Dr. Pablo Prichard",
-        "desc":  "Danielle and Dr. Pablo discuss how cancer develops, why early detection matters and new screening tools; by connecting past stories with present science, Dr. Pablo questions whether cancer can be caught before it ever has a chance to take hold.",
-        "end":  "2026-09-27T13:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T13:30:00.0000000",
-        "title":  "Sunday Today in New York",
-        "desc":  "Sunday New York news show.",
-        "end":  "2026-09-27T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T14:30:00.0000000",
-        "title":  "Meet the Press",
-        "desc":  "Interviews with public figures and those making news, setting the political agenda and spotlighting the impact Washington decision-making has on Americans.",
-        "end":  "2026-09-27T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T15:30:00.0000000",
-        "title":  "Joel Osteen",
-        "desc":  "Author and evangelist Joel Osteen spreads his message of love and hope as he preaches at the 30,000-plus member Lakewood Church in Houston. The program can be seen in more than 100 countries. Osteen urges people to live at their full potential and form a close relationship with God.",
-        "end":  "2026-09-27T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T16:00:00.0000000",
-        "title":  "Live: 2026 Presidents Cup",
-        "desc":  "Brandt Snedeker\u0027s U.S. squad faces Geoff Ogilvy\u0027s International side in Day 4 singles at Medinah Country Club Course. Originally designed by Tom Bendelow, the course hosted the 2019 BMW Championship and three historical Western Opens.",
-        "end":  "2026-09-27T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T22:00:00.0000000",
-        "title":  "News4 NY at 6 Weekend",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-09-27T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T22:30:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-        "end":  "2026-09-27T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T23:00:00.0000000",
-        "title":  "Live: Football Night in America",
-        "desc":  "\"Football Night in America\" features host Maria Taylor, former NFL head coach and quarterback Jason Garrett, former NFL head coach Mike Tomlin and NFL insider Mike Florio recapping the day\u0027s NFL highlights.",
-        "end":  "2026-09-28T00:00:00.0000000"
-    },
-    {
         "start":  "2026-09-27T03:00:00.0000000",
         "title":  "Live: News 4 NY at 11",
         "desc":  "Local and regional news.",
@@ -748,6 +490,36 @@
         "title":  "New York Live Tonight",
         "desc":  "Stay informed with the latest breaking news and headlines.",
         "end":  "2026-09-29T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-29T00:00:00.0000000",
+        "title":  "The Voice",
+        "desc":  "Coaches Queen Latifah, Riley Green, Kelly Clarkson and Adam Levine all vie to discover the next singing phenomenon on the fourth night of blind auditions.",
+        "end":  "2026-09-29T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-29T02:00:00.0000000",
+        "title":  "Line of Fire",
+        "desc":  "A bank heist turns deadly as the U.S. Marshals and FBI clash to bring down the fugitive, pitting Jane against Clare; Micah adjusts to working for Mike on the Secret Service while hiding a forbidden relationship.",
+        "end":  "2026-09-29T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-29T03:00:00.0000000",
+        "title":  "Live: News 4 NY at 11",
+        "desc":  "Local and regional news.",
+        "end":  "2026-09-29T03:34:00.0000000"
+    },
+    {
+        "start":  "2026-09-29T03:34:00.0000000",
+        "title":  "The Tonight Show Starring Jimmy Fallon",
+        "desc":  "Actress Florence Pugh; actor Josh Hartnett; Gracie Abrams performs.",
+        "end":  "2026-09-29T04:37:00.0000000"
+    },
+    {
+        "start":  "2026-09-29T04:37:00.0000000",
+        "title":  "Late Night With Seth Meyers",
+        "desc":  "Actress Kate McKinnon; actor Christopher Abbott.",
+        "end":  "2026-09-30T00:00:00.0000000"
     },
     {
         "start":  "2026-09-29T00:00:00.0000000",
