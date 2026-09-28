@@ -1,101 +1,5 @@
 [
     {
-        "start":  "2026-09-27T00:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-09-27T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T01:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-09-27T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T02:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-09-27T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T03:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-09-27T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T04:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-09-27T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T05:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-09-27T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T06:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-09-27T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T07:00:00.0000000",
-        "title":  "NFL Countdown",
-        "desc":  "",
-        "end":  "2026-09-27T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T10:00:00.0000000",
-        "title":  "NFL on TSN: Patriots vs. Jaguars",
-        "desc":  "",
-        "end":  "2026-09-27T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T13:00:00.0000000",
-        "title":  "NFL on TSN: Vikings vs. Buccaneers",
-        "desc":  "",
-        "end":  "2026-09-27T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T16:00:00.0000000",
-        "title":  "Football Night in America",
-        "desc":  "",
-        "end":  "2026-09-27T17:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T17:15:00.0000000",
-        "title":  "NFL Sunday Night Football: Rams vs. Broncos",
-        "desc":  "",
-        "end":  "2026-09-27T17:20:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T17:20:00.0000000",
-        "title":  "NFL Sunday Night Football: Rams vs. Broncos",
-        "desc":  "",
-        "end":  "2026-09-27T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T20:30:00.0000000",
-        "title":  "SC with Jay Onrait",
-        "desc":  "",
-        "end":  "2026-09-27T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T22:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-09-27T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T23:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-09-28T00:00:00.0000000"
-    },
-    {
         "start":  "2026-09-28T00:00:00.0000000",
         "title":  "SPORTSCENTRE",
         "desc":  "",
@@ -170,6 +74,24 @@
     {
         "start":  "2026-09-28T11:00:00.0000000",
         "title":  "Big Day with Peter Schrager",
+        "desc":  "",
+        "end":  "2026-09-28T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T12:00:00.0000000",
+        "title":  "NFL Live",
+        "desc":  "",
+        "end":  "2026-09-28T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T14:00:00.0000000",
+        "title":  "SC: August Plays of the Month",
+        "desc":  "",
+        "end":  "2026-09-28T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T14:30:00.0000000",
+        "title":  "Pardon The Interruption",
         "desc":  "",
         "end":  "2026-09-29T00:00:00.0000000"
     },
@@ -249,103 +171,25 @@
         "start":  "2026-09-28T11:00:00.0000000",
         "title":  "Big Day with Peter Schrager",
         "desc":  "",
+        "end":  "2026-09-28T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T12:00:00.0000000",
+        "title":  "NFL Live",
+        "desc":  "",
+        "end":  "2026-09-28T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T14:00:00.0000000",
+        "title":  "SC: August Plays of the Month",
+        "desc":  "",
+        "end":  "2026-09-28T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T14:30:00.0000000",
+        "title":  "Pardon The Interruption",
+        "desc":  "",
         "end":  "2026-09-29T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T00:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-09-27T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T01:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-09-27T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T02:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-09-27T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T03:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-09-27T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T04:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-09-27T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T05:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-09-27T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T06:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-09-27T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T07:00:00.0000000",
-        "title":  "NFL Countdown",
-        "desc":  "",
-        "end":  "2026-09-27T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T10:00:00.0000000",
-        "title":  "NFL on TSN: Patriots vs. Jaguars",
-        "desc":  "",
-        "end":  "2026-09-27T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T13:00:00.0000000",
-        "title":  "NFL on TSN: Vikings vs. Buccaneers",
-        "desc":  "",
-        "end":  "2026-09-27T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T16:00:00.0000000",
-        "title":  "Football Night in America",
-        "desc":  "",
-        "end":  "2026-09-27T17:15:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T17:15:00.0000000",
-        "title":  "NFL Sunday Night Football: Rams vs. Broncos",
-        "desc":  "",
-        "end":  "2026-09-27T17:20:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T17:20:00.0000000",
-        "title":  "NFL Sunday Night Football: Rams vs. Broncos",
-        "desc":  "",
-        "end":  "2026-09-27T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T20:30:00.0000000",
-        "title":  "SC with Jay Onrait",
-        "desc":  "",
-        "end":  "2026-09-27T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T22:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-09-27T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-09-27T23:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-09-28T00:00:00.0000000"
     },
     {
         "start":  "2026-09-28T00:00:00.0000000",
@@ -422,6 +266,24 @@
     {
         "start":  "2026-09-28T11:00:00.0000000",
         "title":  "Big Day with Peter Schrager",
+        "desc":  "",
+        "end":  "2026-09-28T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T12:00:00.0000000",
+        "title":  "NFL Live",
+        "desc":  "",
+        "end":  "2026-09-28T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T14:00:00.0000000",
+        "title":  "SC: August Plays of the Month",
+        "desc":  "",
+        "end":  "2026-09-28T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-09-28T14:30:00.0000000",
+        "title":  "Pardon The Interruption",
         "desc":  "",
         "end":  "2026-09-29T00:00:00.0000000"
     }
