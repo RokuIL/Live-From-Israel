@@ -1,326 +1,218 @@
 [
     {
-        "start":  "2026-10-02T01:50:00.0000000",
+        "start":  "2026-10-03T01:50:00.0000000",
         "title":  "Live: CONCACAF Nations League Soccer",
-        "desc":  "From Estadio Nacional de FÃºtbol in Managua, Nicaragua.",
-        "end":  "2026-10-02T04:00:00.0000000"
+        "desc":  "From Cuscatlan Monumental Stadium in San Salvador, San Salvador, El Salvador.",
+        "end":  "2026-10-03T04:00:00.0000000"
     },
     {
-        "start":  "2026-10-02T04:00:00.0000000",
-        "title":  "NHRA Sportsman Series",
-        "desc":  "Nine Lucas Oil Series classes compete for the drive to the championship at over 60 events nationally to culminate in a world championship in Pomona, Calif.",
-        "end":  "2026-10-02T05:00:00.0000000"
+        "start":  "2026-10-03T04:00:00.0000000",
+        "title":  "NHRA Pro Mod Series",
+        "desc":  "From Summit Racing Equipment Motorsports Park in Norwalk, Ohio.",
+        "end":  "2026-10-03T04:30:00.0000000"
     },
     {
-        "start":  "2026-10-02T05:00:00.0000000",
-        "title":  "UEFA Nations League Soccer",
-        "desc":  "League A, Group 4.",
-        "end":  "2026-10-02T07:00:00.0000000"
+        "start":  "2026-10-03T04:30:00.0000000",
+        "title":  "NHRA Pro Mod Series",
+        "desc":  "Highlights and features from the drag-racing series.",
+        "end":  "2026-10-03T05:00:00.0000000"
     },
     {
-        "start":  "2026-10-02T07:00:00.0000000",
-        "title":  "UEFA Nations League Soccer",
-        "desc":  "League A, Group 2.",
-        "end":  "2026-10-02T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-02T09:00:00.0000000",
+        "start":  "2026-10-03T05:00:00.0000000",
         "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "From IKON Park in Melbourne, Victoria, Australia.",
-        "end":  "2026-10-02T11:00:00.0000000"
+        "desc":  "From Mars Stadium in Ballarat, Victoria, Australia.",
+        "end":  "2026-10-03T07:00:00.0000000"
     },
     {
-        "start":  "2026-10-02T11:00:00.0000000",
-        "title":  "Kevin Harvick\u0027s Happy Hour",
-        "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
-        "end":  "2026-10-02T11:30:00.0000000"
+        "start":  "2026-10-03T07:00:00.0000000",
+        "title":  "Live: AFL Women\u0027s Premiership Football",
+        "desc":  "From Brighton Homes Arena in Queensland, Australia.",
+        "end":  "2026-10-03T09:00:00.0000000"
     },
     {
-        "start":  "2026-10-02T11:30:00.0000000",
+        "start":  "2026-10-03T09:00:00.0000000",
+        "title":  "Live: AFL Women\u0027s Premiership Football",
+        "desc":  "From Alberton Oval in Adelaide, South Australia, Australia.",
+        "end":  "2026-10-03T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-03T11:00:00.0000000",
         "title":  "SPEED With Harvick \u0026 Buxton",
         "desc":  "Kevin Harvick and Will Buxton celebrate the world of motorsports.",
-        "end":  "2026-10-02T12:00:00.0000000"
+        "end":  "2026-10-03T11:30:00.0000000"
     },
     {
-        "start":  "2026-10-02T12:00:00.0000000",
-        "title":  "NHRA Sportsman Series",
-        "desc":  "Nine Lucas Oil Series classes compete for the drive to the championship at over 60 events nationally to culminate in a world championship in Pomona, Calif.",
-        "end":  "2026-10-02T13:00:00.0000000"
+        "start":  "2026-10-03T11:30:00.0000000",
+        "title":  "Kevin Harvick\u0027s Happy Hour",
+        "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
+        "end":  "2026-10-03T12:00:00.0000000"
     },
     {
-        "start":  "2026-10-02T13:00:00.0000000",
+        "start":  "2026-10-03T12:00:00.0000000",
+        "title":  "MotoGP Racing",
+        "desc":  "From Mobility Resort Motegi in Totigi, Japan.",
+        "end":  "2026-10-03T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-03T12:30:00.0000000",
+        "title":  "NHRA Drag Racing",
+        "desc":  "From World Wide Technology Raceway at Gateway in Madison, Ill.",
+        "end":  "2026-10-03T13:50:00.0000000"
+    },
+    {
+        "start":  "2026-10-03T13:50:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League C, Group 1.",
+        "end":  "2026-10-03T15:50:00.0000000"
+    },
+    {
+        "start":  "2026-10-03T15:50:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League C, Group 4.",
+        "end":  "2026-10-03T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-03T18:00:00.0000000",
+        "title":  "Football\u0027s Greatest Stage",
+        "desc":  "Sergio Ramos leads Spain for a generation, Australia stuns in 2006, and Peter Shilton faces glory and heartbreak.",
+        "end":  "2026-10-03T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-03T18:30:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League A, Group 3.",
+        "end":  "2026-10-03T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-03T20:30:00.0000000",
+        "title":  "Live: Horse Racing",
+        "desc":  "The best racehorses square off in the premiere races from across the country.",
+        "end":  "2026-10-03T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-03T22:00:00.0000000",
+        "title":  "UEFA Nations League Soccer",
+        "desc":  "League A, Group 1.",
+        "end":  "2026-10-04T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T00:00:00.0000000",
+        "title":  "UEFA Nations League Soccer",
+        "desc":  "League A, Group 3.",
+        "end":  "2026-10-04T01:50:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T01:50:00.0000000",
+        "title":  "Live: CONCACAF Nations League Soccer",
+        "desc":  "From FFB Field in Belize.",
+        "end":  "2026-10-04T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T04:00:00.0000000",
+        "title":  "MotoGP Racing",
+        "desc":  "From Mobility Resort Motegi in Totigi, Japan.",
+        "end":  "2026-10-04T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T04:30:00.0000000",
+        "title":  "Live: MotoGP Racing",
+        "desc":  "From Mobility Resort Motegi in Totigi, Japan.",
+        "end":  "2026-10-04T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T06:00:00.0000000",
+        "title":  "Live: AFL Women\u0027s Premiership Football",
+        "desc":  "From Leederville Oval in Leederville, Western Australia, Australia.",
+        "end":  "2026-10-04T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T08:00:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "Wild World\u0027s 3rd stop takes the audience back to the north to the spectacular Canadian province of British Columbia for the Cloverdale Rodeo and Country Fair.",
+        "end":  "2026-10-04T08:28:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T08:28:00.0000000",
+        "title":  "Live: NRL Rugby",
+        "desc":  "Grand Final.",
+        "end":  "2026-10-04T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T10:30:00.0000000",
         "title":  "The Gronk \u0026 Jules Show",
         "desc":  "Former teammates, best friends and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
-        "end":  "2026-10-02T13:30:00.0000000"
+        "end":  "2026-10-04T11:00:00.0000000"
     },
     {
-        "start":  "2026-10-02T13:30:00.0000000",
-        "title":  "The Clay Travis Show",
-        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
-        "end":  "2026-10-02T13:50:00.0000000"
+        "start":  "2026-10-04T11:00:00.0000000",
+        "title":  "NHRA Sportsman Series",
+        "desc":  "Nine Lucas Oil Series classes compete for the drive to the championship at over 60 events nationally to culminate in a world championship in Pomona, Calif.",
+        "end":  "2026-10-04T12:00:00.0000000"
     },
     {
-        "start":  "2026-10-02T13:50:00.0000000",
-        "title":  "Live: UEFA Nations League Soccer",
-        "desc":  "League C, Group 3.",
-        "end":  "2026-10-02T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-02T16:00:00.0000000",
-        "title":  "The Joel Klatt Show: A College Football Podcast",
-        "desc":  "Joel Klatt breaks down the current topics in the world of college football.",
-        "end":  "2026-10-02T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-02T16:30:00.0000000",
+        "start":  "2026-10-04T12:00:00.0000000",
         "title":  "NHRA Pro Mod Series",
         "desc":  "Highlights and features from the drag-racing series.",
-        "end":  "2026-10-02T17:00:00.0000000"
+        "end":  "2026-10-04T12:30:00.0000000"
     },
     {
-        "start":  "2026-10-02T17:00:00.0000000",
+        "start":  "2026-10-04T12:30:00.0000000",
+        "title":  "MotoGP Racing",
+        "desc":  "From Mobility Resort Motegi in Totigi, Japan.",
+        "end":  "2026-10-04T12:50:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T12:50:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League D, Group 2.",
+        "end":  "2026-10-04T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T15:00:00.0000000",
+        "title":  "Football\u0027s Greatest Stage",
+        "desc":  "Beyond the exciting football which was presented there, the 2022 World Cup in Qatar will remain in memories as having marked a challenge launched by the African teams to the domination of European and South American football.",
+        "end":  "2026-10-04T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T15:30:00.0000000",
+        "title":  "Football\u0027s Greatest Stage",
+        "desc":  "Platini and Maldini never won the World Cup but their brilliance and legacy still shine on football\u0027s greatest stage.",
+        "end":  "2026-10-04T15:50:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T15:50:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League B, Group 3.",
+        "end":  "2026-10-04T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T18:00:00.0000000",
+        "title":  "Football\u0027s Greatest Stage",
+        "desc":  "Captaining Argentina to glory at the 2022 World Cup cemented Lionel Messi\u0027s status as the greatest footballer in history.",
+        "end":  "2026-10-04T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T18:30:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League A, Group 4.",
+        "end":  "2026-10-04T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T20:30:00.0000000",
         "title":  "Live: Horse Racing",
         "desc":  "Following all the action from the world of horse racing.",
-        "end":  "2026-10-02T21:30:00.0000000"
+        "end":  "2026-10-04T21:50:00.0000000"
     },
     {
-        "start":  "2026-10-02T21:30:00.0000000",
-        "title":  "The Joel Klatt Show: A College Football Podcast",
-        "desc":  "Joel Klatt breaks down the current topics in the world of college football.",
-        "end":  "2026-10-02T21:50:00.0000000"
-    },
-    {
-        "start":  "2026-10-02T21:50:00.0000000",
+        "start":  "2026-10-04T21:50:00.0000000",
         "title":  "Live: CONCACAF Nations League Soccer",
-        "desc":  "From Dr.Ir. Franklin Essedstadion in Suriname.",
-        "end":  "2026-10-02T23:50:00.0000000"
+        "desc":  "From Hasely Crawford Stadium in Port of Spain, Trinidad and Tobago.",
+        "end":  "2026-10-04T23:50:00.0000000"
     },
     {
-        "start":  "2026-10-02T23:50:00.0000000",
+        "start":  "2026-10-04T23:50:00.0000000",
         "title":  "Live: CONCACAF Nations League Soccer",
-        "desc":  "From Stade Pierre Alliker in Fort-de-France, Martinique.",
-        "end":  "2026-10-03T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T01:50:00.0000000",
-        "title":  "Live: CONCACAF Nations League Soccer",
-        "desc":  "From Cuscatlan Monumental Stadium in San Salvador, San Salvador, El Salvador.",
-        "end":  "2026-10-03T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T04:00:00.0000000",
-        "title":  "NHRA Pro Mod Series",
-        "desc":  "From Summit Racing Equipment Motorsports Park in Norwalk, Ohio.",
-        "end":  "2026-10-03T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T04:30:00.0000000",
-        "title":  "NHRA Pro Mod Series",
-        "desc":  "Highlights and features from the drag-racing series.",
-        "end":  "2026-10-03T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T05:00:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "From Mars Stadium in Ballarat, Victoria, Australia.",
-        "end":  "2026-10-03T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T07:00:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "From Brighton Homes Arena in Queensland, Australia.",
-        "end":  "2026-10-03T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T09:00:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "From Alberton Oval in Adelaide, South Australia, Australia.",
-        "end":  "2026-10-03T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T11:00:00.0000000",
-        "title":  "SPEED With Harvick \u0026 Buxton",
-        "desc":  "Kevin Harvick and Will Buxton celebrate the world of motorsports.",
-        "end":  "2026-10-03T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T11:30:00.0000000",
-        "title":  "Kevin Harvick\u0027s Happy Hour",
-        "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
-        "end":  "2026-10-03T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T12:00:00.0000000",
-        "title":  "MotoGP Racing",
-        "desc":  "From Mobility Resort Motegi in Totigi, Japan.",
-        "end":  "2026-10-03T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T12:30:00.0000000",
-        "title":  "NHRA Drag Racing",
-        "desc":  "From World Wide Technology Raceway at Gateway in Madison, Ill.",
-        "end":  "2026-10-03T13:50:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T13:50:00.0000000",
-        "title":  "Live: UEFA Nations League Soccer",
-        "desc":  "League C, Group 1.",
-        "end":  "2026-10-03T15:50:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T15:50:00.0000000",
-        "title":  "Live: UEFA Nations League Soccer",
-        "desc":  "League C, Group 4.",
-        "end":  "2026-10-03T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T18:00:00.0000000",
-        "title":  "Football\u0027s Greatest Stage",
-        "desc":  "Sergio Ramos leads Spain for a generation, Australia stuns in 2006, and Peter Shilton faces glory and heartbreak.",
-        "end":  "2026-10-03T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T18:30:00.0000000",
-        "title":  "Live: UEFA Nations League Soccer",
-        "desc":  "League A, Group 3.",
-        "end":  "2026-10-03T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T20:30:00.0000000",
-        "title":  "Live: Horse Racing",
-        "desc":  "The best racehorses square off in the premiere races from across the country.",
-        "end":  "2026-10-03T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T22:00:00.0000000",
-        "title":  "UEFA Nations League Soccer",
-        "desc":  "League A, Group 1.",
-        "end":  "2026-10-04T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-04T00:00:00.0000000",
-        "title":  "UEFA Nations League Soccer",
-        "desc":  "League A, Group 3.",
-        "end":  "2026-10-05T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T01:50:00.0000000",
-        "title":  "Live: CONCACAF Nations League Soccer",
-        "desc":  "From Cuscatlan Monumental Stadium in San Salvador, San Salvador, El Salvador.",
-        "end":  "2026-10-03T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T04:00:00.0000000",
-        "title":  "NHRA Pro Mod Series",
-        "desc":  "From Summit Racing Equipment Motorsports Park in Norwalk, Ohio.",
-        "end":  "2026-10-03T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T04:30:00.0000000",
-        "title":  "NHRA Pro Mod Series",
-        "desc":  "Highlights and features from the drag-racing series.",
-        "end":  "2026-10-03T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T05:00:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "From Mars Stadium in Ballarat, Victoria, Australia.",
-        "end":  "2026-10-03T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T07:00:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "From Brighton Homes Arena in Queensland, Australia.",
-        "end":  "2026-10-03T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T09:00:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "From Alberton Oval in Adelaide, South Australia, Australia.",
-        "end":  "2026-10-03T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T11:00:00.0000000",
-        "title":  "SPEED With Harvick \u0026 Buxton",
-        "desc":  "Kevin Harvick and Will Buxton celebrate the world of motorsports.",
-        "end":  "2026-10-03T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T11:30:00.0000000",
-        "title":  "Kevin Harvick\u0027s Happy Hour",
-        "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
-        "end":  "2026-10-03T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T12:00:00.0000000",
-        "title":  "MotoGP Racing",
-        "desc":  "From Mobility Resort Motegi in Totigi, Japan.",
-        "end":  "2026-10-03T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T12:30:00.0000000",
-        "title":  "NHRA Drag Racing",
-        "desc":  "From World Wide Technology Raceway at Gateway in Madison, Ill.",
-        "end":  "2026-10-03T13:50:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T13:50:00.0000000",
-        "title":  "Live: UEFA Nations League Soccer",
-        "desc":  "League C, Group 1.",
-        "end":  "2026-10-03T15:50:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T15:50:00.0000000",
-        "title":  "Live: UEFA Nations League Soccer",
-        "desc":  "League C, Group 4.",
-        "end":  "2026-10-03T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T18:00:00.0000000",
-        "title":  "Football\u0027s Greatest Stage",
-        "desc":  "Sergio Ramos leads Spain for a generation, Australia stuns in 2006, and Peter Shilton faces glory and heartbreak.",
-        "end":  "2026-10-03T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T18:30:00.0000000",
-        "title":  "Live: UEFA Nations League Soccer",
-        "desc":  "League A, Group 3.",
-        "end":  "2026-10-03T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T20:30:00.0000000",
-        "title":  "Live: Horse Racing",
-        "desc":  "The best racehorses square off in the premiere races from across the country.",
-        "end":  "2026-10-03T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T22:00:00.0000000",
-        "title":  "UEFA Nations League Soccer",
-        "desc":  "League A, Group 1.",
-        "end":  "2026-10-04T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-04T00:00:00.0000000",
-        "title":  "UEFA Nations League Soccer",
-        "desc":  "League A, Group 3.",
-        "end":  "2026-10-04T01:50:00.0000000"
-    },
-    {
-        "start":  "2026-10-04T01:50:00.0000000",
-        "title":  "Live: CONCACAF Nations League Soccer",
-        "desc":  "From FFB Field in Belize.",
-        "end":  "2026-10-04T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-04T04:00:00.0000000",
-        "title":  "MotoGP Racing",
-        "desc":  "From Mobility Resort Motegi in Totigi, Japan.",
-        "end":  "2026-10-04T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-04T04:30:00.0000000",
-        "title":  "Live: MotoGP Racing",
-        "desc":  "From Mobility Resort Motegi in Totigi, Japan.",
+        "desc":  "From Ricardo Saprissa Ayma Stadium in San Juan de Tibas, San Jose, Costa Rica.",
         "end":  "2026-10-05T00:00:00.0000000"
     },
     {
@@ -345,6 +237,126 @@
         "start":  "2026-10-04T04:30:00.0000000",
         "title":  "Live: MotoGP Racing",
         "desc":  "From Mobility Resort Motegi in Totigi, Japan.",
+        "end":  "2026-10-04T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T06:00:00.0000000",
+        "title":  "Live: AFL Women\u0027s Premiership Football",
+        "desc":  "From Leederville Oval in Leederville, Western Australia, Australia.",
+        "end":  "2026-10-04T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T08:00:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "Wild World\u0027s 3rd stop takes the audience back to the north to the spectacular Canadian province of British Columbia for the Cloverdale Rodeo and Country Fair.",
+        "end":  "2026-10-04T08:28:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T08:28:00.0000000",
+        "title":  "Live: NRL Rugby",
+        "desc":  "Grand Final.",
+        "end":  "2026-10-04T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T10:30:00.0000000",
+        "title":  "The Gronk \u0026 Jules Show",
+        "desc":  "Former teammates, best friends and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
+        "end":  "2026-10-04T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T11:00:00.0000000",
+        "title":  "NHRA Sportsman Series",
+        "desc":  "Nine Lucas Oil Series classes compete for the drive to the championship at over 60 events nationally to culminate in a world championship in Pomona, Calif.",
+        "end":  "2026-10-04T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T12:00:00.0000000",
+        "title":  "NHRA Pro Mod Series",
+        "desc":  "Highlights and features from the drag-racing series.",
+        "end":  "2026-10-04T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T12:30:00.0000000",
+        "title":  "MotoGP Racing",
+        "desc":  "From Mobility Resort Motegi in Totigi, Japan.",
+        "end":  "2026-10-04T12:50:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T12:50:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League D, Group 2.",
+        "end":  "2026-10-04T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T15:00:00.0000000",
+        "title":  "Football\u0027s Greatest Stage",
+        "desc":  "Beyond the exciting football which was presented there, the 2022 World Cup in Qatar will remain in memories as having marked a challenge launched by the African teams to the domination of European and South American football.",
+        "end":  "2026-10-04T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T15:30:00.0000000",
+        "title":  "Football\u0027s Greatest Stage",
+        "desc":  "Platini and Maldini never won the World Cup but their brilliance and legacy still shine on football\u0027s greatest stage.",
+        "end":  "2026-10-04T15:50:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T15:50:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League B, Group 3.",
+        "end":  "2026-10-04T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T18:00:00.0000000",
+        "title":  "Football\u0027s Greatest Stage",
+        "desc":  "Captaining Argentina to glory at the 2022 World Cup cemented Lionel Messi\u0027s status as the greatest footballer in history.",
+        "end":  "2026-10-04T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T18:30:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League A, Group 4.",
+        "end":  "2026-10-04T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T20:30:00.0000000",
+        "title":  "Live: Horse Racing",
+        "desc":  "Following all the action from the world of horse racing.",
+        "end":  "2026-10-04T21:50:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T21:50:00.0000000",
+        "title":  "Live: CONCACAF Nations League Soccer",
+        "desc":  "From Hasely Crawford Stadium in Port of Spain, Trinidad and Tobago.",
+        "end":  "2026-10-04T23:50:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T23:50:00.0000000",
+        "title":  "Live: CONCACAF Nations League Soccer",
+        "desc":  "From Ricardo Saprissa Ayma Stadium in San Juan de Tibas, San Jose, Costa Rica.",
         "end":  "2026-10-05T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T01:50:00.0000000",
+        "title":  "Live: CONCACAF Nations League Soccer",
+        "desc":  "From Estadio Nacional de FÃºtbol in Managua, Nicaragua.",
+        "end":  "2026-10-05T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T04:00:00.0000000",
+        "title":  "SpeedFreaks",
+        "desc":  "Go in-depth with the big names in racing, showcasing a side of these athletes rarely seen with a unique interview style and flair combining elements of commentary, entertainment and lifestyle.",
+        "end":  "2026-10-06T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T01:50:00.0000000",
+        "title":  "Live: CONCACAF Nations League Soccer",
+        "desc":  "From Estadio Nacional de FÃºtbol in Managua, Nicaragua.",
+        "end":  "2026-10-05T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T04:00:00.0000000",
+        "title":  "SpeedFreaks",
+        "desc":  "Go in-depth with the big names in racing, showcasing a side of these athletes rarely seen with a unique interview style and flair combining elements of commentary, entertainment and lifestyle.",
+        "end":  "2026-10-06T00:00:00.0000000"
     }
 ]

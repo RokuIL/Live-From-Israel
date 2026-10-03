@@ -1,278 +1,182 @@
 [
     {
-        "start":  "2026-10-02T00:00:00.0000000",
+        "start":  "2026-10-03T00:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "From Huntington Bank Field in Cleveland.",
+        "end":  "2026-10-03T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-03T03:00:00.0000000",
+        "title":  "The Insiders",
+        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+        "end":  "2026-10-03T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-03T04:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+        "end":  "2026-10-03T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-03T05:00:00.0000000",
         "title":  "NFL Football",
         "desc":  "Football action from around the National Football League.",
-        "end":  "2026-10-02T03:00:00.0000000"
+        "end":  "2026-10-03T08:00:00.0000000"
     },
     {
-        "start":  "2026-10-02T03:00:00.0000000",
-        "title":  "NFL Mic\u0027d Up",
-        "desc":  "The most memorable trash talk moments captured by NFL Films.",
-        "end":  "2026-10-02T03:30:00.0000000"
+        "start":  "2026-10-03T08:00:00.0000000",
+        "title":  "The Insiders",
+        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+        "end":  "2026-10-03T09:00:00.0000000"
     },
     {
-        "start":  "2026-10-02T03:30:00.0000000",
+        "start":  "2026-10-03T09:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+        "end":  "2026-10-03T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-03T10:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "Football action from around the National Football League.",
+        "end":  "2026-10-03T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-03T13:00:00.0000000",
+        "title":  "The Timeline",
+        "desc":  "The recovery and grand re-opening of the New Orleans Superdome post Hurricane Katrina and Steve Gleason\u0027s blocked punt that inspired a city.",
+        "end":  "2026-10-03T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-03T14:00:00.0000000",
+        "title":  "NFL\u0027s Greatest Games",
+        "desc":  "Recounting the NFL\u0027s most memorable games.",
+        "end":  "2026-10-03T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-03T15:00:00.0000000",
+        "title":  "NFL Matchup",
+        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
+        "end":  "2026-10-03T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-03T15:30:00.0000000",
+        "title":  "The Breakdown With Peyton and Kuechly",
+        "desc":  "Pro Football Hall of Famers Peyton Manning and Luke Kuechly go inside the film room to preview some of the biggest upcoming Monday Night Football games and matchups of the NFL season.",
+        "end":  "2026-10-03T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-03T16:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "Football action from around the National Football League.",
+        "end":  "2026-10-03T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-03T19:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "Football action from around the National Football League.",
+        "end":  "2026-10-03T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-03T22:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "From Dec. 14, 2025.",
+        "end":  "2026-10-04T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T00:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "From Jan. 19, 2025.",
+        "end":  "2026-10-04T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T03:00:00.0000000",
+        "title":  "NFL Network",
+        "desc":  "",
+        "end":  "2026-10-04T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T03:30:00.0000000",
+        "title":  "NFL Matchup",
+        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
+        "end":  "2026-10-04T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T04:00:00.0000000",
+        "title":  "The Timeline",
+        "desc":  "The recovery and grand re-opening of the New Orleans Superdome post Hurricane Katrina and Steve Gleason\u0027s blocked punt that inspired a city.",
+        "end":  "2026-10-04T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T05:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "Football action from around the National Football League.",
+        "end":  "2026-10-04T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T07:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "Football action from around the National Football League.",
+        "end":  "2026-10-04T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T10:00:00.0000000",
+        "title":  "The Breakdown With Peyton and Kuechly",
+        "desc":  "Pro Football Hall of Famers Peyton Manning and Luke Kuechly go inside the film room to preview some of the biggest upcoming Monday Night Football games and matchups of the NFL season.",
+        "end":  "2026-10-04T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T10:30:00.0000000",
+        "title":  "NFL Matchup",
+        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
+        "end":  "2026-10-04T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T11:00:00.0000000",
+        "title":  "Live: NFL Gameday Kickoff Pre-Game",
+        "desc":  "",
+        "end":  "2026-10-04T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T12:30:00.0000000",
+        "title":  "Live: NFL Gameday Kickoff Showcase",
+        "desc":  "",
+        "end":  "2026-10-04T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T13:00:00.0000000",
+        "title":  "Live: NFL Gameday Kickoff Pre-Kick",
+        "desc":  "",
+        "end":  "2026-10-04T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T13:30:00.0000000",
+        "title":  "Live: NFL Football",
+        "desc":  "The Washington Commanders (1-2) host the Indianapolis Colts (1-2) at Tottenham Hotspur Stadium for an NFL Week 4 London matchup. These teams haven\u0027t met since a 17-16 Washington win at Indianapolis in October of 2022.",
+        "end":  "2026-10-04T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T16:30:00.0000000",
         "title":  "Live: NFL GameDay Final",
         "desc":  "Chris Rose and crew wrap up the day\u0027s NFL action with all the highlights and reactions, plus postgame interviews with the day\u0027s best performers.",
-        "end":  "2026-10-02T04:30:00.0000000"
+        "end":  "2026-10-04T17:00:00.0000000"
     },
     {
-        "start":  "2026-10-02T04:30:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Browns host the Steelers in AFC North play at Huntington Bank Field. These divisional rivals meet in Cleveland, where the Browns beat Pittsburgh 13-6 last December. The Browns have won three of the last five meetings between the two sides.",
-        "end":  "2026-10-02T07:00:00.0000000"
+        "start":  "2026-10-04T17:00:00.0000000",
+        "title":  "NFL GameDay Live",
+        "desc":  "Expanding on NFL Network\u0027s \"GameDay\" programming on Sundays during football season, \"GameDay Live\" updates viewers on what\u0027s happening throughout the league. Beginning with kickoff of early-afternoon events and continuing throughout late-afternoon contests, the studio show offers nearly immediate highlights of scoring and other notable plays. But the program is about more than the action; it inter",
+        "end":  "2026-10-04T20:30:00.0000000"
     },
     {
-        "start":  "2026-10-02T07:00:00.0000000",
-        "title":  "NFL GameDay Final",
-        "desc":  "Chris Rose and crew wrap up the day\u0027s NFL action with all the highlights and reactions, plus postgame interviews with the day\u0027s best performers.",
-        "end":  "2026-10-02T08:00:00.0000000"
+        "start":  "2026-10-04T20:30:00.0000000",
+        "title":  "NFL GameDay Live",
+        "desc":  "Expanding on NFL Network\u0027s \"GameDay\" programming on Sundays during football season, \"GameDay Live\" updates viewers on what\u0027s happening throughout the league. Beginning with kickoff of early-afternoon events and continuing throughout late-afternoon contests, the studio show offers nearly immediate highlights of scoring and other notable plays. But the program is about more than the action; it inter",
+        "end":  "2026-10-04T23:30:00.0000000"
     },
     {
-        "start":  "2026-10-02T08:00:00.0000000",
-        "title":  "NFL GameDay Final",
-        "desc":  "Chris Rose and crew wrap up the day\u0027s NFL action with all the highlights and reactions, plus postgame interviews with the day\u0027s best performers.",
-        "end":  "2026-10-02T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-02T09:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "From Huntington Bank Field in Cleveland.",
-        "end":  "2026-10-02T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-02T12:00:00.0000000",
-        "title":  "Live: Good Morning Football",
-        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
-        "end":  "2026-10-02T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-02T14:00:00.0000000",
-        "title":  "Good Morning Football",
-        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
-        "end":  "2026-10-02T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-02T16:00:00.0000000",
-        "title":  "Live: NFL Total Access",
-        "desc":  "The NFL Network\u0027s flagship program airs six nights a week, churning out the day\u0027s top headlines and much more covering all 32 teams. The show also provides fans with exclusive footage from inside team facilities and interviews with players and coaches. Joining hosts Dan Hellie and Amber Theoharis with analysis and insight are a deep roster of NFL Network personnel plus other former players as gues",
-        "end":  "2026-10-02T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-02T18:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Cleveland Browns host the Pittsburgh Steelers at Huntington Bank Field. Cleveland won their last meeting, 13-6, in December, and enters Week 4 having won two of three. Pittsburgh arrives as the AFC North leader, after a 30-27 win over Cincinnati.",
-        "end":  "2026-10-02T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-02T21:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-10-02T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-02T22:00:00.0000000",
-        "title":  "NFL Live",
-        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
-        "end":  "2026-10-02T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-02T23:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-10-03T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T00:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "From Huntington Bank Field in Cleveland.",
-        "end":  "2026-10-03T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T03:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-10-03T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T04:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-10-03T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T05:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-10-03T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T08:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-10-03T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T09:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-10-03T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T10:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-10-03T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T13:00:00.0000000",
-        "title":  "The Timeline",
-        "desc":  "The recovery and grand re-opening of the New Orleans Superdome post Hurricane Katrina and Steve Gleason\u0027s blocked punt that inspired a city.",
-        "end":  "2026-10-03T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T14:00:00.0000000",
-        "title":  "NFL\u0027s Greatest Games",
-        "desc":  "Recounting the NFL\u0027s most memorable games.",
-        "end":  "2026-10-03T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T15:00:00.0000000",
-        "title":  "NFL Matchup",
-        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
-        "end":  "2026-10-03T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T15:30:00.0000000",
-        "title":  "The Breakdown With Peyton and Kuechly",
-        "desc":  "Pro Football Hall of Famers Peyton Manning and Luke Kuechly go inside the film room to preview some of the biggest upcoming Monday Night Football games and matchups of the NFL season.",
-        "end":  "2026-10-03T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T16:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-10-03T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T19:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-10-03T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T22:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "From Dec. 14, 2025.",
-        "end":  "2026-10-04T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T00:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "From Huntington Bank Field in Cleveland.",
-        "end":  "2026-10-03T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T03:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-10-03T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T04:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-10-03T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T05:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-10-03T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T08:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-10-03T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T09:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-10-03T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T10:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-10-03T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T13:00:00.0000000",
-        "title":  "The Timeline",
-        "desc":  "The recovery and grand re-opening of the New Orleans Superdome post Hurricane Katrina and Steve Gleason\u0027s blocked punt that inspired a city.",
-        "end":  "2026-10-03T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T14:00:00.0000000",
-        "title":  "NFL\u0027s Greatest Games",
-        "desc":  "Recounting the NFL\u0027s most memorable games.",
-        "end":  "2026-10-03T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T15:00:00.0000000",
-        "title":  "NFL Matchup",
-        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
-        "end":  "2026-10-03T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T15:30:00.0000000",
-        "title":  "The Breakdown With Peyton and Kuechly",
-        "desc":  "Pro Football Hall of Famers Peyton Manning and Luke Kuechly go inside the film room to preview some of the biggest upcoming Monday Night Football games and matchups of the NFL season.",
-        "end":  "2026-10-03T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T16:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-10-03T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T19:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-10-03T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-03T22:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "From Dec. 14, 2025.",
-        "end":  "2026-10-04T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-04T00:30:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "From Jan. 19, 2025.",
-        "end":  "2026-10-04T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-04T03:00:00.0000000",
-        "title":  "NFL Network",
-        "desc":  "",
-        "end":  "2026-10-04T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-04T03:30:00.0000000",
-        "title":  "NFL Matchup",
-        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
-        "end":  "2026-10-04T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-04T04:00:00.0000000",
-        "title":  "The Timeline",
-        "desc":  "The recovery and grand re-opening of the New Orleans Superdome post Hurricane Katrina and Steve Gleason\u0027s blocked punt that inspired a city.",
+        "start":  "2026-10-04T23:30:00.0000000",
+        "title":  "Live: NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
         "end":  "2026-10-05T00:00:00.0000000"
     },
     {
@@ -297,6 +201,138 @@
         "start":  "2026-10-04T04:00:00.0000000",
         "title":  "The Timeline",
         "desc":  "The recovery and grand re-opening of the New Orleans Superdome post Hurricane Katrina and Steve Gleason\u0027s blocked punt that inspired a city.",
+        "end":  "2026-10-04T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T05:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "Football action from around the National Football League.",
+        "end":  "2026-10-04T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T07:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "Football action from around the National Football League.",
+        "end":  "2026-10-04T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T10:00:00.0000000",
+        "title":  "The Breakdown With Peyton and Kuechly",
+        "desc":  "Pro Football Hall of Famers Peyton Manning and Luke Kuechly go inside the film room to preview some of the biggest upcoming Monday Night Football games and matchups of the NFL season.",
+        "end":  "2026-10-04T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T10:30:00.0000000",
+        "title":  "NFL Matchup",
+        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
+        "end":  "2026-10-04T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T11:00:00.0000000",
+        "title":  "Live: NFL Gameday Kickoff Pre-Game",
+        "desc":  "",
+        "end":  "2026-10-04T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T12:30:00.0000000",
+        "title":  "Live: NFL Gameday Kickoff Showcase",
+        "desc":  "",
+        "end":  "2026-10-04T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T13:00:00.0000000",
+        "title":  "Live: NFL Gameday Kickoff Pre-Kick",
+        "desc":  "",
+        "end":  "2026-10-04T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T13:30:00.0000000",
+        "title":  "Live: NFL Football",
+        "desc":  "The Washington Commanders (1-2) host the Indianapolis Colts (1-2) at Tottenham Hotspur Stadium for an NFL Week 4 London matchup. These teams haven\u0027t met since a 17-16 Washington win at Indianapolis in October of 2022.",
+        "end":  "2026-10-04T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T16:30:00.0000000",
+        "title":  "Live: NFL GameDay Final",
+        "desc":  "Chris Rose and crew wrap up the day\u0027s NFL action with all the highlights and reactions, plus postgame interviews with the day\u0027s best performers.",
+        "end":  "2026-10-04T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T17:00:00.0000000",
+        "title":  "NFL GameDay Live",
+        "desc":  "Expanding on NFL Network\u0027s \"GameDay\" programming on Sundays during football season, \"GameDay Live\" updates viewers on what\u0027s happening throughout the league. Beginning with kickoff of early-afternoon events and continuing throughout late-afternoon contests, the studio show offers nearly immediate highlights of scoring and other notable plays. But the program is about more than the action; it inter",
+        "end":  "2026-10-04T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T20:30:00.0000000",
+        "title":  "NFL GameDay Live",
+        "desc":  "Expanding on NFL Network\u0027s \"GameDay\" programming on Sundays during football season, \"GameDay Live\" updates viewers on what\u0027s happening throughout the league. Beginning with kickoff of early-afternoon events and continuing throughout late-afternoon contests, the studio show offers nearly immediate highlights of scoring and other notable plays. But the program is about more than the action; it inter",
+        "end":  "2026-10-04T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-04T23:30:00.0000000",
+        "title":  "Live: NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
         "end":  "2026-10-05T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T00:30:00.0000000",
+        "title":  "NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
+        "end":  "2026-10-05T01:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T01:30:00.0000000",
+        "title":  "NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
+        "end":  "2026-10-05T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T02:30:00.0000000",
+        "title":  "NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
+        "end":  "2026-10-05T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T03:30:00.0000000",
+        "title":  "Live: NFL GameDay Final",
+        "desc":  "Chris Rose and crew wrap up the day\u0027s NFL action with all the highlights and reactions, plus postgame interviews with the day\u0027s best performers.",
+        "end":  "2026-10-05T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T04:30:00.0000000",
+        "title":  "NFL GameDay Final",
+        "desc":  "Chris Rose and crew wrap up the day\u0027s NFL action with all the highlights and reactions, plus postgame interviews with the day\u0027s best performers.",
+        "end":  "2026-10-06T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T00:30:00.0000000",
+        "title":  "NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
+        "end":  "2026-10-05T01:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T01:30:00.0000000",
+        "title":  "NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
+        "end":  "2026-10-05T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T02:30:00.0000000",
+        "title":  "NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
+        "end":  "2026-10-05T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T03:30:00.0000000",
+        "title":  "Live: NFL GameDay Final",
+        "desc":  "Chris Rose and crew wrap up the day\u0027s NFL action with all the highlights and reactions, plus postgame interviews with the day\u0027s best performers.",
+        "end":  "2026-10-05T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T04:30:00.0000000",
+        "title":  "NFL GameDay Final",
+        "desc":  "Chris Rose and crew wrap up the day\u0027s NFL action with all the highlights and reactions, plus postgame interviews with the day\u0027s best performers.",
+        "end":  "2026-10-06T00:00:00.0000000"
     }
 ]
