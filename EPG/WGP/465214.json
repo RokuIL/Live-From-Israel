@@ -1,332 +1,200 @@
 [
     {
-        "start":  "2026-10-04T01:00:00.0000000",
+        "start":  "2026-10-05T00:00:00.0000000",
+        "title":  "Women\u0027s Italian Serie A Soccer",
+        "desc":  "From Tre Fontane Stadium in Rome.",
+        "end":  "2026-10-05T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T02:00:00.0000000",
         "title":  "Football Nation",
-        "desc":  "With a surprisingly long association with football and the preeminent women\u0027s team, the USA is a bona fide football nation.",
-        "end":  "2026-10-04T01:30:00.0000000"
+        "desc":  "Italy is one of the most impassioned and significant of footballing nations. The four-time World Cup winners are renowned for their defensive nous and passion, the product of Serie A, one of the game\u0027s most cut-throat leagues.",
+        "end":  "2026-10-05T02:30:00.0000000"
     },
     {
-        "start":  "2026-10-04T01:30:00.0000000",
-        "title":  "Football\u0027s Greatest Stage",
-        "desc":  "EusÃ©bio embodied Portuguese football in the decades before Cristiano Ronaldo. He is one of the most potent goalscorers in World Cup history.",
-        "end":  "2026-10-04T02:00:00.0000000"
+        "start":  "2026-10-05T02:30:00.0000000",
+        "title":  "Football Nation",
+        "desc":  "The most successful and powerful confederation, UEFA maintains its standing through the reach of its club competition, the UEFA Champions League.",
+        "end":  "2026-10-05T03:00:00.0000000"
     },
     {
-        "start":  "2026-10-04T02:00:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "Coverage of women\u0027s Australian rules football.",
-        "end":  "2026-10-04T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-04T04:00:00.0000000",
+        "start":  "2026-10-05T03:00:00.0000000",
         "title":  "UEFA Nations League Matchnight Highlights",
         "desc":  "Top moments and highlights from UEFA National League matches.",
-        "end":  "2026-10-04T04:58:00.0000000"
+        "end":  "2026-10-05T04:00:00.0000000"
     },
     {
-        "start":  "2026-10-04T04:58:00.0000000",
-        "title":  "Live: NRL Women\u0027s Premiership",
-        "desc":  "From Accor Stadium in Sydney.",
-        "end":  "2026-10-04T06:30:00.0000000"
+        "start":  "2026-10-05T04:00:00.0000000",
+        "title":  "CONCACAF Nations League Soccer",
+        "desc":  "League C.",
+        "end":  "2026-10-05T06:00:00.0000000"
     },
     {
-        "start":  "2026-10-04T06:30:00.0000000",
-        "title":  "UEFA Nations League Matchweek Highlights",
-        "desc":  "Highlights from UEFA Nations League matchday.",
-        "end":  "2026-10-04T07:30:00.0000000"
+        "start":  "2026-10-05T06:00:00.0000000",
+        "title":  "CONCACAF Nations League Soccer",
+        "desc":  "League C.",
+        "end":  "2026-10-05T08:00:00.0000000"
     },
     {
-        "start":  "2026-10-04T07:30:00.0000000",
+        "start":  "2026-10-05T08:00:00.0000000",
         "title":  "UEFA Nations League Soccer",
-        "desc":  "League A, Group 3.",
-        "end":  "2026-10-04T09:30:00.0000000"
+        "desc":  "League A, Group 4.",
+        "end":  "2026-10-05T10:00:00.0000000"
     },
     {
-        "start":  "2026-10-04T09:30:00.0000000",
+        "start":  "2026-10-05T10:00:00.0000000",
+        "title":  "The Rover of Tobruk",
+        "desc":  "Bob Quinn, a former AFL player for Port Adelaide, was a recipient of the Military Medal for his heroic actions in World War II in Tobruk.",
+        "end":  "2026-10-05T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T10:30:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "From Victoria Park in Abbotsford, Victoria, Australia.",
+        "end":  "2026-10-05T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T12:30:00.0000000",
+        "title":  "Canadian Premier League Soccer",
+        "desc":  "From York Lions Stadium in Toronto.",
+        "end":  "2026-10-05T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T14:30:00.0000000",
+        "title":  "Canadian Premier League Soccer",
+        "desc":  "From Centre Sportif Bois-de-Boulogne in Laval, Quebec, Canada.",
+        "end":  "2026-10-05T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T16:30:00.0000000",
+        "title":  "Men\u0027s International Soccer Friendlies",
+        "desc":  "From Saputo Stadium in Montreal-Est, QuÃ©bec.",
+        "end":  "2026-10-05T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T18:30:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League B, Group 2.",
+        "end":  "2026-10-05T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T20:30:00.0000000",
+        "title":  "Football Nation",
+        "desc":  "Italy is one of the most impassioned and significant of footballing nations. The four-time World Cup winners are renowned for their defensive nous and passion, the product of Serie A, one of the game\u0027s most cut-throat leagues.",
+        "end":  "2026-10-05T20:50:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T20:50:00.0000000",
+        "title":  "Live: CONCACAF Nations League Soccer",
+        "desc":  "From Hasely Crawford Stadium in Port of Spain, Trinidad and Tobago.",
+        "end":  "2026-10-05T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T23:00:00.0000000",
+        "title":  "CPL Week in Review",
+        "desc":  "Highlights of the week\u0027s CPL action.",
+        "end":  "2026-10-05T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T23:30:00.0000000",
+        "title":  "Football\u0027s Greatest Stage",
+        "desc":  "Platini and Maldini never won the World Cup but their brilliance and legacy still shine on football\u0027s greatest stage.",
+        "end":  "2026-10-05T23:50:00.0000000"
+    },
+    {
+        "start":  "2026-10-05T23:50:00.0000000",
+        "title":  "Live: CONCACAF Nations League Soccer",
+        "desc":  "International soccer competition.",
+        "end":  "2026-10-06T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T02:00:00.0000000",
+        "title":  "Football Nation",
+        "desc":  "From John Charles and Ian Rush to Ryan Giggs and Gareth Bale, Wales has produced some of the greatest individuals in football history.",
+        "end":  "2026-10-06T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T02:30:00.0000000",
+        "title":  "Football Nation",
+        "desc":  "There is more to Sweden as a football nation than simply Zlatan. During the 1950s Sweden emerged as one of the great footballing nations and almost won the 1958 World Cup.",
+        "end":  "2026-10-06T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T03:00:00.0000000",
         "title":  "UEFA Nations League Matchnight Highlights",
         "desc":  "Top moments and highlights from UEFA National League matches.",
-        "end":  "2026-10-04T10:25:00.0000000"
+        "end":  "2026-10-06T04:00:00.0000000"
     },
     {
-        "start":  "2026-10-04T10:25:00.0000000",
-        "title":  "Live: Women\u0027s Italian Serie A Soccer",
-        "desc":  "",
-        "end":  "2026-10-04T12:30:00.0000000"
+        "start":  "2026-10-06T04:00:00.0000000",
+        "title":  "CONCACAF Nations League Soccer",
+        "desc":  "From Manuel Felipe Carrera Stadium in Guatemala City.",
+        "end":  "2026-10-06T04:30:00.0000000"
     },
     {
-        "start":  "2026-10-04T12:30:00.0000000",
+        "start":  "2026-10-06T04:30:00.0000000",
+        "title":  "CONCACAF Nations League Soccer",
+        "desc":  "From Manuel Felipe Carrera Stadium in Guatemala City.",
+        "end":  "2026-10-06T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T06:30:00.0000000",
+        "title":  "UEFA Nations League Soccer",
+        "desc":  "League A, Group 1.",
+        "end":  "2026-10-06T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T08:30:00.0000000",
+        "title":  "CONCACAF Nations League Soccer",
+        "desc":  "From Estadio Nacional Chelato UclÃ©s in Honduras.",
+        "end":  "2026-10-06T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T10:30:00.0000000",
+        "title":  "CONCACAF Nations League Soccer",
+        "desc":  "From Stade Pierre Alliker in Fort-de-France, Martinique.",
+        "end":  "2026-10-06T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T12:30:00.0000000",
         "title":  "Canadian Premier League Soccer",
         "desc":  "From Hamilton Stadium in Hamilton, Ontario.",
-        "end":  "2026-10-04T14:30:00.0000000"
+        "end":  "2026-10-06T14:30:00.0000000"
     },
     {
-        "start":  "2026-10-04T14:30:00.0000000",
-        "title":  "Men\u0027s International Soccer Friendlies",
-        "desc":  "From Saputo Stadium in Montreal-Est, QuÃ©bec.",
-        "end":  "2026-10-04T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-04T16:30:00.0000000",
+        "start":  "2026-10-06T14:30:00.0000000",
         "title":  "NRL Rugby",
         "desc":  "Grand Final.",
-        "end":  "2026-10-04T18:30:00.0000000"
+        "end":  "2026-10-06T16:30:00.0000000"
     },
     {
-        "start":  "2026-10-04T18:30:00.0000000",
+        "start":  "2026-10-06T16:30:00.0000000",
+        "title":  "Rugby Super League",
+        "desc":  "Final.",
+        "end":  "2026-10-06T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T18:30:00.0000000",
         "title":  "Live: UEFA Nations League Soccer",
-        "desc":  "League A, Group 2.",
-        "end":  "2026-10-04T20:30:00.0000000"
+        "desc":  "League B, Group 1.",
+        "end":  "2026-10-06T20:30:00.0000000"
     },
     {
-        "start":  "2026-10-04T20:30:00.0000000",
-        "title":  "NRL Women\u0027s Premiership",
-        "desc":  "From Accor Stadium in Sydney.",
-        "end":  "2026-10-04T21:50:00.0000000"
-    },
-    {
-        "start":  "2026-10-04T21:50:00.0000000",
-        "title":  "Live: CONCACAF Nations League Soccer",
-        "desc":  "From MayagÃ¼ez Athletics Stadium in Puerto Rico.",
-        "end":  "2026-10-05T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T00:00:00.0000000",
-        "title":  "Women\u0027s Italian Serie A Soccer",
-        "desc":  "From Tre Fontane Stadium in Rome.",
-        "end":  "2026-10-05T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T02:00:00.0000000",
+        "start":  "2026-10-06T20:30:00.0000000",
         "title":  "Football Nation",
-        "desc":  "Italy is one of the most impassioned and significant of footballing nations. The four-time World Cup winners are renowned for their defensive nous and passion, the product of Serie A, one of the game\u0027s most cut-throat leagues.",
-        "end":  "2026-10-05T02:30:00.0000000"
+        "desc":  "The CONCACAF region is rich and varied, dominated by Mexico, and takes center stage as it hosts the 2026 World Cup.",
+        "end":  "2026-10-06T21:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T02:30:00.0000000",
-        "title":  "Football Nation",
-        "desc":  "The most successful and powerful confederation, UEFA maintains its standing through the reach of its club competition, the UEFA Champions League.",
-        "end":  "2026-10-05T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T03:00:00.0000000",
-        "title":  "UEFA Nations League Matchnight Highlights",
-        "desc":  "Top moments and highlights from UEFA National League matches.",
-        "end":  "2026-10-05T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T04:00:00.0000000",
-        "title":  "CONCACAF Nations League Soccer",
-        "desc":  "League C.",
-        "end":  "2026-10-05T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T06:00:00.0000000",
-        "title":  "CONCACAF Nations League Soccer",
-        "desc":  "League C.",
-        "end":  "2026-10-05T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T08:00:00.0000000",
-        "title":  "UEFA Nations League Soccer",
-        "desc":  "League A, Group 4.",
-        "end":  "2026-10-05T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T10:00:00.0000000",
-        "title":  "The Rover of Tobruk",
-        "desc":  "Bob Quinn, a former AFL player for Port Adelaide, was a recipient of the Military Medal for his heroic actions in World War II in Tobruk.",
-        "end":  "2026-10-05T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T10:30:00.0000000",
+        "start":  "2026-10-06T21:00:00.0000000",
         "title":  "AFL Women\u0027s Premiership Football",
-        "desc":  "From Victoria Park in Abbotsford, Victoria, Australia.",
-        "end":  "2026-10-05T12:30:00.0000000"
+        "desc":  "From Henson Park in Marrickville, New South Wales, Australia.",
+        "end":  "2026-10-06T22:50:00.0000000"
     },
     {
-        "start":  "2026-10-05T12:30:00.0000000",
-        "title":  "Canadian Premier League Soccer",
-        "desc":  "From York Lions Stadium in Toronto.",
-        "end":  "2026-10-05T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T14:30:00.0000000",
-        "title":  "Canadian Premier League Soccer",
-        "desc":  "From Centre Sportif Bois-de-Boulogne in Laval, Quebec, Canada.",
-        "end":  "2026-10-05T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T16:30:00.0000000",
-        "title":  "Men\u0027s International Soccer Friendlies",
-        "desc":  "From Saputo Stadium in Montreal-Est, QuÃ©bec.",
-        "end":  "2026-10-05T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T18:30:00.0000000",
-        "title":  "Live: UEFA Nations League Soccer",
-        "desc":  "League B, Group 2.",
-        "end":  "2026-10-05T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T20:30:00.0000000",
-        "title":  "Football Nation",
-        "desc":  "Italy is one of the most impassioned and significant of footballing nations. The four-time World Cup winners are renowned for their defensive nous and passion, the product of Serie A, one of the game\u0027s most cut-throat leagues.",
-        "end":  "2026-10-05T20:50:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T20:50:00.0000000",
+        "start":  "2026-10-06T22:50:00.0000000",
         "title":  "Live: CONCACAF Nations League Soccer",
-        "desc":  "From Hasely Crawford Stadium in Port of Spain, Trinidad and Tobago.",
-        "end":  "2026-10-05T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T23:00:00.0000000",
-        "title":  "CPL Week in Review",
-        "desc":  "Highlights of the week\u0027s CPL action.",
-        "end":  "2026-10-05T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T23:30:00.0000000",
-        "title":  "Football\u0027s Greatest Stage",
-        "desc":  "Platini and Maldini never won the World Cup but their brilliance and legacy still shine on football\u0027s greatest stage.",
-        "end":  "2026-10-05T23:50:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T23:50:00.0000000",
-        "title":  "Live: CONCACAF Nations League Soccer",
-        "desc":  "International soccer competition.",
-        "end":  "2026-10-06T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T00:00:00.0000000",
-        "title":  "Women\u0027s Italian Serie A Soccer",
-        "desc":  "From Tre Fontane Stadium in Rome.",
-        "end":  "2026-10-05T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T02:00:00.0000000",
-        "title":  "Football Nation",
-        "desc":  "Italy is one of the most impassioned and significant of footballing nations. The four-time World Cup winners are renowned for their defensive nous and passion, the product of Serie A, one of the game\u0027s most cut-throat leagues.",
-        "end":  "2026-10-05T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T02:30:00.0000000",
-        "title":  "Football Nation",
-        "desc":  "The most successful and powerful confederation, UEFA maintains its standing through the reach of its club competition, the UEFA Champions League.",
-        "end":  "2026-10-05T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T03:00:00.0000000",
-        "title":  "UEFA Nations League Matchnight Highlights",
-        "desc":  "Top moments and highlights from UEFA National League matches.",
-        "end":  "2026-10-05T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T04:00:00.0000000",
-        "title":  "CONCACAF Nations League Soccer",
         "desc":  "League C.",
-        "end":  "2026-10-05T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T06:00:00.0000000",
-        "title":  "CONCACAF Nations League Soccer",
-        "desc":  "League C.",
-        "end":  "2026-10-05T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T08:00:00.0000000",
-        "title":  "UEFA Nations League Soccer",
-        "desc":  "League A, Group 4.",
-        "end":  "2026-10-05T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T10:00:00.0000000",
-        "title":  "The Rover of Tobruk",
-        "desc":  "Bob Quinn, a former AFL player for Port Adelaide, was a recipient of the Military Medal for his heroic actions in World War II in Tobruk.",
-        "end":  "2026-10-05T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T10:30:00.0000000",
-        "title":  "AFL Women\u0027s Premiership Football",
-        "desc":  "From Victoria Park in Abbotsford, Victoria, Australia.",
-        "end":  "2026-10-05T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T12:30:00.0000000",
-        "title":  "Canadian Premier League Soccer",
-        "desc":  "From York Lions Stadium in Toronto.",
-        "end":  "2026-10-05T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T14:30:00.0000000",
-        "title":  "Canadian Premier League Soccer",
-        "desc":  "From Centre Sportif Bois-de-Boulogne in Laval, Quebec, Canada.",
-        "end":  "2026-10-05T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T16:30:00.0000000",
-        "title":  "Men\u0027s International Soccer Friendlies",
-        "desc":  "From Saputo Stadium in Montreal-Est, QuÃ©bec.",
-        "end":  "2026-10-05T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T18:30:00.0000000",
-        "title":  "Live: UEFA Nations League Soccer",
-        "desc":  "League B, Group 2.",
-        "end":  "2026-10-05T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T20:30:00.0000000",
-        "title":  "Football Nation",
-        "desc":  "Italy is one of the most impassioned and significant of footballing nations. The four-time World Cup winners are renowned for their defensive nous and passion, the product of Serie A, one of the game\u0027s most cut-throat leagues.",
-        "end":  "2026-10-05T20:50:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T20:50:00.0000000",
-        "title":  "Live: CONCACAF Nations League Soccer",
-        "desc":  "From Hasely Crawford Stadium in Port of Spain, Trinidad and Tobago.",
-        "end":  "2026-10-05T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T23:00:00.0000000",
-        "title":  "CPL Week in Review",
-        "desc":  "Highlights of the week\u0027s CPL action.",
-        "end":  "2026-10-05T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T23:30:00.0000000",
-        "title":  "Football\u0027s Greatest Stage",
-        "desc":  "Platini and Maldini never won the World Cup but their brilliance and legacy still shine on football\u0027s greatest stage.",
-        "end":  "2026-10-05T23:50:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T23:50:00.0000000",
-        "title":  "Live: CONCACAF Nations League Soccer",
-        "desc":  "International soccer competition.",
-        "end":  "2026-10-06T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T02:00:00.0000000",
-        "title":  "Football Nation",
-        "desc":  "From John Charles and Ian Rush to Ryan Giggs and Gareth Bale, Wales has produced some of the greatest individuals in football history.",
-        "end":  "2026-10-06T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T02:30:00.0000000",
-        "title":  "Football Nation",
-        "desc":  "There is more to Sweden as a football nation than simply Zlatan. During the 1950s Sweden emerged as one of the great footballing nations and almost won the 1958 World Cup.",
-        "end":  "2026-10-06T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T03:00:00.0000000",
-        "title":  "UEFA Nations League Matchnight Highlights",
-        "desc":  "Top moments and highlights from UEFA National League matches.",
-        "end":  "2026-10-06T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T04:00:00.0000000",
-        "title":  "CONCACAF Nations League Soccer",
-        "desc":  "From Manuel Felipe Carrera Stadium in Guatemala City.",
         "end":  "2026-10-07T00:00:00.0000000"
     },
     {
@@ -351,6 +219,108 @@
         "start":  "2026-10-06T04:00:00.0000000",
         "title":  "CONCACAF Nations League Soccer",
         "desc":  "From Manuel Felipe Carrera Stadium in Guatemala City.",
+        "end":  "2026-10-06T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T04:30:00.0000000",
+        "title":  "CONCACAF Nations League Soccer",
+        "desc":  "From Manuel Felipe Carrera Stadium in Guatemala City.",
+        "end":  "2026-10-06T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T06:30:00.0000000",
+        "title":  "UEFA Nations League Soccer",
+        "desc":  "League A, Group 1.",
+        "end":  "2026-10-06T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T08:30:00.0000000",
+        "title":  "CONCACAF Nations League Soccer",
+        "desc":  "From Estadio Nacional Chelato UclÃ©s in Honduras.",
+        "end":  "2026-10-06T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T10:30:00.0000000",
+        "title":  "CONCACAF Nations League Soccer",
+        "desc":  "From Stade Pierre Alliker in Fort-de-France, Martinique.",
+        "end":  "2026-10-06T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T12:30:00.0000000",
+        "title":  "Canadian Premier League Soccer",
+        "desc":  "From Hamilton Stadium in Hamilton, Ontario.",
+        "end":  "2026-10-06T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T14:30:00.0000000",
+        "title":  "NRL Rugby",
+        "desc":  "Grand Final.",
+        "end":  "2026-10-06T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T16:30:00.0000000",
+        "title":  "Rugby Super League",
+        "desc":  "Final.",
+        "end":  "2026-10-06T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T18:30:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League B, Group 1.",
+        "end":  "2026-10-06T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T20:30:00.0000000",
+        "title":  "Football Nation",
+        "desc":  "The CONCACAF region is rich and varied, dominated by Mexico, and takes center stage as it hosts the 2026 World Cup.",
+        "end":  "2026-10-06T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T21:00:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "From Henson Park in Marrickville, New South Wales, Australia.",
+        "end":  "2026-10-06T22:50:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T22:50:00.0000000",
+        "title":  "Live: CONCACAF Nations League Soccer",
+        "desc":  "League C.",
         "end":  "2026-10-07T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T01:00:00.0000000",
+        "title":  "UEFA Nations League Soccer",
+        "desc":  "League A, Group 3.",
+        "end":  "2026-10-07T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T03:00:00.0000000",
+        "title":  "UEFA Nations League Matchnight Highlights",
+        "desc":  "Top moments and highlights from UEFA National League matches.",
+        "end":  "2026-10-07T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T04:00:00.0000000",
+        "title":  "Canadian Premier League Soccer",
+        "desc":  "From York Lions Stadium in Toronto.",
+        "end":  "2026-10-08T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T01:00:00.0000000",
+        "title":  "UEFA Nations League Soccer",
+        "desc":  "League A, Group 3.",
+        "end":  "2026-10-07T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T03:00:00.0000000",
+        "title":  "UEFA Nations League Matchnight Highlights",
+        "desc":  "Top moments and highlights from UEFA National League matches.",
+        "end":  "2026-10-07T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T04:00:00.0000000",
+        "title":  "Canadian Premier League Soccer",
+        "desc":  "From York Lions Stadium in Toronto.",
+        "end":  "2026-10-08T00:00:00.0000000"
     }
 ]
