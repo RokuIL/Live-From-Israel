@@ -1,272 +1,1214 @@
 [
     {
-        "start":  "2026-10-05T04:00:00.0000000",
-        "title":  "SC: Top 50 Tennis Shots of All-Time",
+        "start":  "2026-10-06T04:00:00.0000000",
+        "title":  "SC: Top Super Bowl Moments",
         "desc":  "",
-        "end":  "2026-10-05T04:30:00.0000000"
+        "end":  "2026-10-06T04:30:00.0000000"
     },
     {
-        "start":  "2026-10-05T04:30:00.0000000",
+        "start":  "2026-10-06T04:30:00.0000000",
+        "title":  "SC: Top 10 Grey Cup Games",
+        "desc":  "",
+        "end":  "2026-10-06T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T05:00:00.0000000",
+        "title":  "SC: Top Super Bowl Moments",
+        "desc":  "",
+        "end":  "2026-10-06T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T05:30:00.0000000",
+        "title":  "SC: Top 10 Grey Cup Games",
+        "desc":  "",
+        "end":  "2026-10-06T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T06:00:00.0000000",
+        "title":  "SC: Top Super Bowl Moments",
+        "desc":  "",
+        "end":  "2026-10-06T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T06:30:00.0000000",
+        "title":  "SC: Top 10 Grey Cup Games",
+        "desc":  "",
+        "end":  "2026-10-06T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T07:00:00.0000000",
+        "title":  "SC: Top Super Bowl Moments",
+        "desc":  "",
+        "end":  "2026-10-06T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T07:30:00.0000000",
+        "title":  "SC: Top 10 Grey Cup Games",
+        "desc":  "",
+        "end":  "2026-10-06T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T08:00:00.0000000",
+        "title":  "SC: Top Super Bowl Moments",
+        "desc":  "",
+        "end":  "2026-10-06T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T08:30:00.0000000",
+        "title":  "SC: Top 10 Grey Cup Games",
+        "desc":  "",
+        "end":  "2026-10-06T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T09:00:00.0000000",
+        "title":  "SC: Top 50 Goals of All-Time",
+        "desc":  "",
+        "end":  "2026-10-06T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T09:30:00.0000000",
+        "title":  "SC: Top 40 Trick Plays of All-Time",
+        "desc":  "",
+        "end":  "2026-10-06T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T10:00:00.0000000",
+        "title":  "SC: Top 50 World Hockey Championship Goals",
+        "desc":  "",
+        "end":  "2026-10-06T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T10:30:00.0000000",
+        "title":  "SC: Top WNBA Moments",
+        "desc":  "",
+        "end":  "2026-10-06T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T11:00:00.0000000",
+        "title":  "SC: Top 10 Women?s World Hockey Championship Games",
+        "desc":  "",
+        "end":  "2026-10-06T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T11:30:00.0000000",
+        "title":  "SC: Wacky CFL Moments",
+        "desc":  "",
+        "end":  "2026-10-06T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T12:00:00.0000000",
+        "title":  "SC: Top Rivalries in Sports",
+        "desc":  "",
+        "end":  "2026-10-06T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T12:30:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-06T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T13:00:00.0000000",
+        "title":  "Motorcycle Experience",
+        "desc":  "",
+        "end":  "2026-10-06T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T13:30:00.0000000",
+        "title":  "2026 Canadian Superbike Championship: Pro Superbike Race 10 of 10",
+        "desc":  "",
+        "end":  "2026-10-06T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T14:00:00.0000000",
+        "title":  "SC: Top Overtime Moments",
+        "desc":  "",
+        "end":  "2026-10-06T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T14:30:00.0000000",
+        "title":  "SC: Top 50 NBA Circus Shots",
+        "desc":  "",
+        "end":  "2026-10-06T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T15:00:00.0000000",
+        "title":  "SC: Top World Junior Moments",
+        "desc":  "",
+        "end":  "2026-10-06T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T15:30:00.0000000",
+        "title":  "Montreal Canadiens Pre-Game",
+        "desc":  "",
+        "end":  "2026-10-06T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T16:00:00.0000000",
+        "title":  "Molson Habs Hockey: Hurricanes vs. Canadiens",
+        "desc":  "",
+        "end":  "2026-10-06T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T18:30:00.0000000",
+        "title":  "CFL on TSN: Game of the Week",
+        "desc":  "",
+        "end":  "2026-10-06T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T21:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-06T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T22:00:00.0000000",
+        "title":  "AEW Dynamite",
+        "desc":  "",
+        "end":  "2026-10-07T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T00:00:00.0000000",
+        "title":  "SC: September Plays of the Month",
+        "desc":  "",
+        "end":  "2026-10-07T00:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T00:30:00.0000000",
+        "title":  "SC: Top Controversial Plays",
+        "desc":  "",
+        "end":  "2026-10-07T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T01:00:00.0000000",
+        "title":  "SC: September Plays of the Month",
+        "desc":  "",
+        "end":  "2026-10-07T01:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T01:30:00.0000000",
+        "title":  "SC: Top Controversial Plays",
+        "desc":  "",
+        "end":  "2026-10-07T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T02:00:00.0000000",
+        "title":  "SC: September Plays of the Month",
+        "desc":  "",
+        "end":  "2026-10-07T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T02:30:00.0000000",
+        "title":  "SC: Top Controversial Plays",
+        "desc":  "",
+        "end":  "2026-10-07T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T03:00:00.0000000",
+        "title":  "SC: September Plays of the Month",
+        "desc":  "",
+        "end":  "2026-10-07T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T03:30:00.0000000",
+        "title":  "SC: Top Controversial Plays",
+        "desc":  "",
+        "end":  "2026-10-07T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T04:00:00.0000000",
+        "title":  "SC: September Plays of the Month",
+        "desc":  "",
+        "end":  "2026-10-07T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T04:30:00.0000000",
+        "title":  "SC: Top Controversial Plays",
+        "desc":  "",
+        "end":  "2026-10-07T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T05:00:00.0000000",
+        "title":  "SC: September Plays of the Month",
+        "desc":  "",
+        "end":  "2026-10-07T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T05:30:00.0000000",
+        "title":  "SC: Top Controversial Plays",
+        "desc":  "",
+        "end":  "2026-10-07T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T06:00:00.0000000",
+        "title":  "SC: September Plays of the Month",
+        "desc":  "",
+        "end":  "2026-10-07T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T06:30:00.0000000",
+        "title":  "SC: Top Controversial Plays",
+        "desc":  "",
+        "end":  "2026-10-07T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T07:00:00.0000000",
+        "title":  "SC: September Plays of the Month",
+        "desc":  "",
+        "end":  "2026-10-07T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T07:30:00.0000000",
+        "title":  "SC: Top Controversial Plays",
+        "desc":  "",
+        "end":  "2026-10-07T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T08:00:00.0000000",
+        "title":  "SC: September Plays of the Month",
+        "desc":  "",
+        "end":  "2026-10-07T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T08:30:00.0000000",
+        "title":  "SC: Top Controversial Plays",
+        "desc":  "",
+        "end":  "2026-10-07T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T09:00:00.0000000",
         "title":  "SC: Top Fan Moments",
         "desc":  "",
-        "end":  "2026-10-05T05:00:00.0000000"
+        "end":  "2026-10-07T09:30:00.0000000"
     },
     {
-        "start":  "2026-10-05T05:00:00.0000000",
-        "title":  "SC: Top Comebacks of All-Time",
-        "desc":  "",
-        "end":  "2026-10-05T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T05:30:00.0000000",
-        "title":  "WTA 1000 Tennis: Beijing â€“ Early Round Coverage Day #6",
-        "desc":  "",
-        "end":  "2026-10-05T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T08:00:00.0000000",
+        "start":  "2026-10-07T09:30:00.0000000",
         "title":  "SC: Best and Worst Celebrations",
         "desc":  "",
-        "end":  "2026-10-05T08:30:00.0000000"
+        "end":  "2026-10-07T10:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T08:30:00.0000000",
-        "title":  "SC: Top Playoff Soundbites",
+        "start":  "2026-10-07T10:00:00.0000000",
+        "title":  "2026 Canadian Men\u0027s Soccer Friendly: USA vs. Canada",
         "desc":  "",
-        "end":  "2026-10-05T09:00:00.0000000"
+        "end":  "2026-10-07T12:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T09:00:00.0000000",
-        "title":  "SC: Top 50 Curling Shots",
-        "desc":  "",
-        "end":  "2026-10-05T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T09:30:00.0000000",
-        "title":  "SC: Top Mascot Moments",
-        "desc":  "",
-        "end":  "2026-10-05T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T10:00:00.0000000",
-        "title":  "2026 Formula 1: Bahrain Grand Prix",
-        "desc":  "",
-        "end":  "2026-10-05T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T12:00:00.0000000",
-        "title":  "SC: Outrageous NASCAR Moments",
-        "desc":  "",
-        "end":  "2026-10-05T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T12:30:00.0000000",
+        "start":  "2026-10-07T12:00:00.0000000",
         "title":  "SC: Coaches Gone Wild",
         "desc":  "",
-        "end":  "2026-10-05T13:00:00.0000000"
+        "end":  "2026-10-07T12:30:00.0000000"
     },
     {
-        "start":  "2026-10-05T13:00:00.0000000",
-        "title":  "Setting the Tempo â€“ Episode 1: The 14th Team",
+        "start":  "2026-10-07T12:30:00.0000000",
+        "title":  "SC: Top Mascot Moments",
         "desc":  "",
-        "end":  "2026-10-05T13:30:00.0000000"
+        "end":  "2026-10-07T13:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T13:30:00.0000000",
-        "title":  "Setting the Tempo â€“ Episode 2: CBA or Delay?",
+        "start":  "2026-10-07T13:00:00.0000000",
+        "title":  "SC: Top 100 Catches of All-Time",
         "desc":  "",
-        "end":  "2026-10-05T14:00:00.0000000"
+        "end":  "2026-10-07T14:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T14:00:00.0000000",
-        "title":  "Setting the Tempo â€“ Episode 3: Welcome to Training Camp",
+        "start":  "2026-10-07T14:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
         "desc":  "",
-        "end":  "2026-10-05T14:30:00.0000000"
+        "end":  "2026-10-07T14:30:00.0000000"
     },
     {
-        "start":  "2026-10-05T14:30:00.0000000",
-        "title":  "Setting the Tempo â€“ Episode 4: Time to Set the Tempo",
+        "start":  "2026-10-07T14:30:00.0000000",
+        "title":  "SC: September Plays of the Month",
         "desc":  "",
-        "end":  "2026-10-06T00:00:00.0000000"
+        "end":  "2026-10-07T15:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T04:00:00.0000000",
-        "title":  "SC: Top 50 Tennis Shots of All-Time",
+        "start":  "2026-10-07T15:00:00.0000000",
+        "title":  "SC: Top 50 Saves of All-Time",
         "desc":  "",
-        "end":  "2026-10-05T04:30:00.0000000"
+        "end":  "2026-10-07T15:30:00.0000000"
     },
     {
-        "start":  "2026-10-05T04:30:00.0000000",
+        "start":  "2026-10-07T15:30:00.0000000",
+        "title":  "SC: Outrageous NASCAR Moments",
+        "desc":  "",
+        "end":  "2026-10-07T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T16:00:00.0000000",
+        "title":  "NFL GameDay: Week 4",
+        "desc":  "",
+        "end":  "2026-10-07T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T16:30:00.0000000",
+        "title":  "NCAA Football: New Mexico State vs. Florida International",
+        "desc":  "",
+        "end":  "2026-10-07T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T20:00:00.0000000",
+        "title":  "2026 PBR Tour Canada: London, ON",
+        "desc":  "",
+        "end":  "2026-10-07T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T21:00:00.0000000",
+        "title":  "NFL GameDay: Week 4",
+        "desc":  "",
+        "end":  "2026-10-07T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T21:30:00.0000000",
+        "title":  "Film Never Lies with Luke Willson",
+        "desc":  "",
+        "end":  "2026-10-07T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T22:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-07T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T22:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-07T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T23:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-07T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T23:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-08T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T00:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-09T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T00:00:00.0000000",
+        "title":  "SC: September Plays of the Month",
+        "desc":  "",
+        "end":  "2026-10-07T00:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T00:30:00.0000000",
+        "title":  "SC: Top Controversial Plays",
+        "desc":  "",
+        "end":  "2026-10-07T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T01:00:00.0000000",
+        "title":  "SC: September Plays of the Month",
+        "desc":  "",
+        "end":  "2026-10-07T01:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T01:30:00.0000000",
+        "title":  "SC: Top Controversial Plays",
+        "desc":  "",
+        "end":  "2026-10-07T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T02:00:00.0000000",
+        "title":  "SC: September Plays of the Month",
+        "desc":  "",
+        "end":  "2026-10-07T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T02:30:00.0000000",
+        "title":  "SC: Top Controversial Plays",
+        "desc":  "",
+        "end":  "2026-10-07T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T03:00:00.0000000",
+        "title":  "SC: September Plays of the Month",
+        "desc":  "",
+        "end":  "2026-10-07T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T03:30:00.0000000",
+        "title":  "SC: Top Controversial Plays",
+        "desc":  "",
+        "end":  "2026-10-07T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T04:00:00.0000000",
+        "title":  "SC: September Plays of the Month",
+        "desc":  "",
+        "end":  "2026-10-07T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T04:30:00.0000000",
+        "title":  "SC: Top Controversial Plays",
+        "desc":  "",
+        "end":  "2026-10-07T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T05:00:00.0000000",
+        "title":  "SC: September Plays of the Month",
+        "desc":  "",
+        "end":  "2026-10-07T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T05:30:00.0000000",
+        "title":  "SC: Top Controversial Plays",
+        "desc":  "",
+        "end":  "2026-10-07T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T06:00:00.0000000",
+        "title":  "SC: September Plays of the Month",
+        "desc":  "",
+        "end":  "2026-10-07T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T06:30:00.0000000",
+        "title":  "SC: Top Controversial Plays",
+        "desc":  "",
+        "end":  "2026-10-07T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T07:00:00.0000000",
+        "title":  "SC: September Plays of the Month",
+        "desc":  "",
+        "end":  "2026-10-07T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T07:30:00.0000000",
+        "title":  "SC: Top Controversial Plays",
+        "desc":  "",
+        "end":  "2026-10-07T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T08:00:00.0000000",
+        "title":  "SC: September Plays of the Month",
+        "desc":  "",
+        "end":  "2026-10-07T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T08:30:00.0000000",
+        "title":  "SC: Top Controversial Plays",
+        "desc":  "",
+        "end":  "2026-10-07T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T09:00:00.0000000",
         "title":  "SC: Top Fan Moments",
         "desc":  "",
-        "end":  "2026-10-05T05:00:00.0000000"
+        "end":  "2026-10-07T09:30:00.0000000"
     },
     {
-        "start":  "2026-10-05T05:00:00.0000000",
-        "title":  "SC: Top Comebacks of All-Time",
-        "desc":  "",
-        "end":  "2026-10-05T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T05:30:00.0000000",
-        "title":  "WTA 1000 Tennis: Beijing â€“ Early Round Coverage Day #6",
-        "desc":  "",
-        "end":  "2026-10-05T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T08:00:00.0000000",
+        "start":  "2026-10-07T09:30:00.0000000",
         "title":  "SC: Best and Worst Celebrations",
         "desc":  "",
-        "end":  "2026-10-05T08:30:00.0000000"
+        "end":  "2026-10-07T10:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T08:30:00.0000000",
-        "title":  "SC: Top Playoff Soundbites",
+        "start":  "2026-10-07T10:00:00.0000000",
+        "title":  "2026 Canadian Men\u0027s Soccer Friendly: USA vs. Canada",
         "desc":  "",
-        "end":  "2026-10-05T09:00:00.0000000"
+        "end":  "2026-10-07T12:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T09:00:00.0000000",
-        "title":  "SC: Top 50 Curling Shots",
-        "desc":  "",
-        "end":  "2026-10-05T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T09:30:00.0000000",
-        "title":  "SC: Top Mascot Moments",
-        "desc":  "",
-        "end":  "2026-10-05T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T10:00:00.0000000",
-        "title":  "2026 Formula 1: Bahrain Grand Prix",
-        "desc":  "",
-        "end":  "2026-10-05T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T12:00:00.0000000",
-        "title":  "SC: Outrageous NASCAR Moments",
-        "desc":  "",
-        "end":  "2026-10-05T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T12:30:00.0000000",
+        "start":  "2026-10-07T12:00:00.0000000",
         "title":  "SC: Coaches Gone Wild",
         "desc":  "",
-        "end":  "2026-10-05T13:00:00.0000000"
+        "end":  "2026-10-07T12:30:00.0000000"
     },
     {
-        "start":  "2026-10-05T13:00:00.0000000",
-        "title":  "Setting the Tempo â€“ Episode 1: The 14th Team",
-        "desc":  "",
-        "end":  "2026-10-05T13:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T13:30:00.0000000",
-        "title":  "Setting the Tempo â€“ Episode 2: CBA or Delay?",
-        "desc":  "",
-        "end":  "2026-10-05T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T14:00:00.0000000",
-        "title":  "Setting the Tempo â€“ Episode 3: Welcome to Training Camp",
-        "desc":  "",
-        "end":  "2026-10-05T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T14:30:00.0000000",
-        "title":  "Setting the Tempo â€“ Episode 4: Time to Set the Tempo",
-        "desc":  "",
-        "end":  "2026-10-06T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T04:00:00.0000000",
-        "title":  "SC: Top 50 Tennis Shots of All-Time",
-        "desc":  "",
-        "end":  "2026-10-05T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T04:30:00.0000000",
-        "title":  "SC: Top Fan Moments",
-        "desc":  "",
-        "end":  "2026-10-05T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T05:00:00.0000000",
-        "title":  "SC: Top Comebacks of All-Time",
-        "desc":  "",
-        "end":  "2026-10-05T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T05:30:00.0000000",
-        "title":  "WTA 1000 Tennis: Beijing â€“ Early Round Coverage Day #6",
-        "desc":  "",
-        "end":  "2026-10-05T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T08:00:00.0000000",
-        "title":  "SC: Best and Worst Celebrations",
-        "desc":  "",
-        "end":  "2026-10-05T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T08:30:00.0000000",
-        "title":  "SC: Top Playoff Soundbites",
-        "desc":  "",
-        "end":  "2026-10-05T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T09:00:00.0000000",
-        "title":  "SC: Top 50 Curling Shots",
-        "desc":  "",
-        "end":  "2026-10-05T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T09:30:00.0000000",
+        "start":  "2026-10-07T12:30:00.0000000",
         "title":  "SC: Top Mascot Moments",
         "desc":  "",
-        "end":  "2026-10-05T10:00:00.0000000"
+        "end":  "2026-10-07T13:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T10:00:00.0000000",
-        "title":  "2026 Formula 1: Bahrain Grand Prix",
+        "start":  "2026-10-07T13:00:00.0000000",
+        "title":  "SC: Top 100 Catches of All-Time",
         "desc":  "",
-        "end":  "2026-10-05T12:00:00.0000000"
+        "end":  "2026-10-07T14:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T12:00:00.0000000",
+        "start":  "2026-10-07T14:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-07T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T14:30:00.0000000",
+        "title":  "SC: September Plays of the Month",
+        "desc":  "",
+        "end":  "2026-10-07T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T15:00:00.0000000",
+        "title":  "SC: Top 50 Saves of All-Time",
+        "desc":  "",
+        "end":  "2026-10-07T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T15:30:00.0000000",
         "title":  "SC: Outrageous NASCAR Moments",
         "desc":  "",
-        "end":  "2026-10-05T12:30:00.0000000"
+        "end":  "2026-10-07T16:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T12:30:00.0000000",
-        "title":  "SC: Coaches Gone Wild",
+        "start":  "2026-10-07T16:00:00.0000000",
+        "title":  "NFL GameDay: Week 4",
         "desc":  "",
-        "end":  "2026-10-05T13:00:00.0000000"
+        "end":  "2026-10-07T16:30:00.0000000"
     },
     {
-        "start":  "2026-10-05T13:00:00.0000000",
-        "title":  "Setting the Tempo â€“ Episode 1: The 14th Team",
+        "start":  "2026-10-07T16:30:00.0000000",
+        "title":  "NCAA Football: New Mexico State vs. Florida International",
         "desc":  "",
-        "end":  "2026-10-05T13:30:00.0000000"
+        "end":  "2026-10-07T20:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T13:30:00.0000000",
-        "title":  "Setting the Tempo â€“ Episode 2: CBA or Delay?",
+        "start":  "2026-10-07T20:00:00.0000000",
+        "title":  "2026 PBR Tour Canada: London, ON",
         "desc":  "",
-        "end":  "2026-10-05T14:00:00.0000000"
+        "end":  "2026-10-07T21:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T14:00:00.0000000",
-        "title":  "Setting the Tempo â€“ Episode 3: Welcome to Training Camp",
+        "start":  "2026-10-07T21:00:00.0000000",
+        "title":  "NFL GameDay: Week 4",
         "desc":  "",
-        "end":  "2026-10-05T14:30:00.0000000"
+        "end":  "2026-10-07T21:30:00.0000000"
     },
     {
-        "start":  "2026-10-05T14:30:00.0000000",
-        "title":  "Setting the Tempo â€“ Episode 4: Time to Set the Tempo",
+        "start":  "2026-10-07T21:30:00.0000000",
+        "title":  "Film Never Lies with Luke Willson",
         "desc":  "",
-        "end":  "2026-10-06T00:00:00.0000000"
+        "end":  "2026-10-07T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T22:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-07T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T22:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-07T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T23:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-07T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T23:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-08T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T00:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-08T00:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T00:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-08T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T01:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-08T01:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T01:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-08T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T02:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-08T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T02:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-08T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T03:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-08T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T03:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-08T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T04:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-08T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T04:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-08T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T05:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-08T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T05:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-08T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T06:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-08T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T06:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-08T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T07:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-08T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T07:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-08T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T08:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-08T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T08:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-08T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T09:00:00.0000000",
+        "title":  "SC: Top 50 Defensive Plays of All-Time",
+        "desc":  "",
+        "end":  "2026-10-08T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T09:30:00.0000000",
+        "title":  "SC: Top Moments of the FIFA World Cup",
+        "desc":  "",
+        "end":  "2026-10-08T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T10:00:00.0000000",
+        "title":  "SC: Top 10 Women?s World Hockey Championship Games",
+        "desc":  "",
+        "end":  "2026-10-08T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T10:30:00.0000000",
+        "title":  "SC: Wacky CFL Moments",
+        "desc":  "",
+        "end":  "2026-10-08T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T11:00:00.0000000",
+        "title":  "SC: Top OverDrive Moments",
+        "desc":  "",
+        "end":  "2026-10-08T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T12:00:00.0000000",
+        "title":  "Motorcycle Experience",
+        "desc":  "",
+        "end":  "2026-10-08T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T12:30:00.0000000",
+        "title":  "2026 Canadian Superbike Championship: Pro Superbike Race 10 of 10",
+        "desc":  "",
+        "end":  "2026-10-08T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T13:00:00.0000000",
+        "title":  "SC: Top 50 World Hockey Championship Goals",
+        "desc":  "",
+        "end":  "2026-10-08T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T13:30:00.0000000",
+        "title":  "SC: Top 50 CHL Goals",
+        "desc":  "",
+        "end":  "2026-10-08T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T14:00:00.0000000",
+        "title":  "2026 PBR Tour Canada: London, ON",
+        "desc":  "",
+        "end":  "2026-10-08T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T15:00:00.0000000",
+        "title":  "NFL GameDay: Week 4",
+        "desc":  "",
+        "end":  "2026-10-08T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T15:30:00.0000000",
+        "title":  "Film Never Lies with Luke Willson",
+        "desc":  "",
+        "end":  "2026-10-08T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T16:00:00.0000000",
+        "title":  "Molson Habs Hockey: Predators vs. Canadiens",
+        "desc":  "",
+        "end":  "2026-10-08T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T18:30:00.0000000",
+        "title":  "SC: Top PWHL Moments",
+        "desc":  "",
+        "end":  "2026-10-08T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T19:00:00.0000000",
+        "title":  "SC: Top 50 Goals of All-Time",
+        "desc":  "",
+        "end":  "2026-10-08T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T19:30:00.0000000",
+        "title":  "SC: Top Overtime Moments",
+        "desc":  "",
+        "end":  "2026-10-08T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T20:00:00.0000000",
+        "title":  "SC: Top 50 NBA Buzzer Beaters",
+        "desc":  "",
+        "end":  "2026-10-08T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T20:30:00.0000000",
+        "title":  "SC: Top WNBA Moments",
+        "desc":  "",
+        "end":  "2026-10-08T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T21:00:00.0000000",
+        "title":  "ATP 1000 Tennis: Shanghai â€“ Early Round Coverage Day #3",
+        "desc":  "",
+        "end":  "2026-10-09T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T00:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-08T00:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T00:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-08T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T01:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-08T01:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T01:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-08T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T02:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-08T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T02:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-08T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T03:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-08T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T03:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-08T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T04:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-08T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T04:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-08T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T05:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-08T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T05:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-08T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T06:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-08T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T06:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-08T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T07:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-08T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T07:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-08T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T08:00:00.0000000",
+        "title":  "SC: Top Bloopers of All-Time",
+        "desc":  "",
+        "end":  "2026-10-08T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T08:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-08T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T09:00:00.0000000",
+        "title":  "SC: Top 50 Defensive Plays of All-Time",
+        "desc":  "",
+        "end":  "2026-10-08T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T09:30:00.0000000",
+        "title":  "SC: Top Moments of the FIFA World Cup",
+        "desc":  "",
+        "end":  "2026-10-08T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T10:00:00.0000000",
+        "title":  "SC: Top 10 Women?s World Hockey Championship Games",
+        "desc":  "",
+        "end":  "2026-10-08T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T10:30:00.0000000",
+        "title":  "SC: Wacky CFL Moments",
+        "desc":  "",
+        "end":  "2026-10-08T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T11:00:00.0000000",
+        "title":  "SC: Top OverDrive Moments",
+        "desc":  "",
+        "end":  "2026-10-08T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T12:00:00.0000000",
+        "title":  "Motorcycle Experience",
+        "desc":  "",
+        "end":  "2026-10-08T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T12:30:00.0000000",
+        "title":  "2026 Canadian Superbike Championship: Pro Superbike Race 10 of 10",
+        "desc":  "",
+        "end":  "2026-10-08T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T13:00:00.0000000",
+        "title":  "SC: Top 50 World Hockey Championship Goals",
+        "desc":  "",
+        "end":  "2026-10-08T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T13:30:00.0000000",
+        "title":  "SC: Top 50 CHL Goals",
+        "desc":  "",
+        "end":  "2026-10-08T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T14:00:00.0000000",
+        "title":  "2026 PBR Tour Canada: London, ON",
+        "desc":  "",
+        "end":  "2026-10-08T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T15:00:00.0000000",
+        "title":  "NFL GameDay: Week 4",
+        "desc":  "",
+        "end":  "2026-10-08T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T15:30:00.0000000",
+        "title":  "Film Never Lies with Luke Willson",
+        "desc":  "",
+        "end":  "2026-10-08T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T16:00:00.0000000",
+        "title":  "Molson Habs Hockey: Predators vs. Canadiens",
+        "desc":  "",
+        "end":  "2026-10-08T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T18:30:00.0000000",
+        "title":  "SC: Top PWHL Moments",
+        "desc":  "",
+        "end":  "2026-10-08T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T19:00:00.0000000",
+        "title":  "SC: Top 50 Goals of All-Time",
+        "desc":  "",
+        "end":  "2026-10-08T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T19:30:00.0000000",
+        "title":  "SC: Top Overtime Moments",
+        "desc":  "",
+        "end":  "2026-10-08T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T20:00:00.0000000",
+        "title":  "SC: Top 50 NBA Buzzer Beaters",
+        "desc":  "",
+        "end":  "2026-10-08T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T20:30:00.0000000",
+        "title":  "SC: Top WNBA Moments",
+        "desc":  "",
+        "end":  "2026-10-08T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T21:00:00.0000000",
+        "title":  "ATP 1000 Tennis: Shanghai â€“ Early Round Coverage Day #3",
+        "desc":  "",
+        "end":  "2026-10-09T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T07:00:00.0000000",
+        "title":  "SC: September Plays of the Month",
+        "desc":  "",
+        "end":  "2026-10-09T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T07:30:00.0000000",
+        "title":  "SC: Top Controversial Plays",
+        "desc":  "",
+        "end":  "2026-10-09T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T08:00:00.0000000",
+        "title":  "SC: September Plays of the Month",
+        "desc":  "",
+        "end":  "2026-10-09T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T08:30:00.0000000",
+        "title":  "SC: Top Controversial Plays",
+        "desc":  "",
+        "end":  "2026-10-09T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T09:00:00.0000000",
+        "title":  "SC: Top Super Bowl Moments",
+        "desc":  "",
+        "end":  "2026-10-09T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T09:30:00.0000000",
+        "title":  "SC: Top 10 Grey Cup Games",
+        "desc":  "",
+        "end":  "2026-10-09T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T10:00:00.0000000",
+        "title":  "SC: Top 40 Wild and Wacky Finishes",
+        "desc":  "",
+        "end":  "2026-10-09T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T10:30:00.0000000",
+        "title":  "SC: Top 50 Defensive Plays of All-Time",
+        "desc":  "",
+        "end":  "2026-10-09T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T11:00:00.0000000",
+        "title":  "SC: Top OverDrive Moments",
+        "desc":  "",
+        "end":  "2026-10-09T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T12:00:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-09T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T12:30:00.0000000",
+        "title":  "Motorcycle Experience",
+        "desc":  "",
+        "end":  "2026-10-09T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T13:00:00.0000000",
+        "title":  "2026 Canadian Superbike Championship: Pro Superbike Race 10 of 10",
+        "desc":  "",
+        "end":  "2026-10-09T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T13:30:00.0000000",
+        "title":  "NFL GameDay: Week 4",
+        "desc":  "",
+        "end":  "2026-10-09T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T14:00:00.0000000",
+        "title":  "2026 PBR Tour Canada: London, ON",
+        "desc":  "",
+        "end":  "2026-10-09T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T15:00:00.0000000",
+        "title":  "SC: Top 100 Catches of All-Time",
+        "desc":  "",
+        "end":  "2026-10-09T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T16:00:00.0000000",
+        "title":  "NCAA Football: Florida State vs. Louisville",
+        "desc":  "",
+        "end":  "2026-10-09T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T19:30:00.0000000",
+        "title":  "SC: Top World Junior Moments",
+        "desc":  "",
+        "end":  "2026-10-09T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T20:00:00.0000000",
+        "title":  "SC: Top 10 Women?s World Hockey Championship Games",
+        "desc":  "",
+        "end":  "2026-10-09T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T20:30:00.0000000",
+        "title":  "SC: Top 50 World Hockey Championship Goals",
+        "desc":  "",
+        "end":  "2026-10-09T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T21:00:00.0000000",
+        "title":  "2026 PBR Tour Canada: London, ON",
+        "desc":  "",
+        "end":  "2026-10-09T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T22:00:00.0000000",
+        "title":  "SC: NBA Plays of the Year",
+        "desc":  "",
+        "end":  "2026-10-09T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T22:30:00.0000000",
+        "title":  "SC: Top 50 NBA Circus Shots",
+        "desc":  "",
+        "end":  "2026-10-09T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T23:00:00.0000000",
+        "title":  "SC: Top 50 NBA Buzzer Beaters",
+        "desc":  "",
+        "end":  "2026-10-09T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T23:30:00.0000000",
+        "title":  "SC: Top WNBA Moments",
+        "desc":  "",
+        "end":  "2026-10-10T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T00:00:00.0000000",
+        "title":  "CFL on TSN: Elks vs. Tiger-Cats",
+        "desc":  "",
+        "end":  "2026-10-11T00:00:00.0000000"
     }
 ]

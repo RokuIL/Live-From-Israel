@@ -1,585 +1,375 @@
 [
     {
-        "start":  "2026-10-05T00:00:00.0000000",
-        "title":  "The Whole Story With Anderson Cooper",
-        "desc":  "Ed Lavandera gains rare access inside a North Dakota hospital serving patients across a vast rural area; as immigrant workers fill critical staffing gaps, he explores their impact on the local community amid the national immigration debate.",
-        "end":  "2026-10-05T01:00:00.0000000"
+        "start":  "2026-10-06T00:00:00.0000000",
+        "title":  "Live: Anderson Cooper 360",
+        "desc":  "Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.",
+        "end":  "2026-10-06T01:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T01:00:00.0000000",
-        "title":  "Live: Zuckerberg: Facebook and the Cost of Connection",
-        "desc":  "Facebook\u0027s 2004 launch changes global communication, but fake news, hate speech, and teen harm shape Mark Zuckerberg\u0027s legacy.",
-        "end":  "2026-10-05T02:00:00.0000000"
+        "start":  "2026-10-06T01:00:00.0000000",
+        "title":  "Live: The Source With Kaitlan Collins",
+        "desc":  "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
+        "end":  "2026-10-06T02:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T02:00:00.0000000",
+        "start":  "2026-10-06T02:00:00.0000000",
+        "title":  "Live: CNN NewsNight With Abby Phillip",
+        "desc":  "Abby Phillip leads a roundtable discussion on the day\u0027s biggest stories and issues shaping our world.",
+        "end":  "2026-10-06T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T03:00:00.0000000",
+        "title":  "Laura Coates Live",
+        "desc":  "Laura Coates sparks unique conversations and covers the most interesting stories of the day through a news, legal and pop culture lens.",
+        "end":  "2026-10-06T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T04:00:00.0000000",
+        "title":  "Live: The Story Is With Elex Michaelson",
+        "desc":  "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
+        "end":  "2026-10-06T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T05:00:00.0000000",
+        "title":  "Live: The Story Is With Elex Michaelson",
+        "desc":  "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
+        "end":  "2026-10-06T05:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T05:45:00.0000000",
+        "title":  "World Sport",
+        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
+        "end":  "2026-10-06T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T06:00:00.0000000",
+        "title":  "Live: CNN Newsroom",
+        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
+        "end":  "2026-10-06T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T07:00:00.0000000",
+        "title":  "Live: CNN Newsroom",
+        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
+        "end":  "2026-10-06T07:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T07:45:00.0000000",
+        "title":  "World Sport",
+        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
+        "end":  "2026-10-06T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T08:00:00.0000000",
+        "title":  "Live: CNN Newsroom",
+        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
+        "end":  "2026-10-06T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T09:00:00.0000000",
+        "title":  "Live: CNN Headline Express",
+        "desc":  "Brad Smith brings you the biggest headlines and most buzzworthy stories.",
+        "end":  "2026-10-06T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T10:00:00.0000000",
+        "title":  "Live: CNN This Morning",
+        "desc":  "Stories from across the world and conversations with Audie Cornish.",
+        "end":  "2026-10-06T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T11:00:00.0000000",
+        "title":  "Live: CNN News Central",
+        "desc":  "The latest news from around the world live from CNN\u0027s immersive news hub with John Berman, Kate Bolduan and Sara Sidner.",
+        "end":  "2026-10-06T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T12:00:00.0000000",
+        "title":  "Live: CNN News Central",
+        "desc":  "The latest news from around the world live from CNN\u0027s immersive news hub with John Berman, Kate Bolduan and Sara Sidner.",
+        "end":  "2026-10-06T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T12:30:00.0000000",
+        "title":  "Live: World Sport",
+        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
+        "end":  "2026-10-06T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T13:00:00.0000000",
+        "title":  "Live: Connect the World",
+        "desc":  "A journey across the continents.",
+        "end":  "2026-10-06T13:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T13:45:00.0000000",
+        "title":  "Live: World Sport",
+        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
+        "end":  "2026-10-06T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T14:00:00.0000000",
+        "title":  "Live: Connect the World",
+        "desc":  "A journey across the continents.",
+        "end":  "2026-10-06T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T15:00:00.0000000",
+        "title":  "Live: One World With Zain Asher and Bianna Golodryga",
+        "desc":  "A fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.",
+        "end":  "2026-10-06T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T16:00:00.0000000",
+        "title":  "Live: One World With Zain Asher and Bianna Golodryga",
+        "desc":  "A fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.",
+        "end":  "2026-10-06T16:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T16:45:00.0000000",
         "title":  "African Voices",
-        "desc":  "Nigerian luxury fashion designer Mai Atafo is the go-to designer for many of the country\u0027s celebrities and politicians. In Lagos, Atafo talks to Larry Madowo about his training in the traditions of London\u0027s Savile Row, widely considered the gold standard in tailoring, and why he wanted to bring those standards to Africa.",
-        "end":  "2026-10-05T02:30:00.0000000"
+        "desc":  "Nigerian luxury fashion designer Mai Atafo is the go-to designer for many of the country\u0027s celebrities and politicians; in Lagos, Atafo talks to Larry Madowo about his training in the traditions of London\u0027s Savile Row, widely considered the gold standard in tailoring; he discusses why he wanted to bring those standards to Africa.",
+        "end":  "2026-10-06T17:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T02:30:00.0000000",
+        "start":  "2026-10-06T17:00:00.0000000",
+        "title":  "Live: Amanpour",
+        "desc":  "Hard-hitting interviews with the world\u0027s leading newsmakers showcased in the network\u0027s flagship daily news and current affairs program hosted by Christiane Amanpour.",
+        "end":  "2026-10-06T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T18:00:00.0000000",
+        "title":  "Live: Isa Soares Tonight",
+        "desc":  "Isa Soares brings together CNN\u0027s world-class journalists with top newsmakers and experts to help viewers navigate the complex events shaping our present and our future.",
+        "end":  "2026-10-06T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T19:00:00.0000000",
+        "title":  "Live: What We Know With Max Foster",
+        "desc":  "Max Foster has a definitive roundup of the day\u0027s top stories, giving you the urgent need-to-know context; a deeper dive into the questions sparking debate around the world.",
+        "end":  "2026-10-06T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T20:00:00.0000000",
+        "title":  "Live: Quest Means Business",
+        "desc":  "Richard Quest offers a dynamic look at the day\u0027s global business stories.",
+        "end":  "2026-10-06T20:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T20:45:00.0000000",
+        "title":  "Connecting Africa",
+        "desc":  "From cocoa to textiles and tech components, African manufacturers are taking steps to localize production while expanding their footprint across the continent; meeting the companies transforming raw materials into world-class products while keeping the value chain within the continent.",
+        "end":  "2026-10-06T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T21:00:00.0000000",
+        "title":  "Live: The Lead With Jake Tapper",
+        "desc":  "Jake Tapper covers all the day\u0027s top stories around the country and the globe, from politics to money and sports to popular culture.",
+        "end":  "2026-10-06T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T21:30:00.0000000",
+        "title":  "Live: World Sport",
+        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
+        "end":  "2026-10-06T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T22:00:00.0000000",
+        "title":  "Live: The Brief With Jim Sciutto",
+        "desc":  "CNN\u0027s correspondents across the world are reporting to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.",
+        "end":  "2026-10-06T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-06T23:00:00.0000000",
+        "title":  "Live: Erin Burnett OutFront",
+        "desc":  "Erin Burnett stays ahead of the headlines, delivering a show that\u0027s in-depth and informative with compelling interviews, lively debates and analysis of situations.",
+        "end":  "2026-10-07T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T00:00:00.0000000",
+        "title":  "Live: Anderson Cooper 360",
+        "desc":  "Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.",
+        "end":  "2026-10-07T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T01:00:00.0000000",
+        "title":  "Live: The Source With Kaitlan Collins",
+        "desc":  "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
+        "end":  "2026-10-07T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T02:00:00.0000000",
+        "title":  "Live: CNN NewsNight With Abby Phillip",
+        "desc":  "Abby Phillip leads a roundtable discussion on the day\u0027s biggest stories and issues shaping our world.",
+        "end":  "2026-10-07T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T03:00:00.0000000",
+        "title":  "Laura Coates Live",
+        "desc":  "Laura Coates sparks unique conversations and covers the most interesting stories of the day through a news, legal and pop culture lens.",
+        "end":  "2026-10-07T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T04:00:00.0000000",
+        "title":  "Live: The Story Is With Elex Michaelson",
+        "desc":  "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
+        "end":  "2026-10-07T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T05:00:00.0000000",
+        "title":  "Live: The Story Is With Elex Michaelson",
+        "desc":  "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
+        "end":  "2026-10-07T05:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T05:45:00.0000000",
+        "title":  "World Sport",
+        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
+        "end":  "2026-10-07T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T06:00:00.0000000",
+        "title":  "Live: CNN Newsroom",
+        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
+        "end":  "2026-10-07T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T07:00:00.0000000",
+        "title":  "Live: CNN Newsroom",
+        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
+        "end":  "2026-10-07T07:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T07:45:00.0000000",
+        "title":  "World Sport",
+        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
+        "end":  "2026-10-07T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T08:00:00.0000000",
+        "title":  "Live: CNN Newsroom",
+        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
+        "end":  "2026-10-07T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T09:00:00.0000000",
+        "title":  "Live: CNN Headline Express",
+        "desc":  "Brad Smith brings you the biggest headlines and most buzzworthy stories.",
+        "end":  "2026-10-07T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T10:00:00.0000000",
+        "title":  "Live: CNN This Morning",
+        "desc":  "Stories from across the world and conversations with Audie Cornish.",
+        "end":  "2026-10-07T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T11:00:00.0000000",
+        "title":  "Live: CNN News Central",
+        "desc":  "The latest news from around the world live from CNN\u0027s immersive news hub with John Berman, Kate Bolduan and Sara Sidner.",
+        "end":  "2026-10-07T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T12:00:00.0000000",
+        "title":  "Live: CNN News Central",
+        "desc":  "The latest news from around the world live from CNN\u0027s immersive news hub with John Berman, Kate Bolduan and Sara Sidner.",
+        "end":  "2026-10-07T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T12:30:00.0000000",
+        "title":  "Live: World Sport",
+        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
+        "end":  "2026-10-07T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T13:00:00.0000000",
+        "title":  "Live: Connect the World",
+        "desc":  "A journey across the continents.",
+        "end":  "2026-10-07T13:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T13:45:00.0000000",
+        "title":  "Live: World Sport",
+        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
+        "end":  "2026-10-07T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T14:00:00.0000000",
+        "title":  "Live: Connect the World",
+        "desc":  "A journey across the continents.",
+        "end":  "2026-10-07T14:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T14:45:00.0000000",
         "title":  "Marketplace Middle East",
-        "desc":  "The war with Iran has sent shockwaves through one of the Middle East\u0027s most important industries: tourism. Flights were cancelled, airspace closed, and tens of thousands of travelers left stranded as bookings collapsed almost overnight. In Dubai alone, more than 80,000 bookings were cancelled in the first week of the war. Consequently, travelers are increasingly looking beyond traditional Gulf des",
-        "end":  "2026-10-05T02:45:00.0000000"
+        "desc":  "The war with Iran has sent shockwaves through one of the Middle East\u0027s most important industries: tourism; flights were cancelled, airspace closed and tens of thousands of travelers left stranded as bookings collapsed almost overnight; in Dubai alone, more than 80,000 bookings were cancelled in the first week of the war; consequently, travelers are increasingly looking beyond traditional Gulf dest",
+        "end":  "2026-10-07T15:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T02:45:00.0000000",
-        "title":  "Marketplace Africa",
-        "desc":  "As the most arid country in sub-Saharan Africa, Namibia has always faced challenges when it comes to water resources; tech is now being deployed by everything from utility companies to farmers as a means of managing and conserving water while also cutting the costs of doing so; intech companies continue to grow; we sit down with Seyi Ebenezer, the CEO of Payaza, a Pan-African fintech company, for ",
-        "end":  "2026-10-05T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T03:00:00.0000000",
-        "title":  "Africa Inc",
-        "desc":  "South Africa has become a major player in the global film industry, drawing Hollywood productions, streaming giants, and billions in investment. Adefemi Akinsanya takes us inside Cape Town\u0027s booming production scene. We visit the studios where many big-budget international projects are created, and we talk to some of the people helping to power this economic engine.",
-        "end":  "2026-10-05T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T03:30:00.0000000",
-        "title":  "Inside Africa",
-        "desc":  "Every year, humpback whales return to Sainte-Marie to mate, give birth and raise their young; following CÃ©tamada president Dr. Anjara Saloma and a new generation of Malagasy researchers exploring their behaviour, while looking at the whales\u0027 wider place in the culture, livelihoods and identity of the island.",
-        "end":  "2026-10-05T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T04:00:00.0000000",
-        "title":  "CNN Newsroom",
-        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-10-05T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T05:00:00.0000000",
-        "title":  "CNN Newsroom",
-        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-10-05T05:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T05:45:00.0000000",
-        "title":  "World Sport",
-        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-10-05T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T06:00:00.0000000",
-        "title":  "CNN Newsroom",
-        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-10-05T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T07:00:00.0000000",
-        "title":  "CNN Newsroom",
-        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-10-05T07:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T07:45:00.0000000",
-        "title":  "World Sport",
-        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-10-05T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T08:00:00.0000000",
-        "title":  "CNN Newsroom",
-        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-10-05T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T09:00:00.0000000",
-        "title":  "Live: CNN Headline Express",
-        "desc":  "Brad Smith brings you the biggest headlines and most buzzworthy stories.",
-        "end":  "2026-10-05T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T10:00:00.0000000",
-        "title":  "Live: CNN This Morning",
-        "desc":  "Stories from across the world and conversations with Audie Cornish.",
-        "end":  "2026-10-05T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T11:00:00.0000000",
-        "title":  "Live: CNN News Central",
-        "desc":  "The latest news from around the world live from CNN\u0027s immersive news hub with John Berman, Kate Bolduan and Sara Sidner.",
-        "end":  "2026-10-05T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T12:00:00.0000000",
-        "title":  "Live: CNN News Central",
-        "desc":  "The latest news from around the world live from CNN\u0027s immersive news hub with John Berman, Kate Bolduan and Sara Sidner.",
-        "end":  "2026-10-05T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T12:30:00.0000000",
-        "title":  "Live: World Sport",
-        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-10-05T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T13:00:00.0000000",
-        "title":  "Live: Connect the World",
-        "desc":  "A journey across the continents.",
-        "end":  "2026-10-05T13:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T13:45:00.0000000",
-        "title":  "Live: World Sport",
-        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-10-05T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T14:00:00.0000000",
-        "title":  "Live: Connect the World",
-        "desc":  "A journey across the continents.",
-        "end":  "2026-10-05T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T15:00:00.0000000",
+        "start":  "2026-10-07T15:00:00.0000000",
         "title":  "Live: One World With Zain Asher and Bianna Golodryga",
         "desc":  "A fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.",
-        "end":  "2026-10-05T16:00:00.0000000"
+        "end":  "2026-10-07T16:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T16:00:00.0000000",
+        "start":  "2026-10-07T16:00:00.0000000",
         "title":  "Live: One World With Zain Asher and Bianna Golodryga",
         "desc":  "A fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.",
-        "end":  "2026-10-05T16:45:00.0000000"
+        "end":  "2026-10-07T17:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T16:45:00.0000000",
-        "title":  "African Voices",
-        "desc":  "Nigerian luxury fashion designer Mai Atafo is the go-to designer for many of the country\u0027s celebrities and politicians. In Lagos, Atafo talks to Larry Madowo about his training in the traditions of London\u0027s Savile Row, widely considered the gold standard in tailoring, and why he wanted to bring those standards to Africa.",
-        "end":  "2026-10-05T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T17:00:00.0000000",
+        "start":  "2026-10-07T17:00:00.0000000",
         "title":  "Live: Amanpour",
         "desc":  "Hard-hitting interviews with the world\u0027s leading newsmakers showcased in the network\u0027s flagship daily news and current affairs program hosted by Christiane Amanpour.",
-        "end":  "2026-10-05T18:00:00.0000000"
+        "end":  "2026-10-07T18:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T18:00:00.0000000",
+        "start":  "2026-10-07T18:00:00.0000000",
         "title":  "Live: Isa Soares Tonight",
         "desc":  "Isa Soares brings together CNN\u0027s world-class journalists with top newsmakers and experts to help viewers navigate the complex events shaping our present and our future.",
-        "end":  "2026-10-05T19:00:00.0000000"
+        "end":  "2026-10-07T19:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T19:00:00.0000000",
+        "start":  "2026-10-07T19:00:00.0000000",
         "title":  "Live: What We Know With Max Foster",
         "desc":  "Max Foster has a definitive roundup of the day\u0027s top stories, giving you the urgent need-to-know context; a deeper dive into the questions sparking debate around the world.",
-        "end":  "2026-10-05T20:00:00.0000000"
+        "end":  "2026-10-07T20:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T20:00:00.0000000",
+        "start":  "2026-10-07T20:00:00.0000000",
         "title":  "Live: Quest Means Business",
         "desc":  "Richard Quest offers a dynamic look at the day\u0027s global business stories.",
-        "end":  "2026-10-05T20:45:00.0000000"
+        "end":  "2026-10-07T21:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T20:45:00.0000000",
-        "title":  "Connecting Africa",
-        "desc":  "From cocoa to textiles and tech components, African manufacturers are taking steps to localize production while expanding their footprint across the continent; meeting the companies transforming raw materials into world-class products while keeping the value chain within the continent.",
-        "end":  "2026-10-05T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-05T21:00:00.0000000",
+        "start":  "2026-10-07T21:00:00.0000000",
         "title":  "Live: The Lead With Jake Tapper",
         "desc":  "Jake Tapper covers all the day\u0027s top stories around the country and the globe, from politics to money and sports to popular culture.",
-        "end":  "2026-10-05T21:30:00.0000000"
+        "end":  "2026-10-07T21:30:00.0000000"
     },
     {
-        "start":  "2026-10-05T21:30:00.0000000",
+        "start":  "2026-10-07T21:30:00.0000000",
         "title":  "Live: World Sport",
         "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-10-05T22:00:00.0000000"
+        "end":  "2026-10-07T22:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T22:00:00.0000000",
+        "start":  "2026-10-07T22:00:00.0000000",
         "title":  "Live: The Brief With Jim Sciutto",
         "desc":  "CNN\u0027s correspondents across the world are reporting to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.",
-        "end":  "2026-10-05T23:00:00.0000000"
+        "end":  "2026-10-07T23:00:00.0000000"
     },
     {
-        "start":  "2026-10-05T23:00:00.0000000",
+        "start":  "2026-10-07T23:00:00.0000000",
         "title":  "Live: Erin Burnett OutFront",
         "desc":  "Erin Burnett stays ahead of the headlines, delivering a show that\u0027s in-depth and informative with compelling interviews, lively debates and analysis of situations.",
-        "end":  "2026-10-06T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T00:00:00.0000000",
-        "title":  "Live: Anderson Cooper 360",
-        "desc":  "Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.",
-        "end":  "2026-10-06T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T01:00:00.0000000",
-        "title":  "Live: The Source With Kaitlan Collins",
-        "desc":  "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
-        "end":  "2026-10-06T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T02:00:00.0000000",
-        "title":  "Live: CNN NewsNight With Abby Phillip",
-        "desc":  "Abby Phillip leads a roundtable discussion on the day\u0027s biggest stories and issues shaping our world.",
-        "end":  "2026-10-06T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T03:00:00.0000000",
-        "title":  "Laura Coates Live",
-        "desc":  "Laura Coates sparks unique conversations and covers the most interesting stories of the day through a news, legal and pop culture lens.",
-        "end":  "2026-10-06T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T04:00:00.0000000",
-        "title":  "Live: The Story Is With Elex Michaelson",
-        "desc":  "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
-        "end":  "2026-10-06T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T05:00:00.0000000",
-        "title":  "Live: The Story Is With Elex Michaelson",
-        "desc":  "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
-        "end":  "2026-10-06T05:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T05:45:00.0000000",
-        "title":  "World Sport",
-        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-10-06T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T06:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-10-06T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T07:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-10-06T07:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T07:45:00.0000000",
-        "title":  "World Sport",
-        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-10-06T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T08:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-10-06T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T09:00:00.0000000",
-        "title":  "Live: CNN Headline Express",
-        "desc":  "Brad Smith brings you the biggest headlines and most buzzworthy stories.",
-        "end":  "2026-10-06T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T10:00:00.0000000",
-        "title":  "Live: CNN This Morning",
-        "desc":  "Stories from across the world and conversations with Audie Cornish.",
-        "end":  "2026-10-06T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T11:00:00.0000000",
-        "title":  "Live: CNN News Central",
-        "desc":  "The latest news from around the world live from CNN\u0027s immersive news hub with John Berman, Kate Bolduan and Sara Sidner.",
-        "end":  "2026-10-06T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T12:00:00.0000000",
-        "title":  "Live: CNN News Central",
-        "desc":  "The latest news from around the world live from CNN\u0027s immersive news hub with John Berman, Kate Bolduan and Sara Sidner.",
-        "end":  "2026-10-06T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T12:30:00.0000000",
-        "title":  "Live: World Sport",
-        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-10-06T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T13:00:00.0000000",
-        "title":  "Live: Connect the World",
-        "desc":  "A journey across the continents.",
-        "end":  "2026-10-06T13:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T13:45:00.0000000",
-        "title":  "Live: World Sport",
-        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-10-06T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T14:00:00.0000000",
-        "title":  "Live: Connect the World",
-        "desc":  "A journey across the continents.",
-        "end":  "2026-10-06T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T15:00:00.0000000",
-        "title":  "Live: One World With Zain Asher and Bianna Golodryga",
-        "desc":  "A fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.",
-        "end":  "2026-10-06T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T16:00:00.0000000",
-        "title":  "Live: One World With Zain Asher and Bianna Golodryga",
-        "desc":  "A fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.",
-        "end":  "2026-10-06T16:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T16:45:00.0000000",
-        "title":  "African Voices",
-        "desc":  "Nigerian luxury fashion designer Mai Atafo is the go-to designer for many of the country\u0027s celebrities and politicians; in Lagos, Atafo talks to Larry Madowo about his training in the traditions of London\u0027s Savile Row, widely considered the gold standard in tailoring; he discusses why he wanted to bring those standards to Africa.",
-        "end":  "2026-10-06T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T17:00:00.0000000",
-        "title":  "Live: Amanpour",
-        "desc":  "Hard-hitting interviews with the world\u0027s leading newsmakers showcased in the network\u0027s flagship daily news and current affairs program hosted by Christiane Amanpour.",
-        "end":  "2026-10-06T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T18:00:00.0000000",
-        "title":  "Live: Isa Soares Tonight",
-        "desc":  "Isa Soares brings together CNN\u0027s world-class journalists with top newsmakers and experts to help viewers navigate the complex events shaping our present and our future.",
-        "end":  "2026-10-06T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T19:00:00.0000000",
-        "title":  "Live: What We Know With Max Foster",
-        "desc":  "Max Foster has a definitive roundup of the day\u0027s top stories, giving you the urgent need-to-know context; a deeper dive into the questions sparking debate around the world.",
-        "end":  "2026-10-06T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T20:00:00.0000000",
-        "title":  "Live: Quest Means Business",
-        "desc":  "Richard Quest offers a dynamic look at the day\u0027s global business stories.",
-        "end":  "2026-10-06T20:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T20:45:00.0000000",
-        "title":  "Connecting Africa",
-        "desc":  "From cocoa to textiles and tech components, African manufacturers are taking steps to localize production while expanding their footprint across the continent; meeting the companies transforming raw materials into world-class products while keeping the value chain within the continent.",
-        "end":  "2026-10-06T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T21:00:00.0000000",
-        "title":  "Live: The Lead With Jake Tapper",
-        "desc":  "Jake Tapper covers all the day\u0027s top stories around the country and the globe, from politics to money and sports to popular culture.",
-        "end":  "2026-10-06T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T21:30:00.0000000",
-        "title":  "Live: World Sport",
-        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-10-06T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T22:00:00.0000000",
-        "title":  "Live: The Brief With Jim Sciutto",
-        "desc":  "CNN\u0027s correspondents across the world are reporting to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.",
-        "end":  "2026-10-06T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T23:00:00.0000000",
-        "title":  "Live: Erin Burnett OutFront",
-        "desc":  "Erin Burnett stays ahead of the headlines, delivering a show that\u0027s in-depth and informative with compelling interviews, lively debates and analysis of situations.",
-        "end":  "2026-10-07T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T00:00:00.0000000",
-        "title":  "Live: Anderson Cooper 360",
-        "desc":  "Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.",
         "end":  "2026-10-08T00:00:00.0000000"
     },
     {
-        "start":  "2026-10-06T00:00:00.0000000",
+        "start":  "2026-10-08T00:00:00.0000000",
         "title":  "Live: Anderson Cooper 360",
         "desc":  "Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.",
-        "end":  "2026-10-06T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T01:00:00.0000000",
-        "title":  "Live: The Source With Kaitlan Collins",
-        "desc":  "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
-        "end":  "2026-10-06T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T02:00:00.0000000",
-        "title":  "Live: CNN NewsNight With Abby Phillip",
-        "desc":  "Abby Phillip leads a roundtable discussion on the day\u0027s biggest stories and issues shaping our world.",
-        "end":  "2026-10-06T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T03:00:00.0000000",
-        "title":  "Laura Coates Live",
-        "desc":  "Laura Coates sparks unique conversations and covers the most interesting stories of the day through a news, legal and pop culture lens.",
-        "end":  "2026-10-06T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T04:00:00.0000000",
-        "title":  "Live: The Story Is With Elex Michaelson",
-        "desc":  "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
-        "end":  "2026-10-06T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T05:00:00.0000000",
-        "title":  "Live: The Story Is With Elex Michaelson",
-        "desc":  "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
-        "end":  "2026-10-06T05:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T05:45:00.0000000",
-        "title":  "World Sport",
-        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-10-06T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T06:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-10-06T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T07:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-10-06T07:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T07:45:00.0000000",
-        "title":  "World Sport",
-        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-10-06T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T08:00:00.0000000",
-        "title":  "Live: CNN Newsroom",
-        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
-        "end":  "2026-10-06T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T09:00:00.0000000",
-        "title":  "Live: CNN Headline Express",
-        "desc":  "Brad Smith brings you the biggest headlines and most buzzworthy stories.",
-        "end":  "2026-10-06T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T10:00:00.0000000",
-        "title":  "Live: CNN This Morning",
-        "desc":  "Stories from across the world and conversations with Audie Cornish.",
-        "end":  "2026-10-06T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T11:00:00.0000000",
-        "title":  "Live: CNN News Central",
-        "desc":  "The latest news from around the world live from CNN\u0027s immersive news hub with John Berman, Kate Bolduan and Sara Sidner.",
-        "end":  "2026-10-06T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T12:00:00.0000000",
-        "title":  "Live: CNN News Central",
-        "desc":  "The latest news from around the world live from CNN\u0027s immersive news hub with John Berman, Kate Bolduan and Sara Sidner.",
-        "end":  "2026-10-06T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T12:30:00.0000000",
-        "title":  "Live: World Sport",
-        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-10-06T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T13:00:00.0000000",
-        "title":  "Live: Connect the World",
-        "desc":  "A journey across the continents.",
-        "end":  "2026-10-06T13:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T13:45:00.0000000",
-        "title":  "Live: World Sport",
-        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-10-06T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T14:00:00.0000000",
-        "title":  "Live: Connect the World",
-        "desc":  "A journey across the continents.",
-        "end":  "2026-10-06T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T15:00:00.0000000",
-        "title":  "Live: One World With Zain Asher and Bianna Golodryga",
-        "desc":  "A fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.",
-        "end":  "2026-10-06T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T16:00:00.0000000",
-        "title":  "Live: One World With Zain Asher and Bianna Golodryga",
-        "desc":  "A fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.",
-        "end":  "2026-10-06T16:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T16:45:00.0000000",
-        "title":  "African Voices",
-        "desc":  "Nigerian luxury fashion designer Mai Atafo is the go-to designer for many of the country\u0027s celebrities and politicians; in Lagos, Atafo talks to Larry Madowo about his training in the traditions of London\u0027s Savile Row, widely considered the gold standard in tailoring; he discusses why he wanted to bring those standards to Africa.",
-        "end":  "2026-10-06T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T17:00:00.0000000",
-        "title":  "Live: Amanpour",
-        "desc":  "Hard-hitting interviews with the world\u0027s leading newsmakers showcased in the network\u0027s flagship daily news and current affairs program hosted by Christiane Amanpour.",
-        "end":  "2026-10-06T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T18:00:00.0000000",
-        "title":  "Live: Isa Soares Tonight",
-        "desc":  "Isa Soares brings together CNN\u0027s world-class journalists with top newsmakers and experts to help viewers navigate the complex events shaping our present and our future.",
-        "end":  "2026-10-06T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T19:00:00.0000000",
-        "title":  "Live: What We Know With Max Foster",
-        "desc":  "Max Foster has a definitive roundup of the day\u0027s top stories, giving you the urgent need-to-know context; a deeper dive into the questions sparking debate around the world.",
-        "end":  "2026-10-06T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T20:00:00.0000000",
-        "title":  "Live: Quest Means Business",
-        "desc":  "Richard Quest offers a dynamic look at the day\u0027s global business stories.",
-        "end":  "2026-10-06T20:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T20:45:00.0000000",
-        "title":  "Connecting Africa",
-        "desc":  "From cocoa to textiles and tech components, African manufacturers are taking steps to localize production while expanding their footprint across the continent; meeting the companies transforming raw materials into world-class products while keeping the value chain within the continent.",
-        "end":  "2026-10-06T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T21:00:00.0000000",
-        "title":  "Live: The Lead With Jake Tapper",
-        "desc":  "Jake Tapper covers all the day\u0027s top stories around the country and the globe, from politics to money and sports to popular culture.",
-        "end":  "2026-10-06T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T21:30:00.0000000",
-        "title":  "Live: World Sport",
-        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
-        "end":  "2026-10-06T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T22:00:00.0000000",
-        "title":  "Live: The Brief With Jim Sciutto",
-        "desc":  "CNN\u0027s correspondents across the world are reporting to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.",
-        "end":  "2026-10-06T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T23:00:00.0000000",
-        "title":  "Live: Erin Burnett OutFront",
-        "desc":  "Erin Burnett stays ahead of the headlines, delivering a show that\u0027s in-depth and informative with compelling interviews, lively debates and analysis of situations.",
-        "end":  "2026-10-07T00:00:00.0000000"
+        "end":  "2026-10-09T00:00:00.0000000"
     },
     {
         "start":  "2026-10-07T00:00:00.0000000",
@@ -609,36 +399,216 @@
         "start":  "2026-10-07T04:00:00.0000000",
         "title":  "Live: The Story Is With Elex Michaelson",
         "desc":  "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
-        "end":  "2026-10-08T00:00:00.0000000"
+        "end":  "2026-10-07T05:00:00.0000000"
     },
     {
-        "start":  "2026-10-07T00:00:00.0000000",
-        "title":  "Live: Anderson Cooper 360",
-        "desc":  "Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.",
-        "end":  "2026-10-07T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T01:00:00.0000000",
-        "title":  "Live: The Source With Kaitlan Collins",
-        "desc":  "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
-        "end":  "2026-10-07T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T02:00:00.0000000",
-        "title":  "Live: CNN NewsNight With Abby Phillip",
-        "desc":  "Abby Phillip leads a roundtable discussion on the day\u0027s biggest stories and issues shaping our world.",
-        "end":  "2026-10-07T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T03:00:00.0000000",
-        "title":  "Laura Coates Live",
-        "desc":  "Laura Coates sparks unique conversations and covers the most interesting stories of the day through a news, legal and pop culture lens.",
-        "end":  "2026-10-07T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T04:00:00.0000000",
+        "start":  "2026-10-07T05:00:00.0000000",
         "title":  "Live: The Story Is With Elex Michaelson",
         "desc":  "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
+        "end":  "2026-10-07T05:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T05:45:00.0000000",
+        "title":  "World Sport",
+        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
+        "end":  "2026-10-07T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T06:00:00.0000000",
+        "title":  "Live: CNN Newsroom",
+        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
+        "end":  "2026-10-07T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T07:00:00.0000000",
+        "title":  "Live: CNN Newsroom",
+        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
+        "end":  "2026-10-07T07:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T07:45:00.0000000",
+        "title":  "World Sport",
+        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
+        "end":  "2026-10-07T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T08:00:00.0000000",
+        "title":  "Live: CNN Newsroom",
+        "desc":  "\"CNN Newsroom\" presents the day\u0027s headlines and breaking stories live from CNN headquarters in Atlanta. The rotating cast of anchors and contributors includes Carol Costello, Kyra Phillips, Suzanne Malveaux, Brooke Baldwin, Randi Kaye and Fredricka Whitfield.",
+        "end":  "2026-10-07T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T09:00:00.0000000",
+        "title":  "Live: CNN Headline Express",
+        "desc":  "Brad Smith brings you the biggest headlines and most buzzworthy stories.",
+        "end":  "2026-10-07T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T10:00:00.0000000",
+        "title":  "Live: CNN This Morning",
+        "desc":  "Stories from across the world and conversations with Audie Cornish.",
+        "end":  "2026-10-07T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T11:00:00.0000000",
+        "title":  "Live: CNN News Central",
+        "desc":  "The latest news from around the world live from CNN\u0027s immersive news hub with John Berman, Kate Bolduan and Sara Sidner.",
+        "end":  "2026-10-07T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T12:00:00.0000000",
+        "title":  "Live: CNN News Central",
+        "desc":  "The latest news from around the world live from CNN\u0027s immersive news hub with John Berman, Kate Bolduan and Sara Sidner.",
+        "end":  "2026-10-07T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T12:30:00.0000000",
+        "title":  "Live: World Sport",
+        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
+        "end":  "2026-10-07T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T13:00:00.0000000",
+        "title":  "Live: Connect the World",
+        "desc":  "A journey across the continents.",
+        "end":  "2026-10-07T13:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T13:45:00.0000000",
+        "title":  "Live: World Sport",
+        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
+        "end":  "2026-10-07T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T14:00:00.0000000",
+        "title":  "Live: Connect the World",
+        "desc":  "A journey across the continents.",
+        "end":  "2026-10-07T14:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T14:45:00.0000000",
+        "title":  "Marketplace Middle East",
+        "desc":  "The war with Iran has sent shockwaves through one of the Middle East\u0027s most important industries: tourism; flights were cancelled, airspace closed and tens of thousands of travelers left stranded as bookings collapsed almost overnight; in Dubai alone, more than 80,000 bookings were cancelled in the first week of the war; consequently, travelers are increasingly looking beyond traditional Gulf dest",
+        "end":  "2026-10-07T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T15:00:00.0000000",
+        "title":  "Live: One World With Zain Asher and Bianna Golodryga",
+        "desc":  "A fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.",
+        "end":  "2026-10-07T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T16:00:00.0000000",
+        "title":  "Live: One World With Zain Asher and Bianna Golodryga",
+        "desc":  "A fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.",
+        "end":  "2026-10-07T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T17:00:00.0000000",
+        "title":  "Live: Amanpour",
+        "desc":  "Hard-hitting interviews with the world\u0027s leading newsmakers showcased in the network\u0027s flagship daily news and current affairs program hosted by Christiane Amanpour.",
+        "end":  "2026-10-07T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T18:00:00.0000000",
+        "title":  "Live: Isa Soares Tonight",
+        "desc":  "Isa Soares brings together CNN\u0027s world-class journalists with top newsmakers and experts to help viewers navigate the complex events shaping our present and our future.",
+        "end":  "2026-10-07T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T19:00:00.0000000",
+        "title":  "Live: What We Know With Max Foster",
+        "desc":  "Max Foster has a definitive roundup of the day\u0027s top stories, giving you the urgent need-to-know context; a deeper dive into the questions sparking debate around the world.",
+        "end":  "2026-10-07T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T20:00:00.0000000",
+        "title":  "Live: Quest Means Business",
+        "desc":  "Richard Quest offers a dynamic look at the day\u0027s global business stories.",
+        "end":  "2026-10-07T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T21:00:00.0000000",
+        "title":  "Live: The Lead With Jake Tapper",
+        "desc":  "Jake Tapper covers all the day\u0027s top stories around the country and the globe, from politics to money and sports to popular culture.",
+        "end":  "2026-10-07T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T21:30:00.0000000",
+        "title":  "Live: World Sport",
+        "desc":  "Up-to-the-minute sports news, highlights, analysis and interviews with the biggest names in global sport.",
+        "end":  "2026-10-07T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T22:00:00.0000000",
+        "title":  "Live: The Brief With Jim Sciutto",
+        "desc":  "CNN\u0027s correspondents across the world are reporting to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.",
+        "end":  "2026-10-07T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T23:00:00.0000000",
+        "title":  "Live: Erin Burnett OutFront",
+        "desc":  "Erin Burnett stays ahead of the headlines, delivering a show that\u0027s in-depth and informative with compelling interviews, lively debates and analysis of situations.",
         "end":  "2026-10-08T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T00:00:00.0000000",
+        "title":  "Live: Anderson Cooper 360",
+        "desc":  "Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.",
+        "end":  "2026-10-08T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T01:00:00.0000000",
+        "title":  "Live: The Source With Kaitlan Collins",
+        "desc":  "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
+        "end":  "2026-10-08T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T02:00:00.0000000",
+        "title":  "Live: CNN NewsNight With Abby Phillip",
+        "desc":  "Abby Phillip leads a roundtable discussion on the day\u0027s biggest stories and issues shaping our world.",
+        "end":  "2026-10-08T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T03:00:00.0000000",
+        "title":  "Laura Coates Live",
+        "desc":  "Laura Coates sparks unique conversations and covers the most interesting stories of the day through a news, legal and pop culture lens.",
+        "end":  "2026-10-08T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T04:00:00.0000000",
+        "title":  "Live: The Story Is With Elex Michaelson",
+        "desc":  "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
+        "end":  "2026-10-09T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T00:00:00.0000000",
+        "title":  "Live: Anderson Cooper 360",
+        "desc":  "Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts.",
+        "end":  "2026-10-08T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T01:00:00.0000000",
+        "title":  "Live: The Source With Kaitlan Collins",
+        "desc":  "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources.",
+        "end":  "2026-10-08T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T02:00:00.0000000",
+        "title":  "Live: CNN NewsNight With Abby Phillip",
+        "desc":  "Abby Phillip leads a roundtable discussion on the day\u0027s biggest stories and issues shaping our world.",
+        "end":  "2026-10-08T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T03:00:00.0000000",
+        "title":  "Laura Coates Live",
+        "desc":  "Laura Coates sparks unique conversations and covers the most interesting stories of the day through a news, legal and pop culture lens.",
+        "end":  "2026-10-08T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T04:00:00.0000000",
+        "title":  "Live: The Story Is With Elex Michaelson",
+        "desc":  "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective and a dose of humor.",
+        "end":  "2026-10-09T00:00:00.0000000"
     }
 ]
