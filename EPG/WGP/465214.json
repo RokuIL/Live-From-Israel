@@ -1,278 +1,164 @@
 [
     {
-        "start":  "2026-10-06T02:00:00.0000000",
-        "title":  "Football Nation",
-        "desc":  "From John Charles and Ian Rush to Ryan Giggs and Gareth Bale, Wales has produced some of the greatest individuals in football history.",
-        "end":  "2026-10-06T02:30:00.0000000"
+        "start":  "2026-10-07T01:00:00.0000000",
+        "title":  "UEFA Nations League Soccer",
+        "desc":  "League A, Group 3.",
+        "end":  "2026-10-07T03:00:00.0000000"
     },
     {
-        "start":  "2026-10-06T02:30:00.0000000",
-        "title":  "Football Nation",
-        "desc":  "There is more to Sweden as a football nation than simply Zlatan. During the 1950s Sweden emerged as one of the great footballing nations and almost won the 1958 World Cup.",
-        "end":  "2026-10-06T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T03:00:00.0000000",
+        "start":  "2026-10-07T03:00:00.0000000",
         "title":  "UEFA Nations League Matchnight Highlights",
         "desc":  "Top moments and highlights from UEFA National League matches.",
-        "end":  "2026-10-06T04:00:00.0000000"
+        "end":  "2026-10-07T04:00:00.0000000"
     },
     {
-        "start":  "2026-10-06T04:00:00.0000000",
-        "title":  "CONCACAF Nations League Soccer",
-        "desc":  "From Manuel Felipe Carrera Stadium in Guatemala City.",
-        "end":  "2026-10-06T04:30:00.0000000"
+        "start":  "2026-10-07T04:00:00.0000000",
+        "title":  "Canadian Premier League Soccer",
+        "desc":  "From York Lions Stadium in Toronto.",
+        "end":  "2026-10-07T06:00:00.0000000"
     },
     {
-        "start":  "2026-10-06T04:30:00.0000000",
-        "title":  "CONCACAF Nations League Soccer",
-        "desc":  "From Manuel Felipe Carrera Stadium in Guatemala City.",
-        "end":  "2026-10-06T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T06:30:00.0000000",
+        "start":  "2026-10-07T06:00:00.0000000",
         "title":  "UEFA Nations League Soccer",
         "desc":  "League A, Group 1.",
-        "end":  "2026-10-06T08:30:00.0000000"
+        "end":  "2026-10-07T08:00:00.0000000"
     },
     {
-        "start":  "2026-10-06T08:30:00.0000000",
-        "title":  "CONCACAF Nations League Soccer",
-        "desc":  "From Estadio Nacional Chelato UclÃ©s in Honduras.",
-        "end":  "2026-10-06T10:30:00.0000000"
+        "start":  "2026-10-07T08:00:00.0000000",
+        "title":  "UEFA Nations League Soccer",
+        "desc":  "League B, Group 1.",
+        "end":  "2026-10-07T10:00:00.0000000"
     },
     {
-        "start":  "2026-10-06T10:30:00.0000000",
-        "title":  "CONCACAF Nations League Soccer",
-        "desc":  "From Stade Pierre Alliker in Fort-de-France, Martinique.",
-        "end":  "2026-10-06T12:30:00.0000000"
+        "start":  "2026-10-07T10:00:00.0000000",
+        "title":  "Canadian Premier League Soccer",
+        "desc":  "From Centre Sportif Bois-de-Boulogne in Laval, Quebec, Canada.",
+        "end":  "2026-10-07T12:00:00.0000000"
     },
     {
-        "start":  "2026-10-06T12:30:00.0000000",
+        "start":  "2026-10-07T12:00:00.0000000",
+        "title":  "UEFA Nations League Matchnight Highlights",
+        "desc":  "Top moments and highlights from UEFA National League matches.",
+        "end":  "2026-10-07T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T13:00:00.0000000",
+        "title":  "UEFA Nations League Matchweek Highlights",
+        "desc":  "Highlights from UEFA Nations League matchday.",
+        "end":  "2026-10-07T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T14:00:00.0000000",
+        "title":  "Women\u0027s Italian Serie A Soccer",
+        "desc":  "",
+        "end":  "2026-10-07T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T16:00:00.0000000",
+        "title":  "Women\u0027s Italian Serie A Soccer",
+        "desc":  "",
+        "end":  "2026-10-07T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T18:00:00.0000000",
+        "title":  "Women\u0027s Italian Serie A Soccer",
+        "desc":  "From Tre Fontane Stadium in Rome.",
+        "end":  "2026-10-07T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T20:00:00.0000000",
+        "title":  "NRL Rugby",
+        "desc":  "Grand Final.",
+        "end":  "2026-10-07T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-07T22:00:00.0000000",
+        "title":  "Rugby Super League",
+        "desc":  "Final.",
+        "end":  "2026-10-08T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T00:00:00.0000000",
+        "title":  "NRL Women\u0027s Premiership",
+        "desc":  "From Accor Stadium in Sydney.",
+        "end":  "2026-10-08T01:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T01:30:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "From Leederville Oval in Leederville, Western Australia, Australia.",
+        "end":  "2026-10-08T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T03:30:00.0000000",
+        "title":  "Women\u0027s Football Weekly",
+        "desc":  "Discover the best of the action from the top divisions of women\u0027s football in Italy, Germany and the Netherlands with this brand-new highlights show.",
+        "end":  "2026-10-08T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T04:00:00.0000000",
+        "title":  "UEFA Nations League Soccer",
+        "desc":  "League A, Group 3.",
+        "end":  "2026-10-08T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T06:00:00.0000000",
         "title":  "Canadian Premier League Soccer",
         "desc":  "From Hamilton Stadium in Hamilton, Ontario.",
-        "end":  "2026-10-06T14:30:00.0000000"
+        "end":  "2026-10-08T08:00:00.0000000"
     },
     {
-        "start":  "2026-10-06T14:30:00.0000000",
-        "title":  "NRL Rugby",
-        "desc":  "Grand Final.",
-        "end":  "2026-10-06T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T16:30:00.0000000",
-        "title":  "Rugby Super League",
-        "desc":  "Final.",
-        "end":  "2026-10-06T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T18:30:00.0000000",
-        "title":  "Live: UEFA Nations League Soccer",
-        "desc":  "League B, Group 1.",
-        "end":  "2026-10-06T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T20:30:00.0000000",
-        "title":  "Football Nation",
-        "desc":  "The CONCACAF region is rich and varied, dominated by Mexico, and takes center stage as it hosts the 2026 World Cup.",
-        "end":  "2026-10-06T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T21:00:00.0000000",
-        "title":  "AFL Women\u0027s Premiership Football",
-        "desc":  "From Henson Park in Marrickville, New South Wales, Australia.",
-        "end":  "2026-10-06T22:50:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T22:50:00.0000000",
-        "title":  "Live: CONCACAF Nations League Soccer",
-        "desc":  "League C.",
-        "end":  "2026-10-07T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T01:00:00.0000000",
-        "title":  "UEFA Nations League Soccer",
-        "desc":  "League A, Group 3.",
-        "end":  "2026-10-07T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T03:00:00.0000000",
-        "title":  "UEFA Nations League Matchnight Highlights",
-        "desc":  "Top moments and highlights from UEFA National League matches.",
-        "end":  "2026-10-07T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T04:00:00.0000000",
+        "start":  "2026-10-08T08:00:00.0000000",
         "title":  "Canadian Premier League Soccer",
         "desc":  "From York Lions Stadium in Toronto.",
-        "end":  "2026-10-07T06:00:00.0000000"
+        "end":  "2026-10-08T10:00:00.0000000"
     },
     {
-        "start":  "2026-10-07T06:00:00.0000000",
+        "start":  "2026-10-08T10:00:00.0000000",
+        "title":  "CONCACAF Nations League Soccer",
+        "desc":  "From Estadio Nacional Chelato UclÃ©s in Honduras.",
+        "end":  "2026-10-08T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T12:00:00.0000000",
         "title":  "UEFA Nations League Soccer",
         "desc":  "League A, Group 1.",
-        "end":  "2026-10-07T08:00:00.0000000"
+        "end":  "2026-10-08T14:00:00.0000000"
     },
     {
-        "start":  "2026-10-07T08:00:00.0000000",
+        "start":  "2026-10-08T14:00:00.0000000",
         "title":  "UEFA Nations League Soccer",
-        "desc":  "League B, Group 1.",
-        "end":  "2026-10-07T10:00:00.0000000"
+        "desc":  "League A, Group 1.",
+        "end":  "2026-10-08T16:00:00.0000000"
     },
     {
-        "start":  "2026-10-07T10:00:00.0000000",
-        "title":  "Canadian Premier League Soccer",
-        "desc":  "From Centre Sportif Bois-de-Boulogne in Laval, Quebec, Canada.",
-        "end":  "2026-10-07T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T12:00:00.0000000",
-        "title":  "UEFA Nations League Matchnight Highlights",
-        "desc":  "Top moments and highlights from UEFA National League matches.",
-        "end":  "2026-10-07T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T13:00:00.0000000",
-        "title":  "UEFA Nations League Matchweek Highlights",
-        "desc":  "Highlights from UEFA Nations League matchday.",
-        "end":  "2026-10-07T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T14:00:00.0000000",
-        "title":  "Women\u0027s Italian Serie A Soccer",
-        "desc":  "",
-        "end":  "2026-10-07T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T16:00:00.0000000",
-        "title":  "Women\u0027s Italian Serie A Soccer",
-        "desc":  "",
-        "end":  "2026-10-07T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T18:00:00.0000000",
-        "title":  "Women\u0027s Italian Serie A Soccer",
-        "desc":  "From Tre Fontane Stadium in Rome.",
-        "end":  "2026-10-07T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T20:00:00.0000000",
-        "title":  "NRL Rugby",
-        "desc":  "Grand Final.",
-        "end":  "2026-10-07T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T22:00:00.0000000",
-        "title":  "Rugby Super League",
-        "desc":  "Final.",
-        "end":  "2026-10-08T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-08T00:00:00.0000000",
-        "title":  "NRL Women\u0027s Premiership",
-        "desc":  "From Accor Stadium in Sydney.",
-        "end":  "2026-10-09T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T01:00:00.0000000",
+        "start":  "2026-10-08T16:00:00.0000000",
         "title":  "UEFA Nations League Soccer",
         "desc":  "League A, Group 3.",
-        "end":  "2026-10-07T03:00:00.0000000"
+        "end":  "2026-10-08T18:00:00.0000000"
     },
     {
-        "start":  "2026-10-07T03:00:00.0000000",
-        "title":  "UEFA Nations League Matchnight Highlights",
-        "desc":  "Top moments and highlights from UEFA National League matches.",
-        "end":  "2026-10-07T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T04:00:00.0000000",
-        "title":  "Canadian Premier League Soccer",
-        "desc":  "From York Lions Stadium in Toronto.",
-        "end":  "2026-10-07T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T06:00:00.0000000",
+        "start":  "2026-10-08T18:00:00.0000000",
         "title":  "UEFA Nations League Soccer",
-        "desc":  "League A, Group 1.",
-        "end":  "2026-10-07T08:00:00.0000000"
+        "desc":  "League A, Group 3.",
+        "end":  "2026-10-08T20:00:00.0000000"
     },
     {
-        "start":  "2026-10-07T08:00:00.0000000",
+        "start":  "2026-10-08T20:00:00.0000000",
         "title":  "UEFA Nations League Soccer",
-        "desc":  "League B, Group 1.",
-        "end":  "2026-10-07T10:00:00.0000000"
+        "desc":  "League A, Group 4.",
+        "end":  "2026-10-08T22:00:00.0000000"
     },
     {
-        "start":  "2026-10-07T10:00:00.0000000",
-        "title":  "Canadian Premier League Soccer",
-        "desc":  "From Centre Sportif Bois-de-Boulogne in Laval, Quebec, Canada.",
-        "end":  "2026-10-07T12:00:00.0000000"
+        "start":  "2026-10-08T22:00:00.0000000",
+        "title":  "The Best of CONCACAF Nations League 2024-25",
+        "desc":  "Highlights from the year in CONCACAF Nations League soccer.",
+        "end":  "2026-10-08T22:30:00.0000000"
     },
     {
-        "start":  "2026-10-07T12:00:00.0000000",
-        "title":  "UEFA Nations League Matchnight Highlights",
-        "desc":  "Top moments and highlights from UEFA National League matches.",
-        "end":  "2026-10-07T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T13:00:00.0000000",
-        "title":  "UEFA Nations League Matchweek Highlights",
-        "desc":  "Highlights from UEFA Nations League matchday.",
-        "end":  "2026-10-07T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T14:00:00.0000000",
-        "title":  "Women\u0027s Italian Serie A Soccer",
-        "desc":  "",
-        "end":  "2026-10-07T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T16:00:00.0000000",
-        "title":  "Women\u0027s Italian Serie A Soccer",
-        "desc":  "",
-        "end":  "2026-10-07T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T18:00:00.0000000",
-        "title":  "Women\u0027s Italian Serie A Soccer",
-        "desc":  "From Tre Fontane Stadium in Rome.",
-        "end":  "2026-10-07T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T20:00:00.0000000",
-        "title":  "NRL Rugby",
-        "desc":  "Grand Final.",
-        "end":  "2026-10-07T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T22:00:00.0000000",
-        "title":  "Rugby Super League",
-        "desc":  "Final.",
-        "end":  "2026-10-08T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-08T00:00:00.0000000",
-        "title":  "NRL Women\u0027s Premiership",
-        "desc":  "From Accor Stadium in Sydney.",
-        "end":  "2026-10-08T01:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-08T01:30:00.0000000",
+        "start":  "2026-10-08T22:30:00.0000000",
         "title":  "AFL Women\u0027s Premiership Football",
-        "desc":  "From Leederville Oval in Leederville, Western Australia, Australia.",
-        "end":  "2026-10-08T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-08T03:30:00.0000000",
-        "title":  "Women\u0027s Football Weekly",
-        "desc":  "Discover the best of the action from the top divisions of women\u0027s football in Italy, Germany and the Netherlands with this brand-new highlights show.",
-        "end":  "2026-10-08T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-08T04:00:00.0000000",
-        "title":  "UEFA Nations League Soccer",
-        "desc":  "League A, Group 3.",
+        "desc":  "From Mars Stadium in Ballarat, Victoria, Australia.",
         "end":  "2026-10-09T00:00:00.0000000"
     },
     {
@@ -297,6 +183,102 @@
         "start":  "2026-10-08T04:00:00.0000000",
         "title":  "UEFA Nations League Soccer",
         "desc":  "League A, Group 3.",
+        "end":  "2026-10-08T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T06:00:00.0000000",
+        "title":  "Canadian Premier League Soccer",
+        "desc":  "From Hamilton Stadium in Hamilton, Ontario.",
+        "end":  "2026-10-08T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T08:00:00.0000000",
+        "title":  "Canadian Premier League Soccer",
+        "desc":  "From York Lions Stadium in Toronto.",
+        "end":  "2026-10-08T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T10:00:00.0000000",
+        "title":  "CONCACAF Nations League Soccer",
+        "desc":  "From Estadio Nacional Chelato UclÃ©s in Honduras.",
+        "end":  "2026-10-08T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T12:00:00.0000000",
+        "title":  "UEFA Nations League Soccer",
+        "desc":  "League A, Group 1.",
+        "end":  "2026-10-08T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T14:00:00.0000000",
+        "title":  "UEFA Nations League Soccer",
+        "desc":  "League A, Group 1.",
+        "end":  "2026-10-08T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T16:00:00.0000000",
+        "title":  "UEFA Nations League Soccer",
+        "desc":  "League A, Group 3.",
+        "end":  "2026-10-08T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T18:00:00.0000000",
+        "title":  "UEFA Nations League Soccer",
+        "desc":  "League A, Group 3.",
+        "end":  "2026-10-08T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T20:00:00.0000000",
+        "title":  "UEFA Nations League Soccer",
+        "desc":  "League A, Group 4.",
+        "end":  "2026-10-08T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T22:00:00.0000000",
+        "title":  "The Best of CONCACAF Nations League 2024-25",
+        "desc":  "Highlights from the year in CONCACAF Nations League soccer.",
+        "end":  "2026-10-08T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T22:30:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "From Mars Stadium in Ballarat, Victoria, Australia.",
         "end":  "2026-10-09T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T00:30:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "From Alberton Oval in Adelaide, South Australia, Australia.",
+        "end":  "2026-10-09T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T02:30:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "From Victoria Park in Abbotsford, Victoria, Australia.",
+        "end":  "2026-10-09T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T04:30:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "Coverage of women\u0027s Australian rules football.",
+        "end":  "2026-10-10T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T00:30:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "From Alberton Oval in Adelaide, South Australia, Australia.",
+        "end":  "2026-10-09T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T02:30:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "From Victoria Park in Abbotsford, Victoria, Australia.",
+        "end":  "2026-10-09T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T04:30:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "Coverage of women\u0027s Australian rules football.",
+        "end":  "2026-10-10T00:00:00.0000000"
     }
 ]

@@ -1,287 +1,5 @@
 [
     {
-        "start":  "2026-10-06T00:00:00.0000000",
-        "title":  "â‹— New York Yankees Pregame",
-        "desc":  "",
-        "end":  "2026-10-06T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T01:00:00.0000000",
-        "title":  "HOPE Week Remembered",
-        "desc":  "",
-        "end":  "2026-10-06T01:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T01:30:00.0000000",
-        "title":  "Brooklyn Nets Media Day 2026",
-        "desc":  "",
-        "end":  "2026-10-06T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T03:30:00.0000000",
-        "title":  "The Story of My Number: Bernie Williams",
-        "desc":  "",
-        "end":  "2026-10-06T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T04:00:00.0000000",
-        "title":  "â‹— New York Yankees Postgame",
-        "desc":  "",
-        "end":  "2026-10-06T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T05:30:00.0000000",
-        "title":  "Homegrown: The Path to Pinstripes",
-        "desc":  "",
-        "end":  "2026-10-06T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T06:00:00.0000000",
-        "title":  "New York Yankees Postgame",
-        "desc":  "",
-        "end":  "2026-10-06T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T07:30:00.0000000",
-        "title":  "New York Yankees Postgame",
-        "desc":  "",
-        "end":  "2026-10-06T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T09:00:00.0000000",
-        "title":  "Brooklyn Nets Media Day 2026",
-        "desc":  "",
-        "end":  "2026-10-06T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T11:00:00.0000000",
-        "title":  "Breaking Par",
-        "desc":  "",
-        "end":  "2026-10-06T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T11:30:00.0000000",
-        "title":  "Breaking Par",
-        "desc":  "",
-        "end":  "2026-10-06T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T12:00:00.0000000",
-        "title":  "New York Yankees Postgame",
-        "desc":  "",
-        "end":  "2026-10-06T13:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T13:30:00.0000000",
-        "title":  "New York Yankees Postgame",
-        "desc":  "",
-        "end":  "2026-10-06T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T15:00:00.0000000",
-        "title":  "New York Yankees Postgame",
-        "desc":  "",
-        "end":  "2026-10-06T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T16:30:00.0000000",
-        "title":  "New York Yankees Postgame",
-        "desc":  "",
-        "end":  "2026-10-06T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T18:00:00.0000000",
-        "title":  "Homegrown: The Path to Pinstripes",
-        "desc":  "",
-        "end":  "2026-10-06T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T18:30:00.0000000",
-        "title":  "HOPE Week Remembered",
-        "desc":  "",
-        "end":  "2026-10-06T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T19:00:00.0000000",
-        "title":  "The Bridge",
-        "desc":  "",
-        "end":  "2026-10-06T19:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T19:30:00.0000000",
-        "title":  "Nets Pod",
-        "desc":  "",
-        "end":  "2026-10-06T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T20:00:00.0000000",
-        "title":  "Sportico Sports Business",
-        "desc":  "",
-        "end":  "2026-10-06T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T20:30:00.0000000",
-        "title":  "Pinstripe Plates",
-        "desc":  "",
-        "end":  "2026-10-06T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T21:00:00.0000000",
-        "title":  "The Stadium",
-        "desc":  "",
-        "end":  "2026-10-06T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T21:30:00.0000000",
-        "title":  "The Bridge",
-        "desc":  "",
-        "end":  "2026-10-06T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T22:00:00.0000000",
-        "title":  "Brooklyn Nets Media Day 2026",
-        "desc":  "",
-        "end":  "2026-10-07T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T00:00:00.0000000",
-        "title":  "Home Plate New York: Manny Pacquiao",
-        "desc":  "",
-        "end":  "2026-10-07T00:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T00:30:00.0000000",
-        "title":  "Men\u0027s Club Soccer Friendlies: Liverpool vs. Wrexham",
-        "desc":  "",
-        "end":  "2026-10-07T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T02:30:00.0000000",
-        "title":  "Homegrown: The Path to Pinstripes",
-        "desc":  "",
-        "end":  "2026-10-07T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T03:00:00.0000000",
-        "title":  "The Bare Knuckle Show",
-        "desc":  "",
-        "end":  "2026-10-07T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T03:30:00.0000000",
-        "title":  "BKFC Rewind",
-        "desc":  "",
-        "end":  "2026-10-07T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T04:30:00.0000000",
-        "title":  "Sportico Sports Business",
-        "desc":  "",
-        "end":  "2026-10-07T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T05:00:00.0000000",
-        "title":  "Breaking Par",
-        "desc":  "",
-        "end":  "2026-10-07T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T05:30:00.0000000",
-        "title":  "Breaking Par",
-        "desc":  "",
-        "end":  "2026-10-07T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T06:00:00.0000000",
-        "title":  "18 Holes With Natalie Gulbis and Jimmy Hanlin",
-        "desc":  "",
-        "end":  "2026-10-07T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T06:30:00.0000000",
-        "title":  "Swing Clinic With Jimmy Hanlin: Carolina Camp Cedar",
-        "desc":  "",
-        "end":  "2026-10-07T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T07:00:00.0000000",
-        "title":  "History of the Yankees: Origins through 1956",
-        "desc":  "",
-        "end":  "2026-10-07T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T08:00:00.0000000",
-        "title":  "History of the Yankees: 1957-1979",
-        "desc":  "",
-        "end":  "2026-10-07T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T09:00:00.0000000",
-        "title":  "History of the Yankees: 1980-2003",
-        "desc":  "",
-        "end":  "2026-10-07T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T10:00:00.0000000",
-        "title":  "History of the Yankees: 2004-2017",
-        "desc":  "",
-        "end":  "2026-10-07T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T11:00:00.0000000",
-        "title":  "Yankeeography: Reggie Jackson",
-        "desc":  "",
-        "end":  "2026-10-07T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T12:00:00.0000000",
-        "title":  "Brooklyn Nets Media Day 2026",
-        "desc":  "",
-        "end":  "2026-10-07T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T14:00:00.0000000",
-        "title":  "Yankees Classics: 1996 World Series, Game 6",
-        "desc":  "",
-        "end":  "2026-10-07T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T17:00:00.0000000",
-        "title":  "Yankees Classics: 1998 World Series, Game 4: Yankees vs. Padres",
-        "desc":  "",
-        "end":  "2026-10-07T19:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T19:30:00.0000000",
-        "title":  "Brooklyn Nets Media Day 2026",
-        "desc":  "",
-        "end":  "2026-10-07T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T21:30:00.0000000",
-        "title":  "HOPE Week Remembered",
-        "desc":  "",
-        "end":  "2026-10-07T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T22:00:00.0000000",
-        "title":  "Yankeeography: Derek Jeter",
-        "desc":  "",
-        "end":  "2026-10-07T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T23:30:00.0000000",
-        "title":  "Yankees Magazine",
-        "desc":  "",
-        "end":  "2026-10-08T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-08T00:00:00.0000000",
-        "title":  "â‹— New York Yankees Pregame",
-        "desc":  "",
-        "end":  "2026-10-09T00:00:00.0000000"
-    },
-    {
         "start":  "2026-10-07T00:00:00.0000000",
         "title":  "Home Plate New York: Manny Pacquiao",
         "desc":  "",
@@ -808,5 +526,329 @@
         "title":  "NBA Basketball: Philadelphia 76ers at Brooklyn Nets (Barclays Center, Brooklyn, NY, USA)",
         "desc":  "",
         "end":  "2026-10-10T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T00:30:00.0000000",
+        "title":  "â‹— NBA Basketball: Philadelphia 76ers at Brooklyn Nets (Barclays Center, Brooklyn, NY, USA)",
+        "desc":  "",
+        "end":  "2026-10-09T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T03:00:00.0000000",
+        "title":  "Sportico Sports Business",
+        "desc":  "",
+        "end":  "2026-10-09T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T03:30:00.0000000",
+        "title":  "The Bare Knuckle Show",
+        "desc":  "",
+        "end":  "2026-10-09T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T04:00:00.0000000",
+        "title":  "NBA Basketball: Philadelphia 76ers at Brooklyn Nets (Barclays Center, Brooklyn, NY, USA)",
+        "desc":  "",
+        "end":  "2026-10-09T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T06:30:00.0000000",
+        "title":  "The Bridge",
+        "desc":  "",
+        "end":  "2026-10-09T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T07:00:00.0000000",
+        "title":  "Nets Pod: Mikel Brown Jr",
+        "desc":  "",
+        "end":  "2026-10-09T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T07:30:00.0000000",
+        "title":  "NBA Basketball: Philadelphia 76ers at Brooklyn Nets (Barclays Center, Brooklyn, NY, USA)",
+        "desc":  "",
+        "end":  "2026-10-09T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T10:00:00.0000000",
+        "title":  "Best of CenterStage: Volume 1",
+        "desc":  "",
+        "end":  "2026-10-09T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T11:00:00.0000000",
+        "title":  "Swing Clinic With Jimmy Hanlin: Best of Swing Tips",
+        "desc":  "",
+        "end":  "2026-10-09T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T11:30:00.0000000",
+        "title":  "18 Holes With Natalie Gulbis and Jimmy Hanlin",
+        "desc":  "",
+        "end":  "2026-10-09T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T12:00:00.0000000",
+        "title":  "Yankeeography: Reggie Jackson",
+        "desc":  "",
+        "end":  "2026-10-09T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T13:00:00.0000000",
+        "title":  "NBA Basketball: Philadelphia 76ers at Brooklyn Nets (Barclays Center, Brooklyn, NY, USA)",
+        "desc":  "",
+        "end":  "2026-10-09T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T15:30:00.0000000",
+        "title":  "Nets Generation",
+        "desc":  "",
+        "end":  "2026-10-09T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T16:00:00.0000000",
+        "title":  "Sportico Sports Business",
+        "desc":  "",
+        "end":  "2026-10-09T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T16:30:00.0000000",
+        "title":  "The Bridge",
+        "desc":  "",
+        "end":  "2026-10-09T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T17:00:00.0000000",
+        "title":  "NBA Basketball: Philadelphia 76ers at Brooklyn Nets (Barclays Center, Brooklyn, NY, USA)",
+        "desc":  "",
+        "end":  "2026-10-09T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T19:30:00.0000000",
+        "title":  "The Stadium",
+        "desc":  "",
+        "end":  "2026-10-09T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T20:00:00.0000000",
+        "title":  "HOPE Week Remembered",
+        "desc":  "",
+        "end":  "2026-10-09T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T20:30:00.0000000",
+        "title":  "Yankees Magazine",
+        "desc":  "",
+        "end":  "2026-10-09T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T21:00:00.0000000",
+        "title":  "Nets Generation",
+        "desc":  "",
+        "end":  "2026-10-09T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T21:30:00.0000000",
+        "title":  "From Badalona to Brooklyn: The Jordi Fernandez Story",
+        "desc":  "",
+        "end":  "2026-10-09T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T23:00:00.0000000",
+        "title":  "NBA Basketball: Philadelphia 76ers at Brooklyn Nets (Barclays Center, Brooklyn, NY, USA)",
+        "desc":  "",
+        "end":  "2026-10-10T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T01:30:00.0000000",
+        "title":  "Pro Football Weekly",
+        "desc":  "",
+        "end":  "2026-10-10T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T02:00:00.0000000",
+        "title":  "The Fantasy Footballers",
+        "desc":  "",
+        "end":  "2026-10-10T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T03:00:00.0000000",
+        "title":  "The Bare Knuckle Show",
+        "desc":  "",
+        "end":  "2026-10-10T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T03:30:00.0000000",
+        "title":  "BKFC Rewind",
+        "desc":  "",
+        "end":  "2026-10-10T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T04:30:00.0000000",
+        "title":  "Pro Football Weekly",
+        "desc":  "",
+        "end":  "2026-10-10T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T05:00:00.0000000",
+        "title":  "The Fantasy Footballers",
+        "desc":  "",
+        "end":  "2026-10-10T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T06:00:00.0000000",
+        "title":  "The Story of My Number: Colton Hood",
+        "desc":  "",
+        "end":  "2026-10-10T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T06:30:00.0000000",
+        "title":  "The Story of My Number: Curtis Martin",
+        "desc":  "",
+        "end":  "2026-10-10T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T07:00:00.0000000",
+        "title":  "Yankeeography: Willie Randolph",
+        "desc":  "",
+        "end":  "2026-10-10T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T08:00:00.0000000",
+        "title":  "Yankeeography: Andy Pettitte",
+        "desc":  "",
+        "end":  "2026-10-10T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T09:00:00.0000000",
+        "title":  "Supergirl Surf Pro 2025: Jacksonville, Fla",
+        "desc":  "",
+        "end":  "2026-10-10T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T10:00:00.0000000",
+        "title":  "Best of CenterStage: Volume 2",
+        "desc":  "",
+        "end":  "2026-10-10T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T11:00:00.0000000",
+        "title":  "The Story of My Number: Joe Girardi",
+        "desc":  "",
+        "end":  "2026-10-10T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T11:30:00.0000000",
+        "title":  "The Story of My Number: Gerrit Cole",
+        "desc":  "",
+        "end":  "2026-10-10T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T12:00:00.0000000",
+        "title":  "Bronx Buds: Season 3",
+        "desc":  "",
+        "end":  "2026-10-10T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T13:00:00.0000000",
+        "title":  "DraftKings Casino Report",
+        "desc":  "",
+        "end":  "2026-10-10T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T13:30:00.0000000",
+        "title":  "Sportico Sports Business",
+        "desc":  "",
+        "end":  "2026-10-10T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T14:00:00.0000000",
+        "title":  "The Fantasy Footballers",
+        "desc":  "",
+        "end":  "2026-10-10T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T15:00:00.0000000",
+        "title":  "Pro Football Weekly",
+        "desc":  "",
+        "end":  "2026-10-10T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T15:30:00.0000000",
+        "title":  "The Bridge",
+        "desc":  "",
+        "end":  "2026-10-10T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T16:00:00.0000000",
+        "title":  "Yankeeography: Reggie Jackson",
+        "desc":  "",
+        "end":  "2026-10-10T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T17:00:00.0000000",
+        "title":  "Breaking Par",
+        "desc":  "",
+        "end":  "2026-10-10T17:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T17:30:00.0000000",
+        "title":  "Breaking Par",
+        "desc":  "",
+        "end":  "2026-10-10T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T18:00:00.0000000",
+        "title":  "Yankees Magazine",
+        "desc":  "",
+        "end":  "2026-10-10T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T18:30:00.0000000",
+        "title":  "From Badalona to Brooklyn: The Jordi Fernandez Story",
+        "desc":  "",
+        "end":  "2026-10-10T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T20:00:00.0000000",
+        "title":  "The Stadium",
+        "desc":  "",
+        "end":  "2026-10-10T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T20:30:00.0000000",
+        "title":  "Pinstripe Plates",
+        "desc":  "",
+        "end":  "2026-10-10T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T21:00:00.0000000",
+        "title":  "The Fantasy Footballers",
+        "desc":  "",
+        "end":  "2026-10-10T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T22:00:00.0000000",
+        "title":  "Pro Football Weekly",
+        "desc":  "",
+        "end":  "2026-10-10T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T22:30:00.0000000",
+        "title":  "HOPE Week Remembered",
+        "desc":  "",
+        "end":  "2026-10-10T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-10T23:00:00.0000000",
+        "title":  "Yankeeography: Hideki Matsui",
+        "desc":  "",
+        "end":  "2026-10-11T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-11T00:00:00.0000000",
+        "title":  "Yankeeography: CC Sabathia",
+        "desc":  "",
+        "end":  "2026-10-12T00:00:00.0000000"
     }
 ]

@@ -1,371 +1,5 @@
 [
     {
-        "start":  "2026-10-06T00:00:00.0000000",
-        "title":  "The Voice",
-        "desc":  "Coaches Queen Latifah, Riley Green, Kelly Clarkson and Adam Levine all vie to discover the next singing phenomenon on the fifth night of blind auditions.",
-        "end":  "2026-10-06T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T02:00:00.0000000",
-        "title":  "Line of Fire",
-        "desc":  "Russ and Clare race the clock to crack a grand jury tampering case; Mike cracks down on Micah\u0027s detail; Jane digs for files on the murdered agents, straining her relationships to get ahead of Nia\u0027s investigation.",
-        "end":  "2026-10-06T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T03:00:00.0000000",
-        "title":  "Live: News 4 NY at 11",
-        "desc":  "Local and regional news.",
-        "end":  "2026-10-06T03:34:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T03:34:00.0000000",
-        "title":  "The Tonight Show Starring Jimmy Fallon",
-        "desc":  "Actor Chris Rock; actress Jennifer Hudson; Alabama Shakes perform.",
-        "end":  "2026-10-06T04:37:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T04:37:00.0000000",
-        "title":  "Late Night With Seth Meyers",
-        "desc":  "Actress Jessica Biel; singer Slayyyter.",
-        "end":  "2026-10-06T05:37:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T05:37:00.0000000",
-        "title":  "News 4 NY at 11",
-        "desc":  "Local and regional news.",
-        "end":  "2026-10-06T06:12:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T06:12:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-        "end":  "2026-10-06T06:42:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T06:42:00.0000000",
-        "title":  "Top Story With Tom Llamas",
-        "desc":  "Reporting of breaking news and developing stories in real time.",
-        "end":  "2026-10-06T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T07:30:00.0000000",
-        "title":  "New York Live Tonight",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-10-06T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T08:00:00.0000000",
-        "title":  "Early Today",
-        "desc":  "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day\u0027s anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
-        "end":  "2026-10-06T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T08:30:00.0000000",
-        "title":  "Today in New York",
-        "desc":  "The local news, weather and investigative stories impacting your community.",
-        "end":  "2026-10-06T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T09:00:00.0000000",
-        "title":  "Today in New York",
-        "desc":  "The local news, weather and investigative stories impacting your community.",
-        "end":  "2026-10-06T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T10:00:00.0000000",
-        "title":  "Today in New York @ 6AM",
-        "desc":  "The latest local news, weather and investigative stories impacting the community.",
-        "end":  "2026-10-06T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T11:00:00.0000000",
-        "title":  "Today",
-        "desc":  "Journalist Steve Kornacki; what to know about hotel carpets and germs; actress Mikey Madison; shopping expert Adrianna Brach; Today Food with Yotam Ottolenghi.",
-        "end":  "2026-10-06T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T13:00:00.0000000",
-        "title":  "Today 3rd Hour",
-        "desc":  "Actors Jessica Biel and Sam Richardson (\"Matchbox the Movie\"); actress Anna Camp; shopping expert Chassie Post; Today Food with Yotam Ottolenghi.",
-        "end":  "2026-10-06T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T14:00:00.0000000",
-        "title":  "Today With Jenna \u0026 Sheinelle",
-        "desc":  "TV host Jennifer Hudson; TV personality Jill Martin; reporter Jazzy Guerra.",
-        "end":  "2026-10-06T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T15:00:00.0000000",
-        "title":  "Live: News 4 NY at 11AM",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-10-06T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T15:30:00.0000000",
-        "title":  "New York Live",
-        "desc":  "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
-        "end":  "2026-10-06T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T16:00:00.0000000",
-        "title":  "NBC News Daily",
-        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-        "end":  "2026-10-06T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T17:00:00.0000000",
-        "title":  "Dateline",
-        "desc":  "A pregnant woman vanishes before her own baby shower and her worried family raises the alarm; detectives unravel a chilling mystery.",
-        "end":  "2026-10-06T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T18:00:00.0000000",
-        "title":  "NBC News Daily",
-        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-        "end":  "2026-10-06T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T19:00:00.0000000",
-        "title":  "Live: News Zone",
-        "desc":  "News, as it happens; raw coverage and inside access from the tri-state and beyond.",
-        "end":  "2026-10-06T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T20:00:00.0000000",
-        "title":  "Live: News 4 NY at 4",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-10-06T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T20:30:00.0000000",
-        "title":  "Live: News 4 NY at 4:30",
-        "desc":  "NY news.",
-        "end":  "2026-10-06T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T21:00:00.0000000",
-        "title":  "Live: News 4 NY at 5",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-10-06T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T21:30:00.0000000",
-        "title":  "Live: News 4 NY at 5:30",
-        "desc":  "NY news.",
-        "end":  "2026-10-06T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T22:00:00.0000000",
-        "title":  "Live: News 4 NY at 6",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-10-06T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T22:30:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-        "end":  "2026-10-06T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T23:00:00.0000000",
-        "title":  "News 4 NY at 7",
-        "desc":  "Stay informed with the breaking news and headlines.",
-        "end":  "2026-10-06T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-06T23:30:00.0000000",
-        "title":  "New York Live Tonight",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-10-07T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T00:00:00.0000000",
-        "title":  "The Voice",
-        "desc":  "Coaches Queen Latifah, Riley Green, Kelly Clarkson and Adam Levine all vie to discover the next singing phenomenon on the sixth and final night of blind auditions.",
-        "end":  "2026-10-07T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T02:00:00.0000000",
-        "title":  "The Traitors",
-        "desc":  "Accusations fly and a Traitor battles to stay out of the spotlight; meanwhile, in a desperate bid to build the prize pot, the players are chased by a terrifying death parade â€” and not everyone survives the night.",
-        "end":  "2026-10-07T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T03:00:00.0000000",
-        "title":  "Live: News 4 NY at 11",
-        "desc":  "Local and regional news.",
-        "end":  "2026-10-07T03:34:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T03:34:00.0000000",
-        "title":  "The Tonight Show Starring Jimmy Fallon",
-        "desc":  "Actor John Cena; actress Emma D\u0027Arcy; Sam Smith talks and performs; a special cameo by Wishbone Kitchen\u0027s Meredith Hayden.",
-        "end":  "2026-10-07T04:37:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T04:37:00.0000000",
-        "title":  "Late Night With Seth Meyers",
-        "desc":  "Actor Sebastian Stan; actress Jane Wickline; writer George Saunders.",
-        "end":  "2026-10-07T05:37:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T05:37:00.0000000",
-        "title":  "News 4 NY at 11",
-        "desc":  "Local and regional news.",
-        "end":  "2026-10-07T06:12:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T06:12:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-        "end":  "2026-10-07T06:42:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T06:42:00.0000000",
-        "title":  "Top Story With Tom Llamas",
-        "desc":  "Reporting of breaking news and developing stories in real time.",
-        "end":  "2026-10-07T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T07:30:00.0000000",
-        "title":  "New York Live Tonight",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-10-07T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T08:00:00.0000000",
-        "title":  "Early Today",
-        "desc":  "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day\u0027s anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
-        "end":  "2026-10-07T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T08:30:00.0000000",
-        "title":  "Today in New York",
-        "desc":  "The local news, weather and investigative stories impacting your community.",
-        "end":  "2026-10-07T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T09:00:00.0000000",
-        "title":  "Today in New York",
-        "desc":  "The local news, weather and investigative stories impacting your community.",
-        "end":  "2026-10-07T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T10:00:00.0000000",
-        "title":  "Today in New York @ 6AM",
-        "desc":  "The latest local news, weather and investigative stories impacting the community.",
-        "end":  "2026-10-07T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T11:00:00.0000000",
-        "title":  "Today",
-        "desc":  "Actor Jeremy Allen White; lifestyle expert Melissa Garcia; chef Eric Ripert.",
-        "end":  "2026-10-07T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T13:00:00.0000000",
-        "title":  "Today 3rd Hour",
-        "desc":  "Actor Taylor Kinney; actor Darren Barnet; actress Marina Squerciati; editor Julie Ricevuto; dippable snacks with Lucy Simon.",
-        "end":  "2026-10-07T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T14:00:00.0000000",
-        "title":  "Today With Jenna \u0026 Sheinelle",
-        "desc":  "The Scoop with Zuri Hall; actors Margaret Qualley and Aaron Pierre (\"Love of Your Life\"); Today Food with Jessie James Decker; fall design trends with Preston Konrad.",
-        "end":  "2026-10-07T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T15:00:00.0000000",
-        "title":  "Live: News 4 NY at 11AM",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-10-07T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T15:30:00.0000000",
-        "title":  "New York Live",
-        "desc":  "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
-        "end":  "2026-10-07T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T16:00:00.0000000",
-        "title":  "NBC News Daily",
-        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-        "end":  "2026-10-07T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T17:00:00.0000000",
-        "title":  "Dateline",
-        "desc":  "Rocky Mountain National Park rangers question whether a woman\u0027s fatal fall was an accident or the result of an act of violence.",
-        "end":  "2026-10-07T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T18:00:00.0000000",
-        "title":  "NBC News Daily",
-        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-        "end":  "2026-10-07T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T19:00:00.0000000",
-        "title":  "Live: News Zone",
-        "desc":  "News, as it happens; raw coverage and inside access from the tri-state and beyond.",
-        "end":  "2026-10-07T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T20:00:00.0000000",
-        "title":  "Live: News 4 NY at 4",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-10-07T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T20:30:00.0000000",
-        "title":  "Live: News 4 NY at 4:30",
-        "desc":  "NY news.",
-        "end":  "2026-10-07T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T21:00:00.0000000",
-        "title":  "Live: News 4 NY at 5",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-10-07T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T21:30:00.0000000",
-        "title":  "Live: News 4 NY at 5:30",
-        "desc":  "NY news.",
-        "end":  "2026-10-07T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T22:00:00.0000000",
-        "title":  "Live: News 4 NY at 6",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-10-07T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T22:30:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-        "end":  "2026-10-07T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T23:00:00.0000000",
-        "title":  "News 4 NY at 7",
-        "desc":  "Stay informed with the breaking news and headlines.",
-        "end":  "2026-10-07T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-07T23:30:00.0000000",
-        "title":  "New York Live Tonight",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-10-08T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-08T00:00:00.0000000",
-        "title":  "Chicago Med",
-        "desc":  "Gunshots at a wedding lead to chaos in the E.D.; Goodwin defends herself under threat of being fired; Hannah makes a decision while on maternity leave.",
-        "end":  "2026-10-09T00:00:00.0000000"
-    },
-    {
         "start":  "2026-10-07T00:00:00.0000000",
         "title":  "The Voice",
         "desc":  "Coaches Queen Latifah, Riley Green, Kelly Clarkson and Adam Levine all vie to discover the next singing phenomenon on the sixth and final night of blind auditions.",
@@ -579,7 +213,163 @@
         "start":  "2026-10-08T04:37:00.0000000",
         "title":  "Late Night With Seth Meyers",
         "desc":  "Actor Ben Affleck; musician David Byrne.",
+        "end":  "2026-10-08T05:37:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T05:37:00.0000000",
+        "title":  "News 4 NY at 11",
+        "desc":  "Local and regional news.",
+        "end":  "2026-10-08T06:12:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T06:12:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+        "end":  "2026-10-08T06:42:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T06:42:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "desc":  "Reporting of breaking news and developing stories in real time.",
+        "end":  "2026-10-08T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T07:30:00.0000000",
+        "title":  "New York Live Tonight",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-10-08T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T08:00:00.0000000",
+        "title":  "Early Today",
+        "desc":  "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day\u0027s anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+        "end":  "2026-10-08T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T08:30:00.0000000",
+        "title":  "Today in New York",
+        "desc":  "The local news, weather and investigative stories impacting your community.",
+        "end":  "2026-10-08T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T09:00:00.0000000",
+        "title":  "Today in New York",
+        "desc":  "The local news, weather and investigative stories impacting your community.",
+        "end":  "2026-10-08T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T10:00:00.0000000",
+        "title":  "Today in New York @ 6AM",
+        "desc":  "The latest local news, weather and investigative stories impacting the community.",
+        "end":  "2026-10-08T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T11:00:00.0000000",
+        "title":  "Today",
+        "desc":  "Actress Catherine Zeta-Jones; Wynonna Judd performs; Today Food with Alon Shaya.",
+        "end":  "2026-10-08T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T13:00:00.0000000",
+        "title":  "Today 3rd Hour",
+        "desc":  "Gut-happy foods with Dr. Trisha Pasricha; actress Catherine Zeta-Jones; actress Kelli Giddish; breast cancer awareness products with Ally Love; life lessons with Niro Feliciano.",
+        "end":  "2026-10-08T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T14:00:00.0000000",
+        "title":  "Today With Jenna \u0026 Sheinelle",
+        "desc":  "Actress Viola Davis; Today Food with Alon Shaya; Wynonna Judd talks and performs.",
+        "end":  "2026-10-08T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T15:00:00.0000000",
+        "title":  "Live: News 4 NY at 11AM",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-10-08T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T15:30:00.0000000",
+        "title":  "New York Live",
+        "desc":  "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
+        "end":  "2026-10-08T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T16:00:00.0000000",
+        "title":  "NBC News Daily",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+        "end":  "2026-10-08T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T17:00:00.0000000",
+        "title":  "Dateline",
+        "desc":  "When high school student Megan Nichols vanishes from her Illinois home, her mother finds a note saying that she ran away; a grisly discovery made three years later changes the course of the investigation.",
+        "end":  "2026-10-08T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T18:00:00.0000000",
+        "title":  "NBC News Daily",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+        "end":  "2026-10-08T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T19:00:00.0000000",
+        "title":  "Live: News Zone",
+        "desc":  "News, as it happens; raw coverage and inside access from the tri-state and beyond.",
+        "end":  "2026-10-08T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T20:00:00.0000000",
+        "title":  "Live: News 4 NY at 4",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-10-08T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T20:30:00.0000000",
+        "title":  "Live: News 4 NY at 4:30",
+        "desc":  "NY news.",
+        "end":  "2026-10-08T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T21:00:00.0000000",
+        "title":  "Live: News 4 NY at 5",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-10-08T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T21:30:00.0000000",
+        "title":  "Live: News 4 NY at 5:30",
+        "desc":  "NY news.",
+        "end":  "2026-10-08T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T22:00:00.0000000",
+        "title":  "Live: News 4 NY at 6",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-10-08T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T22:30:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+        "end":  "2026-10-08T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T23:00:00.0000000",
+        "title":  "News 4 NY at 7",
+        "desc":  "Stay informed with the breaking news and headlines.",
+        "end":  "2026-10-08T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T23:30:00.0000000",
+        "title":  "New York Live Tonight",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
         "end":  "2026-10-09T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T00:00:00.0000000",
+        "title":  "The Traitors",
+        "desc":  "Pressure is at a boiling point as the Traitors must commit their next murder in plain sight; meanwhile, the stakes are higher than ever for the players as they face a terrifying night that could change everything.",
+        "end":  "2026-10-10T00:00:00.0000000"
     },
     {
         "start":  "2026-10-08T00:00:00.0000000",
@@ -615,6 +405,228 @@
         "start":  "2026-10-08T04:37:00.0000000",
         "title":  "Late Night With Seth Meyers",
         "desc":  "Actor Ben Affleck; musician David Byrne.",
+        "end":  "2026-10-08T05:37:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T05:37:00.0000000",
+        "title":  "News 4 NY at 11",
+        "desc":  "Local and regional news.",
+        "end":  "2026-10-08T06:12:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T06:12:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+        "end":  "2026-10-08T06:42:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T06:42:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "desc":  "Reporting of breaking news and developing stories in real time.",
+        "end":  "2026-10-08T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T07:30:00.0000000",
+        "title":  "New York Live Tonight",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-10-08T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T08:00:00.0000000",
+        "title":  "Early Today",
+        "desc":  "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day\u0027s anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+        "end":  "2026-10-08T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T08:30:00.0000000",
+        "title":  "Today in New York",
+        "desc":  "The local news, weather and investigative stories impacting your community.",
+        "end":  "2026-10-08T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T09:00:00.0000000",
+        "title":  "Today in New York",
+        "desc":  "The local news, weather and investigative stories impacting your community.",
+        "end":  "2026-10-08T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T10:00:00.0000000",
+        "title":  "Today in New York @ 6AM",
+        "desc":  "The latest local news, weather and investigative stories impacting the community.",
+        "end":  "2026-10-08T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T11:00:00.0000000",
+        "title":  "Today",
+        "desc":  "Actress Catherine Zeta-Jones; Wynonna Judd performs; Today Food with Alon Shaya.",
+        "end":  "2026-10-08T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T13:00:00.0000000",
+        "title":  "Today 3rd Hour",
+        "desc":  "Gut-happy foods with Dr. Trisha Pasricha; actress Catherine Zeta-Jones; actress Kelli Giddish; breast cancer awareness products with Ally Love; life lessons with Niro Feliciano.",
+        "end":  "2026-10-08T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T14:00:00.0000000",
+        "title":  "Today With Jenna \u0026 Sheinelle",
+        "desc":  "Actress Viola Davis; Today Food with Alon Shaya; Wynonna Judd talks and performs.",
+        "end":  "2026-10-08T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T15:00:00.0000000",
+        "title":  "Live: News 4 NY at 11AM",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-10-08T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T15:30:00.0000000",
+        "title":  "New York Live",
+        "desc":  "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
+        "end":  "2026-10-08T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T16:00:00.0000000",
+        "title":  "NBC News Daily",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+        "end":  "2026-10-08T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T17:00:00.0000000",
+        "title":  "Dateline",
+        "desc":  "When high school student Megan Nichols vanishes from her Illinois home, her mother finds a note saying that she ran away; a grisly discovery made three years later changes the course of the investigation.",
+        "end":  "2026-10-08T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T18:00:00.0000000",
+        "title":  "NBC News Daily",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+        "end":  "2026-10-08T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T19:00:00.0000000",
+        "title":  "Live: News Zone",
+        "desc":  "News, as it happens; raw coverage and inside access from the tri-state and beyond.",
+        "end":  "2026-10-08T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T20:00:00.0000000",
+        "title":  "Live: News 4 NY at 4",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-10-08T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T20:30:00.0000000",
+        "title":  "Live: News 4 NY at 4:30",
+        "desc":  "NY news.",
+        "end":  "2026-10-08T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T21:00:00.0000000",
+        "title":  "Live: News 4 NY at 5",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-10-08T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T21:30:00.0000000",
+        "title":  "Live: News 4 NY at 5:30",
+        "desc":  "NY news.",
+        "end":  "2026-10-08T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T22:00:00.0000000",
+        "title":  "Live: News 4 NY at 6",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-10-08T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T22:30:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+        "end":  "2026-10-08T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T23:00:00.0000000",
+        "title":  "News 4 NY at 7",
+        "desc":  "Stay informed with the breaking news and headlines.",
+        "end":  "2026-10-08T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-08T23:30:00.0000000",
+        "title":  "New York Live Tonight",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
         "end":  "2026-10-09T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T00:00:00.0000000",
+        "title":  "The Traitors",
+        "desc":  "Pressure is at a boiling point as the Traitors must commit their next murder in plain sight; meanwhile, the stakes are higher than ever for the players as they face a terrifying night that could change everything.",
+        "end":  "2026-10-09T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T01:00:00.0000000",
+        "title":  "Law \u0026 Order: Special Victims Unit",
+        "desc":  "When a sexual assault victim struggles to prove her case in court, Benson pursues a controversial strategy to make sure her voice is heard; a meeting with a jury consultant leads Benson down a path that threatens her partnership with Carisi.",
+        "end":  "2026-10-09T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T02:00:00.0000000",
+        "title":  "Law \u0026 Order",
+        "desc":  "A software engineer\u0027s murder sends Riley and Walker into the rapidly-evolving world of AI; as Baxter pursues justice in a groundbreaking case, he\u0027s confronted with a technology advancing faster than the laws designed to govern it.",
+        "end":  "2026-10-09T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T03:00:00.0000000",
+        "title":  "Live: News 4 NY at 11",
+        "desc":  "Local and regional news.",
+        "end":  "2026-10-09T03:34:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T03:34:00.0000000",
+        "title":  "The Tonight Show Starring Jimmy Fallon",
+        "desc":  "Actress Keri Russell; actor Charlie Heaton; singer-songwriter Patti Smith; Westside Cowboy performs.",
+        "end":  "2026-10-09T04:37:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T04:37:00.0000000",
+        "title":  "Late Night With Seth Meyers",
+        "desc":  "Actor James McAvoy; chef JosÃ© AndrÃ©s.",
+        "end":  "2026-10-10T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T00:00:00.0000000",
+        "title":  "The Traitors",
+        "desc":  "Pressure is at a boiling point as the Traitors must commit their next murder in plain sight; meanwhile, the stakes are higher than ever for the players as they face a terrifying night that could change everything.",
+        "end":  "2026-10-09T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T01:00:00.0000000",
+        "title":  "Law \u0026 Order: Special Victims Unit",
+        "desc":  "When a sexual assault victim struggles to prove her case in court, Benson pursues a controversial strategy to make sure her voice is heard; a meeting with a jury consultant leads Benson down a path that threatens her partnership with Carisi.",
+        "end":  "2026-10-09T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T02:00:00.0000000",
+        "title":  "Law \u0026 Order",
+        "desc":  "A software engineer\u0027s murder sends Riley and Walker into the rapidly-evolving world of AI; as Baxter pursues justice in a groundbreaking case, he\u0027s confronted with a technology advancing faster than the laws designed to govern it.",
+        "end":  "2026-10-09T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T03:00:00.0000000",
+        "title":  "Live: News 4 NY at 11",
+        "desc":  "Local and regional news.",
+        "end":  "2026-10-09T03:34:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T03:34:00.0000000",
+        "title":  "The Tonight Show Starring Jimmy Fallon",
+        "desc":  "Actress Keri Russell; actor Charlie Heaton; singer-songwriter Patti Smith; Westside Cowboy performs.",
+        "end":  "2026-10-09T04:37:00.0000000"
+    },
+    {
+        "start":  "2026-10-09T04:37:00.0000000",
+        "title":  "Late Night With Seth Meyers",
+        "desc":  "Actor James McAvoy; chef JosÃ© AndrÃ©s.",
+        "end":  "2026-10-10T00:00:00.0000000"
     }
 ]
