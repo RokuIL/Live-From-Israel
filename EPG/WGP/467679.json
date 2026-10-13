@@ -183,7 +183,139 @@
         "start":  "2026-10-14T04:37:00.0000000",
         "title":  "Nightline",
         "desc":  "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
+        "end":  "2026-10-14T05:06:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T05:06:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "desc":  "Delivering the news that matters most.",
+        "end":  "2026-10-14T05:36:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T05:36:00.0000000",
+        "title":  "Live with Kelly and Mark",
+        "desc":  "Actor Sylvester Stallone; actor Rufus Sewell; cooking with Nara Smith.",
+        "end":  "2026-10-14T06:36:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T06:36:00.0000000",
+        "title":  "Jeopardy!",
+        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
+        "end":  "2026-10-14T07:06:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T07:06:00.0000000",
+        "title":  "Tamron Hall",
+        "desc":  "Comic Funny Marco; Azzy Milan on making her mark in fashion; Shop Tam Fam.",
+        "end":  "2026-10-14T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T08:00:00.0000000",
+        "title":  "Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-10-14T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T08:30:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-10-14T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T10:00:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-10-14T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T11:00:00.0000000",
+        "title":  "Good Morning America",
+        "desc":  "Actress Chandra Wilson; actor Ryan Phillippe; Deals \u0026 Steals with Tory Johnson.",
+        "end":  "2026-10-14T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T13:00:00.0000000",
+        "title":  "Live with Kelly and Mark",
+        "desc":  "Actress Chandra Wilson (\"Grey\u0027s Anatomy\"); actor Ryan Phillippe (\"9-1-1: Nashville\"); Andy Grammer performs.",
+        "end":  "2026-10-14T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T14:00:00.0000000",
+        "title":  "Eyewitness News Mornings at 10",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-10-14T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T15:00:00.0000000",
+        "title":  "The View",
+        "desc":  "Author D.L. Hughley.",
+        "end":  "2026-10-14T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T16:00:00.0000000",
+        "title":  "Eyewitness News at Noon",
+        "desc":  "Midday news update.",
+        "end":  "2026-10-14T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T17:00:00.0000000",
+        "title":  "GMA3",
+        "desc":  "Actress Chandra Wilson; actor Ryan Phillippe; cookbook author John Kanell; \"Dancing With the Stars\" recap with Kym Johnson-Herjavec.",
+        "end":  "2026-10-14T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T18:00:00.0000000",
+        "title":  "Tamron Hall",
+        "desc":  "Actors Meagan Good, Morris Chestnut and Mckinley Freeman (\"Reasonable Doubt\"); Jessie James Decker, Sydney Rae Bass and Karen Parker share the story behind their family cookbook; author and co-host of \"Conan O\u0027Brien Needs a Friend\" Sona Movsesian.",
+        "end":  "2026-10-14T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T19:00:00.0000000",
+        "title":  "General Hospital",
+        "desc":  "Jason is taken to task; Tracy voices her concern; Brook Lynn is given food for thought; Michael reflects on his past; Britt defends Lucas.",
+        "end":  "2026-10-14T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T20:00:00.0000000",
+        "title":  "Eyewitness News First at 4",
+        "desc":  "Local and regional news coverage.",
+        "end":  "2026-10-14T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T21:00:00.0000000",
+        "title":  "Eyewitness News at 5",
+        "desc":  "Local and regional news.",
+        "end":  "2026-10-14T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T22:00:00.0000000",
+        "title":  "Eyewitness News at 6",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-10-14T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T22:30:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "desc":  "Delivering the news that matters most.",
+        "end":  "2026-10-14T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T23:00:00.0000000",
+        "title":  "Jeopardy!",
+        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
+        "end":  "2026-10-14T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T23:30:00.0000000",
+        "title":  "Wheel of Fortune",
+        "desc":  "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
         "end":  "2026-10-15T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T00:00:00.0000000",
+        "title":  "Scrubs",
+        "desc":  "After uncovering a costly mistake made by Turk, J.D. must decide whether to report him or let it slide; Elliot grows her responsibilities at Sacred Heart by leading a new initiative.",
+        "end":  "2026-10-16T00:00:00.0000000"
     },
     {
         "start":  "2026-10-14T00:00:00.0000000",
@@ -213,6 +345,216 @@
         "start":  "2026-10-14T04:37:00.0000000",
         "title":  "Nightline",
         "desc":  "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
+        "end":  "2026-10-14T05:06:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T05:06:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "desc":  "Delivering the news that matters most.",
+        "end":  "2026-10-14T05:36:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T05:36:00.0000000",
+        "title":  "Live with Kelly and Mark",
+        "desc":  "Actor Sylvester Stallone; actor Rufus Sewell; cooking with Nara Smith.",
+        "end":  "2026-10-14T06:36:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T06:36:00.0000000",
+        "title":  "Jeopardy!",
+        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
+        "end":  "2026-10-14T07:06:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T07:06:00.0000000",
+        "title":  "Tamron Hall",
+        "desc":  "Comic Funny Marco; Azzy Milan on making her mark in fashion; Shop Tam Fam.",
+        "end":  "2026-10-14T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T08:00:00.0000000",
+        "title":  "Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-10-14T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T08:30:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-10-14T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T10:00:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-10-14T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T11:00:00.0000000",
+        "title":  "Good Morning America",
+        "desc":  "Actress Chandra Wilson; actor Ryan Phillippe; Deals \u0026 Steals with Tory Johnson.",
+        "end":  "2026-10-14T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T13:00:00.0000000",
+        "title":  "Live with Kelly and Mark",
+        "desc":  "Actress Chandra Wilson (\"Grey\u0027s Anatomy\"); actor Ryan Phillippe (\"9-1-1: Nashville\"); Andy Grammer performs.",
+        "end":  "2026-10-14T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T14:00:00.0000000",
+        "title":  "Eyewitness News Mornings at 10",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-10-14T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T15:00:00.0000000",
+        "title":  "The View",
+        "desc":  "Author D.L. Hughley.",
+        "end":  "2026-10-14T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T16:00:00.0000000",
+        "title":  "Eyewitness News at Noon",
+        "desc":  "Midday news update.",
+        "end":  "2026-10-14T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T17:00:00.0000000",
+        "title":  "GMA3",
+        "desc":  "Actress Chandra Wilson; actor Ryan Phillippe; cookbook author John Kanell; \"Dancing With the Stars\" recap with Kym Johnson-Herjavec.",
+        "end":  "2026-10-14T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T18:00:00.0000000",
+        "title":  "Tamron Hall",
+        "desc":  "Actors Meagan Good, Morris Chestnut and Mckinley Freeman (\"Reasonable Doubt\"); Jessie James Decker, Sydney Rae Bass and Karen Parker share the story behind their family cookbook; author and co-host of \"Conan O\u0027Brien Needs a Friend\" Sona Movsesian.",
+        "end":  "2026-10-14T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T19:00:00.0000000",
+        "title":  "General Hospital",
+        "desc":  "Jason is taken to task; Tracy voices her concern; Brook Lynn is given food for thought; Michael reflects on his past; Britt defends Lucas.",
+        "end":  "2026-10-14T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T20:00:00.0000000",
+        "title":  "Eyewitness News First at 4",
+        "desc":  "Local and regional news coverage.",
+        "end":  "2026-10-14T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T21:00:00.0000000",
+        "title":  "Eyewitness News at 5",
+        "desc":  "Local and regional news.",
+        "end":  "2026-10-14T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T22:00:00.0000000",
+        "title":  "Eyewitness News at 6",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-10-14T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T22:30:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "desc":  "Delivering the news that matters most.",
+        "end":  "2026-10-14T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T23:00:00.0000000",
+        "title":  "Jeopardy!",
+        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
+        "end":  "2026-10-14T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T23:30:00.0000000",
+        "title":  "Wheel of Fortune",
+        "desc":  "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
         "end":  "2026-10-15T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T00:00:00.0000000",
+        "title":  "Scrubs",
+        "desc":  "After uncovering a costly mistake made by Turk, J.D. must decide whether to report him or let it slide; Elliot grows her responsibilities at Sacred Heart by leading a new initiative.",
+        "end":  "2026-10-15T00:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T00:30:00.0000000",
+        "title":  "Abbott Elementary",
+        "desc":  "A group of dedicated, passionate teachers work to help their students succeed in life despite being outnumbered and underfunded.",
+        "end":  "2026-10-15T01:02:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T01:02:00.0000000",
+        "title":  "Who Wants to Be a Millionaire",
+        "desc":  "Celebrity contestants Billy Porter, Leslie Odom Jr., Timothy Simons and Jackie Tohn.",
+        "end":  "2026-10-15T02:01:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T02:01:00.0000000",
+        "title":  "Shark Tank",
+        "desc":  "Mindy Kaling guest sharks; flat-folding spoons; a print-only puzzle newspaper; a fake call button; a lollipop medicine dispenser for kids.",
+        "end":  "2026-10-15T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T03:00:00.0000000",
+        "title":  "Eyewitness News at 11",
+        "desc":  "Breaking news.",
+        "end":  "2026-10-15T03:35:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T03:35:00.0000000",
+        "title":  "Jimmy Kimmel Live!",
+        "desc":  "Actor Adam Brody; actor Tom Rhys Harries; Adryon de LeÃ³n sits in with The Cletones.",
+        "end":  "2026-10-15T04:37:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T04:37:00.0000000",
+        "title":  "Nightline",
+        "desc":  "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
+        "end":  "2026-10-16T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T00:00:00.0000000",
+        "title":  "Scrubs",
+        "desc":  "After uncovering a costly mistake made by Turk, J.D. must decide whether to report him or let it slide; Elliot grows her responsibilities at Sacred Heart by leading a new initiative.",
+        "end":  "2026-10-15T00:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T00:30:00.0000000",
+        "title":  "Abbott Elementary",
+        "desc":  "A group of dedicated, passionate teachers work to help their students succeed in life despite being outnumbered and underfunded.",
+        "end":  "2026-10-15T01:02:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T01:02:00.0000000",
+        "title":  "Who Wants to Be a Millionaire",
+        "desc":  "Celebrity contestants Billy Porter, Leslie Odom Jr., Timothy Simons and Jackie Tohn.",
+        "end":  "2026-10-15T02:01:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T02:01:00.0000000",
+        "title":  "Shark Tank",
+        "desc":  "Mindy Kaling guest sharks; flat-folding spoons; a print-only puzzle newspaper; a fake call button; a lollipop medicine dispenser for kids.",
+        "end":  "2026-10-15T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T03:00:00.0000000",
+        "title":  "Eyewitness News at 11",
+        "desc":  "Breaking news.",
+        "end":  "2026-10-15T03:35:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T03:35:00.0000000",
+        "title":  "Jimmy Kimmel Live!",
+        "desc":  "Actor Adam Brody; actor Tom Rhys Harries; Adryon de LeÃ³n sits in with The Cletones.",
+        "end":  "2026-10-15T04:37:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T04:37:00.0000000",
+        "title":  "Nightline",
+        "desc":  "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
+        "end":  "2026-10-16T00:00:00.0000000"
     }
 ]
