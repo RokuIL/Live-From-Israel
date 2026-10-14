@@ -1,290 +1,182 @@
 [
     {
-        "start":  "2026-10-13T00:00:00.0000000",
-        "title":  "Professional Triathletes Organisation",
-        "desc":  "Kate and Paula excel at T100 Vancouver, with an intense race and disputed finish.",
-        "end":  "2026-10-13T00:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-13T00:30:00.0000000",
-        "title":  "Professional Triathletes Organisation",
-        "desc":  "Hayden Wilde seeks redemption, Jelle Geens chases his rival in race to Qatar at French Riviera.",
-        "end":  "2026-10-13T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-13T01:00:00.0000000",
-        "title":  "Women\u0027s International Soccer Friendlies",
-        "desc":  "From BMO Field in Toronto.",
-        "end":  "2026-10-13T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-13T03:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 20 Iowa Hawkeyes (4-1) and the Washington Huskies (3-2) meet in a Big Ten clash. Hank Brown leads Iowa with 832 passing yards and five touchdowns, while Demond Williams Jr. leads Washington with 1,327 passing yards and eight touchdowns.",
-        "end":  "2026-10-13T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-13T06:00:00.0000000",
+        "start":  "2026-10-14T01:30:00.0000000",
         "title":  "College Football",
         "desc":  "No. 7 Indiana visits Nebraska in a Week 6 Big Ten game. Indiana beat Rutgers, 47-15, in Week 5 for its fifth straight win, while Nebraska beat Maryland, 48-23. Josh Hoover leads Indiana, while Nebraska is paced by quarterback Anthony Colandrea.",
-        "end":  "2026-10-13T07:00:00.0000000"
+        "end":  "2026-10-14T04:30:00.0000000"
     },
     {
-        "start":  "2026-10-13T07:00:00.0000000",
+        "start":  "2026-10-14T04:30:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Spartans (2-3) host the Fighting Illini (2-3). Both teams lost their previous game: Illinois to Purdue 24-17 and Michigan State to Wisconsin 31-3. Katin Houser leads Illinois with 11 TDs, while Alessio Milivojevic leads Michigan State with three.",
+        "end":  "2026-10-14T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T07:30:00.0000000",
+        "title":  "The Gronk \u0026 Jules Show",
+        "desc":  "Former teammates, best friends and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
+        "end":  "2026-10-14T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T08:00:00.0000000",
+        "title":  "Kevin Harvick\u0027s Happy Hour",
+        "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
+        "end":  "2026-10-14T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T09:00:00.0000000",
+        "title":  "SPEED With Harvick \u0026 Buxton",
+        "desc":  "Kevin Harvick and Will Buxton celebrate the world of motorsports.",
+        "end":  "2026-10-14T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T10:00:00.0000000",
+        "title":  "GT4 America",
+        "desc":  "From Barber Motorsports Park in Birmingham, AL.",
+        "end":  "2026-10-14T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T11:00:00.0000000",
+        "title":  "AMSOIL Championship Off Road",
+        "desc":  "Off-road racing action.",
+        "end":  "2026-10-14T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T12:00:00.0000000",
+        "title":  "AMSOIL Championship Off Road",
+        "desc":  "Off-road racing action.",
+        "end":  "2026-10-14T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T13:00:00.0000000",
+        "title":  "SPEED With Harvick \u0026 Buxton",
+        "desc":  "Kevin Harvick and Will Buxton celebrate the world of motorsports.",
+        "end":  "2026-10-14T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T14:00:00.0000000",
+        "title":  "Kevin Harvick\u0027s Happy Hour",
+        "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
+        "end":  "2026-10-14T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T15:00:00.0000000",
+        "title":  "NASCAR Craftsman Truck Series",
+        "desc":  "The 2026 Ecosave 200 at Charlotte Motor Speedway commences in Concord. This race kicks off Charlotte\u0027s tripleheader weekend on the traditional 1.5-mile quad-oval layout. Drivers are fighting for late-season points while competing in The Chase.",
+        "end":  "2026-10-14T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T17:00:00.0000000",
+        "title":  "Live: Horse Racing",
+        "desc":  "The best racehorses square off in the premiere races from across the country.",
+        "end":  "2026-10-14T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T21:30:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "Wild World\u0027s 3rd stop takes the audience back to the north to the spectacular Canadian province of British Columbia for the Cloverdale Rodeo and Country Fair.",
+        "end":  "2026-10-14T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T22:30:00.0000000",
+        "title":  "Women\u0027s Football Weekly",
+        "desc":  "Discover the best of the action from the top divisions of women\u0027s football in Italy, Germany and the Netherlands with this brand-new highlights show.",
+        "end":  "2026-10-14T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-14T23:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The No. 20 Iowa Hawkeyes (4-1) and the Washington Huskies (3-2) meet in a Big Ten clash. Hank Brown leads Iowa with 832 passing yards and five touchdowns, while Demond Williams Jr. leads Washington with 1,327 passing yards and eight touchdowns.",
+        "end":  "2026-10-15T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T00:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "No. 7 Indiana visits Nebraska in a Week 6 Big Ten game. Indiana beat Rutgers, 47-15, in Week 5 for its fifth straight win, while Nebraska beat Maryland, 48-23. Josh Hoover leads Indiana, while Nebraska is paced by quarterback Anthony Colandrea.",
+        "end":  "2026-10-15T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T03:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The No. 22 Houston Cougars visit the Kansas State Wildcats for a regular-season Big 12 game. Houston comes off a 27-17 comeback win over UCF in Week 5. Kansas State looks to regain momentum after a bye week following its first loss of the season.",
+        "end":  "2026-10-15T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T06:00:00.0000000",
         "title":  "College Football",
         "desc":  "The Hawai\u0027i Rainbow Warriors visit Arizona State in nonconference play in Week 6. Hawai\u0027i looks to break a two-game losing streak, while Arizona State lost 55-19 to Baylor. Micah Alejado leads Hawai\u0027i, and Arizona State looks to Cutter Boley.",
-        "end":  "2026-10-13T10:00:00.0000000"
+        "end":  "2026-10-15T09:00:00.0000000"
     },
     {
-        "start":  "2026-10-13T10:00:00.0000000",
+        "start":  "2026-10-15T09:00:00.0000000",
         "title":  "College Football",
         "desc":  "The Nevada Wolf Pack visit the UTEP Miners in a Mountain West Conference game. Nevada was idle in Week 5, while UTEP lost 61-7 to New Mexico. Quarterback Raymond Moore III leads UTEP\u0027s ground game, while quarterback Carter Jones leads Nevada.",
-        "end":  "2026-10-13T13:00:00.0000000"
+        "end":  "2026-10-15T12:00:00.0000000"
     },
     {
-        "start":  "2026-10-13T13:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "No. 7 Indiana visits Nebraska in a Week 6 Big Ten game. Indiana beat Rutgers, 47-15, in Week 5 for its fifth straight win, while Nebraska beat Maryland, 48-23. Josh Hoover leads Indiana, while Nebraska is paced by quarterback Anthony Colandrea.",
-        "end":  "2026-10-13T16:00:00.0000000"
+        "start":  "2026-10-15T12:00:00.0000000",
+        "title":  "American Flat Track",
+        "desc":  "Motorcycle action from the American Flat Track racing series.",
+        "end":  "2026-10-15T13:00:00.0000000"
     },
     {
-        "start":  "2026-10-13T16:00:00.0000000",
-        "title":  "AMSOIL Championship Off Road",
-        "desc":  "Off-road racing action.",
-        "end":  "2026-10-13T17:00:00.0000000"
+        "start":  "2026-10-15T13:00:00.0000000",
+        "title":  "American Flat Track",
+        "desc":  "Motorcycle action from the American Flat Track racing series.",
+        "end":  "2026-10-15T14:00:00.0000000"
     },
     {
-        "start":  "2026-10-13T17:00:00.0000000",
-        "title":  "MotoGP Racing",
-        "desc":  "From Mandalika International Street Circuit in Nusa Tenggara Barat, Indonesia.",
-        "end":  "2026-10-13T17:30:00.0000000"
+        "start":  "2026-10-15T14:00:00.0000000",
+        "title":  "American Flat Track",
+        "desc":  "Motorcycle action from the American Flat Track racing series.",
+        "end":  "2026-10-15T15:00:00.0000000"
     },
     {
-        "start":  "2026-10-13T17:30:00.0000000",
-        "title":  "MotoGP Racing",
-        "desc":  "From Mandalika International Street Circuit in Nusa Tenggara Barat, Indonesia.",
-        "end":  "2026-10-13T18:30:00.0000000"
+        "start":  "2026-10-15T15:00:00.0000000",
+        "title":  "Professional Triathletes Organisation",
+        "desc":  "Kate and Paula excel at T100 Vancouver, with an intense race and disputed finish.",
+        "end":  "2026-10-15T15:30:00.0000000"
     },
     {
-        "start":  "2026-10-13T18:30:00.0000000",
-        "title":  "NASCAR Craftsman Truck Series",
-        "desc":  "The 2026 Ecosave 200 at Charlotte Motor Speedway commences in Concord. This race kicks off Charlotte\u0027s tripleheader weekend on the traditional 1.5-mile quad-oval layout. Drivers are fighting for late-season points while competing in The Chase.",
-        "end":  "2026-10-13T20:30:00.0000000"
+        "start":  "2026-10-15T15:30:00.0000000",
+        "title":  "Professional Triathletes Organisation",
+        "desc":  "Hayden Wilde seeks redemption, Jelle Geens chases his rival in race to Qatar at French Riviera.",
+        "end":  "2026-10-15T16:00:00.0000000"
     },
     {
-        "start":  "2026-10-13T20:30:00.0000000",
-        "title":  "SPEED With Harvick \u0026 Buxton",
-        "desc":  "Kevin Harvick and Will Buxton celebrate the world of motorsports.",
-        "end":  "2026-10-13T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-13T21:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 20 Iowa Hawkeyes (4-1) and the Washington Huskies (3-2) meet in a Big Ten clash. Hank Brown leads Iowa with 832 passing yards and five touchdowns, while Demond Williams Jr. leads Washington with 1,327 passing yards and eight touchdowns.",
-        "end":  "2026-10-13T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-13T22:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 22 Houston Cougars visit the Kansas State Wildcats for a regular-season Big 12 game. Houston comes off a 27-17 comeback win over UCF in Week 5. Kansas State looks to regain momentum after a bye week following its first loss of the season.",
-        "end":  "2026-10-14T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T01:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "No. 7 Indiana visits Nebraska in a Week 6 Big Ten game. Indiana beat Rutgers, 47-15, in Week 5 for its fifth straight win, while Nebraska beat Maryland, 48-23. Josh Hoover leads Indiana, while Nebraska is paced by quarterback Anthony Colandrea.",
-        "end":  "2026-10-14T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T04:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Spartans (2-3) host the Fighting Illini (2-3). Both teams lost their previous game: Illinois to Purdue 24-17 and Michigan State to Wisconsin 31-3. Katin Houser leads Illinois with 11 TDs, while Alessio Milivojevic leads Michigan State with three.",
-        "end":  "2026-10-14T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T07:30:00.0000000",
-        "title":  "The Gronk \u0026 Jules Show",
-        "desc":  "Former teammates, best friends and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
-        "end":  "2026-10-14T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T08:00:00.0000000",
-        "title":  "Kevin Harvick\u0027s Happy Hour",
-        "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
-        "end":  "2026-10-14T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T09:00:00.0000000",
-        "title":  "SPEED With Harvick \u0026 Buxton",
-        "desc":  "Kevin Harvick and Will Buxton celebrate the world of motorsports.",
-        "end":  "2026-10-14T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T10:00:00.0000000",
-        "title":  "GT4 America",
-        "desc":  "From Barber Motorsports Park in Birmingham, AL.",
-        "end":  "2026-10-14T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T11:00:00.0000000",
-        "title":  "AMSOIL Championship Off Road",
-        "desc":  "Off-road racing action.",
-        "end":  "2026-10-14T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T12:00:00.0000000",
-        "title":  "AMSOIL Championship Off Road",
-        "desc":  "Off-road racing action.",
-        "end":  "2026-10-14T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T13:00:00.0000000",
-        "title":  "SPEED With Harvick \u0026 Buxton",
-        "desc":  "Kevin Harvick and Will Buxton celebrate the world of motorsports.",
-        "end":  "2026-10-14T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T14:00:00.0000000",
-        "title":  "Kevin Harvick\u0027s Happy Hour",
-        "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
-        "end":  "2026-10-14T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T15:00:00.0000000",
-        "title":  "NASCAR Craftsman Truck Series",
-        "desc":  "The 2026 Ecosave 200 at Charlotte Motor Speedway commences in Concord. This race kicks off Charlotte\u0027s tripleheader weekend on the traditional 1.5-mile quad-oval layout. Drivers are fighting for late-season points while competing in The Chase.",
-        "end":  "2026-10-14T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T17:00:00.0000000",
-        "title":  "Live: Horse Racing",
-        "desc":  "The best racehorses square off in the premiere races from across the country.",
-        "end":  "2026-10-14T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T21:30:00.0000000",
-        "title":  "Wild World of Western Sports",
-        "desc":  "Wild World\u0027s 3rd stop takes the audience back to the north to the spectacular Canadian province of British Columbia for the Cloverdale Rodeo and Country Fair.",
-        "end":  "2026-10-14T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T22:30:00.0000000",
+        "start":  "2026-10-15T16:00:00.0000000",
         "title":  "Women\u0027s Football Weekly",
         "desc":  "Discover the best of the action from the top divisions of women\u0027s football in Italy, Germany and the Netherlands with this brand-new highlights show.",
-        "end":  "2026-10-14T23:00:00.0000000"
+        "end":  "2026-10-15T16:30:00.0000000"
     },
     {
-        "start":  "2026-10-14T23:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 20 Iowa Hawkeyes (4-1) and the Washington Huskies (3-2) meet in a Big Ten clash. Hank Brown leads Iowa with 832 passing yards and five touchdowns, while Demond Williams Jr. leads Washington with 1,327 passing yards and eight touchdowns.",
-        "end":  "2026-10-15T00:00:00.0000000"
+        "start":  "2026-10-15T16:30:00.0000000",
+        "title":  "The Clay Travis Show",
+        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
+        "end":  "2026-10-15T17:00:00.0000000"
     },
     {
-        "start":  "2026-10-15T00:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "No. 7 Indiana visits Nebraska in a Week 6 Big Ten game. Indiana beat Rutgers, 47-15, in Week 5 for its fifth straight win, while Nebraska beat Maryland, 48-23. Josh Hoover leads Indiana, while Nebraska is paced by quarterback Anthony Colandrea.",
-        "end":  "2026-10-16T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T01:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "No. 7 Indiana visits Nebraska in a Week 6 Big Ten game. Indiana beat Rutgers, 47-15, in Week 5 for its fifth straight win, while Nebraska beat Maryland, 48-23. Josh Hoover leads Indiana, while Nebraska is paced by quarterback Anthony Colandrea.",
-        "end":  "2026-10-14T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T04:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Spartans (2-3) host the Fighting Illini (2-3). Both teams lost their previous game: Illinois to Purdue 24-17 and Michigan State to Wisconsin 31-3. Katin Houser leads Illinois with 11 TDs, while Alessio Milivojevic leads Michigan State with three.",
-        "end":  "2026-10-14T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T07:30:00.0000000",
-        "title":  "The Gronk \u0026 Jules Show",
-        "desc":  "Former teammates, best friends and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
-        "end":  "2026-10-14T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T08:00:00.0000000",
-        "title":  "Kevin Harvick\u0027s Happy Hour",
-        "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
-        "end":  "2026-10-14T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T09:00:00.0000000",
-        "title":  "SPEED With Harvick \u0026 Buxton",
-        "desc":  "Kevin Harvick and Will Buxton celebrate the world of motorsports.",
-        "end":  "2026-10-14T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T10:00:00.0000000",
-        "title":  "GT4 America",
-        "desc":  "From Barber Motorsports Park in Birmingham, AL.",
-        "end":  "2026-10-14T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T11:00:00.0000000",
-        "title":  "AMSOIL Championship Off Road",
-        "desc":  "Off-road racing action.",
-        "end":  "2026-10-14T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T12:00:00.0000000",
-        "title":  "AMSOIL Championship Off Road",
-        "desc":  "Off-road racing action.",
-        "end":  "2026-10-14T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T13:00:00.0000000",
-        "title":  "SPEED With Harvick \u0026 Buxton",
-        "desc":  "Kevin Harvick and Will Buxton celebrate the world of motorsports.",
-        "end":  "2026-10-14T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T14:00:00.0000000",
-        "title":  "Kevin Harvick\u0027s Happy Hour",
-        "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
-        "end":  "2026-10-14T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T15:00:00.0000000",
-        "title":  "NASCAR Craftsman Truck Series",
-        "desc":  "The 2026 Ecosave 200 at Charlotte Motor Speedway commences in Concord. This race kicks off Charlotte\u0027s tripleheader weekend on the traditional 1.5-mile quad-oval layout. Drivers are fighting for late-season points while competing in The Chase.",
-        "end":  "2026-10-14T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-14T17:00:00.0000000",
+        "start":  "2026-10-15T17:00:00.0000000",
         "title":  "Live: Horse Racing",
-        "desc":  "The best racehorses square off in the premiere races from across the country.",
-        "end":  "2026-10-14T21:30:00.0000000"
+        "desc":  "The best racehorses square off in the premier races from across the country.",
+        "end":  "2026-10-15T21:30:00.0000000"
     },
     {
-        "start":  "2026-10-14T21:30:00.0000000",
-        "title":  "Wild World of Western Sports",
-        "desc":  "Wild World\u0027s 3rd stop takes the audience back to the north to the spectacular Canadian province of British Columbia for the Cloverdale Rodeo and Country Fair.",
-        "end":  "2026-10-14T22:30:00.0000000"
+        "start":  "2026-10-15T21:30:00.0000000",
+        "title":  "Pokerstars Big Game on Tour",
+        "desc":  "There are hundreds of thousands of dollars in play, as tensions rise in Las Vegas. Matt Berkey and Jason Koon dominate. The Loose Cannon and UFC fighter Sean O\u0027Malley are both put to the test. And one player taps out, leaving a seat to be filled.",
+        "end":  "2026-10-15T22:30:00.0000000"
     },
     {
-        "start":  "2026-10-14T22:30:00.0000000",
-        "title":  "Women\u0027s Football Weekly",
-        "desc":  "Discover the best of the action from the top divisions of women\u0027s football in Italy, Germany and the Netherlands with this brand-new highlights show.",
-        "end":  "2026-10-14T23:00:00.0000000"
+        "start":  "2026-10-15T22:30:00.0000000",
+        "title":  "Pokerstars Big Game on Tour",
+        "desc":  "More high stakes action from Las Vegas. Loose Cannon Andy Taylor is on the comeback trail, hitting some hands and making bold bluffs. \u0027Suga\u0027 Sean O\u0027Malley is sent spiraling. And Shaun Deeb builds momentum, becoming an even bigger threat at the table.",
+        "end":  "2026-10-15T23:30:00.0000000"
     },
     {
-        "start":  "2026-10-14T23:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 20 Iowa Hawkeyes (4-1) and the Washington Huskies (3-2) meet in a Big Ten clash. Hank Brown leads Iowa with 832 passing yards and five touchdowns, while Demond Williams Jr. leads Washington with 1,327 passing yards and eight touchdowns.",
-        "end":  "2026-10-15T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T00:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "No. 7 Indiana visits Nebraska in a Week 6 Big Ten game. Indiana beat Rutgers, 47-15, in Week 5 for its fifth straight win, while Nebraska beat Maryland, 48-23. Josh Hoover leads Indiana, while Nebraska is paced by quarterback Anthony Colandrea.",
-        "end":  "2026-10-15T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T03:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 22 Houston Cougars visit the Kansas State Wildcats for a regular-season Big 12 game. Houston comes off a 27-17 comeback win over UCF in Week 5. Kansas State looks to regain momentum after a bye week following its first loss of the season.",
+        "start":  "2026-10-15T23:30:00.0000000",
+        "title":  "Pokerstars Big Game on Tour",
+        "desc":  "Decision time for Loose Cannon Andy Taylor: lock up a small profit, or put it all on the line? As this cash game nears its end, \u0027Suga\u0027 Sean is determined to get out of the hole, while Jason Koon and Matt Berkey compete to be the biggest winner.",
         "end":  "2026-10-16T00:00:00.0000000"
     },
     {
@@ -297,6 +189,156 @@
         "start":  "2026-10-15T03:00:00.0000000",
         "title":  "College Football",
         "desc":  "The No. 22 Houston Cougars visit the Kansas State Wildcats for a regular-season Big 12 game. Houston comes off a 27-17 comeback win over UCF in Week 5. Kansas State looks to regain momentum after a bye week following its first loss of the season.",
+        "end":  "2026-10-15T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T06:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Hawai\u0027i Rainbow Warriors visit Arizona State in nonconference play in Week 6. Hawai\u0027i looks to break a two-game losing streak, while Arizona State lost 55-19 to Baylor. Micah Alejado leads Hawai\u0027i, and Arizona State looks to Cutter Boley.",
+        "end":  "2026-10-15T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T09:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Nevada Wolf Pack visit the UTEP Miners in a Mountain West Conference game. Nevada was idle in Week 5, while UTEP lost 61-7 to New Mexico. Quarterback Raymond Moore III leads UTEP\u0027s ground game, while quarterback Carter Jones leads Nevada.",
+        "end":  "2026-10-15T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T12:00:00.0000000",
+        "title":  "American Flat Track",
+        "desc":  "Motorcycle action from the American Flat Track racing series.",
+        "end":  "2026-10-15T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T13:00:00.0000000",
+        "title":  "American Flat Track",
+        "desc":  "Motorcycle action from the American Flat Track racing series.",
+        "end":  "2026-10-15T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T14:00:00.0000000",
+        "title":  "American Flat Track",
+        "desc":  "Motorcycle action from the American Flat Track racing series.",
+        "end":  "2026-10-15T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T15:00:00.0000000",
+        "title":  "Professional Triathletes Organisation",
+        "desc":  "Kate and Paula excel at T100 Vancouver, with an intense race and disputed finish.",
+        "end":  "2026-10-15T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T15:30:00.0000000",
+        "title":  "Professional Triathletes Organisation",
+        "desc":  "Hayden Wilde seeks redemption, Jelle Geens chases his rival in race to Qatar at French Riviera.",
+        "end":  "2026-10-15T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T16:00:00.0000000",
+        "title":  "Women\u0027s Football Weekly",
+        "desc":  "Discover the best of the action from the top divisions of women\u0027s football in Italy, Germany and the Netherlands with this brand-new highlights show.",
+        "end":  "2026-10-15T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T16:30:00.0000000",
+        "title":  "The Clay Travis Show",
+        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
+        "end":  "2026-10-15T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T17:00:00.0000000",
+        "title":  "Live: Horse Racing",
+        "desc":  "The best racehorses square off in the premier races from across the country.",
+        "end":  "2026-10-15T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T21:30:00.0000000",
+        "title":  "Pokerstars Big Game on Tour",
+        "desc":  "There are hundreds of thousands of dollars in play, as tensions rise in Las Vegas. Matt Berkey and Jason Koon dominate. The Loose Cannon and UFC fighter Sean O\u0027Malley are both put to the test. And one player taps out, leaving a seat to be filled.",
+        "end":  "2026-10-15T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T22:30:00.0000000",
+        "title":  "Pokerstars Big Game on Tour",
+        "desc":  "More high stakes action from Las Vegas. Loose Cannon Andy Taylor is on the comeback trail, hitting some hands and making bold bluffs. \u0027Suga\u0027 Sean O\u0027Malley is sent spiraling. And Shaun Deeb builds momentum, becoming an even bigger threat at the table.",
+        "end":  "2026-10-15T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-15T23:30:00.0000000",
+        "title":  "Pokerstars Big Game on Tour",
+        "desc":  "Decision time for Loose Cannon Andy Taylor: lock up a small profit, or put it all on the line? As this cash game nears its end, \u0027Suga\u0027 Sean is determined to get out of the hole, while Jason Koon and Matt Berkey compete to be the biggest winner.",
         "end":  "2026-10-16T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T00:30:00.0000000",
+        "title":  "NHRA Pro Mod Series",
+        "desc":  "Highlights and features from the drag-racing series.",
+        "end":  "2026-10-16T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T01:00:00.0000000",
+        "title":  "NASCAR Craftsman Truck Series",
+        "desc":  "The 2026 Ecosave 200 at Charlotte Motor Speedway commences in Concord. This race kicks off Charlotte\u0027s tripleheader weekend on the traditional 1.5-mile quad-oval layout. Drivers are fighting for late-season points while competing in The Chase.",
+        "end":  "2026-10-16T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T03:00:00.0000000",
+        "title":  "Kevin Harvick\u0027s Happy Hour",
+        "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
+        "end":  "2026-10-16T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T03:30:00.0000000",
+        "title":  "NHRA Pro Mod Series",
+        "desc":  "From Lucas Oil Indianapolis Raceway Park in Indianapolis.",
+        "end":  "2026-10-16T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T04:00:00.0000000",
+        "title":  "NHRA Pro Mod Series",
+        "desc":  "Highlights and features from the drag-racing series.",
+        "end":  "2026-10-16T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T04:30:00.0000000",
+        "title":  "The Joel Klatt Show: A College Football Podcast",
+        "desc":  "Joel Klatt breaks down the current topics in the world of college football.",
+        "end":  "2026-10-17T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T00:30:00.0000000",
+        "title":  "NHRA Pro Mod Series",
+        "desc":  "Highlights and features from the drag-racing series.",
+        "end":  "2026-10-16T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T01:00:00.0000000",
+        "title":  "NASCAR Craftsman Truck Series",
+        "desc":  "The 2026 Ecosave 200 at Charlotte Motor Speedway commences in Concord. This race kicks off Charlotte\u0027s tripleheader weekend on the traditional 1.5-mile quad-oval layout. Drivers are fighting for late-season points while competing in The Chase.",
+        "end":  "2026-10-16T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T03:00:00.0000000",
+        "title":  "Kevin Harvick\u0027s Happy Hour",
+        "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
+        "end":  "2026-10-16T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T03:30:00.0000000",
+        "title":  "NHRA Pro Mod Series",
+        "desc":  "From Lucas Oil Indianapolis Raceway Park in Indianapolis.",
+        "end":  "2026-10-16T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T04:00:00.0000000",
+        "title":  "NHRA Pro Mod Series",
+        "desc":  "Highlights and features from the drag-racing series.",
+        "end":  "2026-10-16T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T04:30:00.0000000",
+        "title":  "The Joel Klatt Show: A College Football Podcast",
+        "desc":  "Joel Klatt breaks down the current topics in the world of college football.",
+        "end":  "2026-10-17T00:00:00.0000000"
     }
 ]
