@@ -1,663 +1,423 @@
 [
     {
-        "start":  "2026-10-15T02:00:00.0000000",
-        "title":  "SC: Top Rivalries in Sports",
+        "start":  "2026-10-16T02:00:00.0000000",
+        "title":  "SC: Top Moments of the FIFA World Cup",
         "desc":  "",
-        "end":  "2026-10-15T02:30:00.0000000"
+        "end":  "2026-10-16T02:30:00.0000000"
     },
     {
-        "start":  "2026-10-15T02:30:00.0000000",
-        "title":  "SC: Top WNBA Moments",
+        "start":  "2026-10-16T02:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
         "desc":  "",
-        "end":  "2026-10-15T03:00:00.0000000"
+        "end":  "2026-10-16T03:00:00.0000000"
     },
     {
-        "start":  "2026-10-15T03:00:00.0000000",
-        "title":  "SC: Top Rivalries in Sports",
+        "start":  "2026-10-16T03:00:00.0000000",
+        "title":  "SC: Top Moments of the FIFA World Cup",
         "desc":  "",
-        "end":  "2026-10-15T03:30:00.0000000"
+        "end":  "2026-10-16T03:30:00.0000000"
     },
     {
-        "start":  "2026-10-15T03:30:00.0000000",
-        "title":  "SC: Top WNBA Moments",
+        "start":  "2026-10-16T03:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
         "desc":  "",
-        "end":  "2026-10-15T04:00:00.0000000"
+        "end":  "2026-10-16T04:00:00.0000000"
     },
     {
-        "start":  "2026-10-15T04:00:00.0000000",
-        "title":  "WTA 1000 Tennis: Wuhan â€“ Round of 16",
+        "start":  "2026-10-16T04:00:00.0000000",
+        "title":  "WTA 1000 Tennis: Wuhan â€“ Quarterfinals",
         "desc":  "",
-        "end":  "2026-10-15T08:00:00.0000000"
+        "end":  "2026-10-16T06:00:00.0000000"
     },
     {
-        "start":  "2026-10-15T08:00:00.0000000",
-        "title":  "SC: Top Rivalries in Sports",
+        "start":  "2026-10-16T06:00:00.0000000",
+        "title":  "SC: Top Moments of the FIFA World Cup",
         "desc":  "",
-        "end":  "2026-10-15T08:30:00.0000000"
+        "end":  "2026-10-16T06:30:00.0000000"
     },
     {
-        "start":  "2026-10-15T08:30:00.0000000",
-        "title":  "SC: Top WNBA Moments",
+        "start":  "2026-10-16T06:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
         "desc":  "",
-        "end":  "2026-10-15T09:00:00.0000000"
+        "end":  "2026-10-16T07:00:00.0000000"
     },
     {
-        "start":  "2026-10-15T09:00:00.0000000",
+        "start":  "2026-10-16T07:00:00.0000000",
+        "title":  "SC: Top Moments of the FIFA World Cup",
+        "desc":  "",
+        "end":  "2026-10-16T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T07:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-16T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T08:00:00.0000000",
+        "title":  "SC: Top Moments of the FIFA World Cup",
+        "desc":  "",
+        "end":  "2026-10-16T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T08:30:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-16T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T09:00:00.0000000",
+        "title":  "SC: Top 100 Catches of All-Time",
+        "desc":  "",
+        "end":  "2026-10-16T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T10:00:00.0000000",
+        "title":  "SC: Top OverDrive Moments",
+        "desc":  "",
+        "end":  "2026-10-16T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T11:00:00.0000000",
+        "title":  "SC: Coaches Gone Wild",
+        "desc":  "",
+        "end":  "2026-10-16T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T11:30:00.0000000",
+        "title":  "SC: Top Mascot Moments",
+        "desc":  "",
+        "end":  "2026-10-16T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T12:00:00.0000000",
+        "title":  "SC: Top 40 Trick Plays of All-Time",
+        "desc":  "",
+        "end":  "2026-10-16T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T12:30:00.0000000",
+        "title":  "SC: Top Overtime Moments",
+        "desc":  "",
+        "end":  "2026-10-16T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T13:00:00.0000000",
+        "title":  "SC: Outrageous NASCAR Moments",
+        "desc":  "",
+        "end":  "2026-10-16T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T13:30:00.0000000",
+        "title":  "2026 PBR Tour Canada: Ottawa, ON",
+        "desc":  "",
+        "end":  "2026-10-16T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T14:30:00.0000000",
         "title":  "NFL GameDay: Week 5",
         "desc":  "",
-        "end":  "2026-10-15T09:30:00.0000000"
+        "end":  "2026-10-16T15:00:00.0000000"
     },
     {
-        "start":  "2026-10-15T09:30:00.0000000",
-        "title":  "Film Never Lies with Luke Willson",
+        "start":  "2026-10-16T15:00:00.0000000",
+        "title":  "SC: Top 50 NBA Circus Shots",
         "desc":  "",
-        "end":  "2026-10-15T10:00:00.0000000"
+        "end":  "2026-10-16T15:30:00.0000000"
     },
     {
-        "start":  "2026-10-15T10:00:00.0000000",
-        "title":  "SC: Top 50 Tennis Shots of All-Time",
+        "start":  "2026-10-16T15:30:00.0000000",
+        "title":  "SC: Top WNBA Moments",
         "desc":  "",
-        "end":  "2026-10-15T10:30:00.0000000"
+        "end":  "2026-10-16T16:00:00.0000000"
     },
     {
-        "start":  "2026-10-15T10:30:00.0000000",
-        "title":  "SC: Top 50 Curling Shots",
+        "start":  "2026-10-16T16:00:00.0000000",
+        "title":  "2026 WXV Global Series Rugby: Canada vs. England",
         "desc":  "",
-        "end":  "2026-10-15T11:00:00.0000000"
+        "end":  "2026-10-16T18:00:00.0000000"
     },
     {
-        "start":  "2026-10-15T11:00:00.0000000",
-        "title":  "SC: Best and Worst Celebrations",
+        "start":  "2026-10-16T18:00:00.0000000",
+        "title":  "SC: Top PWHL Moments",
         "desc":  "",
-        "end":  "2026-10-15T11:30:00.0000000"
+        "end":  "2026-10-16T18:30:00.0000000"
     },
     {
-        "start":  "2026-10-15T11:30:00.0000000",
-        "title":  "SC: Top Playoff Soundbites",
+        "start":  "2026-10-16T18:30:00.0000000",
+        "title":  "SC: Top 10 Women?s World Hockey Championship Games",
         "desc":  "",
-        "end":  "2026-10-15T12:00:00.0000000"
+        "end":  "2026-10-16T19:00:00.0000000"
     },
     {
-        "start":  "2026-10-15T12:00:00.0000000",
-        "title":  "SC: Top 50 Saves of All-Time",
+        "start":  "2026-10-16T19:00:00.0000000",
+        "title":  "SC: Top 50 World Hockey Championship Goals",
         "desc":  "",
-        "end":  "2026-10-15T12:30:00.0000000"
+        "end":  "2026-10-16T19:30:00.0000000"
     },
     {
-        "start":  "2026-10-15T12:30:00.0000000",
+        "start":  "2026-10-16T19:30:00.0000000",
+        "title":  "SC: Top 50 CHL Goals",
+        "desc":  "",
+        "end":  "2026-10-16T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T20:00:00.0000000",
+        "title":  "SC: Top World Junior Moments",
+        "desc":  "",
+        "end":  "2026-10-16T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T20:30:00.0000000",
+        "title":  "SC: Top Characters in Sports",
+        "desc":  "",
+        "end":  "2026-10-16T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T21:00:00.0000000",
+        "title":  "PokerStars: Episode 1",
+        "desc":  "",
+        "end":  "2026-10-16T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T22:00:00.0000000",
+        "title":  "SC: Top 100 Catches of All-Time",
+        "desc":  "",
+        "end":  "2026-10-16T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-16T23:00:00.0000000",
+        "title":  "CFL on TSN: Argonauts vs. Redblacks",
+        "desc":  "",
+        "end":  "2026-10-17T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T02:00:00.0000000",
+        "title":  "SC: Top 100 Catches of All-Time",
+        "desc":  "",
+        "end":  "2026-10-17T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T03:00:00.0000000",
+        "title":  "CFL on TSN: Blue Bombers vs. Elks",
+        "desc":  "",
+        "end":  "2026-10-17T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T06:00:00.0000000",
+        "title":  "ESPN College GameDay",
+        "desc":  "",
+        "end":  "2026-10-17T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T09:00:00.0000000",
+        "title":  "NCAA Football: TBD vs. TBD",
+        "desc":  "",
+        "end":  "2026-10-17T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T12:30:00.0000000",
+        "title":  "NCAA Football: TBD vs. TBD",
+        "desc":  "",
+        "end":  "2026-10-17T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T16:00:00.0000000",
+        "title":  "College Football Scoreboard",
+        "desc":  "",
+        "end":  "2026-10-17T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T16:30:00.0000000",
+        "title":  "NCAA Football: Notre Dame vs. BYU",
+        "desc":  "",
+        "end":  "2026-10-17T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T20:00:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-17T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T20:30:00.0000000",
         "title":  "SC: September Plays of the Month",
         "desc":  "",
-        "end":  "2026-10-15T13:00:00.0000000"
+        "end":  "2026-10-17T21:00:00.0000000"
     },
     {
-        "start":  "2026-10-15T13:00:00.0000000",
+        "start":  "2026-10-17T21:00:00.0000000",
+        "title":  "AFL Women\u0027s Series: Essendon vs. North Melbourne",
+        "desc":  "",
+        "end":  "2026-10-17T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T23:00:00.0000000",
+        "title":  "CFL on TSN: Alouettes vs. Roughriders",
+        "desc":  "",
+        "end":  "2026-10-18T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T02:00:00.0000000",
+        "title":  "SC: Top 100 Catches of All-Time",
+        "desc":  "",
+        "end":  "2026-10-17T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T03:00:00.0000000",
+        "title":  "CFL on TSN: Blue Bombers vs. Elks",
+        "desc":  "",
+        "end":  "2026-10-17T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T06:00:00.0000000",
+        "title":  "ESPN College GameDay",
+        "desc":  "",
+        "end":  "2026-10-17T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T09:00:00.0000000",
+        "title":  "NCAA Football: TBD vs. TBD",
+        "desc":  "",
+        "end":  "2026-10-17T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T12:30:00.0000000",
+        "title":  "NCAA Football: TBD vs. TBD",
+        "desc":  "",
+        "end":  "2026-10-17T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T16:00:00.0000000",
+        "title":  "College Football Scoreboard",
+        "desc":  "",
+        "end":  "2026-10-17T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T16:30:00.0000000",
+        "title":  "NCAA Football: Notre Dame vs. BYU",
+        "desc":  "",
+        "end":  "2026-10-17T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T20:00:00.0000000",
+        "title":  "SC: Top 40 Hail Marys",
+        "desc":  "",
+        "end":  "2026-10-17T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T20:30:00.0000000",
+        "title":  "SC: September Plays of the Month",
+        "desc":  "",
+        "end":  "2026-10-17T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T21:00:00.0000000",
+        "title":  "AFL Women\u0027s Series: Essendon vs. North Melbourne",
+        "desc":  "",
+        "end":  "2026-10-17T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T23:00:00.0000000",
+        "title":  "CFL on TSN: Alouettes vs. Roughriders",
+        "desc":  "",
+        "end":  "2026-10-18T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T02:00:00.0000000",
+        "title":  "CFL on TSN: Lions vs. Stampeders",
+        "desc":  "",
+        "end":  "2026-10-18T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T05:00:00.0000000",
+        "title":  "CFL on TSN: Alouettes vs. Roughriders",
+        "desc":  "",
+        "end":  "2026-10-18T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T08:00:00.0000000",
+        "title":  "SC: Top OverDrive Moments",
+        "desc":  "",
+        "end":  "2026-10-18T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T09:00:00.0000000",
+        "title":  "SC: Top WNBA Moments",
+        "desc":  "",
+        "end":  "2026-10-18T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T09:30:00.0000000",
+        "title":  "SC: Top 50 NBA Buzzer Beaters",
+        "desc":  "",
+        "end":  "2026-10-18T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T10:00:00.0000000",
+        "title":  "SC: Top 50 NBA Circus Shots",
+        "desc":  "",
+        "end":  "2026-10-18T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T10:30:00.0000000",
         "title":  "SC: NBA Plays of the Year",
         "desc":  "",
-        "end":  "2026-10-15T13:30:00.0000000"
+        "end":  "2026-10-18T11:00:00.0000000"
     },
     {
-        "start":  "2026-10-15T13:30:00.0000000",
-        "title":  "2025 STIHL Timbersports: Women\u0027s Canadian Championship â€“ Part 1",
-        "desc":  "",
-        "end":  "2026-10-15T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T14:00:00.0000000",
-        "title":  "Breaking Down Barriers: The 3 Nolans",
-        "desc":  "",
-        "end":  "2026-10-15T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T14:30:00.0000000",
-        "title":  "SC: Top Characters in Sports",
-        "desc":  "",
-        "end":  "2026-10-15T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T15:00:00.0000000",
-        "title":  "NFL GameDay: Week 5",
-        "desc":  "",
-        "end":  "2026-10-15T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T15:30:00.0000000",
-        "title":  "Film Never Lies with Luke Willson",
-        "desc":  "",
-        "end":  "2026-10-15T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T16:00:00.0000000",
-        "title":  "College Football Countdown",
-        "desc":  "",
-        "end":  "2026-10-15T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T16:30:00.0000000",
-        "title":  "NCAA Football: East Carolina vs. UAB",
-        "desc":  "",
-        "end":  "2026-10-15T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T20:00:00.0000000",
-        "title":  "WTA 1000 Tennis: Wuhan â€“ Quarterfinals",
-        "desc":  "",
-        "end":  "2026-10-16T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T02:00:00.0000000",
-        "title":  "SC: Top Moments of the FIFA World Cup",
-        "desc":  "",
-        "end":  "2026-10-16T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T02:30:00.0000000",
-        "title":  "SC: Top 40 Hail Marys",
-        "desc":  "",
-        "end":  "2026-10-16T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T03:00:00.0000000",
-        "title":  "SC: Top Moments of the FIFA World Cup",
-        "desc":  "",
-        "end":  "2026-10-16T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T03:30:00.0000000",
-        "title":  "SC: Top 40 Hail Marys",
-        "desc":  "",
-        "end":  "2026-10-16T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T04:00:00.0000000",
-        "title":  "WTA 1000 Tennis: Wuhan â€“ Quarterfinals",
-        "desc":  "",
-        "end":  "2026-10-16T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T06:00:00.0000000",
-        "title":  "SC: Top Moments of the FIFA World Cup",
-        "desc":  "",
-        "end":  "2026-10-16T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T06:30:00.0000000",
-        "title":  "SC: Top 40 Hail Marys",
-        "desc":  "",
-        "end":  "2026-10-16T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T07:00:00.0000000",
-        "title":  "SC: Top Moments of the FIFA World Cup",
-        "desc":  "",
-        "end":  "2026-10-16T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T07:30:00.0000000",
-        "title":  "SC: Top 40 Hail Marys",
-        "desc":  "",
-        "end":  "2026-10-16T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T08:00:00.0000000",
-        "title":  "SC: Top Moments of the FIFA World Cup",
-        "desc":  "",
-        "end":  "2026-10-16T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T08:30:00.0000000",
-        "title":  "SC: Top 40 Hail Marys",
-        "desc":  "",
-        "end":  "2026-10-16T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T09:00:00.0000000",
-        "title":  "SC: Top 100 Catches of All-Time",
-        "desc":  "",
-        "end":  "2026-10-16T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T10:00:00.0000000",
-        "title":  "SC: Top OverDrive Moments",
-        "desc":  "",
-        "end":  "2026-10-16T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T11:00:00.0000000",
-        "title":  "SC: Coaches Gone Wild",
-        "desc":  "",
-        "end":  "2026-10-16T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T11:30:00.0000000",
-        "title":  "SC: Top Mascot Moments",
-        "desc":  "",
-        "end":  "2026-10-16T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T12:00:00.0000000",
-        "title":  "SC: Top 40 Trick Plays of All-Time",
-        "desc":  "",
-        "end":  "2026-10-16T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T12:30:00.0000000",
-        "title":  "SC: Top Overtime Moments",
-        "desc":  "",
-        "end":  "2026-10-16T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T13:00:00.0000000",
-        "title":  "SC: Outrageous NASCAR Moments",
-        "desc":  "",
-        "end":  "2026-10-16T13:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T13:30:00.0000000",
-        "title":  "2026 PBR Tour Canada: Ottawa, ON",
-        "desc":  "",
-        "end":  "2026-10-16T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T14:30:00.0000000",
-        "title":  "NFL GameDay: Week 5",
-        "desc":  "",
-        "end":  "2026-10-16T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T15:00:00.0000000",
-        "title":  "SC: Top 50 NBA Circus Shots",
-        "desc":  "",
-        "end":  "2026-10-16T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T15:30:00.0000000",
-        "title":  "SC: Top WNBA Moments",
-        "desc":  "",
-        "end":  "2026-10-16T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T16:00:00.0000000",
-        "title":  "2026 WXV Global Series Rugby: Canada vs. England",
-        "desc":  "",
-        "end":  "2026-10-16T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T18:00:00.0000000",
-        "title":  "SC: Top PWHL Moments",
-        "desc":  "",
-        "end":  "2026-10-16T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T18:30:00.0000000",
-        "title":  "SC: Top 10 Women?s World Hockey Championship Games",
-        "desc":  "",
-        "end":  "2026-10-16T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T19:00:00.0000000",
-        "title":  "SC: Top 50 World Hockey Championship Goals",
-        "desc":  "",
-        "end":  "2026-10-16T19:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T19:30:00.0000000",
-        "title":  "SC: Top 50 CHL Goals",
-        "desc":  "",
-        "end":  "2026-10-16T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T20:00:00.0000000",
-        "title":  "SC: Top World Junior Moments",
-        "desc":  "",
-        "end":  "2026-10-16T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T20:30:00.0000000",
-        "title":  "SC: Top Characters in Sports",
-        "desc":  "",
-        "end":  "2026-10-16T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T21:00:00.0000000",
-        "title":  "PokerStars: Episode 1",
-        "desc":  "",
-        "end":  "2026-10-16T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T22:00:00.0000000",
-        "title":  "SC: Top 100 Catches of All-Time",
-        "desc":  "",
-        "end":  "2026-10-16T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T23:00:00.0000000",
-        "title":  "CFL on TSN: Argonauts vs. Redblacks",
-        "desc":  "",
-        "end":  "2026-10-17T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T02:00:00.0000000",
-        "title":  "SC: Top Moments of the FIFA World Cup",
-        "desc":  "",
-        "end":  "2026-10-16T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T02:30:00.0000000",
-        "title":  "SC: Top 40 Hail Marys",
-        "desc":  "",
-        "end":  "2026-10-16T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T03:00:00.0000000",
-        "title":  "SC: Top Moments of the FIFA World Cup",
-        "desc":  "",
-        "end":  "2026-10-16T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T03:30:00.0000000",
-        "title":  "SC: Top 40 Hail Marys",
-        "desc":  "",
-        "end":  "2026-10-16T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T04:00:00.0000000",
-        "title":  "WTA 1000 Tennis: Wuhan â€“ Quarterfinals",
-        "desc":  "",
-        "end":  "2026-10-16T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T06:00:00.0000000",
-        "title":  "SC: Top Moments of the FIFA World Cup",
-        "desc":  "",
-        "end":  "2026-10-16T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T06:30:00.0000000",
-        "title":  "SC: Top 40 Hail Marys",
-        "desc":  "",
-        "end":  "2026-10-16T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T07:00:00.0000000",
-        "title":  "SC: Top Moments of the FIFA World Cup",
-        "desc":  "",
-        "end":  "2026-10-16T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T07:30:00.0000000",
-        "title":  "SC: Top 40 Hail Marys",
-        "desc":  "",
-        "end":  "2026-10-16T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T08:00:00.0000000",
-        "title":  "SC: Top Moments of the FIFA World Cup",
-        "desc":  "",
-        "end":  "2026-10-16T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T08:30:00.0000000",
-        "title":  "SC: Top 40 Hail Marys",
-        "desc":  "",
-        "end":  "2026-10-16T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T09:00:00.0000000",
-        "title":  "SC: Top 100 Catches of All-Time",
-        "desc":  "",
-        "end":  "2026-10-16T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T10:00:00.0000000",
-        "title":  "SC: Top OverDrive Moments",
-        "desc":  "",
-        "end":  "2026-10-16T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T11:00:00.0000000",
-        "title":  "SC: Coaches Gone Wild",
-        "desc":  "",
-        "end":  "2026-10-16T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T11:30:00.0000000",
-        "title":  "SC: Top Mascot Moments",
-        "desc":  "",
-        "end":  "2026-10-16T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T12:00:00.0000000",
-        "title":  "SC: Top 40 Trick Plays of All-Time",
-        "desc":  "",
-        "end":  "2026-10-16T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T12:30:00.0000000",
-        "title":  "SC: Top Overtime Moments",
-        "desc":  "",
-        "end":  "2026-10-16T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T13:00:00.0000000",
-        "title":  "SC: Outrageous NASCAR Moments",
-        "desc":  "",
-        "end":  "2026-10-16T13:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T13:30:00.0000000",
-        "title":  "2026 PBR Tour Canada: Ottawa, ON",
-        "desc":  "",
-        "end":  "2026-10-16T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T14:30:00.0000000",
-        "title":  "NFL GameDay: Week 5",
-        "desc":  "",
-        "end":  "2026-10-16T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T15:00:00.0000000",
-        "title":  "SC: Top 50 NBA Circus Shots",
-        "desc":  "",
-        "end":  "2026-10-16T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T15:30:00.0000000",
-        "title":  "SC: Top WNBA Moments",
-        "desc":  "",
-        "end":  "2026-10-16T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T16:00:00.0000000",
-        "title":  "2026 WXV Global Series Rugby: Canada vs. England",
-        "desc":  "",
-        "end":  "2026-10-16T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T18:00:00.0000000",
-        "title":  "SC: Top PWHL Moments",
-        "desc":  "",
-        "end":  "2026-10-16T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T18:30:00.0000000",
-        "title":  "SC: Top 10 Women?s World Hockey Championship Games",
-        "desc":  "",
-        "end":  "2026-10-16T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T19:00:00.0000000",
-        "title":  "SC: Top 50 World Hockey Championship Goals",
-        "desc":  "",
-        "end":  "2026-10-16T19:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T19:30:00.0000000",
-        "title":  "SC: Top 50 CHL Goals",
-        "desc":  "",
-        "end":  "2026-10-16T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T20:00:00.0000000",
-        "title":  "SC: Top World Junior Moments",
-        "desc":  "",
-        "end":  "2026-10-16T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T20:30:00.0000000",
-        "title":  "SC: Top Characters in Sports",
-        "desc":  "",
-        "end":  "2026-10-16T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T21:00:00.0000000",
-        "title":  "PokerStars: Episode 1",
-        "desc":  "",
-        "end":  "2026-10-16T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T22:00:00.0000000",
-        "title":  "SC: Top 100 Catches of All-Time",
-        "desc":  "",
-        "end":  "2026-10-16T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T23:00:00.0000000",
-        "title":  "CFL on TSN: Argonauts vs. Redblacks",
-        "desc":  "",
-        "end":  "2026-10-17T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T02:00:00.0000000",
-        "title":  "SC: Top 100 Catches of All-Time",
-        "desc":  "",
-        "end":  "2026-10-17T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T03:00:00.0000000",
-        "title":  "CFL on TSN: Blue Bombers vs. Elks",
-        "desc":  "",
-        "end":  "2026-10-17T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T06:00:00.0000000",
-        "title":  "ESPN College GameDay",
-        "desc":  "",
-        "end":  "2026-10-17T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T09:00:00.0000000",
-        "title":  "NCAA Football: TBD vs. TBD",
-        "desc":  "",
-        "end":  "2026-10-17T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T12:30:00.0000000",
-        "title":  "NCAA Football: TBD vs. TBD",
-        "desc":  "",
-        "end":  "2026-10-17T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T16:00:00.0000000",
-        "title":  "College Football Scoreboard",
-        "desc":  "",
-        "end":  "2026-10-17T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T16:30:00.0000000",
-        "title":  "NCAA Football: Notre Dame vs. BYU",
-        "desc":  "",
-        "end":  "2026-10-17T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T20:00:00.0000000",
-        "title":  "SC: Top 40 Hail Marys",
-        "desc":  "",
-        "end":  "2026-10-17T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T20:30:00.0000000",
+        "start":  "2026-10-18T11:00:00.0000000",
         "title":  "SC: September Plays of the Month",
         "desc":  "",
-        "end":  "2026-10-17T21:00:00.0000000"
+        "end":  "2026-10-18T11:30:00.0000000"
     },
     {
-        "start":  "2026-10-17T21:00:00.0000000",
-        "title":  "AFL Women\u0027s Series: Essendon vs. North Melbourne",
+        "start":  "2026-10-18T11:30:00.0000000",
+        "title":  "LaLiga: Real Madrid vs. Sevilla",
         "desc":  "",
-        "end":  "2026-10-17T23:00:00.0000000"
+        "end":  "2026-10-18T14:00:00.0000000"
     },
     {
-        "start":  "2026-10-17T23:00:00.0000000",
-        "title":  "CFL on TSN: Alouettes vs. Roughriders",
+        "start":  "2026-10-18T14:00:00.0000000",
+        "title":  "NWSL on TSN: Bay FC vs. Portland",
         "desc":  "",
-        "end":  "2026-10-18T00:00:00.0000000"
+        "end":  "2026-10-18T16:00:00.0000000"
     },
     {
-        "start":  "2026-10-17T02:00:00.0000000",
-        "title":  "SC: Top 100 Catches of All-Time",
+        "start":  "2026-10-18T16:00:00.0000000",
+        "title":  "SC: Top WNBA Moments",
         "desc":  "",
-        "end":  "2026-10-17T03:00:00.0000000"
+        "end":  "2026-10-18T16:30:00.0000000"
     },
     {
-        "start":  "2026-10-17T03:00:00.0000000",
-        "title":  "CFL on TSN: Blue Bombers vs. Elks",
+        "start":  "2026-10-18T16:30:00.0000000",
+        "title":  "SC: NBA Plays of the Year",
         "desc":  "",
-        "end":  "2026-10-17T06:00:00.0000000"
+        "end":  "2026-10-18T17:00:00.0000000"
     },
     {
-        "start":  "2026-10-17T06:00:00.0000000",
-        "title":  "ESPN College GameDay",
+        "start":  "2026-10-18T17:00:00.0000000",
+        "title":  "SC: Top 50 Defensive Plays of All-Time",
         "desc":  "",
-        "end":  "2026-10-17T09:00:00.0000000"
+        "end":  "2026-10-18T17:30:00.0000000"
     },
     {
-        "start":  "2026-10-17T09:00:00.0000000",
-        "title":  "NCAA Football: TBD vs. TBD",
+        "start":  "2026-10-18T17:30:00.0000000",
+        "title":  "ATP 1000 Tennis: Shanghai â€“ Final",
         "desc":  "",
-        "end":  "2026-10-17T12:30:00.0000000"
+        "end":  "2026-10-18T20:00:00.0000000"
     },
     {
-        "start":  "2026-10-17T12:30:00.0000000",
-        "title":  "NCAA Football: TBD vs. TBD",
+        "start":  "2026-10-18T20:00:00.0000000",
+        "title":  "SC: Top 50 Tennis Shots of All-Time",
         "desc":  "",
-        "end":  "2026-10-17T16:00:00.0000000"
+        "end":  "2026-10-18T20:30:00.0000000"
     },
     {
-        "start":  "2026-10-17T16:00:00.0000000",
-        "title":  "College Football Scoreboard",
+        "start":  "2026-10-18T20:30:00.0000000",
+        "title":  "SC: Top 50 Curling Shots",
         "desc":  "",
-        "end":  "2026-10-17T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T16:30:00.0000000",
-        "title":  "NCAA Football: Notre Dame vs. BYU",
-        "desc":  "",
-        "end":  "2026-10-17T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T20:00:00.0000000",
-        "title":  "SC: Top 40 Hail Marys",
-        "desc":  "",
-        "end":  "2026-10-17T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T20:30:00.0000000",
-        "title":  "SC: September Plays of the Month",
-        "desc":  "",
-        "end":  "2026-10-17T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T21:00:00.0000000",
-        "title":  "AFL Women\u0027s Series: Essendon vs. North Melbourne",
-        "desc":  "",
-        "end":  "2026-10-17T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T23:00:00.0000000",
-        "title":  "CFL on TSN: Alouettes vs. Roughriders",
-        "desc":  "",
-        "end":  "2026-10-18T00:00:00.0000000"
+        "end":  "2026-10-19T00:00:00.0000000"
     },
     {
         "start":  "2026-10-18T02:00:00.0000000",

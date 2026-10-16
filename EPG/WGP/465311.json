@@ -1,185 +1,5 @@
 [
     {
-        "start":  "2026-10-15T00:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-10-15T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T03:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-10-15T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T04:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-10-15T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T05:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-10-15T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T08:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-10-15T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T09:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-10-15T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T10:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-10-15T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T11:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-10-15T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T12:00:00.0000000",
-        "title":  "Live: Good Morning Football",
-        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
-        "end":  "2026-10-15T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T14:00:00.0000000",
-        "title":  "Good Morning Football",
-        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
-        "end":  "2026-10-15T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T16:00:00.0000000",
-        "title":  "Live: NFL Total Access",
-        "desc":  "The NFL Network\u0027s flagship program airs six nights a week, churning out the day\u0027s top headlines and much more covering all 32 teams. The show also provides fans with exclusive footage from inside team facilities and interviews with players and coaches. Joining hosts Dan Hellie and Amber Theoharis with analysis and insight are a deep roster of NFL Network personnel plus other former players as gues",
-        "end":  "2026-10-15T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T18:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-10-15T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T21:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-10-15T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T22:00:00.0000000",
-        "title":  "Live: NFL GameDay Kickoff",
-        "desc":  "Preview of tonight\u0027s game.",
-        "end":  "2026-10-15T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-15T23:00:00.0000000",
-        "title":  "NFL Replay",
-        "desc":  "The Seahawks, behind their top-ranked defense, help deliver the first Super Bowl in franchise history by beating Peyton Manning and the Denver Broncos 43-8. From Feb. 2, 2014 in New York.",
-        "end":  "2026-10-16T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T00:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-10-16T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T03:00:00.0000000",
-        "title":  "Sound FX",
-        "desc":  "On-field sights and sounds of Marshawn Lynch\u0027s most memorable moments.",
-        "end":  "2026-10-16T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T03:30:00.0000000",
-        "title":  "Live: NFL GameDay Final",
-        "desc":  "Chris Rose and crew wrap up the day\u0027s NFL action with all the highlights and reactions, plus postgame interviews with the day\u0027s best performers.",
-        "end":  "2026-10-16T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T04:30:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Seattle Seahawks visit the Denver Broncos in an NFL Week 6 game at Empower Field at Mile High. The Seattle Seahawks won the last head-to-head regular-season game against the Denver Broncos, 26-20, at Lumen Field in September 2024.",
-        "end":  "2026-10-16T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T07:00:00.0000000",
-        "title":  "NFL GameDay Final",
-        "desc":  "Chris Rose and crew wrap up the day\u0027s NFL action with all the highlights and reactions, plus postgame interviews with the day\u0027s best performers.",
-        "end":  "2026-10-16T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T08:00:00.0000000",
-        "title":  "NFL GameDay Final",
-        "desc":  "Chris Rose and crew wrap up the day\u0027s NFL action with all the highlights and reactions, plus postgame interviews with the day\u0027s best performers.",
-        "end":  "2026-10-16T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T09:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "From Empower Field at Mile High in Denver.",
-        "end":  "2026-10-16T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T12:00:00.0000000",
-        "title":  "Live: Good Morning Football",
-        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
-        "end":  "2026-10-16T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T14:00:00.0000000",
-        "title":  "Good Morning Football",
-        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
-        "end":  "2026-10-16T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T16:00:00.0000000",
-        "title":  "Live: NFL Total Access",
-        "desc":  "The NFL Network\u0027s flagship program airs six nights a week, churning out the day\u0027s top headlines and much more covering all 32 teams. The show also provides fans with exclusive footage from inside team facilities and interviews with players and coaches. Joining hosts Dan Hellie and Amber Theoharis with analysis and insight are a deep roster of NFL Network personnel plus other former players as gues",
-        "end":  "2026-10-16T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T18:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Denver Broncos host the Seattle Seahawks in NFL Week 6 at Empower Field at Mile High. Last week, Seattle fell, 32-29, to San Francisco after Sam Darnold\u0027s two INTs. The Broncos beat the Chargers, 23-17, as Nik Bonitto recorded two sacks.",
-        "end":  "2026-10-16T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T21:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-10-16T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T22:00:00.0000000",
-        "title":  "NFL Live",
-        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
-        "end":  "2026-10-16T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T23:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-10-17T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T00:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "From Empower Field at Mile High in Denver.",
-        "end":  "2026-10-18T00:00:00.0000000"
-    },
-    {
         "start":  "2026-10-16T00:00:00.0000000",
         "title":  "NFL Football",
         "desc":  "Football action from around the National Football League.",
@@ -279,6 +99,60 @@
         "start":  "2026-10-17T04:00:00.0000000",
         "title":  "NFL Fantasy Live",
         "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+        "end":  "2026-10-17T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T05:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "From Sept. 28, 2025.",
+        "end":  "2026-10-17T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T08:00:00.0000000",
+        "title":  "The Insiders",
+        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+        "end":  "2026-10-17T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T09:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+        "end":  "2026-10-17T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T10:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Denver Broncos host the Seattle Seahawks in NFL Week 6 at Empower Field at Mile High. Last week, Seattle fell, 32-29, to San Francisco after Sam Darnold\u0027s two INTs. The Broncos beat the Chargers, 23-17, as Nik Bonitto recorded two sacks.",
+        "end":  "2026-10-17T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T13:00:00.0000000",
+        "title":  "NFL Matchup",
+        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
+        "end":  "2026-10-17T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T13:30:00.0000000",
+        "title":  "NFL Network",
+        "desc":  "",
+        "end":  "2026-10-17T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T15:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Denver Broncos host the Seattle Seahawks in NFL Week 6 at Empower Field at Mile High. Last week, Seattle fell, 32-29, to San Francisco after Sam Darnold\u0027s two INTs. The Broncos beat the Chargers, 23-17, as Nik Bonitto recorded two sacks.",
+        "end":  "2026-10-17T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T18:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Philadelphia Eagles face the Jacksonville Jaguars at Tottenham Hotspur in London for NFL Week 5. Philadelphia seeks to halt a two-game slide after a 24-20 loss to Los Angeles, while 3-1 Jacksonville enters behind quarterback Trevor Lawrence.",
+        "end":  "2026-10-17T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T21:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "From Sept. 28, 2025.",
         "end":  "2026-10-18T00:00:00.0000000"
     },
     {
@@ -297,6 +171,96 @@
         "start":  "2026-10-17T04:00:00.0000000",
         "title":  "NFL Fantasy Live",
         "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+        "end":  "2026-10-17T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T05:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "From Sept. 28, 2025.",
+        "end":  "2026-10-17T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T08:00:00.0000000",
+        "title":  "The Insiders",
+        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+        "end":  "2026-10-17T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T09:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+        "end":  "2026-10-17T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T10:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Denver Broncos host the Seattle Seahawks in NFL Week 6 at Empower Field at Mile High. Last week, Seattle fell, 32-29, to San Francisco after Sam Darnold\u0027s two INTs. The Broncos beat the Chargers, 23-17, as Nik Bonitto recorded two sacks.",
+        "end":  "2026-10-17T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T13:00:00.0000000",
+        "title":  "NFL Matchup",
+        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
+        "end":  "2026-10-17T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T13:30:00.0000000",
+        "title":  "NFL Network",
+        "desc":  "",
+        "end":  "2026-10-17T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T15:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Denver Broncos host the Seattle Seahawks in NFL Week 6 at Empower Field at Mile High. Last week, Seattle fell, 32-29, to San Francisco after Sam Darnold\u0027s two INTs. The Broncos beat the Chargers, 23-17, as Nik Bonitto recorded two sacks.",
+        "end":  "2026-10-17T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T18:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Philadelphia Eagles face the Jacksonville Jaguars at Tottenham Hotspur in London for NFL Week 5. Philadelphia seeks to halt a two-game slide after a 24-20 loss to Los Angeles, while 3-1 Jacksonville enters behind quarterback Trevor Lawrence.",
+        "end":  "2026-10-17T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T21:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "From Sept. 28, 2025.",
         "end":  "2026-10-18T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T00:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Rams host the Bills at SoFi Stadium. Buffalo lost its previous game to New England 29-26, while the Rams have alternated wins and losses. The Rams rely on Matthew Stafford, who has six touchdowns; Buffalo looks to Josh Allen, who has six as well.",
+        "end":  "2026-10-18T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T03:30:00.0000000",
+        "title":  "NFL Matchup",
+        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
+        "end":  "2026-10-18T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T04:00:00.0000000",
+        "title":  "The Timeline",
+        "desc":  "Exploring the most memorable cold-weather playoff game in sports history that featured the face-off of two legendary teams: the Dallas Cowboys, led by Tom Landry, and the Green Bay Packers, led by Vince Lombardi.",
+        "end":  "2026-10-19T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T00:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Rams host the Bills at SoFi Stadium. Buffalo lost its previous game to New England 29-26, while the Rams have alternated wins and losses. The Rams rely on Matthew Stafford, who has six touchdowns; Buffalo looks to Josh Allen, who has six as well.",
+        "end":  "2026-10-18T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T03:30:00.0000000",
+        "title":  "NFL Matchup",
+        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
+        "end":  "2026-10-18T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T04:00:00.0000000",
+        "title":  "The Timeline",
+        "desc":  "Exploring the most memorable cold-weather playoff game in sports history that featured the face-off of two legendary teams: the Dallas Cowboys, led by Tom Landry, and the Green Bay Packers, led by Vince Lombardi.",
+        "end":  "2026-10-19T00:00:00.0000000"
     }
 ]
