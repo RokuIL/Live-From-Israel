@@ -1,344 +1,392 @@
 [
     {
-        "start":  "2026-10-16T02:30:00.0000000",
-        "title":  "30 for 30",
-        "desc":  "An examination of the New York Knicks during their NBA championship runs in the 1970s.",
-        "end":  "2026-10-16T04:00:00.0000000"
+        "start":  "2026-10-17T00:00:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "The Appalachian State Mountaineers visit the Coastal Carolina Chanticleers. Appalachian State lost 10-3 to Old Dominion. Coastal Carolina beat Marshall 27-21, then holding off a late rally to secure its first Sun Belt conference win of the season.",
+        "end":  "2026-10-17T03:00:00.0000000"
     },
     {
-        "start":  "2026-10-16T04:00:00.0000000",
+        "start":  "2026-10-17T03:00:00.0000000",
+        "title":  "Live: Professional Fighters League",
+        "desc":  "From Wintrust Arena in Chicago.",
+        "end":  "2026-10-17T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T05:00:00.0000000",
+        "title":  "Baseball Tonight",
+        "desc":  "If you\u0027re a fan of baseball, then you won\u0027t want to miss this show featuring highlights of all the games and updates of ones still in progress. A rotating panel of analysts that includes former players, managers, and reporters provide inside information and breaking news.",
+        "end":  "2026-10-17T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T05:30:00.0000000",
+        "title":  "TrueSouth",
+        "desc":  "John T. Edge travels around the region, introducing viewers to Southern tastemakers, food, culture and history.",
+        "end":  "2026-10-17T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T06:00:00.0000000",
+        "title":  "NBA Basketball",
+        "desc":  "From Crypto.com Arena in Los Angeles.",
+        "end":  "2026-10-17T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T08:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Memphis Tigers visit the Tulane Green Wave. Memphis beat UAB 38-13 to improve to 5-1 overall and 2-0 in conference play. Tulane lost 20-17 to Army on a game-winning field goal as time expired, leaving the Green Wave looking to respond at home.",
+        "end":  "2026-10-17T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T10:00:00.0000000",
+        "title":  "NFL Live",
+        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+        "end":  "2026-10-17T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T11:00:00.0000000",
+        "title":  "NFL Matchup",
+        "desc":  "An NFL Films production, \"NFL Matchup\" is definitely a show for football junkies. Unlike traditional football preview programs, this one gives fans an in-depth look at some of Sunday\u0027s games by breaking down the strategy and tactics -- the Xs and Os -- through the exclusive use of team-supplied footage. That type of film study is a forte of former NFL player and executive Louis Riddick and NFL Fil",
+        "end":  "2026-10-17T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T11:30:00.0000000",
+        "title":  "Saban",
+        "desc":  "After five seasons and a contract dispute, Saban leaves Michigan State for an opportunity at LSU.",
+        "end":  "2026-10-17T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T12:30:00.0000000",
+        "title":  "The Difference: LSU Football",
+        "desc":  "Behind the scenes in Year 1 of Lane Kiffin\u0027s tenure as LSU football\u0027s head coach.",
+        "end":  "2026-10-17T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T13:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-17T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T14:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-17T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T15:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-17T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T16:00:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From Alumni Stadium in Chestnut Hill, Mass.",
+        "end":  "2026-10-17T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T19:00:00.0000000",
+        "title":  "Live: College Football Scoreboard",
+        "desc":  "Presenting up-to-the-minute scores and highlights during the college football season.",
+        "end":  "2026-10-17T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T19:30:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From Wallace Wade Stadium in Durham, N.C.",
+        "end":  "2026-10-17T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T22:30:00.0000000",
+        "title":  "Live: College Football Scoreboard",
+        "desc":  "Presenting up-to-the-minute scores and highlights during the college football season.",
+        "end":  "2026-10-17T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-17T23:00:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From FirstBank Stadium in Nashville, Tenn.",
+        "end":  "2026-10-18T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T02:00:00.0000000",
+        "title":  "Live: College Football Scoreboard",
+        "desc":  "Presenting up-to-the-minute scores and highlights during the college football season.",
+        "end":  "2026-10-18T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T02:30:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From California Memorial Stadium in Berkeley, Calif.",
+        "end":  "2026-10-18T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T05:30:00.0000000",
+        "title":  "College Football Final",
+        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
+        "end":  "2026-10-18T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T06:30:00.0000000",
+        "title":  "Peyton\u0027s Places",
+        "desc":  "Through conversations with former players, coaches and key figures, Peyton Manning gets to the heart of football history and its cultural impact.",
+        "end":  "2026-10-18T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T07:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-18T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T08:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-18T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T09:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-18T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T10:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-18T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T11:00:00.0000000",
+        "title":  "College Football Final",
+        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
+        "end":  "2026-10-18T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T12:00:00.0000000",
+        "title":  "College Football Final",
+        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
+        "end":  "2026-10-18T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T13:00:00.0000000",
+        "title":  "College Football Final",
+        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
+        "end":  "2026-10-18T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T14:00:00.0000000",
+        "title":  "Live: Fantasy Focus Countdown",
+        "desc":  "Experts analyze the day\u0027s NFL games and predict which players might have big games.",
+        "end":  "2026-10-18T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T17:00:00.0000000",
+        "title":  "College Football Final",
+        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
+        "end":  "2026-10-18T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T18:00:00.0000000",
+        "title":  "College Football Final",
+        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
+        "end":  "2026-10-18T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T19:00:00.0000000",
+        "title":  "Decade of Dominance",
+        "desc":  "A commemorative look at the 10-year anniversary of the College Football Playoff that highlights the SEC\u0027s success across the last decade. During that time, the SEC earned 12 CFP appearances and six National Championships -- the most of any league.",
+        "end":  "2026-10-18T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T20:00:00.0000000",
+        "title":  "Live: Fishing",
+        "desc":  "From Cabo San Lucas, Mexico.",
+        "end":  "2026-10-18T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T22:00:00.0000000",
+        "title":  "E60",
+        "desc":  "ESPN\u0027s morning sports magazine show, featuring the biggest names and stories in sports.",
+        "end":  "2026-10-18T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T23:00:00.0000000",
+        "title":  "College Football Final",
+        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
+        "end":  "2026-10-19T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-19T00:00:00.0000000",
+        "title":  "APP Tour Pickleball",
+        "desc":  "Pickleball competitions from various cities across the United States.",
+        "end":  "2026-10-20T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T02:00:00.0000000",
+        "title":  "Live: College Football Scoreboard",
+        "desc":  "Presenting up-to-the-minute scores and highlights during the college football season.",
+        "end":  "2026-10-18T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T02:30:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From California Memorial Stadium in Berkeley, Calif.",
+        "end":  "2026-10-18T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T05:30:00.0000000",
+        "title":  "College Football Final",
+        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
+        "end":  "2026-10-18T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T06:30:00.0000000",
+        "title":  "Peyton\u0027s Places",
+        "desc":  "Through conversations with former players, coaches and key figures, Peyton Manning gets to the heart of football history and its cultural impact.",
+        "end":  "2026-10-18T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T07:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-18T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T08:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-18T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T09:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-18T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T10:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-18T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T11:00:00.0000000",
+        "title":  "College Football Final",
+        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
+        "end":  "2026-10-18T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T12:00:00.0000000",
+        "title":  "College Football Final",
+        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
+        "end":  "2026-10-18T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T13:00:00.0000000",
+        "title":  "College Football Final",
+        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
+        "end":  "2026-10-18T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T14:00:00.0000000",
+        "title":  "Live: Fantasy Focus Countdown",
+        "desc":  "Experts analyze the day\u0027s NFL games and predict which players might have big games.",
+        "end":  "2026-10-18T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T17:00:00.0000000",
+        "title":  "College Football Final",
+        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
+        "end":  "2026-10-18T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T18:00:00.0000000",
+        "title":  "College Football Final",
+        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
+        "end":  "2026-10-18T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T19:00:00.0000000",
+        "title":  "Decade of Dominance",
+        "desc":  "A commemorative look at the 10-year anniversary of the College Football Playoff that highlights the SEC\u0027s success across the last decade. During that time, the SEC earned 12 CFP appearances and six National Championships -- the most of any league.",
+        "end":  "2026-10-18T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T20:00:00.0000000",
+        "title":  "Live: Fishing",
+        "desc":  "From Cabo San Lucas, Mexico.",
+        "end":  "2026-10-18T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T22:00:00.0000000",
+        "title":  "E60",
+        "desc":  "ESPN\u0027s morning sports magazine show, featuring the biggest names and stories in sports.",
+        "end":  "2026-10-18T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-18T23:00:00.0000000",
+        "title":  "College Football Final",
+        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
+        "end":  "2026-10-19T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-19T00:00:00.0000000",
+        "title":  "APP Tour Pickleball",
+        "desc":  "Pickleball competitions from various cities across the United States.",
+        "end":  "2026-10-19T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-19T02:00:00.0000000",
+        "title":  "Monster Energy\u0027s Rip to Cabo 2026",
+        "desc":  "Annual off-road motorcycle adventure through Baja, Mexico.",
+        "end":  "2026-10-19T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-19T03:00:00.0000000",
+        "title":  "WSL: Inside Pro Surfing",
+        "desc":  "Giving surf fans all the storylines, heats and results from each Championship Tour event wrapped up in a tidy 45 minutes.",
+        "end":  "2026-10-19T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-19T04:00:00.0000000",
         "title":  "Live: Baseball Tonight",
         "desc":  "If you\u0027re a fan of baseball, then you won\u0027t want to miss this show featuring highlights of all the games and updates of ones still in progress. A rotating panel of analysts that includes former players, managers, and reporters provide inside information and breaking news.",
-        "end":  "2026-10-16T04:30:00.0000000"
+        "end":  "2026-10-19T04:30:00.0000000"
     },
     {
-        "start":  "2026-10-16T04:30:00.0000000",
-        "title":  "To Be Announced",
-        "desc":  "Programming to be announced.",
-        "end":  "2026-10-16T05:30:00.0000000"
+        "start":  "2026-10-19T04:30:00.0000000",
+        "title":  "30 for 30",
+        "desc":  "The rise, fall and maturation of former Oklahoma University All-American linebacker Brian Bosworth.",
+        "end":  "2026-10-20T00:00:00.0000000"
     },
     {
-        "start":  "2026-10-16T05:30:00.0000000",
-        "title":  "Pardon the Interruption",
-        "desc":  "The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.",
-        "end":  "2026-10-16T06:00:00.0000000"
+        "start":  "2026-10-19T00:00:00.0000000",
+        "title":  "APP Tour Pickleball",
+        "desc":  "Pickleball competitions from various cities across the United States.",
+        "end":  "2026-10-19T02:00:00.0000000"
     },
     {
-        "start":  "2026-10-16T06:00:00.0000000",
-        "title":  "Catching Hell",
-        "desc":  "Citizens of Chicago blame baseball fan Steve Bartman for interfering with a crucial play during a Cubs playoff game.",
-        "end":  "2026-10-16T08:00:00.0000000"
+        "start":  "2026-10-19T02:00:00.0000000",
+        "title":  "Monster Energy\u0027s Rip to Cabo 2026",
+        "desc":  "Annual off-road motorcycle adventure through Baja, Mexico.",
+        "end":  "2026-10-19T03:00:00.0000000"
     },
     {
-        "start":  "2026-10-16T08:00:00.0000000",
-        "title":  "SportsCenter With Scott Van Pelt",
-        "desc":  "SVP\u0027s up at midnight and bringing his unique perspective on games people play to \"SportsCenter\" viewers. The hourlong, late-night show is driven by the host\u0027s self-deprecating wit and passion for sports, with featured elements, including Van Pelt\u0027s nightly \"1 Big Thing\" commentary and a weekly look back at the moments that drove bettors wild in \"Bad Beats.\" The show also delivers what \"SportsCente",
-        "end":  "2026-10-16T09:00:00.0000000"
+        "start":  "2026-10-19T03:00:00.0000000",
+        "title":  "WSL: Inside Pro Surfing",
+        "desc":  "Giving surf fans all the storylines, heats and results from each Championship Tour event wrapped up in a tidy 45 minutes.",
+        "end":  "2026-10-19T04:00:00.0000000"
     },
     {
-        "start":  "2026-10-16T09:00:00.0000000",
-        "title":  "SportsCenter With Scott Van Pelt",
-        "desc":  "SVP\u0027s up at midnight and bringing his unique perspective on games people play to \"SportsCenter\" viewers. The hourlong, late-night show is driven by the host\u0027s self-deprecating wit and passion for sports, with featured elements, including Van Pelt\u0027s nightly \"1 Big Thing\" commentary and a weekly look back at the moments that drove bettors wild in \"Bad Beats.\" The show also delivers what \"SportsCente",
-        "end":  "2026-10-16T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T10:00:00.0000000",
-        "title":  "Live: Unsportsmanlike with Evan, Canty and Michelle",
-        "desc":  "Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it\u0027s all about.",
-        "end":  "2026-10-16T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T12:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-16T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T13:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-16T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T14:00:00.0000000",
-        "title":  "Live: Get Up",
-        "desc":  "ESPN\u0027s morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company\u0027s New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio\u0027s longt",
-        "end":  "2026-10-16T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T16:00:00.0000000",
-        "title":  "First Take",
-        "desc":  "Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day\u0027s trending sports topics and under-the-radar news. They\u0027re regularly joined by veteran analysts and the top guests in sports and entertainment.",
-        "end":  "2026-10-16T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T18:00:00.0000000",
-        "title":  "Fantasy Focus",
-        "desc":  "Field Yates hosts ESPN\u0027s top Fantasy Football experts for a daily discussion of rankings, injuries and game previews and debate how the biggest NFL stories impact Fantasy Football.",
-        "end":  "2026-10-16T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T19:00:00.0000000",
-        "title":  "Bussin\u0027 \u0026 Pate On Campus",
-        "desc":  "College football analyst Josh Pate and the \"Bussin\u0027 with the Boys\" crew preview this week\u0027s college football action.",
-        "end":  "2026-10-16T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T20:00:00.0000000",
-        "title":  "The Hoop Collective",
-        "desc":  "Brian Windhorst is joined by Tim MacMahon, Tim Bontemps and other insiders to sort out life in and around the NBA world.",
-        "end":  "2026-10-16T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T20:30:00.0000000",
-        "title":  "College Football Live",
-        "desc":  "Want to know up-to-the-minute reports about your favorite college football team? ESPN has it covered with this weekday studio show, a roundtable format that emphasizes discussion and opinions on the sport\u0027s biggest stories and newsmakers. The half-hour program features a rotating roster of analysts that includes coaches, former players, and media personalities.",
-        "end":  "2026-10-16T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-16T21:00:00.0000000",
-        "title":  "Live: High School Football",
-        "desc":  "From Bradenton, Fla.",
-        "end":  "2026-10-17T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T00:00:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "The Appalachian State Mountaineers visit the Coastal Carolina Chanticleers. Appalachian State lost 10-3 to Old Dominion. Coastal Carolina beat Marshall 27-21, then holding off a late rally to secure its first Sun Belt conference win of the season.",
-        "end":  "2026-10-17T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T03:00:00.0000000",
-        "title":  "Live: Professional Fighters League",
-        "desc":  "From Wintrust Arena in Chicago.",
-        "end":  "2026-10-17T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T05:00:00.0000000",
-        "title":  "Baseball Tonight",
+        "start":  "2026-10-19T04:00:00.0000000",
+        "title":  "Live: Baseball Tonight",
         "desc":  "If you\u0027re a fan of baseball, then you won\u0027t want to miss this show featuring highlights of all the games and updates of ones still in progress. A rotating panel of analysts that includes former players, managers, and reporters provide inside information and breaking news.",
-        "end":  "2026-10-17T05:30:00.0000000"
+        "end":  "2026-10-19T04:30:00.0000000"
     },
     {
-        "start":  "2026-10-17T05:30:00.0000000",
-        "title":  "TrueSouth",
-        "desc":  "John T. Edge travels around the region, introducing viewers to Southern tastemakers, food, culture and history.",
-        "end":  "2026-10-17T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T06:00:00.0000000",
-        "title":  "NBA Basketball",
-        "desc":  "From Crypto.com Arena in Los Angeles.",
-        "end":  "2026-10-17T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T08:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Memphis Tigers visit the Tulane Green Wave. Memphis beat UAB 38-13 to improve to 5-1 overall and 2-0 in conference play. Tulane lost 20-17 to Army on a game-winning field goal as time expired, leaving the Green Wave looking to respond at home.",
-        "end":  "2026-10-17T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T10:00:00.0000000",
-        "title":  "NFL Live",
-        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
-        "end":  "2026-10-17T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T11:00:00.0000000",
-        "title":  "NFL Matchup",
-        "desc":  "An NFL Films production, \"NFL Matchup\" is definitely a show for football junkies. Unlike traditional football preview programs, this one gives fans an in-depth look at some of Sunday\u0027s games by breaking down the strategy and tactics -- the Xs and Os -- through the exclusive use of team-supplied footage. That type of film study is a forte of former NFL player and executive Louis Riddick and NFL Fil",
-        "end":  "2026-10-17T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T11:30:00.0000000",
-        "title":  "Saban",
-        "desc":  "After five seasons and a contract dispute, Saban leaves Michigan State for an opportunity at LSU.",
-        "end":  "2026-10-17T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T12:30:00.0000000",
-        "title":  "The Difference: LSU Football",
-        "desc":  "Behind the scenes in Year 1 of Lane Kiffin\u0027s tenure as LSU football\u0027s head coach.",
-        "end":  "2026-10-17T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T13:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-17T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T14:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-17T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T15:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-17T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T16:00:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "From Alumni Stadium in Chestnut Hill, Mass.",
-        "end":  "2026-10-17T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T19:00:00.0000000",
-        "title":  "Live: College Football Scoreboard",
-        "desc":  "Presenting up-to-the-minute scores and highlights during the college football season.",
-        "end":  "2026-10-17T19:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T19:30:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "From Wallace Wade Stadium in Durham, N.C.",
-        "end":  "2026-10-17T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T22:30:00.0000000",
-        "title":  "Live: College Football Scoreboard",
-        "desc":  "Presenting up-to-the-minute scores and highlights during the college football season.",
-        "end":  "2026-10-17T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T23:00:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "From FirstBank Stadium in Nashville, Tenn.",
-        "end":  "2026-10-18T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T00:00:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "The Appalachian State Mountaineers visit the Coastal Carolina Chanticleers. Appalachian State lost 10-3 to Old Dominion. Coastal Carolina beat Marshall 27-21, then holding off a late rally to secure its first Sun Belt conference win of the season.",
-        "end":  "2026-10-17T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T03:00:00.0000000",
-        "title":  "Live: Professional Fighters League",
-        "desc":  "From Wintrust Arena in Chicago.",
-        "end":  "2026-10-17T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T05:00:00.0000000",
-        "title":  "Baseball Tonight",
-        "desc":  "If you\u0027re a fan of baseball, then you won\u0027t want to miss this show featuring highlights of all the games and updates of ones still in progress. A rotating panel of analysts that includes former players, managers, and reporters provide inside information and breaking news.",
-        "end":  "2026-10-17T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T05:30:00.0000000",
-        "title":  "TrueSouth",
-        "desc":  "John T. Edge travels around the region, introducing viewers to Southern tastemakers, food, culture and history.",
-        "end":  "2026-10-17T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T06:00:00.0000000",
-        "title":  "NBA Basketball",
-        "desc":  "From Crypto.com Arena in Los Angeles.",
-        "end":  "2026-10-17T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T08:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Memphis Tigers visit the Tulane Green Wave. Memphis beat UAB 38-13 to improve to 5-1 overall and 2-0 in conference play. Tulane lost 20-17 to Army on a game-winning field goal as time expired, leaving the Green Wave looking to respond at home.",
-        "end":  "2026-10-17T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T10:00:00.0000000",
-        "title":  "NFL Live",
-        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
-        "end":  "2026-10-17T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T11:00:00.0000000",
-        "title":  "NFL Matchup",
-        "desc":  "An NFL Films production, \"NFL Matchup\" is definitely a show for football junkies. Unlike traditional football preview programs, this one gives fans an in-depth look at some of Sunday\u0027s games by breaking down the strategy and tactics -- the Xs and Os -- through the exclusive use of team-supplied footage. That type of film study is a forte of former NFL player and executive Louis Riddick and NFL Fil",
-        "end":  "2026-10-17T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T11:30:00.0000000",
-        "title":  "Saban",
-        "desc":  "After five seasons and a contract dispute, Saban leaves Michigan State for an opportunity at LSU.",
-        "end":  "2026-10-17T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T12:30:00.0000000",
-        "title":  "The Difference: LSU Football",
-        "desc":  "Behind the scenes in Year 1 of Lane Kiffin\u0027s tenure as LSU football\u0027s head coach.",
-        "end":  "2026-10-17T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T13:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-17T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T14:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-17T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T15:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-17T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T16:00:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "From Alumni Stadium in Chestnut Hill, Mass.",
-        "end":  "2026-10-17T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T19:00:00.0000000",
-        "title":  "Live: College Football Scoreboard",
-        "desc":  "Presenting up-to-the-minute scores and highlights during the college football season.",
-        "end":  "2026-10-17T19:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T19:30:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "From Wallace Wade Stadium in Durham, N.C.",
-        "end":  "2026-10-17T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T22:30:00.0000000",
-        "title":  "Live: College Football Scoreboard",
-        "desc":  "Presenting up-to-the-minute scores and highlights during the college football season.",
-        "end":  "2026-10-17T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-17T23:00:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "From FirstBank Stadium in Nashville, Tenn.",
-        "end":  "2026-10-18T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-18T02:00:00.0000000",
-        "title":  "Live: College Football Scoreboard",
-        "desc":  "Presenting up-to-the-minute scores and highlights during the college football season.",
-        "end":  "2026-10-18T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-18T02:30:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "From California Memorial Stadium in Berkeley, Calif.",
-        "end":  "2026-10-19T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-18T02:00:00.0000000",
-        "title":  "Live: College Football Scoreboard",
-        "desc":  "Presenting up-to-the-minute scores and highlights during the college football season.",
-        "end":  "2026-10-18T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-18T02:30:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "From California Memorial Stadium in Berkeley, Calif.",
-        "end":  "2026-10-19T00:00:00.0000000"
+        "start":  "2026-10-19T04:30:00.0000000",
+        "title":  "30 for 30",
+        "desc":  "The rise, fall and maturation of former Oklahoma University All-American linebacker Brian Bosworth.",
+        "end":  "2026-10-20T00:00:00.0000000"
     }
 ]
