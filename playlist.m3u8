@@ -2,10 +2,15 @@
 #EXTINF:-1 tvg-name="Kan 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/960px-Kan11Logo.svg.png" group-title="Israel" tvg-provider="WGP" tvg-id="Kan%2011" tvg-backup-provider="XMLTV" tvg-backup-id="11-kanal-il",Kan 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://i.imgur.com/fY3eakc.png" group-title="Israel" tvg-provider="Mako" tvg-backup-provider="WGP" tvg-backup-id="Keshet%2012",Keshet 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/294/index.m3u8
 
 #EXTINF:-1 tvg-name="Reshet 13" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="Israel" tvg-provider="WGP" tvg-id="Reshet%2013" tvg-backup-provider="Reshet",Reshet 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 
+#EXTINF:-1 tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="US News" tvg-provider="WGP.ENG" tvg-id="465372" tvg-backup-provider="XMLTV" tvg-backup-id="fox-news-hd",Fox News Channel
+https://tvsen6.aynaott.com/foxnews/index.m3u8
 #EXTINF:-1 tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="US News" tvg-provider="WGP.ENG" tvg-id="465372" tvg-backup-provider="XMLTV" tvg-backup-id="fox-news-hd",Fox News Channel
 http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 #EXTINF:-1 tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="US News" tvg-provider="WGP.ENG" tvg-id="465372" tvg-backup-provider="XMLTV" tvg-backup-id="fox-news-hd",Fox News Channel
@@ -53,10 +58,6 @@ https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Sky Sports NFL" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="454969",Sky Sports NFL
-#EXTVLCOPT:http-referrer=https://stmify.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
-https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Yes Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/960px-YES_Network_logo.svg.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="427689",Yes Network
