@@ -1,110 +1,1100 @@
 [
     {
-        "start":  "2026-10-24T00:00:00.0000000",
+        "start":  "2026-10-25T00:00:00.0000000",
         "title":  "Live: 2026 World Series",
         "desc":  "From American Family Field in Milwaukee.",
-        "end":  "2026-10-24T03:00:00.0000000"
+        "end":  "2026-10-25T03:00:00.0000000"
     },
     {
-        "start":  "2026-10-24T03:00:00.0000000",
-        "title":  "Live: Action News Jax at 11:00pm",
+        "start":  "2026-10-25T03:00:00.0000000",
+        "title":  "Live: Action News Jax at 10:00pm",
         "desc":  "Evening news from Jacksonville.",
-        "end":  "2026-10-24T03:15:00.0000000"
+        "end":  "2026-10-25T03:30:00.0000000"
     },
     {
-        "start":  "2026-10-24T03:15:00.0000000",
-        "title":  "Action Sports Jax: Friday Night Blitz",
-        "desc":  "High school football stories and game of the week.",
-        "end":  "2026-10-24T03:35:00.0000000"
+        "start":  "2026-10-25T03:30:00.0000000",
+        "title":  "Action Sports JAX Primetime",
+        "desc":  "Scores and stories from across sports of the day.",
+        "end":  "2026-10-25T04:00:00.0000000"
     },
     {
-        "start":  "2026-10-24T03:35:00.0000000",
-        "title":  "Action Sports Jax: Friday Night Blitz",
-        "desc":  "High school football stories and game of the week.",
-        "end":  "2026-10-24T04:05:00.0000000"
+        "start":  "2026-10-25T04:00:00.0000000",
+        "title":  "The 1% Club",
+        "desc":  "For the first time ever, the stage belongs to 100 extraordinary women as they compete for $100,000.",
+        "end":  "2026-10-25T05:00:00.0000000"
     },
     {
-        "start":  "2026-10-24T04:05:00.0000000",
-        "title":  "TMZ",
-        "desc":  "TMZ TV tracks down today\u0027s hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
-        "end":  "2026-10-24T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-24T04:30:00.0000000",
+        "start":  "2026-10-25T05:00:00.0000000",
         "title":  "Modern Family",
-        "desc":  "Haley\u0027s astrophysicist boyfriend comes to meet the family, setting Claire and Phil off in a competition about which one of them is smarter; Mitch and Cam go on a yoga retreat.",
-        "end":  "2026-10-25T00:00:00.0000000"
+        "desc":  "Haley\u0027s boss tries to buy Gloria\u0027s salsa; Mitchell gets Cam the police ride-along he\u0027s always dreamed of.",
+        "end":  "2026-10-25T05:30:00.0000000"
     },
     {
-        "start":  "2026-10-24T00:00:00.0000000",
+        "start":  "2026-10-25T05:30:00.0000000",
+        "title":  "America\u0027s Funniest Home Videos",
+        "desc":  "A studio audience votes on the most hilarious home video. Alfonso Ribeiro hosts.",
+        "end":  "2026-10-25T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-25T06:00:00.0000000",
+        "title":  "Below Deck",
+        "desc":  "This reality series profiles a group of young people who work aboard yachts that measure well over 100 feet long. The crew members, known as yachties, live aboard the luxurious, privately owned vessels while making sure that their demanding clients\u0027 ever-changing needs are met. The yachties share a passion for a job that allows them to visit some of the world\u0027s most beautiful places. Each episode ",
+        "end":  "2026-10-25T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-25T07:00:00.0000000",
+        "title":  "Storm of Suspicion",
+        "desc":  "When a mother of three vanishes after a 1986 blizzard, Connecticut police are led to a chilling theory when the trail of evidence brings them to the shores of an icy lake.",
+        "end":  "2026-10-25T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-25T08:00:00.0000000",
+        "title":  "Heartland",
+        "desc":  "Caleb finds a memento from the past that he thinks will have special meaning for Amy; surprisingly, it\u0027s Jack who has some mixed emotions stirred up by the gift.",
+        "end":  "2026-10-25T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-25T09:00:00.0000000",
+        "title":  "Family Feud",
+        "desc":  "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+        "end":  "2026-10-25T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-25T09:30:00.0000000",
+        "title":  "This Week in the 904",
+        "desc":  "A conversation-driven show with local newsmakers, delving into community issues of importance to viewers in the Jacksonville area.",
+        "end":  "2026-10-25T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-25T10:00:00.0000000",
+        "title":  "Live: Action News Jax at 6:00am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-10-25T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-25T11:00:00.0000000",
+        "title":  "Live: Action News Jax at 7:00am",
+        "desc":  "Morning news from Jacksonville.",
+        "end":  "2026-10-25T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-25T12:00:00.0000000",
+        "title":  "Live: Action News Jax at 8:00am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-10-25T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-25T13:00:00.0000000",
+        "title":  "FOX News Sunday",
+        "desc":  "Rep. Mike Johnson (R-La.); former Lt. Gov. Mitch Landrieu (D-La.); podcast hosts Josh Holmes, John Ashbrook, Michael Duncan and Comfortably Smug; panel discussion with Francesca Chambers, Marie Harf, Josh Kraushaar and Reince Priebus.",
+        "end":  "2026-10-25T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-25T14:00:00.0000000",
+        "title":  "This Week in the 904",
+        "desc":  "A conversation-driven show with local newsmakers, delving into community issues of importance to viewers in the Jacksonville area.",
+        "end":  "2026-10-25T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-25T14:30:00.0000000",
+        "title":  "Live: Jags Weekend",
+        "desc":  "",
+        "end":  "2026-10-25T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-25T15:00:00.0000000",
+        "title":  "Live: FOX NFL Kickoff",
+        "desc":  "FOX NFL Kickoff is hosted by Charissa Thompson alongside Pro Football Hall of Famer and Super Bowl champion Charles Woodson, three-time Super Bowl champion Julian Edelman and longtime sports media personality Colin Cowherd.",
+        "end":  "2026-10-25T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-25T16:00:00.0000000",
+        "title":  "Live: FOX NFL Sunday",
+        "desc":  "Hosts Curt Menefee and Terry Bradshaw with analysts Howie Long, Michael Strahan and Rob Gronkowski. FOX NFL insider Jay Glazer returns with the FOX NFL Sunday crew, delivering exclusive insights and breaking news across the league.",
+        "end":  "2026-10-25T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-25T17:00:00.0000000",
+        "title":  "Live: NFL Football",
+        "desc":  "The Falcons host the 49ers in NFL regular-season play at Mercedes-Benz Stadium. San Francisco arrives unbeaten at 6-0 and winners of six straight, while Atlanta sits at 2-4 after back-to-back losses with 31-23 being the most recent loss to Chicago.",
+        "end":  "2026-10-25T20:25:00.0000000"
+    },
+    {
+        "start":  "2026-10-25T20:25:00.0000000",
+        "title":  "Live: NFL Football",
+        "desc":  "The Detroit Lions host the Green Bay Packers in an NFC North matchup at Ford Field. Green Bay has won three straight games, beating Tampa Bay, Chicago and Dallas. Detroit relies on quarterback Jared Goff, who has 1,485 passing yards and 12 TDs.",
+        "end":  "2026-10-25T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-25T23:30:00.0000000",
+        "title":  "Live: The OT",
+        "desc":  "Hosts Curt Menefee and Terry Bradshaw alongside analysts Howie Long, Rob Gronkowski and Michael Strahan discuss what has occurred during today\u0027s slate of games.",
+        "end":  "2026-10-26T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T00:00:00.0000000",
+        "title":  "The Simpsons",
+        "desc":  "Marge gets a horrifying new perspective on marriage; Bart and Santa\u0027s Little Helper embark on a bone-chilling adventure; Homer takes a driving lesson.",
+        "end":  "2026-10-26T00:31:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T00:31:00.0000000",
+        "title":  "Animal Control",
+        "desc":  "When Emily\u0027s HR review threatens her reinstatement, Frank appoints himself her investigator.",
+        "end":  "2026-10-26T01:02:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T01:02:00.0000000",
+        "title":  "Universal Basic Guys",
+        "desc":  "Mark and Rhoda team up to beat the DelVecchios in a dance competition; Tammy and Kardgen help with an organ delivery.",
+        "end":  "2026-10-26T01:31:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T01:31:00.0000000",
+        "title":  "Grimsburg",
+        "desc":  "Flute is suspicious of Summers\u0027 new cyborg friend; Martinez joins the Satanic church for the childcare perks.",
+        "end":  "2026-10-26T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T02:00:00.0000000",
+        "title":  "Live: Action News Jax at 10:00pm",
+        "desc":  "Evening news from Jacksonville.",
+        "end":  "2026-10-26T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T02:30:00.0000000",
+        "title":  "Live: Action Sports JAX Primetime",
+        "desc":  "Scores and stories from across sports of the day.",
+        "end":  "2026-10-26T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T03:00:00.0000000",
+        "title":  "In Depth With Graham Bensinger",
+        "desc":  "\"In Depth\" is in Seattle with Seahawks head coach Mike Macdonald, fresh off a Super Bowl win; he reflects on his journey from an intern to a champion; Graham gets a tour of Macdonald\u0027s 10-acre property and chats with Seahawks quarterback Sam Darnold.",
+        "end":  "2026-10-26T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T03:30:00.0000000",
+        "title":  "Hot Topics",
+        "desc":  "",
+        "end":  "2026-10-26T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T04:00:00.0000000",
+        "title":  "The Rookie",
+        "desc":  "Now that Elijah and Abril have become allies, the team must rely on Monica, Elijah\u0027s lawyer, to uncover their plans; Officers Nolan and Juarez reopen her sister\u0027s case and discover a discrepancy that leads them on a new trail.",
+        "end":  "2026-10-26T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T05:00:00.0000000",
+        "title":  "The Rookie",
+        "desc":  "When Dim goes missing, Officer Chen and Sgt. Bradford, along with the CIA, set out to find him and enlist the help of Juicy.",
+        "end":  "2026-10-26T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T06:00:00.0000000",
+        "title":  "FBI: Most Wanted",
+        "desc":  "From Emmy Award winner Dick Wolf and the team behind \"FBI\" and the \"Law \u0026 Order\" franchise, \"FBI: Most Wanted\" is a high-stakes drama focusing on the Fugitive Task Force, which relentlessly tracks and captures the notorious criminals on the Bureau\u0027s Most Wanted list. Seasoned agent Jess LaCroix oversees the highly skilled team that functions as a mobile undercover unit that is always out in the fi",
+        "end":  "2026-10-26T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T07:00:00.0000000",
+        "title":  "Finally Caught",
+        "desc":  "New evidence, evolved science and new testimonies help crack real-life unsolved murder cases; with material witness interviews, expert testimony, historical footage and dramatic re-enactments.",
+        "end":  "2026-10-26T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T08:00:00.0000000",
+        "title":  "National News Tonight",
+        "desc":  "",
+        "end":  "2026-10-26T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T08:30:00.0000000",
+        "title":  "Live: Action News Jax at 4:30am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-10-26T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T09:00:00.0000000",
+        "title":  "Live: Action News Jax at 5:00am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-10-26T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T09:30:00.0000000",
+        "title":  "Live: Action News Jax at 5:30am",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-10-26T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T10:00:00.0000000",
+        "title":  "Live: Action News Jax at 6:00am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-10-26T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T11:00:00.0000000",
+        "title":  "Live: Action News Jax at 7:00am",
+        "desc":  "Morning news from Jacksonville.",
+        "end":  "2026-10-26T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T12:00:00.0000000",
+        "title":  "Live: Action News Jax at 8:00am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-10-26T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T13:00:00.0000000",
+        "title":  "Family Feud Favorites",
+        "desc":  "\"Family Feud\" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.",
+        "end":  "2026-10-26T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T13:30:00.0000000",
+        "title":  "Family Feud Favorites",
+        "desc":  "\"Family Feud\" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.",
+        "end":  "2026-10-26T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T14:00:00.0000000",
+        "title":  "America\u0027s Heartland",
+        "desc":  "Harvesting lobsters in Maine; a Pennsylvania farm family is recognized for its agricultural efforts on a farm dating back to the 19th century; Iowa farm families celebrate their heritage.",
+        "end":  "2026-10-26T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T14:30:00.0000000",
+        "title":  "Crime ExposÃ© With Nancy O\u0027Dell",
+        "desc":  "When 19-year-old college student Blaze Bernstein vanishes, the investigation uncovers a brutal hate crime.",
+        "end":  "2026-10-26T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T15:00:00.0000000",
+        "title":  "Tamron Hall",
+        "desc":  "From the deeply moving to the purely fun, the show is a daily destination for all things topical and a platform for viewers to connect with the people who are shaping the world through meaningful, engaging and entertaining conversations.",
+        "end":  "2026-10-26T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T16:00:00.0000000",
+        "title":  "Live: Action News Jax at Noon",
+        "desc":  "Midday news update.",
+        "end":  "2026-10-26T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T16:30:00.0000000",
+        "title":  "America\u0027s Funniest Home Videos",
+        "desc":  "A studio audience votes on the most hilarious home video. Alfonso Ribeiro hosts.",
+        "end":  "2026-10-26T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T17:00:00.0000000",
+        "title":  "Hot Bench",
+        "desc":  "A milestone birthday ends with disappointment and demands for a refund: a mother says the decorations and party favors failed to meet expectations, while the decorator argues that she went above and beyond despite difficult circumstances.",
+        "end":  "2026-10-26T17:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T17:30:00.0000000",
+        "title":  "Hot Bench",
+        "desc":  "A prized classic car turns problematic after repairs allegedly create more issues than solutions. The owner claims the shop dodged responsibility, and drove up costs, while the mechanics claim the vintage car needed rare parts which stalled progress. Watch as the restoration shifts from garage to courtroom.",
+        "end":  "2026-10-26T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T18:00:00.0000000",
+        "title":  "The Perfect Line",
+        "desc":  "Players Shan, Avery, Jacob and Michele compete to get the most correct answers.",
+        "end":  "2026-10-26T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T18:30:00.0000000",
+        "title":  "The Perfect Line",
+        "desc":  "Players Brittany, Eric, Bex and Victoria compete to get the most correct answers while learning surprising facts and trivia along the way.",
+        "end":  "2026-10-26T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T19:00:00.0000000",
+        "title":  "Family Feud",
+        "desc":  "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+        "end":  "2026-10-26T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T19:30:00.0000000",
+        "title":  "Family Feud",
+        "desc":  "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+        "end":  "2026-10-26T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T20:00:00.0000000",
+        "title":  "Live: Action News Jax at 4:00pm",
+        "desc":  "Local and regional news coverage.",
+        "end":  "2026-10-26T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T20:30:00.0000000",
+        "title":  "Judy Justice",
+        "desc":  "A woman sues her ex-boyfriend for custody of their rescue dog, Luka, who makes an appearance in court; the man alleges mistreatment of the pomsky by her teen grandson, citing incidents of physical discipline.",
+        "end":  "2026-10-26T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T21:00:00.0000000",
+        "title":  "Live: Action News Jax at 5:00pm",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-10-26T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T21:30:00.0000000",
+        "title":  "Live: Action News Jax at 5:30pm",
+        "desc":  "Evening news coverage.",
+        "end":  "2026-10-26T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T22:00:00.0000000",
+        "title":  "Live: Action News Jax at 6:00pm",
+        "desc":  "Local, national and international news coverage.",
+        "end":  "2026-10-26T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T22:30:00.0000000",
+        "title":  "Live: Action News Jax at 6:30pm",
+        "desc":  "Evening news from Jacksonville.",
+        "end":  "2026-10-26T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T23:00:00.0000000",
+        "title":  "Live: MLB on FOX Pregame",
+        "desc":  "Pregame analysis from Major League Baseball.",
+        "end":  "2026-10-27T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T00:00:00.0000000",
         "title":  "Live: 2026 World Series",
-        "desc":  "From American Family Field in Milwaukee.",
-        "end":  "2026-10-24T03:00:00.0000000"
+        "desc":  "From Tropicana Field in St. Petersburg, Fla.",
+        "end":  "2026-10-28T00:00:00.0000000"
     },
     {
-        "start":  "2026-10-24T03:00:00.0000000",
-        "title":  "Live: Action News Jax at 11:00pm",
+        "start":  "2026-10-26T00:00:00.0000000",
+        "title":  "The Simpsons",
+        "desc":  "Marge gets a horrifying new perspective on marriage; Bart and Santa\u0027s Little Helper embark on a bone-chilling adventure; Homer takes a driving lesson.",
+        "end":  "2026-10-26T00:31:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T00:31:00.0000000",
+        "title":  "Animal Control",
+        "desc":  "When Emily\u0027s HR review threatens her reinstatement, Frank appoints himself her investigator.",
+        "end":  "2026-10-26T01:02:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T01:02:00.0000000",
+        "title":  "Universal Basic Guys",
+        "desc":  "Mark and Rhoda team up to beat the DelVecchios in a dance competition; Tammy and Kardgen help with an organ delivery.",
+        "end":  "2026-10-26T01:31:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T01:31:00.0000000",
+        "title":  "Grimsburg",
+        "desc":  "Flute is suspicious of Summers\u0027 new cyborg friend; Martinez joins the Satanic church for the childcare perks.",
+        "end":  "2026-10-26T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T02:00:00.0000000",
+        "title":  "Live: Action News Jax at 10:00pm",
         "desc":  "Evening news from Jacksonville.",
-        "end":  "2026-10-24T03:15:00.0000000"
+        "end":  "2026-10-26T02:30:00.0000000"
     },
     {
-        "start":  "2026-10-24T03:15:00.0000000",
-        "title":  "Action Sports Jax: Friday Night Blitz",
-        "desc":  "High school football stories and game of the week.",
-        "end":  "2026-10-24T03:35:00.0000000"
+        "start":  "2026-10-26T02:30:00.0000000",
+        "title":  "Live: Action Sports JAX Primetime",
+        "desc":  "Scores and stories from across sports of the day.",
+        "end":  "2026-10-26T03:00:00.0000000"
     },
     {
-        "start":  "2026-10-24T03:35:00.0000000",
-        "title":  "Action Sports Jax: Friday Night Blitz",
-        "desc":  "High school football stories and game of the week.",
-        "end":  "2026-10-24T04:05:00.0000000"
+        "start":  "2026-10-26T03:00:00.0000000",
+        "title":  "In Depth With Graham Bensinger",
+        "desc":  "\"In Depth\" is in Seattle with Seahawks head coach Mike Macdonald, fresh off a Super Bowl win; he reflects on his journey from an intern to a champion; Graham gets a tour of Macdonald\u0027s 10-acre property and chats with Seahawks quarterback Sam Darnold.",
+        "end":  "2026-10-26T03:30:00.0000000"
     },
     {
-        "start":  "2026-10-24T04:05:00.0000000",
-        "title":  "TMZ",
-        "desc":  "TMZ TV tracks down today\u0027s hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
-        "end":  "2026-10-24T04:30:00.0000000"
+        "start":  "2026-10-26T03:30:00.0000000",
+        "title":  "Hot Topics",
+        "desc":  "",
+        "end":  "2026-10-26T04:00:00.0000000"
     },
     {
-        "start":  "2026-10-24T04:30:00.0000000",
-        "title":  "Modern Family",
-        "desc":  "Haley\u0027s astrophysicist boyfriend comes to meet the family, setting Claire and Phil off in a competition about which one of them is smarter; Mitch and Cam go on a yoga retreat.",
-        "end":  "2026-10-25T00:00:00.0000000"
+        "start":  "2026-10-26T04:00:00.0000000",
+        "title":  "The Rookie",
+        "desc":  "Now that Elijah and Abril have become allies, the team must rely on Monica, Elijah\u0027s lawyer, to uncover their plans; Officers Nolan and Juarez reopen her sister\u0027s case and discover a discrepancy that leads them on a new trail.",
+        "end":  "2026-10-26T05:00:00.0000000"
     },
     {
-        "start":  "2026-10-24T00:00:00.0000000",
+        "start":  "2026-10-26T05:00:00.0000000",
+        "title":  "The Rookie",
+        "desc":  "When Dim goes missing, Officer Chen and Sgt. Bradford, along with the CIA, set out to find him and enlist the help of Juicy.",
+        "end":  "2026-10-26T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T06:00:00.0000000",
+        "title":  "FBI: Most Wanted",
+        "desc":  "From Emmy Award winner Dick Wolf and the team behind \"FBI\" and the \"Law \u0026 Order\" franchise, \"FBI: Most Wanted\" is a high-stakes drama focusing on the Fugitive Task Force, which relentlessly tracks and captures the notorious criminals on the Bureau\u0027s Most Wanted list. Seasoned agent Jess LaCroix oversees the highly skilled team that functions as a mobile undercover unit that is always out in the fi",
+        "end":  "2026-10-26T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T07:00:00.0000000",
+        "title":  "Finally Caught",
+        "desc":  "New evidence, evolved science and new testimonies help crack real-life unsolved murder cases; with material witness interviews, expert testimony, historical footage and dramatic re-enactments.",
+        "end":  "2026-10-26T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T08:00:00.0000000",
+        "title":  "National News Tonight",
+        "desc":  "",
+        "end":  "2026-10-26T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T08:30:00.0000000",
+        "title":  "Live: Action News Jax at 4:30am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-10-26T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T09:00:00.0000000",
+        "title":  "Live: Action News Jax at 5:00am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-10-26T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T09:30:00.0000000",
+        "title":  "Live: Action News Jax at 5:30am",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-10-26T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T10:00:00.0000000",
+        "title":  "Live: Action News Jax at 6:00am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-10-26T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T11:00:00.0000000",
+        "title":  "Live: Action News Jax at 7:00am",
+        "desc":  "Morning news from Jacksonville.",
+        "end":  "2026-10-26T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T12:00:00.0000000",
+        "title":  "Live: Action News Jax at 8:00am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-10-26T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T13:00:00.0000000",
+        "title":  "Family Feud Favorites",
+        "desc":  "\"Family Feud\" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.",
+        "end":  "2026-10-26T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T13:30:00.0000000",
+        "title":  "Family Feud Favorites",
+        "desc":  "\"Family Feud\" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.",
+        "end":  "2026-10-26T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T14:00:00.0000000",
+        "title":  "America\u0027s Heartland",
+        "desc":  "Harvesting lobsters in Maine; a Pennsylvania farm family is recognized for its agricultural efforts on a farm dating back to the 19th century; Iowa farm families celebrate their heritage.",
+        "end":  "2026-10-26T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T14:30:00.0000000",
+        "title":  "Crime ExposÃ© With Nancy O\u0027Dell",
+        "desc":  "When 19-year-old college student Blaze Bernstein vanishes, the investigation uncovers a brutal hate crime.",
+        "end":  "2026-10-26T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T15:00:00.0000000",
+        "title":  "Tamron Hall",
+        "desc":  "From the deeply moving to the purely fun, the show is a daily destination for all things topical and a platform for viewers to connect with the people who are shaping the world through meaningful, engaging and entertaining conversations.",
+        "end":  "2026-10-26T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T16:00:00.0000000",
+        "title":  "Live: Action News Jax at Noon",
+        "desc":  "Midday news update.",
+        "end":  "2026-10-26T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T16:30:00.0000000",
+        "title":  "America\u0027s Funniest Home Videos",
+        "desc":  "A studio audience votes on the most hilarious home video. Alfonso Ribeiro hosts.",
+        "end":  "2026-10-26T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T17:00:00.0000000",
+        "title":  "Hot Bench",
+        "desc":  "A milestone birthday ends with disappointment and demands for a refund: a mother says the decorations and party favors failed to meet expectations, while the decorator argues that she went above and beyond despite difficult circumstances.",
+        "end":  "2026-10-26T17:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T17:30:00.0000000",
+        "title":  "Hot Bench",
+        "desc":  "A prized classic car turns problematic after repairs allegedly create more issues than solutions. The owner claims the shop dodged responsibility, and drove up costs, while the mechanics claim the vintage car needed rare parts which stalled progress. Watch as the restoration shifts from garage to courtroom.",
+        "end":  "2026-10-26T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T18:00:00.0000000",
+        "title":  "The Perfect Line",
+        "desc":  "Players Shan, Avery, Jacob and Michele compete to get the most correct answers.",
+        "end":  "2026-10-26T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T18:30:00.0000000",
+        "title":  "The Perfect Line",
+        "desc":  "Players Brittany, Eric, Bex and Victoria compete to get the most correct answers while learning surprising facts and trivia along the way.",
+        "end":  "2026-10-26T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T19:00:00.0000000",
+        "title":  "Family Feud",
+        "desc":  "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+        "end":  "2026-10-26T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T19:30:00.0000000",
+        "title":  "Family Feud",
+        "desc":  "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+        "end":  "2026-10-26T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T20:00:00.0000000",
+        "title":  "Live: Action News Jax at 4:00pm",
+        "desc":  "Local and regional news coverage.",
+        "end":  "2026-10-26T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T20:30:00.0000000",
+        "title":  "Judy Justice",
+        "desc":  "A woman sues her ex-boyfriend for custody of their rescue dog, Luka, who makes an appearance in court; the man alleges mistreatment of the pomsky by her teen grandson, citing incidents of physical discipline.",
+        "end":  "2026-10-26T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T21:00:00.0000000",
+        "title":  "Live: Action News Jax at 5:00pm",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-10-26T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T21:30:00.0000000",
+        "title":  "Live: Action News Jax at 5:30pm",
+        "desc":  "Evening news coverage.",
+        "end":  "2026-10-26T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T22:00:00.0000000",
+        "title":  "Live: Action News Jax at 6:00pm",
+        "desc":  "Local, national and international news coverage.",
+        "end":  "2026-10-26T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T22:30:00.0000000",
+        "title":  "Live: Action News Jax at 6:30pm",
+        "desc":  "Evening news from Jacksonville.",
+        "end":  "2026-10-26T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T23:00:00.0000000",
+        "title":  "Live: MLB on FOX Pregame",
+        "desc":  "Pregame analysis from Major League Baseball.",
+        "end":  "2026-10-27T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T00:00:00.0000000",
         "title":  "Live: 2026 World Series",
-        "desc":  "From American Family Field in Milwaukee.",
-        "end":  "2026-10-24T03:00:00.0000000"
+        "desc":  "From Tropicana Field in St. Petersburg, Fla.",
+        "end":  "2026-10-27T03:00:00.0000000"
     },
     {
-        "start":  "2026-10-24T03:00:00.0000000",
+        "start":  "2026-10-27T03:00:00.0000000",
         "title":  "Live: Action News Jax at 11:00pm",
         "desc":  "Evening news from Jacksonville.",
-        "end":  "2026-10-24T03:15:00.0000000"
+        "end":  "2026-10-27T03:35:00.0000000"
     },
     {
-        "start":  "2026-10-24T03:15:00.0000000",
-        "title":  "Action Sports Jax: Friday Night Blitz",
-        "desc":  "High school football stories and game of the week.",
-        "end":  "2026-10-24T03:35:00.0000000"
+        "start":  "2026-10-27T03:35:00.0000000",
+        "title":  "Florida Tonight",
+        "desc":  "News alerts, headlines and weather forecast for Central Florida.",
+        "end":  "2026-10-27T04:05:00.0000000"
     },
     {
-        "start":  "2026-10-24T03:35:00.0000000",
-        "title":  "Action Sports Jax: Friday Night Blitz",
-        "desc":  "High school football stories and game of the week.",
-        "end":  "2026-10-24T04:05:00.0000000"
-    },
-    {
-        "start":  "2026-10-24T04:05:00.0000000",
+        "start":  "2026-10-27T04:05:00.0000000",
         "title":  "TMZ",
         "desc":  "TMZ TV tracks down today\u0027s hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
-        "end":  "2026-10-24T04:30:00.0000000"
+        "end":  "2026-10-27T04:30:00.0000000"
     },
     {
-        "start":  "2026-10-24T04:30:00.0000000",
+        "start":  "2026-10-27T04:30:00.0000000",
         "title":  "Modern Family",
-        "desc":  "Haley\u0027s astrophysicist boyfriend comes to meet the family, setting Claire and Phil off in a competition about which one of them is smarter; Mitch and Cam go on a yoga retreat.",
-        "end":  "2026-10-25T00:00:00.0000000"
+        "desc":  "When Dede drops by unexpectedly, Mitchell and Cam come to a realization about her effect on their lives; Phil, Luke, Alex and Haley all have different bad news to break to Claire and compete about when to do it.",
+        "end":  "2026-10-27T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T05:00:00.0000000",
+        "title":  "Modern Family",
+        "desc":  "Phil and Claire start to question their enthusiasm for Halloween when no one else seems to feel the same; Mitch confronts Jay about how long the kitchen remodel is taking; Cam oversteps his boundaries as a house guest.",
+        "end":  "2026-10-27T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T05:30:00.0000000",
+        "title":  "Live PD Presents",
+        "desc":  "",
+        "end":  "2026-10-27T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T06:00:00.0000000",
+        "title":  "Crime ExposÃ© With Nancy O\u0027Dell",
+        "desc":  "An affluent, central Florida town is shaken by the disappearance of a beloved nanny; a gruesome discovery shifts the case from a missing persons search to a murder investigation.",
+        "end":  "2026-10-27T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T06:30:00.0000000",
+        "title":  "Justice for the People With Judge Milian",
+        "desc":  "An assistant blames her boss after her car is broken into because her parking spot was given away; a business seminar speaker isn\u0027t paid in full.",
+        "end":  "2026-10-27T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T07:00:00.0000000",
+        "title":  "iCRIME With Elizabeth Vargas",
+        "desc":  "Crimes from across the country that have been captured by ordinary people on their smartphones; stories of victims, witnesses, law enforcement and the videographers themselves.",
+        "end":  "2026-10-27T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T07:30:00.0000000",
+        "title":  "Crime Beat",
+        "desc":  "Alicia\u0027s disappearance leads to one of the largest missing person searches in Ontario\u0027s history; reporter Catherine McDonald reconnects with Alicia\u0027s mother to tell the tale.",
+        "end":  "2026-10-27T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T08:00:00.0000000",
+        "title":  "National News Tonight",
+        "desc":  "",
+        "end":  "2026-10-27T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T08:30:00.0000000",
+        "title":  "Live: Action News Jax at 4:30am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-10-27T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T09:00:00.0000000",
+        "title":  "Live: Action News Jax at 5:00am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-10-27T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T09:30:00.0000000",
+        "title":  "Live: Action News Jax at 5:30am",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-10-27T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T10:00:00.0000000",
+        "title":  "Live: Action News Jax at 6:00am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-10-27T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T11:00:00.0000000",
+        "title":  "Live: Action News Jax at 7:00am",
+        "desc":  "Morning news from Jacksonville.",
+        "end":  "2026-10-27T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T12:00:00.0000000",
+        "title":  "Live: Action News Jax at 8:00am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-10-27T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T13:00:00.0000000",
+        "title":  "Family Feud Favorites",
+        "desc":  "\"Family Feud\" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.",
+        "end":  "2026-10-27T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T13:30:00.0000000",
+        "title":  "Family Feud Favorites",
+        "desc":  "\"Family Feud\" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.",
+        "end":  "2026-10-27T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T14:00:00.0000000",
+        "title":  "oh baby!",
+        "desc":  "Host Janai Norman takes a closer look at some of the strangest creatures on the planet.",
+        "end":  "2026-10-27T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T14:30:00.0000000",
+        "title":  "Crime ExposÃ© With Nancy O\u0027Dell",
+        "desc":  "A Wisconsin pharmacist is found shot in his bed beside a knife-pinned note, igniting a lengthy hunt that veers through feuds, barstool boasts, and a chilling intruder theory before the true killer is finally unmasked.",
+        "end":  "2026-10-27T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T15:00:00.0000000",
+        "title":  "Tamron Hall",
+        "desc":  "From the deeply moving to the purely fun, the show is a daily destination for all things topical and a platform for viewers to connect with the people who are shaping the world through meaningful, engaging and entertaining conversations.",
+        "end":  "2026-10-27T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T16:00:00.0000000",
+        "title":  "Live: Action News Jax at Noon",
+        "desc":  "Midday news update.",
+        "end":  "2026-10-27T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T16:30:00.0000000",
+        "title":  "America\u0027s Funniest Home Videos",
+        "desc":  "A studio audience votes on the most hilarious home video. Alfonso Ribeiro hosts.",
+        "end":  "2026-10-27T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T17:00:00.0000000",
+        "title":  "Hot Bench",
+        "desc":  "A woman says she returned an SUV after discovering problems and never got her refund; her ex argues that she still owes money and says she still has the vehicle.",
+        "end":  "2026-10-27T17:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T17:30:00.0000000",
+        "title":  "Hot Bench",
+        "desc":  "A battle over stray felines turns into a full-blown cat-astrophe! A landlord claims her neighbor scared off tenants, unleashed bad reviews and fed a bunch of stray cats. The neighbor argues she\u0027s the real menace who calls the authorities just to cause trouble. Watch as the judges claw out the truth!",
+        "end":  "2026-10-27T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T18:00:00.0000000",
+        "title":  "The Perfect Line",
+        "desc":  "Players Cindy, Diamond, Kris and Broderick compete to get the most correct answers.",
+        "end":  "2026-10-27T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T18:30:00.0000000",
+        "title":  "The Perfect Line",
+        "desc":  "Players Paige, Mariesa, James and Heather compete to get the most correct answers while learning surprising facts and trivia along the way.",
+        "end":  "2026-10-27T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T19:00:00.0000000",
+        "title":  "Family Feud",
+        "desc":  "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+        "end":  "2026-10-27T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T19:30:00.0000000",
+        "title":  "Family Feud",
+        "desc":  "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+        "end":  "2026-10-27T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T20:00:00.0000000",
+        "title":  "Live: Action News Jax at 4:00pm",
+        "desc":  "Local and regional news coverage.",
+        "end":  "2026-10-27T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T20:30:00.0000000",
+        "title":  "Judy Justice",
+        "desc":  "A woman sues her ex-partner of 25 years after enduring a forced eviction and alleged abuse in their shared home; a yoga instructor returns from abroad to discover that the woman who rented her car for three years had a DUI.",
+        "end":  "2026-10-27T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T21:00:00.0000000",
+        "title":  "Live: Action News Jax at 5:00pm",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-10-27T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T21:30:00.0000000",
+        "title":  "Live: Action News Jax at 5:30pm",
+        "desc":  "Evening news coverage.",
+        "end":  "2026-10-27T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T22:00:00.0000000",
+        "title":  "Live: Action News Jax at 6:00pm",
+        "desc":  "Local, national and international news coverage.",
+        "end":  "2026-10-27T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T22:30:00.0000000",
+        "title":  "Live: Action News Jax at 6:30pm",
+        "desc":  "Evening news from Jacksonville.",
+        "end":  "2026-10-27T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T23:00:00.0000000",
+        "title":  "MLB on FOX Pregame",
+        "desc":  "Pregame analysis from Major League Baseball.",
+        "end":  "2026-10-28T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T00:00:00.0000000",
+        "title":  "Live: 2026 World Series",
+        "desc":  "From Tropicana Field in St. Petersburg, Fla.",
+        "end":  "2026-10-29T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T00:00:00.0000000",
+        "title":  "Live: 2026 World Series",
+        "desc":  "From Tropicana Field in St. Petersburg, Fla.",
+        "end":  "2026-10-27T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T03:00:00.0000000",
+        "title":  "Live: Action News Jax at 11:00pm",
+        "desc":  "Evening news from Jacksonville.",
+        "end":  "2026-10-27T03:35:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T03:35:00.0000000",
+        "title":  "Florida Tonight",
+        "desc":  "News alerts, headlines and weather forecast for Central Florida.",
+        "end":  "2026-10-27T04:05:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T04:05:00.0000000",
+        "title":  "TMZ",
+        "desc":  "TMZ TV tracks down today\u0027s hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
+        "end":  "2026-10-27T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T04:30:00.0000000",
+        "title":  "Modern Family",
+        "desc":  "When Dede drops by unexpectedly, Mitchell and Cam come to a realization about her effect on their lives; Phil, Luke, Alex and Haley all have different bad news to break to Claire and compete about when to do it.",
+        "end":  "2026-10-27T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T05:00:00.0000000",
+        "title":  "Modern Family",
+        "desc":  "Phil and Claire start to question their enthusiasm for Halloween when no one else seems to feel the same; Mitch confronts Jay about how long the kitchen remodel is taking; Cam oversteps his boundaries as a house guest.",
+        "end":  "2026-10-27T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T05:30:00.0000000",
+        "title":  "Live PD Presents",
+        "desc":  "",
+        "end":  "2026-10-27T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T06:00:00.0000000",
+        "title":  "Crime ExposÃ© With Nancy O\u0027Dell",
+        "desc":  "An affluent, central Florida town is shaken by the disappearance of a beloved nanny; a gruesome discovery shifts the case from a missing persons search to a murder investigation.",
+        "end":  "2026-10-27T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T06:30:00.0000000",
+        "title":  "Justice for the People With Judge Milian",
+        "desc":  "An assistant blames her boss after her car is broken into because her parking spot was given away; a business seminar speaker isn\u0027t paid in full.",
+        "end":  "2026-10-27T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T07:00:00.0000000",
+        "title":  "iCRIME With Elizabeth Vargas",
+        "desc":  "Crimes from across the country that have been captured by ordinary people on their smartphones; stories of victims, witnesses, law enforcement and the videographers themselves.",
+        "end":  "2026-10-27T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T07:30:00.0000000",
+        "title":  "Crime Beat",
+        "desc":  "Alicia\u0027s disappearance leads to one of the largest missing person searches in Ontario\u0027s history; reporter Catherine McDonald reconnects with Alicia\u0027s mother to tell the tale.",
+        "end":  "2026-10-27T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T08:00:00.0000000",
+        "title":  "National News Tonight",
+        "desc":  "",
+        "end":  "2026-10-27T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T08:30:00.0000000",
+        "title":  "Live: Action News Jax at 4:30am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-10-27T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T09:00:00.0000000",
+        "title":  "Live: Action News Jax at 5:00am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-10-27T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T09:30:00.0000000",
+        "title":  "Live: Action News Jax at 5:30am",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-10-27T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T10:00:00.0000000",
+        "title":  "Live: Action News Jax at 6:00am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-10-27T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T11:00:00.0000000",
+        "title":  "Live: Action News Jax at 7:00am",
+        "desc":  "Morning news from Jacksonville.",
+        "end":  "2026-10-27T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T12:00:00.0000000",
+        "title":  "Live: Action News Jax at 8:00am",
+        "desc":  "Morning news coverage.",
+        "end":  "2026-10-27T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T13:00:00.0000000",
+        "title":  "Family Feud Favorites",
+        "desc":  "\"Family Feud\" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.",
+        "end":  "2026-10-27T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T13:30:00.0000000",
+        "title":  "Family Feud Favorites",
+        "desc":  "\"Family Feud\" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.",
+        "end":  "2026-10-27T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T14:00:00.0000000",
+        "title":  "oh baby!",
+        "desc":  "Host Janai Norman takes a closer look at some of the strangest creatures on the planet.",
+        "end":  "2026-10-27T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T14:30:00.0000000",
+        "title":  "Crime ExposÃ© With Nancy O\u0027Dell",
+        "desc":  "A Wisconsin pharmacist is found shot in his bed beside a knife-pinned note, igniting a lengthy hunt that veers through feuds, barstool boasts, and a chilling intruder theory before the true killer is finally unmasked.",
+        "end":  "2026-10-27T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T15:00:00.0000000",
+        "title":  "Tamron Hall",
+        "desc":  "From the deeply moving to the purely fun, the show is a daily destination for all things topical and a platform for viewers to connect with the people who are shaping the world through meaningful, engaging and entertaining conversations.",
+        "end":  "2026-10-27T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T16:00:00.0000000",
+        "title":  "Live: Action News Jax at Noon",
+        "desc":  "Midday news update.",
+        "end":  "2026-10-27T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T16:30:00.0000000",
+        "title":  "America\u0027s Funniest Home Videos",
+        "desc":  "A studio audience votes on the most hilarious home video. Alfonso Ribeiro hosts.",
+        "end":  "2026-10-27T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T17:00:00.0000000",
+        "title":  "Hot Bench",
+        "desc":  "A woman says she returned an SUV after discovering problems and never got her refund; her ex argues that she still owes money and says she still has the vehicle.",
+        "end":  "2026-10-27T17:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T17:30:00.0000000",
+        "title":  "Hot Bench",
+        "desc":  "A battle over stray felines turns into a full-blown cat-astrophe! A landlord claims her neighbor scared off tenants, unleashed bad reviews and fed a bunch of stray cats. The neighbor argues she\u0027s the real menace who calls the authorities just to cause trouble. Watch as the judges claw out the truth!",
+        "end":  "2026-10-27T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T18:00:00.0000000",
+        "title":  "The Perfect Line",
+        "desc":  "Players Cindy, Diamond, Kris and Broderick compete to get the most correct answers.",
+        "end":  "2026-10-27T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T18:30:00.0000000",
+        "title":  "The Perfect Line",
+        "desc":  "Players Paige, Mariesa, James and Heather compete to get the most correct answers while learning surprising facts and trivia along the way.",
+        "end":  "2026-10-27T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T19:00:00.0000000",
+        "title":  "Family Feud",
+        "desc":  "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+        "end":  "2026-10-27T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T19:30:00.0000000",
+        "title":  "Family Feud",
+        "desc":  "Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.",
+        "end":  "2026-10-27T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T20:00:00.0000000",
+        "title":  "Live: Action News Jax at 4:00pm",
+        "desc":  "Local and regional news coverage.",
+        "end":  "2026-10-27T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T20:30:00.0000000",
+        "title":  "Judy Justice",
+        "desc":  "A woman sues her ex-partner of 25 years after enduring a forced eviction and alleged abuse in their shared home; a yoga instructor returns from abroad to discover that the woman who rented her car for three years had a DUI.",
+        "end":  "2026-10-27T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T21:00:00.0000000",
+        "title":  "Live: Action News Jax at 5:00pm",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-10-27T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T21:30:00.0000000",
+        "title":  "Live: Action News Jax at 5:30pm",
+        "desc":  "Evening news coverage.",
+        "end":  "2026-10-27T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T22:00:00.0000000",
+        "title":  "Live: Action News Jax at 6:00pm",
+        "desc":  "Local, national and international news coverage.",
+        "end":  "2026-10-27T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T22:30:00.0000000",
+        "title":  "Live: Action News Jax at 6:30pm",
+        "desc":  "Evening news from Jacksonville.",
+        "end":  "2026-10-27T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T23:00:00.0000000",
+        "title":  "MLB on FOX Pregame",
+        "desc":  "Pregame analysis from Major League Baseball.",
+        "end":  "2026-10-28T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T00:00:00.0000000",
+        "title":  "Live: 2026 World Series",
+        "desc":  "From Tropicana Field in St. Petersburg, Fla.",
+        "end":  "2026-10-28T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T03:00:00.0000000",
+        "title":  "Live: Action News Jax at 11:00pm",
+        "desc":  "Evening news from Jacksonville.",
+        "end":  "2026-10-28T03:35:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T03:35:00.0000000",
+        "title":  "Florida Tonight",
+        "desc":  "News alerts, headlines and weather forecast for Central Florida.",
+        "end":  "2026-10-28T04:05:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T04:05:00.0000000",
+        "title":  "TMZ",
+        "desc":  "TMZ TV tracks down today\u0027s hottest stars with their cameras, whether they are hitting the clubs or the dry cleaners.",
+        "end":  "2026-10-28T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T04:30:00.0000000",
+        "title":  "Modern Family",
+        "desc":  "Haley meets Arvin\u0027s parents, but fate leads to an unexpected reunion with all of her ex-boyfriends; the family goes to a nursing home to visit with Jay\u0027s sister; Phil, Cam and Gloria end up getting trapped in the home\u0027s basement.",
+        "end":  "2026-10-29T00:00:00.0000000"
     }
 ]
