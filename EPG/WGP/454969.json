@@ -1,615 +1,567 @@
 [
     {
-        "start":  "2026-10-25T00:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Jacksonville Jaguars v Houston Texans.",
-        "end":  "2026-10-25T01:00:00.0000000"
+        "start":  "2026-10-26T00:10:00.0000000",
+        "title":  "Live NFL",
+        "desc":  "Seattle Seahawks v Kansas City Chiefs (Kick-off 12.20am). Coverage of the week seven match at Lumen Field.",
+        "end":  "2026-10-26T03:45:00.0000000"
     },
     {
-        "start":  "2026-10-25T01:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Philadelphia Eagles v Carolina Panthers.",
-        "end":  "2026-10-25T02:00:00.0000000"
+        "start":  "2026-10-26T03:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Chicago Bears v New England Patriots.",
+        "end":  "2026-10-26T04:00:00.0000000"
     },
     {
-        "start":  "2026-10-25T02:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Las Vegas Raiders v Buffalo Bills.",
-        "end":  "2026-10-25T03:00:00.0000000"
+        "start":  "2026-10-26T04:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New England Patriots v New York Jets.",
+        "end":  "2026-10-26T04:15:00.0000000"
     },
     {
-        "start":  "2026-10-25T03:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Jacksonville Jaguars v Houston Texans.",
-        "end":  "2026-10-25T04:00:00.0000000"
+        "start":  "2026-10-26T04:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Kansas City Chiefs v Los Angeles Chargers.",
+        "end":  "2026-10-26T04:30:00.0000000"
     },
     {
-        "start":  "2026-10-25T04:00:00.0000000",
+        "start":  "2026-10-26T04:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Green Bay Packers v Dallas Cowboys.",
+        "end":  "2026-10-26T04:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T04:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v San Francisco 49ers.",
+        "end":  "2026-10-26T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T05:00:00.0000000",
         "title":  "NFL Highlights",
+        "desc":  "Dallas Cowboys v Tampa Bay Buccaneers.",
+        "end":  "2026-10-26T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T06:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Pittsburgh Steelers v New Orleans Saints.",
+        "end":  "2026-10-26T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T07:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Atlanta Falcons v San Francisco 49ers.",
+        "end":  "2026-10-26T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T08:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Detroit Lions v Green Bay Packers.",
+        "end":  "2026-10-26T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T09:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Pittsburgh Steelers v New Orleans Saints.",
+        "end":  "2026-10-26T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T10:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Atlanta Falcons v San Francisco 49ers.",
+        "end":  "2026-10-26T10:15:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T10:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Detroit Lions v Green Bay Packers.",
+        "end":  "2026-10-26T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T10:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Pittsburgh Steelers v New Orleans Saints.",
+        "end":  "2026-10-26T10:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T10:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New England Patriots v New York Jets.",
+        "end":  "2026-10-26T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T11:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
+        "end":  "2026-10-26T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T12:00:00.0000000",
+        "title":  "Good Morning Football",
+        "desc":  "Up-to-the-minute breaking NFL news.",
+        "end":  "2026-10-26T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T14:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Las Vegas Raiders v Los Angeles Rams.",
+        "end":  "2026-10-26T14:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T14:45:00.0000000",
+        "title":  "Doug Williams: The First Black Champion",
+        "desc":  "Chart Doug Williams\u0027 journey to Super Bowl victory in 1988, when he led Washington Redskins to a 42-10 victory over Denver Broncos and was named MVP.",
+        "end":  "2026-10-26T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T15:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
+        "end":  "2026-10-26T15:15:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T15:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Texan Houstons v New York Giants.",
+        "end":  "2026-10-26T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T15:30:00.0000000",
+        "title":  "49 Hours",
+        "desc":  "Follow a comprehensive, behind-the-scenes look at the 49 hours before the San Francisco 49ers take to the field for NFL action.",
+        "end":  "2026-10-26T15:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T15:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Las Vegas Raiders v Los Angeles Rams.",
+        "end":  "2026-10-26T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T16:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Detroit Lions v Green Bay Packers.",
+        "end":  "2026-10-26T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T17:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
+        "end":  "2026-10-26T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T18:00:00.0000000",
+        "title":  "NBC\u0027s Pro-Football Talk",
+        "desc":  "Mike Florio and Chris Simms present the NFL talk show, as they discuss and debate the biggest stories from around the league.",
+        "end":  "2026-10-26T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T20:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
+        "end":  "2026-10-26T20:15:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T20:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Texan Houstons v New York Giants.",
+        "end":  "2026-10-26T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T20:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Las Vegas Raiders v Los Angeles Rams.",
+        "end":  "2026-10-26T20:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T20:45:00.0000000",
+        "title":  "Doug Williams: The First Black Champion",
+        "desc":  "Chart Doug Williams\u0027 journey to Super Bowl victory in 1988, when he led Washington Redskins to a 42-10 victory over Denver Broncos and was named MVP.",
+        "end":  "2026-10-26T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T21:00:00.0000000",
+        "title":  "NFL Fantasy",
+        "desc":  "Featuring the top NFL fantasy experts and analysts.",
+        "end":  "2026-10-26T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T22:00:00.0000000",
+        "title":  "Chris Simms Unbuttoned",
+        "desc":  "The broadcaster and former quarterback takes an unfiltered look at the NFL.",
+        "end":  "2026-10-26T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T23:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
+        "end":  "2026-10-26T23:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T23:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Texan Houstons v New York Giants.",
+        "end":  "2026-10-27T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T00:00:00.0000000",
+        "title":  "Live NFL",
+        "desc":  "Philadelphia Eagles v Dallas Cowboys (Kick-off 12.15am). Coverage of the week seven match from Lincoln Financial Field. There have been a total of 134 games between the NFC East rivals, and it is the Cowboys who hold the better record, winning 75 times to the Eagles 59, and each team claimed the victory when they served as the home team last season, including a 24-20 triumph here for the Eagles.",
+        "end":  "2026-10-27T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T03:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New England Patriots v New York Jets.",
+        "end":  "2026-10-27T03:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T03:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Kansas City Chiefs v Los Angeles Chargers.",
+        "end":  "2026-10-27T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T04:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
         "desc":  "San Francisco 49ers v Washington Commanders.",
-        "end":  "2026-10-25T05:00:00.0000000"
+        "end":  "2026-10-27T04:15:00.0000000"
     },
     {
-        "start":  "2026-10-25T05:00:00.0000000",
+        "start":  "2026-10-27T04:15:00.0000000",
+        "title":  "NFL Gameday",
+        "desc":  "A review of all of the latest games.",
+        "end":  "2026-10-27T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T05:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Atlanta Falcons v Baltimore Ravens.",
-        "end":  "2026-10-25T06:00:00.0000000"
+        "desc":  "Jacksonville Jaguars v Philadelphia Eagles.",
+        "end":  "2026-10-27T06:00:00.0000000"
     },
     {
-        "start":  "2026-10-25T06:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Jacksonville Jaguars v Houston Texans.",
-        "end":  "2026-10-25T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T07:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Green Bay Packers v Dallas Cowboys.",
-        "end":  "2026-10-25T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T08:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Chicago Bears v New England Patriots.",
-        "end":  "2026-10-25T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T09:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Philadelphia Eagles v Carolina Panthers.",
-        "end":  "2026-10-25T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T10:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Las Vegas Raiders v Buffalo Bills.",
-        "end":  "2026-10-25T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T11:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Jacksonville Jaguars v Houston Texans.",
-        "end":  "2026-10-25T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T12:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Chicago Bears v New England Patriots.",
-        "end":  "2026-10-25T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T13:00:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "Pittsburgh Steelers v New Orleans Saints (Kick-off 1.30pm). Coverage of the week seven match from Stade de France in Paris. This is the sixth of this season\u0027s nine international games, and the first regular season contest to ever take place in France. Overall the Saints have a winning record against the Steelers, but it was the latter who were victorious the last time they faced each other, as the",
-        "end":  "2026-10-25T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T17:00:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "Atlanta Falcons v San Francisco 49ers (Kick-off 5.00pm). Coverage of the week seven match from Mercedes-Benz Stadium.",
-        "end":  "2026-10-25T20:15:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T20:15:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "Detroit Lions v Green Bay Packers (Kick-off 8.25pm). Coverage of the week seven match from Ford Field.",
-        "end":  "2026-10-25T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T23:30:00.0000000",
-        "title":  "NBC\u0027s FNIA",
-        "desc":  "The build-up to Seattle Seahawks v Kansas City Chiefs, plus reaction to Sunday\u0027s week seven matches.",
-        "end":  "2026-10-26T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T00:10:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "Seattle Seahawks v Kansas City Chiefs (Kick-off 12.20am). Coverage of the week seven match at Lumen Field.",
-        "end":  "2026-10-26T03:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T03:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Chicago Bears v New England Patriots.",
-        "end":  "2026-10-26T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T04:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "New England Patriots v New York Jets.",
-        "end":  "2026-10-26T04:15:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T04:15:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Kansas City Chiefs v Los Angeles Chargers.",
-        "end":  "2026-10-26T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T04:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Green Bay Packers v Dallas Cowboys.",
-        "end":  "2026-10-26T04:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T04:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Seattle Seahawks v San Francisco 49ers.",
-        "end":  "2026-10-26T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T05:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Dallas Cowboys v Tampa Bay Buccaneers.",
-        "end":  "2026-10-26T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T06:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Pittsburgh Steelers v New Orleans Saints.",
-        "end":  "2026-10-26T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T07:00:00.0000000",
+        "start":  "2026-10-27T06:00:00.0000000",
         "title":  "NFL Highlights",
         "desc":  "Atlanta Falcons v San Francisco 49ers.",
-        "end":  "2026-10-26T08:00:00.0000000"
+        "end":  "2026-10-27T07:00:00.0000000"
     },
     {
-        "start":  "2026-10-26T08:00:00.0000000",
+        "start":  "2026-10-27T07:00:00.0000000",
         "title":  "NFL Highlights",
         "desc":  "Detroit Lions v Green Bay Packers.",
-        "end":  "2026-10-26T09:00:00.0000000"
+        "end":  "2026-10-27T08:00:00.0000000"
     },
     {
-        "start":  "2026-10-26T09:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Pittsburgh Steelers v New Orleans Saints.",
-        "end":  "2026-10-26T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T10:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Atlanta Falcons v San Francisco 49ers.",
-        "end":  "2026-10-26T10:15:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T10:15:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Detroit Lions v Green Bay Packers.",
-        "end":  "2026-10-26T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T10:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Pittsburgh Steelers v New Orleans Saints.",
-        "end":  "2026-10-26T10:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T10:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "New England Patriots v New York Jets.",
-        "end":  "2026-10-26T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T11:00:00.0000000",
+        "start":  "2026-10-27T08:00:00.0000000",
         "title":  "NFL Highlights",
         "desc":  "Seattle Seahawks v Kansas City Chiefs.",
-        "end":  "2026-10-26T12:00:00.0000000"
+        "end":  "2026-10-27T10:00:00.0000000"
     },
     {
-        "start":  "2026-10-26T12:00:00.0000000",
+        "start":  "2026-10-27T10:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
+        "end":  "2026-10-27T10:15:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T10:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Texan Houstons v New York Giants.",
+        "end":  "2026-10-27T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T10:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Las Vegas Raiders v Los Angeles Rams.",
+        "end":  "2026-10-27T10:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T10:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Pittsburgh Steelers v New Orleans Saints.",
+        "end":  "2026-10-27T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T11:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Philadelphia Eagles v Dallas Cowboys.",
+        "end":  "2026-10-27T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T12:00:00.0000000",
         "title":  "Good Morning Football",
         "desc":  "Up-to-the-minute breaking NFL news.",
-        "end":  "2026-10-26T14:30:00.0000000"
+        "end":  "2026-10-27T14:00:00.0000000"
     },
     {
-        "start":  "2026-10-26T14:30:00.0000000",
+        "start":  "2026-10-27T14:00:00.0000000",
         "title":  "NFL Bitesize Highlights",
-        "desc":  "Las Vegas Raiders v Los Angeles Rams.",
-        "end":  "2026-10-26T14:45:00.0000000"
+        "desc":  "Philadelphia Eagles v Dallas Cowboys.",
+        "end":  "2026-10-27T14:15:00.0000000"
     },
     {
-        "start":  "2026-10-26T14:45:00.0000000",
-        "title":  "Doug Williams: The First Black Champion",
-        "desc":  "Chart Doug Williams\u0027 journey to Super Bowl victory in 1988, when he led Washington Redskins to a 42-10 victory over Denver Broncos and was named MVP.",
-        "end":  "2026-10-26T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T15:00:00.0000000",
+        "start":  "2026-10-27T14:15:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Seattle Seahawks v Kansas City Chiefs.",
-        "end":  "2026-10-26T15:15:00.0000000"
+        "end":  "2026-10-27T14:30:00.0000000"
     },
     {
-        "start":  "2026-10-26T15:15:00.0000000",
+        "start":  "2026-10-27T14:30:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Texan Houstons v New York Giants.",
-        "end":  "2026-10-26T15:30:00.0000000"
+        "end":  "2026-10-27T14:45:00.0000000"
     },
     {
-        "start":  "2026-10-26T15:30:00.0000000",
-        "title":  "49 Hours",
-        "desc":  "Follow a comprehensive, behind-the-scenes look at the 49 hours before the San Francisco 49ers take to the field for NFL action.",
-        "end":  "2026-10-26T15:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T15:45:00.0000000",
+        "start":  "2026-10-27T14:45:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Las Vegas Raiders v Los Angeles Rams.",
-        "end":  "2026-10-26T16:00:00.0000000"
+        "end":  "2026-10-27T15:00:00.0000000"
     },
     {
-        "start":  "2026-10-26T16:00:00.0000000",
+        "start":  "2026-10-27T15:00:00.0000000",
         "title":  "NFL Highlights",
         "desc":  "Detroit Lions v Green Bay Packers.",
-        "end":  "2026-10-26T17:00:00.0000000"
+        "end":  "2026-10-27T16:00:00.0000000"
     },
     {
-        "start":  "2026-10-26T17:00:00.0000000",
+        "start":  "2026-10-27T16:00:00.0000000",
         "title":  "NFL Highlights",
         "desc":  "Seattle Seahawks v Kansas City Chiefs.",
-        "end":  "2026-10-26T18:00:00.0000000"
+        "end":  "2026-10-27T17:00:00.0000000"
     },
     {
-        "start":  "2026-10-26T18:00:00.0000000",
+        "start":  "2026-10-27T17:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Philadelphia Eagles v Dallas Cowboys.",
+        "end":  "2026-10-27T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T18:00:00.0000000",
         "title":  "NBC\u0027s Pro-Football Talk",
         "desc":  "Mike Florio and Chris Simms present the NFL talk show, as they discuss and debate the biggest stories from around the league.",
-        "end":  "2026-10-26T20:00:00.0000000"
+        "end":  "2026-10-27T20:00:00.0000000"
     },
     {
-        "start":  "2026-10-26T20:00:00.0000000",
+        "start":  "2026-10-27T20:00:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Seattle Seahawks v Kansas City Chiefs.",
-        "end":  "2026-10-26T20:15:00.0000000"
+        "end":  "2026-10-27T20:15:00.0000000"
     },
     {
-        "start":  "2026-10-26T20:15:00.0000000",
+        "start":  "2026-10-27T20:15:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Texan Houstons v New York Giants.",
-        "end":  "2026-10-26T20:30:00.0000000"
+        "end":  "2026-10-27T20:30:00.0000000"
     },
     {
-        "start":  "2026-10-26T20:30:00.0000000",
+        "start":  "2026-10-27T20:30:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Las Vegas Raiders v Los Angeles Rams.",
-        "end":  "2026-10-26T20:45:00.0000000"
+        "end":  "2026-10-27T20:45:00.0000000"
     },
     {
-        "start":  "2026-10-26T20:45:00.0000000",
+        "start":  "2026-10-27T20:45:00.0000000",
         "title":  "Doug Williams: The First Black Champion",
         "desc":  "Chart Doug Williams\u0027 journey to Super Bowl victory in 1988, when he led Washington Redskins to a 42-10 victory over Denver Broncos and was named MVP.",
-        "end":  "2026-10-26T21:00:00.0000000"
+        "end":  "2026-10-27T21:00:00.0000000"
     },
     {
-        "start":  "2026-10-26T21:00:00.0000000",
+        "start":  "2026-10-27T21:00:00.0000000",
         "title":  "NFL Fantasy",
         "desc":  "Featuring the top NFL fantasy experts and analysts.",
-        "end":  "2026-10-26T22:00:00.0000000"
+        "end":  "2026-10-27T22:00:00.0000000"
     },
     {
-        "start":  "2026-10-26T22:00:00.0000000",
+        "start":  "2026-10-27T22:00:00.0000000",
         "title":  "Chris Simms Unbuttoned",
         "desc":  "The broadcaster and former quarterback takes an unfiltered look at the NFL.",
-        "end":  "2026-10-26T23:30:00.0000000"
+        "end":  "2026-10-27T23:00:00.0000000"
     },
     {
-        "start":  "2026-10-26T23:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
-        "end":  "2026-10-26T23:45:00.0000000"
+        "start":  "2026-10-27T23:00:00.0000000",
+        "title":  "The Insiders",
+        "desc":  "The latest news covering all 32 NFL teams.",
+        "end":  "2026-10-28T00:00:00.0000000"
     },
     {
-        "start":  "2026-10-26T23:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Texan Houstons v New York Giants.",
-        "end":  "2026-10-27T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T00:10:00.0000000",
+        "start":  "2026-10-27T00:00:00.0000000",
         "title":  "Live NFL",
-        "desc":  "Seattle Seahawks v Kansas City Chiefs (Kick-off 12.20am). Coverage of the week seven match at Lumen Field.",
-        "end":  "2026-10-26T03:45:00.0000000"
+        "desc":  "Philadelphia Eagles v Dallas Cowboys (Kick-off 12.15am). Coverage of the week seven match from Lincoln Financial Field. There have been a total of 134 games between the NFC East rivals, and it is the Cowboys who hold the better record, winning 75 times to the Eagles 59, and each team claimed the victory when they served as the home team last season, including a 24-20 triumph here for the Eagles.",
+        "end":  "2026-10-27T03:30:00.0000000"
     },
     {
-        "start":  "2026-10-26T03:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Chicago Bears v New England Patriots.",
-        "end":  "2026-10-26T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T04:00:00.0000000",
+        "start":  "2026-10-27T03:30:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "New England Patriots v New York Jets.",
-        "end":  "2026-10-26T04:15:00.0000000"
+        "end":  "2026-10-27T03:45:00.0000000"
     },
     {
-        "start":  "2026-10-26T04:15:00.0000000",
+        "start":  "2026-10-27T03:45:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Kansas City Chiefs v Los Angeles Chargers.",
-        "end":  "2026-10-26T04:30:00.0000000"
+        "end":  "2026-10-27T04:00:00.0000000"
     },
     {
-        "start":  "2026-10-26T04:30:00.0000000",
+        "start":  "2026-10-27T04:00:00.0000000",
         "title":  "NFL Bitesize Highlights",
-        "desc":  "Green Bay Packers v Dallas Cowboys.",
-        "end":  "2026-10-26T04:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T04:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Seattle Seahawks v San Francisco 49ers.",
-        "end":  "2026-10-26T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T05:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Dallas Cowboys v Tampa Bay Buccaneers.",
-        "end":  "2026-10-26T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T06:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Pittsburgh Steelers v New Orleans Saints.",
-        "end":  "2026-10-26T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T07:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Atlanta Falcons v San Francisco 49ers.",
-        "end":  "2026-10-26T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T08:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Detroit Lions v Green Bay Packers.",
-        "end":  "2026-10-26T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T09:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Pittsburgh Steelers v New Orleans Saints.",
-        "end":  "2026-10-26T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T10:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Atlanta Falcons v San Francisco 49ers.",
-        "end":  "2026-10-26T10:15:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T10:15:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Detroit Lions v Green Bay Packers.",
-        "end":  "2026-10-26T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T10:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Pittsburgh Steelers v New Orleans Saints.",
-        "end":  "2026-10-26T10:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T10:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "New England Patriots v New York Jets.",
-        "end":  "2026-10-26T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T11:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
-        "end":  "2026-10-26T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "desc":  "Up-to-the-minute breaking NFL news.",
-        "end":  "2026-10-26T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T14:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Las Vegas Raiders v Los Angeles Rams.",
-        "end":  "2026-10-26T14:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T14:45:00.0000000",
-        "title":  "Doug Williams: The First Black Champion",
-        "desc":  "Chart Doug Williams\u0027 journey to Super Bowl victory in 1988, when he led Washington Redskins to a 42-10 victory over Denver Broncos and was named MVP.",
-        "end":  "2026-10-26T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T15:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
-        "end":  "2026-10-26T15:15:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T15:15:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Texan Houstons v New York Giants.",
-        "end":  "2026-10-26T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T15:30:00.0000000",
-        "title":  "49 Hours",
-        "desc":  "Follow a comprehensive, behind-the-scenes look at the 49 hours before the San Francisco 49ers take to the field for NFL action.",
-        "end":  "2026-10-26T15:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T15:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Las Vegas Raiders v Los Angeles Rams.",
-        "end":  "2026-10-26T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T16:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Detroit Lions v Green Bay Packers.",
-        "end":  "2026-10-26T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T17:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
-        "end":  "2026-10-26T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T18:00:00.0000000",
-        "title":  "NBC\u0027s Pro-Football Talk",
-        "desc":  "Mike Florio and Chris Simms present the NFL talk show, as they discuss and debate the biggest stories from around the league.",
-        "end":  "2026-10-26T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T20:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
-        "end":  "2026-10-26T20:15:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T20:15:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Texan Houstons v New York Giants.",
-        "end":  "2026-10-26T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T20:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Las Vegas Raiders v Los Angeles Rams.",
-        "end":  "2026-10-26T20:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T20:45:00.0000000",
-        "title":  "Doug Williams: The First Black Champion",
-        "desc":  "Chart Doug Williams\u0027 journey to Super Bowl victory in 1988, when he led Washington Redskins to a 42-10 victory over Denver Broncos and was named MVP.",
-        "end":  "2026-10-26T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T21:00:00.0000000",
-        "title":  "NFL Fantasy",
-        "desc":  "Featuring the top NFL fantasy experts and analysts.",
-        "end":  "2026-10-26T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T22:00:00.0000000",
-        "title":  "Chris Simms Unbuttoned",
-        "desc":  "The broadcaster and former quarterback takes an unfiltered look at the NFL.",
-        "end":  "2026-10-26T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T23:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
-        "end":  "2026-10-26T23:45:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T23:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Texan Houstons v New York Giants.",
-        "end":  "2026-10-27T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T00:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Jacksonville Jaguars v Houston Texans.",
-        "end":  "2026-10-25T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T01:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Philadelphia Eagles v Carolina Panthers.",
-        "end":  "2026-10-25T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T02:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Las Vegas Raiders v Buffalo Bills.",
-        "end":  "2026-10-25T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T03:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Jacksonville Jaguars v Houston Texans.",
-        "end":  "2026-10-25T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T04:00:00.0000000",
-        "title":  "NFL Highlights",
         "desc":  "San Francisco 49ers v Washington Commanders.",
-        "end":  "2026-10-25T05:00:00.0000000"
+        "end":  "2026-10-27T04:15:00.0000000"
     },
     {
-        "start":  "2026-10-25T05:00:00.0000000",
+        "start":  "2026-10-27T04:15:00.0000000",
+        "title":  "NFL Gameday",
+        "desc":  "A review of all of the latest games.",
+        "end":  "2026-10-27T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T05:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Atlanta Falcons v Baltimore Ravens.",
-        "end":  "2026-10-25T06:00:00.0000000"
+        "desc":  "Jacksonville Jaguars v Philadelphia Eagles.",
+        "end":  "2026-10-27T06:00:00.0000000"
     },
     {
-        "start":  "2026-10-25T06:00:00.0000000",
+        "start":  "2026-10-27T06:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Jacksonville Jaguars v Houston Texans.",
-        "end":  "2026-10-25T07:00:00.0000000"
+        "desc":  "Atlanta Falcons v San Francisco 49ers.",
+        "end":  "2026-10-27T07:00:00.0000000"
     },
     {
-        "start":  "2026-10-25T07:00:00.0000000",
+        "start":  "2026-10-27T07:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Green Bay Packers v Dallas Cowboys.",
-        "end":  "2026-10-25T08:00:00.0000000"
+        "desc":  "Detroit Lions v Green Bay Packers.",
+        "end":  "2026-10-27T08:00:00.0000000"
     },
     {
-        "start":  "2026-10-25T08:00:00.0000000",
+        "start":  "2026-10-27T08:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Chicago Bears v New England Patriots.",
-        "end":  "2026-10-25T09:00:00.0000000"
+        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
+        "end":  "2026-10-27T10:00:00.0000000"
     },
     {
-        "start":  "2026-10-25T09:00:00.0000000",
+        "start":  "2026-10-27T10:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
+        "end":  "2026-10-27T10:15:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T10:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Texan Houstons v New York Giants.",
+        "end":  "2026-10-27T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T10:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Las Vegas Raiders v Los Angeles Rams.",
+        "end":  "2026-10-27T10:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T10:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Pittsburgh Steelers v New Orleans Saints.",
+        "end":  "2026-10-27T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T11:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Philadelphia Eagles v Carolina Panthers.",
-        "end":  "2026-10-25T10:00:00.0000000"
+        "desc":  "Philadelphia Eagles v Dallas Cowboys.",
+        "end":  "2026-10-27T12:00:00.0000000"
     },
     {
-        "start":  "2026-10-25T10:00:00.0000000",
+        "start":  "2026-10-27T12:00:00.0000000",
+        "title":  "Good Morning Football",
+        "desc":  "Up-to-the-minute breaking NFL news.",
+        "end":  "2026-10-27T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T14:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Philadelphia Eagles v Dallas Cowboys.",
+        "end":  "2026-10-27T14:15:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T14:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
+        "end":  "2026-10-27T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T14:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Texan Houstons v New York Giants.",
+        "end":  "2026-10-27T14:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T14:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Las Vegas Raiders v Los Angeles Rams.",
+        "end":  "2026-10-27T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T15:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Las Vegas Raiders v Buffalo Bills.",
-        "end":  "2026-10-25T11:00:00.0000000"
+        "desc":  "Detroit Lions v Green Bay Packers.",
+        "end":  "2026-10-27T16:00:00.0000000"
     },
     {
-        "start":  "2026-10-25T11:00:00.0000000",
+        "start":  "2026-10-27T16:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Jacksonville Jaguars v Houston Texans.",
-        "end":  "2026-10-25T12:00:00.0000000"
+        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
+        "end":  "2026-10-27T17:00:00.0000000"
     },
     {
-        "start":  "2026-10-25T12:00:00.0000000",
+        "start":  "2026-10-27T17:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Chicago Bears v New England Patriots.",
-        "end":  "2026-10-25T13:00:00.0000000"
+        "desc":  "Philadelphia Eagles v Dallas Cowboys.",
+        "end":  "2026-10-27T18:00:00.0000000"
     },
     {
-        "start":  "2026-10-25T13:00:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "Pittsburgh Steelers v New Orleans Saints (Kick-off 1.30pm). Coverage of the week seven match from Stade de France in Paris. This is the sixth of this season\u0027s nine international games, and the first regular season contest to ever take place in France. Overall the Saints have a winning record against the Steelers, but it was the latter who were victorious the last time they faced each other, as the",
-        "end":  "2026-10-25T17:00:00.0000000"
+        "start":  "2026-10-27T18:00:00.0000000",
+        "title":  "NBC\u0027s Pro-Football Talk",
+        "desc":  "Mike Florio and Chris Simms present the NFL talk show, as they discuss and debate the biggest stories from around the league.",
+        "end":  "2026-10-27T20:00:00.0000000"
     },
     {
-        "start":  "2026-10-25T17:00:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "Atlanta Falcons v San Francisco 49ers (Kick-off 5.00pm). Coverage of the week seven match from Mercedes-Benz Stadium.",
-        "end":  "2026-10-25T20:15:00.0000000"
+        "start":  "2026-10-27T20:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
+        "end":  "2026-10-27T20:15:00.0000000"
     },
     {
-        "start":  "2026-10-25T20:15:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "Detroit Lions v Green Bay Packers (Kick-off 8.25pm). Coverage of the week seven match from Ford Field.",
-        "end":  "2026-10-25T23:30:00.0000000"
+        "start":  "2026-10-27T20:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Texan Houstons v New York Giants.",
+        "end":  "2026-10-27T20:30:00.0000000"
     },
     {
-        "start":  "2026-10-25T23:30:00.0000000",
-        "title":  "NBC\u0027s FNIA",
-        "desc":  "The build-up to Seattle Seahawks v Kansas City Chiefs, plus reaction to Sunday\u0027s week seven matches.",
-        "end":  "2026-10-26T00:00:00.0000000"
+        "start":  "2026-10-27T20:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Las Vegas Raiders v Los Angeles Rams.",
+        "end":  "2026-10-27T20:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T20:45:00.0000000",
+        "title":  "Doug Williams: The First Black Champion",
+        "desc":  "Chart Doug Williams\u0027 journey to Super Bowl victory in 1988, when he led Washington Redskins to a 42-10 victory over Denver Broncos and was named MVP.",
+        "end":  "2026-10-27T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T21:00:00.0000000",
+        "title":  "NFL Fantasy",
+        "desc":  "Featuring the top NFL fantasy experts and analysts.",
+        "end":  "2026-10-27T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T22:00:00.0000000",
+        "title":  "Chris Simms Unbuttoned",
+        "desc":  "The broadcaster and former quarterback takes an unfiltered look at the NFL.",
+        "end":  "2026-10-27T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T23:00:00.0000000",
+        "title":  "The Insiders",
+        "desc":  "The latest news covering all 32 NFL teams.",
+        "end":  "2026-10-28T00:00:00.0000000"
     },
     {
         "start":  "2026-10-26T00:10:00.0000000",
@@ -814,5 +766,185 @@
         "title":  "NFL Bitesize Highlights",
         "desc":  "Texan Houstons v New York Giants.",
         "end":  "2026-10-27T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T00:00:00.0000000",
+        "title":  "Live NFL",
+        "desc":  "Philadelphia Eagles v Dallas Cowboys (Kick-off 12.15am). Coverage of the week seven match from Lincoln Financial Field. There have been a total of 134 games between the NFC East rivals, and it is the Cowboys who hold the better record, winning 75 times to the Eagles 59, and each team claimed the victory when they served as the home team last season, including a 24-20 triumph here for the Eagles.",
+        "end":  "2026-10-27T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T03:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New England Patriots v New York Jets.",
+        "end":  "2026-10-27T03:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T03:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Kansas City Chiefs v Los Angeles Chargers.",
+        "end":  "2026-10-27T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T04:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "San Francisco 49ers v Washington Commanders.",
+        "end":  "2026-10-27T04:15:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T04:15:00.0000000",
+        "title":  "NFL Gameday",
+        "desc":  "A review of all of the latest games.",
+        "end":  "2026-10-27T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T05:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Jacksonville Jaguars v Philadelphia Eagles.",
+        "end":  "2026-10-27T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T06:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Atlanta Falcons v San Francisco 49ers.",
+        "end":  "2026-10-27T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T07:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Detroit Lions v Green Bay Packers.",
+        "end":  "2026-10-27T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T08:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
+        "end":  "2026-10-27T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T10:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
+        "end":  "2026-10-27T10:15:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T10:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Texan Houstons v New York Giants.",
+        "end":  "2026-10-27T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T10:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Las Vegas Raiders v Los Angeles Rams.",
+        "end":  "2026-10-27T10:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T10:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Pittsburgh Steelers v New Orleans Saints.",
+        "end":  "2026-10-27T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T11:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Philadelphia Eagles v Dallas Cowboys.",
+        "end":  "2026-10-27T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T12:00:00.0000000",
+        "title":  "Good Morning Football",
+        "desc":  "Up-to-the-minute breaking NFL news.",
+        "end":  "2026-10-27T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T14:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Philadelphia Eagles v Dallas Cowboys.",
+        "end":  "2026-10-27T14:15:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T14:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
+        "end":  "2026-10-27T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T14:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Texan Houstons v New York Giants.",
+        "end":  "2026-10-27T14:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T14:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Las Vegas Raiders v Los Angeles Rams.",
+        "end":  "2026-10-27T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T15:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Detroit Lions v Green Bay Packers.",
+        "end":  "2026-10-27T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T16:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
+        "end":  "2026-10-27T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T17:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Philadelphia Eagles v Dallas Cowboys.",
+        "end":  "2026-10-27T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T18:00:00.0000000",
+        "title":  "NBC\u0027s Pro-Football Talk",
+        "desc":  "Mike Florio and Chris Simms present the NFL talk show, as they discuss and debate the biggest stories from around the league.",
+        "end":  "2026-10-27T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T20:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
+        "end":  "2026-10-27T20:15:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T20:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Texan Houstons v New York Giants.",
+        "end":  "2026-10-27T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T20:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Las Vegas Raiders v Los Angeles Rams.",
+        "end":  "2026-10-27T20:45:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T20:45:00.0000000",
+        "title":  "Doug Williams: The First Black Champion",
+        "desc":  "Chart Doug Williams\u0027 journey to Super Bowl victory in 1988, when he led Washington Redskins to a 42-10 victory over Denver Broncos and was named MVP.",
+        "end":  "2026-10-27T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T21:00:00.0000000",
+        "title":  "NFL Fantasy",
+        "desc":  "Featuring the top NFL fantasy experts and analysts.",
+        "end":  "2026-10-27T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T22:00:00.0000000",
+        "title":  "Chris Simms Unbuttoned",
+        "desc":  "The broadcaster and former quarterback takes an unfiltered look at the NFL.",
+        "end":  "2026-10-27T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T23:00:00.0000000",
+        "title":  "The Insiders",
+        "desc":  "The latest news covering all 32 NFL teams.",
+        "end":  "2026-10-28T00:00:00.0000000"
     }
 ]

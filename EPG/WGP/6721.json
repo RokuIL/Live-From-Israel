@@ -1,101 +1,5 @@
 [
     {
-        "start":  "2026-10-25T00:00:00.0000000",
-        "title":  "CFL on TSN: Elks vs. Roughriders",
-        "desc":  "",
-        "end":  "2026-10-25T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T03:00:00.0000000",
-        "title":  "CFL on TSN: Redblacks vs. Tiger-Cats",
-        "desc":  "",
-        "end":  "2026-10-25T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T06:00:00.0000000",
-        "title":  "CFL on TSN: Elks vs. Roughriders",
-        "desc":  "",
-        "end":  "2026-10-25T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T09:00:00.0000000",
-        "title":  "MLS on TSN: CF Montreal vs. Nashville",
-        "desc":  "",
-        "end":  "2026-10-25T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T11:00:00.0000000",
-        "title":  "MLS on TSN: Colorado vs. Vancouver",
-        "desc":  "",
-        "end":  "2026-10-25T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T13:00:00.0000000",
-        "title":  "NSL on TSN: Vancouver vs. Calgary",
-        "desc":  "",
-        "end":  "2026-10-25T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T15:00:00.0000000",
-        "title":  "SC: Top 50 Curling Shots",
-        "desc":  "",
-        "end":  "2026-10-25T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T15:30:00.0000000",
-        "title":  "SC: Top Mascot Moments",
-        "desc":  "",
-        "end":  "2026-10-25T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T16:00:00.0000000",
-        "title":  "SC: Top 50 Saves of All-Time",
-        "desc":  "",
-        "end":  "2026-10-25T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T16:30:00.0000000",
-        "title":  "SC: Top Comebacks of All-Time",
-        "desc":  "",
-        "end":  "2026-10-25T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T17:00:00.0000000",
-        "title":  "SC: Top 50 Tennis Shots of All-Time",
-        "desc":  "",
-        "end":  "2026-10-25T17:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T17:30:00.0000000",
-        "title":  "SC: Top Playoff Soundbites",
-        "desc":  "",
-        "end":  "2026-10-25T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T18:00:00.0000000",
-        "title":  "2026 Formula 1: United States Grand Prix",
-        "desc":  "",
-        "end":  "2026-10-25T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T20:00:00.0000000",
-        "title":  "The Rebuild: Inside the Montreal Canadiens â€“ The Pressure Is On",
-        "desc":  "",
-        "end":  "2026-10-25T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T21:00:00.0000000",
-        "title":  "SC: NBA Plays of the Year",
-        "desc":  "",
-        "end":  "2026-10-25T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T21:30:00.0000000",
-        "title":  "Tangerine Raptors Basketball: Raptors vs. Timberwolves",
-        "desc":  "",
-        "end":  "2026-10-26T00:00:00.0000000"
-    },
-    {
         "start":  "2026-10-26T00:00:00.0000000",
         "title":  "SC: NBA Plays of the Year",
         "desc":  "",
@@ -146,6 +50,30 @@
     {
         "start":  "2026-10-26T10:00:00.0000000",
         "title":  "2026 Formula 1: United States Grand Prix",
+        "desc":  "",
+        "end":  "2026-10-26T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T12:00:00.0000000",
+        "title":  "2026 Canadian Dirt Tour: Northern Sprint Car Nationals",
+        "desc":  "",
+        "end":  "2026-10-26T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T12:30:00.0000000",
+        "title":  "SC: Outrageous NASCAR Moments",
+        "desc":  "",
+        "end":  "2026-10-26T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T13:00:00.0000000",
+        "title":  "SC: NBA Plays of the Year",
+        "desc":  "",
+        "end":  "2026-10-26T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T13:30:00.0000000",
+        "title":  "Tangerine Raptors Basketball: Raptors vs. Timberwolves",
         "desc":  "",
         "end":  "2026-10-27T00:00:00.0000000"
     },
@@ -201,103 +129,31 @@
         "start":  "2026-10-26T10:00:00.0000000",
         "title":  "2026 Formula 1: United States Grand Prix",
         "desc":  "",
-        "end":  "2026-10-27T00:00:00.0000000"
+        "end":  "2026-10-26T12:00:00.0000000"
     },
     {
-        "start":  "2026-10-25T00:00:00.0000000",
-        "title":  "CFL on TSN: Elks vs. Roughriders",
+        "start":  "2026-10-26T12:00:00.0000000",
+        "title":  "2026 Canadian Dirt Tour: Northern Sprint Car Nationals",
         "desc":  "",
-        "end":  "2026-10-25T03:00:00.0000000"
+        "end":  "2026-10-26T12:30:00.0000000"
     },
     {
-        "start":  "2026-10-25T03:00:00.0000000",
-        "title":  "CFL on TSN: Redblacks vs. Tiger-Cats",
+        "start":  "2026-10-26T12:30:00.0000000",
+        "title":  "SC: Outrageous NASCAR Moments",
         "desc":  "",
-        "end":  "2026-10-25T06:00:00.0000000"
+        "end":  "2026-10-26T13:00:00.0000000"
     },
     {
-        "start":  "2026-10-25T06:00:00.0000000",
-        "title":  "CFL on TSN: Elks vs. Roughriders",
-        "desc":  "",
-        "end":  "2026-10-25T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T09:00:00.0000000",
-        "title":  "MLS on TSN: CF Montreal vs. Nashville",
-        "desc":  "",
-        "end":  "2026-10-25T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T11:00:00.0000000",
-        "title":  "MLS on TSN: Colorado vs. Vancouver",
-        "desc":  "",
-        "end":  "2026-10-25T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T13:00:00.0000000",
-        "title":  "NSL on TSN: Vancouver vs. Calgary",
-        "desc":  "",
-        "end":  "2026-10-25T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T15:00:00.0000000",
-        "title":  "SC: Top 50 Curling Shots",
-        "desc":  "",
-        "end":  "2026-10-25T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T15:30:00.0000000",
-        "title":  "SC: Top Mascot Moments",
-        "desc":  "",
-        "end":  "2026-10-25T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T16:00:00.0000000",
-        "title":  "SC: Top 50 Saves of All-Time",
-        "desc":  "",
-        "end":  "2026-10-25T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T16:30:00.0000000",
-        "title":  "SC: Top Comebacks of All-Time",
-        "desc":  "",
-        "end":  "2026-10-25T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T17:00:00.0000000",
-        "title":  "SC: Top 50 Tennis Shots of All-Time",
-        "desc":  "",
-        "end":  "2026-10-25T17:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T17:30:00.0000000",
-        "title":  "SC: Top Playoff Soundbites",
-        "desc":  "",
-        "end":  "2026-10-25T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T18:00:00.0000000",
-        "title":  "2026 Formula 1: United States Grand Prix",
-        "desc":  "",
-        "end":  "2026-10-25T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T20:00:00.0000000",
-        "title":  "The Rebuild: Inside the Montreal Canadiens â€“ The Pressure Is On",
-        "desc":  "",
-        "end":  "2026-10-25T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-25T21:00:00.0000000",
+        "start":  "2026-10-26T13:00:00.0000000",
         "title":  "SC: NBA Plays of the Year",
         "desc":  "",
-        "end":  "2026-10-25T21:30:00.0000000"
+        "end":  "2026-10-26T13:30:00.0000000"
     },
     {
-        "start":  "2026-10-25T21:30:00.0000000",
+        "start":  "2026-10-26T13:30:00.0000000",
         "title":  "Tangerine Raptors Basketball: Raptors vs. Timberwolves",
         "desc":  "",
-        "end":  "2026-10-26T00:00:00.0000000"
+        "end":  "2026-10-27T00:00:00.0000000"
     },
     {
         "start":  "2026-10-26T00:00:00.0000000",
@@ -350,6 +206,30 @@
     {
         "start":  "2026-10-26T10:00:00.0000000",
         "title":  "2026 Formula 1: United States Grand Prix",
+        "desc":  "",
+        "end":  "2026-10-26T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T12:00:00.0000000",
+        "title":  "2026 Canadian Dirt Tour: Northern Sprint Car Nationals",
+        "desc":  "",
+        "end":  "2026-10-26T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T12:30:00.0000000",
+        "title":  "SC: Outrageous NASCAR Moments",
+        "desc":  "",
+        "end":  "2026-10-26T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T13:00:00.0000000",
+        "title":  "SC: NBA Plays of the Year",
+        "desc":  "",
+        "end":  "2026-10-26T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-26T13:30:00.0000000",
+        "title":  "Tangerine Raptors Basketball: Raptors vs. Timberwolves",
         "desc":  "",
         "end":  "2026-10-27T00:00:00.0000000"
     }
