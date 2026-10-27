@@ -1,266 +1,176 @@
 [
     {
-        "start":  "2026-10-26T00:00:00.0000000",
-        "title":  "Canadian Premier League Soccer",
-        "desc":  "From York Lions Stadium in Toronto.",
-        "end":  "2026-10-26T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T02:00:00.0000000",
-        "title":  "Canadian Premier League Soccer",
-        "desc":  "From Starlight Stadium in Langford, British Columbia.",
-        "end":  "2026-10-26T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T04:00:00.0000000",
+        "start":  "2026-10-27T00:00:00.0000000",
         "title":  "Canadian Premier League Soccer",
         "desc":  "From Wanderers Grounds in Halifax, Nova Scotia.",
-        "end":  "2026-10-26T06:00:00.0000000"
+        "end":  "2026-10-27T02:00:00.0000000"
     },
     {
-        "start":  "2026-10-26T06:00:00.0000000",
+        "start":  "2026-10-27T02:00:00.0000000",
+        "title":  "CPL Week in Review",
+        "desc":  "Highlights of the week\u0027s CPL action.",
+        "end":  "2026-10-27T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T02:30:00.0000000",
+        "title":  "Italian Serie B Soccer",
+        "desc":  "From Renzo Barbera Stadium in Palermo, Palermo, Italy.",
+        "end":  "2026-10-27T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T04:30:00.0000000",
         "title":  "2026 FIFA U-17 Women\u0027s World Cup",
         "desc":  "Coverage of the tenth edition of the annual international women\u0027s soccer tournament contested by under-17 national teams. From Morocco.",
-        "end":  "2026-10-26T08:00:00.0000000"
+        "end":  "2026-10-27T06:30:00.0000000"
     },
     {
-        "start":  "2026-10-26T08:00:00.0000000",
-        "title":  "2026 FIFA U-17 Women\u0027s World Cup",
-        "desc":  "Coverage of the tenth edition of the annual international women\u0027s soccer tournament contested by under-17 national teams. From Morocco.",
-        "end":  "2026-10-26T10:00:00.0000000"
+        "start":  "2026-10-27T06:30:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "From GMHBA Stadium in South Geelong, Victoria, Australia.",
+        "end":  "2026-10-27T08:30:00.0000000"
     },
     {
-        "start":  "2026-10-26T10:00:00.0000000",
-        "title":  "2026 FIFA U-17 Women\u0027s World Cup",
-        "desc":  "Coverage of the tenth edition of the annual international women\u0027s soccer tournament contested by under-17 national teams. From Morocco.",
-        "end":  "2026-10-26T12:00:00.0000000"
+        "start":  "2026-10-27T08:30:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "From People First Stadium in Gold Coast, Queensland, Australia.",
+        "end":  "2026-10-27T10:30:00.0000000"
     },
     {
-        "start":  "2026-10-26T12:00:00.0000000",
+        "start":  "2026-10-27T10:30:00.0000000",
+        "title":  "An American Rugby Odyssey",
+        "desc":  "From a parking lot in South Los Angeles, Coach Stuart Krohn takes a girls\u0027 team and a boys\u0027 team on an international tour each year through the Inner City Education Foundation\u0027s rugby program.",
+        "end":  "2026-10-27T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T11:30:00.0000000",
+        "title":  "An American Rugby Odyssey",
+        "desc":  "From a parking lot in South Los Angeles, Coach Stuart Krohn takes a girls\u0027 team and a boys\u0027 team on an international tour each year through the Inner City Education Foundation\u0027s rugby program.",
+        "end":  "2026-10-27T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T12:30:00.0000000",
+        "title":  "Women\u0027s Italian Serie A Soccer",
+        "desc":  "From Centro sportivo di Formello in Formello, Italy.",
+        "end":  "2026-10-27T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T14:30:00.0000000",
+        "title":  "Women\u0027s Italian Serie A Soccer",
+        "desc":  "From Centro Sportivo Vismara in Milan, Italy.",
+        "end":  "2026-10-27T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T16:30:00.0000000",
+        "title":  "Women\u0027s Italian Serie A Soccer",
+        "desc":  "From Stadio La Marmora-Pozzo in Biella, Italy.",
+        "end":  "2026-10-27T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T18:30:00.0000000",
+        "title":  "Football\u0027s Greatest Stage",
+        "desc":  "Until an England captain holds the World Cup up, Bobby Moore\u0027s story will just keep getting bigger.",
+        "end":  "2026-10-27T18:55:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T18:55:00.0000000",
+        "title":  "Live: Italian Serie B Soccer",
+        "desc":  "From Cino e Lillo Del Duca Stadium in Ascoli Piceno, Marche, Italy.",
+        "end":  "2026-10-27T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T21:00:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "From North Hobart Oval in Hobart, Tasmania, Australia.",
+        "end":  "2026-10-27T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-27T23:00:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "From IKON Park in Melbourne, Victoria, Australia.",
+        "end":  "2026-10-28T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T01:00:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "From Mission Whitten Oval in Footscray, Victoria, Australia.",
+        "end":  "2026-10-28T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T03:00:00.0000000",
+        "title":  "Italian Serie B Soccer",
+        "desc":  "From Cino e Lillo Del Duca Stadium in Ascoli Piceno, Marche, Italy.",
+        "end":  "2026-10-28T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T05:00:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "From RSEA Park in Moorabbin, Victoria, Australia.",
+        "end":  "2026-10-28T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T07:00:00.0000000",
         "title":  "AFL Women\u0027s Premiership Football",
         "desc":  "From Henson Park in Marrickville, New South Wales, Australia.",
-        "end":  "2026-10-26T14:00:00.0000000"
+        "end":  "2026-10-28T09:00:00.0000000"
     },
     {
-        "start":  "2026-10-26T14:00:00.0000000",
-        "title":  "Italian Serie B Soccer",
-        "desc":  "From Stadio Citta\u0027 di Arezzo in Arezzo, Italy.",
-        "end":  "2026-10-26T16:00:00.0000000"
+        "start":  "2026-10-28T09:00:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "From Kennedy Community Centre in Melbourne, Australia.",
+        "end":  "2026-10-28T11:00:00.0000000"
     },
     {
-        "start":  "2026-10-26T16:00:00.0000000",
-        "title":  "Italian Serie B Soccer",
-        "desc":  "From Carlo Castellani Stadium in Empoli, Tuscany, Italy.",
-        "end":  "2026-10-26T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T18:00:00.0000000",
-        "title":  "Canadian Premier League Soccer",
-        "desc":  "From York Lions Stadium in Toronto.",
-        "end":  "2026-10-26T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T20:00:00.0000000",
-        "title":  "Canadian Premier League Soccer",
-        "desc":  "From Starlight Stadium in Langford, British Columbia.",
-        "end":  "2026-10-26T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-26T22:00:00.0000000",
-        "title":  "Canadian Premier League Soccer",
-        "desc":  "From ATCO Field in Calgary, Alberta.",
-        "end":  "2026-10-27T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T00:00:00.0000000",
-        "title":  "Canadian Premier League Soccer",
-        "desc":  "From Wanderers Grounds in Halifax, Nova Scotia.",
-        "end":  "2026-10-27T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T02:00:00.0000000",
-        "title":  "CPL Week in Review",
-        "desc":  "Highlights of the week\u0027s CPL action.",
-        "end":  "2026-10-27T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T02:30:00.0000000",
-        "title":  "Italian Serie B Soccer",
-        "desc":  "From Renzo Barbera Stadium in Palermo, Palermo, Italy.",
-        "end":  "2026-10-27T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T04:30:00.0000000",
+        "start":  "2026-10-28T11:00:00.0000000",
         "title":  "2026 FIFA U-17 Women\u0027s World Cup",
         "desc":  "Coverage of the tenth edition of the annual international women\u0027s soccer tournament contested by under-17 national teams. From Morocco.",
-        "end":  "2026-10-27T06:30:00.0000000"
+        "end":  "2026-10-28T13:00:00.0000000"
     },
     {
-        "start":  "2026-10-27T06:30:00.0000000",
-        "title":  "AFL Women\u0027s Premiership Football",
-        "desc":  "From GMHBA Stadium in South Geelong, Victoria, Australia.",
-        "end":  "2026-10-27T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T08:30:00.0000000",
-        "title":  "AFL Women\u0027s Premiership Football",
-        "desc":  "From People First Stadium in Gold Coast, Queensland, Australia.",
-        "end":  "2026-10-27T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T10:30:00.0000000",
-        "title":  "An American Rugby Odyssey",
-        "desc":  "From a parking lot in South Los Angeles, Coach Stuart Krohn takes a girls\u0027 team and a boys\u0027 team on an international tour each year through the Inner City Education Foundation\u0027s rugby program.",
-        "end":  "2026-10-27T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T11:30:00.0000000",
-        "title":  "An American Rugby Odyssey",
-        "desc":  "From a parking lot in South Los Angeles, Coach Stuart Krohn takes a girls\u0027 team and a boys\u0027 team on an international tour each year through the Inner City Education Foundation\u0027s rugby program.",
-        "end":  "2026-10-27T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T12:30:00.0000000",
-        "title":  "Women\u0027s Italian Serie A Soccer",
-        "desc":  "From Centro sportivo di Formello in Formello, Italy.",
-        "end":  "2026-10-27T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T14:30:00.0000000",
-        "title":  "Women\u0027s Italian Serie A Soccer",
-        "desc":  "From Centro Sportivo Vismara in Milan, Italy.",
-        "end":  "2026-10-27T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T16:30:00.0000000",
-        "title":  "Women\u0027s Italian Serie A Soccer",
-        "desc":  "From Stadio La Marmora-Pozzo in Biella, Italy.",
-        "end":  "2026-10-27T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T18:30:00.0000000",
-        "title":  "Football\u0027s Greatest Stage",
-        "desc":  "Until an England captain holds the World Cup up, Bobby Moore\u0027s story will just keep getting bigger.",
-        "end":  "2026-10-27T18:55:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T18:55:00.0000000",
-        "title":  "Live: Italian Serie B Soccer",
-        "desc":  "From Cino e Lillo Del Duca Stadium in Ascoli Piceno, Marche, Italy.",
-        "end":  "2026-10-27T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T21:00:00.0000000",
-        "title":  "AFL Women\u0027s Premiership Football",
-        "desc":  "From North Hobart Oval in Hobart, Tasmania, Australia.",
-        "end":  "2026-10-27T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T23:00:00.0000000",
-        "title":  "AFL Women\u0027s Premiership Football",
-        "desc":  "From IKON Park in Melbourne, Victoria, Australia.",
-        "end":  "2026-10-28T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T00:00:00.0000000",
-        "title":  "Canadian Premier League Soccer",
-        "desc":  "From Wanderers Grounds in Halifax, Nova Scotia.",
-        "end":  "2026-10-27T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T02:00:00.0000000",
-        "title":  "CPL Week in Review",
-        "desc":  "Highlights of the week\u0027s CPL action.",
-        "end":  "2026-10-27T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T02:30:00.0000000",
-        "title":  "Italian Serie B Soccer",
-        "desc":  "From Renzo Barbera Stadium in Palermo, Palermo, Italy.",
-        "end":  "2026-10-27T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T04:30:00.0000000",
+        "start":  "2026-10-28T13:00:00.0000000",
         "title":  "2026 FIFA U-17 Women\u0027s World Cup",
         "desc":  "Coverage of the tenth edition of the annual international women\u0027s soccer tournament contested by under-17 national teams. From Morocco.",
-        "end":  "2026-10-27T06:30:00.0000000"
+        "end":  "2026-10-28T14:48:00.0000000"
     },
     {
-        "start":  "2026-10-27T06:30:00.0000000",
-        "title":  "AFL Women\u0027s Premiership Football",
-        "desc":  "From GMHBA Stadium in South Geelong, Victoria, Australia.",
-        "end":  "2026-10-27T08:30:00.0000000"
+        "start":  "2026-10-28T14:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-17 Women\u0027s World Cup",
+        "desc":  "From SalÃ©, Morocco.",
+        "end":  "2026-10-28T17:00:00.0000000"
     },
     {
-        "start":  "2026-10-27T08:30:00.0000000",
-        "title":  "AFL Women\u0027s Premiership Football",
-        "desc":  "From People First Stadium in Gold Coast, Queensland, Australia.",
-        "end":  "2026-10-27T10:30:00.0000000"
+        "start":  "2026-10-28T17:00:00.0000000",
+        "title":  "Football Nation",
+        "desc":  "Exploring Brazil as the footballing nation par excellence; home to \"Jogo Bonito,\" the country has produced PelÃ©, Socrates and Ronaldo and is the only nation to have won five World Cups.",
+        "end":  "2026-10-28T17:30:00.0000000"
     },
     {
-        "start":  "2026-10-27T10:30:00.0000000",
-        "title":  "An American Rugby Odyssey",
-        "desc":  "From a parking lot in South Los Angeles, Coach Stuart Krohn takes a girls\u0027 team and a boys\u0027 team on an international tour each year through the Inner City Education Foundation\u0027s rugby program.",
-        "end":  "2026-10-27T11:30:00.0000000"
+        "start":  "2026-10-28T17:30:00.0000000",
+        "title":  "Football Nation",
+        "desc":  "With a surprisingly long association with football and the preeminent women\u0027s team, the USA is a bona fide football nation.",
+        "end":  "2026-10-28T17:48:00.0000000"
     },
     {
-        "start":  "2026-10-27T11:30:00.0000000",
-        "title":  "An American Rugby Odyssey",
-        "desc":  "From a parking lot in South Los Angeles, Coach Stuart Krohn takes a girls\u0027 team and a boys\u0027 team on an international tour each year through the Inner City Education Foundation\u0027s rugby program.",
-        "end":  "2026-10-27T12:30:00.0000000"
+        "start":  "2026-10-28T17:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-17 Women\u0027s World Cup",
+        "desc":  "From SalÃ©, Morocco.",
+        "end":  "2026-10-28T20:00:00.0000000"
     },
     {
-        "start":  "2026-10-27T12:30:00.0000000",
-        "title":  "Women\u0027s Italian Serie A Soccer",
-        "desc":  "From Centro sportivo di Formello in Formello, Italy.",
-        "end":  "2026-10-27T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T14:30:00.0000000",
-        "title":  "Women\u0027s Italian Serie A Soccer",
-        "desc":  "From Centro Sportivo Vismara in Milan, Italy.",
-        "end":  "2026-10-27T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T16:30:00.0000000",
-        "title":  "Women\u0027s Italian Serie A Soccer",
-        "desc":  "From Stadio La Marmora-Pozzo in Biella, Italy.",
-        "end":  "2026-10-27T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T18:30:00.0000000",
+        "start":  "2026-10-28T20:00:00.0000000",
         "title":  "Football\u0027s Greatest Stage",
-        "desc":  "Until an England captain holds the World Cup up, Bobby Moore\u0027s story will just keep getting bigger.",
-        "end":  "2026-10-27T18:55:00.0000000"
+        "desc":  "Diego Maradona is the most mercurial star to ever grace football\u0027s greatest stage. No individual has dominated a single World Cup like he dominated Mexico in 1986.",
+        "end":  "2026-10-28T20:30:00.0000000"
     },
     {
-        "start":  "2026-10-27T18:55:00.0000000",
-        "title":  "Live: Italian Serie B Soccer",
-        "desc":  "From Cino e Lillo Del Duca Stadium in Ascoli Piceno, Marche, Italy.",
-        "end":  "2026-10-27T21:00:00.0000000"
+        "start":  "2026-10-28T20:30:00.0000000",
+        "title":  "2026 FIFA U-17 Women\u0027s World Cup",
+        "desc":  "From SalÃ©, Morocco.",
+        "end":  "2026-10-28T22:30:00.0000000"
     },
     {
-        "start":  "2026-10-27T21:00:00.0000000",
-        "title":  "AFL Women\u0027s Premiership Football",
-        "desc":  "From North Hobart Oval in Hobart, Tasmania, Australia.",
-        "end":  "2026-10-27T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T23:00:00.0000000",
-        "title":  "AFL Women\u0027s Premiership Football",
-        "desc":  "From IKON Park in Melbourne, Victoria, Australia.",
-        "end":  "2026-10-28T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T01:00:00.0000000",
-        "title":  "AFL Women\u0027s Premiership Football",
-        "desc":  "From Mission Whitten Oval in Footscray, Victoria, Australia.",
-        "end":  "2026-10-28T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T03:00:00.0000000",
+        "start":  "2026-10-28T22:30:00.0000000",
         "title":  "Italian Serie B Soccer",
-        "desc":  "From Cino e Lillo Del Duca Stadium in Ascoli Piceno, Marche, Italy.",
+        "desc":  "From Cetilar Arena in Pisa, Italy.",
         "end":  "2026-10-29T00:00:00.0000000"
     },
     {
@@ -273,6 +183,114 @@
         "start":  "2026-10-28T03:00:00.0000000",
         "title":  "Italian Serie B Soccer",
         "desc":  "From Cino e Lillo Del Duca Stadium in Ascoli Piceno, Marche, Italy.",
+        "end":  "2026-10-28T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T05:00:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "From RSEA Park in Moorabbin, Victoria, Australia.",
+        "end":  "2026-10-28T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T07:00:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "From Henson Park in Marrickville, New South Wales, Australia.",
+        "end":  "2026-10-28T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T09:00:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "From Kennedy Community Centre in Melbourne, Australia.",
+        "end":  "2026-10-28T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T11:00:00.0000000",
+        "title":  "2026 FIFA U-17 Women\u0027s World Cup",
+        "desc":  "Coverage of the tenth edition of the annual international women\u0027s soccer tournament contested by under-17 national teams. From Morocco.",
+        "end":  "2026-10-28T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T13:00:00.0000000",
+        "title":  "2026 FIFA U-17 Women\u0027s World Cup",
+        "desc":  "Coverage of the tenth edition of the annual international women\u0027s soccer tournament contested by under-17 national teams. From Morocco.",
+        "end":  "2026-10-28T14:48:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T14:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-17 Women\u0027s World Cup",
+        "desc":  "From SalÃ©, Morocco.",
+        "end":  "2026-10-28T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T17:00:00.0000000",
+        "title":  "Football Nation",
+        "desc":  "Exploring Brazil as the footballing nation par excellence; home to \"Jogo Bonito,\" the country has produced PelÃ©, Socrates and Ronaldo and is the only nation to have won five World Cups.",
+        "end":  "2026-10-28T17:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T17:30:00.0000000",
+        "title":  "Football Nation",
+        "desc":  "With a surprisingly long association with football and the preeminent women\u0027s team, the USA is a bona fide football nation.",
+        "end":  "2026-10-28T17:48:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T17:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-17 Women\u0027s World Cup",
+        "desc":  "From SalÃ©, Morocco.",
+        "end":  "2026-10-28T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T20:00:00.0000000",
+        "title":  "Football\u0027s Greatest Stage",
+        "desc":  "Diego Maradona is the most mercurial star to ever grace football\u0027s greatest stage. No individual has dominated a single World Cup like he dominated Mexico in 1986.",
+        "end":  "2026-10-28T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T20:30:00.0000000",
+        "title":  "2026 FIFA U-17 Women\u0027s World Cup",
+        "desc":  "From SalÃ©, Morocco.",
+        "end":  "2026-10-28T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T22:30:00.0000000",
+        "title":  "Italian Serie B Soccer",
+        "desc":  "From Cetilar Arena in Pisa, Italy.",
         "end":  "2026-10-29T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T00:30:00.0000000",
+        "title":  "Italian Serie B Soccer",
+        "desc":  "From Romeo Menti Stadium in Castellammare di Stabia, Napoli, Italy.",
+        "end":  "2026-10-29T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T02:30:00.0000000",
+        "title":  "2026 FIFA U-17 Women\u0027s World Cup",
+        "desc":  "From SalÃ©, Morocco.",
+        "end":  "2026-10-29T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T04:30:00.0000000",
+        "title":  "2026 FIFA U-17 Women\u0027s World Cup",
+        "desc":  "Coverage of the tenth edition of the annual international women\u0027s soccer tournament contested by under-17 national teams. From Morocco.",
+        "end":  "2026-10-30T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T00:30:00.0000000",
+        "title":  "Italian Serie B Soccer",
+        "desc":  "From Romeo Menti Stadium in Castellammare di Stabia, Napoli, Italy.",
+        "end":  "2026-10-29T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T02:30:00.0000000",
+        "title":  "2026 FIFA U-17 Women\u0027s World Cup",
+        "desc":  "From SalÃ©, Morocco.",
+        "end":  "2026-10-29T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T04:30:00.0000000",
+        "title":  "2026 FIFA U-17 Women\u0027s World Cup",
+        "desc":  "Coverage of the tenth edition of the annual international women\u0027s soccer tournament contested by under-17 national teams. From Morocco.",
+        "end":  "2026-10-30T00:00:00.0000000"
     }
 ]
