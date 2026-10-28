@@ -1,386 +1,380 @@
 [
     {
-        "start":  "2026-10-27T00:00:00.0000000",
-        "title":  "Live: Monday Night Kickoff",
-        "desc":  "The legendary Monday Night Football crew of Joe Buck, Troy Aikman, and Lisa Salters preview the upcoming Monday Night Football action.",
-        "end":  "2026-10-27T00:15:00.0000000"
+        "start":  "2026-10-28T00:00:00.0000000",
+        "title":  "Live: NHL Hockey",
+        "desc":  "The Carolina Hurricanes battle the Boston Bruins in NHL regular-season action at Lenovo Center. The Hurricanes have won three of the last five meetings between these sides, including a 6-5 overtime win at Lenovo Center last April.",
+        "end":  "2026-10-28T02:30:00.0000000"
     },
     {
-        "start":  "2026-10-27T00:15:00.0000000",
-        "title":  "Live: NFL Football",
-        "desc":  "The Eagles host the Cowboys in NFC East play at Lincoln Financial Field. Both sides sit at 2-4, but Philadelphia has dropped four straight heading into this divisional meeting and QB Jalen Hurts is out for the season due to a medical concern.",
-        "end":  "2026-10-27T03:15:00.0000000"
+        "start":  "2026-10-28T02:30:00.0000000",
+        "title":  "Live: NHL Hockey",
+        "desc":  "The San Jose Sharks host the Buffalo Sabres at SAP Center in NHL action. San Jose relies on home-ice execution to snap a skid against Buffalo, while Buffalo counts on recent head-to-head dominance following a 5-0 shutout victory in their last trip.",
+        "end":  "2026-10-28T05:00:00.0000000"
     },
     {
-        "start":  "2026-10-27T03:15:00.0000000",
-        "title":  "Live: Monday Night Postgame",
-        "desc":  "A recap of the Monday Night Football matchup with highlights, interviews and more.",
-        "end":  "2026-10-27T03:30:00.0000000"
+        "start":  "2026-10-28T05:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-28T06:00:00.0000000"
     },
     {
-        "start":  "2026-10-27T03:30:00.0000000",
+        "start":  "2026-10-28T06:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-28T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T07:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-28T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T08:00:00.0000000",
+        "title":  "NHL Hockey",
+        "desc":  "The San Jose Sharks host the Buffalo Sabres at SAP Center in NHL action. San Jose relies on home-ice execution to snap a skid against Buffalo, while Buffalo counts on recent head-to-head dominance following a 5-0 shutout victory in their last trip.",
+        "end":  "2026-10-28T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T10:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-28T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T11:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-28T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T12:00:00.0000000",
+        "title":  "Live: Get Up",
+        "desc":  "ESPN\u0027s morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company\u0027s New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio\u0027s longt",
+        "end":  "2026-10-28T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T14:00:00.0000000",
+        "title":  "Live: First Take",
+        "desc":  "Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day\u0027s trending sports topics and under-the-radar news. They\u0027re regularly joined by veteran analysts and the top guests in sports and entertainment.",
+        "end":  "2026-10-28T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T16:00:00.0000000",
+        "title":  "Live: The Pat McAfee Show",
+        "desc":  "Former NFL punter Pat McAfee highlights the day\u0027s top stories.",
+        "end":  "2026-10-28T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T18:00:00.0000000",
+        "title":  "Live: Big Day With Peter Schrager",
+        "desc":  "Peter Schrager\u0027s daily show will feature rotating panelists focusing heavily on the NFL while also providing coverage of other major sports stories.",
+        "end":  "2026-10-28T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T19:00:00.0000000",
+        "title":  "Live: NBA Today",
+        "desc":  "In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.",
+        "end":  "2026-10-28T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T20:00:00.0000000",
+        "title":  "NFL Live",
+        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+        "end":  "2026-10-28T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T21:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-28T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T21:30:00.0000000",
+        "title":  "Live: Pardon the Interruption",
+        "desc":  "The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.",
+        "end":  "2026-10-28T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T22:00:00.0000000",
+        "title":  "Live: NBA Tip-Off",
+        "desc":  "Host Ernie Johnson and analysts Shaquille O\u0027Neal, Charles Barkley and Kenny Smith ready viewers for NBA action before ESPN\u0027s Wednesday night doubleheaders (and other select telecasts). Guest analysts also are featured from time to time.",
+        "end":  "2026-10-28T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T23:00:00.0000000",
+        "title":  "Live: NBA Courtside",
+        "desc":  "An insight into upcoming National Basketball Association matches, highlighting the players to watch and the top team news.",
+        "end":  "2026-10-28T23:12:00.0000000"
+    },
+    {
+        "start":  "2026-10-28T23:12:00.0000000",
+        "title":  "Live: NBA Basketball",
+        "desc":  "The Indiana Pacers host the Philadelphia 76ers in NBA regular-season play at Gainbridge Fieldhouse. The Philadelphia 76ers have won four straight meetings against the Indiana Pacers, including a 105-94 victory at this venue last April.",
+        "end":  "2026-10-29T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T01:35:00.0000000",
+        "title":  "Live: NBA Basketball",
+        "desc":  "The Dallas Mavericks host the Oklahoma City Thunder in NBA regular-season play at American Airlines Center. Oklahoma City, who have won three of the last four meetings, arrive as the NBA\u0027s top-ranked side by ELO heading into the new season.",
+        "end":  "2026-10-29T04:05:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T04:05:00.0000000",
+        "title":  "Live: Inside the NBA",
+        "desc":  "This Emmy Award-winning studio show, which airs following NBA telecasts on ESPN, is hosted by Ernie Johnson, with analysis from Hall of Famer Charles Barkley and NBA champions Kenny Smith and Shaquille O\u0027Neal. It\u0027s a mix of highlights, interviews and hijinks, notably the verbal sparring sessions between the outspoken Barkley and his straight man, Smith. The show also welcomes various guest analyst",
+        "end":  "2026-10-29T05:05:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T05:05:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-29T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T06:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-29T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T07:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-29T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T08:00:00.0000000",
+        "title":  "NBA Basketball",
+        "desc":  "The Dallas Mavericks host the Oklahoma City Thunder in NBA regular-season play at American Airlines Center. Oklahoma City, who have won three of the last four meetings, arrive as the NBA\u0027s top-ranked side by ELO heading into the new season.",
+        "end":  "2026-10-29T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T10:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-29T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T11:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-29T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T12:00:00.0000000",
+        "title":  "Live: Get Up",
+        "desc":  "ESPN\u0027s morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company\u0027s New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio\u0027s longt",
+        "end":  "2026-10-29T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T14:00:00.0000000",
+        "title":  "Live: First Take",
+        "desc":  "Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day\u0027s trending sports topics and under-the-radar news. They\u0027re regularly joined by veteran analysts and the top guests in sports and entertainment.",
+        "end":  "2026-10-29T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T16:00:00.0000000",
+        "title":  "Live: The Pat McAfee Show",
+        "desc":  "Former NFL punter Pat McAfee highlights the day\u0027s top stories.",
+        "end":  "2026-10-29T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T18:00:00.0000000",
+        "title":  "Live: Big Day With Peter Schrager",
+        "desc":  "Peter Schrager\u0027s daily show will feature rotating panelists focusing heavily on the NFL while also providing coverage of other major sports stories.",
+        "end":  "2026-10-29T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T19:00:00.0000000",
+        "title":  "Live: NBA Today",
+        "desc":  "In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.",
+        "end":  "2026-10-29T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T20:00:00.0000000",
+        "title":  "NFL Live",
+        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+        "end":  "2026-10-29T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T21:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-29T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T21:30:00.0000000",
+        "title":  "Live: Pardon the Interruption",
+        "desc":  "The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.",
+        "end":  "2026-10-29T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T22:00:00.0000000",
+        "title":  "Saban",
+        "desc":  "Saban\u0027s bold coaching hire brings wins, tension, and a decision that could define his legacy.",
+        "end":  "2026-10-29T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T23:00:00.0000000",
+        "title":  "Live: College Football Countdown",
+        "desc":  "A look at the day\u0027s college football action, featuring news, highlights and game previews.",
+        "end":  "2026-10-29T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T23:30:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From Apogee Stadium in Denton, Texas.",
+        "end":  "2026-10-30T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T01:35:00.0000000",
+        "title":  "Live: NBA Basketball",
+        "desc":  "The Dallas Mavericks host the Oklahoma City Thunder in NBA regular-season play at American Airlines Center. Oklahoma City, who have won three of the last four meetings, arrive as the NBA\u0027s top-ranked side by ELO heading into the new season.",
+        "end":  "2026-10-29T04:05:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T04:05:00.0000000",
+        "title":  "Live: Inside the NBA",
+        "desc":  "This Emmy Award-winning studio show, which airs following NBA telecasts on ESPN, is hosted by Ernie Johnson, with analysis from Hall of Famer Charles Barkley and NBA champions Kenny Smith and Shaquille O\u0027Neal. It\u0027s a mix of highlights, interviews and hijinks, notably the verbal sparring sessions between the outspoken Barkley and his straight man, Smith. The show also welcomes various guest analyst",
+        "end":  "2026-10-29T05:05:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T05:05:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-29T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T06:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-29T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T07:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-29T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T08:00:00.0000000",
+        "title":  "NBA Basketball",
+        "desc":  "The Dallas Mavericks host the Oklahoma City Thunder in NBA regular-season play at American Airlines Center. Oklahoma City, who have won three of the last four meetings, arrive as the NBA\u0027s top-ranked side by ELO heading into the new season.",
+        "end":  "2026-10-29T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T10:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-29T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T11:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-29T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T12:00:00.0000000",
+        "title":  "Live: Get Up",
+        "desc":  "ESPN\u0027s morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company\u0027s New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio\u0027s longt",
+        "end":  "2026-10-29T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T14:00:00.0000000",
+        "title":  "Live: First Take",
+        "desc":  "Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day\u0027s trending sports topics and under-the-radar news. They\u0027re regularly joined by veteran analysts and the top guests in sports and entertainment.",
+        "end":  "2026-10-29T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T16:00:00.0000000",
+        "title":  "Live: The Pat McAfee Show",
+        "desc":  "Former NFL punter Pat McAfee highlights the day\u0027s top stories.",
+        "end":  "2026-10-29T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T18:00:00.0000000",
+        "title":  "Live: Big Day With Peter Schrager",
+        "desc":  "Peter Schrager\u0027s daily show will feature rotating panelists focusing heavily on the NFL while also providing coverage of other major sports stories.",
+        "end":  "2026-10-29T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T19:00:00.0000000",
+        "title":  "Live: NBA Today",
+        "desc":  "In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.",
+        "end":  "2026-10-29T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T20:00:00.0000000",
+        "title":  "NFL Live",
+        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+        "end":  "2026-10-29T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T21:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-29T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T21:30:00.0000000",
+        "title":  "Live: Pardon the Interruption",
+        "desc":  "The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.",
+        "end":  "2026-10-29T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T22:00:00.0000000",
+        "title":  "Saban",
+        "desc":  "Saban\u0027s bold coaching hire brings wins, tension, and a decision that could define his legacy.",
+        "end":  "2026-10-29T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T23:00:00.0000000",
+        "title":  "Live: College Football Countdown",
+        "desc":  "A look at the day\u0027s college football action, featuring news, highlights and game previews.",
+        "end":  "2026-10-29T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T23:30:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From Apogee Stadium in Denton, Texas.",
+        "end":  "2026-10-30T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-30T02:30:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-10-30T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-10-30T03:30:00.0000000",
         "title":  "Live: SportsCenter With Scott Van Pelt",
         "desc":  "SVP\u0027s up at midnight and bringing his unique perspective on games people play to \"SportsCenter\" viewers. The hourlong, late-night show is driven by the host\u0027s self-deprecating wit and passion for sports, with featured elements, including Van Pelt\u0027s nightly \"1 Big Thing\" commentary and a weekly look back at the moments that drove bettors wild in \"Bad Beats.\" The show also delivers what \"SportsCente",
-        "end":  "2026-10-27T04:30:00.0000000"
+        "end":  "2026-10-30T04:30:00.0000000"
     },
     {
-        "start":  "2026-10-27T04:30:00.0000000",
+        "start":  "2026-10-30T04:30:00.0000000",
+        "title":  "Live: SportsCenter With Scott Van Pelt",
+        "desc":  "SVP\u0027s up at midnight and bringing his unique perspective on games people play to \"SportsCenter\" viewers. The hourlong, late-night show is driven by the host\u0027s self-deprecating wit and passion for sports, with featured elements, including Van Pelt\u0027s nightly \"1 Big Thing\" commentary and a weekly look back at the moments that drove bettors wild in \"Bad Beats.\" The show also delivers what \"SportsCente",
+        "end":  "2026-10-31T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-30T02:30:00.0000000",
         "title":  "Live: SportsCenter",
         "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-27T05:30:00.0000000"
+        "end":  "2026-10-30T03:30:00.0000000"
     },
     {
-        "start":  "2026-10-27T05:30:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-27T06:30:00.0000000"
+        "start":  "2026-10-30T03:30:00.0000000",
+        "title":  "Live: SportsCenter With Scott Van Pelt",
+        "desc":  "SVP\u0027s up at midnight and bringing his unique perspective on games people play to \"SportsCenter\" viewers. The hourlong, late-night show is driven by the host\u0027s self-deprecating wit and passion for sports, with featured elements, including Van Pelt\u0027s nightly \"1 Big Thing\" commentary and a weekly look back at the moments that drove bettors wild in \"Bad Beats.\" The show also delivers what \"SportsCente",
+        "end":  "2026-10-30T04:30:00.0000000"
     },
     {
-        "start":  "2026-10-27T06:30:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-27T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T07:30:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-27T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T08:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-27T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T09:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-27T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T10:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-27T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T11:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-27T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T12:00:00.0000000",
-        "title":  "Live: Get Up",
-        "desc":  "ESPN\u0027s morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company\u0027s New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio\u0027s longt",
-        "end":  "2026-10-27T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T14:00:00.0000000",
-        "title":  "Live: First Take",
-        "desc":  "Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day\u0027s trending sports topics and under-the-radar news. They\u0027re regularly joined by veteran analysts and the top guests in sports and entertainment.",
-        "end":  "2026-10-27T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T16:00:00.0000000",
-        "title":  "Live: The Pat McAfee Show",
-        "desc":  "Former NFL punter Pat McAfee highlights the day\u0027s top stories.",
-        "end":  "2026-10-27T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T18:00:00.0000000",
-        "title":  "Live: Big Day With Peter Schrager",
-        "desc":  "Peter Schrager\u0027s daily show will feature rotating panelists focusing heavily on the NFL while also providing coverage of other major sports stories.",
-        "end":  "2026-10-27T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T19:00:00.0000000",
-        "title":  "Live: NBA Today",
-        "desc":  "In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.",
-        "end":  "2026-10-27T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T20:00:00.0000000",
-        "title":  "NFL Live",
-        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
-        "end":  "2026-10-27T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T21:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-27T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T21:30:00.0000000",
-        "title":  "Live: Pardon the Interruption",
-        "desc":  "The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.",
-        "end":  "2026-10-27T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T22:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-27T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T23:00:00.0000000",
-        "title":  "Saban",
-        "desc":  "Saban and the \"Crimson Tide\" help restore hope and pride in the community after a storm.",
-        "end":  "2026-10-28T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T00:00:00.0000000",
-        "title":  "Live: NHL Hockey",
-        "desc":  "The Carolina Hurricanes battle the Boston Bruins in NHL regular-season action at Lenovo Center. The Hurricanes have won three of the last five meetings between these sides, including a 6-5 overtime win at Lenovo Center last April.",
-        "end":  "2026-10-28T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T02:30:00.0000000",
-        "title":  "Live: NHL Hockey",
-        "desc":  "The San Jose Sharks host the Buffalo Sabres at SAP Center in NHL action. San Jose relies on home-ice execution to snap a skid against Buffalo, while Buffalo counts on recent head-to-head dominance following a 5-0 shutout victory in their last trip.",
-        "end":  "2026-10-28T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T05:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-28T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T06:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-28T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T07:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-28T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T08:00:00.0000000",
-        "title":  "NHL Hockey",
-        "desc":  "The San Jose Sharks host the Buffalo Sabres at SAP Center in NHL action. San Jose relies on home-ice execution to snap a skid against Buffalo, while Buffalo counts on recent head-to-head dominance following a 5-0 shutout victory in their last trip.",
-        "end":  "2026-10-28T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T10:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-28T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T11:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-28T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T12:00:00.0000000",
-        "title":  "Live: Get Up",
-        "desc":  "ESPN\u0027s morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company\u0027s New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio\u0027s longt",
-        "end":  "2026-10-28T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T14:00:00.0000000",
-        "title":  "Live: First Take",
-        "desc":  "Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day\u0027s trending sports topics and under-the-radar news. They\u0027re regularly joined by veteran analysts and the top guests in sports and entertainment.",
-        "end":  "2026-10-28T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T16:00:00.0000000",
-        "title":  "Live: The Pat McAfee Show",
-        "desc":  "Former NFL punter Pat McAfee highlights the day\u0027s top stories.",
-        "end":  "2026-10-28T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T18:00:00.0000000",
-        "title":  "Live: Big Day With Peter Schrager",
-        "desc":  "Peter Schrager\u0027s daily show will feature rotating panelists focusing heavily on the NFL while also providing coverage of other major sports stories.",
-        "end":  "2026-10-28T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T19:00:00.0000000",
-        "title":  "Live: NBA Today",
-        "desc":  "In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.",
-        "end":  "2026-10-28T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T20:00:00.0000000",
-        "title":  "NFL Live",
-        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
-        "end":  "2026-10-28T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T21:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-28T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T21:30:00.0000000",
-        "title":  "Live: Pardon the Interruption",
-        "desc":  "The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.",
-        "end":  "2026-10-28T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T22:00:00.0000000",
-        "title":  "Live: NBA Tip-Off",
-        "desc":  "Host Ernie Johnson and analysts Shaquille O\u0027Neal, Charles Barkley and Kenny Smith ready viewers for NBA action before ESPN\u0027s Wednesday night doubleheaders (and other select telecasts). Guest analysts also are featured from time to time.",
-        "end":  "2026-10-28T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T23:00:00.0000000",
-        "title":  "Live: NBA Courtside",
-        "desc":  "An insight into upcoming National Basketball Association matches, highlighting the players to watch and the top team news.",
-        "end":  "2026-10-28T23:12:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T23:12:00.0000000",
-        "title":  "Live: NBA Basketball",
-        "desc":  "The Indiana Pacers host the Philadelphia 76ers in NBA regular-season play at Gainbridge Fieldhouse. The Philadelphia 76ers have won four straight meetings against the Indiana Pacers, including a 105-94 victory at this venue last April.",
-        "end":  "2026-10-29T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T00:00:00.0000000",
-        "title":  "Live: NHL Hockey",
-        "desc":  "The Carolina Hurricanes battle the Boston Bruins in NHL regular-season action at Lenovo Center. The Hurricanes have won three of the last five meetings between these sides, including a 6-5 overtime win at Lenovo Center last April.",
-        "end":  "2026-10-28T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T02:30:00.0000000",
-        "title":  "Live: NHL Hockey",
-        "desc":  "The San Jose Sharks host the Buffalo Sabres at SAP Center in NHL action. San Jose relies on home-ice execution to snap a skid against Buffalo, while Buffalo counts on recent head-to-head dominance following a 5-0 shutout victory in their last trip.",
-        "end":  "2026-10-28T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T05:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-28T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T06:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-28T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T07:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-28T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T08:00:00.0000000",
-        "title":  "NHL Hockey",
-        "desc":  "The San Jose Sharks host the Buffalo Sabres at SAP Center in NHL action. San Jose relies on home-ice execution to snap a skid against Buffalo, while Buffalo counts on recent head-to-head dominance following a 5-0 shutout victory in their last trip.",
-        "end":  "2026-10-28T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T10:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-28T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T11:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-28T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T12:00:00.0000000",
-        "title":  "Live: Get Up",
-        "desc":  "ESPN\u0027s morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company\u0027s New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio\u0027s longt",
-        "end":  "2026-10-28T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T14:00:00.0000000",
-        "title":  "Live: First Take",
-        "desc":  "Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day\u0027s trending sports topics and under-the-radar news. They\u0027re regularly joined by veteran analysts and the top guests in sports and entertainment.",
-        "end":  "2026-10-28T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T16:00:00.0000000",
-        "title":  "Live: The Pat McAfee Show",
-        "desc":  "Former NFL punter Pat McAfee highlights the day\u0027s top stories.",
-        "end":  "2026-10-28T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T18:00:00.0000000",
-        "title":  "Live: Big Day With Peter Schrager",
-        "desc":  "Peter Schrager\u0027s daily show will feature rotating panelists focusing heavily on the NFL while also providing coverage of other major sports stories.",
-        "end":  "2026-10-28T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T19:00:00.0000000",
-        "title":  "Live: NBA Today",
-        "desc":  "In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.",
-        "end":  "2026-10-28T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T20:00:00.0000000",
-        "title":  "NFL Live",
-        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
-        "end":  "2026-10-28T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T21:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-10-28T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T21:30:00.0000000",
-        "title":  "Live: Pardon the Interruption",
-        "desc":  "The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.",
-        "end":  "2026-10-28T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T22:00:00.0000000",
-        "title":  "Live: NBA Tip-Off",
-        "desc":  "Host Ernie Johnson and analysts Shaquille O\u0027Neal, Charles Barkley and Kenny Smith ready viewers for NBA action before ESPN\u0027s Wednesday night doubleheaders (and other select telecasts). Guest analysts also are featured from time to time.",
-        "end":  "2026-10-28T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T23:00:00.0000000",
-        "title":  "Live: NBA Courtside",
-        "desc":  "An insight into upcoming National Basketball Association matches, highlighting the players to watch and the top team news.",
-        "end":  "2026-10-28T23:12:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T23:12:00.0000000",
-        "title":  "Live: NBA Basketball",
-        "desc":  "The Indiana Pacers host the Philadelphia 76ers in NBA regular-season play at Gainbridge Fieldhouse. The Philadelphia 76ers have won four straight meetings against the Indiana Pacers, including a 105-94 victory at this venue last April.",
-        "end":  "2026-10-29T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-29T01:35:00.0000000",
-        "title":  "Live: NBA Basketball",
-        "desc":  "The Dallas Mavericks host the Oklahoma City Thunder in NBA regular-season play at American Airlines Center. Oklahoma City, who have won three of the last four meetings, arrive as the NBA\u0027s top-ranked side by ELO heading into the new season.",
-        "end":  "2026-10-29T04:05:00.0000000"
-    },
-    {
-        "start":  "2026-10-29T04:05:00.0000000",
-        "title":  "Live: Inside the NBA",
-        "desc":  "This Emmy Award-winning studio show, which airs following NBA telecasts on ESPN, is hosted by Ernie Johnson, with analysis from Hall of Famer Charles Barkley and NBA champions Kenny Smith and Shaquille O\u0027Neal. It\u0027s a mix of highlights, interviews and hijinks, notably the verbal sparring sessions between the outspoken Barkley and his straight man, Smith. The show also welcomes various guest analyst",
-        "end":  "2026-10-30T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-29T01:35:00.0000000",
-        "title":  "Live: NBA Basketball",
-        "desc":  "The Dallas Mavericks host the Oklahoma City Thunder in NBA regular-season play at American Airlines Center. Oklahoma City, who have won three of the last four meetings, arrive as the NBA\u0027s top-ranked side by ELO heading into the new season.",
-        "end":  "2026-10-29T04:05:00.0000000"
-    },
-    {
-        "start":  "2026-10-29T04:05:00.0000000",
-        "title":  "Live: Inside the NBA",
-        "desc":  "This Emmy Award-winning studio show, which airs following NBA telecasts on ESPN, is hosted by Ernie Johnson, with analysis from Hall of Famer Charles Barkley and NBA champions Kenny Smith and Shaquille O\u0027Neal. It\u0027s a mix of highlights, interviews and hijinks, notably the verbal sparring sessions between the outspoken Barkley and his straight man, Smith. The show also welcomes various guest analyst",
-        "end":  "2026-10-30T00:00:00.0000000"
+        "start":  "2026-10-30T04:30:00.0000000",
+        "title":  "Live: SportsCenter With Scott Van Pelt",
+        "desc":  "SVP\u0027s up at midnight and bringing his unique perspective on games people play to \"SportsCenter\" viewers. The hourlong, late-night show is driven by the host\u0027s self-deprecating wit and passion for sports, with featured elements, including Van Pelt\u0027s nightly \"1 Big Thing\" commentary and a weekly look back at the moments that drove bettors wild in \"Bad Beats.\" The show also delivers what \"SportsCente",
+        "end":  "2026-10-31T00:00:00.0000000"
     }
 ]

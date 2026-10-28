@@ -1,239 +1,5 @@
 [
     {
-        "start":  "2026-10-27T00:00:00.0000000",
-        "title":  "Live: Jesse Watters Primetime",
-        "desc":  "Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.",
-        "end":  "2026-10-27T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T01:00:00.0000000",
-        "title":  "Live: Hannity",
-        "desc":  "Sean Hannity showcases his candid, provocative style and conservative commentary on politics and the American agenda.",
-        "end":  "2026-10-27T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T02:00:00.0000000",
-        "title":  "Gutfeld!",
-        "desc":  "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day\u0027s headlines.",
-        "end":  "2026-10-27T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T03:00:00.0000000",
-        "title":  "Live: Fox News at Night",
-        "desc":  "Hard news and analysis of compelling stories from Washington, D.C., and across the country; journalists provide viewers with must-see information and consequential news.",
-        "end":  "2026-10-27T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T04:00:00.0000000",
-        "title":  "The Five",
-        "desc":  "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
-        "end":  "2026-10-27T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T05:00:00.0000000",
-        "title":  "Jesse Watters Primetime",
-        "desc":  "Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.",
-        "end":  "2026-10-27T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T06:00:00.0000000",
-        "title":  "Hannity",
-        "desc":  "Sean Hannity showcases his candid, provocative style and conservative commentary on politics and the American agenda.",
-        "end":  "2026-10-27T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T07:00:00.0000000",
-        "title":  "Gutfeld!",
-        "desc":  "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day\u0027s headlines.",
-        "end":  "2026-10-27T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T08:00:00.0000000",
-        "title":  "Live: FOX \u0026 Friends First",
-        "desc":  "Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.",
-        "end":  "2026-10-27T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T10:00:00.0000000",
-        "title":  "Live: FOX and Friends",
-        "desc":  "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the news.",
-        "end":  "2026-10-27T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T13:00:00.0000000",
-        "title":  "Live: America\u0027s Newsroom",
-        "desc":  "America\u0027s Newsroom co-anchored by Bill Hemmer and Dana Perino, a show geared toward providing hard news and interviews with key newsmakers.",
-        "end":  "2026-10-27T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T15:00:00.0000000",
-        "title":  "Live: The Faulkner Focus",
-        "desc":  "Emmy-winning journalist Harris Faulkner provides the news with insightful analysis and interviews with some of the top newsmakers.",
-        "end":  "2026-10-27T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T16:00:00.0000000",
-        "title":  "Live: Outnumbered",
-        "desc":  "Four female panelists and one male colleague share their perspectives on the day\u0027s top news stories.",
-        "end":  "2026-10-27T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T17:00:00.0000000",
-        "title":  "Live: America Reports",
-        "desc":  "A look at the news and headlines with Sandra Smith and John Roberts.",
-        "end":  "2026-10-27T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T19:00:00.0000000",
-        "title":  "Live: The Story With Martha MacCallum",
-        "desc":  "Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; \"The Story\" captures the voices that need to be heard and the people at the center of every history-shaping moment.",
-        "end":  "2026-10-27T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T20:00:00.0000000",
-        "title":  "Live: The Will Cain Show",
-        "desc":  "Featuring Cain\u0027s perspective through conversations with newsmakers across politics, culture and sports.",
-        "end":  "2026-10-27T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T21:00:00.0000000",
-        "title":  "Live: The Five",
-        "desc":  "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
-        "end":  "2026-10-27T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T22:00:00.0000000",
-        "title":  "Live: Special Report With Bret Baier",
-        "desc":  "Former Fox News chief White House correspondent Bret Baier takes a closer look at political stories from Washington, D.C.",
-        "end":  "2026-10-27T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-27T23:00:00.0000000",
-        "title":  "Live: The Ingraham Angle",
-        "desc":  "Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.",
-        "end":  "2026-10-28T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T00:00:00.0000000",
-        "title":  "Live: Jesse Watters Primetime",
-        "desc":  "Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.",
-        "end":  "2026-10-28T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T01:00:00.0000000",
-        "title":  "Live: Hannity",
-        "desc":  "Sean Hannity showcases his candid, provocative style and conservative commentary on politics and the American agenda.",
-        "end":  "2026-10-28T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T02:00:00.0000000",
-        "title":  "Gutfeld!",
-        "desc":  "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day\u0027s headlines.",
-        "end":  "2026-10-28T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T03:00:00.0000000",
-        "title":  "Live: Fox News at Night",
-        "desc":  "Hard news and analysis of compelling stories from Washington, D.C., and across the country; journalists provide viewers with must-see information and consequential news.",
-        "end":  "2026-10-28T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T04:00:00.0000000",
-        "title":  "The Five",
-        "desc":  "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
-        "end":  "2026-10-28T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T05:00:00.0000000",
-        "title":  "Jesse Watters Primetime",
-        "desc":  "Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.",
-        "end":  "2026-10-28T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T06:00:00.0000000",
-        "title":  "Hannity",
-        "desc":  "Sean Hannity showcases his candid, provocative style and conservative commentary on politics and the American agenda.",
-        "end":  "2026-10-28T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T07:00:00.0000000",
-        "title":  "Gutfeld!",
-        "desc":  "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day\u0027s headlines.",
-        "end":  "2026-10-28T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T08:00:00.0000000",
-        "title":  "Live: FOX \u0026 Friends First",
-        "desc":  "Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.",
-        "end":  "2026-10-28T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T10:00:00.0000000",
-        "title":  "Live: FOX and Friends",
-        "desc":  "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the news.",
-        "end":  "2026-10-28T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T13:00:00.0000000",
-        "title":  "Live: America\u0027s Newsroom",
-        "desc":  "America\u0027s Newsroom co-anchored by Bill Hemmer and Dana Perino, a show geared toward providing hard news and interviews with key newsmakers.",
-        "end":  "2026-10-28T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T15:00:00.0000000",
-        "title":  "Live: The Faulkner Focus",
-        "desc":  "Emmy-winning journalist Harris Faulkner provides the news with insightful analysis and interviews with some of the top newsmakers.",
-        "end":  "2026-10-28T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T16:00:00.0000000",
-        "title":  "Live: Outnumbered",
-        "desc":  "Four female panelists and one male colleague share their perspectives on the day\u0027s top news stories.",
-        "end":  "2026-10-28T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T17:00:00.0000000",
-        "title":  "Live: America Reports",
-        "desc":  "A look at the news and headlines with Sandra Smith and John Roberts.",
-        "end":  "2026-10-28T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T19:00:00.0000000",
-        "title":  "Live: The Story With Martha MacCallum",
-        "desc":  "Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; \"The Story\" captures the voices that need to be heard and the people at the center of every history-shaping moment.",
-        "end":  "2026-10-28T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T20:00:00.0000000",
-        "title":  "Live: The Will Cain Show",
-        "desc":  "Featuring Cain\u0027s perspective through conversations with newsmakers across politics, culture and sports.",
-        "end":  "2026-10-28T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T21:00:00.0000000",
-        "title":  "Live: The Five",
-        "desc":  "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
-        "end":  "2026-10-28T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T22:00:00.0000000",
-        "title":  "Live: Special Report With Bret Baier",
-        "desc":  "Former Fox News chief White House correspondent Bret Baier takes a closer look at political stories from Washington, D.C.",
-        "end":  "2026-10-28T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-28T23:00:00.0000000",
-        "title":  "Live: The Ingraham Angle",
-        "desc":  "Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.",
-        "end":  "2026-10-29T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-29T00:00:00.0000000",
-        "title":  "Live: Jesse Watters Primetime",
-        "desc":  "Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.",
-        "end":  "2026-10-30T00:00:00.0000000"
-    },
-    {
         "start":  "2026-10-28T00:00:00.0000000",
         "title":  "Live: Jesse Watters Primetime",
         "desc":  "Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.",
@@ -375,7 +141,97 @@
         "start":  "2026-10-29T04:00:00.0000000",
         "title":  "The Five",
         "desc":  "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
+        "end":  "2026-10-29T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T05:00:00.0000000",
+        "title":  "Jesse Watters Primetime",
+        "desc":  "Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.",
+        "end":  "2026-10-29T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T06:00:00.0000000",
+        "title":  "Hannity",
+        "desc":  "Sean Hannity showcases his candid, provocative style and conservative commentary on politics and the American agenda.",
+        "end":  "2026-10-29T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T07:00:00.0000000",
+        "title":  "Gutfeld!",
+        "desc":  "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day\u0027s headlines.",
+        "end":  "2026-10-29T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T08:00:00.0000000",
+        "title":  "Live: FOX \u0026 Friends First",
+        "desc":  "Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.",
+        "end":  "2026-10-29T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T10:00:00.0000000",
+        "title":  "Live: FOX and Friends",
+        "desc":  "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the news.",
+        "end":  "2026-10-29T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T13:00:00.0000000",
+        "title":  "Live: America\u0027s Newsroom",
+        "desc":  "America\u0027s Newsroom co-anchored by Bill Hemmer and Dana Perino, a show geared toward providing hard news and interviews with key newsmakers.",
+        "end":  "2026-10-29T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T15:00:00.0000000",
+        "title":  "Live: The Faulkner Focus",
+        "desc":  "Emmy-winning journalist Harris Faulkner provides the news with insightful analysis and interviews with some of the top newsmakers.",
+        "end":  "2026-10-29T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T16:00:00.0000000",
+        "title":  "Live: Outnumbered",
+        "desc":  "Four female panelists and one male colleague share their perspectives on the day\u0027s top news stories.",
+        "end":  "2026-10-29T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T17:00:00.0000000",
+        "title":  "Live: America Reports",
+        "desc":  "A look at the news and headlines with Sandra Smith and John Roberts.",
+        "end":  "2026-10-29T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T19:00:00.0000000",
+        "title":  "Live: The Story With Martha MacCallum",
+        "desc":  "Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; \"The Story\" captures the voices that need to be heard and the people at the center of every history-shaping moment.",
+        "end":  "2026-10-29T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T20:00:00.0000000",
+        "title":  "Live: The Will Cain Show",
+        "desc":  "Featuring Cain\u0027s perspective through conversations with newsmakers across politics, culture and sports.",
+        "end":  "2026-10-29T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T21:00:00.0000000",
+        "title":  "Live: The Five",
+        "desc":  "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
+        "end":  "2026-10-29T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T22:00:00.0000000",
+        "title":  "Live: Special Report With Bret Baier",
+        "desc":  "Former Fox News chief White House correspondent Bret Baier takes a closer look at political stories from Washington, D.C.",
+        "end":  "2026-10-29T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T23:00:00.0000000",
+        "title":  "Live: The Ingraham Angle",
+        "desc":  "Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.",
         "end":  "2026-10-30T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-30T00:00:00.0000000",
+        "title":  "Live: Jesse Watters Primetime",
+        "desc":  "Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.",
+        "end":  "2026-10-31T00:00:00.0000000"
     },
     {
         "start":  "2026-10-29T00:00:00.0000000",
@@ -405,6 +261,150 @@
         "start":  "2026-10-29T04:00:00.0000000",
         "title":  "The Five",
         "desc":  "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
+        "end":  "2026-10-29T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T05:00:00.0000000",
+        "title":  "Jesse Watters Primetime",
+        "desc":  "Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.",
+        "end":  "2026-10-29T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T06:00:00.0000000",
+        "title":  "Hannity",
+        "desc":  "Sean Hannity showcases his candid, provocative style and conservative commentary on politics and the American agenda.",
+        "end":  "2026-10-29T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T07:00:00.0000000",
+        "title":  "Gutfeld!",
+        "desc":  "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day\u0027s headlines.",
+        "end":  "2026-10-29T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T08:00:00.0000000",
+        "title":  "Live: FOX \u0026 Friends First",
+        "desc":  "Hosts Todd Piro and Carley Shimkus present all the headlines viewers may have missed overnight, along with a preview of upcoming news events.",
+        "end":  "2026-10-29T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T10:00:00.0000000",
+        "title":  "Live: FOX and Friends",
+        "desc":  "Co-hosts Steve Doocy, Ainsley Earhardt, Brian Kilmeade and Lawrence Jones highlight the news.",
+        "end":  "2026-10-29T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T13:00:00.0000000",
+        "title":  "Live: America\u0027s Newsroom",
+        "desc":  "America\u0027s Newsroom co-anchored by Bill Hemmer and Dana Perino, a show geared toward providing hard news and interviews with key newsmakers.",
+        "end":  "2026-10-29T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T15:00:00.0000000",
+        "title":  "Live: The Faulkner Focus",
+        "desc":  "Emmy-winning journalist Harris Faulkner provides the news with insightful analysis and interviews with some of the top newsmakers.",
+        "end":  "2026-10-29T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T16:00:00.0000000",
+        "title":  "Live: Outnumbered",
+        "desc":  "Four female panelists and one male colleague share their perspectives on the day\u0027s top news stories.",
+        "end":  "2026-10-29T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T17:00:00.0000000",
+        "title":  "Live: America Reports",
+        "desc":  "A look at the news and headlines with Sandra Smith and John Roberts.",
+        "end":  "2026-10-29T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T19:00:00.0000000",
+        "title":  "Live: The Story With Martha MacCallum",
+        "desc":  "Martha MacCallum brings the story of the times with her tough but fair interviews and straightforward analysis; \"The Story\" captures the voices that need to be heard and the people at the center of every history-shaping moment.",
+        "end":  "2026-10-29T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T20:00:00.0000000",
+        "title":  "Live: The Will Cain Show",
+        "desc":  "Featuring Cain\u0027s perspective through conversations with newsmakers across politics, culture and sports.",
+        "end":  "2026-10-29T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T21:00:00.0000000",
+        "title":  "Live: The Five",
+        "desc":  "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
+        "end":  "2026-10-29T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T22:00:00.0000000",
+        "title":  "Live: Special Report With Bret Baier",
+        "desc":  "Former Fox News chief White House correspondent Bret Baier takes a closer look at political stories from Washington, D.C.",
+        "end":  "2026-10-29T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-29T23:00:00.0000000",
+        "title":  "Live: The Ingraham Angle",
+        "desc":  "Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.",
         "end":  "2026-10-30T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-30T00:00:00.0000000",
+        "title":  "Live: Jesse Watters Primetime",
+        "desc":  "Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.",
+        "end":  "2026-10-30T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-30T01:00:00.0000000",
+        "title":  "Live: Hannity",
+        "desc":  "Sean Hannity showcases his candid, provocative style and conservative commentary on politics and the American agenda.",
+        "end":  "2026-10-30T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-30T02:00:00.0000000",
+        "title":  "Gutfeld!",
+        "desc":  "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day\u0027s headlines.",
+        "end":  "2026-10-30T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-30T03:00:00.0000000",
+        "title":  "Live: Fox News at Night",
+        "desc":  "Hard news and analysis of compelling stories from Washington, D.C., and across the country; journalists provide viewers with must-see information and consequential news.",
+        "end":  "2026-10-30T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-30T04:00:00.0000000",
+        "title":  "The Five",
+        "desc":  "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
+        "end":  "2026-10-31T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-30T00:00:00.0000000",
+        "title":  "Live: Jesse Watters Primetime",
+        "desc":  "Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.",
+        "end":  "2026-10-30T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-30T01:00:00.0000000",
+        "title":  "Live: Hannity",
+        "desc":  "Sean Hannity showcases his candid, provocative style and conservative commentary on politics and the American agenda.",
+        "end":  "2026-10-30T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-30T02:00:00.0000000",
+        "title":  "Gutfeld!",
+        "desc":  "Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day\u0027s headlines.",
+        "end":  "2026-10-30T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-30T03:00:00.0000000",
+        "title":  "Live: Fox News at Night",
+        "desc":  "Hard news and analysis of compelling stories from Washington, D.C., and across the country; journalists provide viewers with must-see information and consequential news.",
+        "end":  "2026-10-30T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-10-30T04:00:00.0000000",
+        "title":  "The Five",
+        "desc":  "Dana Perino, Greg Gutfeld and Jesse Watters and rotating liberal co-hosts Jessica Tarlov and Harold Ford Jr. discuss and debate the hot issues across the spectrum from politics to pop culture.",
+        "end":  "2026-10-31T00:00:00.0000000"
     }
 ]
