@@ -12,8 +12,6 @@ http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 
 
-#EXTINF:-1 tvg-name="FOX 5 New York NY (WNYW)" tvg-logo="https://i.imgur.com/2ZjwRof.png" group-title="US News" tvg-provider="WGP.ENG" tvg-id="469512",FOX 5 New York NY (WNYW)
-https://aegis-cloudfront-1.tubi.video/36a435c5-f70a-411a-b237-e32738c486a8/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX Sports 1" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/fs1_logo_2015_blue-4k_2.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="465291",FOX Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
