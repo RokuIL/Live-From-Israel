@@ -1,131 +1,5 @@
 [
     {
-        "start":  "2026-10-29T00:00:00.0000000",
-        "title":  "Through the Night",
-        "desc":  "",
-        "end":  "2026-10-29T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-29T01:00:00.0000000",
-        "title":  "Through the Night",
-        "desc":  "",
-        "end":  "2026-10-29T01:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-29T01:30:00.0000000",
-        "title":  "â‹— Maybank Championship, LPGA Tour Golf. Day 1",
-        "desc":  "",
-        "end":  "2026-10-29T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-29T06:30:00.0000000",
-        "title":  "â‹— Wistron Ladies Open, Ladies European Golf Tour. Day 1",
-        "desc":  "",
-        "end":  "2026-10-29T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-29T08:00:00.0000000",
-        "title":  "â‹— Tri-Series One-Day International Cricket. 6th ODI: Sri Lanka v England",
-        "desc":  "",
-        "end":  "2026-10-29T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-29T16:00:00.0000000",
-        "title":  "â‹— Sports Desk",
-        "desc":  "",
-        "end":  "2026-10-29T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-29T17:00:00.0000000",
-        "title":  "â‹— The Premier League Show",
-        "desc":  "",
-        "end":  "2026-10-29T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-29T18:00:00.0000000",
-        "title":  "The Premier League Show",
-        "desc":  "",
-        "end":  "2026-10-29T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-29T19:00:00.0000000",
-        "title":  "â‹— Sports Centre",
-        "desc":  "",
-        "end":  "2026-10-29T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-29T20:00:00.0000000",
-        "title":  "â‹— Mexico Open, PGA Tour Golf. Day 1",
-        "desc":  "",
-        "end":  "2026-10-29T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-29T23:00:00.0000000",
-        "title":  "â‹— NFL Football. Carolina Panthers at Green Bay Packers",
-        "desc":  "",
-        "end":  "2026-10-30T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-30T04:15:00.0000000",
-        "title":  "â‹— Maybank Championship, LPGA Tour Golf. Day 2",
-        "desc":  "",
-        "end":  "2026-10-30T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-30T06:30:00.0000000",
-        "title":  "â‹— Wistron Ladies Open, Ladies European Golf Tour. Day 2",
-        "desc":  "",
-        "end":  "2026-10-30T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-30T09:00:00.0000000",
-        "title":  "â‹— Test Cricket. 3rd Test, Day 4: South Africa v Australia",
-        "desc":  "",
-        "end":  "2026-10-30T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-30T16:30:00.0000000",
-        "title":  "â‹— Total Football",
-        "desc":  "",
-        "end":  "2026-10-30T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-30T17:00:00.0000000",
-        "title":  "â‹— The Premier League Show",
-        "desc":  "",
-        "end":  "2026-10-30T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-30T18:00:00.0000000",
-        "title":  "â‹— Formula 1. Mexico City Grand Prix: 1st Practice",
-        "desc":  "",
-        "end":  "2026-10-30T19:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-30T19:30:00.0000000",
-        "title":  "â‹— EFL Championship. Sheffield United v Wrexham",
-        "desc":  "",
-        "end":  "2026-10-30T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-30T22:00:00.0000000",
-        "title":  "â‹— Formula 1. Mexico City Grand Prix: 2nd Practice",
-        "desc":  "",
-        "end":  "2026-10-30T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-10-30T23:30:00.0000000",
-        "title":  "â‹— Through the Night",
-        "desc":  "",
-        "end":  "2026-10-31T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-10-31T00:00:00.0000000",
-        "title":  "Through the Night",
-        "desc":  "",
-        "end":  "2026-11-01T00:00:00.0000000"
-    },
-    {
         "start":  "2026-10-30T04:15:00.0000000",
         "title":  "â‹— Maybank Championship, LPGA Tour Golf. Day 2",
         "desc":  "",
@@ -406,5 +280,95 @@
         "title":  "â‹— NFL Football. TBA at TBA",
         "desc":  "",
         "end":  "2026-11-02T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-01T00:00:00.0000000",
+        "title":  "â‹— WNBA Basketball. Finals, Game 7: Atlanta Dream at Golden State Valkyries",
+        "desc":  "",
+        "end":  "2026-11-01T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-01T02:30:00.0000000",
+        "title":  "â‹— Maybank Championship, LPGA Tour Golf. Day 4",
+        "desc":  "",
+        "end":  "2026-11-01T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-01T07:30:00.0000000",
+        "title":  "â‹— Sky Sports Breakfast",
+        "desc":  "",
+        "end":  "2026-11-01T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-01T08:00:00.0000000",
+        "title":  "â‹— Sky Sports Breakfast",
+        "desc":  "",
+        "end":  "2026-11-01T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-01T08:30:00.0000000",
+        "title":  "â‹— Sky Sports Breakfast",
+        "desc":  "",
+        "end":  "2026-11-01T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-01T09:00:00.0000000",
+        "title":  "â‹— The Sunday Supplement",
+        "desc":  "",
+        "end":  "2026-11-01T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-01T11:00:00.0000000",
+        "title":  "â‹— Super Sunday Pre-Match",
+        "desc":  "",
+        "end":  "2026-11-01T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-01T11:30:00.0000000",
+        "title":  "â‹— WSL. London City Lionesses v Manchester City",
+        "desc":  "",
+        "end":  "2026-11-01T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-01T14:00:00.0000000",
+        "title":  "â‹— Scottish Premiership Football. Falkirk v Celtic",
+        "desc":  "",
+        "end":  "2026-11-01T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-01T15:00:00.0000000",
+        "title":  "â‹— Premier League. Liverpool v Arsenal",
+        "desc":  "",
+        "end":  "2026-11-01T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-01T19:30:00.0000000",
+        "title":  "â‹— Formula 1. Mexico City Grand Prix: Grand Prix Sunday",
+        "desc":  "",
+        "end":  "2026-11-01T19:55:00.0000000"
+    },
+    {
+        "start":  "2026-11-01T19:55:00.0000000",
+        "title":  "â‹— Formula 1. Mexico City Grand Prix: Race",
+        "desc":  "",
+        "end":  "2026-11-01T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-01T22:00:00.0000000",
+        "title":  "â‹— NFL Football. TBA at TBA",
+        "desc":  "",
+        "end":  "2026-11-02T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-02T00:30:00.0000000",
+        "title":  "â‹— Football Night in America",
+        "desc":  "",
+        "end":  "2026-11-02T01:10:00.0000000"
+    },
+    {
+        "start":  "2026-11-02T01:10:00.0000000",
+        "title":  "â‹— NFL Football. Philadelphia Eagles at Washington Commanders",
+        "desc":  "",
+        "end":  "2026-11-03T00:00:00.0000000"
     }
 ]
