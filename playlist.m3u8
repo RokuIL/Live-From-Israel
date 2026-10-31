@@ -16,8 +16,12 @@ http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 
 
 #EXTINF:-1 tvg-name="FOX Sports 1" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/fs1_logo_2015_blue-4k_2.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="465291",FOX Sports 1
+https://tvsen7.aynascope.net/foxsports1/index.m3u8
+#EXTINF:-1 tvg-name="FOX Sports 1" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/fs1_logo_2015_blue-4k_2.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="465291",FOX Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
+#EXTINF:-1 tvg-name="FOX Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/960px-FS2_logo_2015.svg.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="465355" tvg-backup-provider="XMLTV" tvg-backup-id="fox-sports2-us",FOX Sports 2
+https://tvsen7.aynascope.net/foxsports2/index.m3u8
 
 #EXTINF:-1 tvg-name="NBC Sports NOW" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="485735" tvg-backup-provider="XMLTV" tvg-backup-id="nbc-sports-us-hd",NBC Sports NOW
 https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
@@ -29,8 +33,6 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_cha
 
 
 
-#EXTINF:-1 tvg-name="NFL Channel" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="Sports",NFL Channel
-https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="465311" tvg-backup-provider="XMLTV" tvg-backup-id="nfl-network-us-hd",NFL Network
 http://198.58.104.90:8989/nfl/index.m3u8
@@ -38,8 +40,6 @@ http://198.58.104.90:8989/nfl/index.m3u8
 #EXTINF:-1 tvg-name="MLB" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports",MLB
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MLB" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports",MLB Channel
-https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
 
 
 
