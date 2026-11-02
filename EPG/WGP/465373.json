@@ -1,221 +1,5 @@
 [
     {
-        "start":  "2026-11-01T02:30:00.0000000",
-        "title":  "ESPN Films",
-        "desc":  "Series of documentaries looking back through the history of sports.",
-        "end":  "2026-11-01T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T04:00:00.0000000",
-        "title":  "Live: College Football Final",
-        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
-        "end":  "2026-11-01T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T05:00:00.0000000",
-        "title":  "College Football Final",
-        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
-        "end":  "2026-11-01T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T06:00:00.0000000",
-        "title":  "College Football Final",
-        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
-        "end":  "2026-11-01T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T07:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-01T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T08:00:00.0000000",
-        "title":  "Live: Golf",
-        "desc":  "Action from golf tournaments around the world.",
-        "end":  "2026-11-01T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T11:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-01T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T12:00:00.0000000",
-        "title":  "NFL Matchup",
-        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
-        "end":  "2026-11-01T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T12:30:00.0000000",
-        "title":  "Peyton\u0027s Places",
-        "desc":  "John McEnroe explores tennis history alongside stars of the past and present.",
-        "end":  "2026-11-01T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T13:00:00.0000000",
-        "title":  "Live: 2026 TCS New York City Marathon",
-        "desc":  "The annual New York City Marathon winds its 26-mile course through the city\u0027s five boroughs and draws record numbers of participants, including the world\u0027s top runners.",
-        "end":  "2026-11-01T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T16:30:00.0000000",
-        "title":  "Live: Fantasy Focus Countdown",
-        "desc":  "Experts analyze the day\u0027s NFL games and predict which players might have big games.",
-        "end":  "2026-11-01T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T18:00:00.0000000",
-        "title":  "College Football Final",
-        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
-        "end":  "2026-11-01T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T19:00:00.0000000",
-        "title":  "College Football Final",
-        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
-        "end":  "2026-11-01T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T20:00:00.0000000",
-        "title":  "Live: Women\u0027s College Volleyball",
-        "desc":  "",
-        "end":  "2026-11-01T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T22:00:00.0000000",
-        "title":  "Live: NWSL Decision Day Whiparound Show",
-        "desc":  "",
-        "end":  "2026-11-02T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T00:30:00.0000000",
-        "title":  "Asia-Pacific Amateur Championship Highlights",
-        "desc":  "Golf highlights from Te Arai Links in New Zealand.",
-        "end":  "2026-11-02T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T01:00:00.0000000",
-        "title":  "Popdarts West Coast Wildcard",
-        "desc":  "",
-        "end":  "2026-11-02T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T02:00:00.0000000",
-        "title":  "X Games Presents",
-        "desc":  "An in-depth look at X Games action sports and athletes.",
-        "end":  "2026-11-02T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T03:00:00.0000000",
-        "title":  "2026 Red Bull Rampage Highlight Show",
-        "desc":  "Mountain biking highlights from the Red Bull Rampage.",
-        "end":  "2026-11-02T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T04:00:00.0000000",
-        "title":  "We\u0027re #1! The Story of 1990 ACC Football",
-        "desc":  "Revisiting the remarkable 1990 football season in the ACC, including two teams that spent time ranked No. 1.",
-        "end":  "2026-11-02T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T05:00:00.0000000",
-        "title":  "ESPN Films",
-        "desc":  "Series of documentaries looking back through the history of sports.",
-        "end":  "2026-11-02T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T06:00:00.0000000",
-        "title":  "PTI 25th Anniversary Special",
-        "desc":  "Celebrating the silver anniversary of Pardon the Interruption with a special double-episode event, marking a quarter-century of one of sports television\u0027s most enduring programs.",
-        "end":  "2026-11-02T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T06:30:00.0000000",
-        "title":  "ESPN Films",
-        "desc":  "Series of documentaries looking back through the history of sports.",
-        "end":  "2026-11-02T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T07:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 22 Arizona Wildcats visit the No. 13 Texas Tech Red Raiders for a Big 12 game. The Arizona Wildcats beat the Iowa State Cyclones 39-3 led by Noah Fifita, while the Texas Tech Red Raiders suffered a 37-24 loss to the Cincinnati Bearcats.",
-        "end":  "2026-11-02T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T09:00:00.0000000",
-        "title":  "Saban",
-        "desc":  "Saban and the \"Crimson Tide\" help restore hope and pride in the community after a storm.",
-        "end":  "2026-11-02T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T10:00:00.0000000",
-        "title":  "Saban",
-        "desc":  "Saban and the \"Crimson Tide\" help restore hope and pride in the community after a storm.",
-        "end":  "2026-11-02T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T11:00:00.0000000",
-        "title":  "Live: Unsportsmanlike with Evan, Canty and Michelle",
-        "desc":  "Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it\u0027s all about.",
-        "end":  "2026-11-02T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T13:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-02T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T14:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-02T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T15:00:00.0000000",
-        "title":  "Live: Get Up",
-        "desc":  "ESPN\u0027s morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company\u0027s New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio\u0027s longt",
-        "end":  "2026-11-02T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T17:00:00.0000000",
-        "title":  "Live: The Pat McAfee Show",
-        "desc":  "Former NFL punter Pat McAfee highlights the day\u0027s top stories.",
-        "end":  "2026-11-02T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T19:00:00.0000000",
-        "title":  "Overreaction Monday",
-        "desc":  "A weekly staple on \"The Rich Eisen Show\" since 2018, \"Overreaction Monday\" is now also an extended podcast with Rich and Chris Brockman debating the latest in the NFL.",
-        "end":  "2026-11-02T19:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T19:30:00.0000000",
-        "title":  "Live: Women\u0027s College Basketball",
-        "desc":  "From Porte de La Chapelle Arena in Paris, France.",
-        "end":  "2026-11-02T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T21:30:00.0000000",
-        "title":  "The Breakdown With Peyton and Kuechly",
-        "desc":  "Pro Football Hall of Famers Peyton Manning and Luke Kuechly go inside the film room to preview some of the biggest upcoming Monday Night Football games and matchups of the NFL season.",
-        "end":  "2026-11-02T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T22:00:00.0000000",
-        "title":  "The Rich Eisen Show",
-        "desc":  "The Rich Eisen Show mixes expert sports analysis with pop culture, humor and insightful interviews. Rich attracts the most recognizable names across sports and entertainment.",
-        "end":  "2026-11-02T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T23:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "From Benchmark International Arena in Tampa, Fla.",
-        "end":  "2026-11-03T00:00:00.0000000"
-    },
-    {
         "start":  "2026-11-02T00:30:00.0000000",
         "title":  "Asia-Pacific Amateur Championship Highlights",
         "desc":  "Golf highlights from Te Arai Links in New Zealand.",
@@ -363,7 +147,121 @@
         "start":  "2026-11-03T04:30:00.0000000",
         "title":  "Overreaction Monday",
         "desc":  "A weekly staple on \"The Rich Eisen Show\" since 2018, \"Overreaction Monday\" is now also an extended podcast with Rich and Chris Brockman debating the latest in the NFL.",
+        "end":  "2026-11-03T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T05:00:00.0000000",
+        "title":  "Saban",
+        "desc":  "Saban uses the discipline he learned from his father to inspire Alabama against rival Florida.",
+        "end":  "2026-11-03T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T06:00:00.0000000",
+        "title":  "Saban",
+        "desc":  "Saban and the \"Crimson Tide\" help restore hope and pride in the community after a storm.",
+        "end":  "2026-11-03T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T07:00:00.0000000",
+        "title":  "Saban",
+        "desc":  "Saban\u0027s bold coaching hire brings wins, tension, and a decision that could define his legacy.",
+        "end":  "2026-11-03T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T08:00:00.0000000",
+        "title":  "Pardon the Interruption",
+        "desc":  "The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.",
+        "end":  "2026-11-03T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T08:30:00.0000000",
+        "title":  "Overreaction Monday",
+        "desc":  "A weekly staple on \"The Rich Eisen Show\" since 2018, \"Overreaction Monday\" is now also an extended podcast with Rich and Chris Brockman debating the latest in the NFL.",
+        "end":  "2026-11-03T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T09:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Cincinnati Bearcats (5-2) host the No. 6 Utah Utes (7-0) for a Big 12 matchup at Nippert Stadium. Utah seeks to extend its winning streak to eight games after a 21-13 victory over Houston. Cincinnati beat Texas Tech 37-24 behind JC French IV.",
+        "end":  "2026-11-03T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T11:00:00.0000000",
+        "title":  "Live: Unsportsmanlike with Evan, Canty and Michelle",
+        "desc":  "Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it\u0027s all about.",
+        "end":  "2026-11-03T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T13:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-03T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T14:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-03T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T15:00:00.0000000",
+        "title":  "Live: Get Up",
+        "desc":  "ESPN\u0027s morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company\u0027s New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio\u0027s longt",
+        "end":  "2026-11-03T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T17:00:00.0000000",
+        "title":  "Live: First Take",
+        "desc":  "Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day\u0027s trending sports topics and under-the-radar news. They\u0027re regularly joined by veteran analysts and the top guests in sports and entertainment.",
+        "end":  "2026-11-03T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T19:00:00.0000000",
+        "title":  "College Football Live",
+        "desc":  "Want to know up-to-the-minute reports about your favorite college football team? ESPN has it covered with this weekday studio show, a roundtable format that emphasizes discussion and opinions on the sport\u0027s biggest stories and newsmakers. The half-hour program features a rotating roster of analysts that includes coaches, former players, and media personalities.",
+        "end":  "2026-11-03T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T19:30:00.0000000",
+        "title":  "Bad Beats",
+        "desc":  "A look at the moments that drove sports bettors wild during recent games.",
+        "end":  "2026-11-03T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T20:00:00.0000000",
+        "title":  "Big Day With Peter Schrager",
+        "desc":  "Peter Schrager\u0027s daily show will feature rotating panelists focusing heavily on the NFL while also providing coverage of other major sports stories.",
+        "end":  "2026-11-03T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T21:00:00.0000000",
+        "title":  "NBA Today",
+        "desc":  "In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.",
+        "end":  "2026-11-03T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T22:00:00.0000000",
+        "title":  "NFL Live",
+        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+        "end":  "2026-11-03T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T23:00:00.0000000",
+        "title":  "Pardon the Interruption",
+        "desc":  "The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.",
+        "end":  "2026-11-03T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T23:30:00.0000000",
+        "title":  "Bad Beats",
+        "desc":  "A look at the moments that drove sports bettors wild during recent games.",
         "end":  "2026-11-04T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T00:00:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "The Akron Zips clash with Ohio Bobcats in Tuesday MAC Action. Akron looks to Kyan Mason after a 129-yard receiving display to snap a league slide, while Ohio relies on Dom Dorwart following 125 receiving yards in a 24-20 win to claim two points.",
+        "end":  "2026-11-05T00:00:00.0000000"
     },
     {
         "start":  "2026-11-03T01:00:00.0000000",
@@ -387,6 +285,150 @@
         "start":  "2026-11-03T04:30:00.0000000",
         "title":  "Overreaction Monday",
         "desc":  "A weekly staple on \"The Rich Eisen Show\" since 2018, \"Overreaction Monday\" is now also an extended podcast with Rich and Chris Brockman debating the latest in the NFL.",
+        "end":  "2026-11-03T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T05:00:00.0000000",
+        "title":  "Saban",
+        "desc":  "Saban uses the discipline he learned from his father to inspire Alabama against rival Florida.",
+        "end":  "2026-11-03T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T06:00:00.0000000",
+        "title":  "Saban",
+        "desc":  "Saban and the \"Crimson Tide\" help restore hope and pride in the community after a storm.",
+        "end":  "2026-11-03T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T07:00:00.0000000",
+        "title":  "Saban",
+        "desc":  "Saban\u0027s bold coaching hire brings wins, tension, and a decision that could define his legacy.",
+        "end":  "2026-11-03T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T08:00:00.0000000",
+        "title":  "Pardon the Interruption",
+        "desc":  "The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.",
+        "end":  "2026-11-03T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T08:30:00.0000000",
+        "title":  "Overreaction Monday",
+        "desc":  "A weekly staple on \"The Rich Eisen Show\" since 2018, \"Overreaction Monday\" is now also an extended podcast with Rich and Chris Brockman debating the latest in the NFL.",
+        "end":  "2026-11-03T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T09:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Cincinnati Bearcats (5-2) host the No. 6 Utah Utes (7-0) for a Big 12 matchup at Nippert Stadium. Utah seeks to extend its winning streak to eight games after a 21-13 victory over Houston. Cincinnati beat Texas Tech 37-24 behind JC French IV.",
+        "end":  "2026-11-03T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T11:00:00.0000000",
+        "title":  "Live: Unsportsmanlike with Evan, Canty and Michelle",
+        "desc":  "Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it\u0027s all about.",
+        "end":  "2026-11-03T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T13:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-03T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T14:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-03T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T15:00:00.0000000",
+        "title":  "Live: Get Up",
+        "desc":  "ESPN\u0027s morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company\u0027s New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio\u0027s longt",
+        "end":  "2026-11-03T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T17:00:00.0000000",
+        "title":  "Live: First Take",
+        "desc":  "Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day\u0027s trending sports topics and under-the-radar news. They\u0027re regularly joined by veteran analysts and the top guests in sports and entertainment.",
+        "end":  "2026-11-03T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T19:00:00.0000000",
+        "title":  "College Football Live",
+        "desc":  "Want to know up-to-the-minute reports about your favorite college football team? ESPN has it covered with this weekday studio show, a roundtable format that emphasizes discussion and opinions on the sport\u0027s biggest stories and newsmakers. The half-hour program features a rotating roster of analysts that includes coaches, former players, and media personalities.",
+        "end":  "2026-11-03T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T19:30:00.0000000",
+        "title":  "Bad Beats",
+        "desc":  "A look at the moments that drove sports bettors wild during recent games.",
+        "end":  "2026-11-03T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T20:00:00.0000000",
+        "title":  "Big Day With Peter Schrager",
+        "desc":  "Peter Schrager\u0027s daily show will feature rotating panelists focusing heavily on the NFL while also providing coverage of other major sports stories.",
+        "end":  "2026-11-03T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T21:00:00.0000000",
+        "title":  "NBA Today",
+        "desc":  "In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.",
+        "end":  "2026-11-03T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T22:00:00.0000000",
+        "title":  "NFL Live",
+        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+        "end":  "2026-11-03T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T23:00:00.0000000",
+        "title":  "Pardon the Interruption",
+        "desc":  "The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.",
+        "end":  "2026-11-03T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T23:30:00.0000000",
+        "title":  "Bad Beats",
+        "desc":  "A look at the moments that drove sports bettors wild during recent games.",
         "end":  "2026-11-04T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T00:00:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "The Akron Zips clash with Ohio Bobcats in Tuesday MAC Action. Akron looks to Kyan Mason after a 129-yard receiving display to snap a league slide, while Ohio relies on Dom Dorwart following 125 receiving yards in a 24-20 win to claim two points.",
+        "end":  "2026-11-04T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T03:00:00.0000000",
+        "title":  "NFL Live",
+        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+        "end":  "2026-11-04T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T04:00:00.0000000",
+        "title":  "Saban",
+        "desc":  "Saban\u0027s bold coaching hire brings wins, tension, and a decision that could define his legacy.",
+        "end":  "2026-11-05T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T00:00:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "The Akron Zips clash with Ohio Bobcats in Tuesday MAC Action. Akron looks to Kyan Mason after a 129-yard receiving display to snap a league slide, while Ohio relies on Dom Dorwart following 125 receiving yards in a 24-20 win to claim two points.",
+        "end":  "2026-11-04T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T03:00:00.0000000",
+        "title":  "NFL Live",
+        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+        "end":  "2026-11-04T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T04:00:00.0000000",
+        "title":  "Saban",
+        "desc":  "Saban\u0027s bold coaching hire brings wins, tension, and a decision that could define his legacy.",
+        "end":  "2026-11-05T00:00:00.0000000"
     }
 ]

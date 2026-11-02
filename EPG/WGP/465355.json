@@ -1,272 +1,158 @@
 [
     {
-        "start":  "2026-11-01T00:00:00.0000000",
-        "title":  "Live: Horse Racing",
-        "desc":  "The best racehorses square off in the premier races from across the country.",
-        "end":  "2026-11-01T03:00:00.0000000"
+        "start":  "2026-11-02T01:30:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "Wild World\u0027s 3rd stop takes the audience back to the north to the spectacular Canadian province of British Columbia for the Cloverdale Rodeo and Country Fair.",
+        "end":  "2026-11-02T02:00:00.0000000"
     },
     {
-        "start":  "2026-11-01T03:00:00.0000000",
+        "start":  "2026-11-02T02:00:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "40 years and running the National Chuckwagon Races is a sporting event that moves at its own pace; in a world where everything is designed to be flashy and fast - these races remind us that ole sturdy and reliable wagons can still go pretty fast too.",
+        "end":  "2026-11-02T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-02T03:00:00.0000000",
+        "title":  "Live: SpeedFreaks",
+        "desc":  "Go in-depth with the big names in racing, showcasing a side of these athletes rarely seen with a unique interview style and flair combining elements of commentary, entertainment and lifestyle.",
+        "end":  "2026-11-02T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-02T04:00:00.0000000",
+        "title":  "NHRA Drag Racing",
+        "desc":  "From The Strip at Las Vegas Motor Speedway in Las Vegas.",
+        "end":  "2026-11-02T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-02T06:00:00.0000000",
+        "title":  "NHRA Drag Racing",
+        "desc":  "From The Strip at Las Vegas Motor Speedway in Las Vegas.",
+        "end":  "2026-11-02T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-02T09:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "All the action from college football.",
+        "end":  "2026-11-02T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-02T11:00:00.0000000",
+        "title":  "MLS Soccer",
+        "desc":  "The Portland Timbers (11-14-7) host Houston Dynamo FC (14-9-9) in an MLS game at Providence Park. Portland, 11th in the Western Conference with 40 points, welcome a fourth-place Houston side with 51 points after both clubs won on the road Oct. 28.",
+        "end":  "2026-11-02T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-02T13:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Iowa State Cyclones meet the No. 24 Oklahoma State Cowboys in a Big 12 Conference game at Jack Trice Stadium. Drew Mestemaker leads Oklahoma State with 20 touchdowns, while Iowa State aims to break a two-game skid behind Jaylen Raynor.",
+        "end":  "2026-11-02T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-02T16:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Arizona State Devils (4-3) take on the No. 8 BYU Cougars (6-1) at LaVell Edwards Stadium. Arizona State beat Kansas State 28-17 behind Cardae Mack, while BYU fell to UCF 39-31 and relies on quarterback Bear Bachmeier who has 11 TDs this season.",
+        "end":  "2026-11-02T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-02T17:00:00.0000000",
+        "title":  "Women\u0027s College Basketball",
+        "desc":  "The Villanova Wildcats face the Notre Dame Fighting Irish for an Eternal City Tip-Off game. Guard Jasmine Bascoe leads the Wildcats, while guard Hannah Hidalgo powers the Fighting Irish. Both teams aim to build early momentum this season.",
+        "end":  "2026-11-02T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-02T19:00:00.0000000",
+        "title":  "College Basketball",
+        "desc":  "The Fighting Irish face the Wildcats in the Eternal City Tip-Off at the Palazzo dello Sport. The Wildcats look to graduate student Wade Chiddick, and the Fighting Irish rely on sophomore Tommy Ahneman. Villanova holds a 19-17 advantage in the series.",
+        "end":  "2026-11-02T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-02T21:00:00.0000000",
+        "title":  "2026 FIFA U-17 Women\u0027s World Cup",
+        "desc":  "Quarterfinal.",
+        "end":  "2026-11-02T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-02T23:00:00.0000000",
+        "title":  "NHRA Drag Racing",
+        "desc":  "From The Strip at Las Vegas Motor Speedway in Las Vegas.",
+        "end":  "2026-11-03T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T02:00:00.0000000",
+        "title":  "NHRA Pro Mod Series",
+        "desc":  "From World Wide Technology Raceway in Madison, Ill.",
+        "end":  "2026-11-03T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T02:30:00.0000000",
+        "title":  "Live: Horse Racing",
+        "desc":  "From Flemington Racecourse in Melbourne, Australia.",
+        "end":  "2026-11-03T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T04:30:00.0000000",
+        "title":  "College Football",
+        "desc":  "The No. 25 Wisconsin Badgers and the Iowa Hawkeyes meet in a Big Ten rivalry matchup at Kinnick Stadium. Quarterback Colton Joseph leads Wisconsin with 11 touchdowns, while Iowa aims for momentum behind quarterback Hank Brown\u0027s six touchdowns.",
+        "end":  "2026-11-03T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T07:30:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Illinois Fighting Illini visit the Maryland Terrapins for a Big Ten game. The Illinois Fighting Illini beat the Oregon Ducks 21-10 led by Aidan Laughery, and the Maryland Terrapins fell 37-30 to the Rutgers Scarlet Knights last week.",
+        "end":  "2026-11-03T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T10:30:00.0000000",
+        "title":  "The Gronk \u0026 Jules Show",
+        "desc":  "Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
+        "end":  "2026-11-03T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T13:30:00.0000000",
+        "title":  "MotoGP Racing",
+        "desc":  "From Petronas Sepang International Circuit in Sepang, Malaysia.",
+        "end":  "2026-11-03T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T14:00:00.0000000",
+        "title":  "MotoGP Racing",
+        "desc":  "From Petronas Sepang International Circuit in Sepang, Malaysia.",
+        "end":  "2026-11-03T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T15:00:00.0000000",
+        "title":  "AMA National Arenacross Championship",
+        "desc":  "From F\u0026M Bank Arena in Clarksville, Tenn.",
+        "end":  "2026-11-03T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T16:00:00.0000000",
+        "title":  "Endurocross",
+        "desc":  "From Orleans Arena in Las Vegas, Nev.",
+        "end":  "2026-11-03T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T17:00:00.0000000",
         "title":  "NASCAR Craftsman Truck Series",
         "desc":  "Martinsville Speedway hosts the Black\u0027s Tire 200 in NASCAR Truck Series playoff action. Points leader Kaden Honeycutt leans on his 2,371-point total after a Phoenix victory, while Layne Riggs counts on his Charlotte win to chase down another victory.",
-        "end":  "2026-11-01T05:00:00.0000000"
+        "end":  "2026-11-03T19:00:00.0000000"
     },
     {
-        "start":  "2026-11-01T05:00:00.0000000",
-        "title":  "2026 FIFA U-17 Women\u0027s World Cup",
-        "desc":  "Round of 16.",
-        "end":  "2026-11-01T08:00:00.0000000"
+        "start":  "2026-11-03T19:00:00.0000000",
+        "title":  "NHRA Drag Racing",
+        "desc":  "From The Strip at Las Vegas Motor Speedway in Las Vegas.",
+        "end":  "2026-11-03T22:00:00.0000000"
     },
     {
-        "start":  "2026-11-01T08:00:00.0000000",
+        "start":  "2026-11-03T22:00:00.0000000",
         "title":  "Speed With Harvick \u0026 Buxton",
-        "desc":  "Will Buxton joins Scott McLaughlin, Joey Logano and James Hinchcliffe to discuss INDYCAR expansion, Talladega controversy and the F1 United States GP.",
-        "end":  "2026-11-01T08:30:00.0000000"
+        "desc":  "Let\u0027s talk racing; Kevin Harvick and Will Buxton celebrate the world of motorsports.",
+        "end":  "2026-11-03T23:00:00.0000000"
     },
     {
-        "start":  "2026-11-01T08:30:00.0000000",
-        "title":  "Kevin Harvick\u0027s Happy Hour",
-        "desc":  "NASCAR legend Kevin Harvick shares his expert opinion on NASCAR news and interviews the biggest names in sports and the racing world.",
-        "end":  "2026-11-01T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T09:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 25 Wisconsin Badgers and the Iowa Hawkeyes meet in a Big Ten rivalry matchup at Kinnick Stadium. Quarterback Colton Joseph leads Wisconsin with 11 touchdowns, while Iowa aims for momentum behind quarterback Hank Brown\u0027s six touchdowns.",
-        "end":  "2026-11-01T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T12:00:00.0000000",
-        "title":  "NHRA Sportsman Series",
-        "desc":  "From Texas Motorplex in Ennis, Texas.",
-        "end":  "2026-11-01T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T13:00:00.0000000",
-        "title":  "AMA National Arenacross Championship",
-        "desc":  "From F\u0026M Bank Arena in Clarksville, Tenn.",
-        "end":  "2026-11-01T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T14:00:00.0000000",
-        "title":  "AMA National Arenacross Championship",
-        "desc":  "From F\u0026M Bank Arena in Clarksville, Tenn.",
-        "end":  "2026-11-01T14:48:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T14:48:00.0000000",
-        "title":  "Live: 2026 FIFA U-17 Women\u0027s World Cup",
-        "desc":  "Coverage of the tenth edition of the annual international women\u0027s soccer tournament contested by under-17 national teams. From Morocco.",
-        "end":  "2026-11-01T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T17:00:00.0000000",
-        "title":  "Live: Horse Racing",
-        "desc":  "The best racehorses square off in the premier races from across the country.",
-        "end":  "2026-11-01T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T19:00:00.0000000",
-        "title":  "All In: Indycar",
-        "desc":  "As motorsports history unfolds within the nation\u0027s capital, superstar in the making, David Malukas, readies himself for one of the biggest tests of his young career.",
-        "end":  "2026-11-01T19:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T19:30:00.0000000",
-        "title":  "All In: Indycar",
-        "desc":  "After capturing his 5th NTT IndyCar Series Championship in Milwaukee, the final race of the season at Laguna Seca has turned into a celebration of Alex Palou\u0027s dominance. All eyes turn to the Battle for P2, where the next challenger hopes to emerge.",
-        "end":  "2026-11-01T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T20:00:00.0000000",
-        "title":  "Live: Horse Racing",
-        "desc":  "The best racehorses square off in the premiere races from across the country.",
-        "end":  "2026-11-01T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T21:30:00.0000000",
+        "start":  "2026-11-03T23:00:00.0000000",
         "title":  "College Basketball",
-        "desc":  "The Fighting Irish face the Wildcats in the Eternal City Tip-Off at the Palazzo dello Sport. The Wildcats look to graduate student Wade Chiddick, and the Fighting Irish rely on sophomore Tommy Ahneman. Villanova holds a 19-17 advantage in the series.",
-        "end":  "2026-11-01T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T23:30:00.0000000",
-        "title":  "Women\u0027s College Basketball",
-        "desc":  "The Villanova Wildcats face the Notre Dame Fighting Irish for an Eternal City Tip-Off game. Guard Jasmine Bascoe leads the Wildcats, while guard Hannah Hidalgo powers the Fighting Irish. Both teams aim to build early momentum this season.",
-        "end":  "2026-11-02T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T01:30:00.0000000",
-        "title":  "Wild World of Western Sports",
-        "desc":  "Wild World\u0027s 3rd stop takes the audience back to the north to the spectacular Canadian province of British Columbia for the Cloverdale Rodeo and Country Fair.",
-        "end":  "2026-11-02T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T02:00:00.0000000",
-        "title":  "Wild World of Western Sports",
-        "desc":  "40 years and running the National Chuckwagon Races is a sporting event that moves at its own pace; in a world where everything is designed to be flashy and fast - these races remind us that ole sturdy and reliable wagons can still go pretty fast too.",
-        "end":  "2026-11-02T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T03:00:00.0000000",
-        "title":  "Live: SpeedFreaks",
-        "desc":  "Go in-depth with the big names in racing, showcasing a side of these athletes rarely seen with a unique interview style and flair combining elements of commentary, entertainment and lifestyle.",
-        "end":  "2026-11-02T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T04:00:00.0000000",
-        "title":  "NHRA Drag Racing",
-        "desc":  "From The Strip at Las Vegas Motor Speedway in Las Vegas.",
-        "end":  "2026-11-02T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T06:00:00.0000000",
-        "title":  "NHRA Drag Racing",
-        "desc":  "From The Strip at Las Vegas Motor Speedway in Las Vegas.",
-        "end":  "2026-11-02T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T09:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "All the action from college football.",
-        "end":  "2026-11-02T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T11:00:00.0000000",
-        "title":  "MLS Soccer",
-        "desc":  "The Portland Timbers (11-14-7) host Houston Dynamo FC (14-9-9) in an MLS game at Providence Park. Portland, 11th in the Western Conference with 40 points, welcome a fourth-place Houston side with 51 points after both clubs won on the road Oct. 28.",
-        "end":  "2026-11-02T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T13:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Iowa State Cyclones meet the No. 24 Oklahoma State Cowboys in a Big 12 Conference game at Jack Trice Stadium. Drew Mestemaker leads Oklahoma State with 20 touchdowns, while Iowa State aims to break a two-game skid behind Jaylen Raynor.",
-        "end":  "2026-11-02T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T16:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Arizona State Devils (4-3) take on the No. 8 BYU Cougars (6-1) at LaVell Edwards Stadium. Arizona State beat Kansas State 28-17 behind Cardae Mack, while BYU fell to UCF 39-31 and relies on quarterback Bear Bachmeier who has 11 TDs this season.",
-        "end":  "2026-11-02T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T17:00:00.0000000",
-        "title":  "Women\u0027s College Basketball",
-        "desc":  "The Villanova Wildcats face the Notre Dame Fighting Irish for an Eternal City Tip-Off game. Guard Jasmine Bascoe leads the Wildcats, while guard Hannah Hidalgo powers the Fighting Irish. Both teams aim to build early momentum this season.",
-        "end":  "2026-11-02T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T19:00:00.0000000",
-        "title":  "College Basketball",
-        "desc":  "The Fighting Irish face the Wildcats in the Eternal City Tip-Off at the Palazzo dello Sport. The Wildcats look to graduate student Wade Chiddick, and the Fighting Irish rely on sophomore Tommy Ahneman. Villanova holds a 19-17 advantage in the series.",
-        "end":  "2026-11-02T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T21:00:00.0000000",
-        "title":  "2026 FIFA U-17 Women\u0027s World Cup",
-        "desc":  "Quarterfinal.",
-        "end":  "2026-11-02T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T23:00:00.0000000",
-        "title":  "NHRA Drag Racing",
-        "desc":  "From The Strip at Las Vegas Motor Speedway in Las Vegas.",
-        "end":  "2026-11-03T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T01:30:00.0000000",
-        "title":  "Wild World of Western Sports",
-        "desc":  "Wild World\u0027s 3rd stop takes the audience back to the north to the spectacular Canadian province of British Columbia for the Cloverdale Rodeo and Country Fair.",
-        "end":  "2026-11-02T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T02:00:00.0000000",
-        "title":  "Wild World of Western Sports",
-        "desc":  "40 years and running the National Chuckwagon Races is a sporting event that moves at its own pace; in a world where everything is designed to be flashy and fast - these races remind us that ole sturdy and reliable wagons can still go pretty fast too.",
-        "end":  "2026-11-02T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T03:00:00.0000000",
-        "title":  "Live: SpeedFreaks",
-        "desc":  "Go in-depth with the big names in racing, showcasing a side of these athletes rarely seen with a unique interview style and flair combining elements of commentary, entertainment and lifestyle.",
-        "end":  "2026-11-02T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T04:00:00.0000000",
-        "title":  "NHRA Drag Racing",
-        "desc":  "From The Strip at Las Vegas Motor Speedway in Las Vegas.",
-        "end":  "2026-11-02T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T06:00:00.0000000",
-        "title":  "NHRA Drag Racing",
-        "desc":  "From The Strip at Las Vegas Motor Speedway in Las Vegas.",
-        "end":  "2026-11-02T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T09:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "All the action from college football.",
-        "end":  "2026-11-02T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T11:00:00.0000000",
-        "title":  "MLS Soccer",
-        "desc":  "The Portland Timbers (11-14-7) host Houston Dynamo FC (14-9-9) in an MLS game at Providence Park. Portland, 11th in the Western Conference with 40 points, welcome a fourth-place Houston side with 51 points after both clubs won on the road Oct. 28.",
-        "end":  "2026-11-02T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T13:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Iowa State Cyclones meet the No. 24 Oklahoma State Cowboys in a Big 12 Conference game at Jack Trice Stadium. Drew Mestemaker leads Oklahoma State with 20 touchdowns, while Iowa State aims to break a two-game skid behind Jaylen Raynor.",
-        "end":  "2026-11-02T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T16:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Arizona State Devils (4-3) take on the No. 8 BYU Cougars (6-1) at LaVell Edwards Stadium. Arizona State beat Kansas State 28-17 behind Cardae Mack, while BYU fell to UCF 39-31 and relies on quarterback Bear Bachmeier who has 11 TDs this season.",
-        "end":  "2026-11-02T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T17:00:00.0000000",
-        "title":  "Women\u0027s College Basketball",
-        "desc":  "The Villanova Wildcats face the Notre Dame Fighting Irish for an Eternal City Tip-Off game. Guard Jasmine Bascoe leads the Wildcats, while guard Hannah Hidalgo powers the Fighting Irish. Both teams aim to build early momentum this season.",
-        "end":  "2026-11-02T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T19:00:00.0000000",
-        "title":  "College Basketball",
-        "desc":  "The Fighting Irish face the Wildcats in the Eternal City Tip-Off at the Palazzo dello Sport. The Wildcats look to graduate student Wade Chiddick, and the Fighting Irish rely on sophomore Tommy Ahneman. Villanova holds a 19-17 advantage in the series.",
-        "end":  "2026-11-02T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T21:00:00.0000000",
-        "title":  "2026 FIFA U-17 Women\u0027s World Cup",
-        "desc":  "Quarterfinal.",
-        "end":  "2026-11-02T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T23:00:00.0000000",
-        "title":  "NHRA Drag Racing",
-        "desc":  "From The Strip at Las Vegas Motor Speedway in Las Vegas.",
-        "end":  "2026-11-03T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-03T02:00:00.0000000",
-        "title":  "NHRA Pro Mod Series",
-        "desc":  "From World Wide Technology Raceway in Madison, Ill.",
-        "end":  "2026-11-03T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-03T02:30:00.0000000",
-        "title":  "Live: Horse Racing",
-        "desc":  "From Flemington Racecourse in Melbourne, Australia.",
-        "end":  "2026-11-03T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-03T04:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 25 Wisconsin Badgers and the Iowa Hawkeyes meet in a Big Ten rivalry matchup at Kinnick Stadium. Quarterback Colton Joseph leads Wisconsin with 11 touchdowns, while Iowa aims for momentum behind quarterback Hank Brown\u0027s six touchdowns.",
+        "desc":  "The Memphis Tigers face the Iowa State Cyclones for an NCAA Division I college basketball game in Sioux Falls. The Memphis Tigers feature guard Jayden Reid, and the Iowa State Cyclones is paced by point guard Tamin Lipsey at Sanford Pentagon.",
         "end":  "2026-11-04T00:00:00.0000000"
     },
     {
@@ -285,6 +171,114 @@
         "start":  "2026-11-03T04:30:00.0000000",
         "title":  "College Football",
         "desc":  "The No. 25 Wisconsin Badgers and the Iowa Hawkeyes meet in a Big Ten rivalry matchup at Kinnick Stadium. Quarterback Colton Joseph leads Wisconsin with 11 touchdowns, while Iowa aims for momentum behind quarterback Hank Brown\u0027s six touchdowns.",
+        "end":  "2026-11-03T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T07:30:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Illinois Fighting Illini visit the Maryland Terrapins for a Big Ten game. The Illinois Fighting Illini beat the Oregon Ducks 21-10 led by Aidan Laughery, and the Maryland Terrapins fell 37-30 to the Rutgers Scarlet Knights last week.",
+        "end":  "2026-11-03T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T10:30:00.0000000",
+        "title":  "The Gronk \u0026 Jules Show",
+        "desc":  "Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
+        "end":  "2026-11-03T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T13:30:00.0000000",
+        "title":  "MotoGP Racing",
+        "desc":  "From Petronas Sepang International Circuit in Sepang, Malaysia.",
+        "end":  "2026-11-03T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T14:00:00.0000000",
+        "title":  "MotoGP Racing",
+        "desc":  "From Petronas Sepang International Circuit in Sepang, Malaysia.",
+        "end":  "2026-11-03T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T15:00:00.0000000",
+        "title":  "AMA National Arenacross Championship",
+        "desc":  "From F\u0026M Bank Arena in Clarksville, Tenn.",
+        "end":  "2026-11-03T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T16:00:00.0000000",
+        "title":  "Endurocross",
+        "desc":  "From Orleans Arena in Las Vegas, Nev.",
+        "end":  "2026-11-03T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T17:00:00.0000000",
+        "title":  "NASCAR Craftsman Truck Series",
+        "desc":  "Martinsville Speedway hosts the Black\u0027s Tire 200 in NASCAR Truck Series playoff action. Points leader Kaden Honeycutt leans on his 2,371-point total after a Phoenix victory, while Layne Riggs counts on his Charlotte win to chase down another victory.",
+        "end":  "2026-11-03T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T19:00:00.0000000",
+        "title":  "NHRA Drag Racing",
+        "desc":  "From The Strip at Las Vegas Motor Speedway in Las Vegas.",
+        "end":  "2026-11-03T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T22:00:00.0000000",
+        "title":  "Speed With Harvick \u0026 Buxton",
+        "desc":  "Let\u0027s talk racing; Kevin Harvick and Will Buxton celebrate the world of motorsports.",
+        "end":  "2026-11-03T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-03T23:00:00.0000000",
+        "title":  "College Basketball",
+        "desc":  "The Memphis Tigers face the Iowa State Cyclones for an NCAA Division I college basketball game in Sioux Falls. The Memphis Tigers feature guard Jayden Reid, and the Iowa State Cyclones is paced by point guard Tamin Lipsey at Sanford Pentagon.",
         "end":  "2026-11-04T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T01:00:00.0000000",
+        "title":  "College Basketball",
+        "desc":  "The Ohio State Buckeyes battle against the BYU Cougars at Delta Center for an NCAA Men\u0027s Basketball regular-season opener. Ohio State lost against Michigan 71-67 last season, while BYU was defeated by Houston 73-66, ending their previous season.",
+        "end":  "2026-11-04T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T03:00:00.0000000",
+        "title":  "The Gronk \u0026 Jules Show",
+        "desc":  "Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
+        "end":  "2026-11-04T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T03:30:00.0000000",
+        "title":  "College Football",
+        "desc":  "The No. 25 Wisconsin Badgers and the Iowa Hawkeyes meet in a Big Ten rivalry matchup at Kinnick Stadium. Quarterback Colton Joseph leads Wisconsin with 11 touchdowns, while Iowa aims for momentum behind quarterback Hank Brown\u0027s six touchdowns.",
+        "end":  "2026-11-04T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T04:30:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Iowa State Cyclones meet the No. 24 Oklahoma State Cowboys in a Big 12 Conference game at Jack Trice Stadium. Drew Mestemaker leads Oklahoma State with 20 touchdowns, while Iowa State aims to break a two-game skid behind Jaylen Raynor.",
+        "end":  "2026-11-05T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T01:00:00.0000000",
+        "title":  "College Basketball",
+        "desc":  "The Ohio State Buckeyes battle against the BYU Cougars at Delta Center for an NCAA Men\u0027s Basketball regular-season opener. Ohio State lost against Michigan 71-67 last season, while BYU was defeated by Houston 73-66, ending their previous season.",
+        "end":  "2026-11-04T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T03:00:00.0000000",
+        "title":  "The Gronk \u0026 Jules Show",
+        "desc":  "Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
+        "end":  "2026-11-04T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T03:30:00.0000000",
+        "title":  "College Football",
+        "desc":  "The No. 25 Wisconsin Badgers and the Iowa Hawkeyes meet in a Big Ten rivalry matchup at Kinnick Stadium. Quarterback Colton Joseph leads Wisconsin with 11 touchdowns, while Iowa aims for momentum behind quarterback Hank Brown\u0027s six touchdowns.",
+        "end":  "2026-11-04T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T04:30:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Iowa State Cyclones meet the No. 24 Oklahoma State Cowboys in a Big 12 Conference game at Jack Trice Stadium. Drew Mestemaker leads Oklahoma State with 20 touchdowns, while Iowa State aims to break a two-game skid behind Jaylen Raynor.",
+        "end":  "2026-11-05T00:00:00.0000000"
     }
 ]

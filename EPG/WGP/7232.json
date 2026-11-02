@@ -1,113 +1,5 @@
 [
     {
-        "start":  "2026-11-01T00:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-11-01T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T01:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-11-01T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T02:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-11-01T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T03:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-11-01T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T04:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-11-01T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T05:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-11-01T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T06:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-11-01T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T06:30:00.0000000",
-        "title":  "ATP 500 Tennis: Basel â€“ Final",
-        "desc":  "",
-        "end":  "2026-11-01T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T09:00:00.0000000",
-        "title":  "2026 PBR Tour Canada: Medicine Hat, AB",
-        "desc":  "",
-        "end":  "2026-11-01T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T10:00:00.0000000",
-        "title":  "2026 Canadian Dirt Tour: Action Sprint Tour",
-        "desc":  "",
-        "end":  "2026-11-01T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T10:30:00.0000000",
-        "title":  "NASCAR Cup Series Playoffs Pre-Race: Xfinity 500",
-        "desc":  "",
-        "end":  "2026-11-01T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T11:00:00.0000000",
-        "title":  "NASCAR Cup Series Playoffs: Xfinity 500",
-        "desc":  "",
-        "end":  "2026-11-01T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T15:00:00.0000000",
-        "title":  "NFL on TSN: TBD vs. TBD",
-        "desc":  "",
-        "end":  "2026-11-01T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T16:00:00.0000000",
-        "title":  "Football Night in America",
-        "desc":  "",
-        "end":  "2026-11-01T17:15:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T17:15:00.0000000",
-        "title":  "NFL Sunday Night Football: Eagles vs. Commanders",
-        "desc":  "",
-        "end":  "2026-11-01T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T20:30:00.0000000",
-        "title":  "SC with Jay Onrait",
-        "desc":  "",
-        "end":  "2026-11-01T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T22:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-11-01T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T23:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-11-02T00:00:00.0000000"
-    },
-    {
         "start":  "2026-11-02T00:00:00.0000000",
         "title":  "SC with Jay Onrait",
         "desc":  "",
@@ -176,6 +68,18 @@
     {
         "start":  "2026-11-02T11:30:00.0000000",
         "title":  "SC: Best Individual Performances",
+        "desc":  "",
+        "end":  "2026-11-02T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-02T12:00:00.0000000",
+        "title":  "NBA Today",
+        "desc":  "",
+        "end":  "2026-11-02T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-02T13:00:00.0000000",
+        "title":  "OverDrive",
         "desc":  "",
         "end":  "2026-11-03T00:00:00.0000000"
     },
@@ -249,115 +153,19 @@
         "start":  "2026-11-02T11:30:00.0000000",
         "title":  "SC: Best Individual Performances",
         "desc":  "",
+        "end":  "2026-11-02T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-02T12:00:00.0000000",
+        "title":  "NBA Today",
+        "desc":  "",
+        "end":  "2026-11-02T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-02T13:00:00.0000000",
+        "title":  "OverDrive",
+        "desc":  "",
         "end":  "2026-11-03T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T00:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-11-01T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T01:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-11-01T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T02:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-11-01T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T03:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-11-01T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T04:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-11-01T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T05:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-11-01T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T06:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-11-01T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T06:30:00.0000000",
-        "title":  "ATP 500 Tennis: Basel â€“ Final",
-        "desc":  "",
-        "end":  "2026-11-01T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T09:00:00.0000000",
-        "title":  "2026 PBR Tour Canada: Medicine Hat, AB",
-        "desc":  "",
-        "end":  "2026-11-01T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T10:00:00.0000000",
-        "title":  "2026 Canadian Dirt Tour: Action Sprint Tour",
-        "desc":  "",
-        "end":  "2026-11-01T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T10:30:00.0000000",
-        "title":  "NASCAR Cup Series Playoffs Pre-Race: Xfinity 500",
-        "desc":  "",
-        "end":  "2026-11-01T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T11:00:00.0000000",
-        "title":  "NASCAR Cup Series Playoffs: Xfinity 500",
-        "desc":  "",
-        "end":  "2026-11-01T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T15:00:00.0000000",
-        "title":  "NFL on TSN: TBD vs. TBD",
-        "desc":  "",
-        "end":  "2026-11-01T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T16:00:00.0000000",
-        "title":  "Football Night in America",
-        "desc":  "",
-        "end":  "2026-11-01T17:15:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T17:15:00.0000000",
-        "title":  "NFL Sunday Night Football: Eagles vs. Commanders",
-        "desc":  "",
-        "end":  "2026-11-01T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T20:30:00.0000000",
-        "title":  "SC with Jay Onrait",
-        "desc":  "",
-        "end":  "2026-11-01T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T22:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-11-01T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-01T23:00:00.0000000",
-        "title":  "SPORTSCENTRE",
-        "desc":  "",
-        "end":  "2026-11-02T00:00:00.0000000"
     },
     {
         "start":  "2026-11-02T00:00:00.0000000",
@@ -428,6 +236,18 @@
     {
         "start":  "2026-11-02T11:30:00.0000000",
         "title":  "SC: Best Individual Performances",
+        "desc":  "",
+        "end":  "2026-11-02T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-02T12:00:00.0000000",
+        "title":  "NBA Today",
+        "desc":  "",
+        "end":  "2026-11-02T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-02T13:00:00.0000000",
+        "title":  "OverDrive",
         "desc":  "",
         "end":  "2026-11-03T00:00:00.0000000"
     }
