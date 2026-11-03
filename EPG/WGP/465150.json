@@ -1,203 +1,5 @@
 [
     {
-        "start":  "2026-11-02T01:00:00.0000000",
-        "title":  "20/20",
-        "desc":  "Award-winning program anchored by David Muir, featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.",
-        "end":  "2026-11-02T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T03:00:00.0000000",
-        "title":  "Live: ABC World News Tonight With David Muir",
-        "desc":  "Delivering the news that matters most.",
-        "end":  "2026-11-02T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T03:30:00.0000000",
-        "title":  "ABC World News Tonight With David Muir",
-        "desc":  "Delivering the news that matters most.",
-        "end":  "2026-11-02T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T04:00:00.0000000",
-        "title":  "Hey Beautiful: Anatomy of a Romance Scam",
-        "desc":  "Women from around the world fall in love with the same handsome man, but their online boyfriend is not who he seems, and it could cost them everything.",
-        "end":  "2026-11-02T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T05:00:00.0000000",
-        "title":  "Hey Beautiful: Anatomy of a Romance Scam",
-        "desc":  "Women from around the world fall in love with the same handsome man, but their online boyfriend is not who he seems, and it could cost them everything.",
-        "end":  "2026-11-02T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T06:00:00.0000000",
-        "title":  "Hey Beautiful: Anatomy of a Romance Scam",
-        "desc":  "Women from around the world fall in love with the same handsome man, but their online boyfriend is not who he seems, and it could cost them everything.",
-        "end":  "2026-11-02T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T07:00:00.0000000",
-        "title":  "Live: ABC World News Now",
-        "desc":  "Overnight breaking news, weather, politics, and the stories and video people will be talking about.",
-        "end":  "2026-11-02T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T07:30:00.0000000",
-        "title":  "ABC World News Now",
-        "desc":  "Overnight breaking news, weather, politics, and the stories and video people will be talking about.",
-        "end":  "2026-11-02T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T08:00:00.0000000",
-        "title":  "Live: ABC World News Now",
-        "desc":  "Overnight breaking news, weather, politics, and the stories and video people will be talking about.",
-        "end":  "2026-11-02T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T08:30:00.0000000",
-        "title":  "ABC World News Now",
-        "desc":  "Overnight breaking news, weather, politics, and the stories and video people will be talking about.",
-        "end":  "2026-11-02T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T09:00:00.0000000",
-        "title":  "Live: Good Morning America First Look",
-        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-        "end":  "2026-11-02T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T09:30:00.0000000",
-        "title":  "Good Morning America First Look",
-        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-        "end":  "2026-11-02T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T10:00:00.0000000",
-        "title":  "Live: Good Morning America First Look",
-        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-        "end":  "2026-11-02T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T10:30:00.0000000",
-        "title":  "Good Morning America First Look",
-        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-        "end":  "2026-11-02T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T11:00:00.0000000",
-        "title":  "Live: Good Morning America First Look",
-        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-        "end":  "2026-11-02T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T11:30:00.0000000",
-        "title":  "Good Morning America First Look",
-        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-        "end":  "2026-11-02T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T12:00:00.0000000",
-        "title":  "Good Morning America First Look",
-        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-        "end":  "2026-11-02T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T12:30:00.0000000",
-        "title":  "Good Morning America First Look",
-        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-        "end":  "2026-11-02T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T13:00:00.0000000",
-        "title":  "ABC News Live First",
-        "desc":  "The latest headlines, compelling stories, interviews and roundtable discussions.",
-        "end":  "2026-11-02T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T14:30:00.0000000",
-        "title":  "ABC News Live First",
-        "desc":  "The latest headlines, compelling stories, interviews and roundtable discussions.",
-        "end":  "2026-11-02T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T15:00:00.0000000",
-        "title":  "ABC News Live First",
-        "desc":  "The latest headlines, compelling stories, interviews and roundtable discussions.",
-        "end":  "2026-11-02T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T15:30:00.0000000",
-        "title":  "ABC News Live First",
-        "desc":  "The latest headlines, compelling stories, interviews and roundtable discussions.",
-        "end":  "2026-11-02T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T16:00:00.0000000",
-        "title":  "ABC News Live First",
-        "desc":  "The latest headlines, compelling stories, interviews and roundtable discussions.",
-        "end":  "2026-11-02T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T16:30:00.0000000",
-        "title":  "ABC News Live First",
-        "desc":  "The latest headlines, compelling stories, interviews and roundtable discussions.",
-        "end":  "2026-11-02T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T17:00:00.0000000",
-        "title":  "ABC News Live",
-        "desc":  "Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.",
-        "end":  "2026-11-02T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T18:30:00.0000000",
-        "title":  "ABC News Live",
-        "desc":  "Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.",
-        "end":  "2026-11-02T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T19:00:00.0000000",
-        "title":  "ABC News Live",
-        "desc":  "Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.",
-        "end":  "2026-11-02T19:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T19:30:00.0000000",
-        "title":  "ABC News Live",
-        "desc":  "Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.",
-        "end":  "2026-11-02T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T20:00:00.0000000",
-        "title":  "ABC News Live",
-        "desc":  "Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.",
-        "end":  "2026-11-02T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T20:30:00.0000000",
-        "title":  "ABC News Live",
-        "desc":  "Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.",
-        "end":  "2026-11-02T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T21:00:00.0000000",
-        "title":  "ABC News Live Reports",
-        "desc":  "24/7 coverage of breaking news and live events.",
-        "end":  "2026-11-02T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T21:30:00.0000000",
-        "title":  "Live: Searched",
-        "desc":  "",
-        "end":  "2026-11-02T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-02T22:00:00.0000000",
-        "title":  "ABC News Live Reports",
-        "desc":  "24/7 coverage of breaking news and live events.",
-        "end":  "2026-11-03T00:00:00.0000000"
-    },
-    {
         "start":  "2026-11-03T00:00:00.0000000",
         "title":  "Live: ABCNL Prime With Linsey Davis",
         "desc":  "Providing prime-time context and analysis of the day\u0027s top stories, as well as in-depth reporting and storytelling from around the country and the globe.",
@@ -339,156 +141,282 @@
         "start":  "2026-11-04T00:00:00.0000000",
         "title":  "Live: ABC News Election Night: Vote 2026",
         "desc":  "Comprehensive coverage of the 2026 midterm election led by David Muir and the powerhouse political team covering the candidates, races, results and important issues for Americans across the country.",
-        "end":  "2026-11-05T00:00:00.0000000"
+        "end":  "2026-11-04T07:00:00.0000000"
     },
     {
-        "start":  "2026-11-03T00:00:00.0000000",
-        "title":  "Live: ABCNL Prime With Linsey Davis",
-        "desc":  "Providing prime-time context and analysis of the day\u0027s top stories, as well as in-depth reporting and storytelling from around the country and the globe.",
-        "end":  "2026-11-03T02:00:00.0000000"
+        "start":  "2026-11-04T07:00:00.0000000",
+        "title":  "Live: ABC World News Now",
+        "desc":  "Overnight breaking news, weather, politics, and the stories and video people will be talking about.",
+        "end":  "2026-11-04T07:30:00.0000000"
     },
     {
-        "start":  "2026-11-03T02:00:00.0000000",
-        "title":  "Live: ABCNL Prime With Linsey Davis",
-        "desc":  "Providing prime-time context and analysis of the day\u0027s top stories, as well as in-depth reporting and storytelling from around the country and the globe.",
-        "end":  "2026-11-03T03:00:00.0000000"
+        "start":  "2026-11-04T07:30:00.0000000",
+        "title":  "ABC World News Now",
+        "desc":  "Overnight breaking news, weather, politics, and the stories and video people will be talking about.",
+        "end":  "2026-11-04T08:00:00.0000000"
     },
     {
-        "start":  "2026-11-03T03:00:00.0000000",
-        "title":  "Live: ABC World News Tonight With David Muir",
-        "desc":  "Delivering the news that matters most.",
-        "end":  "2026-11-03T03:30:00.0000000"
+        "start":  "2026-11-04T08:00:00.0000000",
+        "title":  "Live: ABC World News Now",
+        "desc":  "Overnight breaking news, weather, politics, and the stories and video people will be talking about.",
+        "end":  "2026-11-04T08:30:00.0000000"
     },
     {
-        "start":  "2026-11-03T03:30:00.0000000",
-        "title":  "Live: ABCNL Prime With Linsey Davis",
-        "desc":  "Providing prime-time context and analysis of the day\u0027s top stories, as well as in-depth reporting and storytelling from around the country and the globe.",
-        "end":  "2026-11-03T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-03T04:30:00.0000000",
-        "title":  "ABC World News Tonight With David Muir",
-        "desc":  "Delivering the news that matters most.",
-        "end":  "2026-11-03T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-03T05:00:00.0000000",
-        "title":  "ABCNL Prime With Linsey Davis",
-        "desc":  "Providing prime-time context and analysis of the day\u0027s top stories, as well as in-depth reporting and storytelling from around the country and the globe.",
-        "end":  "2026-11-03T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-03T05:30:00.0000000",
-        "title":  "ABC World News Tonight With David Muir",
-        "desc":  "Delivering the news that matters most.",
-        "end":  "2026-11-03T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-03T06:00:00.0000000",
+        "start":  "2026-11-04T08:30:00.0000000",
         "title":  "Live: Nightline",
         "desc":  "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
-        "end":  "2026-11-03T06:30:00.0000000"
+        "end":  "2026-11-04T09:00:00.0000000"
     },
     {
-        "start":  "2026-11-03T06:30:00.0000000",
+        "start":  "2026-11-04T09:00:00.0000000",
+        "title":  "Live: Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-11-04T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T09:30:00.0000000",
+        "title":  "Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-11-04T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T10:00:00.0000000",
+        "title":  "Live: Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-11-04T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T10:30:00.0000000",
+        "title":  "Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-11-04T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T11:00:00.0000000",
+        "title":  "Live: Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-11-04T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T11:30:00.0000000",
+        "title":  "Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-11-04T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T12:00:00.0000000",
+        "title":  "Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-11-04T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T12:30:00.0000000",
+        "title":  "Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-11-04T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T13:00:00.0000000",
+        "title":  "Live: Election Results: Vote 2026",
+        "desc":  "",
+        "end":  "2026-11-04T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T19:00:00.0000000",
+        "title":  "Election Results: Vote 2026",
+        "desc":  "",
+        "end":  "2026-11-05T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T00:00:00.0000000",
+        "title":  "Live: ABCNL Prime With Linsey Davis",
+        "desc":  "Providing prime-time context and analysis of the day\u0027s top stories, as well as in-depth reporting and storytelling from around the country and the globe.",
+        "end":  "2026-11-06T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T00:00:00.0000000",
+        "title":  "Live: ABC News Election Night: Vote 2026",
+        "desc":  "Comprehensive coverage of the 2026 midterm election led by David Muir and the powerhouse political team covering the candidates, races, results and important issues for Americans across the country.",
+        "end":  "2026-11-04T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T07:00:00.0000000",
+        "title":  "Live: ABC World News Now",
+        "desc":  "Overnight breaking news, weather, politics, and the stories and video people will be talking about.",
+        "end":  "2026-11-04T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T07:30:00.0000000",
+        "title":  "ABC World News Now",
+        "desc":  "Overnight breaking news, weather, politics, and the stories and video people will be talking about.",
+        "end":  "2026-11-04T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T08:00:00.0000000",
+        "title":  "Live: ABC World News Now",
+        "desc":  "Overnight breaking news, weather, politics, and the stories and video people will be talking about.",
+        "end":  "2026-11-04T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T08:30:00.0000000",
+        "title":  "Live: Nightline",
+        "desc":  "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
+        "end":  "2026-11-04T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T09:00:00.0000000",
+        "title":  "Live: Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-11-04T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T09:30:00.0000000",
+        "title":  "Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-11-04T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T10:00:00.0000000",
+        "title":  "Live: Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-11-04T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T10:30:00.0000000",
+        "title":  "Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-11-04T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T11:00:00.0000000",
+        "title":  "Live: Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-11-04T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T11:30:00.0000000",
+        "title":  "Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-11-04T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T12:00:00.0000000",
+        "title":  "Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-11-04T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T12:30:00.0000000",
+        "title":  "Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-11-04T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T13:00:00.0000000",
+        "title":  "Live: Election Results: Vote 2026",
+        "desc":  "",
+        "end":  "2026-11-04T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T19:00:00.0000000",
+        "title":  "Election Results: Vote 2026",
+        "desc":  "",
+        "end":  "2026-11-05T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T00:00:00.0000000",
+        "title":  "Live: ABCNL Prime With Linsey Davis",
+        "desc":  "Providing prime-time context and analysis of the day\u0027s top stories, as well as in-depth reporting and storytelling from around the country and the globe.",
+        "end":  "2026-11-05T01:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T01:30:00.0000000",
+        "title":  "Burden of Proof",
+        "desc":  "",
+        "end":  "2026-11-05T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T02:00:00.0000000",
+        "title":  "Live: ABCNL Prime With Linsey Davis",
+        "desc":  "Providing prime-time context and analysis of the day\u0027s top stories, as well as in-depth reporting and storytelling from around the country and the globe.",
+        "end":  "2026-11-05T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T03:00:00.0000000",
+        "title":  "Live: ABC World News Tonight With David Muir",
+        "desc":  "Delivering the news that matters most.",
+        "end":  "2026-11-05T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T03:30:00.0000000",
+        "title":  "Live: ABCNL Prime With Linsey Davis",
+        "desc":  "Providing prime-time context and analysis of the day\u0027s top stories, as well as in-depth reporting and storytelling from around the country and the globe.",
+        "end":  "2026-11-05T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T04:30:00.0000000",
         "title":  "ABC World News Tonight With David Muir",
         "desc":  "Delivering the news that matters most.",
-        "end":  "2026-11-03T07:00:00.0000000"
+        "end":  "2026-11-05T05:00:00.0000000"
     },
     {
-        "start":  "2026-11-03T07:00:00.0000000",
-        "title":  "Live: ABC World News Now",
-        "desc":  "Overnight breaking news, weather, politics, and the stories and video people will be talking about.",
-        "end":  "2026-11-03T07:30:00.0000000"
+        "start":  "2026-11-05T05:00:00.0000000",
+        "title":  "ABCNL Prime With Linsey Davis",
+        "desc":  "Providing prime-time context and analysis of the day\u0027s top stories, as well as in-depth reporting and storytelling from around the country and the globe.",
+        "end":  "2026-11-05T05:30:00.0000000"
     },
     {
-        "start":  "2026-11-03T07:30:00.0000000",
-        "title":  "ABC World News Now",
-        "desc":  "Overnight breaking news, weather, politics, and the stories and video people will be talking about.",
-        "end":  "2026-11-03T08:00:00.0000000"
+        "start":  "2026-11-05T05:30:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "desc":  "Delivering the news that matters most.",
+        "end":  "2026-11-06T00:00:00.0000000"
     },
     {
-        "start":  "2026-11-03T08:00:00.0000000",
-        "title":  "Live: ABC World News Now",
-        "desc":  "Overnight breaking news, weather, politics, and the stories and video people will be talking about.",
-        "end":  "2026-11-03T08:30:00.0000000"
+        "start":  "2026-11-05T00:00:00.0000000",
+        "title":  "Live: ABCNL Prime With Linsey Davis",
+        "desc":  "Providing prime-time context and analysis of the day\u0027s top stories, as well as in-depth reporting and storytelling from around the country and the globe.",
+        "end":  "2026-11-05T01:30:00.0000000"
     },
     {
-        "start":  "2026-11-03T08:30:00.0000000",
-        "title":  "ABC World News Now",
-        "desc":  "Overnight breaking news, weather, politics, and the stories and video people will be talking about.",
-        "end":  "2026-11-03T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-03T09:00:00.0000000",
-        "title":  "Live: Good Morning America First Look",
-        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-        "end":  "2026-11-03T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-03T09:30:00.0000000",
-        "title":  "Good Morning America First Look",
-        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-        "end":  "2026-11-03T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-03T10:00:00.0000000",
-        "title":  "Live: Good Morning America First Look",
-        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-        "end":  "2026-11-03T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-03T10:30:00.0000000",
-        "title":  "Good Morning America First Look",
-        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-        "end":  "2026-11-03T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-03T11:00:00.0000000",
-        "title":  "Live: Good Morning America First Look",
-        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-        "end":  "2026-11-03T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-03T11:30:00.0000000",
-        "title":  "Good Morning America First Look",
-        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-        "end":  "2026-11-03T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-03T12:00:00.0000000",
-        "title":  "Good Morning America First Look",
-        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-        "end":  "2026-11-03T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-03T12:30:00.0000000",
-        "title":  "Good Morning America First Look",
-        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-        "end":  "2026-11-03T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-03T13:00:00.0000000",
-        "title":  "Live: Election Day: Vote 2026",
+        "start":  "2026-11-05T01:30:00.0000000",
+        "title":  "Burden of Proof",
         "desc":  "",
-        "end":  "2026-11-03T19:00:00.0000000"
+        "end":  "2026-11-05T02:00:00.0000000"
     },
     {
-        "start":  "2026-11-03T19:00:00.0000000",
-        "title":  "Election Day: Vote 2026",
-        "desc":  "",
-        "end":  "2026-11-04T00:00:00.0000000"
+        "start":  "2026-11-05T02:00:00.0000000",
+        "title":  "Live: ABCNL Prime With Linsey Davis",
+        "desc":  "Providing prime-time context and analysis of the day\u0027s top stories, as well as in-depth reporting and storytelling from around the country and the globe.",
+        "end":  "2026-11-05T03:00:00.0000000"
     },
     {
-        "start":  "2026-11-04T00:00:00.0000000",
-        "title":  "Live: ABC News Election Night: Vote 2026",
-        "desc":  "Comprehensive coverage of the 2026 midterm election led by David Muir and the powerhouse political team covering the candidates, races, results and important issues for Americans across the country.",
-        "end":  "2026-11-05T00:00:00.0000000"
+        "start":  "2026-11-05T03:00:00.0000000",
+        "title":  "Live: ABC World News Tonight With David Muir",
+        "desc":  "Delivering the news that matters most.",
+        "end":  "2026-11-05T03:30:00.0000000"
     },
     {
-        "start":  "2026-11-04T00:00:00.0000000",
-        "title":  "Live: ABC News Election Night: Vote 2026",
-        "desc":  "Comprehensive coverage of the 2026 midterm election led by David Muir and the powerhouse political team covering the candidates, races, results and important issues for Americans across the country.",
-        "end":  "2026-11-05T00:00:00.0000000"
+        "start":  "2026-11-05T03:30:00.0000000",
+        "title":  "Live: ABCNL Prime With Linsey Davis",
+        "desc":  "Providing prime-time context and analysis of the day\u0027s top stories, as well as in-depth reporting and storytelling from around the country and the globe.",
+        "end":  "2026-11-05T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T04:30:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "desc":  "Delivering the news that matters most.",
+        "end":  "2026-11-05T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T05:00:00.0000000",
+        "title":  "ABCNL Prime With Linsey Davis",
+        "desc":  "Providing prime-time context and analysis of the day\u0027s top stories, as well as in-depth reporting and storytelling from around the country and the globe.",
+        "end":  "2026-11-05T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T05:30:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "desc":  "Delivering the news that matters most.",
+        "end":  "2026-11-06T00:00:00.0000000"
     }
 ]
