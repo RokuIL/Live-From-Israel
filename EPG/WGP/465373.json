@@ -1,392 +1,230 @@
 [
     {
-        "start":  "2026-11-03T01:00:00.0000000",
-        "title":  "Live: Monday Night Kickoff",
-        "desc":  "The legendary Monday Night Football crew of Joe Buck, Troy Aikman, and Lisa Salters preview the upcoming Monday Night Football action.",
-        "end":  "2026-11-03T01:15:00.0000000"
+        "start":  "2026-11-04T00:00:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "The Akron Zips clash with Ohio Bobcats in Tuesday MAC Action. Akron looks to Kyan Mason after a 129-yard receiving display to snap a league slide, while Ohio relies on Dom Dorwart following 125 receiving yards in a 24-20 win to claim two points.",
+        "end":  "2026-11-04T03:00:00.0000000"
     },
     {
-        "start":  "2026-11-03T01:15:00.0000000",
-        "title":  "Live: NFL Football",
-        "desc":  "From Lumen Field in Seattle.",
-        "end":  "2026-11-03T04:15:00.0000000"
+        "start":  "2026-11-04T03:00:00.0000000",
+        "title":  "NFL Live",
+        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+        "end":  "2026-11-04T04:00:00.0000000"
     },
     {
-        "start":  "2026-11-03T04:15:00.0000000",
-        "title":  "Live: Monday Night Postgame",
-        "desc":  "A recap of the Monday Night Football matchup with highlights, interviews and more.",
-        "end":  "2026-11-03T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-03T04:30:00.0000000",
-        "title":  "Overreaction Monday",
-        "desc":  "A weekly staple on \"The Rich Eisen Show\" since 2018, \"Overreaction Monday\" is now also an extended podcast with Rich and Chris Brockman debating the latest in the NFL.",
-        "end":  "2026-11-03T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-03T05:00:00.0000000",
-        "title":  "Saban",
-        "desc":  "Saban uses the discipline he learned from his father to inspire Alabama against rival Florida.",
-        "end":  "2026-11-03T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-03T06:00:00.0000000",
-        "title":  "Saban",
-        "desc":  "Saban and the \"Crimson Tide\" help restore hope and pride in the community after a storm.",
-        "end":  "2026-11-03T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-03T07:00:00.0000000",
+        "start":  "2026-11-04T04:00:00.0000000",
         "title":  "Saban",
         "desc":  "Saban\u0027s bold coaching hire brings wins, tension, and a decision that could define his legacy.",
-        "end":  "2026-11-03T08:00:00.0000000"
+        "end":  "2026-11-04T05:00:00.0000000"
     },
     {
-        "start":  "2026-11-03T08:00:00.0000000",
-        "title":  "Pardon the Interruption",
-        "desc":  "The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.",
-        "end":  "2026-11-03T08:30:00.0000000"
+        "start":  "2026-11-04T05:00:00.0000000",
+        "title":  "Saban",
+        "desc":  "Saban uses the discipline he learned from his father to inspire Alabama against rival Florida.",
+        "end":  "2026-11-04T06:00:00.0000000"
     },
     {
-        "start":  "2026-11-03T08:30:00.0000000",
-        "title":  "Overreaction Monday",
-        "desc":  "A weekly staple on \"The Rich Eisen Show\" since 2018, \"Overreaction Monday\" is now also an extended podcast with Rich and Chris Brockman debating the latest in the NFL.",
-        "end":  "2026-11-03T09:00:00.0000000"
+        "start":  "2026-11-04T06:00:00.0000000",
+        "title":  "Saban",
+        "desc":  "Saban and the \"Crimson Tide\" help restore hope and pride in the community after a storm.",
+        "end":  "2026-11-04T07:00:00.0000000"
     },
     {
-        "start":  "2026-11-03T09:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Cincinnati Bearcats (5-2) host the No. 6 Utah Utes (7-0) for a Big 12 matchup at Nippert Stadium. Utah seeks to extend its winning streak to eight games after a 21-13 victory over Houston. Cincinnati beat Texas Tech 37-24 behind JC French IV.",
-        "end":  "2026-11-03T11:00:00.0000000"
+        "start":  "2026-11-04T07:00:00.0000000",
+        "title":  "Saban",
+        "desc":  "Saban\u0027s bold coaching hire brings wins, tension, and a decision that could define his legacy.",
+        "end":  "2026-11-04T08:00:00.0000000"
     },
     {
-        "start":  "2026-11-03T11:00:00.0000000",
+        "start":  "2026-11-04T08:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-04T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T09:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-04T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T10:00:00.0000000",
+        "title":  "30 for 30",
+        "desc":  "Players, coaches and fans explore the play that gives the Philadelphia Eagles their first Super Bowl victory over the New England Patriots.",
+        "end":  "2026-11-04T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T11:00:00.0000000",
         "title":  "Live: Unsportsmanlike with Evan, Canty and Michelle",
         "desc":  "Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it\u0027s all about.",
-        "end":  "2026-11-03T13:00:00.0000000"
+        "end":  "2026-11-04T13:00:00.0000000"
     },
     {
-        "start":  "2026-11-03T13:00:00.0000000",
+        "start":  "2026-11-04T13:00:00.0000000",
         "title":  "SportsCenter",
         "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-03T14:00:00.0000000"
+        "end":  "2026-11-04T14:00:00.0000000"
     },
     {
-        "start":  "2026-11-03T14:00:00.0000000",
+        "start":  "2026-11-04T14:00:00.0000000",
         "title":  "SportsCenter",
         "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-03T15:00:00.0000000"
+        "end":  "2026-11-04T15:00:00.0000000"
     },
     {
-        "start":  "2026-11-03T15:00:00.0000000",
+        "start":  "2026-11-04T15:00:00.0000000",
         "title":  "Live: Get Up",
         "desc":  "ESPN\u0027s morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company\u0027s New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio\u0027s longt",
-        "end":  "2026-11-03T17:00:00.0000000"
+        "end":  "2026-11-04T17:00:00.0000000"
     },
     {
-        "start":  "2026-11-03T17:00:00.0000000",
+        "start":  "2026-11-04T17:00:00.0000000",
         "title":  "Live: First Take",
         "desc":  "Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day\u0027s trending sports topics and under-the-radar news. They\u0027re regularly joined by veteran analysts and the top guests in sports and entertainment.",
-        "end":  "2026-11-03T19:00:00.0000000"
+        "end":  "2026-11-04T19:00:00.0000000"
     },
     {
-        "start":  "2026-11-03T19:00:00.0000000",
+        "start":  "2026-11-04T19:00:00.0000000",
         "title":  "College Football Live",
         "desc":  "Want to know up-to-the-minute reports about your favorite college football team? ESPN has it covered with this weekday studio show, a roundtable format that emphasizes discussion and opinions on the sport\u0027s biggest stories and newsmakers. The half-hour program features a rotating roster of analysts that includes coaches, former players, and media personalities.",
-        "end":  "2026-11-03T19:30:00.0000000"
+        "end":  "2026-11-04T20:00:00.0000000"
     },
     {
-        "start":  "2026-11-03T19:30:00.0000000",
-        "title":  "Bad Beats",
-        "desc":  "A look at the moments that drove sports bettors wild during recent games.",
-        "end":  "2026-11-03T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-03T20:00:00.0000000",
+        "start":  "2026-11-04T20:00:00.0000000",
         "title":  "Big Day With Peter Schrager",
         "desc":  "Peter Schrager\u0027s daily show will feature rotating panelists focusing heavily on the NFL while also providing coverage of other major sports stories.",
-        "end":  "2026-11-03T21:00:00.0000000"
+        "end":  "2026-11-04T21:00:00.0000000"
     },
     {
-        "start":  "2026-11-03T21:00:00.0000000",
+        "start":  "2026-11-04T21:00:00.0000000",
+        "title":  "Saban",
+        "desc":  "Saban\u0027s bold coaching hire brings wins, tension, and a decision that could define his legacy.",
+        "end":  "2026-11-04T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T22:00:00.0000000",
+        "title":  "NFL Live",
+        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+        "end":  "2026-11-04T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-04T23:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-05T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T00:00:00.0000000",
+        "title":  "Pardon the Interruption",
+        "desc":  "The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.",
+        "end":  "2026-11-05T00:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T00:30:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From Ford Field in Detroit.",
+        "end":  "2026-11-05T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T03:30:00.0000000",
+        "title":  "SEC Storied",
+        "desc":  "The story of quarterback Tee Martin and the 1998 Tennessee Volunteers.",
+        "end":  "2026-11-05T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T05:00:00.0000000",
+        "title":  "14 Days in Gainesville",
+        "desc":  "Explores the intersection of the Florida Gators\u0027 1990 football season under Coach Steve Spurrier and the community panic surrounding the \"Gainesville Ripper\" murders.",
+        "end":  "2026-11-05T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T06:30:00.0000000",
+        "title":  "Pardon the Interruption",
+        "desc":  "The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.",
+        "end":  "2026-11-05T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T07:00:00.0000000",
+        "title":  "NBA Basketball",
+        "desc":  "From Little Caesars Arena in Detroit, Mich.",
+        "end":  "2026-11-05T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T09:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-05T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T10:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-05T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T11:00:00.0000000",
+        "title":  "Live: Unsportsmanlike with Evan, Canty and Michelle",
+        "desc":  "Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it\u0027s all about.",
+        "end":  "2026-11-05T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T13:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-05T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T14:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-05T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T15:00:00.0000000",
+        "title":  "Live: Get Up",
+        "desc":  "ESPN\u0027s morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company\u0027s New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio\u0027s longt",
+        "end":  "2026-11-05T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T17:00:00.0000000",
+        "title":  "Live: First Take",
+        "desc":  "Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day\u0027s trending sports topics and under-the-radar news. They\u0027re regularly joined by veteran analysts and the top guests in sports and entertainment.",
+        "end":  "2026-11-05T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T19:00:00.0000000",
+        "title":  "College Football Live",
+        "desc":  "Want to know up-to-the-minute reports about your favorite college football team? ESPN has it covered with this weekday studio show, a roundtable format that emphasizes discussion and opinions on the sport\u0027s biggest stories and newsmakers. The half-hour program features a rotating roster of analysts that includes coaches, former players, and media personalities.",
+        "end":  "2026-11-05T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T19:30:00.0000000",
+        "title":  "PTI 25th Anniversary Special",
+        "desc":  "Celebrating the silver anniversary of Pardon the Interruption with a special double-episode event, marking a quarter-century of one of sports television\u0027s most enduring programs.",
+        "end":  "2026-11-05T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T20:00:00.0000000",
+        "title":  "Big Day With Peter Schrager",
+        "desc":  "Peter Schrager\u0027s daily show will feature rotating panelists focusing heavily on the NFL while also providing coverage of other major sports stories.",
+        "end":  "2026-11-05T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T21:00:00.0000000",
         "title":  "NBA Today",
         "desc":  "In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.",
-        "end":  "2026-11-03T22:00:00.0000000"
+        "end":  "2026-11-05T22:00:00.0000000"
     },
     {
-        "start":  "2026-11-03T22:00:00.0000000",
-        "title":  "NFL Live",
-        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
-        "end":  "2026-11-03T23:00:00.0000000"
+        "start":  "2026-11-05T22:00:00.0000000",
+        "title":  "Live: The Point",
+        "desc":  "Featuring highlights, news, analysis, speed, skill and access to the stars, stories and personalities of the game; hosted by John Buccigross.",
+        "end":  "2026-11-05T23:00:00.0000000"
     },
     {
-        "start":  "2026-11-03T23:00:00.0000000",
-        "title":  "Pardon the Interruption",
-        "desc":  "The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.",
-        "end":  "2026-11-03T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-03T23:30:00.0000000",
-        "title":  "Bad Beats",
-        "desc":  "A look at the moments that drove sports bettors wild during recent games.",
-        "end":  "2026-11-04T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T00:00:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "The Akron Zips clash with Ohio Bobcats in Tuesday MAC Action. Akron looks to Kyan Mason after a 129-yard receiving display to snap a league slide, while Ohio relies on Dom Dorwart following 125 receiving yards in a 24-20 win to claim two points.",
-        "end":  "2026-11-04T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T03:00:00.0000000",
-        "title":  "NFL Live",
-        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
-        "end":  "2026-11-04T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T04:00:00.0000000",
-        "title":  "Saban",
-        "desc":  "Saban\u0027s bold coaching hire brings wins, tension, and a decision that could define his legacy.",
-        "end":  "2026-11-04T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T05:00:00.0000000",
-        "title":  "Saban",
-        "desc":  "Saban uses the discipline he learned from his father to inspire Alabama against rival Florida.",
-        "end":  "2026-11-04T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T06:00:00.0000000",
-        "title":  "Saban",
-        "desc":  "Saban and the \"Crimson Tide\" help restore hope and pride in the community after a storm.",
-        "end":  "2026-11-04T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T07:00:00.0000000",
-        "title":  "Saban",
-        "desc":  "Saban\u0027s bold coaching hire brings wins, tension, and a decision that could define his legacy.",
-        "end":  "2026-11-04T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T08:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-04T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T09:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-04T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T10:00:00.0000000",
-        "title":  "30 for 30",
-        "desc":  "Players, coaches and fans explore the play that gives the Philadelphia Eagles their first Super Bowl victory over the New England Patriots.",
-        "end":  "2026-11-04T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T11:00:00.0000000",
-        "title":  "Live: Unsportsmanlike with Evan, Canty and Michelle",
-        "desc":  "Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it\u0027s all about.",
-        "end":  "2026-11-04T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T13:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-04T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T14:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-04T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T15:00:00.0000000",
-        "title":  "Live: Get Up",
-        "desc":  "ESPN\u0027s morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company\u0027s New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio\u0027s longt",
-        "end":  "2026-11-04T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T17:00:00.0000000",
-        "title":  "Live: First Take",
-        "desc":  "Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day\u0027s trending sports topics and under-the-radar news. They\u0027re regularly joined by veteran analysts and the top guests in sports and entertainment.",
-        "end":  "2026-11-04T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T19:00:00.0000000",
-        "title":  "College Football Live",
-        "desc":  "Want to know up-to-the-minute reports about your favorite college football team? ESPN has it covered with this weekday studio show, a roundtable format that emphasizes discussion and opinions on the sport\u0027s biggest stories and newsmakers. The half-hour program features a rotating roster of analysts that includes coaches, former players, and media personalities.",
-        "end":  "2026-11-04T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T20:00:00.0000000",
-        "title":  "Big Day With Peter Schrager",
-        "desc":  "Peter Schrager\u0027s daily show will feature rotating panelists focusing heavily on the NFL while also providing coverage of other major sports stories.",
-        "end":  "2026-11-04T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T21:00:00.0000000",
-        "title":  "Saban",
-        "desc":  "Saban\u0027s bold coaching hire brings wins, tension, and a decision that could define his legacy.",
-        "end":  "2026-11-04T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T22:00:00.0000000",
-        "title":  "NFL Live",
-        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
-        "end":  "2026-11-04T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T23:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-05T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T00:00:00.0000000",
-        "title":  "Pardon the Interruption",
-        "desc":  "The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.",
-        "end":  "2026-11-06T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T00:00:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "The Akron Zips clash with Ohio Bobcats in Tuesday MAC Action. Akron looks to Kyan Mason after a 129-yard receiving display to snap a league slide, while Ohio relies on Dom Dorwart following 125 receiving yards in a 24-20 win to claim two points.",
-        "end":  "2026-11-04T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T03:00:00.0000000",
-        "title":  "NFL Live",
-        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
-        "end":  "2026-11-04T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T04:00:00.0000000",
-        "title":  "Saban",
-        "desc":  "Saban\u0027s bold coaching hire brings wins, tension, and a decision that could define his legacy.",
-        "end":  "2026-11-04T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T05:00:00.0000000",
-        "title":  "Saban",
-        "desc":  "Saban uses the discipline he learned from his father to inspire Alabama against rival Florida.",
-        "end":  "2026-11-04T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T06:00:00.0000000",
-        "title":  "Saban",
-        "desc":  "Saban and the \"Crimson Tide\" help restore hope and pride in the community after a storm.",
-        "end":  "2026-11-04T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T07:00:00.0000000",
-        "title":  "Saban",
-        "desc":  "Saban\u0027s bold coaching hire brings wins, tension, and a decision that could define his legacy.",
-        "end":  "2026-11-04T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T08:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-04T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T09:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-04T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T10:00:00.0000000",
-        "title":  "30 for 30",
-        "desc":  "Players, coaches and fans explore the play that gives the Philadelphia Eagles their first Super Bowl victory over the New England Patriots.",
-        "end":  "2026-11-04T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T11:00:00.0000000",
-        "title":  "Live: Unsportsmanlike with Evan, Canty and Michelle",
-        "desc":  "Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it\u0027s all about.",
-        "end":  "2026-11-04T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T13:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-04T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T14:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-04T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T15:00:00.0000000",
-        "title":  "Live: Get Up",
-        "desc":  "ESPN\u0027s morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company\u0027s New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio\u0027s longt",
-        "end":  "2026-11-04T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T17:00:00.0000000",
-        "title":  "Live: First Take",
-        "desc":  "Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day\u0027s trending sports topics and under-the-radar news. They\u0027re regularly joined by veteran analysts and the top guests in sports and entertainment.",
-        "end":  "2026-11-04T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T19:00:00.0000000",
-        "title":  "College Football Live",
-        "desc":  "Want to know up-to-the-minute reports about your favorite college football team? ESPN has it covered with this weekday studio show, a roundtable format that emphasizes discussion and opinions on the sport\u0027s biggest stories and newsmakers. The half-hour program features a rotating roster of analysts that includes coaches, former players, and media personalities.",
-        "end":  "2026-11-04T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T20:00:00.0000000",
-        "title":  "Big Day With Peter Schrager",
-        "desc":  "Peter Schrager\u0027s daily show will feature rotating panelists focusing heavily on the NFL while also providing coverage of other major sports stories.",
-        "end":  "2026-11-04T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T21:00:00.0000000",
-        "title":  "Saban",
-        "desc":  "Saban\u0027s bold coaching hire brings wins, tension, and a decision that could define his legacy.",
-        "end":  "2026-11-04T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T22:00:00.0000000",
-        "title":  "NFL Live",
-        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
-        "end":  "2026-11-04T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-04T23:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-05T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T00:00:00.0000000",
-        "title":  "Pardon the Interruption",
-        "desc":  "The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.",
-        "end":  "2026-11-05T00:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T00:30:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "From Ford Field in Detroit.",
-        "end":  "2026-11-05T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T03:30:00.0000000",
-        "title":  "SEC Storied",
-        "desc":  "The story of quarterback Tee Martin and the 1998 Tennessee Volunteers.",
-        "end":  "2026-11-05T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T05:00:00.0000000",
-        "title":  "14 Days in Gainesville",
-        "desc":  "Explores the intersection of the Florida Gators\u0027 1990 football season under Coach Steve Spurrier and the community panic surrounding the \"Gainesville Ripper\" murders.",
+        "start":  "2026-11-05T23:00:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "The Wake Forest Demon Deacons and the Vanderbilt Commodores meet at Memorial Gymnasium. Wake Forest ended their previous season with a 71-62 loss against Clemson, while Vanderbilt suffered a 86-75 loss against Arkansas to end their last season.",
         "end":  "2026-11-06T00:00:00.0000000"
     },
     {
@@ -411,6 +249,144 @@
         "start":  "2026-11-05T05:00:00.0000000",
         "title":  "14 Days in Gainesville",
         "desc":  "Explores the intersection of the Florida Gators\u0027 1990 football season under Coach Steve Spurrier and the community panic surrounding the \"Gainesville Ripper\" murders.",
+        "end":  "2026-11-05T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T06:30:00.0000000",
+        "title":  "Pardon the Interruption",
+        "desc":  "The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.",
+        "end":  "2026-11-05T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T07:00:00.0000000",
+        "title":  "NBA Basketball",
+        "desc":  "From Little Caesars Arena in Detroit, Mich.",
+        "end":  "2026-11-05T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T09:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-05T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T10:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-05T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T11:00:00.0000000",
+        "title":  "Live: Unsportsmanlike with Evan, Canty and Michelle",
+        "desc":  "Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it\u0027s all about.",
+        "end":  "2026-11-05T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T13:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-05T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T14:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-05T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T15:00:00.0000000",
+        "title":  "Live: Get Up",
+        "desc":  "ESPN\u0027s morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company\u0027s New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio\u0027s longt",
+        "end":  "2026-11-05T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T17:00:00.0000000",
+        "title":  "Live: First Take",
+        "desc":  "Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day\u0027s trending sports topics and under-the-radar news. They\u0027re regularly joined by veteran analysts and the top guests in sports and entertainment.",
+        "end":  "2026-11-05T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T19:00:00.0000000",
+        "title":  "College Football Live",
+        "desc":  "Want to know up-to-the-minute reports about your favorite college football team? ESPN has it covered with this weekday studio show, a roundtable format that emphasizes discussion and opinions on the sport\u0027s biggest stories and newsmakers. The half-hour program features a rotating roster of analysts that includes coaches, former players, and media personalities.",
+        "end":  "2026-11-05T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T19:30:00.0000000",
+        "title":  "PTI 25th Anniversary Special",
+        "desc":  "Celebrating the silver anniversary of Pardon the Interruption with a special double-episode event, marking a quarter-century of one of sports television\u0027s most enduring programs.",
+        "end":  "2026-11-05T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T20:00:00.0000000",
+        "title":  "Big Day With Peter Schrager",
+        "desc":  "Peter Schrager\u0027s daily show will feature rotating panelists focusing heavily on the NFL while also providing coverage of other major sports stories.",
+        "end":  "2026-11-05T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T21:00:00.0000000",
+        "title":  "NBA Today",
+        "desc":  "In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.",
+        "end":  "2026-11-05T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T22:00:00.0000000",
+        "title":  "Live: The Point",
+        "desc":  "Featuring highlights, news, analysis, speed, skill and access to the stars, stories and personalities of the game; hosted by John Buccigross.",
+        "end":  "2026-11-05T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-05T23:00:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "The Wake Forest Demon Deacons and the Vanderbilt Commodores meet at Memorial Gymnasium. Wake Forest ended their previous season with a 71-62 loss against Clemson, while Vanderbilt suffered a 86-75 loss against Arkansas to end their last season.",
         "end":  "2026-11-06T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-06T01:00:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From M.M. Roberts Stadium in Hattiesburg, Miss.",
+        "end":  "2026-11-06T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-06T04:00:00.0000000",
+        "title":  "PTI 25th Anniversary Special",
+        "desc":  "Celebrating the silver anniversary of Pardon the Interruption with a special double-episode event, marking a quarter-century of one of sports television\u0027s most enduring programs.",
+        "end":  "2026-11-06T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-06T04:30:00.0000000",
+        "title":  "WWE Crown Jewel 2026 Special",
+        "desc":  "As WWE Crown Jewel approaches, the matches of the international WWE Premium Live Event come into focus, including the Champion vs. Champion Matches between Roman Reigns and Sami Zayn as well as Chelsea Green and Liv Morgan.",
+        "end":  "2026-11-06T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-06T05:00:00.0000000",
+        "title":  "Saban",
+        "desc":  "Saban\u0027s bold coaching hire brings wins, tension, and a decision that could define his legacy.",
+        "end":  "2026-11-07T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-06T01:00:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From M.M. Roberts Stadium in Hattiesburg, Miss.",
+        "end":  "2026-11-06T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-06T04:00:00.0000000",
+        "title":  "PTI 25th Anniversary Special",
+        "desc":  "Celebrating the silver anniversary of Pardon the Interruption with a special double-episode event, marking a quarter-century of one of sports television\u0027s most enduring programs.",
+        "end":  "2026-11-06T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-06T04:30:00.0000000",
+        "title":  "WWE Crown Jewel 2026 Special",
+        "desc":  "As WWE Crown Jewel approaches, the matches of the international WWE Premium Live Event come into focus, including the Champion vs. Champion Matches between Roman Reigns and Sami Zayn as well as Chelsea Green and Liv Morgan.",
+        "end":  "2026-11-06T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-06T05:00:00.0000000",
+        "title":  "Saban",
+        "desc":  "Saban\u0027s bold coaching hire brings wins, tension, and a decision that could define his legacy.",
+        "end":  "2026-11-07T00:00:00.0000000"
     }
 ]
