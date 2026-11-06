@@ -1,431 +1,5 @@
 [
     {
-        "start":  "2026-11-05T00:00:00.0000000",
-        "title":  "Inside Edition",
-        "desc":  "A syndicated news magazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.",
-        "end":  "2026-11-05T00:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T00:30:00.0000000",
-        "title":  "Entertainment Tonight",
-        "desc":  "News and features about performers, productions and the milieu.",
-        "end":  "2026-11-05T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T01:00:00.0000000",
-        "title":  "Survivor",
-        "desc":  "The castaways face a daunting rite of passage that harkens all the way back to Season 1; chaos ensues as the group mingles and navigates old alliances and new promises while battling for the first individual immunity necklace of the season.",
-        "end":  "2026-11-05T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T02:30:00.0000000",
-        "title":  "The Amazing Race",
-        "desc":  "Teams travel to Sri Lanka where a live double U-turn vote unleashes anger and forces some teams to stage a comeback.",
-        "end":  "2026-11-05T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T04:00:00.0000000",
-        "title":  "CBS News New York 11pm",
-        "desc":  "Local news coverage.",
-        "end":  "2026-11-05T04:35:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T04:35:00.0000000",
-        "title":  "Comics Unleashed With Byron Allen",
-        "desc":  "Courtney Cronin; Akeem Woods; Esteban Gast; Dale Jones.",
-        "end":  "2026-11-05T05:05:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T05:05:00.0000000",
-        "title":  "Comics Unleashed With Byron Allen",
-        "desc":  "Nicole Aimee Schreiber; Ron Funches; Jeff Garcia; Brent Pella.",
-        "end":  "2026-11-05T05:37:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T05:37:00.0000000",
-        "title":  "Funny You Should Ask",
-        "desc":  "Jamie Kennedy; Loni Love; Adam Carolla; Byron Allen; Michelle Collins; Gary Owen.",
-        "end":  "2026-11-05T06:07:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T06:07:00.0000000",
-        "title":  "Funny You Should Ask",
-        "desc":  "Adam Carolla; JackÃ©e Harry; Billy Gardell; Byron Allen; Annie Lederman; Brad Williams.",
-        "end":  "2026-11-05T06:37:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T06:37:00.0000000",
-        "title":  "Funny You Should Ask",
-        "desc":  "Jamie Kennedy; Sheryl Underwood; Gary Owen; Byron Allen; Caroline Rhea; Tommy Davidson.",
-        "end":  "2026-11-05T07:07:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T07:07:00.0000000",
-        "title":  "Paid Programming",
-        "desc":  "Paid programming.",
-        "end":  "2026-11-05T07:37:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T07:37:00.0000000",
-        "title":  "Operation Smile",
-        "desc":  "Transforming lives and bringing smiles to children around the world.",
-        "end":  "2026-11-05T08:07:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T08:07:00.0000000",
-        "title":  "CBS Evening News",
-        "desc":  "Tony Dokoupil shares the day\u0027s most important stories, delivering context and depth to bring greater understanding to one\u0027s world.",
-        "end":  "2026-11-05T08:37:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T08:37:00.0000000",
-        "title":  "CBS News Roundup",
-        "desc":  "The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.",
-        "end":  "2026-11-05T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T09:00:00.0000000",
-        "title":  "CBS News Mornings",
-        "desc":  "CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.",
-        "end":  "2026-11-05T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T09:30:00.0000000",
-        "title":  "CBS News New York This Morning 4:30am",
-        "desc":  "News coverage to start the day.",
-        "end":  "2026-11-05T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T10:00:00.0000000",
-        "title":  "CBS News New York This Morning 5am",
-        "desc":  "News coverage to start the day.",
-        "end":  "2026-11-05T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T11:00:00.0000000",
-        "title":  "CBS News New York This Morning 6am",
-        "desc":  "News coverage to start the day.",
-        "end":  "2026-11-05T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T12:00:00.0000000",
-        "title":  "CBS Mornings",
-        "desc":  "Singer-songwriter Jill Scott; Tyler Brickley, creator of The Kindness Mob.",
-        "end":  "2026-11-05T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T14:00:00.0000000",
-        "title":  "The Drew Barrymore Show",
-        "desc":  "Valerie Bertinelli joins the news desk for some animal headlines in an all-new Drew\u0027s News.",
-        "end":  "2026-11-05T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T14:30:00.0000000",
-        "title":  "The Drew Barrymore Show",
-        "desc":  "Awkwafina joins Drew to chat about her new series, \"The Unlikely Cook\"; she and Nigel Ng whip something up in the kitchen with Drew and chat about his new cookbook, \"Don\u0027t Mess Up Your Rice.\".",
-        "end":  "2026-11-05T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T15:00:00.0000000",
-        "title":  "Let\u0027s Make a Deal",
-        "desc":  "Costumed contestants compete for cash and prizes.",
-        "end":  "2026-11-05T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T16:00:00.0000000",
-        "title":  "The Price Is Right",
-        "desc":  "Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.",
-        "end":  "2026-11-05T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T17:00:00.0000000",
-        "title":  "CBS News New York 12pm",
-        "desc":  "Midday news update.",
-        "end":  "2026-11-05T17:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T17:30:00.0000000",
-        "title":  "The Young and the Restless",
-        "desc":  "Jack backs Kyle into a corner; Nate hits some roadblocks during his return to medicine; Diane hosts a reunion.",
-        "end":  "2026-11-05T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T18:30:00.0000000",
-        "title":  "The Bold and the Beautiful",
-        "desc":  "Ridge and Taylor demand answers as the truth begins to unravel; Taylor pushes Steffy to come clean; Deacon is caught off guard by Sheila\u0027s unexpected gesture.",
-        "end":  "2026-11-05T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T19:00:00.0000000",
-        "title":  "Beyond the Gates",
-        "desc":  "Nicole and Ted rally together; Martin and Smitty\u0027s plans go left; Andre worries that Dani might backtrack; Bill makes an emotional admission to Naomi; Eva and Leslie get caught up in the moment; Hayley has delusions of grandeur.",
-        "end":  "2026-11-05T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T20:00:00.0000000",
-        "title":  "Judge Judy",
-        "desc":  "A wreck in the rain leaves a car totaled; accused of fraud, the finance manager for a car dealership says the plaintiff and the police lied.",
-        "end":  "2026-11-05T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T20:30:00.0000000",
-        "title":  "Adam\u0027s Law",
-        "desc":  "A failed loan, mounting construction bills and a bitter partnership dispute leave a restaurant empty and the partners suing each other.",
-        "end":  "2026-11-05T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T21:00:00.0000000",
-        "title":  "Hot Bench",
-        "desc":  "A woman says she covered her friend\u0027s unpaid rent with help from her father, while the friend argues that everyone knew her seasonal income meant she couldn\u0027t always pay.",
-        "end":  "2026-11-05T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T21:30:00.0000000",
-        "title":  "Hot Bench",
-        "desc":  "A man says his ex-wife\u0027s nephew slashed his tires, costing him a day of work, but the nephew says the plaintiff made up the story to avoid paying for a washer and dryer.",
-        "end":  "2026-11-05T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T22:00:00.0000000",
-        "title":  "CBS News New York 5pm",
-        "desc":  "Evening news coverage.",
-        "end":  "2026-11-05T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T23:00:00.0000000",
-        "title":  "CBS News New York 6pm",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-11-05T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-05T23:30:00.0000000",
-        "title":  "CBS Evening News",
-        "desc":  "Tony Dokoupil shares the day\u0027s most important stories, delivering context and depth to bring greater understanding to one\u0027s world.",
-        "end":  "2026-11-06T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T00:00:00.0000000",
-        "title":  "Inside Edition",
-        "desc":  "A syndicated news magazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.",
-        "end":  "2026-11-06T00:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T00:30:00.0000000",
-        "title":  "Entertainment Tonight",
-        "desc":  "News and features about performers, productions and the milieu.",
-        "end":  "2026-11-06T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T01:00:00.0000000",
-        "title":  "Georgie \u0026 Mandy\u0027s First Marriage",
-        "desc":  "Georgie and Mandy reach their breaking points when Missy moves in with the McAllisters; Mary struggles to make things right with Missy.",
-        "end":  "2026-11-06T01:31:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T01:31:00.0000000",
-        "title":  "Eternally Yours",
-        "desc":  "Max invites Steve the Blood Guy over for game night, a kind gesture that inadvertently leads Steve to decide to leave Seattle; Liz and Phyllis wrestle for control of the house\u0027s interior design.",
-        "end":  "2026-11-06T02:01:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T02:01:00.0000000",
-        "title":  "Elsbeth",
-        "desc":  "A prize-winning hole-in-one by Perry Macintyre leads Elsbeth and an insurance investigator to suspect foul play behind a country club president\u0027s fatal accident; Elsbeth and Lydia meet Teddy\u0027s soon-to-be mother-in-law and father-in-law.",
-        "end":  "2026-11-06T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T03:00:00.0000000",
-        "title":  "Cupertino",
-        "desc":  "Olivia recruits her friend Celeste to be the lead plaintiff in a class-action lawsuit against an AI training company accused of wage and overtime abuse; Michael, Christy and Natalia track down someone with information on Bo.",
-        "end":  "2026-11-06T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T04:00:00.0000000",
-        "title":  "CBS News New York 11pm",
-        "desc":  "Local news coverage.",
-        "end":  "2026-11-06T04:35:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T04:35:00.0000000",
-        "title":  "Comics Unleashed With Byron Allen",
-        "desc":  "Salma Zaky; Daegen Asfaha; Tom Fox; Mayce Galoni.",
-        "end":  "2026-11-06T05:05:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T05:05:00.0000000",
-        "title":  "Comics Unleashed With Byron Allen",
-        "desc":  "Alice Wetterlund; Dan Gabriel; Nick Guerra; Michael Yo.",
-        "end":  "2026-11-06T05:37:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T05:37:00.0000000",
-        "title":  "Funny You Should Ask",
-        "desc":  "Jamie Kennedy; Sheryl Underwood; Adam Carolla; Byron Allen; Caroline Rhea; Brad Williams.",
-        "end":  "2026-11-06T06:07:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T06:07:00.0000000",
-        "title":  "Funny You Should Ask",
-        "desc":  "Adam Carolla; JackÃ©e Harry; Billy Gardell; Byron Allen; Annie Lederman; Brad Williams.",
-        "end":  "2026-11-06T06:37:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T06:37:00.0000000",
-        "title":  "Funny You Should Ask",
-        "desc":  "Jamie Kennedy; Sheryl Underwood; Gary Owen; Byron Allen; Caroline Rhea; Tommy Davidson.",
-        "end":  "2026-11-06T07:07:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T07:07:00.0000000",
-        "title":  "Paid Programming",
-        "desc":  "Paid programming.",
-        "end":  "2026-11-06T07:37:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T07:37:00.0000000",
-        "title":  "See Wrinkles and Bags Vanish Instantly With GEN90!!",
-        "desc":  "GEN90 Instant Wrinkle Treatment with Retinol will turn back the clock! The Pharmacist\u0027s solution for wrinkles, instant and long-term! Visibly reduces the appearance of crow\u0027s feet and fine lines instantly! Get fast, visible, long-lasting results!",
-        "end":  "2026-11-06T08:07:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T08:07:00.0000000",
-        "title":  "CBS Evening News",
-        "desc":  "Tony Dokoupil shares the day\u0027s most important stories, delivering context and depth to bring greater understanding to one\u0027s world.",
-        "end":  "2026-11-06T08:37:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T08:37:00.0000000",
-        "title":  "CBS News Roundup",
-        "desc":  "The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.",
-        "end":  "2026-11-06T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T09:00:00.0000000",
-        "title":  "CBS News Mornings",
-        "desc":  "CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.",
-        "end":  "2026-11-06T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T09:30:00.0000000",
-        "title":  "CBS News New York This Morning 4:30am",
-        "desc":  "News coverage to start the day.",
-        "end":  "2026-11-06T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T10:00:00.0000000",
-        "title":  "CBS News New York This Morning 5am",
-        "desc":  "News coverage to start the day.",
-        "end":  "2026-11-06T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T11:00:00.0000000",
-        "title":  "CBS News New York This Morning 6am",
-        "desc":  "News coverage to start the day.",
-        "end":  "2026-11-06T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T12:00:00.0000000",
-        "title":  "CBS Mornings",
-        "desc":  "Actor Kerr Smith; behavioral researcher Dr. ShadÃ© Zahrai.",
-        "end":  "2026-11-06T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T14:00:00.0000000",
-        "title":  "The Drew Barrymore Show",
-        "desc":  "Nora Singley is joining Pilar Valdes and Valerie Bertinelli for some cooking with Drew and Ross at the tasting table.",
-        "end":  "2026-11-06T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T14:30:00.0000000",
-        "title":  "The Drew Barrymore Show",
-        "desc":  "Henry Winkler drops by to surprise Drew and talk about the fourth installment of his children\u0027s book series, \"Detective Duck: The Mystery of the Flash Flood.\".",
-        "end":  "2026-11-06T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T15:00:00.0000000",
-        "title":  "Let\u0027s Make a Deal",
-        "desc":  "Costumed contestants compete for cash and prizes.",
-        "end":  "2026-11-06T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T16:00:00.0000000",
-        "title":  "The Price Is Right",
-        "desc":  "Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.",
-        "end":  "2026-11-06T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T17:00:00.0000000",
-        "title":  "CBS News New York 12pm",
-        "desc":  "Midday news update.",
-        "end":  "2026-11-06T17:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T17:30:00.0000000",
-        "title":  "The Young and the Restless",
-        "desc":  "Billy loses patience with Adam; Audra reflects on her past; Stephanie\u0027s authority is questioned at work.",
-        "end":  "2026-11-06T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T18:30:00.0000000",
-        "title":  "The Bold and the Beautiful",
-        "desc":  "Sheila stirs up old memories as she reminds Deacon of their past; Carter and Steffy find themselves under pressure.",
-        "end":  "2026-11-06T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T19:00:00.0000000",
-        "title":  "Beyond the Gates",
-        "desc":  "Dani\u0027s intuition has her on edge; Nicole and Kat catch Chelsea off guard; Naomi and Hayley trade barbs; Caroline puts her foot down with Bill; Heather has something major planned for Joey.",
-        "end":  "2026-11-06T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T20:00:00.0000000",
-        "title":  "Judge Judy",
-        "desc":  "A young man says his teen girlfriend bit him during a dispute over a DVD; a young woman\u0027s car and the new puppy left in it are impounded when her father goes to jail for drunken driving.",
-        "end":  "2026-11-06T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T20:30:00.0000000",
-        "title":  "Adam\u0027s Law",
-        "desc":  "Twins say their mother took one sister\u0027s car, hid it for years and totaled it; the mom says she was tricked into co-signing a loan.",
-        "end":  "2026-11-06T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T21:00:00.0000000",
-        "title":  "Hot Bench",
-        "desc":  "A woman says an SUV swerved into her lane; the other driver argues that the woman was speeding and is exaggerating the damage.",
-        "end":  "2026-11-06T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T21:30:00.0000000",
-        "title":  "Hot Bench",
-        "desc":  "A homeowner says her contractor vanished after taking advance payment for custom doors; the contractor blames backorders, hospital stays and her constant design changes for the delays; when flaky fixes and flimsy fibs jam the frame, the judges pry open the truth.",
-        "end":  "2026-11-06T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T22:00:00.0000000",
-        "title":  "CBS News New York 5pm",
-        "desc":  "Evening news coverage.",
-        "end":  "2026-11-06T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T23:00:00.0000000",
-        "title":  "CBS News New York 6pm",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-11-06T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-06T23:30:00.0000000",
-        "title":  "CBS Evening News",
-        "desc":  "Tony Dokoupil shares the day\u0027s most important stories, delivering context and depth to bring greater understanding to one\u0027s world.",
-        "end":  "2026-11-07T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T00:00:00.0000000",
-        "title":  "Inside Edition",
-        "desc":  "A syndicated news magazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.",
-        "end":  "2026-11-08T00:00:00.0000000"
-    },
-    {
         "start":  "2026-11-06T00:00:00.0000000",
         "title":  "Inside Edition",
         "desc":  "A syndicated news magazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.",
@@ -693,7 +267,133 @@
         "start":  "2026-11-07T05:37:00.0000000",
         "title":  "Funny You Should Ask",
         "desc":  "Jamie Kennedy, Sheryl Underwood, Brad Williams, Byron Allen, Natasha Leggero and Tommy Davidson.",
+        "end":  "2026-11-07T06:07:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T06:07:00.0000000",
+        "title":  "Funny You Should Ask",
+        "desc":  "Billy Gardell, Sheryl Underwood, Jamie Kennedy, Byron Allen, Caroline Rhea and Brad Williams.",
+        "end":  "2026-11-07T06:37:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T06:37:00.0000000",
+        "title":  "Funny You Should Ask",
+        "desc":  "Jamie Kennedy; Sheryl Underwood; Brad Williams; Byron Allen; Natasha Leggero; Tommy Davidson.",
+        "end":  "2026-11-07T07:07:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T07:07:00.0000000",
+        "title":  "Protect Your Family From Identity Theft",
+        "desc":  "Every 5 seconds there\u0027s a victim of identity theft; LifeLock helps alert you, restore your identity, and reimburse lost fundsâ€”leading the way in protecting families every day.",
+        "end":  "2026-11-07T07:37:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T07:37:00.0000000",
+        "title":  "Paid Programming",
+        "desc":  "Paid programming.",
+        "end":  "2026-11-07T08:07:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T08:07:00.0000000",
+        "title":  "CBS Evening News",
+        "desc":  "Tony Dokoupil shares the day\u0027s most important stories, delivering context and depth to bring greater understanding to one\u0027s world.",
+        "end":  "2026-11-07T08:37:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T08:37:00.0000000",
+        "title":  "Missing",
+        "desc":  "Missing persons cases come from all over the United States.",
+        "end":  "2026-11-07T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T09:00:00.0000000",
+        "title":  "Pets.TV",
+        "desc":  "On the breathtaking island of Madagascar, 113 species of lemurs leap through the treetops.",
+        "end":  "2026-11-07T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T09:30:00.0000000",
+        "title":  "Real Green",
+        "desc":  "Green success stories; recycling cardboard tubes.",
+        "end":  "2026-11-07T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T10:00:00.0000000",
+        "title":  "Judge Judy",
+        "desc":  "A woman sues her husband\u0027s former neighbor for having her arrested; a shooter denies sending an arrow through the roof of a woman\u0027s car, saying none of his arrows are missing.",
+        "end":  "2026-11-07T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T10:30:00.0000000",
+        "title":  "Game Time With Boomer Esiason",
+        "desc":  "Former professional football player Will Shields.",
+        "end":  "2026-11-07T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T11:00:00.0000000",
+        "title":  "Lucky Dog: Paws With Purpose",
+        "desc":  "A playful poodle named Steve could be the perfect fit for a Marine Corps veteran and her daughter, who are hoping to give their current dog, a service animal, a new companion.",
+        "end":  "2026-11-07T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T11:30:00.0000000",
+        "title":  "Lucky Dog: Down Under",
+        "desc":  "A 9-year-old is looking for a best friend to grow up with; a teenager with a rare condition hopes a 6-month-old whippet-kelpie mix named Tess will be the calming companion he needs.",
+        "end":  "2026-11-07T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T12:00:00.0000000",
+        "title":  "CBS Saturday Morning",
+        "desc":  "Each Saturday morning, Adriana Diaz and Kelly O\u0027Grady report on the week\u0027s top stories; the broadcast, known for its signature segments The Dish and Saturday Sessions, offers insightful conversations with artists, authors, chefs and musicians.",
+        "end":  "2026-11-07T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T14:00:00.0000000",
+        "title":  "CBS News New York Saturday 9am",
+        "desc":  "Weekend news coverage.",
+        "end":  "2026-11-07T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T15:00:00.0000000",
+        "title":  "CBS News New York Saturday 10am",
+        "desc":  "Weekend news coverage.",
+        "end":  "2026-11-07T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T16:00:00.0000000",
+        "title":  "CBS News New York Saturday 11am",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-11-07T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T16:30:00.0000000",
+        "title":  "The Point",
+        "desc":  "",
+        "end":  "2026-11-07T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T17:00:00.0000000",
+        "title":  "Live: NWSL Soccer",
+        "desc":  "The Kansas City Current hosts Angel City FC in an NWSL quarterfinal game. Both teams enter on three-game winning streaks after their last meeting ended 1-1. Temwa Chawinga leads Kansas City in goals, while Sveindis Jonsdottir paces Angel City.",
+        "end":  "2026-11-07T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T19:30:00.0000000",
+        "title":  "Live: College Football Today",
+        "desc":  "Adam Zucker, Brian Jones and Rick Neuheisel present all the day\u0027s news and highlights on CBS\u0027 pregame, halftime and postgame studio show.",
+        "end":  "2026-11-07T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T20:30:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "All the action from college football.",
         "end":  "2026-11-08T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T00:00:00.0000000",
+        "title":  "Live: Postgame Show",
+        "desc":  "College football postgame.",
+        "end":  "2026-11-09T00:00:00.0000000"
     },
     {
         "start":  "2026-11-07T00:00:00.0000000",
@@ -747,6 +447,186 @@
         "start":  "2026-11-07T05:37:00.0000000",
         "title":  "Funny You Should Ask",
         "desc":  "Jamie Kennedy, Sheryl Underwood, Brad Williams, Byron Allen, Natasha Leggero and Tommy Davidson.",
+        "end":  "2026-11-07T06:07:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T06:07:00.0000000",
+        "title":  "Funny You Should Ask",
+        "desc":  "Billy Gardell, Sheryl Underwood, Jamie Kennedy, Byron Allen, Caroline Rhea and Brad Williams.",
+        "end":  "2026-11-07T06:37:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T06:37:00.0000000",
+        "title":  "Funny You Should Ask",
+        "desc":  "Jamie Kennedy; Sheryl Underwood; Brad Williams; Byron Allen; Natasha Leggero; Tommy Davidson.",
+        "end":  "2026-11-07T07:07:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T07:07:00.0000000",
+        "title":  "Protect Your Family From Identity Theft",
+        "desc":  "Every 5 seconds there\u0027s a victim of identity theft; LifeLock helps alert you, restore your identity, and reimburse lost fundsâ€”leading the way in protecting families every day.",
+        "end":  "2026-11-07T07:37:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T07:37:00.0000000",
+        "title":  "Paid Programming",
+        "desc":  "Paid programming.",
+        "end":  "2026-11-07T08:07:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T08:07:00.0000000",
+        "title":  "CBS Evening News",
+        "desc":  "Tony Dokoupil shares the day\u0027s most important stories, delivering context and depth to bring greater understanding to one\u0027s world.",
+        "end":  "2026-11-07T08:37:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T08:37:00.0000000",
+        "title":  "Missing",
+        "desc":  "Missing persons cases come from all over the United States.",
+        "end":  "2026-11-07T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T09:00:00.0000000",
+        "title":  "Pets.TV",
+        "desc":  "On the breathtaking island of Madagascar, 113 species of lemurs leap through the treetops.",
+        "end":  "2026-11-07T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T09:30:00.0000000",
+        "title":  "Real Green",
+        "desc":  "Green success stories; recycling cardboard tubes.",
+        "end":  "2026-11-07T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T10:00:00.0000000",
+        "title":  "Judge Judy",
+        "desc":  "A woman sues her husband\u0027s former neighbor for having her arrested; a shooter denies sending an arrow through the roof of a woman\u0027s car, saying none of his arrows are missing.",
+        "end":  "2026-11-07T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T10:30:00.0000000",
+        "title":  "Game Time With Boomer Esiason",
+        "desc":  "Former professional football player Will Shields.",
+        "end":  "2026-11-07T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T11:00:00.0000000",
+        "title":  "Lucky Dog: Paws With Purpose",
+        "desc":  "A playful poodle named Steve could be the perfect fit for a Marine Corps veteran and her daughter, who are hoping to give their current dog, a service animal, a new companion.",
+        "end":  "2026-11-07T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T11:30:00.0000000",
+        "title":  "Lucky Dog: Down Under",
+        "desc":  "A 9-year-old is looking for a best friend to grow up with; a teenager with a rare condition hopes a 6-month-old whippet-kelpie mix named Tess will be the calming companion he needs.",
+        "end":  "2026-11-07T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T12:00:00.0000000",
+        "title":  "CBS Saturday Morning",
+        "desc":  "Each Saturday morning, Adriana Diaz and Kelly O\u0027Grady report on the week\u0027s top stories; the broadcast, known for its signature segments The Dish and Saturday Sessions, offers insightful conversations with artists, authors, chefs and musicians.",
+        "end":  "2026-11-07T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T14:00:00.0000000",
+        "title":  "CBS News New York Saturday 9am",
+        "desc":  "Weekend news coverage.",
+        "end":  "2026-11-07T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T15:00:00.0000000",
+        "title":  "CBS News New York Saturday 10am",
+        "desc":  "Weekend news coverage.",
+        "end":  "2026-11-07T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T16:00:00.0000000",
+        "title":  "CBS News New York Saturday 11am",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-11-07T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T16:30:00.0000000",
+        "title":  "The Point",
+        "desc":  "",
+        "end":  "2026-11-07T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T17:00:00.0000000",
+        "title":  "Live: NWSL Soccer",
+        "desc":  "The Kansas City Current hosts Angel City FC in an NWSL quarterfinal game. Both teams enter on three-game winning streaks after their last meeting ended 1-1. Temwa Chawinga leads Kansas City in goals, while Sveindis Jonsdottir paces Angel City.",
+        "end":  "2026-11-07T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T19:30:00.0000000",
+        "title":  "Live: College Football Today",
+        "desc":  "Adam Zucker, Brian Jones and Rick Neuheisel present all the day\u0027s news and highlights on CBS\u0027 pregame, halftime and postgame studio show.",
+        "end":  "2026-11-07T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-07T20:30:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "All the action from college football.",
         "end":  "2026-11-08T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T00:00:00.0000000",
+        "title":  "Live: Postgame Show",
+        "desc":  "College football postgame.",
+        "end":  "2026-11-08T00:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T00:30:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From Michie Stadium in West Point, N.Y.",
+        "end":  "2026-11-08T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T04:00:00.0000000",
+        "title":  "CBS News New York at 11P",
+        "desc":  "Jessica Moore hosts.",
+        "end":  "2026-11-08T04:35:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T04:35:00.0000000",
+        "title":  "Official Jets Podcast",
+        "desc":  "Eric Allen and Bart Scott deliver exclusive insight, analysis and perspectives on the New York Jets.",
+        "end":  "2026-11-08T05:05:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T05:05:00.0000000",
+        "title":  "Blue Bloods",
+        "desc":  "Danny considers taking a new, more profitable job after investigating the death of a wealthy man; Nicky tries to avoid involving her family when she is sexually harassed by her boss at her new internship.",
+        "end":  "2026-11-09T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T00:00:00.0000000",
+        "title":  "Live: Postgame Show",
+        "desc":  "College football postgame.",
+        "end":  "2026-11-08T00:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T00:30:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From Michie Stadium in West Point, N.Y.",
+        "end":  "2026-11-08T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T04:00:00.0000000",
+        "title":  "CBS News New York at 11P",
+        "desc":  "Jessica Moore hosts.",
+        "end":  "2026-11-08T04:35:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T04:35:00.0000000",
+        "title":  "Official Jets Podcast",
+        "desc":  "Eric Allen and Bart Scott deliver exclusive insight, analysis and perspectives on the New York Jets.",
+        "end":  "2026-11-08T05:05:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T05:05:00.0000000",
+        "title":  "Blue Bloods",
+        "desc":  "Danny considers taking a new, more profitable job after investigating the death of a wealthy man; Nicky tries to avoid involving her family when she is sexually harassed by her boss at her new internship.",
+        "end":  "2026-11-09T00:00:00.0000000"
     }
 ]
