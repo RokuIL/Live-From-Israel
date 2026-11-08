@@ -1,602 +1,662 @@
 [
     {
-        "start":  "2026-11-07T00:00:00.0000000",
+        "start":  "2026-11-08T00:00:00.0000000",
+        "title":  "Live: Postgame Show",
+        "desc":  "College football postgame.",
+        "end":  "2026-11-08T00:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T00:30:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From Michie Stadium in West Point, N.Y.",
+        "end":  "2026-11-08T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T04:00:00.0000000",
+        "title":  "CBS News New York at 11P",
+        "desc":  "Jessica Moore hosts.",
+        "end":  "2026-11-08T04:35:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T04:35:00.0000000",
+        "title":  "Official Jets Podcast",
+        "desc":  "Eric Allen and Bart Scott deliver exclusive insight, analysis and perspectives on the New York Jets.",
+        "end":  "2026-11-08T05:05:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T05:05:00.0000000",
+        "title":  "Blue Bloods",
+        "desc":  "Danny considers taking a new, more profitable job after investigating the death of a wealthy man; Nicky tries to avoid involving her family when she is sexually harassed by her boss at her new internship.",
+        "end":  "2026-11-08T06:05:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T06:05:00.0000000",
+        "title":  "Blue Bloods",
+        "desc":  "A man living a double life with two separate families is murdered; Erin asks Anthony to help investigate his former partner; Frank deliberates between two candidates for the chief of transit position.",
+        "end":  "2026-11-08T07:05:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T07:05:00.0000000",
+        "title":  "Inside Edition Weekend",
+        "desc":  "A news magazine show covering entertainment news and celebrity reports; investigative reports dig into top stories and human interest headlines.",
+        "end":  "2026-11-08T07:35:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T07:35:00.0000000",
+        "title":  "InvestigateTV+ Weekend",
+        "desc":  "An in-depth look at topics from politics to personal finance, featuring watchdog reports about government corruption and failures, consumer alerts and health care issues.",
+        "end":  "2026-11-08T08:05:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T08:05:00.0000000",
+        "title":  "In Touch With Dr. Charles Stanley",
+        "desc":  "Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.",
+        "end":  "2026-11-08T08:35:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T08:35:00.0000000",
+        "title":  "See Wrinkles and Bags Vanish Instantly With GEN90!!",
+        "desc":  "GEN90 Instant Wrinkle Treatment with Retinol will turn back the clock! The Pharmacist\u0027s solution for wrinkles, instant and long-term! Visibly reduces the appearance of crow\u0027s feet and fine lines instantly! Get fast, visible, long-lasting results!",
+        "end":  "2026-11-08T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T09:00:00.0000000",
+        "title":  "Made in Hollywood",
+        "desc":  "Stay up-to-date with the latest releases in theaters and on DVD with this syndicated series that features interviews with all the big-name stars and a behind-the-screen segment filled with inside information.",
+        "end":  "2026-11-08T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T09:30:00.0000000",
+        "title":  "Inside Edition Weekend",
+        "desc":  "A news magazine show covering entertainment news and celebrity reports; investigative reports dig into top stories and human interest headlines.",
+        "end":  "2026-11-08T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T10:00:00.0000000",
+        "title":  "Entertainment Tonight",
+        "desc":  "News and features about performers, productions and the milieu.",
+        "end":  "2026-11-08T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T11:00:00.0000000",
+        "title":  "Hope in the Wild",
+        "desc":  "As Hope and her team prepare for the annual open house, rehabbed patients are ready for release; a new marine mammal unit is ready for use; a swarm of bees must be contained.",
+        "end":  "2026-11-08T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T11:30:00.0000000",
+        "title":  "The Visioneers With Zay Harding",
+        "desc":  "How electric vehicle batteries get a powerful second life; space-derived smart tires are tested.",
+        "end":  "2026-11-08T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T12:00:00.0000000",
+        "title":  "CBS News New York Sunday 7am",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-11-08T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T13:00:00.0000000",
+        "title":  "CBS News New York Sunday 8am",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-11-08T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T14:00:00.0000000",
+        "title":  "CBS News Sunday Morning",
+        "desc":  "News, features, weather and commentary.",
+        "end":  "2026-11-08T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T15:30:00.0000000",
+        "title":  "Face the Nation",
+        "desc":  "Margaret Brennan hosts news interviews with distinguished national and foreign figures, offering insight and analysis on the top issues of the day.",
+        "end":  "2026-11-08T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T16:30:00.0000000",
+        "title":  "Jets Gameday",
+        "desc":  "Caroline Hendershot and Quincy Enunwa preview the matchup with expert analysis, key storylines and everything you need to know before kickoff.",
+        "end":  "2026-11-08T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T17:00:00.0000000",
+        "title":  "Live: The NFL Today",
+        "desc":  "Featuring highlights, analysis, and the latest news across the league with host James Brown alongside analysts Nate Burleson, Bill Cowher, Russell Wilson and Kyle Long.",
+        "end":  "2026-11-08T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T18:00:00.0000000",
+        "title":  "Live: NFL Football",
+        "desc":  "The Kansas City Chiefs host the New York Jets in an NFL regular-season game at Arrowhead Stadium. Kansas City enters at 5-2 but has dropped two straight games, while New York arrives at 2-6 and has lost three games in a row heading into this matchup.",
+        "end":  "2026-11-08T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T21:00:00.0000000",
+        "title":  "Live: NFL Today Postgame",
+        "desc":  "Featuring highlights, analysis, and the latest news across the league with host James Brown alongside analysts Nate Burleson, Bill Cowher, Matt Ryan, JJ Watt and lead NFL insider Jonathan Jones.",
+        "end":  "2026-11-08T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T21:30:00.0000000",
+        "title":  "Live: NFL Today Postgame",
+        "desc":  "Featuring highlights, analysis, and the latest news across the league with host James Brown alongside analysts Nate Burleson, Bill Cowher, Matt Ryan, JJ Watt and lead NFL insider Jonathan Jones.",
+        "end":  "2026-11-08T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T22:00:00.0000000",
+        "title":  "The Road to Vegas: 2026 PBR Teams Championship Countdown",
+        "desc":  "",
+        "end":  "2026-11-08T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T23:00:00.0000000",
+        "title":  "CBS Evening News",
+        "desc":  "Tony Dokoupil shares the day\u0027s most important stories, delivering context and depth to bring greater understanding to one\u0027s world.",
+        "end":  "2026-11-08T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T23:30:00.0000000",
+        "title":  "CBS News New York",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-11-09T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T00:00:00.0000000",
+        "title":  "60 Minutes",
+        "desc":  "Newsmagazine with features focusing on people, and events in the news and behind the headlines.",
+        "end":  "2026-11-09T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T01:00:00.0000000",
+        "title":  "Cupertino",
+        "desc":  "When Christy\u0027s roommate is denied a transplant due to an AI algorithm swapping the order of the list to put a wealthy man above her, Michael and Olivia race to get a judge on board to stop the surgery.",
+        "end":  "2026-11-09T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T02:00:00.0000000",
+        "title":  "Cupertino",
+        "desc":  "Michael and Olivia take on the goliaths of Silicon Valley in a high-stakes fight for justice.",
+        "end":  "2026-11-09T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T03:00:00.0000000",
+        "title":  "Cupertino",
+        "desc":  "Michael and Olivia defend Vik Malhotra, a Silicon Valley coder being held responsible for an errant drone that killed an onlooker during an elaborate drone display; Christy vets a potential new whistleblower client.",
+        "end":  "2026-11-09T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T04:00:00.0000000",
+        "title":  "CBS News New York 11pm",
+        "desc":  "Local news coverage.",
+        "end":  "2026-11-09T04:35:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T04:35:00.0000000",
+        "title":  "Jets Late Night",
+        "desc":  "",
+        "end":  "2026-11-09T05:05:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T05:05:00.0000000",
+        "title":  "Joni Table Talk",
+        "desc":  "Joni Lamb, a seasoned interviewer, author, and respected leader in the global faith-based community, hosts this roundtable discussion tackling a wide range of relevant issues and hard-hitting topics with candor, humor, and wit.",
+        "end":  "2026-11-09T05:35:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T05:35:00.0000000",
+        "title":  "Looking for a Medicare plan? Tune in now!",
+        "desc":  "The Medicare annual election period ends on December 7th. Watch and learn about Humana Medicare Advantage plans.",
+        "end":  "2026-11-09T06:05:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T06:05:00.0000000",
+        "title":  "The Equalizer",
+        "desc":  "Mel\u0027s military proves critical when McCall is hired by the D.A. to find a sniper; Delilah experiences PTSD as a result of the shootings.",
+        "end":  "2026-11-09T07:05:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T07:05:00.0000000",
+        "title":  "InvestigateTV+ Weekend",
+        "desc":  "An in-depth look at topics from politics to personal finance, featuring watchdog reports about government corruption and failures, consumer alerts and health care issues.",
+        "end":  "2026-11-09T07:35:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T07:35:00.0000000",
+        "title":  "Face the Nation",
+        "desc":  "Margaret Brennan hosts news interviews with distinguished national and foreign figures, offering insight and analysis on the top issues of the day.",
+        "end":  "2026-11-09T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T08:00:00.0000000",
+        "title":  "CBS News Roundup",
+        "desc":  "The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.",
+        "end":  "2026-11-09T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T09:00:00.0000000",
+        "title":  "CBS News Mornings",
+        "desc":  "CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.",
+        "end":  "2026-11-09T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T09:30:00.0000000",
+        "title":  "CBS News New York This Morning 4:30am",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-11-09T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T10:00:00.0000000",
+        "title":  "CBS News New York This Morning 5am",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-11-09T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T11:00:00.0000000",
+        "title":  "CBS News New York This Morning 6am",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-11-09T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T12:00:00.0000000",
+        "title":  "CBS Mornings",
+        "desc":  "Actor LeVar Burton; journalist David Begnaud.",
+        "end":  "2026-11-09T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T14:00:00.0000000",
+        "title":  "The Drew Barrymore Show",
+        "desc":  "Drew Barrymore presents human-interest stories, celebrity guests, lifestyle segments and field pieces, all driven by her infectious brand of humor and optimism.",
+        "end":  "2026-11-09T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T14:30:00.0000000",
+        "title":  "The Drew Barrymore Show",
+        "desc":  "Drew Barrymore presents human-interest stories, celebrity guests, lifestyle segments and field pieces, all driven by her infectious brand of humor and optimism.",
+        "end":  "2026-11-09T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T15:00:00.0000000",
+        "title":  "Let\u0027s Make a Deal",
+        "desc":  "Contestants in quirky costumes bargain with host Wayne Brady, trading for cash or mystery prizes.",
+        "end":  "2026-11-09T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T16:00:00.0000000",
+        "title":  "The Price Is Right",
+        "desc":  "Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.",
+        "end":  "2026-11-09T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T17:00:00.0000000",
+        "title":  "CBS News New York 12pm",
+        "desc":  "Midday news update.",
+        "end":  "2026-11-09T17:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T17:30:00.0000000",
+        "title":  "The Young and the Restless",
+        "desc":  "Drama revolves around three families in Genoa City.",
+        "end":  "2026-11-09T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T18:30:00.0000000",
+        "title":  "The Bold and the Beautiful",
+        "desc":  "Set in the glamorous world of the Los Angeles fashion scene, this soap opera focuses on the wealthy and powerful Forrester family; its company, Forrester Creations, is the leader in the fashion industry.",
+        "end":  "2026-11-09T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T19:00:00.0000000",
+        "title":  "Beyond the Gates",
+        "desc":  "The Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty, live, love, work and play in a leafy Maryland suburb just outside of Washington D.C.",
+        "end":  "2026-11-09T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T20:00:00.0000000",
+        "title":  "Judge Judy",
+        "desc":  "A teen says his ex-girlfriend\u0027s new boyfriend vandalized his truck; college athletes say they had to move because their landlord\u0027s son smoked marijuana.",
+        "end":  "2026-11-09T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T20:30:00.0000000",
+        "title":  "Adam\u0027s Law",
+        "desc":  "A former roommate says her landlord\u0027s wild life and verbal abuse made the home unbearable.",
+        "end":  "2026-11-09T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T21:00:00.0000000",
+        "title":  "Hot Bench",
+        "desc":  "A funeral trip turns into a bitter battle over grief and money: one woman says she paid for flights and loans out of kindness, while the other argues that the financial help came with changing terms and unexpected strings attached.",
+        "end":  "2026-11-09T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T21:30:00.0000000",
+        "title":  "Hot Bench",
+        "desc":  "A separated couple battle over a costly cosmetic crisis; she says a heated argument left her with a ruptured implant and a contract for him to pay half the repair bill; he insists it was an accident and says she\u0027s using the fight to cash in.",
+        "end":  "2026-11-09T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T22:00:00.0000000",
+        "title":  "CBS News New York 5pm",
+        "desc":  "Evening news coverage.",
+        "end":  "2026-11-09T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T23:00:00.0000000",
+        "title":  "CBS News New York 6pm",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-11-09T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T23:30:00.0000000",
+        "title":  "CBS Evening News",
+        "desc":  "Tony Dokoupil shares the day\u0027s most important stories, delivering context and depth to bring greater understanding to one\u0027s world.",
+        "end":  "2026-11-10T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T00:00:00.0000000",
         "title":  "Inside Edition",
         "desc":  "A syndicated news magazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.",
-        "end":  "2026-11-07T00:30:00.0000000"
+        "end":  "2026-11-11T00:00:00.0000000"
     },
     {
-        "start":  "2026-11-07T00:30:00.0000000",
-        "title":  "Entertainment Tonight",
-        "desc":  "News and features about performers, productions and the milieu.",
-        "end":  "2026-11-07T01:00:00.0000000"
+        "start":  "2026-11-09T00:00:00.0000000",
+        "title":  "60 Minutes",
+        "desc":  "Newsmagazine with features focusing on people, and events in the news and behind the headlines.",
+        "end":  "2026-11-09T01:00:00.0000000"
     },
     {
-        "start":  "2026-11-07T01:00:00.0000000",
-        "title":  "Sheriff Country",
-        "desc":  "When a dangerous prison break escalates into a volatile hostage crisis, Sheriff Mickey Fox must make a high-stakes decision with personal consequences that could change the course of the case and put lives on the line.",
-        "end":  "2026-11-07T02:00:00.0000000"
+        "start":  "2026-11-09T01:00:00.0000000",
+        "title":  "Cupertino",
+        "desc":  "When Christy\u0027s roommate is denied a transplant due to an AI algorithm swapping the order of the list to put a wealthy man above her, Michael and Olivia race to get a judge on board to stop the surgery.",
+        "end":  "2026-11-09T02:00:00.0000000"
     },
     {
-        "start":  "2026-11-07T02:00:00.0000000",
-        "title":  "Fire Country",
-        "desc":  "When escaped convicts trigger a dangerous manhunt, Bode and the Station 42 crew join forces with Sheriff Mickey Fox and her deputies to protect their loved ones and the community caught in the crossfire.",
-        "end":  "2026-11-07T03:00:00.0000000"
+        "start":  "2026-11-09T02:00:00.0000000",
+        "title":  "Cupertino",
+        "desc":  "Michael and Olivia take on the goliaths of Silicon Valley in a high-stakes fight for justice.",
+        "end":  "2026-11-09T03:00:00.0000000"
     },
     {
-        "start":  "2026-11-07T03:00:00.0000000",
-        "title":  "Boston Blue",
-        "desc":  "Jamie Reagan\u0027s visit to Boston takes an unexpected turn when he and Danny are drawn into a diamond heist linked to a violent family feud, forcing the brothers to confront lingering tensions of their own; Lena investigates suspicious deaths.",
-        "end":  "2026-11-07T04:00:00.0000000"
+        "start":  "2026-11-09T03:00:00.0000000",
+        "title":  "Cupertino",
+        "desc":  "Michael and Olivia defend Vik Malhotra, a Silicon Valley coder being held responsible for an errant drone that killed an onlooker during an elaborate drone display; Christy vets a potential new whistleblower client.",
+        "end":  "2026-11-09T04:00:00.0000000"
     },
     {
-        "start":  "2026-11-07T04:00:00.0000000",
+        "start":  "2026-11-09T04:00:00.0000000",
         "title":  "CBS News New York 11pm",
         "desc":  "Local news coverage.",
-        "end":  "2026-11-07T04:35:00.0000000"
+        "end":  "2026-11-09T04:35:00.0000000"
     },
     {
-        "start":  "2026-11-07T04:35:00.0000000",
-        "title":  "Comics Unleashed With Byron Allen",
-        "desc":  "Luz Pazos, Ty Barnett, Steve Mazan and Maz Jobrani.",
-        "end":  "2026-11-07T05:05:00.0000000"
+        "start":  "2026-11-09T04:35:00.0000000",
+        "title":  "Jets Late Night",
+        "desc":  "",
+        "end":  "2026-11-09T05:05:00.0000000"
     },
     {
-        "start":  "2026-11-07T05:05:00.0000000",
-        "title":  "Comics Unleashed With Byron Allen",
-        "desc":  "Monty Franklin; Tehran; Brittany Ross; Taylor Williamson.",
-        "end":  "2026-11-07T05:37:00.0000000"
+        "start":  "2026-11-09T05:05:00.0000000",
+        "title":  "Joni Table Talk",
+        "desc":  "Joni Lamb, a seasoned interviewer, author, and respected leader in the global faith-based community, hosts this roundtable discussion tackling a wide range of relevant issues and hard-hitting topics with candor, humor, and wit.",
+        "end":  "2026-11-09T05:35:00.0000000"
     },
     {
-        "start":  "2026-11-07T05:37:00.0000000",
-        "title":  "Funny You Should Ask",
-        "desc":  "Jamie Kennedy, Sheryl Underwood, Brad Williams, Byron Allen, Natasha Leggero and Tommy Davidson.",
-        "end":  "2026-11-07T06:07:00.0000000"
+        "start":  "2026-11-09T05:35:00.0000000",
+        "title":  "Looking for a Medicare plan? Tune in now!",
+        "desc":  "The Medicare annual election period ends on December 7th. Watch and learn about Humana Medicare Advantage plans.",
+        "end":  "2026-11-09T06:05:00.0000000"
     },
     {
-        "start":  "2026-11-07T06:07:00.0000000",
-        "title":  "Funny You Should Ask",
-        "desc":  "Billy Gardell, Sheryl Underwood, Jamie Kennedy, Byron Allen, Caroline Rhea and Brad Williams.",
-        "end":  "2026-11-07T06:37:00.0000000"
+        "start":  "2026-11-09T06:05:00.0000000",
+        "title":  "The Equalizer",
+        "desc":  "Mel\u0027s military proves critical when McCall is hired by the D.A. to find a sniper; Delilah experiences PTSD as a result of the shootings.",
+        "end":  "2026-11-09T07:05:00.0000000"
     },
     {
-        "start":  "2026-11-07T06:37:00.0000000",
-        "title":  "Funny You Should Ask",
-        "desc":  "Jamie Kennedy; Sheryl Underwood; Brad Williams; Byron Allen; Natasha Leggero; Tommy Davidson.",
-        "end":  "2026-11-07T07:07:00.0000000"
+        "start":  "2026-11-09T07:05:00.0000000",
+        "title":  "InvestigateTV+ Weekend",
+        "desc":  "An in-depth look at topics from politics to personal finance, featuring watchdog reports about government corruption and failures, consumer alerts and health care issues.",
+        "end":  "2026-11-09T07:35:00.0000000"
     },
     {
-        "start":  "2026-11-07T07:07:00.0000000",
-        "title":  "Protect Your Family From Identity Theft",
-        "desc":  "Every 5 seconds there\u0027s a victim of identity theft; LifeLock helps alert you, restore your identity, and reimburse lost fundsâ€”leading the way in protecting families every day.",
-        "end":  "2026-11-07T07:37:00.0000000"
+        "start":  "2026-11-09T07:35:00.0000000",
+        "title":  "Face the Nation",
+        "desc":  "Margaret Brennan hosts news interviews with distinguished national and foreign figures, offering insight and analysis on the top issues of the day.",
+        "end":  "2026-11-09T08:00:00.0000000"
     },
     {
-        "start":  "2026-11-07T07:37:00.0000000",
-        "title":  "Paid Programming",
-        "desc":  "Paid programming.",
-        "end":  "2026-11-07T08:07:00.0000000"
+        "start":  "2026-11-09T08:00:00.0000000",
+        "title":  "CBS News Roundup",
+        "desc":  "The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.",
+        "end":  "2026-11-09T09:00:00.0000000"
     },
     {
-        "start":  "2026-11-07T08:07:00.0000000",
-        "title":  "CBS Evening News",
-        "desc":  "Tony Dokoupil shares the day\u0027s most important stories, delivering context and depth to bring greater understanding to one\u0027s world.",
-        "end":  "2026-11-07T08:37:00.0000000"
+        "start":  "2026-11-09T09:00:00.0000000",
+        "title":  "CBS News Mornings",
+        "desc":  "CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.",
+        "end":  "2026-11-09T09:30:00.0000000"
     },
     {
-        "start":  "2026-11-07T08:37:00.0000000",
-        "title":  "Missing",
-        "desc":  "Missing persons cases come from all over the United States.",
-        "end":  "2026-11-07T09:00:00.0000000"
+        "start":  "2026-11-09T09:30:00.0000000",
+        "title":  "CBS News New York This Morning 4:30am",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-11-09T10:00:00.0000000"
     },
     {
-        "start":  "2026-11-07T09:00:00.0000000",
-        "title":  "Pets.TV",
-        "desc":  "On the breathtaking island of Madagascar, 113 species of lemurs leap through the treetops.",
-        "end":  "2026-11-07T09:30:00.0000000"
+        "start":  "2026-11-09T10:00:00.0000000",
+        "title":  "CBS News New York This Morning 5am",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-11-09T11:00:00.0000000"
     },
     {
-        "start":  "2026-11-07T09:30:00.0000000",
-        "title":  "Real Green",
-        "desc":  "Green success stories; recycling cardboard tubes.",
-        "end":  "2026-11-07T10:00:00.0000000"
+        "start":  "2026-11-09T11:00:00.0000000",
+        "title":  "CBS News New York This Morning 6am",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-11-09T12:00:00.0000000"
     },
     {
-        "start":  "2026-11-07T10:00:00.0000000",
+        "start":  "2026-11-09T12:00:00.0000000",
+        "title":  "CBS Mornings",
+        "desc":  "Actor LeVar Burton; journalist David Begnaud.",
+        "end":  "2026-11-09T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T14:00:00.0000000",
+        "title":  "The Drew Barrymore Show",
+        "desc":  "Drew Barrymore presents human-interest stories, celebrity guests, lifestyle segments and field pieces, all driven by her infectious brand of humor and optimism.",
+        "end":  "2026-11-09T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T14:30:00.0000000",
+        "title":  "The Drew Barrymore Show",
+        "desc":  "Drew Barrymore presents human-interest stories, celebrity guests, lifestyle segments and field pieces, all driven by her infectious brand of humor and optimism.",
+        "end":  "2026-11-09T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T15:00:00.0000000",
+        "title":  "Let\u0027s Make a Deal",
+        "desc":  "Contestants in quirky costumes bargain with host Wayne Brady, trading for cash or mystery prizes.",
+        "end":  "2026-11-09T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T16:00:00.0000000",
+        "title":  "The Price Is Right",
+        "desc":  "Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.",
+        "end":  "2026-11-09T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T17:00:00.0000000",
+        "title":  "CBS News New York 12pm",
+        "desc":  "Midday news update.",
+        "end":  "2026-11-09T17:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T17:30:00.0000000",
+        "title":  "The Young and the Restless",
+        "desc":  "Drama revolves around three families in Genoa City.",
+        "end":  "2026-11-09T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T18:30:00.0000000",
+        "title":  "The Bold and the Beautiful",
+        "desc":  "Set in the glamorous world of the Los Angeles fashion scene, this soap opera focuses on the wealthy and powerful Forrester family; its company, Forrester Creations, is the leader in the fashion industry.",
+        "end":  "2026-11-09T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T19:00:00.0000000",
+        "title":  "Beyond the Gates",
+        "desc":  "The Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty, live, love, work and play in a leafy Maryland suburb just outside of Washington D.C.",
+        "end":  "2026-11-09T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T20:00:00.0000000",
         "title":  "Judge Judy",
-        "desc":  "A woman sues her husband\u0027s former neighbor for having her arrested; a shooter denies sending an arrow through the roof of a woman\u0027s car, saying none of his arrows are missing.",
-        "end":  "2026-11-07T10:30:00.0000000"
+        "desc":  "A teen says his ex-girlfriend\u0027s new boyfriend vandalized his truck; college athletes say they had to move because their landlord\u0027s son smoked marijuana.",
+        "end":  "2026-11-09T20:30:00.0000000"
     },
     {
-        "start":  "2026-11-07T10:30:00.0000000",
-        "title":  "Game Time With Boomer Esiason",
-        "desc":  "Former professional football player Will Shields.",
-        "end":  "2026-11-07T11:00:00.0000000"
+        "start":  "2026-11-09T20:30:00.0000000",
+        "title":  "Adam\u0027s Law",
+        "desc":  "A former roommate says her landlord\u0027s wild life and verbal abuse made the home unbearable.",
+        "end":  "2026-11-09T21:00:00.0000000"
     },
     {
-        "start":  "2026-11-07T11:00:00.0000000",
-        "title":  "Lucky Dog: Paws With Purpose",
-        "desc":  "A playful poodle named Steve could be the perfect fit for a Marine Corps veteran and her daughter, who are hoping to give their current dog, a service animal, a new companion.",
-        "end":  "2026-11-07T11:30:00.0000000"
+        "start":  "2026-11-09T21:00:00.0000000",
+        "title":  "Hot Bench",
+        "desc":  "A funeral trip turns into a bitter battle over grief and money: one woman says she paid for flights and loans out of kindness, while the other argues that the financial help came with changing terms and unexpected strings attached.",
+        "end":  "2026-11-09T21:30:00.0000000"
     },
     {
-        "start":  "2026-11-07T11:30:00.0000000",
-        "title":  "Lucky Dog: Down Under",
-        "desc":  "A 9-year-old is looking for a best friend to grow up with; a teenager with a rare condition hopes a 6-month-old whippet-kelpie mix named Tess will be the calming companion he needs.",
-        "end":  "2026-11-07T12:00:00.0000000"
+        "start":  "2026-11-09T21:30:00.0000000",
+        "title":  "Hot Bench",
+        "desc":  "A separated couple battle over a costly cosmetic crisis; she says a heated argument left her with a ruptured implant and a contract for him to pay half the repair bill; he insists it was an accident and says she\u0027s using the fight to cash in.",
+        "end":  "2026-11-09T22:00:00.0000000"
     },
     {
-        "start":  "2026-11-07T12:00:00.0000000",
-        "title":  "CBS Saturday Morning",
-        "desc":  "Each Saturday morning, Adriana Diaz and Kelly O\u0027Grady report on the week\u0027s top stories; the broadcast, known for its signature segments The Dish and Saturday Sessions, offers insightful conversations with artists, authors, chefs and musicians.",
-        "end":  "2026-11-07T14:00:00.0000000"
+        "start":  "2026-11-09T22:00:00.0000000",
+        "title":  "CBS News New York 5pm",
+        "desc":  "Evening news coverage.",
+        "end":  "2026-11-09T23:00:00.0000000"
     },
     {
-        "start":  "2026-11-07T14:00:00.0000000",
-        "title":  "CBS News New York Saturday 9am",
-        "desc":  "Weekend news coverage.",
-        "end":  "2026-11-07T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T15:00:00.0000000",
-        "title":  "CBS News New York Saturday 10am",
-        "desc":  "Weekend news coverage.",
-        "end":  "2026-11-07T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T16:00:00.0000000",
-        "title":  "CBS News New York Saturday 11am",
+        "start":  "2026-11-09T23:00:00.0000000",
+        "title":  "CBS News New York 6pm",
         "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-11-07T16:30:00.0000000"
+        "end":  "2026-11-09T23:30:00.0000000"
     },
     {
-        "start":  "2026-11-07T16:30:00.0000000",
-        "title":  "The Point",
-        "desc":  "",
-        "end":  "2026-11-07T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T17:00:00.0000000",
-        "title":  "Live: NWSL Soccer",
-        "desc":  "The Kansas City Current hosts Angel City FC in an NWSL quarterfinal game. Both teams enter on three-game winning streaks after their last meeting ended 1-1. Temwa Chawinga leads Kansas City in goals, while Sveindis Jonsdottir paces Angel City.",
-        "end":  "2026-11-07T19:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T19:30:00.0000000",
-        "title":  "Live: College Football Today",
-        "desc":  "Adam Zucker, Brian Jones and Rick Neuheisel present all the day\u0027s news and highlights on CBS\u0027 pregame, halftime and postgame studio show.",
-        "end":  "2026-11-07T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T20:30:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "All the action from college football.",
-        "end":  "2026-11-08T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T00:00:00.0000000",
-        "title":  "Live: Postgame Show",
-        "desc":  "College football postgame.",
-        "end":  "2026-11-08T00:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T00:30:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "From Michie Stadium in West Point, N.Y.",
-        "end":  "2026-11-08T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T04:00:00.0000000",
-        "title":  "CBS News New York at 11P",
-        "desc":  "Jessica Moore hosts.",
-        "end":  "2026-11-08T04:35:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T04:35:00.0000000",
-        "title":  "Official Jets Podcast",
-        "desc":  "Eric Allen and Bart Scott deliver exclusive insight, analysis and perspectives on the New York Jets.",
-        "end":  "2026-11-08T05:05:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T05:05:00.0000000",
-        "title":  "Blue Bloods",
-        "desc":  "Danny considers taking a new, more profitable job after investigating the death of a wealthy man; Nicky tries to avoid involving her family when she is sexually harassed by her boss at her new internship.",
-        "end":  "2026-11-08T06:05:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T06:05:00.0000000",
-        "title":  "Blue Bloods",
-        "desc":  "A man living a double life with two separate families is murdered; Erin asks Anthony to help investigate his former partner; Frank deliberates between two candidates for the chief of transit position.",
-        "end":  "2026-11-08T07:05:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T07:05:00.0000000",
-        "title":  "Inside Edition Weekend",
-        "desc":  "A news magazine show covering entertainment news and celebrity reports; investigative reports dig into top stories and human interest headlines.",
-        "end":  "2026-11-08T07:35:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T07:35:00.0000000",
-        "title":  "InvestigateTV+ Weekend",
-        "desc":  "An in-depth look at topics from politics to personal finance, featuring watchdog reports about government corruption and failures, consumer alerts and health care issues.",
-        "end":  "2026-11-08T08:05:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T08:05:00.0000000",
-        "title":  "In Touch With Dr. Charles Stanley",
-        "desc":  "Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.",
-        "end":  "2026-11-08T08:35:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T08:35:00.0000000",
-        "title":  "See Wrinkles and Bags Vanish Instantly With GEN90!!",
-        "desc":  "GEN90 Instant Wrinkle Treatment with Retinol will turn back the clock! The Pharmacist\u0027s solution for wrinkles, instant and long-term! Visibly reduces the appearance of crow\u0027s feet and fine lines instantly! Get fast, visible, long-lasting results!",
-        "end":  "2026-11-08T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T09:00:00.0000000",
-        "title":  "Made in Hollywood",
-        "desc":  "Stay up-to-date with the latest releases in theaters and on DVD with this syndicated series that features interviews with all the big-name stars and a behind-the-screen segment filled with inside information.",
-        "end":  "2026-11-08T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T09:30:00.0000000",
-        "title":  "Inside Edition Weekend",
-        "desc":  "A news magazine show covering entertainment news and celebrity reports; investigative reports dig into top stories and human interest headlines.",
-        "end":  "2026-11-08T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T10:00:00.0000000",
-        "title":  "Entertainment Tonight",
-        "desc":  "News and features about performers, productions and the milieu.",
-        "end":  "2026-11-08T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T11:00:00.0000000",
-        "title":  "Hope in the Wild",
-        "desc":  "As Hope and her team prepare for the annual open house, rehabbed patients are ready for release; a new marine mammal unit is ready for use; a swarm of bees must be contained.",
-        "end":  "2026-11-08T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T11:30:00.0000000",
-        "title":  "The Visioneers With Zay Harding",
-        "desc":  "How electric vehicle batteries get a powerful second life; space-derived smart tires are tested.",
-        "end":  "2026-11-08T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T12:00:00.0000000",
-        "title":  "CBS News New York Sunday 7am",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-11-08T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T13:00:00.0000000",
-        "title":  "CBS News New York Sunday 8am",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-11-08T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T14:00:00.0000000",
-        "title":  "CBS News Sunday Morning",
-        "desc":  "News, features, weather and commentary.",
-        "end":  "2026-11-08T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T15:30:00.0000000",
-        "title":  "Face the Nation",
-        "desc":  "Margaret Brennan hosts news interviews with distinguished national and foreign figures, offering insight and analysis on the top issues of the day.",
-        "end":  "2026-11-08T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T16:30:00.0000000",
-        "title":  "Jets Gameday",
-        "desc":  "Caroline Hendershot and Quincy Enunwa preview the matchup with expert analysis, key storylines and everything you need to know before kickoff.",
-        "end":  "2026-11-08T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T17:00:00.0000000",
-        "title":  "Live: The NFL Today",
-        "desc":  "Featuring highlights, analysis, and the latest news across the league with host James Brown alongside analysts Nate Burleson, Bill Cowher, Russell Wilson and Kyle Long.",
-        "end":  "2026-11-08T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T18:00:00.0000000",
-        "title":  "Live: NFL Football",
-        "desc":  "The Kansas City Chiefs host the New York Jets in an NFL regular-season game at Arrowhead Stadium. Kansas City enters at 5-2 but has dropped two straight games, while New York arrives at 2-6 and has lost three games in a row heading into this matchup.",
-        "end":  "2026-11-08T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T21:00:00.0000000",
-        "title":  "Live: NFL Today Postgame",
-        "desc":  "Featuring highlights, analysis, and the latest news across the league with host James Brown alongside analysts Nate Burleson, Bill Cowher, Matt Ryan, JJ Watt and lead NFL insider Jonathan Jones.",
-        "end":  "2026-11-08T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T21:30:00.0000000",
-        "title":  "Live: NFL Today Postgame",
-        "desc":  "Featuring highlights, analysis, and the latest news across the league with host James Brown alongside analysts Nate Burleson, Bill Cowher, Matt Ryan, JJ Watt and lead NFL insider Jonathan Jones.",
-        "end":  "2026-11-08T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T22:00:00.0000000",
-        "title":  "The Road to Vegas: 2026 PBR Teams Championship Countdown",
-        "desc":  "",
-        "end":  "2026-11-08T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T23:00:00.0000000",
+        "start":  "2026-11-09T23:30:00.0000000",
         "title":  "CBS Evening News",
         "desc":  "Tony Dokoupil shares the day\u0027s most important stories, delivering context and depth to bring greater understanding to one\u0027s world.",
-        "end":  "2026-11-08T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T23:30:00.0000000",
-        "title":  "CBS News New York",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-11-09T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T00:00:00.0000000",
-        "title":  "60 Minutes",
-        "desc":  "Newsmagazine with features focusing on people, and events in the news and behind the headlines.",
         "end":  "2026-11-10T00:00:00.0000000"
     },
     {
-        "start":  "2026-11-08T00:00:00.0000000",
-        "title":  "Live: Postgame Show",
-        "desc":  "College football postgame.",
-        "end":  "2026-11-08T00:30:00.0000000"
+        "start":  "2026-11-10T00:00:00.0000000",
+        "title":  "Inside Edition",
+        "desc":  "A syndicated news magazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.",
+        "end":  "2026-11-10T00:30:00.0000000"
     },
     {
-        "start":  "2026-11-08T00:30:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "From Michie Stadium in West Point, N.Y.",
-        "end":  "2026-11-08T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T04:00:00.0000000",
-        "title":  "CBS News New York at 11P",
-        "desc":  "Jessica Moore hosts.",
-        "end":  "2026-11-08T04:35:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T04:35:00.0000000",
-        "title":  "Official Jets Podcast",
-        "desc":  "Eric Allen and Bart Scott deliver exclusive insight, analysis and perspectives on the New York Jets.",
-        "end":  "2026-11-08T05:05:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T05:05:00.0000000",
-        "title":  "Blue Bloods",
-        "desc":  "Danny considers taking a new, more profitable job after investigating the death of a wealthy man; Nicky tries to avoid involving her family when she is sexually harassed by her boss at her new internship.",
-        "end":  "2026-11-08T06:05:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T06:05:00.0000000",
-        "title":  "Blue Bloods",
-        "desc":  "A man living a double life with two separate families is murdered; Erin asks Anthony to help investigate his former partner; Frank deliberates between two candidates for the chief of transit position.",
-        "end":  "2026-11-08T07:05:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T07:05:00.0000000",
-        "title":  "Inside Edition Weekend",
-        "desc":  "A news magazine show covering entertainment news and celebrity reports; investigative reports dig into top stories and human interest headlines.",
-        "end":  "2026-11-08T07:35:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T07:35:00.0000000",
-        "title":  "InvestigateTV+ Weekend",
-        "desc":  "An in-depth look at topics from politics to personal finance, featuring watchdog reports about government corruption and failures, consumer alerts and health care issues.",
-        "end":  "2026-11-08T08:05:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T08:05:00.0000000",
-        "title":  "In Touch With Dr. Charles Stanley",
-        "desc":  "Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.",
-        "end":  "2026-11-08T08:35:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T08:35:00.0000000",
-        "title":  "See Wrinkles and Bags Vanish Instantly With GEN90!!",
-        "desc":  "GEN90 Instant Wrinkle Treatment with Retinol will turn back the clock! The Pharmacist\u0027s solution for wrinkles, instant and long-term! Visibly reduces the appearance of crow\u0027s feet and fine lines instantly! Get fast, visible, long-lasting results!",
-        "end":  "2026-11-08T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T09:00:00.0000000",
-        "title":  "Made in Hollywood",
-        "desc":  "Stay up-to-date with the latest releases in theaters and on DVD with this syndicated series that features interviews with all the big-name stars and a behind-the-screen segment filled with inside information.",
-        "end":  "2026-11-08T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T09:30:00.0000000",
-        "title":  "Inside Edition Weekend",
-        "desc":  "A news magazine show covering entertainment news and celebrity reports; investigative reports dig into top stories and human interest headlines.",
-        "end":  "2026-11-08T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T10:00:00.0000000",
+        "start":  "2026-11-10T00:30:00.0000000",
         "title":  "Entertainment Tonight",
         "desc":  "News and features about performers, productions and the milieu.",
-        "end":  "2026-11-08T11:00:00.0000000"
+        "end":  "2026-11-10T01:00:00.0000000"
     },
     {
-        "start":  "2026-11-08T11:00:00.0000000",
-        "title":  "Hope in the Wild",
-        "desc":  "As Hope and her team prepare for the annual open house, rehabbed patients are ready for release; a new marine mammal unit is ready for use; a swarm of bees must be contained.",
-        "end":  "2026-11-08T11:30:00.0000000"
+        "start":  "2026-11-10T01:00:00.0000000",
+        "title":  "FBI",
+        "desc":  "A highly radioactive material is stolen from a medical disposal facility, sending the team to track down the thief; after Eva goes to check on her mom, she finds herself in the middle of a fragile situation on the Staten Island Ferry.",
+        "end":  "2026-11-10T02:01:00.0000000"
     },
     {
-        "start":  "2026-11-08T11:30:00.0000000",
-        "title":  "The Visioneers With Zay Harding",
-        "desc":  "How electric vehicle batteries get a powerful second life; space-derived smart tires are tested.",
-        "end":  "2026-11-08T12:00:00.0000000"
+        "start":  "2026-11-10T02:01:00.0000000",
+        "title":  "CIA",
+        "desc":  "A targeted explosion rocks the Upper East Side and kills an international arms dealer.",
+        "end":  "2026-11-10T03:00:00.0000000"
     },
     {
-        "start":  "2026-11-08T12:00:00.0000000",
-        "title":  "CBS News New York Sunday 7am",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-11-08T13:00:00.0000000"
+        "start":  "2026-11-10T03:00:00.0000000",
+        "title":  "Harlan Coben\u0027s Final Twist",
+        "desc":  "A former Arkansas state senator is found dead in her home, her body wrapped in a tarp; investigators begin to ask whether her political past made her a target.",
+        "end":  "2026-11-10T04:00:00.0000000"
     },
     {
-        "start":  "2026-11-08T13:00:00.0000000",
-        "title":  "CBS News New York Sunday 8am",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-11-08T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T14:00:00.0000000",
-        "title":  "CBS News Sunday Morning",
-        "desc":  "News, features, weather and commentary.",
-        "end":  "2026-11-08T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T15:30:00.0000000",
-        "title":  "Face the Nation",
-        "desc":  "Margaret Brennan hosts news interviews with distinguished national and foreign figures, offering insight and analysis on the top issues of the day.",
-        "end":  "2026-11-08T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T16:30:00.0000000",
-        "title":  "Jets Gameday",
-        "desc":  "Caroline Hendershot and Quincy Enunwa preview the matchup with expert analysis, key storylines and everything you need to know before kickoff.",
-        "end":  "2026-11-08T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T17:00:00.0000000",
-        "title":  "Live: The NFL Today",
-        "desc":  "Featuring highlights, analysis, and the latest news across the league with host James Brown alongside analysts Nate Burleson, Bill Cowher, Russell Wilson and Kyle Long.",
-        "end":  "2026-11-08T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T18:00:00.0000000",
-        "title":  "Live: NFL Football",
-        "desc":  "The Kansas City Chiefs host the New York Jets in an NFL regular-season game at Arrowhead Stadium. Kansas City enters at 5-2 but has dropped two straight games, while New York arrives at 2-6 and has lost three games in a row heading into this matchup.",
-        "end":  "2026-11-08T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T21:00:00.0000000",
-        "title":  "Live: NFL Today Postgame",
-        "desc":  "Featuring highlights, analysis, and the latest news across the league with host James Brown alongside analysts Nate Burleson, Bill Cowher, Matt Ryan, JJ Watt and lead NFL insider Jonathan Jones.",
-        "end":  "2026-11-08T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T21:30:00.0000000",
-        "title":  "Live: NFL Today Postgame",
-        "desc":  "Featuring highlights, analysis, and the latest news across the league with host James Brown alongside analysts Nate Burleson, Bill Cowher, Matt Ryan, JJ Watt and lead NFL insider Jonathan Jones.",
-        "end":  "2026-11-08T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T22:00:00.0000000",
-        "title":  "The Road to Vegas: 2026 PBR Teams Championship Countdown",
-        "desc":  "",
-        "end":  "2026-11-08T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T23:00:00.0000000",
-        "title":  "CBS Evening News",
-        "desc":  "Tony Dokoupil shares the day\u0027s most important stories, delivering context and depth to bring greater understanding to one\u0027s world.",
-        "end":  "2026-11-08T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T23:30:00.0000000",
-        "title":  "CBS News New York",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-11-09T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T00:00:00.0000000",
-        "title":  "60 Minutes",
-        "desc":  "Newsmagazine with features focusing on people, and events in the news and behind the headlines.",
-        "end":  "2026-11-09T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T01:00:00.0000000",
-        "title":  "Cupertino",
-        "desc":  "When Christy\u0027s roommate is denied a transplant due to an AI algorithm swapping the order of the list to put a wealthy man above her, Michael and Olivia race to get a judge on board to stop the surgery.",
-        "end":  "2026-11-09T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T02:00:00.0000000",
-        "title":  "Cupertino",
-        "desc":  "Michael and Olivia take on the goliaths of Silicon Valley in a high-stakes fight for justice.",
-        "end":  "2026-11-09T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T03:00:00.0000000",
-        "title":  "Cupertino",
-        "desc":  "Michael and Olivia defend Vik Malhotra, a Silicon Valley coder being held responsible for an errant drone that killed an onlooker during an elaborate drone display; Christy vets a potential new whistleblower client.",
-        "end":  "2026-11-09T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T04:00:00.0000000",
+        "start":  "2026-11-10T04:00:00.0000000",
         "title":  "CBS News New York 11pm",
         "desc":  "Local news coverage.",
-        "end":  "2026-11-09T04:35:00.0000000"
+        "end":  "2026-11-10T04:35:00.0000000"
     },
     {
-        "start":  "2026-11-09T04:35:00.0000000",
-        "title":  "Jets Late Night",
-        "desc":  "",
-        "end":  "2026-11-09T05:05:00.0000000"
+        "start":  "2026-11-10T04:35:00.0000000",
+        "title":  "Comics Unleashed With Byron Allen",
+        "desc":  "Hannah Veldhoen; JJ From The Sipp; Mike P. Burton; Paul Morrissey.",
+        "end":  "2026-11-10T05:05:00.0000000"
     },
     {
-        "start":  "2026-11-09T05:05:00.0000000",
-        "title":  "Joni Table Talk",
-        "desc":  "Joni Lamb, a seasoned interviewer, author, and respected leader in the global faith-based community, hosts this roundtable discussion tackling a wide range of relevant issues and hard-hitting topics with candor, humor, and wit.",
-        "end":  "2026-11-09T05:35:00.0000000"
+        "start":  "2026-11-10T05:05:00.0000000",
+        "title":  "Comics Unleashed With Byron Allen",
+        "desc":  "Carmen Morales; Matt Lockwood; Brandon Vestal; Jay Reid.",
+        "end":  "2026-11-10T05:37:00.0000000"
     },
     {
-        "start":  "2026-11-09T05:35:00.0000000",
-        "title":  "Looking for a Medicare plan? Tune in now!",
-        "desc":  "The Medicare annual election period ends on December 7th. Watch and learn about Humana Medicare Advantage plans.",
-        "end":  "2026-11-10T00:00:00.0000000"
+        "start":  "2026-11-10T05:37:00.0000000",
+        "title":  "Funny You Should Ask",
+        "desc":  "Jamie Kennedy; Sheryl Underwood; Adam Carolla; Byron Allen; Caroline Rhea; Brad Williams.",
+        "end":  "2026-11-11T00:00:00.0000000"
     },
     {
-        "start":  "2026-11-09T00:00:00.0000000",
-        "title":  "60 Minutes",
-        "desc":  "Newsmagazine with features focusing on people, and events in the news and behind the headlines.",
-        "end":  "2026-11-09T01:00:00.0000000"
+        "start":  "2026-11-10T00:00:00.0000000",
+        "title":  "Inside Edition",
+        "desc":  "A syndicated news magazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.",
+        "end":  "2026-11-10T00:30:00.0000000"
     },
     {
-        "start":  "2026-11-09T01:00:00.0000000",
-        "title":  "Cupertino",
-        "desc":  "When Christy\u0027s roommate is denied a transplant due to an AI algorithm swapping the order of the list to put a wealthy man above her, Michael and Olivia race to get a judge on board to stop the surgery.",
-        "end":  "2026-11-09T02:00:00.0000000"
+        "start":  "2026-11-10T00:30:00.0000000",
+        "title":  "Entertainment Tonight",
+        "desc":  "News and features about performers, productions and the milieu.",
+        "end":  "2026-11-10T01:00:00.0000000"
     },
     {
-        "start":  "2026-11-09T02:00:00.0000000",
-        "title":  "Cupertino",
-        "desc":  "Michael and Olivia take on the goliaths of Silicon Valley in a high-stakes fight for justice.",
-        "end":  "2026-11-09T03:00:00.0000000"
+        "start":  "2026-11-10T01:00:00.0000000",
+        "title":  "FBI",
+        "desc":  "A highly radioactive material is stolen from a medical disposal facility, sending the team to track down the thief; after Eva goes to check on her mom, she finds herself in the middle of a fragile situation on the Staten Island Ferry.",
+        "end":  "2026-11-10T02:01:00.0000000"
     },
     {
-        "start":  "2026-11-09T03:00:00.0000000",
-        "title":  "Cupertino",
-        "desc":  "Michael and Olivia defend Vik Malhotra, a Silicon Valley coder being held responsible for an errant drone that killed an onlooker during an elaborate drone display; Christy vets a potential new whistleblower client.",
-        "end":  "2026-11-09T04:00:00.0000000"
+        "start":  "2026-11-10T02:01:00.0000000",
+        "title":  "CIA",
+        "desc":  "A targeted explosion rocks the Upper East Side and kills an international arms dealer.",
+        "end":  "2026-11-10T03:00:00.0000000"
     },
     {
-        "start":  "2026-11-09T04:00:00.0000000",
+        "start":  "2026-11-10T03:00:00.0000000",
+        "title":  "Harlan Coben\u0027s Final Twist",
+        "desc":  "A former Arkansas state senator is found dead in her home, her body wrapped in a tarp; investigators begin to ask whether her political past made her a target.",
+        "end":  "2026-11-10T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T04:00:00.0000000",
         "title":  "CBS News New York 11pm",
         "desc":  "Local news coverage.",
-        "end":  "2026-11-09T04:35:00.0000000"
+        "end":  "2026-11-10T04:35:00.0000000"
     },
     {
-        "start":  "2026-11-09T04:35:00.0000000",
-        "title":  "Jets Late Night",
-        "desc":  "",
-        "end":  "2026-11-09T05:05:00.0000000"
+        "start":  "2026-11-10T04:35:00.0000000",
+        "title":  "Comics Unleashed With Byron Allen",
+        "desc":  "Hannah Veldhoen; JJ From The Sipp; Mike P. Burton; Paul Morrissey.",
+        "end":  "2026-11-10T05:05:00.0000000"
     },
     {
-        "start":  "2026-11-09T05:05:00.0000000",
-        "title":  "Joni Table Talk",
-        "desc":  "Joni Lamb, a seasoned interviewer, author, and respected leader in the global faith-based community, hosts this roundtable discussion tackling a wide range of relevant issues and hard-hitting topics with candor, humor, and wit.",
-        "end":  "2026-11-09T05:35:00.0000000"
+        "start":  "2026-11-10T05:05:00.0000000",
+        "title":  "Comics Unleashed With Byron Allen",
+        "desc":  "Carmen Morales; Matt Lockwood; Brandon Vestal; Jay Reid.",
+        "end":  "2026-11-10T05:37:00.0000000"
     },
     {
-        "start":  "2026-11-09T05:35:00.0000000",
-        "title":  "Looking for a Medicare plan? Tune in now!",
-        "desc":  "The Medicare annual election period ends on December 7th. Watch and learn about Humana Medicare Advantage plans.",
-        "end":  "2026-11-10T00:00:00.0000000"
+        "start":  "2026-11-10T05:37:00.0000000",
+        "title":  "Funny You Should Ask",
+        "desc":  "Jamie Kennedy; Sheryl Underwood; Adam Carolla; Byron Allen; Caroline Rhea; Brad Williams.",
+        "end":  "2026-11-11T00:00:00.0000000"
     }
 ]

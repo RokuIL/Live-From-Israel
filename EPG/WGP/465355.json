@@ -1,422 +1,326 @@
 [
     {
-        "start":  "2026-11-07T00:00:00.0000000",
+        "start":  "2026-11-08T00:00:00.0000000",
+        "title":  "2026 FIFA U-17 Women\u0027s World Cup",
+        "desc":  "Coverage of the tenth edition of the annual international women\u0027s soccer tournament contested by under-17 national teams. From Morocco.",
+        "end":  "2026-11-08T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T02:00:00.0000000",
+        "title":  "Live: AFL Women\u0027s Premiership Football",
+        "desc":  "Elimination Final.",
+        "end":  "2026-11-08T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T04:00:00.0000000",
+        "title":  "Live: AFL Women\u0027s Premiership Football",
+        "desc":  "Elimination Final.",
+        "end":  "2026-11-08T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T06:00:00.0000000",
+        "title":  "UEFA Nations League Magazine",
+        "desc":  "The official magazine show highlighting matches, star players, team previews and exclusive interviews surrounding the UEFA Nations League.",
+        "end":  "2026-11-08T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T06:30:00.0000000",
+        "title":  "College Basketball",
+        "desc":  "The Friars (1-0) and Cornhuskers (1-0) face off in a Basketball Hall of Fame Tip-Off game. The programs meet for the first time. Providence was picked to finish fifth in the Big East preseason poll. Nebraska was voted in the same spot in the Big Ten.",
+        "end":  "2026-11-08T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T08:30:00.0000000",
+        "title":  "The Gronk \u0026 Jules Show",
+        "desc":  "Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
+        "end":  "2026-11-08T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T09:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "",
+        "end":  "2026-11-08T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T12:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Nebraska Cornhuskers (5-3) visit the Illinois Fighting Illini (5-3) at Gies Memorial Stadium. Nebraska seeks to snap a three-game skid after falling 17-10 to Washington and relies on Anthony Colandrea who has 15 TDs. Illinois beat Maryland 20-17.",
+        "end":  "2026-11-08T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T13:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The No. 5 UCLA Bruins (8-0) face the Minnesota Golden Gophers (5-3) at Huntington Bank Stadium for a Big Ten game. UCLA enters undefeated in eight games after shutting out Nevada 27-0, while Minnesota is coming off a 23-16 overtime defeat to Indiana.",
+        "end":  "2026-11-08T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T14:00:00.0000000",
+        "title":  "Endurocross",
+        "desc":  "From Ford Idaho Center Arena in Nampa, Idaho.",
+        "end":  "2026-11-08T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T15:00:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "40 years and running the National Chuckwagon Races is a sporting event that moves at its own pace; in a world where everything is designed to be flashy and fast - these races remind us that ole sturdy and reliable wagons can still go pretty fast too.",
+        "end":  "2026-11-08T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T15:30:00.0000000",
+        "title":  "2026 FIFA U-17 Women\u0027s World Cup",
+        "desc":  "Final.",
+        "end":  "2026-11-08T17:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T17:30:00.0000000",
+        "title":  "Live: Horse Racing",
+        "desc":  "Following all the action from the world of horse racing.",
+        "end":  "2026-11-08T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T18:00:00.0000000",
+        "title":  "STIHL Timbersports",
+        "desc":  "From Milwaukee.",
+        "end":  "2026-11-08T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T18:30:00.0000000",
+        "title":  "STIHL Timbersports",
+        "desc":  "From Milwaukee.",
+        "end":  "2026-11-08T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T19:00:00.0000000",
+        "title":  "Live: Horse Racing",
+        "desc":  "Following all the action from the world of horse racing.",
+        "end":  "2026-11-08T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T21:30:00.0000000",
+        "title":  "MotoGP Racing",
+        "desc":  "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+        "end":  "2026-11-08T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T22:30:00.0000000",
+        "title":  "MotoGP Racing",
+        "desc":  "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+        "end":  "2026-11-08T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-08T23:00:00.0000000",
+        "title":  "Endurocross",
+        "desc":  "From Orleans Arena in Las Vegas, Nev.",
+        "end":  "2026-11-09T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T00:00:00.0000000",
+        "title":  "Endurocross",
+        "desc":  "From Ford Idaho Center Arena in Nampa, Idaho.",
+        "end":  "2026-11-09T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T01:00:00.0000000",
+        "title":  "NASCAR Craftsman Truck Series",
+        "desc":  "The NASCAR Craftsman Truck Series Championship Race takes place at Homestead-Miami Speedway in Homestead, Florida. The championship battle has officially boiled down to a showdown between the top racers heading into the final 134-lap, 201-mile race.",
+        "end":  "2026-11-09T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T03:00:00.0000000",
+        "title":  "Live: SpeedFreaks",
+        "desc":  "Go in-depth with the big names in racing, showcasing a side of these athletes rarely seen with a unique interview style and flair combining elements of commentary, entertainment and lifestyle.",
+        "end":  "2026-11-09T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T04:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "",
+        "end":  "2026-11-09T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T07:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Bears (5-3, 3-2 Big 12) brace for Aiden Flora and the Cyclones (4-4, 2-3). Baylor leads the series 12-11 after Iowa State prevailed 43-21 in 2024. Flora rushed for 221 yards and two touchdowns in a 51-49 triumph over Oklahoma State last week.",
+        "end":  "2026-11-09T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T10:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Rainbow Warriors (2-6, 1-4) visit the Miners (1-7, 0-4) for a Mountain West affair. The programs haven\u0027t met since 2004, when they were Western Athletic Conference foes. Hawaii traveled 4,255 miles to beat Northern Illinois 56-21 last week.",
+        "end":  "2026-11-09T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T13:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Nebraska Cornhuskers (5-3) visit the Illinois Fighting Illini (5-3) at Gies Memorial Stadium. Nebraska seeks to snap a three-game skid after falling 17-10 to Washington and relies on Anthony Colandrea who has 15 TDs. Illinois beat Maryland 20-17.",
+        "end":  "2026-11-09T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T16:00:00.0000000",
+        "title":  "Women\u0027s College Volleyball",
+        "desc":  "From UW Field House in Madison, Wis.",
+        "end":  "2026-11-09T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T18:00:00.0000000",
+        "title":  "Women\u0027s College Volleyball",
+        "desc":  "From Alaska Airlines Arena in Seattle.",
+        "end":  "2026-11-09T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T20:00:00.0000000",
+        "title":  "Women\u0027s College Basketball",
+        "desc":  "The No. 10 Iowa Hawkeyes (2-0) visit the No. 2 UConn Huskies (1-1) in Storrs. Iowa enters this game after a 73-45 win over Towson behind 21 points and five assists from Dani Carnegie. UConn beat Cornell 100-35 behind 19 points from Sarah Strong.",
+        "end":  "2026-11-09T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T22:00:00.0000000",
+        "title":  "NASCAR Craftsman Truck Series",
+        "desc":  "The NASCAR Craftsman Truck Series Championship Race takes place at Homestead-Miami Speedway in Homestead, Florida. The championship battle has officially boiled down to a showdown between the top racers heading into the final 134-lap, 201-mile race.",
+        "end":  "2026-11-10T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T00:00:00.0000000",
+        "title":  "MotoGP Racing",
+        "desc":  "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+        "end":  "2026-11-11T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T00:00:00.0000000",
+        "title":  "Endurocross",
+        "desc":  "From Ford Idaho Center Arena in Nampa, Idaho.",
+        "end":  "2026-11-09T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T01:00:00.0000000",
+        "title":  "NASCAR Craftsman Truck Series",
+        "desc":  "The NASCAR Craftsman Truck Series Championship Race takes place at Homestead-Miami Speedway in Homestead, Florida. The championship battle has officially boiled down to a showdown between the top racers heading into the final 134-lap, 201-mile race.",
+        "end":  "2026-11-09T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T03:00:00.0000000",
+        "title":  "Live: SpeedFreaks",
+        "desc":  "Go in-depth with the big names in racing, showcasing a side of these athletes rarely seen with a unique interview style and flair combining elements of commentary, entertainment and lifestyle.",
+        "end":  "2026-11-09T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T04:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "",
+        "end":  "2026-11-09T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T07:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Bears (5-3, 3-2 Big 12) brace for Aiden Flora and the Cyclones (4-4, 2-3). Baylor leads the series 12-11 after Iowa State prevailed 43-21 in 2024. Flora rushed for 221 yards and two touchdowns in a 51-49 triumph over Oklahoma State last week.",
+        "end":  "2026-11-09T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T10:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Rainbow Warriors (2-6, 1-4) visit the Miners (1-7, 0-4) for a Mountain West affair. The programs haven\u0027t met since 2004, when they were Western Athletic Conference foes. Hawaii traveled 4,255 miles to beat Northern Illinois 56-21 last week.",
+        "end":  "2026-11-09T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T13:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Nebraska Cornhuskers (5-3) visit the Illinois Fighting Illini (5-3) at Gies Memorial Stadium. Nebraska seeks to snap a three-game skid after falling 17-10 to Washington and relies on Anthony Colandrea who has 15 TDs. Illinois beat Maryland 20-17.",
+        "end":  "2026-11-09T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T16:00:00.0000000",
+        "title":  "Women\u0027s College Volleyball",
+        "desc":  "From UW Field House in Madison, Wis.",
+        "end":  "2026-11-09T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T18:00:00.0000000",
+        "title":  "Women\u0027s College Volleyball",
+        "desc":  "From Alaska Airlines Arena in Seattle.",
+        "end":  "2026-11-09T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T20:00:00.0000000",
+        "title":  "Women\u0027s College Basketball",
+        "desc":  "The No. 10 Iowa Hawkeyes (2-0) visit the No. 2 UConn Huskies (1-1) in Storrs. Iowa enters this game after a 73-45 win over Towson behind 21 points and five assists from Dani Carnegie. UConn beat Cornell 100-35 behind 19 points from Sarah Strong.",
+        "end":  "2026-11-09T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T22:00:00.0000000",
+        "title":  "NASCAR Craftsman Truck Series",
+        "desc":  "The NASCAR Craftsman Truck Series Championship Race takes place at Homestead-Miami Speedway in Homestead, Florida. The championship battle has officially boiled down to a showdown between the top racers heading into the final 134-lap, 201-mile race.",
+        "end":  "2026-11-10T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T00:00:00.0000000",
+        "title":  "MotoGP Racing",
+        "desc":  "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+        "end":  "2026-11-10T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T01:00:00.0000000",
+        "title":  "Endurocross",
+        "desc":  "From Ford Idaho Center Arena in Nampa, Idaho.",
+        "end":  "2026-11-10T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T02:00:00.0000000",
         "title":  "NHRA Sportsman Series",
         "desc":  "Nine Lucas Oil Series classes compete for the drive to the championship at over 60 events nationally to culminate in a world championship in Pomona, Calif.",
-        "end":  "2026-11-07T01:00:00.0000000"
+        "end":  "2026-11-10T03:00:00.0000000"
     },
     {
-        "start":  "2026-11-07T01:00:00.0000000",
-        "title":  "NHRA Pro Mod Series",
-        "desc":  "From World Wide Technology Raceway in Madison, Ill.",
-        "end":  "2026-11-07T01:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T01:30:00.0000000",
-        "title":  "Women\u0027s Football Weekly",
-        "desc":  "Discover the best of the action from the top divisions of women\u0027s football in Italy, Germany and the Netherlands with this brand-new highlights show.",
-        "end":  "2026-11-07T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T02:00:00.0000000",
-        "title":  "UEFA Nations League Magazine",
-        "desc":  "The official magazine show highlighting matches, star players, team previews and exclusive interviews surrounding the UEFA Nations League.",
-        "end":  "2026-11-07T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T02:30:00.0000000",
-        "title":  "Wild World of Western Sports",
-        "desc":  "Wild World of Western Sports heads to Paris, France for the World Reining Horse Continental Championships of Europe.",
-        "end":  "2026-11-07T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T03:00:00.0000000",
+        "start":  "2026-11-10T03:00:00.0000000",
         "title":  "Wild World of Western Sports",
         "desc":  "Wild World\u0027s 3rd stop takes the audience back to the north to the spectacular Canadian province of British Columbia for the Cloverdale Rodeo and Country Fair.",
-        "end":  "2026-11-07T04:00:00.0000000"
+        "end":  "2026-11-10T03:30:00.0000000"
     },
     {
-        "start":  "2026-11-07T04:00:00.0000000",
+        "start":  "2026-11-10T03:30:00.0000000",
         "title":  "Wild World of Western Sports",
         "desc":  "40 years and running the National Chuckwagon Races is a sporting event that moves at its own pace; in a world where everything is designed to be flashy and fast - these races remind us that ole sturdy and reliable wagons can still go pretty fast too.",
-        "end":  "2026-11-07T05:00:00.0000000"
+        "end":  "2026-11-10T04:30:00.0000000"
     },
     {
-        "start":  "2026-11-07T05:00:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "Qualifying Final.",
-        "end":  "2026-11-07T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T07:00:00.0000000",
-        "title":  "NASCAR Craftsman Truck Series",
-        "desc":  "The NASCAR Craftsman Truck Series Championship Race takes place at Homestead-Miami Speedway in Homestead, Florida. The championship battle has officially boiled down to a showdown between the top racers heading into the final 134-lap, 201-mile race.",
-        "end":  "2026-11-07T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T09:00:00.0000000",
-        "title":  "Speed With Harvick \u0026 Buxton",
-        "desc":  "Let\u0027s talk racing; Kevin Harvick and Will Buxton celebrate the world of motorsports.",
-        "end":  "2026-11-07T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T09:30:00.0000000",
-        "title":  "Kevin Harvick\u0027s Happy Hour",
-        "desc":  "Kevin Harvick shares his expert opinion on NASCAR news and interviews the big names in sports and the racing world.",
-        "end":  "2026-11-07T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T10:00:00.0000000",
-        "title":  "The Joel Klatt Show: A College Football Podcast",
-        "desc":  "Joel Klatt breaks down the current topics in the world of college football.",
-        "end":  "2026-11-07T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T10:30:00.0000000",
-        "title":  "The Gronk \u0026 Jules Show",
-        "desc":  "Gronk and Edelman recap NFL Week 8: Bo Nix upsets KC, Cards stun Dallas in OT, and Maye beats Miami.",
-        "end":  "2026-11-07T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T11:00:00.0000000",
-        "title":  "NASCAR Craftsman Truck Series",
-        "desc":  "The NASCAR Craftsman Truck Series Championship Race takes place at Homestead-Miami Speedway in Homestead, Florida. The championship battle has officially boiled down to a showdown between the top racers heading into the final 134-lap, 201-mile race.",
-        "end":  "2026-11-07T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T13:00:00.0000000",
+        "start":  "2026-11-10T04:30:00.0000000",
         "title":  "College Football",
-        "desc":  "The Nebraska Cornhuskers (5-3) visit the Illinois Fighting Illini (5-3) at Gies Memorial Stadium. Nebraska seeks to snap a three-game skid after falling 17-10 to Washington and relies on Anthony Colandrea who has 15 TDs. Illinois beat Maryland 20-17.",
-        "end":  "2026-11-07T14:00:00.0000000"
+        "desc":  "The No. 8 UCLA Bruins (8-0) face the Minnesota Golden Gophers (5-3) at Huntington Bank Stadium for a Big Ten game. UCLA enters undefeated in eight games after shutting out Nevada 27-0, while Minnesota is coming off a 23-16 overtime defeat to Indiana.",
+        "end":  "2026-11-11T00:00:00.0000000"
     },
     {
-        "start":  "2026-11-07T14:00:00.0000000",
-        "title":  "The Clay Travis Show",
-        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
-        "end":  "2026-11-07T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T14:30:00.0000000",
-        "title":  "UEFA Nations League Magazine",
-        "desc":  "The official magazine show highlighting matches, star players, team previews and exclusive interviews surrounding the UEFA Nations League.",
-        "end":  "2026-11-07T14:48:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T14:48:00.0000000",
-        "title":  "Live: 2026 FIFA U-17 Women\u0027s World Cup",
-        "desc":  "Coverage of the tenth edition of the annual international women\u0027s soccer tournament contested by under-17 national teams. From Morocco.",
-        "end":  "2026-11-07T16:55:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T16:55:00.0000000",
-        "title":  "Live: MotoGP Racing",
-        "desc":  "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
-        "end":  "2026-11-07T17:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T17:30:00.0000000",
-        "title":  "Live: Horse Racing",
-        "desc":  "The best racehorses square off in the premier races from across the country.",
-        "end":  "2026-11-07T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T21:30:00.0000000",
-        "title":  "Endurocross",
-        "desc":  "From Orleans Arena in Las Vegas, Nev.",
-        "end":  "2026-11-07T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T22:30:00.0000000",
-        "title":  "AMA National Arenacross Championship",
-        "desc":  "From F\u0026M Bank Arena in Clarksville, Tenn.",
-        "end":  "2026-11-07T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-07T23:30:00.0000000",
+        "start":  "2026-11-10T00:00:00.0000000",
         "title":  "MotoGP Racing",
         "desc":  "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
-        "end":  "2026-11-08T00:00:00.0000000"
+        "end":  "2026-11-10T01:00:00.0000000"
     },
     {
-        "start":  "2026-11-08T00:00:00.0000000",
-        "title":  "2026 FIFA U-17 Women\u0027s World Cup",
-        "desc":  "Coverage of the tenth edition of the annual international women\u0027s soccer tournament contested by under-17 national teams. From Morocco.",
-        "end":  "2026-11-08T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T02:00:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "Elimination Final.",
-        "end":  "2026-11-08T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T04:00:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "Elimination Final.",
-        "end":  "2026-11-08T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T06:00:00.0000000",
-        "title":  "UEFA Nations League Magazine",
-        "desc":  "The official magazine show highlighting matches, star players, team previews and exclusive interviews surrounding the UEFA Nations League.",
-        "end":  "2026-11-08T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T06:30:00.0000000",
-        "title":  "College Basketball",
-        "desc":  "The Friars (1-0) and Cornhuskers (1-0) face off in a Basketball Hall of Fame Tip-Off game. The programs meet for the first time. Providence was picked to finish fifth in the Big East preseason poll. Nebraska was voted in the same spot in the Big Ten.",
-        "end":  "2026-11-08T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T08:30:00.0000000",
-        "title":  "The Gronk \u0026 Jules Show",
-        "desc":  "Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
-        "end":  "2026-11-08T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T09:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "",
-        "end":  "2026-11-08T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T12:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Nebraska Cornhuskers (5-3) visit the Illinois Fighting Illini (5-3) at Gies Memorial Stadium. Nebraska seeks to snap a three-game skid after falling 17-10 to Washington and relies on Anthony Colandrea who has 15 TDs. Illinois beat Maryland 20-17.",
-        "end":  "2026-11-08T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T13:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 5 UCLA Bruins (8-0) face the Minnesota Golden Gophers (5-3) at Huntington Bank Stadium for a Big Ten game. UCLA enters undefeated in eight games after shutting out Nevada 27-0, while Minnesota is coming off a 23-16 overtime defeat to Indiana.",
-        "end":  "2026-11-08T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T14:00:00.0000000",
+        "start":  "2026-11-10T01:00:00.0000000",
         "title":  "Endurocross",
         "desc":  "From Ford Idaho Center Arena in Nampa, Idaho.",
-        "end":  "2026-11-08T15:00:00.0000000"
+        "end":  "2026-11-10T02:00:00.0000000"
     },
     {
-        "start":  "2026-11-08T15:00:00.0000000",
+        "start":  "2026-11-10T02:00:00.0000000",
+        "title":  "NHRA Sportsman Series",
+        "desc":  "Nine Lucas Oil Series classes compete for the drive to the championship at over 60 events nationally to culminate in a world championship in Pomona, Calif.",
+        "end":  "2026-11-10T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T03:00:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "Wild World\u0027s 3rd stop takes the audience back to the north to the spectacular Canadian province of British Columbia for the Cloverdale Rodeo and Country Fair.",
+        "end":  "2026-11-10T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T03:30:00.0000000",
         "title":  "Wild World of Western Sports",
         "desc":  "40 years and running the National Chuckwagon Races is a sporting event that moves at its own pace; in a world where everything is designed to be flashy and fast - these races remind us that ole sturdy and reliable wagons can still go pretty fast too.",
-        "end":  "2026-11-08T15:30:00.0000000"
+        "end":  "2026-11-10T04:30:00.0000000"
     },
     {
-        "start":  "2026-11-08T15:30:00.0000000",
-        "title":  "2026 FIFA U-17 Women\u0027s World Cup",
-        "desc":  "Final.",
-        "end":  "2026-11-08T17:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T17:30:00.0000000",
-        "title":  "Live: Horse Racing",
-        "desc":  "Following all the action from the world of horse racing.",
-        "end":  "2026-11-08T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T18:00:00.0000000",
-        "title":  "STIHL Timbersports",
-        "desc":  "From Milwaukee.",
-        "end":  "2026-11-08T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T18:30:00.0000000",
-        "title":  "STIHL Timbersports",
-        "desc":  "From Milwaukee.",
-        "end":  "2026-11-08T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T19:00:00.0000000",
-        "title":  "Live: Horse Racing",
-        "desc":  "Following all the action from the world of horse racing.",
-        "end":  "2026-11-08T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T21:30:00.0000000",
-        "title":  "MotoGP Racing",
-        "desc":  "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
-        "end":  "2026-11-08T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T22:30:00.0000000",
-        "title":  "MotoGP Racing",
-        "desc":  "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
-        "end":  "2026-11-08T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T23:00:00.0000000",
-        "title":  "Endurocross",
-        "desc":  "From Orleans Arena in Las Vegas, Nev.",
-        "end":  "2026-11-09T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T00:00:00.0000000",
-        "title":  "Endurocross",
-        "desc":  "From Ford Idaho Center Arena in Nampa, Idaho.",
-        "end":  "2026-11-10T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T00:00:00.0000000",
-        "title":  "2026 FIFA U-17 Women\u0027s World Cup",
-        "desc":  "Coverage of the tenth edition of the annual international women\u0027s soccer tournament contested by under-17 national teams. From Morocco.",
-        "end":  "2026-11-08T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T02:00:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "Elimination Final.",
-        "end":  "2026-11-08T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T04:00:00.0000000",
-        "title":  "Live: AFL Women\u0027s Premiership Football",
-        "desc":  "Elimination Final.",
-        "end":  "2026-11-08T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T06:00:00.0000000",
-        "title":  "UEFA Nations League Magazine",
-        "desc":  "The official magazine show highlighting matches, star players, team previews and exclusive interviews surrounding the UEFA Nations League.",
-        "end":  "2026-11-08T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T06:30:00.0000000",
-        "title":  "College Basketball",
-        "desc":  "The Friars (1-0) and Cornhuskers (1-0) face off in a Basketball Hall of Fame Tip-Off game. The programs meet for the first time. Providence was picked to finish fifth in the Big East preseason poll. Nebraska was voted in the same spot in the Big Ten.",
-        "end":  "2026-11-08T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T08:30:00.0000000",
-        "title":  "The Gronk \u0026 Jules Show",
-        "desc":  "Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
-        "end":  "2026-11-08T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T09:00:00.0000000",
+        "start":  "2026-11-10T04:30:00.0000000",
         "title":  "College Football",
-        "desc":  "",
-        "end":  "2026-11-08T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T12:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Nebraska Cornhuskers (5-3) visit the Illinois Fighting Illini (5-3) at Gies Memorial Stadium. Nebraska seeks to snap a three-game skid after falling 17-10 to Washington and relies on Anthony Colandrea who has 15 TDs. Illinois beat Maryland 20-17.",
-        "end":  "2026-11-08T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T13:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 5 UCLA Bruins (8-0) face the Minnesota Golden Gophers (5-3) at Huntington Bank Stadium for a Big Ten game. UCLA enters undefeated in eight games after shutting out Nevada 27-0, while Minnesota is coming off a 23-16 overtime defeat to Indiana.",
-        "end":  "2026-11-08T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T14:00:00.0000000",
-        "title":  "Endurocross",
-        "desc":  "From Ford Idaho Center Arena in Nampa, Idaho.",
-        "end":  "2026-11-08T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T15:00:00.0000000",
-        "title":  "Wild World of Western Sports",
-        "desc":  "40 years and running the National Chuckwagon Races is a sporting event that moves at its own pace; in a world where everything is designed to be flashy and fast - these races remind us that ole sturdy and reliable wagons can still go pretty fast too.",
-        "end":  "2026-11-08T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T15:30:00.0000000",
-        "title":  "2026 FIFA U-17 Women\u0027s World Cup",
-        "desc":  "Final.",
-        "end":  "2026-11-08T17:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T17:30:00.0000000",
-        "title":  "Live: Horse Racing",
-        "desc":  "Following all the action from the world of horse racing.",
-        "end":  "2026-11-08T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T18:00:00.0000000",
-        "title":  "STIHL Timbersports",
-        "desc":  "From Milwaukee.",
-        "end":  "2026-11-08T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T18:30:00.0000000",
-        "title":  "STIHL Timbersports",
-        "desc":  "From Milwaukee.",
-        "end":  "2026-11-08T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T19:00:00.0000000",
-        "title":  "Live: Horse Racing",
-        "desc":  "Following all the action from the world of horse racing.",
-        "end":  "2026-11-08T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T21:30:00.0000000",
-        "title":  "MotoGP Racing",
-        "desc":  "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
-        "end":  "2026-11-08T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T22:30:00.0000000",
-        "title":  "MotoGP Racing",
-        "desc":  "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
-        "end":  "2026-11-08T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T23:00:00.0000000",
-        "title":  "Endurocross",
-        "desc":  "From Orleans Arena in Las Vegas, Nev.",
-        "end":  "2026-11-09T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T00:00:00.0000000",
-        "title":  "Endurocross",
-        "desc":  "From Ford Idaho Center Arena in Nampa, Idaho.",
-        "end":  "2026-11-09T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T01:00:00.0000000",
-        "title":  "NASCAR Craftsman Truck Series",
-        "desc":  "The NASCAR Craftsman Truck Series Championship Race takes place at Homestead-Miami Speedway in Homestead, Florida. The championship battle has officially boiled down to a showdown between the top racers heading into the final 134-lap, 201-mile race.",
-        "end":  "2026-11-09T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T03:00:00.0000000",
-        "title":  "Live: SpeedFreaks",
-        "desc":  "Go in-depth with the big names in racing, showcasing a side of these athletes rarely seen with a unique interview style and flair combining elements of commentary, entertainment and lifestyle.",
-        "end":  "2026-11-09T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T04:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "",
-        "end":  "2026-11-10T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T00:00:00.0000000",
-        "title":  "Endurocross",
-        "desc":  "From Ford Idaho Center Arena in Nampa, Idaho.",
-        "end":  "2026-11-09T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T01:00:00.0000000",
-        "title":  "NASCAR Craftsman Truck Series",
-        "desc":  "The NASCAR Craftsman Truck Series Championship Race takes place at Homestead-Miami Speedway in Homestead, Florida. The championship battle has officially boiled down to a showdown between the top racers heading into the final 134-lap, 201-mile race.",
-        "end":  "2026-11-09T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T03:00:00.0000000",
-        "title":  "Live: SpeedFreaks",
-        "desc":  "Go in-depth with the big names in racing, showcasing a side of these athletes rarely seen with a unique interview style and flair combining elements of commentary, entertainment and lifestyle.",
-        "end":  "2026-11-09T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T04:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "",
-        "end":  "2026-11-10T00:00:00.0000000"
+        "desc":  "The No. 8 UCLA Bruins (8-0) face the Minnesota Golden Gophers (5-3) at Huntington Bank Stadium for a Big Ten game. UCLA enters undefeated in eight games after shutting out Nevada 27-0, while Minnesota is coming off a 23-16 overtime defeat to Indiana.",
+        "end":  "2026-11-11T00:00:00.0000000"
     }
 ]
