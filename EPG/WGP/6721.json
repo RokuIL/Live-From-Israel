@@ -1,89 +1,5 @@
 [
     {
-        "start":  "2026-11-08T01:00:00.0000000",
-        "title":  "2026 CFL Playoffs: Western Final â€“ Lions vs. Elks",
-        "desc":  "",
-        "end":  "2026-11-08T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T04:00:00.0000000",
-        "title":  "CFL Playoffs in 30: Eastern Final",
-        "desc":  "",
-        "end":  "2026-11-08T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T04:30:00.0000000",
-        "title":  "CFL Playoffs in 30: Western Final",
-        "desc":  "",
-        "end":  "2026-11-08T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T05:00:00.0000000",
-        "title":  "CFL Playoffs in 30: Eastern Final",
-        "desc":  "",
-        "end":  "2026-11-08T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T05:30:00.0000000",
-        "title":  "CFL Playoffs in 30: Western Final",
-        "desc":  "",
-        "end":  "2026-11-08T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T06:00:00.0000000",
-        "title":  "2026 IIHF Women\u0027s World Championship: USA vs. Germany",
-        "desc":  "",
-        "end":  "2026-11-08T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T08:30:00.0000000",
-        "title":  "AFL Women\u0027s Series: Elimination Finals â€“ Sydney Swans vs. Western Bulldogs",
-        "desc":  "",
-        "end":  "2026-11-08T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T10:30:00.0000000",
-        "title":  "Maple Leaf Pro Wrestling: Northern Rising â€“ Adam Copeland vs. Steve Maclin",
-        "desc":  "",
-        "end":  "2026-11-08T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T11:30:00.0000000",
-        "title":  "NASCAR Cup Series Playoffs Pre-Race: Championship",
-        "desc":  "",
-        "end":  "2026-11-08T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T12:00:00.0000000",
-        "title":  "NASCAR Cup Series Playoffs: Championship",
-        "desc":  "",
-        "end":  "2026-11-08T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T16:00:00.0000000",
-        "title":  "SC: Outrageous NASCAR Moments",
-        "desc":  "",
-        "end":  "2026-11-08T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T16:30:00.0000000",
-        "title":  "2026 Formula 1: Sao Paulo Grand Prix",
-        "desc":  "",
-        "end":  "2026-11-08T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T18:30:00.0000000",
-        "title":  "2026 IIHF Women\u0027s World Championship: Canada vs. Japan",
-        "desc":  "",
-        "end":  "2026-11-08T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T21:00:00.0000000",
-        "title":  "2026 CFL Playoffs: Eastern Final â€“ Blue Bombers vs. Alouettes",
-        "desc":  "",
-        "end":  "2026-11-09T00:00:00.0000000"
-    },
-    {
         "start":  "2026-11-09T00:00:00.0000000",
         "title":  "2026 CFL Playoffs: Western Final â€“ Lions vs. Elks",
         "desc":  "",
@@ -116,6 +32,12 @@
     {
         "start":  "2026-11-09T11:30:00.0000000",
         "title":  "SC: Top 10 Grey Cup Games",
+        "desc":  "",
+        "end":  "2026-11-09T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T12:00:00.0000000",
+        "title":  "2026 WTA Finals: Round Robin â€“ Day #2",
         "desc":  "",
         "end":  "2026-11-10T00:00:00.0000000"
     },
@@ -153,91 +75,13 @@
         "start":  "2026-11-09T11:30:00.0000000",
         "title":  "SC: Top 10 Grey Cup Games",
         "desc":  "",
+        "end":  "2026-11-09T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T12:00:00.0000000",
+        "title":  "2026 WTA Finals: Round Robin â€“ Day #2",
+        "desc":  "",
         "end":  "2026-11-10T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T01:00:00.0000000",
-        "title":  "2026 CFL Playoffs: Western Final â€“ Lions vs. Elks",
-        "desc":  "",
-        "end":  "2026-11-08T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T04:00:00.0000000",
-        "title":  "CFL Playoffs in 30: Eastern Final",
-        "desc":  "",
-        "end":  "2026-11-08T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T04:30:00.0000000",
-        "title":  "CFL Playoffs in 30: Western Final",
-        "desc":  "",
-        "end":  "2026-11-08T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T05:00:00.0000000",
-        "title":  "CFL Playoffs in 30: Eastern Final",
-        "desc":  "",
-        "end":  "2026-11-08T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T05:30:00.0000000",
-        "title":  "CFL Playoffs in 30: Western Final",
-        "desc":  "",
-        "end":  "2026-11-08T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T06:00:00.0000000",
-        "title":  "2026 IIHF Women\u0027s World Championship: USA vs. Germany",
-        "desc":  "",
-        "end":  "2026-11-08T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T08:30:00.0000000",
-        "title":  "AFL Women\u0027s Series: Elimination Finals â€“ Sydney Swans vs. Western Bulldogs",
-        "desc":  "",
-        "end":  "2026-11-08T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T10:30:00.0000000",
-        "title":  "Maple Leaf Pro Wrestling: Northern Rising â€“ Adam Copeland vs. Steve Maclin",
-        "desc":  "",
-        "end":  "2026-11-08T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T11:30:00.0000000",
-        "title":  "NASCAR Cup Series Playoffs Pre-Race: Championship",
-        "desc":  "",
-        "end":  "2026-11-08T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T12:00:00.0000000",
-        "title":  "NASCAR Cup Series Playoffs: Championship",
-        "desc":  "",
-        "end":  "2026-11-08T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T16:00:00.0000000",
-        "title":  "SC: Outrageous NASCAR Moments",
-        "desc":  "",
-        "end":  "2026-11-08T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T16:30:00.0000000",
-        "title":  "2026 Formula 1: Sao Paulo Grand Prix",
-        "desc":  "",
-        "end":  "2026-11-08T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T18:30:00.0000000",
-        "title":  "2026 IIHF Women\u0027s World Championship: Canada vs. Japan",
-        "desc":  "",
-        "end":  "2026-11-08T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T21:00:00.0000000",
-        "title":  "2026 CFL Playoffs: Eastern Final â€“ Blue Bombers vs. Alouettes",
-        "desc":  "",
-        "end":  "2026-11-09T00:00:00.0000000"
     },
     {
         "start":  "2026-11-09T00:00:00.0000000",
@@ -272,6 +116,12 @@
     {
         "start":  "2026-11-09T11:30:00.0000000",
         "title":  "SC: Top 10 Grey Cup Games",
+        "desc":  "",
+        "end":  "2026-11-09T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T12:00:00.0000000",
+        "title":  "2026 WTA Finals: Round Robin â€“ Day #2",
         "desc":  "",
         "end":  "2026-11-10T00:00:00.0000000"
     }

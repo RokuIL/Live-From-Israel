@@ -1,111 +1,573 @@
 [
     {
-        "start":  "2026-11-08T00:30:00.0000000",
-        "title":  "Live NCAA College Football",
-        "desc":  "Notre Dame Fighting Irish v Miami Hurricanes (Kick-off 12.30am). Coverage of the match from Notre Dame Stadium in Notre Dame, Indiana.",
-        "end":  "2026-11-08T04:00:00.0000000"
+        "start":  "2026-11-09T00:30:00.0000000",
+        "title":  "NBC\u0027s FNIA",
+        "desc":  "The build-up to Chicago Bears v Tampa Bay Buccaneers, plus reaction to Sunday\u0027s week nine matches.",
+        "end":  "2026-11-09T01:10:00.0000000"
     },
     {
-        "start":  "2026-11-08T04:00:00.0000000",
-        "title":  "Doug Williams: The First Black Champion",
-        "desc":  "Chart Doug Williams\u0027 journey to Super Bowl victory in 1988, when he led Washington Redskins to a 42-10 victory over Denver Broncos and was named MVP.",
-        "end":  "2026-11-08T04:15:00.0000000"
+        "start":  "2026-11-09T01:10:00.0000000",
+        "title":  "Live NFL",
+        "desc":  "Chicago Bears v Tampa Bay Buccaneers (Kick-off 1.20am). Coverage of the week nine match at Soldier Field.",
+        "end":  "2026-11-09T04:45:00.0000000"
     },
     {
-        "start":  "2026-11-08T04:15:00.0000000",
+        "start":  "2026-11-09T04:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Baltimore Ravens v Jacksonville Jaguars.",
+        "end":  "2026-11-09T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T05:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Los Angeles Rams v Los Angeles Chargers.",
+        "end":  "2026-11-09T05:15:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T05:15:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Washington Commanders v Philadelphia Eagles.",
-        "end":  "2026-11-08T04:30:00.0000000"
+        "end":  "2026-11-09T05:30:00.0000000"
     },
     {
-        "start":  "2026-11-08T04:30:00.0000000",
+        "start":  "2026-11-09T05:30:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Seattle Seahawks v Chicago Bears.",
-        "end":  "2026-11-08T04:45:00.0000000"
+        "end":  "2026-11-09T05:45:00.0000000"
     },
     {
-        "start":  "2026-11-08T04:45:00.0000000",
+        "start":  "2026-11-09T05:45:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Washington Commanders v Philadelphia Eagles.",
-        "end":  "2026-11-08T05:00:00.0000000"
+        "end":  "2026-11-09T06:00:00.0000000"
     },
     {
-        "start":  "2026-11-08T05:00:00.0000000",
-        "title":  "NFL Gameday",
-        "desc":  "A review of all of the latest games.",
-        "end":  "2026-11-08T05:45:00.0000000"
+        "start":  "2026-11-09T06:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Atlanta Falcons v Cincinnati Bengals.",
+        "end":  "2026-11-09T07:00:00.0000000"
     },
     {
-        "start":  "2026-11-08T05:45:00.0000000",
+        "start":  "2026-11-09T07:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Carolina Panthers v Denver Broncos.",
+        "end":  "2026-11-09T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T08:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "New England Patriots v Green Bay Packers.",
+        "end":  "2026-11-09T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T09:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Baltimore Ravens v Jacksonville Jaguars.",
+        "end":  "2026-11-09T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T10:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Carolina Panthers v Denver Broncos.",
+        "end":  "2026-11-09T10:15:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T10:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New England Patriots v Green Bay Packers.",
+        "end":  "2026-11-09T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T10:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Atlanta Falcons v Cincinnati Bengals.",
+        "end":  "2026-11-09T10:45:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T10:45:00.0000000",
+        "title":  "49 Hours",
+        "desc":  "Follow a comprehensive, behind-the-scenes look at the 49 hours before the San Francisco 49ers take to the field for NFL action.",
+        "end":  "2026-11-09T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T11:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
+        "end":  "2026-11-09T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T12:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Carolina Panthers v Denver Broncos.",
+        "end":  "2026-11-09T12:15:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T12:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New England Patriots v Green Bay Packers.",
+        "end":  "2026-11-09T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T12:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
+        "end":  "2026-11-09T12:45:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T12:45:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Seattle Seahawks v Kansas City Chiefs.",
-        "end":  "2026-11-08T06:00:00.0000000"
+        "end":  "2026-11-09T13:00:00.0000000"
     },
     {
-        "start":  "2026-11-08T06:00:00.0000000",
+        "start":  "2026-11-09T13:00:00.0000000",
+        "title":  "Good Morning Football",
+        "desc":  "Up-to-the-minute breaking NFL news, headline-making interviews and local NFL stories.",
+        "end":  "2026-11-09T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T15:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Miami Dolphins v Detroit Lions.",
+        "end":  "2026-11-09T15:15:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T15:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "San Francisco 49ers v Las Vegas Raiders.",
+        "end":  "2026-11-09T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T15:30:00.0000000",
+        "title":  "Doug Williams: The First Black Champion",
+        "desc":  "Chart Doug Williams\u0027 journey to Super Bowl victory in 1988, when he led Washington Redskins to a 42-10 victory over Denver Broncos and was named MVP.",
+        "end":  "2026-11-09T15:45:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T15:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
+        "end":  "2026-11-09T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T16:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Jacksonville Jaguars v Houston Texans.",
-        "end":  "2026-11-08T07:00:00.0000000"
+        "desc":  "New England Patriots v Green Bay Packers.",
+        "end":  "2026-11-09T17:00:00.0000000"
     },
     {
-        "start":  "2026-11-08T07:00:00.0000000",
+        "start":  "2026-11-09T17:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Denver Broncos v Kansas City Chiefs.",
-        "end":  "2026-11-08T08:00:00.0000000"
+        "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
+        "end":  "2026-11-09T18:00:00.0000000"
     },
     {
-        "start":  "2026-11-08T08:00:00.0000000",
+        "start":  "2026-11-09T18:00:00.0000000",
+        "title":  "NBC\u0027s Pro-Football Talk",
+        "desc":  "Mike Florio and Chris Simms present the NFL talk show, as they discuss and debate the biggest stories from around the league.",
+        "end":  "2026-11-09T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T20:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
+        "end":  "2026-11-09T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T22:00:00.0000000",
+        "title":  "NFL Fantasy",
+        "desc":  "Featuring the top NFL fantasy experts and analysts.",
+        "end":  "2026-11-09T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-09T23:00:00.0000000",
+        "title":  "Chris Simms Unbuttoned",
+        "desc":  "The broadcaster and former quarterback takes an unfiltered look at the NFL.",
+        "end":  "2026-11-10T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T00:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Miami Dolphins v Detroit Lions.",
+        "end":  "2026-11-10T00:45:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T00:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
+        "end":  "2026-11-10T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T01:00:00.0000000",
+        "title":  "Live NFL",
+        "desc":  "Minnesota Vikings v Buffalo Bills (Kick-off 1.15am). Coverage of the week nine match at U.S. Bank Stadium in Minneapolis. The last meeting between these two sides back in 2022 was a thrilling one as the game went to over-time, with the hosts eventually winning 33-30 in Buffalo. That victory for Minnesota ended a run of only one win in their last five games against the Bills, a run that stretched b",
+        "end":  "2026-11-10T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T04:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Baltimore Ravens v Jacksonville Jaguars.",
+        "end":  "2026-11-10T04:45:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T04:45:00.0000000",
+        "title":  "Doug Williams: The First Black Champion",
+        "desc":  "Chart Doug Williams\u0027 journey to Super Bowl victory in 1988, when he led Washington Redskins to a 42-10 victory over Denver Broncos and was named MVP.",
+        "end":  "2026-11-10T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T05:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Washington Commanders v Philadelphia Eagles.",
+        "end":  "2026-11-10T05:15:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T05:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v Chicago Bears.",
+        "end":  "2026-11-10T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T05:30:00.0000000",
+        "title":  "Kansas City Chiefs: The Franchise",
+        "desc":  "A behind-the-scenes look at the Kansas City Chiefs.",
+        "end":  "2026-11-10T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T06:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "New England Patriots v Green Bay Packers.",
+        "end":  "2026-11-10T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T07:00:00.0000000",
         "title":  "NFL Highlights",
         "desc":  "Baltimore Ravens v Jacksonville Jaguars.",
-        "end":  "2026-11-08T09:00:00.0000000"
+        "end":  "2026-11-10T08:00:00.0000000"
     },
     {
-        "start":  "2026-11-08T09:00:00.0000000",
+        "start":  "2026-11-10T08:00:00.0000000",
         "title":  "NFL Highlights",
         "desc":  "Seattle Seahawks v Chicago Bears.",
-        "end":  "2026-11-08T10:00:00.0000000"
+        "end":  "2026-11-10T09:00:00.0000000"
     },
     {
-        "start":  "2026-11-08T10:00:00.0000000",
+        "start":  "2026-11-10T09:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Green Bay Packers v Carolina Panthers.",
-        "end":  "2026-11-08T11:00:00.0000000"
+        "desc":  "Carolina Panthers v Denver Broncos.",
+        "end":  "2026-11-10T10:00:00.0000000"
     },
     {
-        "start":  "2026-11-08T11:00:00.0000000",
+        "start":  "2026-11-10T10:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Buffalo Bills v Baltimore Ravens.",
-        "end":  "2026-11-08T12:00:00.0000000"
+        "desc":  "Carolina Panthers v Denver Broncos.",
+        "end":  "2026-11-10T10:15:00.0000000"
     },
     {
-        "start":  "2026-11-08T12:00:00.0000000",
+        "start":  "2026-11-10T10:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New England Patriots v Green Bay Packers.",
+        "end":  "2026-11-10T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T10:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
+        "end":  "2026-11-10T10:45:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T10:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
+        "end":  "2026-11-10T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T11:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Denver Broncos v Kansas City Chiefs.",
-        "end":  "2026-11-08T13:00:00.0000000"
+        "desc":  "Minnesota Vikings v Buffalo Bills.",
+        "end":  "2026-11-10T12:00:00.0000000"
     },
     {
-        "start":  "2026-11-08T13:00:00.0000000",
+        "start":  "2026-11-10T12:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
+        "end":  "2026-11-10T12:15:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T12:15:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Carolina Panthers v Denver Broncos.",
+        "end":  "2026-11-10T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T12:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Minnesota Vikings v Buffalo Bills.",
+        "end":  "2026-11-10T12:45:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T12:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New England Patriots v Green Bay Packers.",
+        "end":  "2026-11-10T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T13:00:00.0000000",
+        "title":  "Good Morning Football",
+        "desc":  "Op-to-the-minute breaking NFL news.",
+        "end":  "2026-11-10T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T15:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Minnesota Vikings v Buffalo Bills.",
+        "end":  "2026-11-10T15:15:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T15:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New England Patriots v Green Bay Packers.",
+        "end":  "2026-11-10T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T15:30:00.0000000",
+        "title":  "49 Hours",
+        "desc":  "Follow a comprehensive, behind-the-scenes look at the 49 hours before the San Francisco 49ers take to the field for NFL action.",
+        "end":  "2026-11-10T15:45:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T15:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "San Francisco 49ers v Las Vegas Raiders.",
+        "end":  "2026-11-10T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T16:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Carolina Panthers v Denver Broncos.",
+        "end":  "2026-11-10T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T17:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Minnesota Vikings v Buffalo Bills.",
+        "end":  "2026-11-10T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T18:00:00.0000000",
+        "title":  "NBC\u0027s Pro-Football Talk",
+        "desc":  "Mike Florio and Chris Simms present the NFL talk show, as they discuss and debate the biggest stories from around the league.",
+        "end":  "2026-11-10T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T20:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Minnesota Vikings v Buffalo Bills.",
+        "end":  "2026-11-10T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T22:00:00.0000000",
+        "title":  "NFL Fantasy",
+        "desc":  "Featuring the top NFL fantasy experts and analysts.",
+        "end":  "2026-11-10T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T23:00:00.0000000",
+        "title":  "Chris Simms Unbuttoned",
+        "desc":  "The broadcaster and former quarterback takes an unfiltered look at the NFL.",
+        "end":  "2026-11-11T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T00:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Miami Dolphins v Detroit Lions.",
+        "end":  "2026-11-10T00:45:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T00:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
+        "end":  "2026-11-10T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T01:00:00.0000000",
+        "title":  "Live NFL",
+        "desc":  "Minnesota Vikings v Buffalo Bills (Kick-off 1.15am). Coverage of the week nine match at U.S. Bank Stadium in Minneapolis. The last meeting between these two sides back in 2022 was a thrilling one as the game went to over-time, with the hosts eventually winning 33-30 in Buffalo. That victory for Minnesota ended a run of only one win in their last five games against the Bills, a run that stretched b",
+        "end":  "2026-11-10T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T04:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Baltimore Ravens v Jacksonville Jaguars.",
+        "end":  "2026-11-10T04:45:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T04:45:00.0000000",
+        "title":  "Doug Williams: The First Black Champion",
+        "desc":  "Chart Doug Williams\u0027 journey to Super Bowl victory in 1988, when he led Washington Redskins to a 42-10 victory over Denver Broncos and was named MVP.",
+        "end":  "2026-11-10T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T05:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Washington Commanders v Philadelphia Eagles.",
+        "end":  "2026-11-10T05:15:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T05:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v Chicago Bears.",
+        "end":  "2026-11-10T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T05:30:00.0000000",
+        "title":  "Kansas City Chiefs: The Franchise",
+        "desc":  "A behind-the-scenes look at the Kansas City Chiefs.",
+        "end":  "2026-11-10T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T06:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "New England Patriots v Green Bay Packers.",
+        "end":  "2026-11-10T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T07:00:00.0000000",
         "title":  "NFL Highlights",
         "desc":  "Baltimore Ravens v Jacksonville Jaguars.",
-        "end":  "2026-11-08T14:00:00.0000000"
+        "end":  "2026-11-10T08:00:00.0000000"
     },
     {
-        "start":  "2026-11-08T14:00:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "Atlanta Falcons v Cincinnati Bengals (Kick-off 2.30pm). Coverage of the week nine match from Bernabeu in Madrid, as the NFL comes to Spain for the second year in a row. Last year\u0027s game at this stadium saw the Washington Commanders take on the Miami Dolphins in a thrilling game that saw the Dolphins win 16-13 in over-time. Today\u0027s meeting between the Falcons and the Bengals is the first time the s",
-        "end":  "2026-11-08T18:00:00.0000000"
+        "start":  "2026-11-10T08:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Seattle Seahawks v Chicago Bears.",
+        "end":  "2026-11-10T09:00:00.0000000"
     },
     {
-        "start":  "2026-11-08T18:00:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "Carolina Panthers v Denver Broncos (Kick-off 6.00pm). Coverage of the week nine match from Bank of America Stadium in Charlotte, North Carolina.",
-        "end":  "2026-11-08T21:15:00.0000000"
+        "start":  "2026-11-10T09:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Carolina Panthers v Denver Broncos.",
+        "end":  "2026-11-10T10:00:00.0000000"
     },
     {
-        "start":  "2026-11-08T21:15:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "New England Patriots v Green Bay Packers (Kick-off 9.25pm). Coverage of the week nine match from Gillette Stadium in Foxborough, Massachusetts.",
-        "end":  "2026-11-09T00:00:00.0000000"
+        "start":  "2026-11-10T10:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Carolina Panthers v Denver Broncos.",
+        "end":  "2026-11-10T10:15:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T10:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New England Patriots v Green Bay Packers.",
+        "end":  "2026-11-10T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T10:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
+        "end":  "2026-11-10T10:45:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T10:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
+        "end":  "2026-11-10T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T11:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Minnesota Vikings v Buffalo Bills.",
+        "end":  "2026-11-10T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T12:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
+        "end":  "2026-11-10T12:15:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T12:15:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Carolina Panthers v Denver Broncos.",
+        "end":  "2026-11-10T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T12:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Minnesota Vikings v Buffalo Bills.",
+        "end":  "2026-11-10T12:45:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T12:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New England Patriots v Green Bay Packers.",
+        "end":  "2026-11-10T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T13:00:00.0000000",
+        "title":  "Good Morning Football",
+        "desc":  "Op-to-the-minute breaking NFL news.",
+        "end":  "2026-11-10T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T15:00:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Minnesota Vikings v Buffalo Bills.",
+        "end":  "2026-11-10T15:15:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T15:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New England Patriots v Green Bay Packers.",
+        "end":  "2026-11-10T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T15:30:00.0000000",
+        "title":  "49 Hours",
+        "desc":  "Follow a comprehensive, behind-the-scenes look at the 49 hours before the San Francisco 49ers take to the field for NFL action.",
+        "end":  "2026-11-10T15:45:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T15:45:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "San Francisco 49ers v Las Vegas Raiders.",
+        "end":  "2026-11-10T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T16:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Carolina Panthers v Denver Broncos.",
+        "end":  "2026-11-10T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T17:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Minnesota Vikings v Buffalo Bills.",
+        "end":  "2026-11-10T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T18:00:00.0000000",
+        "title":  "NBC\u0027s Pro-Football Talk",
+        "desc":  "Mike Florio and Chris Simms present the NFL talk show, as they discuss and debate the biggest stories from around the league.",
+        "end":  "2026-11-10T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T20:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Minnesota Vikings v Buffalo Bills.",
+        "end":  "2026-11-10T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T22:00:00.0000000",
+        "title":  "NFL Fantasy",
+        "desc":  "Featuring the top NFL fantasy experts and analysts.",
+        "end":  "2026-11-10T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T23:00:00.0000000",
+        "title":  "Chris Simms Unbuttoned",
+        "desc":  "The broadcaster and former quarterback takes an unfiltered look at the NFL.",
+        "end":  "2026-11-11T00:00:00.0000000"
     },
     {
         "start":  "2026-11-09T00:30:00.0000000",
@@ -294,483 +756,195 @@
         "end":  "2026-11-10T00:00:00.0000000"
     },
     {
-        "start":  "2026-11-09T00:30:00.0000000",
-        "title":  "NBC\u0027s FNIA",
-        "desc":  "The build-up to Chicago Bears v Tampa Bay Buccaneers, plus reaction to Sunday\u0027s week nine matches.",
-        "end":  "2026-11-09T01:10:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T01:10:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "Chicago Bears v Tampa Bay Buccaneers (Kick-off 1.20am). Coverage of the week nine match at Soldier Field.",
-        "end":  "2026-11-09T04:45:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T04:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Baltimore Ravens v Jacksonville Jaguars.",
-        "end":  "2026-11-09T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T05:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Los Angeles Rams v Los Angeles Chargers.",
-        "end":  "2026-11-09T05:15:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T05:15:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Washington Commanders v Philadelphia Eagles.",
-        "end":  "2026-11-09T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T05:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Seattle Seahawks v Chicago Bears.",
-        "end":  "2026-11-09T05:45:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T05:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Washington Commanders v Philadelphia Eagles.",
-        "end":  "2026-11-09T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T06:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Atlanta Falcons v Cincinnati Bengals.",
-        "end":  "2026-11-09T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T07:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Carolina Panthers v Denver Broncos.",
-        "end":  "2026-11-09T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T08:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "New England Patriots v Green Bay Packers.",
-        "end":  "2026-11-09T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T09:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Baltimore Ravens v Jacksonville Jaguars.",
-        "end":  "2026-11-09T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T10:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Carolina Panthers v Denver Broncos.",
-        "end":  "2026-11-09T10:15:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T10:15:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "New England Patriots v Green Bay Packers.",
-        "end":  "2026-11-09T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T10:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Atlanta Falcons v Cincinnati Bengals.",
-        "end":  "2026-11-09T10:45:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T10:45:00.0000000",
-        "title":  "49 Hours",
-        "desc":  "Follow a comprehensive, behind-the-scenes look at the 49 hours before the San Francisco 49ers take to the field for NFL action.",
-        "end":  "2026-11-09T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T11:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
-        "end":  "2026-11-09T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T12:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Carolina Panthers v Denver Broncos.",
-        "end":  "2026-11-09T12:15:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T12:15:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "New England Patriots v Green Bay Packers.",
-        "end":  "2026-11-09T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T12:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
-        "end":  "2026-11-09T12:45:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T12:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
-        "end":  "2026-11-09T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T13:00:00.0000000",
-        "title":  "Good Morning Football",
-        "desc":  "Up-to-the-minute breaking NFL news, headline-making interviews and local NFL stories.",
-        "end":  "2026-11-09T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T15:00:00.0000000",
+        "start":  "2026-11-10T00:30:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Miami Dolphins v Detroit Lions.",
-        "end":  "2026-11-09T15:15:00.0000000"
+        "end":  "2026-11-10T00:45:00.0000000"
     },
     {
-        "start":  "2026-11-09T15:15:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "San Francisco 49ers v Las Vegas Raiders.",
-        "end":  "2026-11-09T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T15:30:00.0000000",
-        "title":  "Doug Williams: The First Black Champion",
-        "desc":  "Chart Doug Williams\u0027 journey to Super Bowl victory in 1988, when he led Washington Redskins to a 42-10 victory over Denver Broncos and was named MVP.",
-        "end":  "2026-11-09T15:45:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T15:45:00.0000000",
+        "start":  "2026-11-10T00:45:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
-        "end":  "2026-11-09T16:00:00.0000000"
+        "end":  "2026-11-10T01:00:00.0000000"
     },
     {
-        "start":  "2026-11-09T16:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "New England Patriots v Green Bay Packers.",
-        "end":  "2026-11-09T17:00:00.0000000"
+        "start":  "2026-11-10T01:00:00.0000000",
+        "title":  "Live NFL",
+        "desc":  "Minnesota Vikings v Buffalo Bills (Kick-off 1.15am). Coverage of the week nine match at U.S. Bank Stadium in Minneapolis. The last meeting between these two sides back in 2022 was a thrilling one as the game went to over-time, with the hosts eventually winning 33-30 in Buffalo. That victory for Minnesota ended a run of only one win in their last five games against the Bills, a run that stretched b",
+        "end":  "2026-11-10T04:30:00.0000000"
     },
     {
-        "start":  "2026-11-09T17:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
-        "end":  "2026-11-09T18:00:00.0000000"
+        "start":  "2026-11-10T04:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Baltimore Ravens v Jacksonville Jaguars.",
+        "end":  "2026-11-10T04:45:00.0000000"
     },
     {
-        "start":  "2026-11-09T18:00:00.0000000",
-        "title":  "NBC\u0027s Pro-Football Talk",
-        "desc":  "Mike Florio and Chris Simms present the NFL talk show, as they discuss and debate the biggest stories from around the league.",
-        "end":  "2026-11-09T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T20:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
-        "end":  "2026-11-09T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T22:00:00.0000000",
-        "title":  "NFL Fantasy",
-        "desc":  "Featuring the top NFL fantasy experts and analysts.",
-        "end":  "2026-11-09T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T23:00:00.0000000",
-        "title":  "Chris Simms Unbuttoned",
-        "desc":  "The broadcaster and former quarterback takes an unfiltered look at the NFL.",
-        "end":  "2026-11-10T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T00:30:00.0000000",
-        "title":  "Live NCAA College Football",
-        "desc":  "Notre Dame Fighting Irish v Miami Hurricanes (Kick-off 12.30am). Coverage of the match from Notre Dame Stadium in Notre Dame, Indiana.",
-        "end":  "2026-11-08T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T04:00:00.0000000",
+        "start":  "2026-11-10T04:45:00.0000000",
         "title":  "Doug Williams: The First Black Champion",
         "desc":  "Chart Doug Williams\u0027 journey to Super Bowl victory in 1988, when he led Washington Redskins to a 42-10 victory over Denver Broncos and was named MVP.",
-        "end":  "2026-11-08T04:15:00.0000000"
+        "end":  "2026-11-10T05:00:00.0000000"
     },
     {
-        "start":  "2026-11-08T04:15:00.0000000",
+        "start":  "2026-11-10T05:00:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Washington Commanders v Philadelphia Eagles.",
-        "end":  "2026-11-08T04:30:00.0000000"
+        "end":  "2026-11-10T05:15:00.0000000"
     },
     {
-        "start":  "2026-11-08T04:30:00.0000000",
+        "start":  "2026-11-10T05:15:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Seattle Seahawks v Chicago Bears.",
-        "end":  "2026-11-08T04:45:00.0000000"
+        "end":  "2026-11-10T05:30:00.0000000"
     },
     {
-        "start":  "2026-11-08T04:45:00.0000000",
+        "start":  "2026-11-10T05:30:00.0000000",
+        "title":  "Kansas City Chiefs: The Franchise",
+        "desc":  "A behind-the-scenes look at the Kansas City Chiefs.",
+        "end":  "2026-11-10T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T06:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "New England Patriots v Green Bay Packers.",
+        "end":  "2026-11-10T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T07:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Baltimore Ravens v Jacksonville Jaguars.",
+        "end":  "2026-11-10T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T08:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Seattle Seahawks v Chicago Bears.",
+        "end":  "2026-11-10T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T09:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Carolina Panthers v Denver Broncos.",
+        "end":  "2026-11-10T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T10:00:00.0000000",
+        "title":  "NFL Highlights",
+        "desc":  "Carolina Panthers v Denver Broncos.",
+        "end":  "2026-11-10T10:15:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T10:15:00.0000000",
         "title":  "NFL Bitesize Highlights",
-        "desc":  "Washington Commanders v Philadelphia Eagles.",
-        "end":  "2026-11-08T05:00:00.0000000"
+        "desc":  "New England Patriots v Green Bay Packers.",
+        "end":  "2026-11-10T10:30:00.0000000"
     },
     {
-        "start":  "2026-11-08T05:00:00.0000000",
-        "title":  "NFL Gameday",
-        "desc":  "A review of all of the latest games.",
-        "end":  "2026-11-08T05:45:00.0000000"
+        "start":  "2026-11-10T10:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
+        "end":  "2026-11-10T10:45:00.0000000"
     },
     {
-        "start":  "2026-11-08T05:45:00.0000000",
+        "start":  "2026-11-10T10:45:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "Seattle Seahawks v Kansas City Chiefs.",
-        "end":  "2026-11-08T06:00:00.0000000"
+        "end":  "2026-11-10T11:00:00.0000000"
     },
     {
-        "start":  "2026-11-08T06:00:00.0000000",
+        "start":  "2026-11-10T11:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Jacksonville Jaguars v Houston Texans.",
-        "end":  "2026-11-08T07:00:00.0000000"
+        "desc":  "Minnesota Vikings v Buffalo Bills.",
+        "end":  "2026-11-10T12:00:00.0000000"
     },
     {
-        "start":  "2026-11-08T07:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Denver Broncos v Kansas City Chiefs.",
-        "end":  "2026-11-08T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T08:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Baltimore Ravens v Jacksonville Jaguars.",
-        "end":  "2026-11-08T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T09:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Seattle Seahawks v Chicago Bears.",
-        "end":  "2026-11-08T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T10:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Green Bay Packers v Carolina Panthers.",
-        "end":  "2026-11-08T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T11:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Buffalo Bills v Baltimore Ravens.",
-        "end":  "2026-11-08T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T12:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Denver Broncos v Kansas City Chiefs.",
-        "end":  "2026-11-08T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T13:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Baltimore Ravens v Jacksonville Jaguars.",
-        "end":  "2026-11-08T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T14:00:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "Atlanta Falcons v Cincinnati Bengals (Kick-off 2.30pm). Coverage of the week nine match from Bernabeu in Madrid, as the NFL comes to Spain for the second year in a row. Last year\u0027s game at this stadium saw the Washington Commanders take on the Miami Dolphins in a thrilling game that saw the Dolphins win 16-13 in over-time. Today\u0027s meeting between the Falcons and the Bengals is the first time the s",
-        "end":  "2026-11-08T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T18:00:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "Carolina Panthers v Denver Broncos (Kick-off 6.00pm). Coverage of the week nine match from Bank of America Stadium in Charlotte, North Carolina.",
-        "end":  "2026-11-08T21:15:00.0000000"
-    },
-    {
-        "start":  "2026-11-08T21:15:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "New England Patriots v Green Bay Packers (Kick-off 9.25pm). Coverage of the week nine match from Gillette Stadium in Foxborough, Massachusetts.",
-        "end":  "2026-11-09T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T00:30:00.0000000",
-        "title":  "NBC\u0027s FNIA",
-        "desc":  "The build-up to Chicago Bears v Tampa Bay Buccaneers, plus reaction to Sunday\u0027s week nine matches.",
-        "end":  "2026-11-09T01:10:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T01:10:00.0000000",
-        "title":  "Live NFL",
-        "desc":  "Chicago Bears v Tampa Bay Buccaneers (Kick-off 1.20am). Coverage of the week nine match at Soldier Field.",
-        "end":  "2026-11-09T04:45:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T04:45:00.0000000",
+        "start":  "2026-11-10T12:00:00.0000000",
         "title":  "NFL Bitesize Highlights",
-        "desc":  "Baltimore Ravens v Jacksonville Jaguars.",
-        "end":  "2026-11-09T05:00:00.0000000"
+        "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
+        "end":  "2026-11-10T12:15:00.0000000"
     },
     {
-        "start":  "2026-11-09T05:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Los Angeles Rams v Los Angeles Chargers.",
-        "end":  "2026-11-09T05:15:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T05:15:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Washington Commanders v Philadelphia Eagles.",
-        "end":  "2026-11-09T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T05:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Seattle Seahawks v Chicago Bears.",
-        "end":  "2026-11-09T05:45:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T05:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Washington Commanders v Philadelphia Eagles.",
-        "end":  "2026-11-09T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T06:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Atlanta Falcons v Cincinnati Bengals.",
-        "end":  "2026-11-09T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T07:00:00.0000000",
+        "start":  "2026-11-10T12:15:00.0000000",
         "title":  "NFL Highlights",
         "desc":  "Carolina Panthers v Denver Broncos.",
-        "end":  "2026-11-09T08:00:00.0000000"
+        "end":  "2026-11-10T12:30:00.0000000"
     },
     {
-        "start":  "2026-11-09T08:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "New England Patriots v Green Bay Packers.",
-        "end":  "2026-11-09T09:00:00.0000000"
+        "start":  "2026-11-10T12:30:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "Minnesota Vikings v Buffalo Bills.",
+        "end":  "2026-11-10T12:45:00.0000000"
     },
     {
-        "start":  "2026-11-09T09:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Baltimore Ravens v Jacksonville Jaguars.",
-        "end":  "2026-11-09T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T10:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Carolina Panthers v Denver Broncos.",
-        "end":  "2026-11-09T10:15:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T10:15:00.0000000",
+        "start":  "2026-11-10T12:45:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "New England Patriots v Green Bay Packers.",
-        "end":  "2026-11-09T10:30:00.0000000"
+        "end":  "2026-11-10T13:00:00.0000000"
     },
     {
-        "start":  "2026-11-09T10:30:00.0000000",
+        "start":  "2026-11-10T13:00:00.0000000",
+        "title":  "Good Morning Football",
+        "desc":  "Op-to-the-minute breaking NFL news.",
+        "end":  "2026-11-10T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T15:00:00.0000000",
         "title":  "NFL Bitesize Highlights",
-        "desc":  "Atlanta Falcons v Cincinnati Bengals.",
-        "end":  "2026-11-09T10:45:00.0000000"
+        "desc":  "Minnesota Vikings v Buffalo Bills.",
+        "end":  "2026-11-10T15:15:00.0000000"
     },
     {
-        "start":  "2026-11-09T10:45:00.0000000",
+        "start":  "2026-11-10T15:15:00.0000000",
+        "title":  "NFL Bitesize Highlights",
+        "desc":  "New England Patriots v Green Bay Packers.",
+        "end":  "2026-11-10T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-10T15:30:00.0000000",
         "title":  "49 Hours",
         "desc":  "Follow a comprehensive, behind-the-scenes look at the 49 hours before the San Francisco 49ers take to the field for NFL action.",
-        "end":  "2026-11-09T11:00:00.0000000"
+        "end":  "2026-11-10T15:45:00.0000000"
     },
     {
-        "start":  "2026-11-09T11:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
-        "end":  "2026-11-09T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T12:00:00.0000000",
-        "title":  "NFL Highlights",
-        "desc":  "Carolina Panthers v Denver Broncos.",
-        "end":  "2026-11-09T12:15:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T12:15:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "New England Patriots v Green Bay Packers.",
-        "end":  "2026-11-09T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T12:30:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
-        "end":  "2026-11-09T12:45:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T12:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Seattle Seahawks v Kansas City Chiefs.",
-        "end":  "2026-11-09T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T13:00:00.0000000",
-        "title":  "Good Morning Football",
-        "desc":  "Up-to-the-minute breaking NFL news, headline-making interviews and local NFL stories.",
-        "end":  "2026-11-09T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T15:00:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Miami Dolphins v Detroit Lions.",
-        "end":  "2026-11-09T15:15:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T15:15:00.0000000",
+        "start":  "2026-11-10T15:45:00.0000000",
         "title":  "NFL Bitesize Highlights",
         "desc":  "San Francisco 49ers v Las Vegas Raiders.",
-        "end":  "2026-11-09T15:30:00.0000000"
+        "end":  "2026-11-10T16:00:00.0000000"
     },
     {
-        "start":  "2026-11-09T15:30:00.0000000",
-        "title":  "Doug Williams: The First Black Champion",
-        "desc":  "Chart Doug Williams\u0027 journey to Super Bowl victory in 1988, when he led Washington Redskins to a 42-10 victory over Denver Broncos and was named MVP.",
-        "end":  "2026-11-09T15:45:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T15:45:00.0000000",
-        "title":  "NFL Bitesize Highlights",
-        "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
-        "end":  "2026-11-09T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-09T16:00:00.0000000",
+        "start":  "2026-11-10T16:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "New England Patriots v Green Bay Packers.",
-        "end":  "2026-11-09T17:00:00.0000000"
+        "desc":  "Carolina Panthers v Denver Broncos.",
+        "end":  "2026-11-10T17:00:00.0000000"
     },
     {
-        "start":  "2026-11-09T17:00:00.0000000",
+        "start":  "2026-11-10T17:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
-        "end":  "2026-11-09T18:00:00.0000000"
+        "desc":  "Minnesota Vikings v Buffalo Bills.",
+        "end":  "2026-11-10T18:00:00.0000000"
     },
     {
-        "start":  "2026-11-09T18:00:00.0000000",
+        "start":  "2026-11-10T18:00:00.0000000",
         "title":  "NBC\u0027s Pro-Football Talk",
         "desc":  "Mike Florio and Chris Simms present the NFL talk show, as they discuss and debate the biggest stories from around the league.",
-        "end":  "2026-11-09T20:00:00.0000000"
+        "end":  "2026-11-10T20:00:00.0000000"
     },
     {
-        "start":  "2026-11-09T20:00:00.0000000",
+        "start":  "2026-11-10T20:00:00.0000000",
         "title":  "NFL Highlights",
-        "desc":  "Chicago Bears v Tampa Bay Buccaneers.",
-        "end":  "2026-11-09T22:00:00.0000000"
+        "desc":  "Minnesota Vikings v Buffalo Bills.",
+        "end":  "2026-11-10T22:00:00.0000000"
     },
     {
-        "start":  "2026-11-09T22:00:00.0000000",
+        "start":  "2026-11-10T22:00:00.0000000",
         "title":  "NFL Fantasy",
         "desc":  "Featuring the top NFL fantasy experts and analysts.",
-        "end":  "2026-11-09T23:00:00.0000000"
+        "end":  "2026-11-10T23:00:00.0000000"
     },
     {
-        "start":  "2026-11-09T23:00:00.0000000",
+        "start":  "2026-11-10T23:00:00.0000000",
         "title":  "Chris Simms Unbuttoned",
         "desc":  "The broadcaster and former quarterback takes an unfiltered look at the NFL.",
-        "end":  "2026-11-10T00:00:00.0000000"
+        "end":  "2026-11-11T00:00:00.0000000"
     }
 ]
