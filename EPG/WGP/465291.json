@@ -1,338 +1,416 @@
 [
     {
-        "start":  "2026-11-10T01:30:00.0000000",
+        "start":  "2026-11-11T00:00:00.0000000",
         "title":  "Live: College Basketball",
-        "desc":  "From Mackey Arena in West Lafayette, Ind.",
-        "end":  "2026-11-10T03:30:00.0000000"
+        "desc":  "The Virginia Tech Hokies face the Iowa Hawkeyes for an NCAA Division I game. Virginia Tech rides a two-game win streak alongside forward Amani Hansberry, and Iowa rides a two-game win streak alongside forward Jaidyn Coon at Tyson Events Center.",
+        "end":  "2026-11-11T02:00:00.0000000"
     },
     {
-        "start":  "2026-11-10T03:30:00.0000000",
-        "title":  "Speed With Harvick \u0026 Buxton",
-        "desc":  "Let\u0027s talk racing; Kevin Harvick and Will Buxton celebrate the world of motorsports.",
-        "end":  "2026-11-10T04:30:00.0000000"
+        "start":  "2026-11-11T02:00:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "From Bramlage Coliseum in Mahnattan, Kan.",
+        "end":  "2026-11-11T04:00:00.0000000"
     },
     {
-        "start":  "2026-11-10T04:30:00.0000000",
+        "start":  "2026-11-11T04:00:00.0000000",
+        "title":  "Live: FS1 College Hoops Extra",
+        "desc":  "Highlights and analysis of today\u0027s college basketball action.",
+        "end":  "2026-11-11T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-11T04:30:00.0000000",
+        "title":  "College Football",
+        "desc":  "The No. 8 UCLA Bruins (8-0) face the Minnesota Golden Gophers (5-3) at Huntington Bank Stadium for a Big Ten game. UCLA enters undefeated in eight games after shutting out Nevada 27-0, while Minnesota is coming off a 23-16 overtime defeat to Indiana.",
+        "end":  "2026-11-11T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-11T07:30:00.0000000",
         "title":  "TMZ Sports",
         "desc":  "Gossip and exclusive stories about athletes\u0027 personal lives.",
-        "end":  "2026-11-10T05:00:00.0000000"
+        "end":  "2026-11-11T08:00:00.0000000"
     },
     {
-        "start":  "2026-11-10T05:00:00.0000000",
-        "title":  "The Gronk \u0026 Jules Show",
-        "desc":  "Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
-        "end":  "2026-11-10T05:30:00.0000000"
+        "start":  "2026-11-11T08:00:00.0000000",
+        "title":  "College Basketball",
+        "desc":  "The Virginia Tech Hokies face the Iowa Hawkeyes for an NCAA Division I game. Virginia Tech rides a two-game win streak alongside forward Amani Hansberry, and Iowa rides a two-game win streak alongside forward Jaidyn Coon at Tyson Events Center.",
+        "end":  "2026-11-11T10:00:00.0000000"
     },
     {
-        "start":  "2026-11-10T05:30:00.0000000",
+        "start":  "2026-11-11T10:00:00.0000000",
+        "title":  "College Basketball",
+        "desc":  "From Bramlage Coliseum in Mahnattan, Kan.",
+        "end":  "2026-11-11T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-11T12:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The No. 8 UCLA Bruins (8-0) face the Minnesota Golden Gophers (5-3) at Huntington Bank Stadium for a Big Ten game. UCLA enters undefeated in eight games after shutting out Nevada 27-0, while Minnesota is coming off a 23-16 overtime defeat to Indiana.",
+        "end":  "2026-11-11T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-11T13:00:00.0000000",
+        "title":  "Live: Wake Up Barstool",
+        "desc":  "Dave Portnoy, Big Cat, PFT and the Barstool crew bring viral headlines, big-name guests and a TV show built by the common sports fan, for the common sports fan.",
+        "end":  "2026-11-11T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-11T15:00:00.0000000",
+        "title":  "Wake Up Barstool",
+        "desc":  "Dave Portnoy, Big Cat, PFT and the Barstool crew bring viral headlines, big-name guests and a TV show built by the common sports fan, for the common sports fan.",
+        "end":  "2026-11-11T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-11T17:00:00.0000000",
+        "title":  "Live: The Herd With Colin Cowherd",
+        "desc":  "A thought-provoking, opinionated and topic-driven journey through the top sports stories of the day with host Colin Cowherd.",
+        "end":  "2026-11-11T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-11T20:00:00.0000000",
+        "title":  "Live: First Things First",
+        "desc":  "Nick Wright, Chris Broussard and Kevin Wildes explore and offer their opinions on the biggest stories in sports.",
+        "end":  "2026-11-11T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-11T22:00:00.0000000",
+        "title":  "Live: First Things First: OT",
+        "desc":  "Nick Wright, Chris Broussard, Kevin Wildes and OT anchor Danny Parkins offer their opinions on the day\u0027s sports stories.",
+        "end":  "2026-11-11T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-11T23:00:00.0000000",
+        "title":  "The Clay Travis Show",
+        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
+        "end":  "2026-11-11T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-11T23:30:00.0000000",
         "title":  "NFL Films Presents",
-        "desc":  "\"Forgotten Freddy\" -- the story of running back Fred Taylor; Guide Runner -- Tiki Barber\u0027s passion for running extends beyond football; 50th anniversary of Old Man Willie.",
-        "end":  "2026-11-10T06:00:00.0000000"
+        "desc":  "Robert Mathis discusses becoming the all-time forced fumble leader and overcoming addiction.",
+        "end":  "2026-11-12T00:00:00.0000000"
     },
     {
-        "start":  "2026-11-10T06:00:00.0000000",
-        "title":  "2026 FIFA U-17 Women\u0027s World Cup",
-        "desc":  "Final.",
-        "end":  "2026-11-10T08:00:00.0000000"
+        "start":  "2026-11-12T00:00:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "The Marquette Golden Eagles visit the No. 16 Michigan Wolverines for an NCAA Division I game in Michigan. Marquette rides a two-game win streak with forward Sananda Fru, and Michigan enters with an 85-77 loss against UConn with guard Trey McKenney.",
+        "end":  "2026-11-12T02:00:00.0000000"
     },
     {
-        "start":  "2026-11-10T08:00:00.0000000",
+        "start":  "2026-11-12T02:00:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "The Lindenwood Lions visit the Nebraska Cornhuskers for an NCAA Division I game in Nebraska. Lindenwood comes off a 115-44 win over Bethesda alongside guard Shamiere Green, and Nebraska rides a two-game win streak alongside forward Pryce Sandfort.",
+        "end":  "2026-11-12T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T04:00:00.0000000",
+        "title":  "Veteran Golfers Association National Championship",
+        "desc":  "The Veterans Golfers Association hosts more than 450 local tournaments across the country, culminating in the VGA National Championship.",
+        "end":  "2026-11-12T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T05:00:00.0000000",
+        "title":  "NFL Films Presents",
+        "desc":  "Robert Mathis discusses becoming the all-time forced fumble leader and overcoming addiction.",
+        "end":  "2026-11-12T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T05:30:00.0000000",
+        "title":  "The Clay Travis Show",
+        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
+        "end":  "2026-11-12T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T06:00:00.0000000",
+        "title":  "TMZ Sports",
+        "desc":  "Gossip and exclusive stories about athletes\u0027 personal lives.",
+        "end":  "2026-11-12T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T06:30:00.0000000",
         "title":  "College Basketball",
-        "desc":  "The Syracuse Orange face the Indiana Hoosiers for an NCAA Division I game in Indiana. Syracuse rides a two-game win streak with guard Gavin Doty, and Indiana rides a two-game win streak alongside guard Darren Harris playing at Gainbridge Fieldhouse.",
-        "end":  "2026-11-10T10:00:00.0000000"
+        "desc":  "The Marquette Golden Eagles visit the No. 16 Michigan Wolverines for an NCAA Division I game in Michigan. Marquette rides a two-game win streak with forward Sananda Fru, and Michigan enters with an 85-77 loss against UConn with guard Trey McKenney.",
+        "end":  "2026-11-12T08:30:00.0000000"
     },
     {
-        "start":  "2026-11-10T10:00:00.0000000",
+        "start":  "2026-11-12T08:30:00.0000000",
         "title":  "College Basketball",
-        "desc":  "The Illinois State Redbirds visit the Purdue Boilermakers for an NCAA Division I game. Illinois State comes off a 100-55 victory over Central State alongside guard Johnny Kinziger, and Purdue rides a two-game skid with forward Daniel Jacobsen.",
-        "end":  "2026-11-10T12:00:00.0000000"
+        "desc":  "The Lindenwood Lions visit the Nebraska Cornhuskers for an NCAA Division I game in Nebraska. Lindenwood comes off a 115-44 win over Bethesda alongside guard Shamiere Green, and Nebraska rides a two-game win streak alongside forward Pryce Sandfort.",
+        "end":  "2026-11-12T10:30:00.0000000"
     },
     {
-        "start":  "2026-11-10T12:00:00.0000000",
+        "start":  "2026-11-12T10:30:00.0000000",
+        "title":  "Veteran Golfers Association National Championship",
+        "desc":  "The Veterans Golfers Association hosts more than 450 local tournaments across the country, culminating in the VGA National Championship.",
+        "end":  "2026-11-12T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T11:30:00.0000000",
+        "title":  "The Clay Travis Show",
+        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
+        "end":  "2026-11-12T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T12:00:00.0000000",
         "title":  "First Things First",
         "desc":  "Nick Wright, Chris Broussard and Kevin Wildes explore and offer their opinions on the biggest stories in sports.",
-        "end":  "2026-11-10T13:00:00.0000000"
+        "end":  "2026-11-12T13:00:00.0000000"
     },
     {
-        "start":  "2026-11-10T13:00:00.0000000",
+        "start":  "2026-11-12T13:00:00.0000000",
         "title":  "Live: Wake Up Barstool",
         "desc":  "Dave Portnoy, Big Cat, PFT and the Barstool crew bring viral headlines, big-name guests and a TV show built by the common sports fan, for the common sports fan.",
-        "end":  "2026-11-10T15:00:00.0000000"
+        "end":  "2026-11-12T15:00:00.0000000"
     },
     {
-        "start":  "2026-11-10T15:00:00.0000000",
+        "start":  "2026-11-12T15:00:00.0000000",
         "title":  "Wake Up Barstool",
         "desc":  "Dave Portnoy, Big Cat, PFT and the Barstool crew bring viral headlines, big-name guests and a TV show built by the common sports fan, for the common sports fan.",
-        "end":  "2026-11-10T17:00:00.0000000"
+        "end":  "2026-11-12T16:30:00.0000000"
     },
     {
-        "start":  "2026-11-10T17:00:00.0000000",
-        "title":  "Live: The Herd With Colin Cowherd",
-        "desc":  "A thought-provoking, opinionated and topic-driven journey through the top sports stories of the day with host Colin Cowherd.",
-        "end":  "2026-11-10T20:00:00.0000000"
+        "start":  "2026-11-12T16:30:00.0000000",
+        "title":  "Live: UEFA Nations League Match Day",
+        "desc":  "Studio analysis and predictions for a UEFA Nations League match.",
+        "end":  "2026-11-12T17:00:00.0000000"
     },
     {
-        "start":  "2026-11-10T20:00:00.0000000",
+        "start":  "2026-11-12T17:00:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League A, Group 1.",
+        "end":  "2026-11-12T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T19:00:00.0000000",
+        "title":  "Live: UEFA Nations League Match Day",
+        "desc":  "Studio analysis and predictions for a UEFA Nations League match.",
+        "end":  "2026-11-12T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T19:30:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League A, Group 1.",
+        "end":  "2026-11-12T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T22:00:00.0000000",
         "title":  "Live: First Things First",
         "desc":  "Nick Wright, Chris Broussard and Kevin Wildes explore and offer their opinions on the biggest stories in sports.",
-        "end":  "2026-11-10T22:00:00.0000000"
+        "end":  "2026-11-12T23:00:00.0000000"
     },
     {
-        "start":  "2026-11-10T22:00:00.0000000",
+        "start":  "2026-11-12T23:00:00.0000000",
         "title":  "Live: First Things First: OT",
         "desc":  "Nick Wright, Chris Broussard, Kevin Wildes and OT anchor Danny Parkins offer their opinions on the day\u0027s sports stories.",
-        "end":  "2026-11-10T23:00:00.0000000"
+        "end":  "2026-11-12T23:30:00.0000000"
     },
     {
-        "start":  "2026-11-10T23:00:00.0000000",
+        "start":  "2026-11-12T23:30:00.0000000",
+        "title":  "Live: Women\u0027s College Basketball",
+        "desc":  "The No. 2 UConn Huskies visit the No. 18 Ohio State Buckeyes for an NCAA Division I game in Ohio. UConn comes off a 91-79 win over Iowa alongside Sarah Strong, and Ohio State rides a three-game win streak alongside Jaloni Cambridge.",
+        "end":  "2026-11-13T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T00:00:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "The Marquette Golden Eagles visit the No. 16 Michigan Wolverines for an NCAA Division I game in Michigan. Marquette rides a two-game win streak with forward Sananda Fru, and Michigan enters with an 85-77 loss against UConn with guard Trey McKenney.",
+        "end":  "2026-11-12T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T02:00:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "The Lindenwood Lions visit the Nebraska Cornhuskers for an NCAA Division I game in Nebraska. Lindenwood comes off a 115-44 win over Bethesda alongside guard Shamiere Green, and Nebraska rides a two-game win streak alongside forward Pryce Sandfort.",
+        "end":  "2026-11-12T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T04:00:00.0000000",
+        "title":  "Veteran Golfers Association National Championship",
+        "desc":  "The Veterans Golfers Association hosts more than 450 local tournaments across the country, culminating in the VGA National Championship.",
+        "end":  "2026-11-12T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T05:00:00.0000000",
+        "title":  "NFL Films Presents",
+        "desc":  "Robert Mathis discusses becoming the all-time forced fumble leader and overcoming addiction.",
+        "end":  "2026-11-12T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T05:30:00.0000000",
+        "title":  "The Clay Travis Show",
+        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
+        "end":  "2026-11-12T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T06:00:00.0000000",
+        "title":  "TMZ Sports",
+        "desc":  "Gossip and exclusive stories about athletes\u0027 personal lives.",
+        "end":  "2026-11-12T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T06:30:00.0000000",
+        "title":  "College Basketball",
+        "desc":  "The Marquette Golden Eagles visit the No. 16 Michigan Wolverines for an NCAA Division I game in Michigan. Marquette rides a two-game win streak with forward Sananda Fru, and Michigan enters with an 85-77 loss against UConn with guard Trey McKenney.",
+        "end":  "2026-11-12T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T08:30:00.0000000",
+        "title":  "College Basketball",
+        "desc":  "The Lindenwood Lions visit the Nebraska Cornhuskers for an NCAA Division I game in Nebraska. Lindenwood comes off a 115-44 win over Bethesda alongside guard Shamiere Green, and Nebraska rides a two-game win streak alongside forward Pryce Sandfort.",
+        "end":  "2026-11-12T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T10:30:00.0000000",
+        "title":  "Veteran Golfers Association National Championship",
+        "desc":  "The Veterans Golfers Association hosts more than 450 local tournaments across the country, culminating in the VGA National Championship.",
+        "end":  "2026-11-12T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T11:30:00.0000000",
+        "title":  "The Clay Travis Show",
+        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
+        "end":  "2026-11-12T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T12:00:00.0000000",
+        "title":  "First Things First",
+        "desc":  "Nick Wright, Chris Broussard and Kevin Wildes explore and offer their opinions on the biggest stories in sports.",
+        "end":  "2026-11-12T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T13:00:00.0000000",
+        "title":  "Live: Wake Up Barstool",
+        "desc":  "Dave Portnoy, Big Cat, PFT and the Barstool crew bring viral headlines, big-name guests and a TV show built by the common sports fan, for the common sports fan.",
+        "end":  "2026-11-12T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T15:00:00.0000000",
+        "title":  "Wake Up Barstool",
+        "desc":  "Dave Portnoy, Big Cat, PFT and the Barstool crew bring viral headlines, big-name guests and a TV show built by the common sports fan, for the common sports fan.",
+        "end":  "2026-11-12T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T16:30:00.0000000",
+        "title":  "Live: UEFA Nations League Match Day",
+        "desc":  "Studio analysis and predictions for a UEFA Nations League match.",
+        "end":  "2026-11-12T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T17:00:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League A, Group 1.",
+        "end":  "2026-11-12T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T19:00:00.0000000",
+        "title":  "Live: UEFA Nations League Match Day",
+        "desc":  "Studio analysis and predictions for a UEFA Nations League match.",
+        "end":  "2026-11-12T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T19:30:00.0000000",
+        "title":  "Live: UEFA Nations League Soccer",
+        "desc":  "League A, Group 1.",
+        "end":  "2026-11-12T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T22:00:00.0000000",
+        "title":  "Live: First Things First",
+        "desc":  "Nick Wright, Chris Broussard and Kevin Wildes explore and offer their opinions on the biggest stories in sports.",
+        "end":  "2026-11-12T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T23:00:00.0000000",
+        "title":  "Live: First Things First: OT",
+        "desc":  "Nick Wright, Chris Broussard, Kevin Wildes and OT anchor Danny Parkins offer their opinions on the day\u0027s sports stories.",
+        "end":  "2026-11-12T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T23:30:00.0000000",
+        "title":  "Live: Women\u0027s College Basketball",
+        "desc":  "The No. 2 UConn Huskies visit the No. 18 Ohio State Buckeyes for an NCAA Division I game in Ohio. UConn comes off a 91-79 win over Iowa alongside Sarah Strong, and Ohio State rides a three-game win streak alongside Jaloni Cambridge.",
+        "end":  "2026-11-13T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T01:30:00.0000000",
+        "title":  "Veteran Golfers Association National Championship",
+        "desc":  "The Veterans Golfers Association hosts more than 450 local tournaments across the country, culminating in the VGA National Championship.",
+        "end":  "2026-11-13T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T02:30:00.0000000",
+        "title":  "Speed With Harvick \u0026 Buxton",
+        "desc":  "Let\u0027s talk racing; Kevin Harvick and Will Buxton celebrate the world of motorsports.",
+        "end":  "2026-11-13T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T03:00:00.0000000",
         "title":  "Kevin Harvick\u0027s Happy Hour",
         "desc":  "Kevin Harvick shares his expert opinion on NASCAR news and interviews the big names in sports and the racing world.",
-        "end":  "2026-11-11T00:00:00.0000000"
+        "end":  "2026-11-13T03:30:00.0000000"
     },
     {
-        "start":  "2026-11-11T00:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "The Virginia Tech Hokies face the Iowa Hawkeyes for an NCAA Division I game. Virginia Tech rides a two-game win streak alongside forward Amani Hansberry, and Iowa rides a two-game win streak alongside forward Jaidyn Coon at Tyson Events Center.",
-        "end":  "2026-11-11T02:00:00.0000000"
+        "start":  "2026-11-13T03:30:00.0000000",
+        "title":  "The Joel Klatt Show: A College Football Podcast",
+        "desc":  "Joel Klatt breaks down the current topics in the world of college football.",
+        "end":  "2026-11-13T04:00:00.0000000"
     },
     {
-        "start":  "2026-11-11T02:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "From Bramlage Coliseum in Mahnattan, Kan.",
-        "end":  "2026-11-11T04:00:00.0000000"
+        "start":  "2026-11-13T04:00:00.0000000",
+        "title":  "Big Noon Kickoff Presents Bear Bets",
+        "desc":  "Betting expert Chris \"The Bear\" Fallica hosts the Big Noon Kickoff college football show.",
+        "end":  "2026-11-13T04:30:00.0000000"
     },
     {
-        "start":  "2026-11-11T04:00:00.0000000",
-        "title":  "Live: FS1 College Hoops Extra",
-        "desc":  "Highlights and analysis of today\u0027s college basketball action.",
-        "end":  "2026-11-11T04:30:00.0000000"
+        "start":  "2026-11-13T04:30:00.0000000",
+        "title":  "The Gronk \u0026 Jules Show",
+        "desc":  "Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
+        "end":  "2026-11-13T05:00:00.0000000"
     },
     {
-        "start":  "2026-11-11T04:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 8 UCLA Bruins (8-0) face the Minnesota Golden Gophers (5-3) at Huntington Bank Stadium for a Big Ten game. UCLA enters undefeated in eight games after shutting out Nevada 27-0, while Minnesota is coming off a 23-16 overtime defeat to Indiana.",
-        "end":  "2026-11-11T07:30:00.0000000"
+        "start":  "2026-11-13T05:00:00.0000000",
+        "title":  "UEFA Nations League Soccer",
+        "desc":  "League A, Group 1.",
+        "end":  "2026-11-14T00:00:00.0000000"
     },
     {
-        "start":  "2026-11-11T07:30:00.0000000",
-        "title":  "TMZ Sports",
-        "desc":  "Gossip and exclusive stories about athletes\u0027 personal lives.",
-        "end":  "2026-11-11T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T08:00:00.0000000",
-        "title":  "College Basketball",
-        "desc":  "The Virginia Tech Hokies face the Iowa Hawkeyes for an NCAA Division I game. Virginia Tech rides a two-game win streak alongside forward Amani Hansberry, and Iowa rides a two-game win streak alongside forward Jaidyn Coon at Tyson Events Center.",
-        "end":  "2026-11-11T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T10:00:00.0000000",
-        "title":  "College Basketball",
-        "desc":  "From Bramlage Coliseum in Mahnattan, Kan.",
-        "end":  "2026-11-11T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T12:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 8 UCLA Bruins (8-0) face the Minnesota Golden Gophers (5-3) at Huntington Bank Stadium for a Big Ten game. UCLA enters undefeated in eight games after shutting out Nevada 27-0, while Minnesota is coming off a 23-16 overtime defeat to Indiana.",
-        "end":  "2026-11-11T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T13:00:00.0000000",
-        "title":  "Live: Wake Up Barstool",
-        "desc":  "Dave Portnoy, Big Cat, PFT and the Barstool crew bring viral headlines, big-name guests and a TV show built by the common sports fan, for the common sports fan.",
-        "end":  "2026-11-11T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T15:00:00.0000000",
-        "title":  "Wake Up Barstool",
-        "desc":  "Dave Portnoy, Big Cat, PFT and the Barstool crew bring viral headlines, big-name guests and a TV show built by the common sports fan, for the common sports fan.",
-        "end":  "2026-11-11T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T17:00:00.0000000",
-        "title":  "Live: The Herd With Colin Cowherd",
-        "desc":  "A thought-provoking, opinionated and topic-driven journey through the top sports stories of the day with host Colin Cowherd.",
-        "end":  "2026-11-11T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T20:00:00.0000000",
-        "title":  "Live: First Things First",
-        "desc":  "Nick Wright, Chris Broussard and Kevin Wildes explore and offer their opinions on the biggest stories in sports.",
-        "end":  "2026-11-11T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T22:00:00.0000000",
-        "title":  "Live: First Things First: OT",
-        "desc":  "Nick Wright, Chris Broussard, Kevin Wildes and OT anchor Danny Parkins offer their opinions on the day\u0027s sports stories.",
-        "end":  "2026-11-11T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T23:00:00.0000000",
-        "title":  "The Clay Travis Show",
-        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
-        "end":  "2026-11-11T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T23:30:00.0000000",
-        "title":  "NFL Films Presents",
-        "desc":  "Robert Mathis discusses becoming the all-time forced fumble leader and overcoming addiction.",
-        "end":  "2026-11-12T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-12T00:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "The Marquette Golden Eagles visit the No. 16 Michigan Wolverines for an NCAA Division I game in Michigan. Marquette rides a two-game win streak with forward Sananda Fru, and Michigan enters with an 85-77 loss against UConn with guard Trey McKenney.",
-        "end":  "2026-11-13T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T00:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "The Virginia Tech Hokies face the Iowa Hawkeyes for an NCAA Division I game. Virginia Tech rides a two-game win streak alongside forward Amani Hansberry, and Iowa rides a two-game win streak alongside forward Jaidyn Coon at Tyson Events Center.",
-        "end":  "2026-11-11T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T02:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "From Bramlage Coliseum in Mahnattan, Kan.",
-        "end":  "2026-11-11T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T04:00:00.0000000",
-        "title":  "Live: FS1 College Hoops Extra",
-        "desc":  "Highlights and analysis of today\u0027s college basketball action.",
-        "end":  "2026-11-11T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T04:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 8 UCLA Bruins (8-0) face the Minnesota Golden Gophers (5-3) at Huntington Bank Stadium for a Big Ten game. UCLA enters undefeated in eight games after shutting out Nevada 27-0, while Minnesota is coming off a 23-16 overtime defeat to Indiana.",
-        "end":  "2026-11-11T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T07:30:00.0000000",
-        "title":  "TMZ Sports",
-        "desc":  "Gossip and exclusive stories about athletes\u0027 personal lives.",
-        "end":  "2026-11-11T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T08:00:00.0000000",
-        "title":  "College Basketball",
-        "desc":  "The Virginia Tech Hokies face the Iowa Hawkeyes for an NCAA Division I game. Virginia Tech rides a two-game win streak alongside forward Amani Hansberry, and Iowa rides a two-game win streak alongside forward Jaidyn Coon at Tyson Events Center.",
-        "end":  "2026-11-11T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T10:00:00.0000000",
-        "title":  "College Basketball",
-        "desc":  "From Bramlage Coliseum in Mahnattan, Kan.",
-        "end":  "2026-11-11T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T12:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 8 UCLA Bruins (8-0) face the Minnesota Golden Gophers (5-3) at Huntington Bank Stadium for a Big Ten game. UCLA enters undefeated in eight games after shutting out Nevada 27-0, while Minnesota is coming off a 23-16 overtime defeat to Indiana.",
-        "end":  "2026-11-11T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T13:00:00.0000000",
-        "title":  "Live: Wake Up Barstool",
-        "desc":  "Dave Portnoy, Big Cat, PFT and the Barstool crew bring viral headlines, big-name guests and a TV show built by the common sports fan, for the common sports fan.",
-        "end":  "2026-11-11T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T15:00:00.0000000",
-        "title":  "Wake Up Barstool",
-        "desc":  "Dave Portnoy, Big Cat, PFT and the Barstool crew bring viral headlines, big-name guests and a TV show built by the common sports fan, for the common sports fan.",
-        "end":  "2026-11-11T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T17:00:00.0000000",
-        "title":  "Live: The Herd With Colin Cowherd",
-        "desc":  "A thought-provoking, opinionated and topic-driven journey through the top sports stories of the day with host Colin Cowherd.",
-        "end":  "2026-11-11T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T20:00:00.0000000",
-        "title":  "Live: First Things First",
-        "desc":  "Nick Wright, Chris Broussard and Kevin Wildes explore and offer their opinions on the biggest stories in sports.",
-        "end":  "2026-11-11T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T22:00:00.0000000",
-        "title":  "Live: First Things First: OT",
-        "desc":  "Nick Wright, Chris Broussard, Kevin Wildes and OT anchor Danny Parkins offer their opinions on the day\u0027s sports stories.",
-        "end":  "2026-11-11T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T23:00:00.0000000",
-        "title":  "The Clay Travis Show",
-        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
-        "end":  "2026-11-11T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T23:30:00.0000000",
-        "title":  "NFL Films Presents",
-        "desc":  "Robert Mathis discusses becoming the all-time forced fumble leader and overcoming addiction.",
-        "end":  "2026-11-12T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-12T00:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "The Marquette Golden Eagles visit the No. 16 Michigan Wolverines for an NCAA Division I game in Michigan. Marquette rides a two-game win streak with forward Sananda Fru, and Michigan enters with an 85-77 loss against UConn with guard Trey McKenney.",
-        "end":  "2026-11-12T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-12T02:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "The Lindenwood Lions visit the Nebraska Cornhuskers for an NCAA Division I game in Nebraska. Lindenwood comes off a 115-44 win over Bethesda alongside guard Shamiere Green, and Nebraska rides a two-game win streak alongside forward Pryce Sandfort.",
-        "end":  "2026-11-12T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-12T04:00:00.0000000",
+        "start":  "2026-11-13T01:30:00.0000000",
         "title":  "Veteran Golfers Association National Championship",
         "desc":  "The Veterans Golfers Association hosts more than 450 local tournaments across the country, culminating in the VGA National Championship.",
-        "end":  "2026-11-12T05:00:00.0000000"
+        "end":  "2026-11-13T02:30:00.0000000"
     },
     {
-        "start":  "2026-11-12T05:00:00.0000000",
-        "title":  "NFL Films Presents",
-        "desc":  "Robert Mathis discusses becoming the all-time forced fumble leader and overcoming addiction.",
-        "end":  "2026-11-12T05:30:00.0000000"
+        "start":  "2026-11-13T02:30:00.0000000",
+        "title":  "Speed With Harvick \u0026 Buxton",
+        "desc":  "Let\u0027s talk racing; Kevin Harvick and Will Buxton celebrate the world of motorsports.",
+        "end":  "2026-11-13T03:00:00.0000000"
     },
     {
-        "start":  "2026-11-12T05:30:00.0000000",
-        "title":  "The Clay Travis Show",
-        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
-        "end":  "2026-11-13T00:00:00.0000000"
+        "start":  "2026-11-13T03:00:00.0000000",
+        "title":  "Kevin Harvick\u0027s Happy Hour",
+        "desc":  "Kevin Harvick shares his expert opinion on NASCAR news and interviews the big names in sports and the racing world.",
+        "end":  "2026-11-13T03:30:00.0000000"
     },
     {
-        "start":  "2026-11-12T00:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "The Marquette Golden Eagles visit the No. 16 Michigan Wolverines for an NCAA Division I game in Michigan. Marquette rides a two-game win streak with forward Sananda Fru, and Michigan enters with an 85-77 loss against UConn with guard Trey McKenney.",
-        "end":  "2026-11-12T02:00:00.0000000"
+        "start":  "2026-11-13T03:30:00.0000000",
+        "title":  "The Joel Klatt Show: A College Football Podcast",
+        "desc":  "Joel Klatt breaks down the current topics in the world of college football.",
+        "end":  "2026-11-13T04:00:00.0000000"
     },
     {
-        "start":  "2026-11-12T02:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "The Lindenwood Lions visit the Nebraska Cornhuskers for an NCAA Division I game in Nebraska. Lindenwood comes off a 115-44 win over Bethesda alongside guard Shamiere Green, and Nebraska rides a two-game win streak alongside forward Pryce Sandfort.",
-        "end":  "2026-11-12T04:00:00.0000000"
+        "start":  "2026-11-13T04:00:00.0000000",
+        "title":  "Big Noon Kickoff Presents Bear Bets",
+        "desc":  "Betting expert Chris \"The Bear\" Fallica hosts the Big Noon Kickoff college football show.",
+        "end":  "2026-11-13T04:30:00.0000000"
     },
     {
-        "start":  "2026-11-12T04:00:00.0000000",
-        "title":  "Veteran Golfers Association National Championship",
-        "desc":  "The Veterans Golfers Association hosts more than 450 local tournaments across the country, culminating in the VGA National Championship.",
-        "end":  "2026-11-12T05:00:00.0000000"
+        "start":  "2026-11-13T04:30:00.0000000",
+        "title":  "The Gronk \u0026 Jules Show",
+        "desc":  "Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
+        "end":  "2026-11-13T05:00:00.0000000"
     },
     {
-        "start":  "2026-11-12T05:00:00.0000000",
-        "title":  "NFL Films Presents",
-        "desc":  "Robert Mathis discusses becoming the all-time forced fumble leader and overcoming addiction.",
-        "end":  "2026-11-12T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-12T05:30:00.0000000",
-        "title":  "The Clay Travis Show",
-        "desc":  "A no-holds-barred program where Travis delivers his unfiltered take on the most talked-about headlines in sports and more.",
-        "end":  "2026-11-13T00:00:00.0000000"
+        "start":  "2026-11-13T05:00:00.0000000",
+        "title":  "UEFA Nations League Soccer",
+        "desc":  "League A, Group 1.",
+        "end":  "2026-11-14T00:00:00.0000000"
     }
 ]

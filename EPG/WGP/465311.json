@@ -1,320 +1,338 @@
 [
     {
-        "start":  "2026-11-10T01:00:00.0000000",
-        "title":  "Live: MNF Playbook Kickoff",
-        "desc":  "The legendary Monday Night Football crew of Joe Buck, Troy Aikman and Lisa Salters preview the upcoming Monday Night Football action.",
-        "end":  "2026-11-10T01:15:00.0000000"
+        "start":  "2026-11-11T00:00:00.0000000",
+        "title":  "Live: The Insiders",
+        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+        "end":  "2026-11-11T01:00:00.0000000"
     },
     {
-        "start":  "2026-11-10T01:15:00.0000000",
-        "title":  "Live: NFL Football",
-        "desc":  "From U.S. Bank Stadium in Minneapolis.",
-        "end":  "2026-11-10T04:15:00.0000000"
+        "start":  "2026-11-11T01:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "Football action from around the National Football League.",
+        "end":  "2026-11-11T04:00:00.0000000"
     },
     {
-        "start":  "2026-11-10T04:15:00.0000000",
+        "start":  "2026-11-11T04:00:00.0000000",
+        "title":  "The Insiders",
+        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+        "end":  "2026-11-11T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-11T05:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+        "end":  "2026-11-11T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-11T06:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "Football action from around the National Football League.",
+        "end":  "2026-11-11T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-11T09:00:00.0000000",
+        "title":  "The Insiders",
+        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+        "end":  "2026-11-11T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-11T10:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+        "end":  "2026-11-11T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-11T11:00:00.0000000",
+        "title":  "The Insiders",
+        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+        "end":  "2026-11-11T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-11T12:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+        "end":  "2026-11-11T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-11T13:00:00.0000000",
+        "title":  "Live: Good Morning Football",
+        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
+        "end":  "2026-11-11T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-11T15:00:00.0000000",
+        "title":  "Good Morning Football",
+        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
+        "end":  "2026-11-11T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-11T17:00:00.0000000",
+        "title":  "Live: NFL Total Access",
+        "desc":  "The NFL Network\u0027s flagship program airs six nights a week, churning out the day\u0027s top headlines and much more covering all 32 teams. The show also provides fans with exclusive footage from inside team facilities and interviews with players and coaches. Joining hosts Dan Hellie and Amber Theoharis with analysis and insight are a deep roster of NFL Network personnel plus other former players as gues",
+        "end":  "2026-11-11T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-11T19:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "Football action from around the National Football League.",
+        "end":  "2026-11-11T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-11T22:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+        "end":  "2026-11-11T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-11T23:00:00.0000000",
+        "title":  "NFL Live",
+        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+        "end":  "2026-11-12T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T00:00:00.0000000",
+        "title":  "Live: The Insiders",
+        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+        "end":  "2026-11-12T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T01:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "Football action from around the National Football League.",
+        "end":  "2026-11-12T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T04:00:00.0000000",
+        "title":  "The Insiders",
+        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+        "end":  "2026-11-12T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T05:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+        "end":  "2026-11-12T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T06:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "Football action from around the National Football League.",
+        "end":  "2026-11-12T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T09:00:00.0000000",
+        "title":  "The Insiders",
+        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+        "end":  "2026-11-12T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T10:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+        "end":  "2026-11-12T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T11:00:00.0000000",
+        "title":  "The Insiders",
+        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+        "end":  "2026-11-12T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T12:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+        "end":  "2026-11-12T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T13:00:00.0000000",
+        "title":  "Live: Good Morning Football",
+        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
+        "end":  "2026-11-12T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T15:00:00.0000000",
+        "title":  "Good Morning Football",
+        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
+        "end":  "2026-11-12T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T17:00:00.0000000",
+        "title":  "Live: NFL Total Access",
+        "desc":  "The NFL Network\u0027s flagship program airs six nights a week, churning out the day\u0027s top headlines and much more covering all 32 teams. The show also provides fans with exclusive footage from inside team facilities and interviews with players and coaches. Joining hosts Dan Hellie and Amber Theoharis with analysis and insight are a deep roster of NFL Network personnel plus other former players as gues",
+        "end":  "2026-11-12T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T19:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "Football action from around the National Football League.",
+        "end":  "2026-11-12T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T22:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+        "end":  "2026-11-12T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T23:00:00.0000000",
+        "title":  "NFL Gameday Kickoff",
+        "desc":  "",
+        "end":  "2026-11-13T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T00:00:00.0000000",
+        "title":  "ESPN Films",
+        "desc":  "Series of documentaries looking back through the history of sports.",
+        "end":  "2026-11-14T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T00:00:00.0000000",
+        "title":  "Live: The Insiders",
+        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+        "end":  "2026-11-12T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T01:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "Football action from around the National Football League.",
+        "end":  "2026-11-12T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T04:00:00.0000000",
+        "title":  "The Insiders",
+        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+        "end":  "2026-11-12T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T05:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+        "end":  "2026-11-12T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T06:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "Football action from around the National Football League.",
+        "end":  "2026-11-12T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T09:00:00.0000000",
+        "title":  "The Insiders",
+        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+        "end":  "2026-11-12T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T10:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+        "end":  "2026-11-12T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T11:00:00.0000000",
+        "title":  "The Insiders",
+        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
+        "end":  "2026-11-12T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T12:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+        "end":  "2026-11-12T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T13:00:00.0000000",
+        "title":  "Live: Good Morning Football",
+        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
+        "end":  "2026-11-12T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T15:00:00.0000000",
+        "title":  "Good Morning Football",
+        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
+        "end":  "2026-11-12T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T17:00:00.0000000",
+        "title":  "Live: NFL Total Access",
+        "desc":  "The NFL Network\u0027s flagship program airs six nights a week, churning out the day\u0027s top headlines and much more covering all 32 teams. The show also provides fans with exclusive footage from inside team facilities and interviews with players and coaches. Joining hosts Dan Hellie and Amber Theoharis with analysis and insight are a deep roster of NFL Network personnel plus other former players as gues",
+        "end":  "2026-11-12T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T19:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "Football action from around the National Football League.",
+        "end":  "2026-11-12T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T22:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+        "end":  "2026-11-12T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T23:00:00.0000000",
+        "title":  "NFL Gameday Kickoff",
+        "desc":  "",
+        "end":  "2026-11-13T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T00:00:00.0000000",
+        "title":  "ESPN Films",
+        "desc":  "Series of documentaries looking back through the history of sports.",
+        "end":  "2026-11-13T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T01:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "Football action from around the National Football League.",
+        "end":  "2026-11-13T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T04:00:00.0000000",
+        "title":  "ESPN Films",
+        "desc":  "Series of documentaries looking back through the history of sports.",
+        "end":  "2026-11-13T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T04:30:00.0000000",
         "title":  "Live: NFL GameDay Final",
         "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
-        "end":  "2026-11-10T05:15:00.0000000"
+        "end":  "2026-11-13T05:30:00.0000000"
     },
     {
-        "start":  "2026-11-10T05:15:00.0000000",
+        "start":  "2026-11-13T05:30:00.0000000",
         "title":  "NFL Football",
-        "desc":  "The Buffalo Bills visit the Minnesota Vikings for an NFL Week 9 game at U.S. Bank Stadium. The Vikings hold a 9-6 series lead over the Bills after beating Buffalo, 33-30, in overtime back in November 2022 when they last played each other.",
-        "end":  "2026-11-10T08:00:00.0000000"
+        "desc":  "The New York Giants host the Washington Commanders in NFC East play at MetLife Stadium. New York enters with a 5-2-1 record, and Washington enters with a 2-5-1 record. The Giants and Commanders played to a 27-27 tie in October 2026.",
+        "end":  "2026-11-14T00:00:00.0000000"
     },
     {
-        "start":  "2026-11-10T08:00:00.0000000",
-        "title":  "NFL GameDay Final",
+        "start":  "2026-11-13T00:00:00.0000000",
+        "title":  "ESPN Films",
+        "desc":  "Series of documentaries looking back through the history of sports.",
+        "end":  "2026-11-13T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T01:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "Football action from around the National Football League.",
+        "end":  "2026-11-13T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T04:00:00.0000000",
+        "title":  "ESPN Films",
+        "desc":  "Series of documentaries looking back through the history of sports.",
+        "end":  "2026-11-13T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T04:30:00.0000000",
+        "title":  "Live: NFL GameDay Final",
         "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
-        "end":  "2026-11-10T09:00:00.0000000"
+        "end":  "2026-11-13T05:30:00.0000000"
     },
     {
-        "start":  "2026-11-10T09:00:00.0000000",
-        "title":  "NFL GameDay Final",
-        "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
-        "end":  "2026-11-10T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T10:00:00.0000000",
+        "start":  "2026-11-13T05:30:00.0000000",
         "title":  "NFL Football",
-        "desc":  "The Buffalo Bills visit the Minnesota Vikings for an NFL Week 9 game at U.S. Bank Stadium. The Vikings hold a 9-6 series lead over the Bills after beating Buffalo, 33-30, in overtime back in November 2022 when they last played each other.",
-        "end":  "2026-11-10T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T13:00:00.0000000",
-        "title":  "Live: Good Morning Football",
-        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
-        "end":  "2026-11-10T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T15:00:00.0000000",
-        "title":  "Good Morning Football",
-        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
-        "end":  "2026-11-10T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T17:00:00.0000000",
-        "title":  "Live: NFL Total Access",
-        "desc":  "The NFL Network\u0027s flagship program airs six nights a week, churning out the day\u0027s top headlines and much more covering all 32 teams. The show also provides fans with exclusive footage from inside team facilities and interviews with players and coaches. Joining hosts Dan Hellie and Amber Theoharis with analysis and insight are a deep roster of NFL Network personnel plus other former players as gues",
-        "end":  "2026-11-10T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T20:00:00.0000000",
-        "title":  "Live: SportsCenter Special",
-        "desc":  "Presenting the news, current affairs and game analysis from the world of sports, complete with exclusive interviews.",
-        "end":  "2026-11-10T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T21:00:00.0000000",
-        "title":  "NFL Live",
-        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
-        "end":  "2026-11-10T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T22:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-11-10T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T23:00:00.0000000",
-        "title":  "NFL Live",
-        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
-        "end":  "2026-11-11T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T00:00:00.0000000",
-        "title":  "Live: The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-11-11T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T01:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-11-11T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T04:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-11-11T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T05:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-11-11T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T06:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-11-11T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T09:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-11-11T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T10:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-11-11T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T11:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-11-11T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T12:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-11-11T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T13:00:00.0000000",
-        "title":  "Live: Good Morning Football",
-        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
-        "end":  "2026-11-11T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T15:00:00.0000000",
-        "title":  "Good Morning Football",
-        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
-        "end":  "2026-11-11T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T17:00:00.0000000",
-        "title":  "Live: NFL Total Access",
-        "desc":  "The NFL Network\u0027s flagship program airs six nights a week, churning out the day\u0027s top headlines and much more covering all 32 teams. The show also provides fans with exclusive footage from inside team facilities and interviews with players and coaches. Joining hosts Dan Hellie and Amber Theoharis with analysis and insight are a deep roster of NFL Network personnel plus other former players as gues",
-        "end":  "2026-11-11T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T19:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-11-11T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T22:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-11-11T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T23:00:00.0000000",
-        "title":  "NFL Live",
-        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
-        "end":  "2026-11-12T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-12T00:00:00.0000000",
-        "title":  "Live: The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-11-13T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T00:00:00.0000000",
-        "title":  "Live: The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-11-11T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T01:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-11-11T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T04:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-11-11T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T05:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-11-11T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T06:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-11-11T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T09:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-11-11T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T10:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-11-11T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T11:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-11-11T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T12:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-11-11T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T13:00:00.0000000",
-        "title":  "Live: Good Morning Football",
-        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
-        "end":  "2026-11-11T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T15:00:00.0000000",
-        "title":  "Good Morning Football",
-        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
-        "end":  "2026-11-11T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T17:00:00.0000000",
-        "title":  "Live: NFL Total Access",
-        "desc":  "The NFL Network\u0027s flagship program airs six nights a week, churning out the day\u0027s top headlines and much more covering all 32 teams. The show also provides fans with exclusive footage from inside team facilities and interviews with players and coaches. Joining hosts Dan Hellie and Amber Theoharis with analysis and insight are a deep roster of NFL Network personnel plus other former players as gues",
-        "end":  "2026-11-11T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T19:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-11-11T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T22:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-11-11T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T23:00:00.0000000",
-        "title":  "NFL Live",
-        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
-        "end":  "2026-11-12T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-12T00:00:00.0000000",
-        "title":  "Live: The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-11-12T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-12T01:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-11-12T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-12T04:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-11-12T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-12T05:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-11-13T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-12T00:00:00.0000000",
-        "title":  "Live: The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-11-12T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-12T01:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-11-12T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-12T04:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-11-12T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-12T05:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-11-13T00:00:00.0000000"
+        "desc":  "The New York Giants host the Washington Commanders in NFC East play at MetLife Stadium. New York enters with a 5-2-1 record, and Washington enters with a 2-5-1 record. The Giants and Commanders played to a 27-27 tie in October 2026.",
+        "end":  "2026-11-14T00:00:00.0000000"
     }
 ]

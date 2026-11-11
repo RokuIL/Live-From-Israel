@@ -1,323 +1,5 @@
 [
     {
-        "start":  "2026-11-10T00:00:00.0000000",
-        "title":  "Jeopardy!",
-        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
-        "end":  "2026-11-10T00:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T00:30:00.0000000",
-        "title":  "Wheel of Fortune",
-        "desc":  "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
-        "end":  "2026-11-10T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T01:00:00.0000000",
-        "title":  "Live: Monday Night Kickoff",
-        "desc":  "The legendary Monday Night Football crew of Joe Buck, Troy Aikman, and Lisa Salters preview the upcoming Monday Night Football action.",
-        "end":  "2026-11-10T01:15:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T01:15:00.0000000",
-        "title":  "Live: NFL Football",
-        "desc":  "The Buffalo Bills visit the Minnesota Vikings for an NFL Week 9 game at U.S. Bank Stadium. The Vikings hold a 9-6 series lead over the Bills after beating Buffalo, 33-30, in overtime back in November 2022 when they last played each other.",
-        "end":  "2026-11-10T04:15:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T04:15:00.0000000",
-        "title":  "Eyewitness News at 11",
-        "desc":  "Breaking news.",
-        "end":  "2026-11-10T04:50:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T04:50:00.0000000",
-        "title":  "Jimmy Kimmel Live!",
-        "desc":  "Emmy-winning funnyman Jimmy Kimmel serves up comedy bits and welcomes guests that include other comics, celebrities, athletes and musicians, as well as everyday people with unusual or compelling personal stories. Kimmel\u0027s family and friends take part in the festivities, including his Cousin Sal, Uncle Frank (until his death in 2011) and childhood friend Cleto Escobedo III, who leads the show\u0027s hou",
-        "end":  "2026-11-10T05:52:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T05:52:00.0000000",
-        "title":  "Nightline",
-        "desc":  "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
-        "end":  "2026-11-10T06:21:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T06:21:00.0000000",
-        "title":  "ABC World News Tonight With David Muir",
-        "desc":  "Delivering the news that matters most.",
-        "end":  "2026-11-10T06:51:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T06:51:00.0000000",
-        "title":  "Live with Kelly and Mark",
-        "desc":  "David Muir (ABC\u0027s \"World News Tonight\"); Monica Mangin shares deals to get a jump on Black Friday; Walker Scobell (Disney\u0027s \"Percy Jackson and the Olympians\"); Barbara Costello.",
-        "end":  "2026-11-10T07:36:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T07:36:00.0000000",
-        "title":  "Jeopardy!",
-        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
-        "end":  "2026-11-10T08:06:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T08:06:00.0000000",
-        "title":  "Tamron Hall",
-        "desc":  "Creator Katori Hall and actors Nicco Annan, J. Alphonse Nicholson, Shannon Thornton and Gail Bean (STARZ\u0027s \"P-Valley\").",
-        "end":  "2026-11-10T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T09:00:00.0000000",
-        "title":  "Good Morning America First Look",
-        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-        "end":  "2026-11-10T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T09:30:00.0000000",
-        "title":  "Eyewitness News This Morning",
-        "desc":  "News coverage to start the day.",
-        "end":  "2026-11-10T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T11:00:00.0000000",
-        "title":  "Eyewitness News This Morning",
-        "desc":  "News coverage to start the day.",
-        "end":  "2026-11-10T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T12:00:00.0000000",
-        "title":  "Good Morning America",
-        "desc":  "Actors and authors Danielle Fishel, Rider Strong and Will Friedle; actor Chris O\u0027Donnell; Deals \u0026 Steals with Kristin Cavallari and Tory Johnson.",
-        "end":  "2026-11-10T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T14:00:00.0000000",
-        "title":  "Live with Kelly and Mark",
-        "desc":  "Chris O\u0027Donnell (ABC\u0027s \"9-1-1 Nashville\"); Andie MacDowell; Lora McLaughlin Peterson; Monica Mangin shares deals to get a jump on Black Friday.",
-        "end":  "2026-11-10T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T15:00:00.0000000",
-        "title":  "Eyewitness News Mornings at 10",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-11-10T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T16:00:00.0000000",
-        "title":  "The View",
-        "desc":  "Author LeVar Burton.",
-        "end":  "2026-11-10T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T17:00:00.0000000",
-        "title":  "Eyewitness News at Noon",
-        "desc":  "Midday news update.",
-        "end":  "2026-11-10T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T18:00:00.0000000",
-        "title":  "GMA3",
-        "desc":  "Actor Chris O\u0027Donnell; cookbook author Corre Larkin; Deals \u0026 Steals with Tory Johnson.",
-        "end":  "2026-11-10T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T19:00:00.0000000",
-        "title":  "Tamron Hall",
-        "desc":  "A pair who got stranded in the Idaho mountains on their wedding day; a couple who renew their vows every five years, with a new dress and ring each time; a couple who accidentally booked the DMV instead of the courthouse for their wedding; a couple whose dog, serving as a flower girl, caused a viral moment.",
-        "end":  "2026-11-10T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T20:00:00.0000000",
-        "title":  "General Hospital",
-        "desc":  "Jason and Brook Lynn compare notes; Emma confronts Heather; Gio and Trina get a new opportunity; Joe and Molly hit pay dirt; Ava meets Serena.",
-        "end":  "2026-11-10T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T21:00:00.0000000",
-        "title":  "Eyewitness News First at 4",
-        "desc":  "Local and regional news coverage.",
-        "end":  "2026-11-10T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T22:00:00.0000000",
-        "title":  "Eyewitness News at 5",
-        "desc":  "Local and regional news.",
-        "end":  "2026-11-10T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T23:00:00.0000000",
-        "title":  "Eyewitness News at 6",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-11-10T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-10T23:30:00.0000000",
-        "title":  "ABC World News Tonight With David Muir",
-        "desc":  "Delivering the news that matters most.",
-        "end":  "2026-11-11T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T00:00:00.0000000",
-        "title":  "Jeopardy!",
-        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
-        "end":  "2026-11-11T00:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T00:30:00.0000000",
-        "title":  "Wheel of Fortune",
-        "desc":  "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
-        "end":  "2026-11-11T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T01:00:00.0000000",
-        "title":  "Live: Dancing With the Stars",
-        "desc":  "The remaining seven couples perform dances inspired by iconic Grammy-nominated and Grammy-winning artists, songs and unforgettable moments in music history.",
-        "end":  "2026-11-11T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T03:00:00.0000000",
-        "title":  "Michael Strahan\u0027s Iconic Fashion",
-        "desc":  "Michael Strahan meets with style icons who have captivated our collective imagination and redefined how we dress, including fashion designer Tommy Hilfiger, supermodel Heidi Klum, basketball player Dwyane Wade and costume designer Molly Rogers.",
-        "end":  "2026-11-11T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T04:00:00.0000000",
-        "title":  "Eyewitness News at 11",
-        "desc":  "Breaking news.",
-        "end":  "2026-11-11T04:35:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T04:35:00.0000000",
-        "title":  "Jimmy Kimmel Live!",
-        "desc":  "Actress Jodie Foster; actor Andrew Scott; Jesse Welles performs; Sy Smith sits in with The Cletones.",
-        "end":  "2026-11-11T05:37:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T05:37:00.0000000",
-        "title":  "Nightline",
-        "desc":  "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
-        "end":  "2026-11-11T06:06:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T06:06:00.0000000",
-        "title":  "ABC World News Tonight With David Muir",
-        "desc":  "Delivering the news that matters most.",
-        "end":  "2026-11-11T06:36:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T06:36:00.0000000",
-        "title":  "Live with Kelly and Mark",
-        "desc":  "Chris O\u0027Donnell (ABC\u0027s \"9-1-1 Nashville\"); Andie MacDowell; Lora McLaughlin Peterson; Monica Mangin shares deals to get a jump on Black Friday.",
-        "end":  "2026-11-11T07:36:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T07:36:00.0000000",
-        "title":  "Jeopardy!",
-        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
-        "end":  "2026-11-11T08:06:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T08:06:00.0000000",
-        "title":  "Tamron Hall",
-        "desc":  "A pair who got stranded in the Idaho mountains on their wedding day; a couple who renew their vows every five years, with a new dress and ring each time; a couple who accidentally booked the DMV instead of the courthouse for their wedding; a couple whose dog, serving as a flower girl, caused a viral moment.",
-        "end":  "2026-11-11T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T09:00:00.0000000",
-        "title":  "Good Morning America First Look",
-        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-        "end":  "2026-11-11T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T09:30:00.0000000",
-        "title":  "Eyewitness News This Morning",
-        "desc":  "News coverage to start the day.",
-        "end":  "2026-11-11T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T11:00:00.0000000",
-        "title":  "Eyewitness News This Morning",
-        "desc":  "News coverage to start the day.",
-        "end":  "2026-11-11T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T12:00:00.0000000",
-        "title":  "Good Morning America",
-        "desc":  "Actress Kathryn Hahn; actress Ali Wentworth; TV personalities Bobbi Althoff, Avery Woods, McCall DaPron and Madison Bontempo; Deals \u0026 Steals with John Legend and Tory Johnson.",
-        "end":  "2026-11-11T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T14:00:00.0000000",
-        "title":  "Live with Kelly and Mark",
-        "desc":  "Cynthia Nixon; Monica Mangin shares deals to get a jump on Black Friday; Sam Nivola (Hulu\u0027s \"Phony\"); Dayna Isom Johnson.",
-        "end":  "2026-11-11T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T15:00:00.0000000",
-        "title":  "Eyewitness News Mornings at 10",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-11-11T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T16:00:00.0000000",
-        "title":  "The View",
-        "desc":  "Author Rachel Maddow.",
-        "end":  "2026-11-11T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T17:00:00.0000000",
-        "title":  "Eyewitness News at Noon",
-        "desc":  "Midday news update.",
-        "end":  "2026-11-11T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T18:00:00.0000000",
-        "title":  "GMA3",
-        "desc":  "TV personalities Bobbi Althoff, Avery Woods, McCall DaPron and Madison Bontempo; creator Tinx; ABC Secret Savings with Will Ganss; Deals \u0026 Steals with Tory Johnson.",
-        "end":  "2026-11-11T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T19:00:00.0000000",
-        "title":  "Tamron Hall",
-        "desc":  "A bar owner who went viral after a hilarious encounter with Conan O\u0027Brien on the subway; comic Rachel Williams; Tacarra Williams (\"Totally Funny Kids,\" \"Life After 40\" tour).",
-        "end":  "2026-11-11T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T20:00:00.0000000",
-        "title":  "General Hospital",
-        "desc":  "Sonny issues a warning to Carly; Josslyn opens up to Hudson; Jude stands his ground; Drew tries to reassure Ava; Molly confides in Alexis.",
-        "end":  "2026-11-11T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T21:00:00.0000000",
-        "title":  "Eyewitness News First at 4",
-        "desc":  "Local and regional news coverage.",
-        "end":  "2026-11-11T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T22:00:00.0000000",
-        "title":  "Eyewitness News at 5",
-        "desc":  "Local and regional news.",
-        "end":  "2026-11-11T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T23:00:00.0000000",
-        "title":  "Eyewitness News at 6",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-11-11T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-11T23:30:00.0000000",
-        "title":  "ABC World News Tonight With David Muir",
-        "desc":  "Delivering the news that matters most.",
-        "end":  "2026-11-12T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-12T00:00:00.0000000",
-        "title":  "Jeopardy!",
-        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
-        "end":  "2026-11-13T00:00:00.0000000"
-    },
-    {
         "start":  "2026-11-11T00:00:00.0000000",
         "title":  "Jeopardy!",
         "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
@@ -525,7 +207,127 @@
         "start":  "2026-11-12T05:37:00.0000000",
         "title":  "Nightline",
         "desc":  "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
+        "end":  "2026-11-12T06:06:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T06:06:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "desc":  "Delivering the news that matters most.",
+        "end":  "2026-11-12T06:36:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T06:36:00.0000000",
+        "title":  "Live with Kelly and Mark",
+        "desc":  "Cynthia Nixon; Monica Mangin shares deals to get a jump on Black Friday; Sam Nivola (Hulu\u0027s \"Phony\"); Dayna Isom Johnson.",
+        "end":  "2026-11-12T07:36:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T07:36:00.0000000",
+        "title":  "Jeopardy!",
+        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
+        "end":  "2026-11-12T08:06:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T08:06:00.0000000",
+        "title":  "Tamron Hall",
+        "desc":  "A bar owner who went viral after a hilarious encounter with Conan O\u0027Brien on the subway; comic Rachel Williams; Tacarra Williams (\"Totally Funny Kids,\" \"Life After 40\" tour).",
+        "end":  "2026-11-12T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T09:00:00.0000000",
+        "title":  "Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-11-12T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T09:30:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-11-12T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T11:00:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-11-12T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T12:00:00.0000000",
+        "title":  "Good Morning America",
+        "desc":  "Author Danielle Steel; Deals \u0026 Steals: Oprah\u0027s Favorite Things with Adam Glassman and Tory Johnson.",
+        "end":  "2026-11-12T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T14:00:00.0000000",
+        "title":  "Live with Kelly and Mark",
+        "desc":  "Owen Wilson; Jessica Capshaw (ABC\u0027s \"9-1-1 Nashville\"); Monica Mangin shares deals to get a jump on Black Friday; Jean Chatzky.",
+        "end":  "2026-11-12T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T15:00:00.0000000",
+        "title":  "Eyewitness News Mornings at 10",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-11-12T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T16:00:00.0000000",
+        "title":  "The View",
+        "desc":  "Celebrating Whoopi\u0027s birthday; Whoopi\u0027s Favorite Things.",
+        "end":  "2026-11-12T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T17:00:00.0000000",
+        "title":  "Eyewitness News at Noon",
+        "desc":  "Midday news update.",
+        "end":  "2026-11-12T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T18:00:00.0000000",
+        "title":  "GMA3",
+        "desc":  "Author Yung Pueblo; chef Judy Joo; Ms. Appleberry and producer Allie Rivera QuiÃ±onez; Deals \u0026 Steals: Oprah\u0027s Favorite Things with Adam Glassman and Tory Johnson.",
+        "end":  "2026-11-12T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T19:00:00.0000000",
+        "title":  "Tamron Hall",
+        "desc":  "Actor DondrÃ© T. Whitfield; Daniel Oppenheimer, Sarkie Ampim and Topher Griffin; Alex Vans, founder of friendship app Choros; MAJOR. Performs.",
+        "end":  "2026-11-12T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T20:00:00.0000000",
+        "title":  "General Hospital",
+        "desc":  "Carly fears Sonny\u0027s wrath; Sonny and Ric form a plan; Alexis makes a bold move; Drew gets a reality check; Lucas reassures Josslyn.",
+        "end":  "2026-11-12T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T21:00:00.0000000",
+        "title":  "Eyewitness News First at 4",
+        "desc":  "Local and regional news coverage.",
+        "end":  "2026-11-12T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T22:00:00.0000000",
+        "title":  "Eyewitness News at 5",
+        "desc":  "Local and regional news.",
+        "end":  "2026-11-12T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T23:00:00.0000000",
+        "title":  "Eyewitness News at 6",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-11-12T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T23:30:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "desc":  "Delivering the news that matters most.",
         "end":  "2026-11-13T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T00:00:00.0000000",
+        "title":  "Jeopardy!",
+        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
+        "end":  "2026-11-14T00:00:00.0000000"
     },
     {
         "start":  "2026-11-12T00:00:00.0000000",
@@ -579,6 +381,216 @@
         "start":  "2026-11-12T05:37:00.0000000",
         "title":  "Nightline",
         "desc":  "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
+        "end":  "2026-11-12T06:06:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T06:06:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "desc":  "Delivering the news that matters most.",
+        "end":  "2026-11-12T06:36:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T06:36:00.0000000",
+        "title":  "Live with Kelly and Mark",
+        "desc":  "Cynthia Nixon; Monica Mangin shares deals to get a jump on Black Friday; Sam Nivola (Hulu\u0027s \"Phony\"); Dayna Isom Johnson.",
+        "end":  "2026-11-12T07:36:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T07:36:00.0000000",
+        "title":  "Jeopardy!",
+        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
+        "end":  "2026-11-12T08:06:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T08:06:00.0000000",
+        "title":  "Tamron Hall",
+        "desc":  "A bar owner who went viral after a hilarious encounter with Conan O\u0027Brien on the subway; comic Rachel Williams; Tacarra Williams (\"Totally Funny Kids,\" \"Life After 40\" tour).",
+        "end":  "2026-11-12T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T09:00:00.0000000",
+        "title":  "Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-11-12T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T09:30:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-11-12T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T11:00:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-11-12T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T12:00:00.0000000",
+        "title":  "Good Morning America",
+        "desc":  "Author Danielle Steel; Deals \u0026 Steals: Oprah\u0027s Favorite Things with Adam Glassman and Tory Johnson.",
+        "end":  "2026-11-12T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T14:00:00.0000000",
+        "title":  "Live with Kelly and Mark",
+        "desc":  "Owen Wilson; Jessica Capshaw (ABC\u0027s \"9-1-1 Nashville\"); Monica Mangin shares deals to get a jump on Black Friday; Jean Chatzky.",
+        "end":  "2026-11-12T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T15:00:00.0000000",
+        "title":  "Eyewitness News Mornings at 10",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-11-12T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T16:00:00.0000000",
+        "title":  "The View",
+        "desc":  "Celebrating Whoopi\u0027s birthday; Whoopi\u0027s Favorite Things.",
+        "end":  "2026-11-12T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T17:00:00.0000000",
+        "title":  "Eyewitness News at Noon",
+        "desc":  "Midday news update.",
+        "end":  "2026-11-12T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T18:00:00.0000000",
+        "title":  "GMA3",
+        "desc":  "Author Yung Pueblo; chef Judy Joo; Ms. Appleberry and producer Allie Rivera QuiÃ±onez; Deals \u0026 Steals: Oprah\u0027s Favorite Things with Adam Glassman and Tory Johnson.",
+        "end":  "2026-11-12T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T19:00:00.0000000",
+        "title":  "Tamron Hall",
+        "desc":  "Actor DondrÃ© T. Whitfield; Daniel Oppenheimer, Sarkie Ampim and Topher Griffin; Alex Vans, founder of friendship app Choros; MAJOR. Performs.",
+        "end":  "2026-11-12T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T20:00:00.0000000",
+        "title":  "General Hospital",
+        "desc":  "Carly fears Sonny\u0027s wrath; Sonny and Ric form a plan; Alexis makes a bold move; Drew gets a reality check; Lucas reassures Josslyn.",
+        "end":  "2026-11-12T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T21:00:00.0000000",
+        "title":  "Eyewitness News First at 4",
+        "desc":  "Local and regional news coverage.",
+        "end":  "2026-11-12T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T22:00:00.0000000",
+        "title":  "Eyewitness News at 5",
+        "desc":  "Local and regional news.",
+        "end":  "2026-11-12T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T23:00:00.0000000",
+        "title":  "Eyewitness News at 6",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-11-12T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T23:30:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "desc":  "Delivering the news that matters most.",
         "end":  "2026-11-13T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T00:00:00.0000000",
+        "title":  "Jeopardy!",
+        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
+        "end":  "2026-11-13T00:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T00:30:00.0000000",
+        "title":  "Wheel of Fortune",
+        "desc":  "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+        "end":  "2026-11-13T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T01:00:00.0000000",
+        "title":  "9-1-1",
+        "desc":  "The lives and careers of emergency response providers who put their lives at risk to save others in the most frightening, shocking and heart-stopping situations.",
+        "end":  "2026-11-13T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T02:00:00.0000000",
+        "title":  "9-1-1: Nashville",
+        "desc":  "Don turns to Rogue for advice as he navigates a personal predicament; Rogue works to get closer to The Pharaoh; tensions rise at Nashville Dispatch between Cammie and Dr. Zellner.",
+        "end":  "2026-11-13T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T03:00:00.0000000",
+        "title":  "Grey\u0027s Anatomy",
+        "desc":  "Jo faces a life-or-death crisis when a house call goes wrong; Ben meets Bailey\u0027s new study partner; Blue struggles with an unexpected family issue.",
+        "end":  "2026-11-13T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T04:00:00.0000000",
+        "title":  "Eyewitness News at 11",
+        "desc":  "Breaking news.",
+        "end":  "2026-11-13T04:35:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T04:35:00.0000000",
+        "title":  "Jimmy Kimmel Live!",
+        "desc":  "Band U2; comic Bobby Lee; Sy Smith sits in with The Cletones.",
+        "end":  "2026-11-13T05:37:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T05:37:00.0000000",
+        "title":  "Nightline",
+        "desc":  "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
+        "end":  "2026-11-14T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T00:00:00.0000000",
+        "title":  "Jeopardy!",
+        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
+        "end":  "2026-11-13T00:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T00:30:00.0000000",
+        "title":  "Wheel of Fortune",
+        "desc":  "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+        "end":  "2026-11-13T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T01:00:00.0000000",
+        "title":  "9-1-1",
+        "desc":  "The lives and careers of emergency response providers who put their lives at risk to save others in the most frightening, shocking and heart-stopping situations.",
+        "end":  "2026-11-13T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T02:00:00.0000000",
+        "title":  "9-1-1: Nashville",
+        "desc":  "Don turns to Rogue for advice as he navigates a personal predicament; Rogue works to get closer to The Pharaoh; tensions rise at Nashville Dispatch between Cammie and Dr. Zellner.",
+        "end":  "2026-11-13T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T03:00:00.0000000",
+        "title":  "Grey\u0027s Anatomy",
+        "desc":  "Jo faces a life-or-death crisis when a house call goes wrong; Ben meets Bailey\u0027s new study partner; Blue struggles with an unexpected family issue.",
+        "end":  "2026-11-13T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T04:00:00.0000000",
+        "title":  "Eyewitness News at 11",
+        "desc":  "Breaking news.",
+        "end":  "2026-11-13T04:35:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T04:35:00.0000000",
+        "title":  "Jimmy Kimmel Live!",
+        "desc":  "Band U2; comic Bobby Lee; Sy Smith sits in with The Cletones.",
+        "end":  "2026-11-13T05:37:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T05:37:00.0000000",
+        "title":  "Nightline",
+        "desc":  "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
+        "end":  "2026-11-14T00:00:00.0000000"
     }
 ]
