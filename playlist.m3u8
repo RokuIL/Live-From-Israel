@@ -7,8 +7,6 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playli
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 
 #EXTINF:-1 tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="US News" tvg-provider="WGP.ENG" tvg-id="465372" tvg-backup-provider="XMLTV" tvg-backup-id="fox-news-hd",Fox News Channel
-https://tvsen6.aynaott.com/foxnews/index.m3u8
-#EXTINF:-1 tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="US News" tvg-provider="WGP.ENG" tvg-id="465372" tvg-backup-provider="XMLTV" tvg-backup-id="fox-news-hd",Fox News Channel
 #EXTVLCOPT:http-referrer=https://usnewson.com
 https://p14.usnlive.com/stream/foxnews.m3u8
 
@@ -31,8 +29,6 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-name="NFL Channel" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="Sports",NFL Channel
 https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
 
-#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" group-title="Sports" tvg-provider="WGP.ENG" tvg-id="465311" tvg-backup-provider="XMLTV" tvg-backup-id="nfl-network-us-hd",NFL Network
-https://tvsen6.aynaott.com/nfl/index.m3u8
 
 #EXTINF:-1 tvg-name="MLB" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports",MLB
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
