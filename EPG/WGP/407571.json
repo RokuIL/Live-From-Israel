@@ -1,110 +1,710 @@
 [
     {
-        "start":  "2026-11-11T00:00:00.0000000",
+        "start":  "2026-11-12T00:00:00.0000000",
         "title":  "â‹— MLB Now",
         "desc":  "",
-        "end":  "2026-11-11T01:00:00.0000000"
+        "end":  "2026-11-12T01:00:00.0000000"
     },
     {
-        "start":  "2026-11-11T01:00:00.0000000",
-        "title":  "â‹— MLB Awards: 2026 BBWAA Manager of the Year",
+        "start":  "2026-11-12T01:00:00.0000000",
+        "title":  "â‹— MLB Awards: 2026 BBWAA Cy Young Award",
         "desc":  "",
-        "end":  "2026-11-11T02:00:00.0000000"
+        "end":  "2026-11-12T02:00:00.0000000"
     },
     {
-        "start":  "2026-11-11T02:00:00.0000000",
+        "start":  "2026-11-12T02:00:00.0000000",
         "title":  "â‹— MLB Tonight",
         "desc":  "",
-        "end":  "2026-11-11T03:00:00.0000000"
+        "end":  "2026-11-12T03:00:00.0000000"
     },
     {
-        "start":  "2026-11-11T03:00:00.0000000",
-        "title":  "MLB Awards: 2026 BBWAA Manager of the Year",
+        "start":  "2026-11-12T03:00:00.0000000",
+        "title":  "â‹— MLB Awards: 2026 All-MLB Team",
         "desc":  "",
-        "end":  "2026-11-11T04:00:00.0000000"
+        "end":  "2026-11-12T05:00:00.0000000"
     },
     {
-        "start":  "2026-11-11T04:00:00.0000000",
+        "start":  "2026-11-12T05:00:00.0000000",
+        "title":  "MLB Awards: 2026 BBWAA Cy Young Award",
+        "desc":  "",
+        "end":  "2026-11-12T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T06:00:00.0000000",
         "title":  "MLB Tonight",
         "desc":  "",
-        "end":  "2026-11-11T05:00:00.0000000"
+        "end":  "2026-11-12T07:00:00.0000000"
     },
     {
-        "start":  "2026-11-11T05:00:00.0000000",
-        "title":  "MLB Awards: 2026 BBWAA Manager of the Year",
+        "start":  "2026-11-12T07:00:00.0000000",
+        "title":  "MLB Awards: 2026 All-MLB Team",
         "desc":  "",
-        "end":  "2026-11-12T00:00:00.0000000"
+        "end":  "2026-11-12T09:00:00.0000000"
     },
     {
-        "start":  "2026-11-11T00:00:00.0000000",
+        "start":  "2026-11-12T09:00:00.0000000",
+        "title":  "MLB Awards: 2026 BBWAA Cy Young Award",
+        "desc":  "",
+        "end":  "2026-11-12T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T10:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-12T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T11:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-12T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T12:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-12T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T13:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-12T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T14:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-12T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T15:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-12T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T16:00:00.0000000",
+        "title":  "â‹— Hot Stove",
+        "desc":  "",
+        "end":  "2026-11-12T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T18:00:00.0000000",
+        "title":  "Hot Stove",
+        "desc":  "",
+        "end":  "2026-11-12T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T20:00:00.0000000",
+        "title":  "All-Time Games: 2026: Los Angeles Dodgers at Chicago Cubs",
+        "desc":  "",
+        "end":  "2026-11-12T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-12T22:00:00.0000000",
+        "title":  "All-Time Games: 2026: Tampa Bay Rays at Houston Astros",
+        "desc":  "",
+        "end":  "2026-11-13T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T00:00:00.0000000",
         "title":  "â‹— MLB Now",
         "desc":  "",
-        "end":  "2026-11-11T01:00:00.0000000"
+        "end":  "2026-11-13T01:00:00.0000000"
     },
     {
-        "start":  "2026-11-11T01:00:00.0000000",
-        "title":  "â‹— MLB Awards: 2026 BBWAA Manager of the Year",
+        "start":  "2026-11-13T01:00:00.0000000",
+        "title":  "â‹— MLB Awards: 2026 BBWAA MVP",
         "desc":  "",
-        "end":  "2026-11-11T02:00:00.0000000"
+        "end":  "2026-11-13T02:00:00.0000000"
     },
     {
-        "start":  "2026-11-11T02:00:00.0000000",
+        "start":  "2026-11-13T02:00:00.0000000",
         "title":  "â‹— MLB Tonight",
         "desc":  "",
-        "end":  "2026-11-11T03:00:00.0000000"
+        "end":  "2026-11-13T03:00:00.0000000"
     },
     {
-        "start":  "2026-11-11T03:00:00.0000000",
-        "title":  "MLB Awards: 2026 BBWAA Manager of the Year",
+        "start":  "2026-11-13T03:00:00.0000000",
+        "title":  "MLB Awards: 2026 BBWAA MVP",
         "desc":  "",
-        "end":  "2026-11-11T04:00:00.0000000"
+        "end":  "2026-11-13T04:00:00.0000000"
     },
     {
-        "start":  "2026-11-11T04:00:00.0000000",
+        "start":  "2026-11-13T04:00:00.0000000",
         "title":  "MLB Tonight",
         "desc":  "",
-        "end":  "2026-11-11T05:00:00.0000000"
+        "end":  "2026-11-13T05:00:00.0000000"
     },
     {
-        "start":  "2026-11-11T05:00:00.0000000",
-        "title":  "MLB Awards: 2026 BBWAA Manager of the Year",
+        "start":  "2026-11-13T05:00:00.0000000",
+        "title":  "MLB Awards: 2026 BBWAA MVP",
         "desc":  "",
-        "end":  "2026-11-12T00:00:00.0000000"
+        "end":  "2026-11-13T06:00:00.0000000"
     },
     {
-        "start":  "2026-11-11T00:00:00.0000000",
+        "start":  "2026-11-13T06:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-13T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T07:00:00.0000000",
+        "title":  "All-Time Games: 2026: Los Angeles Dodgers at Chicago Cubs",
+        "desc":  "",
+        "end":  "2026-11-13T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T09:00:00.0000000",
+        "title":  "All-Time Games: 2026: Tampa Bay Rays at Houston Astros",
+        "desc":  "",
+        "end":  "2026-11-13T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T11:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-13T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T12:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-13T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T13:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-13T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T14:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-13T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T15:00:00.0000000",
+        "title":  "â‹— Hot Stove",
+        "desc":  "",
+        "end":  "2026-11-13T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T17:00:00.0000000",
+        "title":  "Hot Stove",
+        "desc":  "",
+        "end":  "2026-11-13T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T19:00:00.0000000",
+        "title":  "Baseball\u0027s Seasons: 1970",
+        "desc":  "",
+        "end":  "2026-11-13T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T20:00:00.0000000",
+        "title":  "Baseball\u0027s Seasons: 1971",
+        "desc":  "",
+        "end":  "2026-11-13T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T21:00:00.0000000",
+        "title":  "Top 20 Greatest Games: 1979: Chicago Cubs vs. Philadelphia Phillies",
+        "desc":  "",
+        "end":  "2026-11-13T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T22:00:00.0000000",
+        "title":  "Top 20 Greatest Games: 2003 NLDS, Game 4: Florida Marlins vs. San Francisco Giants",
+        "desc":  "",
+        "end":  "2026-11-13T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T23:00:00.0000000",
+        "title":  "â‹— MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-14T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T00:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-15T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T00:00:00.0000000",
         "title":  "â‹— MLB Now",
         "desc":  "",
-        "end":  "2026-11-11T01:00:00.0000000"
+        "end":  "2026-11-13T01:00:00.0000000"
     },
     {
-        "start":  "2026-11-11T01:00:00.0000000",
-        "title":  "â‹— MLB Awards: 2026 BBWAA Manager of the Year",
+        "start":  "2026-11-13T01:00:00.0000000",
+        "title":  "â‹— MLB Awards: 2026 BBWAA MVP",
         "desc":  "",
-        "end":  "2026-11-11T02:00:00.0000000"
+        "end":  "2026-11-13T02:00:00.0000000"
     },
     {
-        "start":  "2026-11-11T02:00:00.0000000",
+        "start":  "2026-11-13T02:00:00.0000000",
         "title":  "â‹— MLB Tonight",
         "desc":  "",
-        "end":  "2026-11-11T03:00:00.0000000"
+        "end":  "2026-11-13T03:00:00.0000000"
     },
     {
-        "start":  "2026-11-11T03:00:00.0000000",
-        "title":  "MLB Awards: 2026 BBWAA Manager of the Year",
+        "start":  "2026-11-13T03:00:00.0000000",
+        "title":  "MLB Awards: 2026 BBWAA MVP",
         "desc":  "",
-        "end":  "2026-11-11T04:00:00.0000000"
+        "end":  "2026-11-13T04:00:00.0000000"
     },
     {
-        "start":  "2026-11-11T04:00:00.0000000",
+        "start":  "2026-11-13T04:00:00.0000000",
         "title":  "MLB Tonight",
         "desc":  "",
-        "end":  "2026-11-11T05:00:00.0000000"
+        "end":  "2026-11-13T05:00:00.0000000"
     },
     {
-        "start":  "2026-11-11T05:00:00.0000000",
+        "start":  "2026-11-13T05:00:00.0000000",
+        "title":  "MLB Awards: 2026 BBWAA MVP",
+        "desc":  "",
+        "end":  "2026-11-13T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T06:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-13T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T07:00:00.0000000",
+        "title":  "All-Time Games: 2026: Los Angeles Dodgers at Chicago Cubs",
+        "desc":  "",
+        "end":  "2026-11-13T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T09:00:00.0000000",
+        "title":  "All-Time Games: 2026: Tampa Bay Rays at Houston Astros",
+        "desc":  "",
+        "end":  "2026-11-13T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T11:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-13T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T12:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-13T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T13:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-13T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T14:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-13T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T15:00:00.0000000",
+        "title":  "â‹— Hot Stove",
+        "desc":  "",
+        "end":  "2026-11-13T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T17:00:00.0000000",
+        "title":  "Hot Stove",
+        "desc":  "",
+        "end":  "2026-11-13T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T19:00:00.0000000",
+        "title":  "Baseball\u0027s Seasons: 1970",
+        "desc":  "",
+        "end":  "2026-11-13T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T20:00:00.0000000",
+        "title":  "Baseball\u0027s Seasons: 1971",
+        "desc":  "",
+        "end":  "2026-11-13T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T21:00:00.0000000",
+        "title":  "Top 20 Greatest Games: 1979: Chicago Cubs vs. Philadelphia Phillies",
+        "desc":  "",
+        "end":  "2026-11-13T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T22:00:00.0000000",
+        "title":  "Top 20 Greatest Games: 2003 NLDS, Game 4: Florida Marlins vs. San Francisco Giants",
+        "desc":  "",
+        "end":  "2026-11-13T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-13T23:00:00.0000000",
+        "title":  "â‹— MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-14T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T00:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-14T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T01:00:00.0000000",
+        "title":  "MLB Network Special: Over the Plate",
+        "desc":  "",
+        "end":  "2026-11-14T01:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T01:30:00.0000000",
+        "title":  "Top 20 Greatest Games: 1980 NLCS, Game 5: Philadelphia Phillies vs. Houston Astros",
+        "desc":  "",
+        "end":  "2026-11-14T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T03:00:00.0000000",
+        "title":  "Top 20 Greatest Games: 2004 ALCS, Game 4: Boston Red Sox vs. New York Yankees",
+        "desc":  "",
+        "end":  "2026-11-14T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T04:00:00.0000000",
+        "title":  "Movie: The Sandlot",
+        "desc":  "",
+        "end":  "2026-11-14T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T06:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-14T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T07:00:00.0000000",
+        "title":  "Top 20 Greatest Games: 2003 NLDS, Game 4: Florida Marlins vs. San Francisco Giants",
+        "desc":  "",
+        "end":  "2026-11-14T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T08:00:00.0000000",
+        "title":  "Top 20 Greatest Games: 1980 NLCS, Game 5: Philadelphia Phillies vs. Houston Astros",
+        "desc":  "",
+        "end":  "2026-11-14T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T09:30:00.0000000",
+        "title":  "Top 20 Greatest Games: 2004 ALCS, Game 4: Boston Red Sox vs. New York Yankees",
+        "desc":  "",
+        "end":  "2026-11-14T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T10:30:00.0000000",
+        "title":  "MLB Network Special: Over the Plate",
+        "desc":  "",
+        "end":  "2026-11-14T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T11:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-14T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T12:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-14T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T13:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-14T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T14:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-14T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T15:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-14T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T16:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-14T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T17:00:00.0000000",
+        "title":  "MLB Awards: 2026 BBWAA Rookie of the Year",
+        "desc":  "",
+        "end":  "2026-11-14T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T18:00:00.0000000",
         "title":  "MLB Awards: 2026 BBWAA Manager of the Year",
         "desc":  "",
-        "end":  "2026-11-12T00:00:00.0000000"
+        "end":  "2026-11-14T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T19:00:00.0000000",
+        "title":  "MLB Awards: 2026 BBWAA Cy Young Award",
+        "desc":  "",
+        "end":  "2026-11-14T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T20:00:00.0000000",
+        "title":  "All-Time Games: 2026: Detroit Tigers at San Diego Padres",
+        "desc":  "",
+        "end":  "2026-11-14T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T22:00:00.0000000",
+        "title":  "All-Time Games: 2026: San Francisco Giants at Cincinnati Reds",
+        "desc":  "",
+        "end":  "2026-11-15T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T00:00:00.0000000",
+        "title":  "All-Time Games: 2026: Cincinnati Reds at Milwaukee Brewers",
+        "desc":  "",
+        "end":  "2026-11-16T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T00:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-14T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T01:00:00.0000000",
+        "title":  "MLB Network Special: Over the Plate",
+        "desc":  "",
+        "end":  "2026-11-14T01:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T01:30:00.0000000",
+        "title":  "Top 20 Greatest Games: 1980 NLCS, Game 5: Philadelphia Phillies vs. Houston Astros",
+        "desc":  "",
+        "end":  "2026-11-14T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T03:00:00.0000000",
+        "title":  "Top 20 Greatest Games: 2004 ALCS, Game 4: Boston Red Sox vs. New York Yankees",
+        "desc":  "",
+        "end":  "2026-11-14T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T04:00:00.0000000",
+        "title":  "Movie: The Sandlot",
+        "desc":  "",
+        "end":  "2026-11-14T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T06:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-14T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T07:00:00.0000000",
+        "title":  "Top 20 Greatest Games: 2003 NLDS, Game 4: Florida Marlins vs. San Francisco Giants",
+        "desc":  "",
+        "end":  "2026-11-14T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T08:00:00.0000000",
+        "title":  "Top 20 Greatest Games: 1980 NLCS, Game 5: Philadelphia Phillies vs. Houston Astros",
+        "desc":  "",
+        "end":  "2026-11-14T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T09:30:00.0000000",
+        "title":  "Top 20 Greatest Games: 2004 ALCS, Game 4: Boston Red Sox vs. New York Yankees",
+        "desc":  "",
+        "end":  "2026-11-14T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T10:30:00.0000000",
+        "title":  "MLB Network Special: Over the Plate",
+        "desc":  "",
+        "end":  "2026-11-14T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T11:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-14T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T12:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-14T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T13:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-14T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T14:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-14T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T15:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-14T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T16:00:00.0000000",
+        "title":  "MLB Tonight",
+        "desc":  "",
+        "end":  "2026-11-14T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T17:00:00.0000000",
+        "title":  "MLB Awards: 2026 BBWAA Rookie of the Year",
+        "desc":  "",
+        "end":  "2026-11-14T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T18:00:00.0000000",
+        "title":  "MLB Awards: 2026 BBWAA Manager of the Year",
+        "desc":  "",
+        "end":  "2026-11-14T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T19:00:00.0000000",
+        "title":  "MLB Awards: 2026 BBWAA Cy Young Award",
+        "desc":  "",
+        "end":  "2026-11-14T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T20:00:00.0000000",
+        "title":  "All-Time Games: 2026: Detroit Tigers at San Diego Padres",
+        "desc":  "",
+        "end":  "2026-11-14T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-14T22:00:00.0000000",
+        "title":  "All-Time Games: 2026: San Francisco Giants at Cincinnati Reds",
+        "desc":  "",
+        "end":  "2026-11-15T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T00:00:00.0000000",
+        "title":  "All-Time Games: 2026: Cincinnati Reds at Milwaukee Brewers",
+        "desc":  "",
+        "end":  "2026-11-15T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T02:00:00.0000000",
+        "title":  "â‹— Baseball: 2026 Arizona Fall League Championship Game",
+        "desc":  "",
+        "end":  "2026-11-15T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T05:00:00.0000000",
+        "title":  "All-Time Games: 2026: Los Angeles Dodgers at Chicago Cubs",
+        "desc":  "",
+        "end":  "2026-11-15T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T07:00:00.0000000",
+        "title":  "MLB Network Presents: Brett",
+        "desc":  "",
+        "end":  "2026-11-15T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T09:00:00.0000000",
+        "title":  "Baseball: 2026 Arizona Fall League Championship Game",
+        "desc":  "",
+        "end":  "2026-11-15T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T12:00:00.0000000",
+        "title":  "The Sounds of Baseball: Jack Buck",
+        "desc":  "",
+        "end":  "2026-11-15T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T13:00:00.0000000",
+        "title":  "The Sounds of Baseball: Joe Buck",
+        "desc":  "",
+        "end":  "2026-11-15T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T14:00:00.0000000",
+        "title":  "The Sounds of Baseball: Jon Miller",
+        "desc":  "",
+        "end":  "2026-11-15T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T15:00:00.0000000",
+        "title":  "The Sounds of Baseball: Bob Costas",
+        "desc":  "",
+        "end":  "2026-11-15T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T16:00:00.0000000",
+        "title":  "Pack in Time: Nelson Cruz",
+        "desc":  "",
+        "end":  "2026-11-15T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T16:30:00.0000000",
+        "title":  "MLB Network Podcast",
+        "desc":  "",
+        "end":  "2026-11-15T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T17:00:00.0000000",
+        "title":  "MLB Awards: 2026 BBWAA MVP",
+        "desc":  "",
+        "end":  "2026-11-15T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T18:00:00.0000000",
+        "title":  "MLB Awards: 2026 All-MLB Team",
+        "desc":  "",
+        "end":  "2026-11-15T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T20:00:00.0000000",
+        "title":  "All-Time Games: 2026: Chicago White Sox at Kansas City Royals",
+        "desc":  "",
+        "end":  "2026-11-15T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T22:00:00.0000000",
+        "title":  "All-Time Games: 2026: New York Yankees at Philadelphia Phillies",
+        "desc":  "",
+        "end":  "2026-11-16T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-16T00:00:00.0000000",
+        "title":  "All-Time Games: 2026: Philadelphia Phillies at Milwaukee Brewers",
+        "desc":  "",
+        "end":  "2026-11-17T00:00:00.0000000"
     }
 ]
