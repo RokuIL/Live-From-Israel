@@ -1,209 +1,5 @@
 [
     {
-        "start":  "2026-11-13T00:00:00.0000000",
-        "title":  "SportsCenter Special",
-        "desc":  "Presenting the news, current affairs and game analysis from the world of sports, complete with exclusive interviews.",
-        "end":  "2026-11-13T00:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-13T00:30:00.0000000",
-        "title":  "Live: College Football Countdown",
-        "desc":  "A look at the day\u0027s college football action, featuring news, highlights and game previews.",
-        "end":  "2026-11-13T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-13T01:00:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "From Raymond James Stadium in Tampa, Fla.",
-        "end":  "2026-11-13T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-13T04:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-13T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-13T05:00:00.0000000",
-        "title":  "Live: SportsCenter With Scott Van Pelt",
-        "desc":  "SVP\u0027s up at midnight and bringing his unique perspective on games people play to \"SportsCenter\" viewers. The hourlong, late-night show is driven by the host\u0027s self-deprecating wit and passion for sports, with featured elements, including Van Pelt\u0027s nightly \"1 Big Thing\" commentary and a weekly look back at the moments that drove bettors wild in \"Bad Beats.\" The show also delivers what \"SportsCente",
-        "end":  "2026-11-13T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-13T06:00:00.0000000",
-        "title":  "Live: SportsCenter With Scott Van Pelt",
-        "desc":  "SVP\u0027s up at midnight and bringing his unique perspective on games people play to \"SportsCenter\" viewers. The hourlong, late-night show is driven by the host\u0027s self-deprecating wit and passion for sports, with featured elements, including Van Pelt\u0027s nightly \"1 Big Thing\" commentary and a weekly look back at the moments that drove bettors wild in \"Bad Beats.\" The show also delivers what \"SportsCente",
-        "end":  "2026-11-13T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-13T07:00:00.0000000",
-        "title":  "SportsCenter With Scott Van Pelt",
-        "desc":  "SVP\u0027s up at midnight and bringing his unique perspective on games people play to \"SportsCenter\" viewers. The hourlong, late-night show is driven by the host\u0027s self-deprecating wit and passion for sports, with featured elements, including Van Pelt\u0027s nightly \"1 Big Thing\" commentary and a weekly look back at the moments that drove bettors wild in \"Bad Beats.\" The show also delivers what \"SportsCente",
-        "end":  "2026-11-13T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-13T08:00:00.0000000",
-        "title":  "SportsCenter With Scott Van Pelt",
-        "desc":  "SVP\u0027s up at midnight and bringing his unique perspective on games people play to \"SportsCenter\" viewers. The hourlong, late-night show is driven by the host\u0027s self-deprecating wit and passion for sports, with featured elements, including Van Pelt\u0027s nightly \"1 Big Thing\" commentary and a weekly look back at the moments that drove bettors wild in \"Bad Beats.\" The show also delivers what \"SportsCente",
-        "end":  "2026-11-13T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-13T09:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The South Florida Bulls host the Memphis Tigers in regular-season action at Raymond James Stadium. South Florida aims to defend its home turf with just four turnovers this season, while Memphis leans on balanced scoring to secure a key road win.",
-        "end":  "2026-11-13T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-13T11:00:00.0000000",
-        "title":  "SportsCenter With Scott Van Pelt",
-        "desc":  "SVP\u0027s up at midnight and bringing his unique perspective on games people play to \"SportsCenter\" viewers. The hourlong, late-night show is driven by the host\u0027s self-deprecating wit and passion for sports, with featured elements, including Van Pelt\u0027s nightly \"1 Big Thing\" commentary and a weekly look back at the moments that drove bettors wild in \"Bad Beats.\" The show also delivers what \"SportsCente",
-        "end":  "2026-11-13T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-13T12:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-13T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-13T13:00:00.0000000",
-        "title":  "Live: Get Up",
-        "desc":  "ESPN\u0027s morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company\u0027s New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio\u0027s longt",
-        "end":  "2026-11-13T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-13T15:00:00.0000000",
-        "title":  "Live: First Take",
-        "desc":  "Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day\u0027s trending sports topics and under-the-radar news. They\u0027re regularly joined by veteran analysts and the top guests in sports and entertainment.",
-        "end":  "2026-11-13T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-13T17:00:00.0000000",
-        "title":  "Live: The Pat McAfee Show",
-        "desc":  "Pat McAfee brings his humor and candor; he and his cast of characters unpack the day\u0027s top stories and interview the biggest names in sports.",
-        "end":  "2026-11-13T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-13T19:00:00.0000000",
-        "title":  "Live: Bussin\u0027 \u0026 Pate On Campus",
-        "desc":  "College football analyst Josh Pate and the \"Bussin\u0027 with the Boys\" crew preview this week\u0027s college football action.",
-        "end":  "2026-11-13T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-13T20:00:00.0000000",
-        "title":  "Live: NBA Today",
-        "desc":  "In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.",
-        "end":  "2026-11-13T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-13T21:00:00.0000000",
-        "title":  "NFL Live",
-        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
-        "end":  "2026-11-13T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-13T22:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-13T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-13T22:30:00.0000000",
-        "title":  "Live: Pardon the Interruption",
-        "desc":  "The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.",
-        "end":  "2026-11-13T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-13T23:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-14T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-14T00:00:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "The Pittsburgh Panthers meet the Florida State Seminoles. Pittsburgh (6-3) looks to build on on five sacks in a 34-11 win over Georgia Tech, while 4-5 Florida State is bolstered by two key interceptions in a 31-24 victory over Boston College.",
-        "end":  "2026-11-14T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-14T03:00:00.0000000",
-        "title":  "Live: College Football Scoreboard",
-        "desc":  "Presenting up-to-the-minute scores and highlights during the college football season.",
-        "end":  "2026-11-14T03:15:00.0000000"
-    },
-    {
-        "start":  "2026-11-14T03:15:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "The Colorado Buffaloes clash with the No. 17 Houston Cougars in Big 12 play. Colorado looks to defend its home turf following a 20-10 loss to Arizona State, while Houston relies on a 19.8 defensive scoring average to secure a conference road victory.",
-        "end":  "2026-11-14T06:15:00.0000000"
-    },
-    {
-        "start":  "2026-11-14T06:15:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-14T07:15:00.0000000"
-    },
-    {
-        "start":  "2026-11-14T07:15:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-14T08:15:00.0000000"
-    },
-    {
-        "start":  "2026-11-14T08:15:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-14T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-14T09:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Pittsburgh Panthers meet the Florida State Seminoles. Pittsburgh (6-3) looks to build on on five sacks in a 34-11 win over Georgia Tech, while 4-5 Florida State is bolstered by two key interceptions in a 31-24 victory over Boston College.",
-        "end":  "2026-11-14T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-14T11:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-14T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-14T12:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-14T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-14T14:00:00.0000000",
-        "title":  "Live: College GameDay",
-        "desc":  "Originating from the site of one of the day\u0027s best matchups, with a sea of fans cheering wildly in the background, host Rece Davis and analysts Lee Corso, Kirk Herbstreit and Desmond Howard talk college football for three hours, reporting on the top teams, games, players and storylines. David Pollack and Maria Taylor contribute reports, interviews and features. Davis replaced longtime host Chris F",
-        "end":  "2026-11-14T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-14T17:00:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "The SMU Mustangs (7-2, 5-2 ACC) host the No. 13 Wake Forest Demon Deacons (8-1, 5-1 ACC) at Gerald J. Ford Stadium in Dallas. Wake Forest aims for a seven-game win streak behind Gio Lopez, while SMU recently defeated Virginia Tech 51-28.",
-        "end":  "2026-11-14T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-14T20:00:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "From Kyle Field in College Station, Texas.",
-        "end":  "2026-11-14T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-14T23:00:00.0000000",
-        "title":  "Live: College Football Scoreboard",
-        "desc":  "Presenting up-to-the-minute scores and highlights during the college football season.",
-        "end":  "2026-11-14T23:15:00.0000000"
-    },
-    {
-        "start":  "2026-11-14T23:15:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "Kroger Field.",
-        "end":  "2026-11-15T00:00:00.0000000"
-    },
-    {
         "start":  "2026-11-14T00:00:00.0000000",
         "title":  "Live: College Football",
         "desc":  "The Pittsburgh Panthers meet the Florida State Seminoles. Pittsburgh (6-3) looks to build on on five sacks in a 34-11 win over Georgia Tech, while 4-5 Florida State is bolstered by two key interceptions in a 31-24 victory over Boston College.",
@@ -303,6 +99,84 @@
         "start":  "2026-11-15T05:30:00.0000000",
         "title":  "Live: SportsCenter",
         "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-15T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T06:30:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-15T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T08:00:00.0000000",
+        "title":  "College Football Final",
+        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
+        "end":  "2026-11-15T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T09:00:00.0000000",
+        "title":  "NFL Matchup",
+        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
+        "end":  "2026-11-15T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T09:30:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Gators (5-4) take on the No. 11 Wildcats (7-2) at Kroger Field for an SEC game. Kentucky dropped their previous game 34-6 against Tennessee and look to Kenny Minchey, while Florida seek to snap a two-game skid and fell 23-7 to Oklahoma.",
+        "end":  "2026-11-15T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T11:30:00.0000000",
+        "title":  "NFL Matchup",
+        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
+        "end":  "2026-11-15T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T12:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-15T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T13:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-15T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T14:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-15T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T15:00:00.0000000",
+        "title":  "Live: Sunday NFL Countdown",
+        "desc":  "This Sunday pregame staple debuted in 1985 and soon became a signature ESPN series. Host Mike Greenberg introduces the features and directs the storylines associated with the day\u0027s games, joined by a roster of analysts highlighted by ex-NFL players, coaches and executives including Tedy Bruschi, Randy Moss, Alex Smith, and Rex Ryan. Adam Schefter deliver breaking news and injury updates, while rep",
+        "end":  "2026-11-15T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T18:00:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "The No. 10 Louisville Cardinals (2-0) visit the Memphis Tigers (2-1) at FedExForum for a college basketball game. Louisville aims for a three-game win streak behind Adrian Wooley, while Memphis relies on Jayden Reid who leads with 23 points.",
+        "end":  "2026-11-15T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T20:00:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "From Frost Bank Center in San Antonio.",
+        "end":  "2026-11-15T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T22:00:00.0000000",
+        "title":  "College Basketball Live Scoreboard",
+        "desc":  "All the latest scores and highlights from college basketball.",
+        "end":  "2026-11-15T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T22:30:00.0000000",
+        "title":  "Live: Women\u0027s College Basketball",
+        "desc":  "From the KFC Yum! Center in Louisville, Ky.",
         "end":  "2026-11-16T00:00:00.0000000"
     },
     {
@@ -321,6 +195,144 @@
         "start":  "2026-11-15T05:30:00.0000000",
         "title":  "Live: SportsCenter",
         "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-15T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T06:30:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-15T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T08:00:00.0000000",
+        "title":  "College Football Final",
+        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
+        "end":  "2026-11-15T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T09:00:00.0000000",
+        "title":  "NFL Matchup",
+        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
+        "end":  "2026-11-15T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T09:30:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Gators (5-4) take on the No. 11 Wildcats (7-2) at Kroger Field for an SEC game. Kentucky dropped their previous game 34-6 against Tennessee and look to Kenny Minchey, while Florida seek to snap a two-game skid and fell 23-7 to Oklahoma.",
+        "end":  "2026-11-15T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T11:30:00.0000000",
+        "title":  "NFL Matchup",
+        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
+        "end":  "2026-11-15T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T12:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-15T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T13:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-15T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T14:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-15T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T15:00:00.0000000",
+        "title":  "Live: Sunday NFL Countdown",
+        "desc":  "This Sunday pregame staple debuted in 1985 and soon became a signature ESPN series. Host Mike Greenberg introduces the features and directs the storylines associated with the day\u0027s games, joined by a roster of analysts highlighted by ex-NFL players, coaches and executives including Tedy Bruschi, Randy Moss, Alex Smith, and Rex Ryan. Adam Schefter deliver breaking news and injury updates, while rep",
+        "end":  "2026-11-15T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T18:00:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "The No. 10 Louisville Cardinals (2-0) visit the Memphis Tigers (2-1) at FedExForum for a college basketball game. Louisville aims for a three-game win streak behind Adrian Wooley, while Memphis relies on Jayden Reid who leads with 23 points.",
+        "end":  "2026-11-15T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T20:00:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "From Frost Bank Center in San Antonio.",
+        "end":  "2026-11-15T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T22:00:00.0000000",
+        "title":  "College Basketball Live Scoreboard",
+        "desc":  "All the latest scores and highlights from college basketball.",
+        "end":  "2026-11-15T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-15T22:30:00.0000000",
+        "title":  "Live: Women\u0027s College Basketball",
+        "desc":  "From the KFC Yum! Center in Louisville, Ky.",
         "end":  "2026-11-16T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-16T00:30:00.0000000",
+        "title":  "Live: 2027 WNBA Draft Lottery",
+        "desc":  "The WNBA holds its annual lottery to decide the order teams will make picks in the 2027 WNBA Draft. Six teams will participate in this year\u0027s lottery, as Houston, Toronto, Washington, Seattle, Portland and Los Angeles vie for the number 1 pick.",
+        "end":  "2026-11-16T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-16T01:00:00.0000000",
+        "title":  "Live: Women\u0027s College Volleyball",
+        "desc":  "Fitzgerald Field House.",
+        "end":  "2026-11-16T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-16T03:00:00.0000000",
+        "title":  "College Football Final",
+        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
+        "end":  "2026-11-16T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-16T04:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-16T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-16T04:30:00.0000000",
+        "title":  "Live: SportsCenter With Scott Van Pelt",
+        "desc":  "SVP\u0027s up at midnight and bringing his unique perspective on games people play to \"SportsCenter\" viewers. The hourlong, late-night show is driven by the host\u0027s self-deprecating wit and passion for sports, with featured elements, including Van Pelt\u0027s nightly \"1 Big Thing\" commentary and a weekly look back at the moments that drove bettors wild in \"Bad Beats.\" The show also delivers what \"SportsCente",
+        "end":  "2026-11-17T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-16T00:30:00.0000000",
+        "title":  "Live: 2027 WNBA Draft Lottery",
+        "desc":  "The WNBA holds its annual lottery to decide the order teams will make picks in the 2027 WNBA Draft. Six teams will participate in this year\u0027s lottery, as Houston, Toronto, Washington, Seattle, Portland and Los Angeles vie for the number 1 pick.",
+        "end":  "2026-11-16T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-16T01:00:00.0000000",
+        "title":  "Live: Women\u0027s College Volleyball",
+        "desc":  "Fitzgerald Field House.",
+        "end":  "2026-11-16T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-16T03:00:00.0000000",
+        "title":  "College Football Final",
+        "desc":  "Once the day\u0027s slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.",
+        "end":  "2026-11-16T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-16T04:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-16T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-16T04:30:00.0000000",
+        "title":  "Live: SportsCenter With Scott Van Pelt",
+        "desc":  "SVP\u0027s up at midnight and bringing his unique perspective on games people play to \"SportsCenter\" viewers. The hourlong, late-night show is driven by the host\u0027s self-deprecating wit and passion for sports, with featured elements, including Van Pelt\u0027s nightly \"1 Big Thing\" commentary and a weekly look back at the moments that drove bettors wild in \"Bad Beats.\" The show also delivers what \"SportsCente",
+        "end":  "2026-11-17T00:00:00.0000000"
     }
 ]
