@@ -1,191 +1,5 @@
 [
     {
-        "start":  "2026-11-15T01:00:00.0000000",
-        "title":  "Formel 1: GroÃŸer Preis der USA",
-        "desc":  "WM-Chance in Austin: Kimi Antonelli kÃ¶nnte sich beim GroÃŸen Preis der USA bereits zum Weltmeister krÃ¶nen. Rast er zum Sieg? (Senderinfo).",
-        "end":  "2026-11-15T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-15T03:00:00.0000000",
-        "title":  "Formel 1: GroÃŸer Preis von Bahrain",
-        "desc":  "UngewÃ¶hnliche Situation: Wegen des Konflikts im Nahen Osten findet der Bahrain GP diesmal in Malaysia statt. Wer holt den Sieg? (Senderinfo).",
-        "end":  "2026-11-15T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-15T05:00:00.0000000",
-        "title":  "Rallye: Rallye Italien",
-        "desc":  "Ob auf Asphalt, Schnee oder Schotter â€“ die FIA Rallye-Weltmeisterschaft WRC steht fÃ¼r Motorsport-Abenteuer. (Senderinfo).",
-        "end":  "2026-11-15T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-15T06:30:00.0000000",
-        "title":  "Formel 1: GroÃŸer Preis der USA",
-        "desc":  "Sebastian Vettels Formel-1-DebÃ¼t: In Indianapolis fÃ¤hrt der Heppenheimer seinen ersten Grand Prix â€“ und rast auf den achten Platz. An der Spitze herrscht die Dominanz von McLaren-Mercedes. (Senderinfo).",
-        "end":  "2026-11-15T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-15T08:30:00.0000000",
-        "title":  "Formel 1: GroÃŸer Preis von Italien",
-        "desc":  "Ein neuer Stern geht auf: Bei dem Wochenende in Monza bricht Sebastian Vettel mehrere Rekorde. Erst holt er sich als jÃ¼ngster F1-Pilot die Pole, dann rast er als jÃ¼ngster Fahrer zum Sieg. (Senderinfo).",
-        "end":  "2026-11-15T10:20:00.0000000"
-    },
-    {
-        "start":  "2026-11-15T10:20:00.0000000",
-        "title":  "Formel 1",
-        "desc":  "Der 1994 verstorbene Brasilianer Ayrton Senna gehÃ¶rte zweifellos zu den grÃ¶ÃŸten F1-Fahrern aller Zeiten. Ein RÃ¼ckblick auf zehn seiner besten Geniestreiche. (Senderinfo).",
-        "end":  "2026-11-15T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-15T10:30:00.0000000",
-        "title":  "Formel 1: GroÃŸer Preis von Abu Dhabi",
-        "desc":  "Vettels erster WM-Streich: Im Saisonfinale 2010 schnappt sich Sebastian Vettel seinen ersten Weltmeistertitel. Als bis dato jÃ¼ngster Formel-1-Weltmeister geht er in die Geschichte ein. (Senderinfo).",
-        "end":  "2026-11-15T12:40:00.0000000"
-    },
-    {
-        "start":  "2026-11-15T12:40:00.0000000",
-        "title":  "Formel 1: GroÃŸer Preis von Japan",
-        "desc":  "Ein dritter Platz in Suzuka bringt den WM-Titel: Beim GroÃŸen Preis von Japan 2011 kommt Sebastian Vettel hinter Jenson Button und Fernando Alonso ins Ziel. Vettel wird zum zweiten Mal Weltmeister. (Senderinfo).",
-        "end":  "2026-11-15T14:35:00.0000000"
-    },
-    {
-        "start":  "2026-11-15T14:35:00.0000000",
-        "title":  "Formel 1: GroÃŸer Preis von Brasilien",
-        "desc":  "Der dritte WM-Titel: Bei Michael Schumachers letztem F1-Rennen sichert sich Sebastian Vettel zum dritten Mal die Weltmeisterschaft. In Brasilien reicht ihm der sechste Platz zum groÃŸen Erfolg. (Senderinfo).",
-        "end":  "2026-11-15T16:45:00.0000000"
-    },
-    {
-        "start":  "2026-11-15T16:45:00.0000000",
-        "title":  "Formel 1: GroÃŸer Preis von Indien",
-        "desc":  "Sebastian Vettels vierter Weltmeisterschaftstitel: In Indien 2013 setzt sich der Heppenheimer gegen Nico Rosberg und Romain Grosjean durch und gewinnt seinen bis dato letzten WM-Titel. (Senderinfo).",
-        "end":  "2026-11-15T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-15T19:00:00.0000000",
-        "title":  "Formel 1: GroÃŸer Preis von Brasilien",
-        "desc":  "Am Ziel: In Mexiko wurde Kimi Antonelli der jÃ¼ngste F1-Weltmeister der Geschichte. Brilliert der Italiener auch in Brasilien? (Senderinfo).",
-        "end":  "2026-11-15T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-15T21:00:00.0000000",
-        "title":  "Formel 1: GroÃŸer Preis von Mexiko",
-        "desc":  "Weiter geht\u0027s in Mexiko-City: Die HÃ¶henluft in der mexikanischen Hauptstadt verlangt den F1-Fahrern alles ab. Wer fÃ¤hrt auf das Podium? (Senderinfo).",
-        "end":  "2026-11-15T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-15T23:00:00.0000000",
-        "title":  "Formel 1: GroÃŸer Preis von Brasilien",
-        "desc":  "Am Ziel: In Mexiko wurde Kimi Antonelli der jÃ¼ngste F1-Weltmeister der Geschichte. Brilliert der Italiener auch in Brasilien? (Senderinfo).",
-        "end":  "2026-11-16T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-16T01:00:00.0000000",
-        "title":  "Formel 1: GroÃŸer Preis von Mexiko",
-        "desc":  "Weiter geht\u0027s in Mexiko-City: Die HÃ¶henluft in der mexikanischen Hauptstadt verlangt den F1-Fahrern alles ab. Wer fÃ¤hrt auf das Podium? (Senderinfo).",
-        "end":  "2026-11-16T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-16T03:00:00.0000000",
-        "title":  "Rallye: WM",
-        "desc":  "Die Rallye-Weltmeisterschaft (abgekÃ¼rzt WRC) ist eine internationale Rallye-Serie, die von der FÃ©dÃ©ration Internationale de l\u0027Automobile (FIA) verwaltet wird. Sie wurde 1973 ins Leben gerufen und ist nach der Formel 1 die zweitÃ¤lteste Weltmeisterschaft der FIA. Eine WRC-Saison besteht in der Regel aus 13 drei- bis viertÃ¤gigen Rallye-Veranstaltungen, die sich Ã¼ber ein Kalenderjahr erstreckt und auf",
-        "end":  "2026-11-16T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-16T04:00:00.0000000",
-        "title":  "Rallye: Rallye Italien",
-        "desc":  "Ob auf Asphalt, Schnee oder Schotter â€“ die FIA Rallye-Weltmeisterschaft WRC steht fÃ¼r Motorsport-Abenteuer. Die Higlights der vergangenen Session. (Senderinfo).",
-        "end":  "2026-11-16T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-16T05:00:00.0000000",
-        "title":  "Formel 1: GroÃŸer Preis von Mexiko",
-        "desc":  "Weiter geht\u0027s in Mexiko-City: Die HÃ¶henluft in der mexikanischen Hauptstadt verlangt den F1-Fahrern alles ab. Wer fÃ¤hrt auf das Podium? (Senderinfo).",
-        "end":  "2026-11-16T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-16T07:00:00.0000000",
-        "title":  "Formel 1: GroÃŸer Preis von Brasilien",
-        "desc":  "Am Ziel: In Mexiko wurde Kimi Antonelli der jÃ¼ngste F1-Weltmeister der Geschichte. Brilliert der Italiener auch in Brasilien? (Senderinfo).",
-        "end":  "2026-11-16T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-16T09:00:00.0000000",
-        "title":  "Formel 3: FIA-Meisterschaft",
-        "desc":  "Motorsport pur: Sky zeigt sÃ¤mtliche Sessions der Formel 2, der Formel 3 sowie die Rennen des Porsche Mobil 1 Supercup live. Diesmal stehen die F3-Rennen von Madrid auf dem Plan. (Senderinfo).",
-        "end":  "2026-11-16T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-16T10:00:00.0000000",
-        "title":  "Formel 3: FIA-Meisterschaft",
-        "desc":  "Motorsport pur: Sky zeigt sÃ¤mtliche Sessions der Formel 2, der Formel 3 sowie die Rennen des Porsche Mobil 1 Supercup live. Diesmal stehen die F3-Rennen von Madrid auf dem Plan. (Senderinfo).",
-        "end":  "2026-11-16T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-16T11:00:00.0000000",
-        "title":  "Formel 3: FIA-Meisterschaft",
-        "desc":  "Motorsport pur: Sky zeigt sÃ¤mtliche Sessions der Formel 2, der Formel 3 sowie die Rennen des Porsche Mobil 1 Supercup live. Diesmal stehen die F3-Rennen von Madrid auf dem Plan. (Senderinfo).",
-        "end":  "2026-11-16T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-16T12:00:00.0000000",
-        "title":  "Motorsport: Indy Car Series",
-        "desc":  "Motorsport aus Nordamerika: Sky zeigt alle Rennen der NTT IndyCar Series live â€“ die grÃ¶ÃŸte Rennserie der USA. Wer holt 2026 den groÃŸen Titel und wie schlÃ¤gt sich Mick Schumacher? (Senderinfo).",
-        "end":  "2026-11-16T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-16T15:00:00.0000000",
-        "title":  "Formel 2: FIA-Meisterschaft",
-        "desc":  "Motorsport pur: Sky zeigt sÃ¤mtliche Sessions der Formel 2, der Formel 3 sowie die Rennen des Porsche Mobil 1 Supercup live. Diesmal stehen die F2-Rennen in Baku auf dem Plan. (Senderinfo).",
-        "end":  "2026-11-16T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-16T16:00:00.0000000",
-        "title":  "Formel 2: FIA-Meisterschaft",
-        "desc":  "Motorsport pur: Sky zeigt sÃ¤mtliche Sessions der Formel 2, der Formel 3 sowie die Rennen des Porsche Mobil 1 Supercup live. Diesmal stehen die F2-Rennen in Baku auf dem Plan. (Senderinfo).",
-        "end":  "2026-11-16T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-16T17:00:00.0000000",
-        "title":  "Formel 2: FIA-Meisterschaft",
-        "desc":  "Motorsport pur: Sky zeigt sÃ¤mtliche Sessions der Formel 2, der Formel 3 sowie die Rennen des Porsche Mobil 1 Supercup live. Diesmal stehen die F2-Rennen in Baku auf dem Plan. (Senderinfo).",
-        "end":  "2026-11-16T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-16T18:00:00.0000000",
-        "title":  "Formel 1: GroÃŸer Preis von Singapur",
-        "desc":  "Machtdemonstration: In Sepan holte Max Verstappen seinen ersten Saisonsieg. Zeigt der NiederlÃ¤nder auch in Singapur seine Klasse? (Senderinfo).",
-        "end":  "2026-11-16T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-16T19:00:00.0000000",
-        "title":  "Formel 1: GroÃŸer Preis von Singapur",
-        "desc":  "Machtdemonstration: In Sepan holte Max Verstappen seinen ersten Saisonsieg. Zeigt der NiederlÃ¤nder auch in Singapur seine Klasse? (Senderinfo).",
-        "end":  "2026-11-16T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-16T21:00:00.0000000",
-        "title":  "Formel 1",
-        "desc":  "GP Confidential ist der perfekte Begleiter durch die F1 Saison. Von technischen Analysen der Boliden Ã¼ber die wichtigsten Updates der Teams bis hin zu RÃ¼ckblicken auf die Historie der KÃ¶nigsklasse. (Senderinfo).",
-        "end":  "2026-11-16T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-16T21:30:00.0000000",
-        "title":  "Formel 1",
-        "desc":  "Das unfassbare Herzschlagfinale der F1-Saison 2008: Felipe Massa scheint in Brasilien kurz vor Schluss als Weltmeister festzustehen. Dann schwingt das WM-Pendel nochmal in Richtung von Lewis Hamilton. (Senderinfo).",
-        "end":  "2026-11-16T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-16T22:00:00.0000000",
-        "title":  "Motorsport: Indy Car Series",
-        "desc":  "Motorsport aus Nordamerika: Sky zeigt alle Rennen der NTT IndyCar Series live â€“ die grÃ¶ÃŸte Rennserie der USA. Wer holt 2026 den groÃŸen Titel und wie schlÃ¤gt sich Mick Schumacher? (Senderinfo).",
-        "end":  "2026-11-17T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-17T00:00:00.0000000",
-        "title":  "Formel 1: GroÃŸer Preis der USA",
-        "desc":  "WM-Chance in Austin: Kimi Antonelli kÃ¶nnte sich beim GroÃŸen Preis der USA bereits zum Weltmeister krÃ¶nen. Rast er zum Sieg? (Senderinfo).",
-        "end":  "2026-11-18T00:00:00.0000000"
-    },
-    {
         "start":  "2026-11-16T01:00:00.0000000",
         "title":  "Formel 1: GroÃŸer Preis von Mexiko",
         "desc":  "Weiter geht\u0027s in Mexiko-City: Die HÃ¶henluft in der mexikanischen Hauptstadt verlangt den F1-Fahrern alles ab. Wer fÃ¤hrt auf das Podium? (Senderinfo).",
@@ -414,6 +228,12 @@
         "end":  "2026-11-18T00:00:00.0000000"
     },
     {
+        "start":  "2026-11-18T00:00:00.0000000",
+        "title":  "Formel 1: GroÃŸer Preis von Mexiko",
+        "desc":  "Weiter geht\u0027s in Mexiko-City: Die HÃ¶henluft in der mexikanischen Hauptstadt verlangt den F1-Fahrern alles ab. Wer fÃ¤hrt auf das Podium? (Senderinfo).",
+        "end":  "2026-11-19T00:00:00.0000000"
+    },
+    {
         "start":  "2026-11-17T00:00:00.0000000",
         "title":  "Formel 1: GroÃŸer Preis der USA",
         "desc":  "WM-Chance in Austin: Kimi Antonelli kÃ¶nnte sich beim GroÃŸen Preis der USA bereits zum Weltmeister krÃ¶nen. Rast er zum Sieg? (Senderinfo).",
@@ -538,5 +358,221 @@
         "title":  "Motorsport: Indy Car Series",
         "desc":  "Motorsport aus Nordamerika: Sky zeigt alle Rennen der NTT IndyCar Series live â€“ die grÃ¶ÃŸte Rennserie der USA. Wer holt 2026 den groÃŸen Titel und wie schlÃ¤gt sich Mick Schumacher? (Senderinfo).",
         "end":  "2026-11-18T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T00:00:00.0000000",
+        "title":  "Formel 1: GroÃŸer Preis von Mexiko",
+        "desc":  "Weiter geht\u0027s in Mexiko-City: Die HÃ¶henluft in der mexikanischen Hauptstadt verlangt den F1-Fahrern alles ab. Wer fÃ¤hrt auf das Podium? (Senderinfo).",
+        "end":  "2026-11-18T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T02:00:00.0000000",
+        "title":  "Formel 1",
+        "desc":  "GP Confidential ist der perfekte Begleiter durch die F1 Saison. Von technischen Analysen der Boliden Ã¼ber die wichtigsten Updates der Teams bis hin zu RÃ¼ckblicken auf die Historie der KÃ¶nigsklasse. (Senderinfo).",
+        "end":  "2026-11-18T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T02:30:00.0000000",
+        "title":  "Formel 1",
+        "desc":  "Das unfassbare Herzschlagfinale der F1-Saison 2008: Felipe Massa scheint in Brasilien kurz vor Schluss als Weltmeister festzustehen. Dann schwingt das WM-Pendel nochmal in Richtung von Lewis Hamilton. (Senderinfo).",
+        "end":  "2026-11-18T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T03:00:00.0000000",
+        "title":  "Motorsport: Indy Car Series",
+        "desc":  "Motorsport aus Nordamerika: Sky zeigt alle Rennen der NTT IndyCar Series live â€“ die grÃ¶ÃŸte Rennserie der USA. Wer holt 2026 den groÃŸen Titel und wie schlÃ¤gt sich Mick Schumacher? (Senderinfo).",
+        "end":  "2026-11-18T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T05:00:00.0000000",
+        "title":  "Formel 3: FIA-Meisterschaft",
+        "desc":  "Motorsport pur: Sky zeigt sÃ¤mtliche Sessions der Formel 2, der Formel 3 sowie die Rennen des Porsche Mobil 1 Supercup live. Diesmal stehen die F3-Rennen von Madrid auf dem Plan. (Senderinfo).",
+        "end":  "2026-11-18T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T06:00:00.0000000",
+        "title":  "Formel 3: FIA-Meisterschaft",
+        "desc":  "Motorsport pur: Sky zeigt sÃ¤mtliche Sessions der Formel 2, der Formel 3 sowie die Rennen des Porsche Mobil 1 Supercup live. Diesmal stehen die F3-Rennen von Madrid auf dem Plan. (Senderinfo).",
+        "end":  "2026-11-18T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T07:00:00.0000000",
+        "title":  "Formel 3: FIA-Meisterschaft",
+        "desc":  "Motorsport pur: Sky zeigt sÃ¤mtliche Sessions der Formel 2, der Formel 3 sowie die Rennen des Porsche Mobil 1 Supercup live. Diesmal stehen die F3-Rennen von Madrid auf dem Plan. (Senderinfo).",
+        "end":  "2026-11-18T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T08:00:00.0000000",
+        "title":  "Formel 1: GroÃŸer Preis von Singapur",
+        "desc":  "Machtdemonstration: In Sepan holte Max Verstappen seinen ersten Saisonsieg. Zeigt der NiederlÃ¤nder auch in Singapur seine Klasse? (Senderinfo).",
+        "end":  "2026-11-18T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T09:00:00.0000000",
+        "title":  "F1 Academy",
+        "desc":  "Frauenpower auf dem Weg in die Formel 1: Sky zeigt die F1 Academy. Welche Fahrerin setzt sich in der vierten Saison der Rennserie durch? Und wie schlÃ¤gt sich Mathilda Paatz? (Senderinfo).",
+        "end":  "2026-11-18T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T10:00:00.0000000",
+        "title":  "F1 Academy",
+        "desc":  "Frauenpower auf dem Weg in die Formel 1: Sky zeigt die F1 Academy. Welche Fahrerin setzt sich in der vierten Saison der Rennserie durch? Und wie schlÃ¤gt sich Mathilda Paatz? (Senderinfo).",
+        "end":  "2026-11-18T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T11:00:00.0000000",
+        "title":  "F1 Academy",
+        "desc":  "Frauenpower auf dem Weg in die Formel 1: Sky zeigt die F1 Academy. Welche Fahrerin setzt sich in der vierten Saison der Rennserie durch? Und wie schlÃ¤gt sich Mathilda Paatz? (Senderinfo).",
+        "end":  "2026-11-18T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T12:00:00.0000000",
+        "title":  "Formel 1: GroÃŸer Preis von Singapur",
+        "desc":  "Machtdemonstration: In Sepan holte Max Verstappen seinen ersten Saisonsieg. Zeigt der NiederlÃ¤nder auch in Singapur seine Klasse? (Senderinfo).",
+        "end":  "2026-11-18T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T13:00:00.0000000",
+        "title":  "Formel 1: GroÃŸer Preis von Singapur",
+        "desc":  "Machtdemonstration: In Sepan holte Max Verstappen seinen ersten Saisonsieg. Zeigt der NiederlÃ¤nder auch in Singapur seine Klasse? (Senderinfo).",
+        "end":  "2026-11-18T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T15:00:00.0000000",
+        "title":  "Formel 1: GroÃŸer Preis der USA",
+        "desc":  "WM-Chance in Austin: Kimi Antonelli kÃ¶nnte sich beim GroÃŸen Preis der USA bereits zum Weltmeister krÃ¶nen. Rast er zum Sieg? (Senderinfo).",
+        "end":  "2026-11-18T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T17:00:00.0000000",
+        "title":  "Formel 1: GroÃŸer Preis von Las Vegas",
+        "desc":  "Spektakel in Las Vegas: Nach dem Sieg in Brasilien ist Lando Norris auf WM-Titelkurs. Brilliert er auch in der US-Glitzerstadt? (Senderinfo).",
+        "end":  "2026-11-18T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T19:00:00.0000000",
+        "title":  "Formel 1: GroÃŸer Preis von Mexiko",
+        "desc":  "Weiter geht\u0027s in Mexiko-City: Die HÃ¶henluft in der mexikanischen Hauptstadt verlangt den F1-Fahrern alles ab. Wer fÃ¤hrt auf das Podium? (Senderinfo).",
+        "end":  "2026-11-18T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T21:00:00.0000000",
+        "title":  "Rallye: FIA-Weltmeisterschaft",
+        "desc":  "Der groÃŸe SaisonrÃ¼ckblick auf die WRC 2026: Welche Fahrer konnten dieses Jahr Ã¼berzeugen und den groÃŸen Sieg holen? (Senderinfo).",
+        "end":  "2026-11-18T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T22:00:00.0000000",
+        "title":  "Motorsport: IndyCar Series",
+        "desc":  "Motorsport aus Nordamerika: Sky zeigt alle Rennen der NTT IndyCar Series live â€“ die grÃ¶ÃŸte Rennserie der USA. Wer holt 2026 den groÃŸen Titel und wie schlÃ¤gt sich Mick Schumacher? (Senderinfo).",
+        "end":  "2026-11-19T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T00:00:00.0000000",
+        "title":  "Formel 1: GroÃŸer Preis von Mexiko",
+        "desc":  "Weiter geht\u0027s in Mexiko-City: Die HÃ¶henluft in der mexikanischen Hauptstadt verlangt den F1-Fahrern alles ab. Wer fÃ¤hrt auf das Podium? (Senderinfo).",
+        "end":  "2026-11-18T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T02:00:00.0000000",
+        "title":  "Formel 1",
+        "desc":  "GP Confidential ist der perfekte Begleiter durch die F1 Saison. Von technischen Analysen der Boliden Ã¼ber die wichtigsten Updates der Teams bis hin zu RÃ¼ckblicken auf die Historie der KÃ¶nigsklasse. (Senderinfo).",
+        "end":  "2026-11-18T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T02:30:00.0000000",
+        "title":  "Formel 1",
+        "desc":  "Das unfassbare Herzschlagfinale der F1-Saison 2008: Felipe Massa scheint in Brasilien kurz vor Schluss als Weltmeister festzustehen. Dann schwingt das WM-Pendel nochmal in Richtung von Lewis Hamilton. (Senderinfo).",
+        "end":  "2026-11-18T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T03:00:00.0000000",
+        "title":  "Motorsport: Indy Car Series",
+        "desc":  "Motorsport aus Nordamerika: Sky zeigt alle Rennen der NTT IndyCar Series live â€“ die grÃ¶ÃŸte Rennserie der USA. Wer holt 2026 den groÃŸen Titel und wie schlÃ¤gt sich Mick Schumacher? (Senderinfo).",
+        "end":  "2026-11-18T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T05:00:00.0000000",
+        "title":  "Formel 3: FIA-Meisterschaft",
+        "desc":  "Motorsport pur: Sky zeigt sÃ¤mtliche Sessions der Formel 2, der Formel 3 sowie die Rennen des Porsche Mobil 1 Supercup live. Diesmal stehen die F3-Rennen von Madrid auf dem Plan. (Senderinfo).",
+        "end":  "2026-11-18T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T06:00:00.0000000",
+        "title":  "Formel 3: FIA-Meisterschaft",
+        "desc":  "Motorsport pur: Sky zeigt sÃ¤mtliche Sessions der Formel 2, der Formel 3 sowie die Rennen des Porsche Mobil 1 Supercup live. Diesmal stehen die F3-Rennen von Madrid auf dem Plan. (Senderinfo).",
+        "end":  "2026-11-18T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T07:00:00.0000000",
+        "title":  "Formel 3: FIA-Meisterschaft",
+        "desc":  "Motorsport pur: Sky zeigt sÃ¤mtliche Sessions der Formel 2, der Formel 3 sowie die Rennen des Porsche Mobil 1 Supercup live. Diesmal stehen die F3-Rennen von Madrid auf dem Plan. (Senderinfo).",
+        "end":  "2026-11-18T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T08:00:00.0000000",
+        "title":  "Formel 1: GroÃŸer Preis von Singapur",
+        "desc":  "Machtdemonstration: In Sepan holte Max Verstappen seinen ersten Saisonsieg. Zeigt der NiederlÃ¤nder auch in Singapur seine Klasse? (Senderinfo).",
+        "end":  "2026-11-18T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T09:00:00.0000000",
+        "title":  "F1 Academy",
+        "desc":  "Frauenpower auf dem Weg in die Formel 1: Sky zeigt die F1 Academy. Welche Fahrerin setzt sich in der vierten Saison der Rennserie durch? Und wie schlÃ¤gt sich Mathilda Paatz? (Senderinfo).",
+        "end":  "2026-11-18T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T10:00:00.0000000",
+        "title":  "F1 Academy",
+        "desc":  "Frauenpower auf dem Weg in die Formel 1: Sky zeigt die F1 Academy. Welche Fahrerin setzt sich in der vierten Saison der Rennserie durch? Und wie schlÃ¤gt sich Mathilda Paatz? (Senderinfo).",
+        "end":  "2026-11-18T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T11:00:00.0000000",
+        "title":  "F1 Academy",
+        "desc":  "Frauenpower auf dem Weg in die Formel 1: Sky zeigt die F1 Academy. Welche Fahrerin setzt sich in der vierten Saison der Rennserie durch? Und wie schlÃ¤gt sich Mathilda Paatz? (Senderinfo).",
+        "end":  "2026-11-18T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T12:00:00.0000000",
+        "title":  "Formel 1: GroÃŸer Preis von Singapur",
+        "desc":  "Machtdemonstration: In Sepan holte Max Verstappen seinen ersten Saisonsieg. Zeigt der NiederlÃ¤nder auch in Singapur seine Klasse? (Senderinfo).",
+        "end":  "2026-11-18T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T13:00:00.0000000",
+        "title":  "Formel 1: GroÃŸer Preis von Singapur",
+        "desc":  "Machtdemonstration: In Sepan holte Max Verstappen seinen ersten Saisonsieg. Zeigt der NiederlÃ¤nder auch in Singapur seine Klasse? (Senderinfo).",
+        "end":  "2026-11-18T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T15:00:00.0000000",
+        "title":  "Formel 1: GroÃŸer Preis der USA",
+        "desc":  "WM-Chance in Austin: Kimi Antonelli kÃ¶nnte sich beim GroÃŸen Preis der USA bereits zum Weltmeister krÃ¶nen. Rast er zum Sieg? (Senderinfo).",
+        "end":  "2026-11-18T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T17:00:00.0000000",
+        "title":  "Formel 1: GroÃŸer Preis von Las Vegas",
+        "desc":  "Spektakel in Las Vegas: Nach dem Sieg in Brasilien ist Lando Norris auf WM-Titelkurs. Brilliert er auch in der US-Glitzerstadt? (Senderinfo).",
+        "end":  "2026-11-18T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T19:00:00.0000000",
+        "title":  "Formel 1: GroÃŸer Preis von Mexiko",
+        "desc":  "Weiter geht\u0027s in Mexiko-City: Die HÃ¶henluft in der mexikanischen Hauptstadt verlangt den F1-Fahrern alles ab. Wer fÃ¤hrt auf das Podium? (Senderinfo).",
+        "end":  "2026-11-18T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T21:00:00.0000000",
+        "title":  "Rallye: FIA-Weltmeisterschaft",
+        "desc":  "Der groÃŸe SaisonrÃ¼ckblick auf die WRC 2026: Welche Fahrer konnten dieses Jahr Ã¼berzeugen und den groÃŸen Sieg holen? (Senderinfo).",
+        "end":  "2026-11-18T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-18T22:00:00.0000000",
+        "title":  "Motorsport: IndyCar Series",
+        "desc":  "Motorsport aus Nordamerika: Sky zeigt alle Rennen der NTT IndyCar Series live â€“ die grÃ¶ÃŸte Rennserie der USA. Wer holt 2026 den groÃŸen Titel und wie schlÃ¤gt sich Mick Schumacher? (Senderinfo).",
+        "end":  "2026-11-19T00:00:00.0000000"
     }
 ]
