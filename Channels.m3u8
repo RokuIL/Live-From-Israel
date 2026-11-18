@@ -37,6 +37,9 @@ https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://103.253.74.210:7070/stream/124/index.m3u8
 
 #EXTINF:-1 tvg-id="465372" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png" group-title="US News" tvg-provider="WGP.ENG" tvg-backup-provider="XMLTV" tvg-backup-id="fox-news-hd",פוקס ניוז
+https://p14.usnlive.com/stream/foxnews.m3u8|Referer=https://usnewson.com
+
+#EXTINF:-1 tvg-id="465372" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png" group-title="US News" tvg-provider="WGP.ENG" tvg-backup-provider="XMLTV" tvg-backup-id="fox-news-hd",פוקס ניוז
 https://tvsen6.aynaott.com/foxnews/index.m3u8
 
 #EXTINF:-1 tvg-id="465150" tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ABCNews.jpg" group-title="US News" tvg-provider="WGP.ENG" tvg-backup-provider="XMLTV" tvg-backup-id="abc-news-us-hd",איי בי סי ניוז
