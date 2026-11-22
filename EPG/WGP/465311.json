@@ -1,290 +1,320 @@
 [
     {
-        "start":  "2026-11-21T00:00:00.0000000",
-        "title":  "Live: The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-11-21T01:00:00.0000000"
+        "start":  "2026-11-22T01:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Dallas Cowboys host the San Francisco 49ers in NFL regular-season play at AT\u0026T Stadium. San Francisco is tied with Buffalo for the league\u0027s best record at 7-1, while Dallas would love to even its record at 5-5 with an upset victory.",
+        "end":  "2026-11-22T04:00:00.0000000"
     },
     {
-        "start":  "2026-11-21T01:00:00.0000000",
+        "start":  "2026-11-22T04:00:00.0000000",
+        "title":  "NFL Matchup",
+        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
+        "end":  "2026-11-22T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-22T04:30:00.0000000",
+        "title":  "The Breakdown With Peyton and Kuechly",
+        "desc":  "Pro Football Hall of Famers Peyton Manning and Luke Kuechly go inside the film room to preview some of the biggest upcoming Monday Night Football games and matchups of the NFL season.",
+        "end":  "2026-11-22T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-22T05:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Las Vegas Raiders meet the Seattle Seahawks at Allegiant Stadium. Las Vegas (4-5) tries to halt a slide of five losses in the last six games, while 5-4 Seattle counts on its defense to grab the road win after allowing just three points last week.",
+        "end":  "2026-11-22T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-22T07:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Green Bay Packers host the Minnesota Vikings in an NFC North rivalry game at Lambeau Field. Minnesota has won four of the last five meetings, including a 39-22 win at U.S. Bank Stadium earlier this season, and Green Bay looks to even the series.",
+        "end":  "2026-11-22T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-22T10:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Dallas Cowboys host the San Francisco 49ers in NFL regular-season play at AT\u0026T Stadium. San Francisco is tied with Buffalo for the league\u0027s best record at 7-1, while Dallas would love to even its record at 5-5 with an upset victory.",
+        "end":  "2026-11-22T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-22T13:00:00.0000000",
+        "title":  "The Breakdown With Peyton and Kuechly",
+        "desc":  "Pro Football Hall of Famers Peyton Manning and Luke Kuechly go inside the film room to preview some of the biggest upcoming Monday Night Football games and matchups of the NFL season.",
+        "end":  "2026-11-22T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-22T13:30:00.0000000",
+        "title":  "NFL Matchup",
+        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
+        "end":  "2026-11-22T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-22T14:00:00.0000000",
+        "title":  "Live: NFL GameDay Morning",
+        "desc":  "Rich Eisen leads a cast of NFL talent through four hours of pregame hype, prepping viewers for the kickoffs of Sunday\u0027s games. Joining Eisen is Super Bowl champion Kurt Warner, former NFL head coach Steve Mariucci, and special guests each week to break down the matchups. The latest news from around the league, reports from game sites and interviews with players and coaches are featured, and inside",
+        "end":  "2026-11-22T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-22T18:00:00.0000000",
+        "title":  "NFL GameDay Live",
+        "desc":  "Expanding on NFL Network\u0027s \"GameDay\" programming on Sundays during football season, \"GameDay Live\" updates viewers on what\u0027s happening throughout the league. Beginning with kickoff of early-afternoon events and continuing throughout late-afternoon contests, the studio show offers nearly immediate highlights of scoring and other notable plays. But the program is about more than the action; it inter",
+        "end":  "2026-11-22T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-22T21:30:00.0000000",
+        "title":  "NFL GameDay Live",
+        "desc":  "Expanding on NFL Network\u0027s \"GameDay\" programming on Sundays during football season, \"GameDay Live\" updates viewers on what\u0027s happening throughout the league. Beginning with kickoff of early-afternoon events and continuing throughout late-afternoon contests, the studio show offers nearly immediate highlights of scoring and other notable plays. But the program is about more than the action; it inter",
+        "end":  "2026-11-23T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T00:30:00.0000000",
+        "title":  "Live: NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
+        "end":  "2026-11-23T01:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T01:30:00.0000000",
+        "title":  "NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
+        "end":  "2026-11-23T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T02:30:00.0000000",
+        "title":  "NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
+        "end":  "2026-11-23T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T03:30:00.0000000",
+        "title":  "NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
+        "end":  "2026-11-23T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T04:30:00.0000000",
+        "title":  "Live: NFL GameDay Final",
+        "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
+        "end":  "2026-11-23T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T05:30:00.0000000",
+        "title":  "NFL GameDay Final",
+        "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
+        "end":  "2026-11-23T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T06:30:00.0000000",
+        "title":  "NFL GameDay Final",
+        "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
+        "end":  "2026-11-23T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T07:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The San Francisco 49ers host the Minnesota Vikings in NFL regular-season play at Estadio Banorte. First in the NFC West at 8-1, San Francisco welcomes a Minnesota team that is 7-2 and has won two of the last three meetings between these teams.",
+        "end":  "2026-11-23T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T10:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
+        "end":  "2026-11-23T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T11:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
+        "end":  "2026-11-23T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T12:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
+        "end":  "2026-11-23T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T13:00:00.0000000",
+        "title":  "Live: Good Morning Football",
+        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
+        "end":  "2026-11-23T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T15:00:00.0000000",
+        "title":  "Good Morning Football",
+        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
+        "end":  "2026-11-23T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T17:00:00.0000000",
+        "title":  "Live: The Aftermath",
+        "desc":  "NFL highlights, news, information and analysis; review of Sunday\u0027s games; players\u0027 and coaches\u0027 press conferences.",
+        "end":  "2026-11-23T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T20:00:00.0000000",
+        "title":  "NFL Live",
+        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+        "end":  "2026-11-23T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T22:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+        "end":  "2026-11-23T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T23:00:00.0000000",
+        "title":  "Live: Monday Night Countdown",
+        "desc":  "Host Scott Van Pelt is joined by Ryan Clark, Jason Kelce, Marcus Spears, Adam Schefter and Michelle Beisner-Buck as they preview the Monday Night Football matchup and discuss the news from Sunday\u0027s NFL action.",
+        "end":  "2026-11-24T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T00:30:00.0000000",
+        "title":  "Live: NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
+        "end":  "2026-11-23T01:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T01:30:00.0000000",
+        "title":  "NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
+        "end":  "2026-11-23T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T02:30:00.0000000",
+        "title":  "NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
+        "end":  "2026-11-23T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T03:30:00.0000000",
+        "title":  "NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
+        "end":  "2026-11-23T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T04:30:00.0000000",
+        "title":  "Live: NFL GameDay Final",
+        "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
+        "end":  "2026-11-23T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T05:30:00.0000000",
+        "title":  "NFL GameDay Final",
+        "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
+        "end":  "2026-11-23T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T06:30:00.0000000",
+        "title":  "NFL GameDay Final",
+        "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
+        "end":  "2026-11-23T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T07:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The San Francisco 49ers host the Minnesota Vikings in NFL regular-season play at Estadio Banorte. First in the NFC West at 8-1, San Francisco welcomes a Minnesota team that is 7-2 and has won two of the last three meetings between these teams.",
+        "end":  "2026-11-23T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T10:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
+        "end":  "2026-11-23T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T11:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
+        "end":  "2026-11-23T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T12:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
+        "end":  "2026-11-23T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T13:00:00.0000000",
+        "title":  "Live: Good Morning Football",
+        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
+        "end":  "2026-11-23T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T15:00:00.0000000",
+        "title":  "Good Morning Football",
+        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
+        "end":  "2026-11-23T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T17:00:00.0000000",
+        "title":  "Live: The Aftermath",
+        "desc":  "NFL highlights, news, information and analysis; review of Sunday\u0027s games; players\u0027 and coaches\u0027 press conferences.",
+        "end":  "2026-11-23T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T20:00:00.0000000",
+        "title":  "NFL Live",
+        "desc":  "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The \"NFL Live\" crew entertains fans while offering all the latest news and analysis from across the NFL.",
+        "end":  "2026-11-23T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T22:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
+        "end":  "2026-11-23T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-23T23:00:00.0000000",
+        "title":  "Live: Monday Night Countdown",
+        "desc":  "Host Scott Van Pelt is joined by Ryan Clark, Jason Kelce, Marcus Spears, Adam Schefter and Michelle Beisner-Buck as they preview the Monday Night Football matchup and discuss the news from Sunday\u0027s NFL action.",
+        "end":  "2026-11-24T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-24T01:00:00.0000000",
         "title":  "NFL Football",
         "desc":  "Football action from around the National Football League.",
-        "end":  "2026-11-21T04:00:00.0000000"
+        "end":  "2026-11-24T04:00:00.0000000"
     },
     {
-        "start":  "2026-11-21T04:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-11-21T05:00:00.0000000"
+        "start":  "2026-11-24T04:00:00.0000000",
+        "title":  "NFL Mic\u0027d Up",
+        "desc":  "The unique and hilarious sound bites in NFL history.",
+        "end":  "2026-11-24T04:30:00.0000000"
     },
     {
-        "start":  "2026-11-21T05:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-11-21T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-21T06:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Dallas Cowboys host the San Francisco 49ers in NFL regular-season play at AT\u0026T Stadium. San Francisco is tied with Buffalo for the league\u0027s best record at 7-1, while Dallas would love to even its record at 5-5 with an upset victory.",
-        "end":  "2026-11-21T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-21T09:00:00.0000000",
-        "title":  "The Insiders",
-        "desc":  "NFL media insiders Ian Rapoport, Mike Garafolo and Tom Pelissero deliver the inside scoop and storylines of the week.",
-        "end":  "2026-11-21T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-21T10:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "desc":  "Fantasy experts share the latest news and analysis to help you dominate your fantasy matchup.",
-        "end":  "2026-11-21T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-21T11:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Houston Texans host the Indianapolis Colts in NFL regular-season play at Reliant Stadium. Indianapolis won the first matchup this year, 19-17, but Houston has won four of the past five meetings in the series to hold the recent head-to-head edge.",
-        "end":  "2026-11-21T13:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-21T13:30:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Green Bay Packers host the Minnesota Vikings in an NFC North rivalry game at Lambeau Field. Minnesota has won four of the last five meetings, including a 39-22 win at U.S. Bank Stadium earlier this season, and Green Bay looks to even the series.",
-        "end":  "2026-11-21T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-21T16:00:00.0000000",
-        "title":  "NFL Matchup",
-        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
-        "end":  "2026-11-21T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-21T16:30:00.0000000",
-        "title":  "NFL Network",
-        "desc":  "",
-        "end":  "2026-11-21T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-21T18:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Las Vegas Raiders meet the Seattle Seahawks at Allegiant Stadium. Las Vegas (4-5) tries to halt a slide of five losses in the last six games, while 5-4 Seattle counts on its defense to grab the road win after allowing just three points last week.",
-        "end":  "2026-11-21T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-21T20:30:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Cincinnati Bengals host the Pittsburgh Steelers in an AFC North game at Paycor Stadium. Both sides enter at 6-2 and winners of their last four regular-season games. The Steelers claimed a 30-27 victory in their meeting earlier this season.",
-        "end":  "2026-11-21T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-21T23:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Green Bay Packers host the Minnesota Vikings in an NFC North rivalry game at Lambeau Field. Minnesota has won four of the last five meetings, including a 39-22 win at U.S. Bank Stadium earlier this season, and Green Bay looks to even the series.",
-        "end":  "2026-11-22T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-22T01:30:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Dallas Cowboys host the San Francisco 49ers in NFL regular-season play at AT\u0026T Stadium. San Francisco is tied with Buffalo for the league\u0027s best record at 7-1, while Dallas would love to even its record at 5-5 with an upset victory.",
-        "end":  "2026-11-22T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-22T04:00:00.0000000",
-        "title":  "NFL Matchup",
-        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
-        "end":  "2026-11-22T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-22T04:30:00.0000000",
-        "title":  "The Breakdown With Peyton and Kuechly",
-        "desc":  "Pro Football Hall of Famers Peyton Manning and Luke Kuechly go inside the film room to preview some of the biggest upcoming Monday Night Football games and matchups of the NFL season.",
-        "end":  "2026-11-22T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-22T05:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Las Vegas Raiders meet the Seattle Seahawks at Allegiant Stadium. Las Vegas (4-5) tries to halt a slide of five losses in the last six games, while 5-4 Seattle counts on its defense to grab the road win after allowing just three points last week.",
-        "end":  "2026-11-22T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-22T07:30:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Green Bay Packers host the Minnesota Vikings in an NFC North rivalry game at Lambeau Field. Minnesota has won four of the last five meetings, including a 39-22 win at U.S. Bank Stadium earlier this season, and Green Bay looks to even the series.",
-        "end":  "2026-11-22T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-22T10:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Dallas Cowboys host the San Francisco 49ers in NFL regular-season play at AT\u0026T Stadium. San Francisco is tied with Buffalo for the league\u0027s best record at 7-1, while Dallas would love to even its record at 5-5 with an upset victory.",
-        "end":  "2026-11-22T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-22T13:00:00.0000000",
-        "title":  "The Breakdown With Peyton and Kuechly",
-        "desc":  "Pro Football Hall of Famers Peyton Manning and Luke Kuechly go inside the film room to preview some of the biggest upcoming Monday Night Football games and matchups of the NFL season.",
-        "end":  "2026-11-22T13:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-22T13:30:00.0000000",
-        "title":  "NFL Matchup",
-        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
-        "end":  "2026-11-22T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-22T14:00:00.0000000",
-        "title":  "Live: NFL GameDay Morning",
-        "desc":  "Rich Eisen leads a cast of NFL talent through four hours of pregame hype, prepping viewers for the kickoffs of Sunday\u0027s games. Joining Eisen is Super Bowl champion Kurt Warner, former NFL head coach Steve Mariucci, and special guests each week to break down the matchups. The latest news from around the league, reports from game sites and interviews with players and coaches are featured, and inside",
-        "end":  "2026-11-22T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-22T18:00:00.0000000",
-        "title":  "NFL GameDay Live",
-        "desc":  "Expanding on NFL Network\u0027s \"GameDay\" programming on Sundays during football season, \"GameDay Live\" updates viewers on what\u0027s happening throughout the league. Beginning with kickoff of early-afternoon events and continuing throughout late-afternoon contests, the studio show offers nearly immediate highlights of scoring and other notable plays. But the program is about more than the action; it inter",
-        "end":  "2026-11-22T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-22T21:30:00.0000000",
-        "title":  "NFL GameDay Live",
-        "desc":  "Expanding on NFL Network\u0027s \"GameDay\" programming on Sundays during football season, \"GameDay Live\" updates viewers on what\u0027s happening throughout the league. Beginning with kickoff of early-afternoon events and continuing throughout late-afternoon contests, the studio show offers nearly immediate highlights of scoring and other notable plays. But the program is about more than the action; it inter",
-        "end":  "2026-11-23T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-22T01:30:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Dallas Cowboys host the San Francisco 49ers in NFL regular-season play at AT\u0026T Stadium. San Francisco is tied with Buffalo for the league\u0027s best record at 7-1, while Dallas would love to even its record at 5-5 with an upset victory.",
-        "end":  "2026-11-22T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-22T04:00:00.0000000",
-        "title":  "NFL Matchup",
-        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
-        "end":  "2026-11-22T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-22T04:30:00.0000000",
-        "title":  "The Breakdown With Peyton and Kuechly",
-        "desc":  "Pro Football Hall of Famers Peyton Manning and Luke Kuechly go inside the film room to preview some of the biggest upcoming Monday Night Football games and matchups of the NFL season.",
-        "end":  "2026-11-22T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-22T05:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Las Vegas Raiders meet the Seattle Seahawks at Allegiant Stadium. Las Vegas (4-5) tries to halt a slide of five losses in the last six games, while 5-4 Seattle counts on its defense to grab the road win after allowing just three points last week.",
-        "end":  "2026-11-22T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-22T07:30:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Green Bay Packers host the Minnesota Vikings in an NFC North rivalry game at Lambeau Field. Minnesota has won four of the last five meetings, including a 39-22 win at U.S. Bank Stadium earlier this season, and Green Bay looks to even the series.",
-        "end":  "2026-11-22T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-22T10:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Dallas Cowboys host the San Francisco 49ers in NFL regular-season play at AT\u0026T Stadium. San Francisco is tied with Buffalo for the league\u0027s best record at 7-1, while Dallas would love to even its record at 5-5 with an upset victory.",
-        "end":  "2026-11-22T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-22T13:00:00.0000000",
-        "title":  "The Breakdown With Peyton and Kuechly",
-        "desc":  "Pro Football Hall of Famers Peyton Manning and Luke Kuechly go inside the film room to preview some of the biggest upcoming Monday Night Football games and matchups of the NFL season.",
-        "end":  "2026-11-22T13:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-22T13:30:00.0000000",
-        "title":  "NFL Matchup",
-        "desc":  "Sal Paolantonio, Matt Bowen and Greg Cosell bring viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
-        "end":  "2026-11-22T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-22T14:00:00.0000000",
-        "title":  "Live: NFL GameDay Morning",
-        "desc":  "Rich Eisen leads a cast of NFL talent through four hours of pregame hype, prepping viewers for the kickoffs of Sunday\u0027s games. Joining Eisen is Super Bowl champion Kurt Warner, former NFL head coach Steve Mariucci, and special guests each week to break down the matchups. The latest news from around the league, reports from game sites and interviews with players and coaches are featured, and inside",
-        "end":  "2026-11-22T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-22T18:00:00.0000000",
-        "title":  "NFL GameDay Live",
-        "desc":  "Expanding on NFL Network\u0027s \"GameDay\" programming on Sundays during football season, \"GameDay Live\" updates viewers on what\u0027s happening throughout the league. Beginning with kickoff of early-afternoon events and continuing throughout late-afternoon contests, the studio show offers nearly immediate highlights of scoring and other notable plays. But the program is about more than the action; it inter",
-        "end":  "2026-11-22T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-22T21:30:00.0000000",
-        "title":  "NFL GameDay Live",
-        "desc":  "Expanding on NFL Network\u0027s \"GameDay\" programming on Sundays during football season, \"GameDay Live\" updates viewers on what\u0027s happening throughout the league. Beginning with kickoff of early-afternoon events and continuing throughout late-afternoon contests, the studio show offers nearly immediate highlights of scoring and other notable plays. But the program is about more than the action; it inter",
-        "end":  "2026-11-23T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-23T00:30:00.0000000",
-        "title":  "Live: NFL GameDay Highlights",
-        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
-        "end":  "2026-11-23T01:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-23T01:30:00.0000000",
-        "title":  "NFL GameDay Highlights",
-        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
-        "end":  "2026-11-23T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-23T02:30:00.0000000",
-        "title":  "NFL GameDay Highlights",
-        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
-        "end":  "2026-11-23T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-23T03:30:00.0000000",
-        "title":  "NFL GameDay Highlights",
-        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
-        "end":  "2026-11-23T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-23T04:30:00.0000000",
+        "start":  "2026-11-24T04:30:00.0000000",
         "title":  "Live: NFL GameDay Final",
         "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
-        "end":  "2026-11-23T05:30:00.0000000"
+        "end":  "2026-11-24T05:30:00.0000000"
     },
     {
-        "start":  "2026-11-23T05:30:00.0000000",
-        "title":  "NFL GameDay Final",
-        "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
-        "end":  "2026-11-24T00:00:00.0000000"
+        "start":  "2026-11-24T05:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Washington Commanders host the Cincinnati Bengals in NFL regular-season play at Northwest Stadium. Cincinnati arrives at 7-2 and winner of five straight, while Washington sits at 3-5-1 after alternating wins and losses over its last four games.",
+        "end":  "2026-11-25T00:00:00.0000000"
     },
     {
-        "start":  "2026-11-23T00:30:00.0000000",
-        "title":  "Live: NFL GameDay Highlights",
-        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
-        "end":  "2026-11-23T01:30:00.0000000"
+        "start":  "2026-11-24T01:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "Football action from around the National Football League.",
+        "end":  "2026-11-24T04:00:00.0000000"
     },
     {
-        "start":  "2026-11-23T01:30:00.0000000",
-        "title":  "NFL GameDay Highlights",
-        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
-        "end":  "2026-11-23T02:30:00.0000000"
+        "start":  "2026-11-24T04:00:00.0000000",
+        "title":  "NFL Mic\u0027d Up",
+        "desc":  "The unique and hilarious sound bites in NFL history.",
+        "end":  "2026-11-24T04:30:00.0000000"
     },
     {
-        "start":  "2026-11-23T02:30:00.0000000",
-        "title":  "NFL GameDay Highlights",
-        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
-        "end":  "2026-11-23T03:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-23T03:30:00.0000000",
-        "title":  "NFL GameDay Highlights",
-        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
-        "end":  "2026-11-23T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-23T04:30:00.0000000",
+        "start":  "2026-11-24T04:30:00.0000000",
         "title":  "Live: NFL GameDay Final",
         "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
-        "end":  "2026-11-23T05:30:00.0000000"
+        "end":  "2026-11-24T05:30:00.0000000"
     },
     {
-        "start":  "2026-11-23T05:30:00.0000000",
-        "title":  "NFL GameDay Final",
-        "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
-        "end":  "2026-11-24T00:00:00.0000000"
+        "start":  "2026-11-24T05:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Washington Commanders host the Cincinnati Bengals in NFL regular-season play at Northwest Stadium. Cincinnati arrives at 7-2 and winner of five straight, while Washington sits at 3-5-1 after alternating wins and losses over its last four games.",
+        "end":  "2026-11-25T00:00:00.0000000"
     }
 ]
