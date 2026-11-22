@@ -77,3 +77,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreakingnew
 
 #EXTINF:-1 tvg-id="שידור חדשות חי, או הקלטת החדשות האחרונות." tvg-name="Q13 News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Q13News.png" group-title="US News" tvg-provider="Text",חדשות קיו 13
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13seattlekcpq-vizious/playlist.m3u8?did=%7bADID%7d&us-privacy=%7bUSPRIVACY%7d&ifa-type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app-name=%7bAPP-NAME%7d&app-bundle=%7bAPP-BUNDLE%7d&app-store-url=%7bAPP-STORE-URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device-make=%7bDEVICE-MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAzODYwOTY1MH0
+
+#EXTINF:-1 tvg-id="DroneTV" tvg-name="DroneTV" tvg-logo="https://i.ibb.co/S71C9RJC/dronetv.webp" group-title="Relax",DroneTV
+https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Home" tvg-name="Home" tvg-logo="https://i.imgur.com/3UXk7JR.png" group-title="Relax",Home
+http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Space Live" tvg-name="Space Live" tvg-logo="https://static.frequency.com/studio/itv/channels/1224-400x200.png" group-title="Relax",Space Live
+https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8
