@@ -1,314 +1,176 @@
 [
     {
-        "start":  "2026-11-23T00:30:00.0000000",
-        "title":  "Endurocross",
-        "desc":  "Endurocross combines motocross and obstacles of an enduro, in the confines of an indoor arena.",
-        "end":  "2026-11-23T01:30:00.0000000"
+        "start":  "2026-11-24T00:00:00.0000000",
+        "title":  "AMA National Arenacross Championship",
+        "desc":  "Highlights and replays of motorcycle racing action from the National Arenacross Championship series.",
+        "end":  "2026-11-24T01:00:00.0000000"
     },
     {
-        "start":  "2026-11-23T01:30:00.0000000",
-        "title":  "MotoGP Racing",
-        "desc":  "From Algarve International Circuit in PortimÃ£o, Algarve, Portugal.",
-        "end":  "2026-11-23T02:00:00.0000000"
+        "start":  "2026-11-24T01:00:00.0000000",
+        "title":  "The Climbing Post",
+        "desc":  "A look at the second half of the European tour; the athletes need to keep cool and calm as titles are on the line in this closely contested series.",
+        "end":  "2026-11-24T02:00:00.0000000"
     },
     {
-        "start":  "2026-11-23T02:00:00.0000000",
-        "title":  "MotoGP Racing",
-        "desc":  "From Algarve International Circuit in PortimÃ£o, Algarve, Portugal.",
-        "end":  "2026-11-23T03:00:00.0000000"
+        "start":  "2026-11-24T02:00:00.0000000",
+        "title":  "The Climbing Post",
+        "desc":  "As the 2026 season ends, athletes vie for points to win the title. World Climbing heads to a new country as things heat up in South America.",
+        "end":  "2026-11-24T03:00:00.0000000"
     },
     {
-        "start":  "2026-11-23T03:00:00.0000000",
-        "title":  "Live: SpeedFreaks",
-        "desc":  "Go in-depth with the big names in racing, showcasing a side of these athletes rarely seen with a unique interview style and flair combining elements of commentary, entertainment and lifestyle.",
-        "end":  "2026-11-23T04:00:00.0000000"
+        "start":  "2026-11-24T03:00:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "40 years and running the National Chuckwagon Races is a sporting event that moves at its own pace; in a world where everything is designed to be flashy and fast - these races remind us that ole sturdy and reliable wagons can still go pretty fast too.",
+        "end":  "2026-11-24T04:00:00.0000000"
     },
     {
-        "start":  "2026-11-23T04:00:00.0000000",
+        "start":  "2026-11-24T04:00:00.0000000",
+        "title":  "Wild World of Western Sports",
+        "desc":  "Wild World heads as far west in the continental United States as possible with a one-of-a-kind rodeo right on the beautiful coastline of California; the Pacific Ocean is the ultimate western backdrop for breakaway roping and saddle bronc riding.",
+        "end":  "2026-11-24T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-24T05:00:00.0000000",
+        "title":  "The Gronk \u0026 Jules Show",
+        "desc":  "Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
+        "end":  "2026-11-24T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-24T05:30:00.0000000",
+        "title":  "College Football",
+        "desc":  "The No. 2 Utah Utes (10-0, 7-0 Big 12) visit the TCU Horned Frogs (5-5, 3-4) in Fort Worth. Undefeated Utah enters after edging Arizona 40-39 on the road, while TCU seeks back-to-back wins at home following a 20-10 victory over Kansas State.",
+        "end":  "2026-11-24T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-24T08:30:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Baylor Bears host the No. 12 Texas Tech Red Raiders at McLane Stadium in a Big 12 matchup. Texas Tech aims for a four-game win streak after defeating Oklahoma State 52-27, while Baylor broke a two-game win streak with a 28-7 loss against BYU.",
+        "end":  "2026-11-24T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-24T11:30:00.0000000",
+        "title":  "College Football",
+        "desc":  "The No. 13 Oregon Ducks visit the Michigan State Spartans for an NCAA Division I FBS game. Oregon rides a three-game win streak with Dylan Raiola, while Michigan State lost 21-14 to Washington on Nov. 14 with Alessio Milivojevic in the Big Ten.",
+        "end":  "2026-11-24T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-24T12:30:00.0000000",
+        "title":  "College Football",
+        "desc":  "The No. 14 Buckeyes (7-3, 5-2 Big Ten) face the Cornhuskers (6-4, 3-4) at Memorial Stadium. Ohio State enters after a 28-19 victory against Northwestern behind Luke Fahey, while Nebraska snapped a skid and beat Rutgers for a shutout 31-0 win.",
+        "end":  "2026-11-24T13:18:00.0000000"
+    },
+    {
+        "start":  "2026-11-24T13:18:00.0000000",
+        "title":  "Live: 2026 FIFA U-17 World Cup",
+        "desc":  "Group K.",
+        "end":  "2026-11-24T15:18:00.0000000"
+    },
+    {
+        "start":  "2026-11-24T15:18:00.0000000",
+        "title":  "Live: 2026 FIFA U-17 World Cup",
+        "desc":  "Group L.",
+        "end":  "2026-11-24T17:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-24T17:30:00.0000000",
+        "title":  "Speed With Harvick \u0026 Buxton",
+        "desc":  "Let\u0027s talk racing; Kevin Harvick and Will Buxton celebrate the world of motorsports.",
+        "end":  "2026-11-24T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-24T18:30:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "From Suncoast Credit Union Arena in Fort Myers, Fla.",
+        "end":  "2026-11-24T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-24T20:30:00.0000000",
+        "title":  "College Football",
+        "desc":  "The No. 2 Utah Utes (10-0, 7-0 Big 12) visit the TCU Horned Frogs (5-5, 3-4) in Fort Worth. Undefeated Utah enters after edging Arizona 40-39 on the road, while TCU seeks back-to-back wins at home following a 20-10 victory over Kansas State.",
+        "end":  "2026-11-24T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-24T23:30:00.0000000",
+        "title":  "The Gronk \u0026 Jules Show",
+        "desc":  "Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
+        "end":  "2026-11-25T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-25T00:00:00.0000000",
         "title":  "MLS Soccer",
-        "desc":  "From SeatGeek Stadium in Bridgeview, Ill.",
-        "end":  "2026-11-23T06:00:00.0000000"
+        "desc":  "St. Louis CITY SC host LAFC in Game 1 of a Western Conference playoff series at Energizer Park. Third in the West, St. Louis beat LAFC 2-1 here in May, but the LAFC arrives with an edge after winning four of the last five meetings.",
+        "end":  "2026-11-25T02:00:00.0000000"
     },
     {
-        "start":  "2026-11-23T06:00:00.0000000",
+        "start":  "2026-11-25T02:00:00.0000000",
+        "title":  "UEFA Nations League Magazine",
+        "desc":  "The official magazine show highlighting matches, star players, team previews and exclusive interviews surrounding the UEFA Nations League.",
+        "end":  "2026-11-25T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-25T03:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The No. 13 Oregon Ducks visit the Michigan State Spartans for an NCAA Division I FBS game. Oregon rides a three-game win streak with Dylan Raiola, while Michigan State lost 21-14 to Washington on Nov. 14 with Alessio Milivojevic in the Big Ten.",
+        "end":  "2026-11-25T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-25T06:00:00.0000000",
         "title":  "Women\u0027s College Basketball",
-        "desc":  "The Creighton Bluejays meet the No. 23 Nebraska Cornhuskers. Creighton relies on Ava Zediker after her 19-point outing in a 74-53 win, while 5-0 Nebraska counts on Natalie Potts following her 18-point, 10-rebound double-double in a 113-37 victory.",
-        "end":  "2026-11-23T08:00:00.0000000"
+        "desc":  "The No. 1 South Carolina Gamecocks and the No. 7 UConn Huskies face off in the Basketball Hall of Fame Women\u0027s Showcase at Mohegan Sun Arena. UConn enters this matchup after defeating Seton Hall 83-43, while South Carolina have a perfect 6-0 record.",
+        "end":  "2026-11-25T08:00:00.0000000"
     },
     {
-        "start":  "2026-11-23T08:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 2 Utah Utes (10-0, 7-0 Big 12) visit the TCU Horned Frogs (5-5, 3-4) in Fort Worth. Undefeated Utah enters after edging Arizona 40-39 on the road, while TCU seeks back-to-back wins at home following a 20-10 victory over Kansas State.",
-        "end":  "2026-11-23T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-23T11:00:00.0000000",
-        "title":  "Professional Triathletes Organisation",
-        "desc":  "Kate and Paula excel at T100 Vancouver, with an intense race and disputed finish.",
-        "end":  "2026-11-23T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-23T11:30:00.0000000",
-        "title":  "Professional Triathletes Organisation",
-        "desc":  "Hayden Wilde seeks redemption, Jelle Geens chases his rival in race to Qatar at French Riviera.",
-        "end":  "2026-11-23T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-23T12:00:00.0000000",
-        "title":  "Professional Triathletes Organisation",
-        "desc":  "Professional triathletes strive to reach the highest levels of the sport while inspiring all triathletes, from the experienced age groupers to the newbies.",
-        "end":  "2026-11-23T12:18:00.0000000"
-    },
-    {
-        "start":  "2026-11-23T12:18:00.0000000",
-        "title":  "Live: 2026 FIFA U-17 World Cup",
-        "desc":  "Group H.",
-        "end":  "2026-11-23T14:18:00.0000000"
-    },
-    {
-        "start":  "2026-11-23T14:18:00.0000000",
-        "title":  "Live: 2026 FIFA U-17 World Cup",
-        "desc":  "Group E.",
-        "end":  "2026-11-23T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-23T16:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Minnesota Golden Gophers (5-5) host the Northwestern Wildcats (6-4) at Huntington Bank Stadium in a Big Ten game. Both sides aim to break a three-game skid. Northwestern lost against Ohio State 28-19, while Minnesota fell to Penn State 42-14.",
-        "end":  "2026-11-23T19:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-23T19:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 14 Buckeyes (7-3, 5-2 Big Ten) face the Cornhuskers (6-4, 3-4) at Memorial Stadium. Ohio State enters after a 28-19 victory against Northwestern behind Luke Fahey, while Nebraska snapped a skid and beat Rutgers for a shutout 31-0 win.",
-        "end":  "2026-11-23T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-23T22:30:00.0000000",
-        "title":  "MotoGP Racing",
-        "desc":  "From Algarve International Circuit in PortimÃ£o, Algarve, Portugal.",
-        "end":  "2026-11-23T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-23T23:00:00.0000000",
-        "title":  "MotoGP Racing",
-        "desc":  "From Algarve International Circuit in PortimÃ£o, Algarve, Portugal.",
-        "end":  "2026-11-24T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T00:00:00.0000000",
-        "title":  "AMA National Arenacross Championship",
-        "desc":  "Highlights and replays of motorcycle racing action from the National Arenacross Championship series.",
-        "end":  "2026-11-24T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T01:00:00.0000000",
-        "title":  "The Climbing Post",
-        "desc":  "A look at the second half of the European tour; the athletes need to keep cool and calm as titles are on the line in this closely contested series.",
-        "end":  "2026-11-24T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T02:00:00.0000000",
-        "title":  "The Climbing Post",
-        "desc":  "As the 2026 season ends, athletes vie for points to win the title. World Climbing heads to a new country as things heat up in South America.",
-        "end":  "2026-11-24T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T03:00:00.0000000",
-        "title":  "Wild World of Western Sports",
-        "desc":  "40 years and running the National Chuckwagon Races is a sporting event that moves at its own pace; in a world where everything is designed to be flashy and fast - these races remind us that ole sturdy and reliable wagons can still go pretty fast too.",
-        "end":  "2026-11-24T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T04:00:00.0000000",
-        "title":  "Wild World of Western Sports",
-        "desc":  "Wild World heads as far west in the continental United States as possible with a one-of-a-kind rodeo right on the beautiful coastline of California; the Pacific Ocean is the ultimate western backdrop for breakaway roping and saddle bronc riding.",
-        "end":  "2026-11-24T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T05:00:00.0000000",
-        "title":  "The Gronk \u0026 Jules Show",
-        "desc":  "Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
-        "end":  "2026-11-24T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T05:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 2 Utah Utes (10-0, 7-0 Big 12) visit the TCU Horned Frogs (5-5, 3-4) in Fort Worth. Undefeated Utah enters after edging Arizona 40-39 on the road, while TCU seeks back-to-back wins at home following a 20-10 victory over Kansas State.",
-        "end":  "2026-11-24T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T08:30:00.0000000",
+        "start":  "2026-11-25T08:00:00.0000000",
         "title":  "College Football",
         "desc":  "The Baylor Bears host the No. 12 Texas Tech Red Raiders at McLane Stadium in a Big 12 matchup. Texas Tech aims for a four-game win streak after defeating Oklahoma State 52-27, while Baylor broke a two-game win streak with a 28-7 loss against BYU.",
-        "end":  "2026-11-24T11:30:00.0000000"
+        "end":  "2026-11-25T11:00:00.0000000"
     },
     {
-        "start":  "2026-11-24T11:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 13 Oregon Ducks visit the Michigan State Spartans for an NCAA Division I FBS game. Oregon rides a three-game win streak with Dylan Raiola, while Michigan State lost 21-14 to Washington on Nov. 14 with Alessio Milivojevic in the Big Ten.",
-        "end":  "2026-11-24T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T12:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 14 Buckeyes (7-3, 5-2 Big Ten) face the Cornhuskers (6-4, 3-4) at Memorial Stadium. Ohio State enters after a 28-19 victory against Northwestern behind Luke Fahey, while Nebraska snapped a skid and beat Rutgers for a shutout 31-0 win.",
-        "end":  "2026-11-24T13:18:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T13:18:00.0000000",
-        "title":  "Live: 2026 FIFA U-17 World Cup",
-        "desc":  "Group K.",
-        "end":  "2026-11-24T15:18:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T15:18:00.0000000",
-        "title":  "Live: 2026 FIFA U-17 World Cup",
-        "desc":  "Group L.",
-        "end":  "2026-11-24T17:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T17:30:00.0000000",
-        "title":  "Speed With Harvick \u0026 Buxton",
-        "desc":  "Let\u0027s talk racing; Kevin Harvick and Will Buxton celebrate the world of motorsports.",
-        "end":  "2026-11-24T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T18:30:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "From Suncoast Credit Union Arena in Fort Myers, Fla.",
-        "end":  "2026-11-24T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T20:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 2 Utah Utes (10-0, 7-0 Big 12) visit the TCU Horned Frogs (5-5, 3-4) in Fort Worth. Undefeated Utah enters after edging Arizona 40-39 on the road, while TCU seeks back-to-back wins at home following a 20-10 victory over Kansas State.",
-        "end":  "2026-11-24T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T23:30:00.0000000",
+        "start":  "2026-11-25T11:00:00.0000000",
         "title":  "The Gronk \u0026 Jules Show",
         "desc":  "Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
-        "end":  "2026-11-25T00:00:00.0000000"
+        "end":  "2026-11-25T11:30:00.0000000"
     },
     {
-        "start":  "2026-11-25T00:00:00.0000000",
+        "start":  "2026-11-25T11:30:00.0000000",
         "title":  "MLS Soccer",
-        "desc":  "St. Louis CITY SC host LAFC in Game 1 of a Western Conference playoff series at Energizer Park. Third in the West, St. Louis beat LAFC 2-1 here in May, but the LAFC arrives with an edge after winning four of the last five meetings.",
-        "end":  "2026-11-26T00:00:00.0000000"
+        "desc":  "San Jose Earthquakes host Houston Dynamo FC in MLS Western Conference playoff Round One at PayPal Park. Both sides arrive with recent losses, with San Jose having won the last meeting between these two, 1-0 at this same venue in September.",
+        "end":  "2026-11-25T13:18:00.0000000"
     },
     {
-        "start":  "2026-11-24T00:00:00.0000000",
-        "title":  "AMA National Arenacross Championship",
-        "desc":  "Highlights and replays of motorcycle racing action from the National Arenacross Championship series.",
-        "end":  "2026-11-24T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T01:00:00.0000000",
-        "title":  "The Climbing Post",
-        "desc":  "A look at the second half of the European tour; the athletes need to keep cool and calm as titles are on the line in this closely contested series.",
-        "end":  "2026-11-24T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T02:00:00.0000000",
-        "title":  "The Climbing Post",
-        "desc":  "As the 2026 season ends, athletes vie for points to win the title. World Climbing heads to a new country as things heat up in South America.",
-        "end":  "2026-11-24T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T03:00:00.0000000",
-        "title":  "Wild World of Western Sports",
-        "desc":  "40 years and running the National Chuckwagon Races is a sporting event that moves at its own pace; in a world where everything is designed to be flashy and fast - these races remind us that ole sturdy and reliable wagons can still go pretty fast too.",
-        "end":  "2026-11-24T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T04:00:00.0000000",
-        "title":  "Wild World of Western Sports",
-        "desc":  "Wild World heads as far west in the continental United States as possible with a one-of-a-kind rodeo right on the beautiful coastline of California; the Pacific Ocean is the ultimate western backdrop for breakaway roping and saddle bronc riding.",
-        "end":  "2026-11-24T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T05:00:00.0000000",
-        "title":  "The Gronk \u0026 Jules Show",
-        "desc":  "Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
-        "end":  "2026-11-24T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T05:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 2 Utah Utes (10-0, 7-0 Big 12) visit the TCU Horned Frogs (5-5, 3-4) in Fort Worth. Undefeated Utah enters after edging Arizona 40-39 on the road, while TCU seeks back-to-back wins at home following a 20-10 victory over Kansas State.",
-        "end":  "2026-11-24T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T08:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The Baylor Bears host the No. 12 Texas Tech Red Raiders at McLane Stadium in a Big 12 matchup. Texas Tech aims for a four-game win streak after defeating Oklahoma State 52-27, while Baylor broke a two-game win streak with a 28-7 loss against BYU.",
-        "end":  "2026-11-24T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T11:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 13 Oregon Ducks visit the Michigan State Spartans for an NCAA Division I FBS game. Oregon rides a three-game win streak with Dylan Raiola, while Michigan State lost 21-14 to Washington on Nov. 14 with Alessio Milivojevic in the Big Ten.",
-        "end":  "2026-11-24T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T12:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 14 Buckeyes (7-3, 5-2 Big Ten) face the Cornhuskers (6-4, 3-4) at Memorial Stadium. Ohio State enters after a 28-19 victory against Northwestern behind Luke Fahey, while Nebraska snapped a skid and beat Rutgers for a shutout 31-0 win.",
-        "end":  "2026-11-24T13:18:00.0000000"
-    },
-    {
-        "start":  "2026-11-24T13:18:00.0000000",
+        "start":  "2026-11-25T13:18:00.0000000",
         "title":  "Live: 2026 FIFA U-17 World Cup",
-        "desc":  "Group K.",
-        "end":  "2026-11-24T15:18:00.0000000"
+        "desc":  "Group D.",
+        "end":  "2026-11-25T15:18:00.0000000"
     },
     {
-        "start":  "2026-11-24T15:18:00.0000000",
+        "start":  "2026-11-25T15:18:00.0000000",
         "title":  "Live: 2026 FIFA U-17 World Cup",
-        "desc":  "Group L.",
-        "end":  "2026-11-24T17:30:00.0000000"
+        "desc":  "Group C.",
+        "end":  "2026-11-25T17:30:00.0000000"
     },
     {
-        "start":  "2026-11-24T17:30:00.0000000",
-        "title":  "Speed With Harvick \u0026 Buxton",
-        "desc":  "Let\u0027s talk racing; Kevin Harvick and Will Buxton celebrate the world of motorsports.",
-        "end":  "2026-11-24T18:30:00.0000000"
+        "start":  "2026-11-25T17:30:00.0000000",
+        "title":  "College Basketball",
+        "desc":  "The Pittsburgh Panthers and Oklahoma Sooners face off in the 2026 Fort Myers Tip-Off at Suncoast Credit Union Arena. Oklahoma aims for a five-game win streak behind Xzayvier Brown, while Pittsburgh enters with a perfect 6-0 record.",
+        "end":  "2026-11-25T19:30:00.0000000"
     },
     {
-        "start":  "2026-11-24T18:30:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "From Suncoast Credit Union Arena in Fort Myers, Fla.",
-        "end":  "2026-11-24T20:30:00.0000000"
+        "start":  "2026-11-25T19:30:00.0000000",
+        "title":  "College Basketball",
+        "desc":  "The Purdue Boilermakers and DePaul Blue Demons face off in the 2026 Fort Myers Tip-Off at Suncoast Credit Union Arena. DePaul enters this matchup with a perfect 5-0 record, while Purdue aims for five straight wins behind Daniel Jacobsen.",
+        "end":  "2026-11-25T21:30:00.0000000"
     },
     {
-        "start":  "2026-11-24T20:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 2 Utah Utes (10-0, 7-0 Big 12) visit the TCU Horned Frogs (5-5, 3-4) in Fort Worth. Undefeated Utah enters after edging Arizona 40-39 on the road, while TCU seeks back-to-back wins at home following a 20-10 victory over Kansas State.",
-        "end":  "2026-11-24T23:30:00.0000000"
+        "start":  "2026-11-25T21:30:00.0000000",
+        "title":  "Women\u0027s College Basketball",
+        "desc":  "The No. 1 South Carolina Gamecocks and the No. 7 UConn Huskies face off in the Basketball Hall of Fame Women\u0027s Showcase at Mohegan Sun Arena. UConn enters this matchup after defeating Seton Hall 83-43, while South Carolina have a perfect 6-0 record.",
+        "end":  "2026-11-25T23:30:00.0000000"
     },
     {
-        "start":  "2026-11-24T23:30:00.0000000",
-        "title":  "The Gronk \u0026 Jules Show",
-        "desc":  "Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
-        "end":  "2026-11-25T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T00:00:00.0000000",
-        "title":  "MLS Soccer",
-        "desc":  "St. Louis CITY SC host LAFC in Game 1 of a Western Conference playoff series at Energizer Park. Third in the West, St. Louis beat LAFC 2-1 here in May, but the LAFC arrives with an edge after winning four of the last five meetings.",
-        "end":  "2026-11-25T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T02:00:00.0000000",
+        "start":  "2026-11-25T23:30:00.0000000",
         "title":  "UEFA Nations League Magazine",
         "desc":  "The official magazine show highlighting matches, star players, team previews and exclusive interviews surrounding the UEFA Nations League.",
-        "end":  "2026-11-25T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T03:00:00.0000000",
-        "title":  "College Football",
-        "desc":  "The No. 13 Oregon Ducks visit the Michigan State Spartans for an NCAA Division I FBS game. Oregon rides a three-game win streak with Dylan Raiola, while Michigan State lost 21-14 to Washington on Nov. 14 with Alessio Milivojevic in the Big Ten.",
         "end":  "2026-11-26T00:00:00.0000000"
     },
     {
@@ -327,6 +189,102 @@
         "start":  "2026-11-25T03:00:00.0000000",
         "title":  "College Football",
         "desc":  "The No. 13 Oregon Ducks visit the Michigan State Spartans for an NCAA Division I FBS game. Oregon rides a three-game win streak with Dylan Raiola, while Michigan State lost 21-14 to Washington on Nov. 14 with Alessio Milivojevic in the Big Ten.",
+        "end":  "2026-11-25T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-25T06:00:00.0000000",
+        "title":  "Women\u0027s College Basketball",
+        "desc":  "The No. 1 South Carolina Gamecocks and the No. 7 UConn Huskies face off in the Basketball Hall of Fame Women\u0027s Showcase at Mohegan Sun Arena. UConn enters this matchup after defeating Seton Hall 83-43, while South Carolina have a perfect 6-0 record.",
+        "end":  "2026-11-25T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-25T08:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Baylor Bears host the No. 12 Texas Tech Red Raiders at McLane Stadium in a Big 12 matchup. Texas Tech aims for a four-game win streak after defeating Oklahoma State 52-27, while Baylor broke a two-game win streak with a 28-7 loss against BYU.",
+        "end":  "2026-11-25T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-25T11:00:00.0000000",
+        "title":  "The Gronk \u0026 Jules Show",
+        "desc":  "Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.",
+        "end":  "2026-11-25T11:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-25T11:30:00.0000000",
+        "title":  "MLS Soccer",
+        "desc":  "San Jose Earthquakes host Houston Dynamo FC in MLS Western Conference playoff Round One at PayPal Park. Both sides arrive with recent losses, with San Jose having won the last meeting between these two, 1-0 at this same venue in September.",
+        "end":  "2026-11-25T13:18:00.0000000"
+    },
+    {
+        "start":  "2026-11-25T13:18:00.0000000",
+        "title":  "Live: 2026 FIFA U-17 World Cup",
+        "desc":  "Group D.",
+        "end":  "2026-11-25T15:18:00.0000000"
+    },
+    {
+        "start":  "2026-11-25T15:18:00.0000000",
+        "title":  "Live: 2026 FIFA U-17 World Cup",
+        "desc":  "Group C.",
+        "end":  "2026-11-25T17:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-25T17:30:00.0000000",
+        "title":  "College Basketball",
+        "desc":  "The Pittsburgh Panthers and Oklahoma Sooners face off in the 2026 Fort Myers Tip-Off at Suncoast Credit Union Arena. Oklahoma aims for a five-game win streak behind Xzayvier Brown, while Pittsburgh enters with a perfect 6-0 record.",
+        "end":  "2026-11-25T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-25T19:30:00.0000000",
+        "title":  "College Basketball",
+        "desc":  "The Purdue Boilermakers and DePaul Blue Demons face off in the 2026 Fort Myers Tip-Off at Suncoast Credit Union Arena. DePaul enters this matchup with a perfect 5-0 record, while Purdue aims for five straight wins behind Daniel Jacobsen.",
+        "end":  "2026-11-25T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-25T21:30:00.0000000",
+        "title":  "Women\u0027s College Basketball",
+        "desc":  "The No. 1 South Carolina Gamecocks and the No. 7 UConn Huskies face off in the Basketball Hall of Fame Women\u0027s Showcase at Mohegan Sun Arena. UConn enters this matchup after defeating Seton Hall 83-43, while South Carolina have a perfect 6-0 record.",
+        "end":  "2026-11-25T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-25T23:30:00.0000000",
+        "title":  "UEFA Nations League Magazine",
+        "desc":  "The official magazine show highlighting matches, star players, team previews and exclusive interviews surrounding the UEFA Nations League.",
         "end":  "2026-11-26T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T00:30:00.0000000",
+        "title":  "Women\u0027s Football Weekly",
+        "desc":  "Discover the best of the action from the top divisions of women\u0027s football in Italy, Germany and the Netherlands with this brand-new highlights show.",
+        "end":  "2026-11-26T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T01:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The New Mexico Lobos visit the Wyoming Cowboys for an NCAA Division I FBS conference game. New Mexico lost 21-17 to UNLV on Nov. 14 with Toa Fa\u0027avae, while the Wyoming Cowboys ride a five-game win streak with Tyler Hughes in MWC action.",
+        "end":  "2026-11-26T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T04:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Kansas State Wildcats (4-6) host the No. 19 Arizona Wildcats (7-3) at Bill Snyder Family Stadium in a Big 12 Conference game. Kansas State aims to break a four-game losing streak, while Arizona has an alternate win-loss record in their last four.",
+        "end":  "2026-11-27T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T00:30:00.0000000",
+        "title":  "Women\u0027s Football Weekly",
+        "desc":  "Discover the best of the action from the top divisions of women\u0027s football in Italy, Germany and the Netherlands with this brand-new highlights show.",
+        "end":  "2026-11-26T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T01:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The New Mexico Lobos visit the Wyoming Cowboys for an NCAA Division I FBS conference game. New Mexico lost 21-17 to UNLV on Nov. 14 with Toa Fa\u0027avae, while the Wyoming Cowboys ride a five-game win streak with Tyler Hughes in MWC action.",
+        "end":  "2026-11-26T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T04:00:00.0000000",
+        "title":  "College Football",
+        "desc":  "The Kansas State Wildcats (4-6) host the No. 19 Arizona Wildcats (7-3) at Bill Snyder Family Stadium in a Big 12 Conference game. Kansas State aims to break a four-game losing streak, while Arizona has an alternate win-loss record in their last four.",
+        "end":  "2026-11-27T00:00:00.0000000"
     }
 ]
