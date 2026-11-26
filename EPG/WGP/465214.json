@@ -1,249 +1,165 @@
 [
     {
-        "start":  "2026-11-25T01:00:00.0000000",
+        "start":  "2026-11-26T00:00:00.0000000",
         "title":  "2026 FIFA U-17 World Cup",
-        "desc":  "Group J.",
-        "end":  "2026-11-25T03:00:00.0000000"
+        "desc":  "Group A.",
+        "end":  "2026-11-26T02:00:00.0000000"
     },
     {
-        "start":  "2026-11-25T03:00:00.0000000",
+        "start":  "2026-11-26T02:00:00.0000000",
         "title":  "2026 FIFA U-17 World Cup",
+        "desc":  "Group A.",
+        "end":  "2026-11-26T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T04:00:00.0000000",
+        "title":  "Italian Serie B Soccer",
+        "desc":  "From Cetilar Arena in Pisa, Italy.",
+        "end":  "2026-11-26T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T06:00:00.0000000",
+        "title":  "Women\u0027s Football Weekly",
+        "desc":  "Discover the best of the action from the top divisions of women\u0027s football in Italy, Germany and the Netherlands with this brand-new highlights show.",
+        "end":  "2026-11-26T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T06:30:00.0000000",
+        "title":  "2026 FIFA U-17 World Cup",
+        "desc":  "Group D.",
+        "end":  "2026-11-26T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T08:30:00.0000000",
+        "title":  "2026 FIFA U-17 World Cup",
+        "desc":  "Group C.",
+        "end":  "2026-11-26T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T10:30:00.0000000",
+        "title":  "Italian Serie B Soccer",
+        "desc":  "From Giovanni Zini Stadium in Cremona, Lombardy, Italy.",
+        "end":  "2026-11-26T12:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T12:30:00.0000000",
+        "title":  "Women\u0027s Football Weekly",
+        "desc":  "Discover the best of the action from the top divisions of women\u0027s football in Italy, Germany and the Netherlands with this brand-new highlights show.",
+        "end":  "2026-11-26T12:48:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T12:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-17 World Cup",
+        "desc":  "Group G.",
+        "end":  "2026-11-26T14:48:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T14:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-17 World Cup",
+        "desc":  "Group H.",
+        "end":  "2026-11-26T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T17:00:00.0000000",
+        "title":  "Italian Serie B Soccer",
+        "desc":  "From Cetilar Arena in Pisa, Italy.",
+        "end":  "2026-11-26T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T19:00:00.0000000",
+        "title":  "2026 FIFA U-17 World Cup",
+        "desc":  "Group E.",
+        "end":  "2026-11-26T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T21:00:00.0000000",
+        "title":  "2026 FIFA U-17 World Cup",
+        "desc":  "Group E.",
+        "end":  "2026-11-26T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T23:00:00.0000000",
+        "title":  "2026 FIFA U-17 World Cup",
+        "desc":  "Group F.",
+        "end":  "2026-11-27T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T01:00:00.0000000",
+        "title":  "2026 FIFA U-17 World Cup",
+        "desc":  "Group F.",
+        "end":  "2026-11-27T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T03:00:00.0000000",
+        "title":  "2026 FIFA U-17 World Cup",
+        "desc":  "Group G.",
+        "end":  "2026-11-27T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T05:00:00.0000000",
+        "title":  "2026 FIFA U-17 World Cup",
+        "desc":  "Group H.",
+        "end":  "2026-11-27T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T07:00:00.0000000",
+        "title":  "2026 FIFA U-17 World Cup",
+        "desc":  "Group E.",
+        "end":  "2026-11-27T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T09:00:00.0000000",
+        "title":  "2026 FIFA U-17 World Cup",
+        "desc":  "Group F.",
+        "end":  "2026-11-27T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T11:00:00.0000000",
+        "title":  "Women\u0027s Italian Serie A Soccer",
+        "desc":  "From Stadio Moreno Gubbiotti in Narni, Italy.",
+        "end":  "2026-11-27T12:48:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T12:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-17 World Cup",
+        "desc":  "Group L.",
+        "end":  "2026-11-27T14:48:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T14:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-17 World Cup",
         "desc":  "Group J.",
-        "end":  "2026-11-25T05:00:00.0000000"
+        "end":  "2026-11-27T17:00:00.0000000"
     },
     {
-        "start":  "2026-11-25T05:00:00.0000000",
-        "title":  "Football Nation",
-        "desc":  "With a surprisingly long association with football and the preeminent women\u0027s team, the USA is a bona fide football nation.",
-        "end":  "2026-11-25T05:30:00.0000000"
+        "start":  "2026-11-27T17:00:00.0000000",
+        "title":  "UEFA Nations League Magazine",
+        "desc":  "The official magazine show highlighting matches, star players, team previews and exclusive interviews surrounding the UEFA Nations League.",
+        "end":  "2026-11-27T18:00:00.0000000"
     },
     {
-        "start":  "2026-11-25T05:30:00.0000000",
+        "start":  "2026-11-27T18:00:00.0000000",
         "title":  "2026 FIFA U-17 World Cup",
         "desc":  "Group L.",
-        "end":  "2026-11-25T07:30:00.0000000"
+        "end":  "2026-11-27T20:00:00.0000000"
     },
     {
-        "start":  "2026-11-25T07:30:00.0000000",
+        "start":  "2026-11-27T20:00:00.0000000",
+        "title":  "2026 FIFA U-17 World Cup",
+        "desc":  "Group I.",
+        "end":  "2026-11-27T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T22:00:00.0000000",
+        "title":  "2026 FIFA U-17 World Cup",
+        "desc":  "Group J.",
+        "end":  "2026-11-28T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T00:00:00.0000000",
         "title":  "2026 FIFA U-17 World Cup",
         "desc":  "Group K.",
-        "end":  "2026-11-25T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T09:30:00.0000000",
-        "title":  "MLS Soccer",
-        "desc":  "San Jose Earthquakes host Houston Dynamo FC in MLS Western Conference playoff Round One at PayPal Park. Both sides arrive with recent losses, with San Jose having won the last meeting between these two, 1-0 at this same venue in September.",
-        "end":  "2026-11-25T11:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T11:30:00.0000000",
-        "title":  "Italian Serie B Soccer",
-        "desc":  "From Dino Manuzzi Stadium in Cesena, Emilia-Romagna, Italy.",
-        "end":  "2026-11-25T13:18:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T13:18:00.0000000",
-        "title":  "Live: 2026 FIFA U-17 World Cup",
-        "desc":  "Group D.",
-        "end":  "2026-11-25T15:18:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T15:18:00.0000000",
-        "title":  "Live: 2026 FIFA U-17 World Cup",
-        "desc":  "Group C.",
-        "end":  "2026-11-25T17:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T17:30:00.0000000",
-        "title":  "Football Nation",
-        "desc":  "Italy is one of the most impassioned and significant of footballing nations. The four-time World Cup winners are renowned for their defensive nous and passion, the product of Serie A, one of the game\u0027s most cut-throat leagues.",
-        "end":  "2026-11-25T17:55:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T17:55:00.0000000",
-        "title":  "Live: Italian Serie B Soccer",
-        "desc":  "From Giovanni Zini Stadium in Cremona, Lombardy, Italy.",
-        "end":  "2026-11-25T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T20:00:00.0000000",
-        "title":  "2026 FIFA U-17 World Cup",
-        "desc":  "Group B.",
-        "end":  "2026-11-25T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T22:00:00.0000000",
-        "title":  "2026 FIFA U-17 World Cup",
-        "desc":  "Group B.",
-        "end":  "2026-11-26T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T00:00:00.0000000",
-        "title":  "2026 FIFA U-17 World Cup",
-        "desc":  "Group A.",
-        "end":  "2026-11-26T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T02:00:00.0000000",
-        "title":  "2026 FIFA U-17 World Cup",
-        "desc":  "Group A.",
-        "end":  "2026-11-26T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T04:00:00.0000000",
-        "title":  "Italian Serie B Soccer",
-        "desc":  "From Cetilar Arena in Pisa, Italy.",
-        "end":  "2026-11-26T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T06:00:00.0000000",
-        "title":  "Women\u0027s Football Weekly",
-        "desc":  "Discover the best of the action from the top divisions of women\u0027s football in Italy, Germany and the Netherlands with this brand-new highlights show.",
-        "end":  "2026-11-26T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T06:30:00.0000000",
-        "title":  "2026 FIFA U-17 World Cup",
-        "desc":  "Group D.",
-        "end":  "2026-11-26T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T08:30:00.0000000",
-        "title":  "2026 FIFA U-17 World Cup",
-        "desc":  "Group C.",
-        "end":  "2026-11-26T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T10:30:00.0000000",
-        "title":  "Italian Serie B Soccer",
-        "desc":  "From Giovanni Zini Stadium in Cremona, Lombardy, Italy.",
-        "end":  "2026-11-26T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T12:30:00.0000000",
-        "title":  "Women\u0027s Football Weekly",
-        "desc":  "Discover the best of the action from the top divisions of women\u0027s football in Italy, Germany and the Netherlands with this brand-new highlights show.",
-        "end":  "2026-11-26T12:48:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T12:48:00.0000000",
-        "title":  "Live: 2026 FIFA U-17 World Cup",
-        "desc":  "Group G.",
-        "end":  "2026-11-26T14:48:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T14:48:00.0000000",
-        "title":  "Live: 2026 FIFA U-17 World Cup",
-        "desc":  "Group H.",
-        "end":  "2026-11-26T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T17:00:00.0000000",
-        "title":  "Italian Serie B Soccer",
-        "desc":  "From Cetilar Arena in Pisa, Italy.",
-        "end":  "2026-11-26T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T19:00:00.0000000",
-        "title":  "2026 FIFA U-17 World Cup",
-        "desc":  "Group E.",
-        "end":  "2026-11-26T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T21:00:00.0000000",
-        "title":  "2026 FIFA U-17 World Cup",
-        "desc":  "Group E.",
-        "end":  "2026-11-26T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T23:00:00.0000000",
-        "title":  "2026 FIFA U-17 World Cup",
-        "desc":  "Group F.",
-        "end":  "2026-11-27T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T00:00:00.0000000",
-        "title":  "2026 FIFA U-17 World Cup",
-        "desc":  "Group A.",
-        "end":  "2026-11-26T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T02:00:00.0000000",
-        "title":  "2026 FIFA U-17 World Cup",
-        "desc":  "Group A.",
-        "end":  "2026-11-26T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T04:00:00.0000000",
-        "title":  "Italian Serie B Soccer",
-        "desc":  "From Cetilar Arena in Pisa, Italy.",
-        "end":  "2026-11-26T06:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T06:00:00.0000000",
-        "title":  "Women\u0027s Football Weekly",
-        "desc":  "Discover the best of the action from the top divisions of women\u0027s football in Italy, Germany and the Netherlands with this brand-new highlights show.",
-        "end":  "2026-11-26T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T06:30:00.0000000",
-        "title":  "2026 FIFA U-17 World Cup",
-        "desc":  "Group D.",
-        "end":  "2026-11-26T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T08:30:00.0000000",
-        "title":  "2026 FIFA U-17 World Cup",
-        "desc":  "Group C.",
-        "end":  "2026-11-26T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T10:30:00.0000000",
-        "title":  "Italian Serie B Soccer",
-        "desc":  "From Giovanni Zini Stadium in Cremona, Lombardy, Italy.",
-        "end":  "2026-11-26T12:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T12:30:00.0000000",
-        "title":  "Women\u0027s Football Weekly",
-        "desc":  "Discover the best of the action from the top divisions of women\u0027s football in Italy, Germany and the Netherlands with this brand-new highlights show.",
-        "end":  "2026-11-26T12:48:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T12:48:00.0000000",
-        "title":  "Live: 2026 FIFA U-17 World Cup",
-        "desc":  "Group G.",
-        "end":  "2026-11-26T14:48:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T14:48:00.0000000",
-        "title":  "Live: 2026 FIFA U-17 World Cup",
-        "desc":  "Group H.",
-        "end":  "2026-11-26T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T17:00:00.0000000",
-        "title":  "Italian Serie B Soccer",
-        "desc":  "From Cetilar Arena in Pisa, Italy.",
-        "end":  "2026-11-26T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T19:00:00.0000000",
-        "title":  "2026 FIFA U-17 World Cup",
-        "desc":  "Group E.",
-        "end":  "2026-11-26T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T21:00:00.0000000",
-        "title":  "2026 FIFA U-17 World Cup",
-        "desc":  "Group E.",
-        "end":  "2026-11-26T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T23:00:00.0000000",
-        "title":  "2026 FIFA U-17 World Cup",
-        "desc":  "Group F.",
-        "end":  "2026-11-27T00:00:00.0000000"
+        "end":  "2026-11-29T00:00:00.0000000"
     },
     {
         "start":  "2026-11-27T01:00:00.0000000",
@@ -261,24 +177,96 @@
         "start":  "2026-11-27T05:00:00.0000000",
         "title":  "2026 FIFA U-17 World Cup",
         "desc":  "Group H.",
-        "end":  "2026-11-28T00:00:00.0000000"
+        "end":  "2026-11-27T07:00:00.0000000"
     },
     {
-        "start":  "2026-11-27T01:00:00.0000000",
+        "start":  "2026-11-27T07:00:00.0000000",
+        "title":  "2026 FIFA U-17 World Cup",
+        "desc":  "Group E.",
+        "end":  "2026-11-27T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T09:00:00.0000000",
         "title":  "2026 FIFA U-17 World Cup",
         "desc":  "Group F.",
-        "end":  "2026-11-27T03:00:00.0000000"
+        "end":  "2026-11-27T11:00:00.0000000"
     },
     {
-        "start":  "2026-11-27T03:00:00.0000000",
-        "title":  "2026 FIFA U-17 World Cup",
-        "desc":  "Group G.",
-        "end":  "2026-11-27T05:00:00.0000000"
+        "start":  "2026-11-27T11:00:00.0000000",
+        "title":  "Women\u0027s Italian Serie A Soccer",
+        "desc":  "From Stadio Moreno Gubbiotti in Narni, Italy.",
+        "end":  "2026-11-27T12:48:00.0000000"
     },
     {
-        "start":  "2026-11-27T05:00:00.0000000",
+        "start":  "2026-11-27T12:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-17 World Cup",
+        "desc":  "Group L.",
+        "end":  "2026-11-27T14:48:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T14:48:00.0000000",
+        "title":  "Live: 2026 FIFA U-17 World Cup",
+        "desc":  "Group J.",
+        "end":  "2026-11-27T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T17:00:00.0000000",
+        "title":  "UEFA Nations League Magazine",
+        "desc":  "The official magazine show highlighting matches, star players, team previews and exclusive interviews surrounding the UEFA Nations League.",
+        "end":  "2026-11-27T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T18:00:00.0000000",
         "title":  "2026 FIFA U-17 World Cup",
-        "desc":  "Group H.",
+        "desc":  "Group L.",
+        "end":  "2026-11-27T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T20:00:00.0000000",
+        "title":  "2026 FIFA U-17 World Cup",
+        "desc":  "Group I.",
+        "end":  "2026-11-27T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T22:00:00.0000000",
+        "title":  "2026 FIFA U-17 World Cup",
+        "desc":  "Group J.",
         "end":  "2026-11-28T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T00:00:00.0000000",
+        "title":  "2026 FIFA U-17 World Cup",
+        "desc":  "Group K.",
+        "end":  "2026-11-28T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T02:00:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "From IKON Park in Melbourne, Victoria, Australia.",
+        "end":  "2026-11-28T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T04:00:00.0000000",
+        "title":  "2026 FIFA U-17 World Cup",
+        "desc":  "Group K.",
+        "end":  "2026-11-29T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T00:00:00.0000000",
+        "title":  "2026 FIFA U-17 World Cup",
+        "desc":  "Group K.",
+        "end":  "2026-11-28T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T02:00:00.0000000",
+        "title":  "AFL Women\u0027s Premiership Football",
+        "desc":  "From IKON Park in Melbourne, Victoria, Australia.",
+        "end":  "2026-11-28T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T04:00:00.0000000",
+        "title":  "2026 FIFA U-17 World Cup",
+        "desc":  "Group K.",
+        "end":  "2026-11-29T00:00:00.0000000"
     }
 ]

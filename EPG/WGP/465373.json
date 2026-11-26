@@ -1,321 +1,225 @@
 [
     {
-        "start":  "2026-11-25T00:00:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "The Western Michigan Broncos host the Miami (OH) RedHawks at Waldo Stadium in Kalamazoo. Western Michigan enters this game on a three-game win streak, including a 34-27 win against Western Michigan, while Miami (OH) aims for a three straight wins.",
-        "end":  "2026-11-25T03:00:00.0000000"
+        "start":  "2026-11-26T00:30:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "The Wake Forest Demon Deacons and the Mississippi State Bulldogs face off in the 2026 Battle 4 Atlantis championship bracket at Imperial Arena. Wake Forest enters with a four-game win streak, while Mississippi State aims for three straight wins.",
+        "end":  "2026-11-26T02:30:00.0000000"
     },
     {
-        "start":  "2026-11-25T03:00:00.0000000",
+        "start":  "2026-11-26T02:30:00.0000000",
+        "title":  "College Basketball Live Scoreboard",
+        "desc":  "All the latest scores and highlights from college basketball.",
+        "end":  "2026-11-26T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T03:00:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "From Lahaina Civic Center in Lahaina, Hawaii.",
+        "end":  "2026-11-26T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T05:00:00.0000000",
+        "title":  "College Basketball Live Scoreboard",
+        "desc":  "All the latest scores and highlights from college basketball.",
+        "end":  "2026-11-26T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T05:30:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "From Lahaina Civic Center in Lahaina, Hawaii.",
+        "end":  "2026-11-26T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T07:30:00.0000000",
+        "title":  "NBA Basketball",
+        "desc":  "From Paycom Center in Oklahoma City.",
+        "end":  "2026-11-26T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T09:30:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-26T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T10:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-26T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T11:00:00.0000000",
+        "title":  "Live: Unsportsmanlike with Evan, Canty and Michelle",
+        "desc":  "Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it\u0027s all about.",
+        "end":  "2026-11-26T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T13:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-26T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T14:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-26T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T15:00:00.0000000",
+        "title":  "Live: Get Up",
+        "desc":  "ESPN\u0027s morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company\u0027s New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio\u0027s longt",
+        "end":  "2026-11-26T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T16:30:00.0000000",
+        "title":  "Live: Women\u0027s College Basketball",
+        "desc":  "From Imperial Arena in Nassau, Bahamas.",
+        "end":  "2026-11-26T18:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T18:30:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "The Boston College Eagles clash with the UCF Knights at State Farm Field House. Boston College relies on Zak Smrekar after scoring 16 points in a 79-59 win over NJIT, while 4-2 UCF counts on Dior Johnson after a 30-point game at Vanderbilt.",
+        "end":  "2026-11-26T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T20:30:00.0000000",
         "title":  "Live: College Basketball",
         "desc":  "From T-Mobile Arena in Las Vegas.",
-        "end":  "2026-11-25T05:00:00.0000000"
+        "end":  "2026-11-26T22:30:00.0000000"
     },
     {
-        "start":  "2026-11-25T05:00:00.0000000",
+        "start":  "2026-11-26T22:30:00.0000000",
+        "title":  "WWE Survivor Series: WarGames Special",
+        "desc":  "Preview the WWE Survivor Series: WarGames event to be held on Nov. 29 at Petco Park in San Diego.",
+        "end":  "2026-11-26T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-26T23:00:00.0000000",
+        "title":  "Game On: Journey to the NCAA Championship",
+        "desc":  "Series focused on eight different NCAA sports leading up to their respective NCAA Championships.",
+        "end":  "2026-11-27T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T00:00:00.0000000",
+        "title":  "SEC Inside",
+        "desc":  "Each week, a half-hour episode will focus on a select team and explore previously unaired footage and sounds from game preparation, the sideline and following the final whistle.",
+        "end":  "2026-11-27T00:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T00:30:00.0000000",
+        "title":  "WWE Survivor Series: WarGames Special",
+        "desc":  "Preview the WWE Survivor Series: WarGames event to be held on Nov. 29 at Petco Park in San Diego.",
+        "end":  "2026-11-27T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T01:00:00.0000000",
         "title":  "SEC Inside",
         "desc":  "Focuses on a select team and explores previously unaired footage and sounds from game preparation, the sideline and following the final whistle.",
-        "end":  "2026-11-25T05:30:00.0000000"
+        "end":  "2026-11-27T01:30:00.0000000"
     },
     {
-        "start":  "2026-11-25T05:30:00.0000000",
+        "start":  "2026-11-27T01:30:00.0000000",
         "title":  "SEC Inside",
         "desc":  "Focuses on a select team and explores previously unaired footage and sounds from game preparation, the sideline and following the final whistle.",
-        "end":  "2026-11-25T06:00:00.0000000"
+        "end":  "2026-11-27T02:00:00.0000000"
     },
     {
-        "start":  "2026-11-25T06:00:00.0000000",
-        "title":  "Saban",
-        "desc":  "Amid high expectations, Nick Saban arrives in Alabama to rebuild the program using his \"process.\".",
-        "end":  "2026-11-25T07:00:00.0000000"
+        "start":  "2026-11-27T02:00:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "From Michelob ULTRA Arena in Las Vegas.",
+        "end":  "2026-11-27T04:00:00.0000000"
     },
     {
-        "start":  "2026-11-25T07:00:00.0000000",
-        "title":  "Saban",
-        "desc":  "After five seasons and a contract dispute, Saban leaves Michigan State for an opportunity at LSU.",
-        "end":  "2026-11-25T08:00:00.0000000"
+        "start":  "2026-11-27T04:00:00.0000000",
+        "title":  "College Basketball Live Scoreboard",
+        "desc":  "All the latest scores and highlights from college basketball.",
+        "end":  "2026-11-27T04:30:00.0000000"
     },
     {
-        "start":  "2026-11-25T08:00:00.0000000",
-        "title":  "Saban",
-        "desc":  "Saban uses the discipline he learned from his father to inspire Alabama against rival Florida.",
-        "end":  "2026-11-25T09:00:00.0000000"
+        "start":  "2026-11-27T04:30:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "From Michelob ULTRA Arena in Las Vegas.",
+        "end":  "2026-11-27T06:30:00.0000000"
     },
     {
-        "start":  "2026-11-25T09:00:00.0000000",
-        "title":  "Saban",
-        "desc":  "Saban and the \"Crimson Tide\" help restore hope and pride in the community after a storm.",
-        "end":  "2026-11-25T10:00:00.0000000"
+        "start":  "2026-11-27T06:30:00.0000000",
+        "title":  "WWE Survivor Series: WarGames Special",
+        "desc":  "Preview the WWE Survivor Series: WarGames event to be held on Nov. 29 at Petco Park in San Diego.",
+        "end":  "2026-11-27T07:00:00.0000000"
     },
     {
-        "start":  "2026-11-25T10:00:00.0000000",
+        "start":  "2026-11-27T07:00:00.0000000",
         "title":  "Saban",
         "desc":  "Saban\u0027s bold coaching hire brings wins, tension, and a decision that could define his legacy.",
-        "end":  "2026-11-25T11:00:00.0000000"
+        "end":  "2026-11-27T08:00:00.0000000"
     },
     {
-        "start":  "2026-11-25T11:00:00.0000000",
-        "title":  "Live: Unsportsmanlike with Evan, Canty and Michelle",
-        "desc":  "Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it\u0027s all about.",
-        "end":  "2026-11-25T13:00:00.0000000"
+        "start":  "2026-11-27T08:00:00.0000000",
+        "title":  "Saban",
+        "desc":  "After a global event reaches beyond the football field, Saban faces one final test of adaptability.",
+        "end":  "2026-11-27T09:00:00.0000000"
     },
     {
-        "start":  "2026-11-25T13:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-25T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T14:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-25T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T15:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "From HP Field House in Lake Buena Vista, Fla.",
-        "end":  "2026-11-25T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T17:00:00.0000000",
-        "title":  "College Basketball Live Scoreboard",
-        "desc":  "All the latest scores and highlights from college basketball.",
-        "end":  "2026-11-25T17:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T17:30:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "From HP Field House in Lake Buena Vista, Fla.",
-        "end":  "2026-11-25T19:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T19:30:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "The Texas A\u0026M Aggies and the Xavier Musketeers face off in the 2026 Battle 4 Atlantis Signature Series at Imperial Arena. Xavier suffered their first loss this season to Iowa 83-65, while Texas A\u0026M enters this matchup with a perfect 6-0 record.",
-        "end":  "2026-11-25T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T21:30:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-25T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T22:30:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "From Lahaina Civic Center in Lahaina, Hawaii.",
-        "end":  "2026-11-26T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T00:30:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "The Wake Forest Demon Deacons and the Mississippi State Bulldogs face off in the 2026 Battle 4 Atlantis championship bracket at Imperial Arena. Wake Forest enters with a four-game win streak, while Mississippi State aims for three straight wins.",
-        "end":  "2026-11-26T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T02:30:00.0000000",
-        "title":  "College Basketball Live Scoreboard",
-        "desc":  "All the latest scores and highlights from college basketball.",
-        "end":  "2026-11-26T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T03:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "From Lahaina Civic Center in Lahaina, Hawaii.",
-        "end":  "2026-11-26T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T05:00:00.0000000",
-        "title":  "College Basketball Live Scoreboard",
-        "desc":  "All the latest scores and highlights from college basketball.",
-        "end":  "2026-11-26T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T05:30:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "From Lahaina Civic Center in Lahaina, Hawaii.",
-        "end":  "2026-11-26T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T07:30:00.0000000",
+        "start":  "2026-11-27T09:00:00.0000000",
         "title":  "NBA Basketball",
-        "desc":  "From Paycom Center in Oklahoma City.",
-        "end":  "2026-11-26T09:30:00.0000000"
+        "desc":  "The 76ers host the Heat in NBA play at Xfinity Mobile Arena. First in the Eastern Conference at 14-4, Philadelphia welcome a Miami side that has won seven straight and sits sixth in the East at 10-6.",
+        "end":  "2026-11-27T11:00:00.0000000"
     },
     {
-        "start":  "2026-11-26T09:30:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-26T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T10:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-26T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T11:00:00.0000000",
+        "start":  "2026-11-27T11:00:00.0000000",
         "title":  "Live: Unsportsmanlike with Evan, Canty and Michelle",
         "desc":  "Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it\u0027s all about.",
-        "end":  "2026-11-26T13:00:00.0000000"
+        "end":  "2026-11-27T13:00:00.0000000"
     },
     {
-        "start":  "2026-11-26T13:00:00.0000000",
+        "start":  "2026-11-27T13:00:00.0000000",
         "title":  "SportsCenter",
         "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-26T14:00:00.0000000"
+        "end":  "2026-11-27T14:00:00.0000000"
     },
     {
-        "start":  "2026-11-26T14:00:00.0000000",
+        "start":  "2026-11-27T14:00:00.0000000",
         "title":  "SportsCenter",
         "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-26T15:00:00.0000000"
+        "end":  "2026-11-27T15:00:00.0000000"
     },
     {
-        "start":  "2026-11-26T15:00:00.0000000",
+        "start":  "2026-11-27T15:00:00.0000000",
         "title":  "Live: Get Up",
         "desc":  "ESPN\u0027s morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company\u0027s New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio\u0027s longt",
-        "end":  "2026-11-26T16:30:00.0000000"
+        "end":  "2026-11-27T16:00:00.0000000"
     },
     {
-        "start":  "2026-11-26T16:30:00.0000000",
-        "title":  "Live: Women\u0027s College Basketball",
-        "desc":  "From Imperial Arena in Nassau, Bahamas.",
-        "end":  "2026-11-26T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T18:30:00.0000000",
+        "start":  "2026-11-27T16:00:00.0000000",
         "title":  "Live: College Basketball",
-        "desc":  "The Boston College Eagles clash with the UCF Knights at State Farm Field House. Boston College relies on Zak Smrekar after scoring 16 points in a 79-59 win over NJIT, while 4-2 UCF counts on Dior Johnson after a 30-point game at Vanderbilt.",
-        "end":  "2026-11-26T20:30:00.0000000"
+        "desc":  "From Imperial Arena in Nassau, Bahamas.",
+        "end":  "2026-11-27T18:00:00.0000000"
     },
     {
-        "start":  "2026-11-26T20:30:00.0000000",
+        "start":  "2026-11-27T18:00:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "From Michelob ULTRA Arena in Las Vegas.",
+        "end":  "2026-11-27T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T20:00:00.0000000",
         "title":  "Live: College Basketball",
         "desc":  "From T-Mobile Arena in Las Vegas.",
-        "end":  "2026-11-26T22:30:00.0000000"
+        "end":  "2026-11-27T22:00:00.0000000"
     },
     {
-        "start":  "2026-11-26T22:30:00.0000000",
-        "title":  "WWE Survivor Series: WarGames Special",
-        "desc":  "Preview the WWE Survivor Series: WarGames event to be held on Nov. 29 at Petco Park in San Diego.",
-        "end":  "2026-11-26T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T23:00:00.0000000",
-        "title":  "Game On: Journey to the NCAA Championship",
-        "desc":  "Series focused on eight different NCAA sports leading up to their respective NCAA Championships.",
-        "end":  "2026-11-27T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T00:00:00.0000000",
-        "title":  "SEC Inside",
-        "desc":  "Each week, a half-hour episode will focus on a select team and explore previously unaired footage and sounds from game preparation, the sideline and following the final whistle.",
+        "start":  "2026-11-27T22:00:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "From Allen Fieldhouse in Lawrence, Kan.",
         "end":  "2026-11-28T00:00:00.0000000"
     },
     {
-        "start":  "2026-11-26T00:30:00.0000000",
+        "start":  "2026-11-28T00:00:00.0000000",
         "title":  "Live: College Basketball",
-        "desc":  "The Wake Forest Demon Deacons and the Mississippi State Bulldogs face off in the 2026 Battle 4 Atlantis championship bracket at Imperial Arena. Wake Forest enters with a four-game win streak, while Mississippi State aims for three straight wins.",
-        "end":  "2026-11-26T02:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T02:30:00.0000000",
-        "title":  "College Basketball Live Scoreboard",
-        "desc":  "All the latest scores and highlights from college basketball.",
-        "end":  "2026-11-26T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T03:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "From Lahaina Civic Center in Lahaina, Hawaii.",
-        "end":  "2026-11-26T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T05:00:00.0000000",
-        "title":  "College Basketball Live Scoreboard",
-        "desc":  "All the latest scores and highlights from college basketball.",
-        "end":  "2026-11-26T05:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T05:30:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "From Lahaina Civic Center in Lahaina, Hawaii.",
-        "end":  "2026-11-26T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T07:30:00.0000000",
-        "title":  "NBA Basketball",
-        "desc":  "From Paycom Center in Oklahoma City.",
-        "end":  "2026-11-26T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T09:30:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-26T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T10:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-26T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T11:00:00.0000000",
-        "title":  "Live: Unsportsmanlike with Evan, Canty and Michelle",
-        "desc":  "Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it\u0027s all about.",
-        "end":  "2026-11-26T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T13:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-26T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T14:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-26T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T15:00:00.0000000",
-        "title":  "Live: Get Up",
-        "desc":  "ESPN\u0027s morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company\u0027s New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio\u0027s longt",
-        "end":  "2026-11-26T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T16:30:00.0000000",
-        "title":  "Live: Women\u0027s College Basketball",
-        "desc":  "From Imperial Arena in Nassau, Bahamas.",
-        "end":  "2026-11-26T18:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T18:30:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "The Boston College Eagles clash with the UCF Knights at State Farm Field House. Boston College relies on Zak Smrekar after scoring 16 points in a 79-59 win over NJIT, while 4-2 UCF counts on Dior Johnson after a 30-point game at Vanderbilt.",
-        "end":  "2026-11-26T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T20:30:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "From T-Mobile Arena in Las Vegas.",
-        "end":  "2026-11-26T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T22:30:00.0000000",
-        "title":  "WWE Survivor Series: WarGames Special",
-        "desc":  "Preview the WWE Survivor Series: WarGames event to be held on Nov. 29 at Petco Park in San Diego.",
-        "end":  "2026-11-26T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T23:00:00.0000000",
-        "title":  "Game On: Journey to the NCAA Championship",
-        "desc":  "Series focused on eight different NCAA sports leading up to their respective NCAA Championships.",
-        "end":  "2026-11-27T00:00:00.0000000"
+        "desc":  "From HP Field House in Lake Buena Vista, Fla.",
+        "end":  "2026-11-29T00:00:00.0000000"
     },
     {
         "start":  "2026-11-27T00:00:00.0000000",
@@ -357,48 +261,126 @@
         "start":  "2026-11-27T04:30:00.0000000",
         "title":  "Live: College Basketball",
         "desc":  "From Michelob ULTRA Arena in Las Vegas.",
-        "end":  "2026-11-28T00:00:00.0000000"
+        "end":  "2026-11-27T06:30:00.0000000"
     },
     {
-        "start":  "2026-11-27T00:00:00.0000000",
-        "title":  "SEC Inside",
-        "desc":  "Each week, a half-hour episode will focus on a select team and explore previously unaired footage and sounds from game preparation, the sideline and following the final whistle.",
-        "end":  "2026-11-27T00:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T00:30:00.0000000",
+        "start":  "2026-11-27T06:30:00.0000000",
         "title":  "WWE Survivor Series: WarGames Special",
         "desc":  "Preview the WWE Survivor Series: WarGames event to be held on Nov. 29 at Petco Park in San Diego.",
-        "end":  "2026-11-27T01:00:00.0000000"
+        "end":  "2026-11-27T07:00:00.0000000"
     },
     {
-        "start":  "2026-11-27T01:00:00.0000000",
-        "title":  "SEC Inside",
-        "desc":  "Focuses on a select team and explores previously unaired footage and sounds from game preparation, the sideline and following the final whistle.",
-        "end":  "2026-11-27T01:30:00.0000000"
+        "start":  "2026-11-27T07:00:00.0000000",
+        "title":  "Saban",
+        "desc":  "Saban\u0027s bold coaching hire brings wins, tension, and a decision that could define his legacy.",
+        "end":  "2026-11-27T08:00:00.0000000"
     },
     {
-        "start":  "2026-11-27T01:30:00.0000000",
-        "title":  "SEC Inside",
-        "desc":  "Focuses on a select team and explores previously unaired footage and sounds from game preparation, the sideline and following the final whistle.",
-        "end":  "2026-11-27T02:00:00.0000000"
+        "start":  "2026-11-27T08:00:00.0000000",
+        "title":  "Saban",
+        "desc":  "After a global event reaches beyond the football field, Saban faces one final test of adaptability.",
+        "end":  "2026-11-27T09:00:00.0000000"
     },
     {
-        "start":  "2026-11-27T02:00:00.0000000",
+        "start":  "2026-11-27T09:00:00.0000000",
+        "title":  "NBA Basketball",
+        "desc":  "The 76ers host the Heat in NBA play at Xfinity Mobile Arena. First in the Eastern Conference at 14-4, Philadelphia welcome a Miami side that has won seven straight and sits sixth in the East at 10-6.",
+        "end":  "2026-11-27T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T11:00:00.0000000",
+        "title":  "Live: Unsportsmanlike with Evan, Canty and Michelle",
+        "desc":  "Start the day off right with Chris Canty, Evan Cohen and Michelle Smallmon providing an energizing and informative way to take on the day. Sports, life and laughter are what it\u0027s all about.",
+        "end":  "2026-11-27T13:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T13:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-27T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T14:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-27T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T15:00:00.0000000",
+        "title":  "Live: Get Up",
+        "desc":  "ESPN\u0027s morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company\u0027s New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio\u0027s longt",
+        "end":  "2026-11-27T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T16:00:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "From Imperial Arena in Nassau, Bahamas.",
+        "end":  "2026-11-27T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T18:00:00.0000000",
         "title":  "Live: College Basketball",
         "desc":  "From Michelob ULTRA Arena in Las Vegas.",
-        "end":  "2026-11-27T04:00:00.0000000"
+        "end":  "2026-11-27T20:00:00.0000000"
     },
     {
-        "start":  "2026-11-27T04:00:00.0000000",
+        "start":  "2026-11-27T20:00:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "From T-Mobile Arena in Las Vegas.",
+        "end":  "2026-11-27T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-27T22:00:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "From Allen Fieldhouse in Lawrence, Kan.",
+        "end":  "2026-11-28T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T00:00:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "From HP Field House in Lake Buena Vista, Fla.",
+        "end":  "2026-11-28T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T02:00:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "From Rupp Arena in Lexington, Ky.",
+        "end":  "2026-11-28T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T04:00:00.0000000",
         "title":  "College Basketball Live Scoreboard",
         "desc":  "All the latest scores and highlights from college basketball.",
-        "end":  "2026-11-27T04:30:00.0000000"
+        "end":  "2026-11-28T04:30:00.0000000"
     },
     {
-        "start":  "2026-11-27T04:30:00.0000000",
+        "start":  "2026-11-28T04:30:00.0000000",
         "title":  "Live: College Basketball",
         "desc":  "From Michelob ULTRA Arena in Las Vegas.",
-        "end":  "2026-11-28T00:00:00.0000000"
+        "end":  "2026-11-29T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T00:00:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "From HP Field House in Lake Buena Vista, Fla.",
+        "end":  "2026-11-28T02:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T02:00:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "From Rupp Arena in Lexington, Ky.",
+        "end":  "2026-11-28T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T04:00:00.0000000",
+        "title":  "College Basketball Live Scoreboard",
+        "desc":  "All the latest scores and highlights from college basketball.",
+        "end":  "2026-11-28T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T04:30:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "From Michelob ULTRA Arena in Las Vegas.",
+        "end":  "2026-11-29T00:00:00.0000000"
     }
 ]

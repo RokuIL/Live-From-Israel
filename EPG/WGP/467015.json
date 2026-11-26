@@ -1,323 +1,5 @@
 [
     {
-        "start":  "2026-11-25T00:00:00.0000000",
-        "title":  "News 4 NY at 7",
-        "desc":  "Stay informed with the breaking news and headlines.",
-        "end":  "2026-11-25T00:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T00:30:00.0000000",
-        "title":  "New York Live Tonight",
-        "desc":  "New York Live Tonight brings you celebrity interviews and discusses recipes, beauty, fashion and current events pertinent to the tri-state region.",
-        "end":  "2026-11-25T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T01:00:00.0000000",
-        "title":  "Live: NBA Basketball",
-        "desc":  "From Capital One Arena in Washington, D.C.",
-        "end":  "2026-11-25T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T04:00:00.0000000",
-        "title":  "Live: News 4 NY at 11",
-        "desc":  "Local and regional news.",
-        "end":  "2026-11-25T04:34:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T04:34:00.0000000",
-        "title":  "The Tonight Show Starring Jimmy Fallon",
-        "desc":  "Actor Tim Allen; actress Amanda Seyfried; internet personality Amelia Dimoldenberg; Erykah Badu performs.",
-        "end":  "2026-11-25T05:35:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T05:35:00.0000000",
-        "title":  "Late Night With Seth Meyers",
-        "desc":  "Actor Ben Stiller; actress Marla Mindelle; actor Josh Sharp.",
-        "end":  "2026-11-25T06:34:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T06:34:00.0000000",
-        "title":  "News 4 NY at 11",
-        "desc":  "Local and regional news.",
-        "end":  "2026-11-25T07:09:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T07:09:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-        "end":  "2026-11-25T07:39:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T07:39:00.0000000",
-        "title":  "Top Story With Tom Llamas",
-        "desc":  "Reporting of breaking news and developing stories in real time.",
-        "end":  "2026-11-25T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T08:30:00.0000000",
-        "title":  "New York Live Tonight",
-        "desc":  "New York Live Tonight brings you celebrity interviews and discusses recipes, beauty, fashion and current events pertinent to the tri-state region.",
-        "end":  "2026-11-25T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T09:00:00.0000000",
-        "title":  "Early Today",
-        "desc":  "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day\u0027s anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
-        "end":  "2026-11-25T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T09:30:00.0000000",
-        "title":  "Today in New York",
-        "desc":  "The local news, weather and investigative stories impacting your community.",
-        "end":  "2026-11-25T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T10:00:00.0000000",
-        "title":  "Today in New York",
-        "desc":  "The local news, weather and investigative stories impacting your community.",
-        "end":  "2026-11-25T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T11:00:00.0000000",
-        "title":  "Today in New York @ 6AM",
-        "desc":  "The latest local news, weather and investigative stories impacting the community.",
-        "end":  "2026-11-25T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T12:00:00.0000000",
-        "title":  "Today",
-        "desc":  "Thanksgiving hotline with Butterball; John O\u0027Hurley and David Frei on The National Dog Show; Steals \u0026 Deals: Something for Everyone Day 1 with Jill Martin; Today Food: Thanksgiving last-minute ideas with Bobby Flay and Brooke Williamson.",
-        "end":  "2026-11-25T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T14:00:00.0000000",
-        "title":  "Today 3rd Hour",
-        "desc":  "Catching up with John Stamos; Thanksgiving Day Parade former band members; Thanks \u0026 Giving: Former St. Jude patient returns to help next generation; Today Food: Last minute Thanksgiving with chef Anthony Vitolo.",
-        "end":  "2026-11-25T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T15:00:00.0000000",
-        "title":  "Today With Jenna \u0026 Sheinelle",
-        "desc":  "Celebrating Jenna\u0027s birthday; catching up with Ana Gasteyer; birthday hair makeovers with Chris McMillan; Fan Pop Quiz.",
-        "end":  "2026-11-25T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T16:00:00.0000000",
-        "title":  "Live: News 4 NY at 11AM",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-11-25T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T16:30:00.0000000",
-        "title":  "New York Live",
-        "desc":  "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
-        "end":  "2026-11-25T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T17:00:00.0000000",
-        "title":  "NBC News Daily",
-        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-        "end":  "2026-11-25T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T18:00:00.0000000",
-        "title":  "Dateline",
-        "desc":  "A woman walks into her home to find her daughter covered in blood; a single drop of blood is the key to finding the attacker.",
-        "end":  "2026-11-25T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T19:00:00.0000000",
-        "title":  "NBC News Daily",
-        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-        "end":  "2026-11-25T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T20:00:00.0000000",
-        "title":  "Live: News Zone",
-        "desc":  "News, as it happens; raw coverage and inside access from the tri-state and beyond.",
-        "end":  "2026-11-25T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T21:00:00.0000000",
-        "title":  "Live: News 4 NY at 4",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-11-25T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T21:30:00.0000000",
-        "title":  "Live: News 4 NY at 4:30",
-        "desc":  "NY news.",
-        "end":  "2026-11-25T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T22:00:00.0000000",
-        "title":  "Live: News 4 NY at 5",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-11-25T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T22:30:00.0000000",
-        "title":  "Live: News 4 NY at 5:30",
-        "desc":  "NY news.",
-        "end":  "2026-11-25T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T23:00:00.0000000",
-        "title":  "Live: News 4 NY at 6",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-11-25T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-25T23:30:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-        "end":  "2026-11-26T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T00:00:00.0000000",
-        "title":  "News 4 NY at 7",
-        "desc":  "Stay informed with the breaking news and headlines.",
-        "end":  "2026-11-26T00:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T00:30:00.0000000",
-        "title":  "New York Live Tonight",
-        "desc":  "New York Live Tonight brings you celebrity interviews and discusses recipes, beauty, fashion and current events pertinent to the tri-state region.",
-        "end":  "2026-11-26T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T01:00:00.0000000",
-        "title":  "Live: Countdown to Macy\u0027s Thanksgiving Day Parade",
-        "desc":  "Live from New York City, Jack McBrayer hosts a sneak peek at the new balloons, floats and more on the eve of the 100th Macy\u0027s Thanksgiving Day Parade.",
-        "end":  "2026-11-26T02:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T02:00:00.0000000",
-        "title":  "Saturday Night Live",
-        "desc":  "A star-studded collection of \"Saturday Night Live\u0027s\" most hilarious Thanksgiving-themed sketches from various seasons, including Debbie Downer: Thanksgiving Dinner, Thanksgiving Parade, Friends-giving, Apple Picking Ad, the Loud Family and many more.",
-        "end":  "2026-11-26T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T04:00:00.0000000",
-        "title":  "Live: News 4 NY at 11",
-        "desc":  "Local and regional news.",
-        "end":  "2026-11-26T04:34:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T04:34:00.0000000",
-        "title":  "The Tonight Show Starring Jimmy Fallon",
-        "desc":  "Comic Nate Bargatze; actor John Stamos; comic Aaron Weber.",
-        "end":  "2026-11-26T05:35:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T05:35:00.0000000",
-        "title":  "Late Night With Seth Meyers",
-        "desc":  "Broadcaster Hoda Kotb; comic Matt Rogers.",
-        "end":  "2026-11-26T06:34:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T06:34:00.0000000",
-        "title":  "News 4 NY at 11",
-        "desc":  "Local and regional news.",
-        "end":  "2026-11-26T07:09:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T07:09:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-        "end":  "2026-11-26T07:39:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T07:39:00.0000000",
-        "title":  "Top Story With Tom Llamas",
-        "desc":  "Reporting of breaking news and developing stories in real time.",
-        "end":  "2026-11-26T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T08:30:00.0000000",
-        "title":  "New York Live Tonight",
-        "desc":  "New York Live Tonight brings you celebrity interviews and discusses recipes, beauty, fashion and current events pertinent to the tri-state region.",
-        "end":  "2026-11-26T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T09:00:00.0000000",
-        "title":  "Early Today",
-        "desc":  "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day\u0027s anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
-        "end":  "2026-11-26T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T09:30:00.0000000",
-        "title":  "Today in New York",
-        "desc":  "The local news, weather and investigative stories impacting your community.",
-        "end":  "2026-11-26T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T10:00:00.0000000",
-        "title":  "Today in New York",
-        "desc":  "The local news, weather and investigative stories impacting your community.",
-        "end":  "2026-11-26T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T11:00:00.0000000",
-        "title":  "Today in New York @ 6AM",
-        "desc":  "The latest local news, weather and investigative stories impacting the community.",
-        "end":  "2026-11-26T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T12:00:00.0000000",
-        "title":  "Today",
-        "desc":  "News headlines, interviews, and stories intended to inform, entertain, inspire and set the agenda each morning for Americans and help viewers with their finances, health and well-being.",
-        "end":  "2026-11-26T13:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T13:30:00.0000000",
-        "title":  "Live: 100th Macy\u0027s Thanksgiving Day Parade",
-        "desc":  "The 100th Macy\u0027s Thanksgiving Day Parade celebrates with a once-in-a-century blowout featuring new and returning balloons, floats and other surprises.",
-        "end":  "2026-11-26T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T17:00:00.0000000",
-        "title":  "The National Dog Show",
-        "desc":  "The nation\u0027s top dogs spanning over 190 breeds vie to be named \"Best in Show\" at the annual event.",
-        "end":  "2026-11-26T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T19:00:00.0000000",
-        "title":  "100th Macy\u0027s Thanksgiving Day Parade",
-        "desc":  "The 100th Macy\u0027s Thanksgiving Day Parade celebrates with a once-in-a-century blowout featuring new and returning balloons, floats and other surprises.",
-        "end":  "2026-11-26T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T22:00:00.0000000",
-        "title":  "Live: News 4 NY at 5",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-11-26T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T22:30:00.0000000",
-        "title":  "Live: News 4 NY at 5:30",
-        "desc":  "NY news.",
-        "end":  "2026-11-26T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T23:00:00.0000000",
-        "title":  "Live: News 4 NY at 6",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-11-26T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T23:30:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-        "end":  "2026-11-27T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T00:00:00.0000000",
-        "title":  "News 4 NY at 7",
-        "desc":  "Stay informed with the breaking news and headlines.",
-        "end":  "2026-11-28T00:00:00.0000000"
-    },
-    {
         "start":  "2026-11-26T00:00:00.0000000",
         "title":  "News 4 NY at 7",
         "desc":  "Stay informed with the breaking news and headlines.",
@@ -849,6 +531,330 @@
         "start":  "2026-11-28T05:35:00.0000000",
         "title":  "Late Night With Seth Meyers",
         "desc":  "Actor Dustin Hoffman; comic James Acaster.",
+        "end":  "2026-11-28T06:34:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T06:34:00.0000000",
+        "title":  "News 4 NY at 11",
+        "desc":  "Local and regional news.",
+        "end":  "2026-11-28T07:09:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T07:09:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+        "end":  "2026-11-28T07:39:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T07:39:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "desc":  "Reporting of breaking news and developing stories in real time.",
+        "end":  "2026-11-28T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T08:30:00.0000000",
+        "title":  "New York Live Tonight",
+        "desc":  "New York Live Tonight brings you celebrity interviews and discusses recipes, beauty, fashion and current events pertinent to the tri-state region.",
+        "end":  "2026-11-28T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T09:00:00.0000000",
+        "title":  "1st Look",
+        "desc":  "The battle continues to win the business of elite athletes Johnny Weir and Tara Lipinski as they discover Scotland.",
+        "end":  "2026-11-28T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T09:30:00.0000000",
+        "title":  "Paid Programming",
+        "desc":  "Paid programming.",
+        "end":  "2026-11-28T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T10:00:00.0000000",
+        "title":  "Open House Outrageous",
+        "desc":  "Open House Outrageous is a new series co-hosted by interior designer Megan Batoon and comedian Tim Chantarangsu. Friends and adventure junkies, Megan and Tim hit the road to discover some of America\u0027s most unique vacation properties and meet the creative minds behind them. From Highland castles and homes built under airplanes to hobbit homes and earth domes. They\u0027ll explore incredible spaces, unco",
+        "end":  "2026-11-28T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T10:30:00.0000000",
+        "title":  "Open House NYC",
+        "desc":  "Host Sara Gore presents a guide to upscale real estate in and around the Big Apple. In addition to a look at the hottest homes on the market, the show also provides interior design tips from specialists and a wealth of information on renovation and stylish living.",
+        "end":  "2026-11-28T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T11:00:00.0000000",
+        "title":  "Saturday Today in New York",
+        "desc":  "The local news, weather and investigative stories impacting your community.",
+        "end":  "2026-11-28T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T12:00:00.0000000",
+        "title":  "Saturday Today",
+        "desc":  "News headlines, interviews and stories intended to inform, entertain, inspire and set the agenda each morning for Americans and help viewers with their finances, health and well-being.",
+        "end":  "2026-11-28T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T13:30:00.0000000",
+        "title":  "Saturday Today in New York",
+        "desc":  "The local news, weather and investigative stories impacting your community.",
+        "end":  "2026-11-28T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T14:00:00.0000000",
+        "title":  "Saturday Today in New York",
+        "desc":  "The local news, weather and investigative stories impacting your community.",
+        "end":  "2026-11-28T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T14:30:00.0000000",
+        "title":  "Open House",
+        "desc":  "Real estate trends and opportunities; home design.",
+        "end":  "2026-11-28T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T15:00:00.0000000",
+        "title":  "Mutual of Omaha\u0027s Wild Kingdom Protecting the Wild",
+        "desc":  "Dr. Rae joins biologists in Zion National Park tracking elusive mountain lions to uncover how they navigate growing park visitation; in California, Peter meets a young mountain lion who lost her tail to injury and follows her rehabilitation journey.",
+        "end":  "2026-11-28T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T15:30:00.0000000",
+        "title":  "Earth Odyssey With Dylan Dreyer",
+        "desc":  "Dylan Dreyer heads to the wilds of Portugal, where she discovers a mysterious cat-like carnivore, playful wolf pups and a butterfly mystery.",
+        "end":  "2026-11-28T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T16:00:00.0000000",
+        "title":  "The Great American Journey",
+        "desc":  "Kelsey Grammer ventures into America\u0027s ever-changing frontiers, from the French Quarter and the Space Needle to the breakthroughs of aviation and the rise of hip-hop.",
+        "end":  "2026-11-28T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T16:30:00.0000000",
+        "title":  "Wild Child",
+        "desc":  "Sheinelle Jones shows off some of the black-and-white birds and monochrome mammals that make the world wild; she discovers doting giant panda parents in China, zippy zebra foals in Africa, plucky penguin hatchlings in the South Pole and plenty more.",
+        "end":  "2026-11-28T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T17:00:00.0000000",
+        "title":  "The Coach Harbaugh Show",
+        "desc":  "",
+        "end":  "2026-11-28T17:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T17:30:00.0000000",
+        "title":  "Live: FIS Alpine Skiing",
+        "desc":  "From Killington, Vt.",
+        "end":  "2026-11-28T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T19:00:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From Caesars Superdome in New Orleans.",
+        "end":  "2026-11-28T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T23:00:00.0000000",
+        "title":  "News4 NY at 6 Weekend",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-11-28T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T23:30:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
         "end":  "2026-11-29T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T00:00:00.0000000",
+        "title":  "Live: Big Ten Countdown",
+        "desc":  "Preseason breakdown of Big Ten football team expectations.",
+        "end":  "2026-11-30T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T00:00:00.0000000",
+        "title":  "Live: Big Ten Countdown",
+        "desc":  "Preseason breakdown of Big Ten football team expectations.",
+        "end":  "2026-11-28T00:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T00:30:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From Camp Randall Stadium in Madison, Wis.",
+        "end":  "2026-11-28T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T04:00:00.0000000",
+        "title":  "Live: News 4 NY at 11",
+        "desc":  "Local and regional news.",
+        "end":  "2026-11-28T04:34:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T04:34:00.0000000",
+        "title":  "The Tonight Show Starring Jimmy Fallon",
+        "desc":  "Hailing from Rockefeller Center in the heart of New York City, Jimmy has made it his mission to make sure viewers end the day with a smile; each weeknight, he hosts A-list guests, from movie stars to athletes, comedians, public figures and everyone in between; he also delivers a signature nightly monologue, performs in topical comedy sketches, plays fan-favorite games, and presents recurring segme",
+        "end":  "2026-11-28T05:35:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T05:35:00.0000000",
+        "title":  "Late Night With Seth Meyers",
+        "desc":  "Actor Dustin Hoffman; comic James Acaster.",
+        "end":  "2026-11-28T06:34:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T06:34:00.0000000",
+        "title":  "News 4 NY at 11",
+        "desc":  "Local and regional news.",
+        "end":  "2026-11-28T07:09:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T07:09:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+        "end":  "2026-11-28T07:39:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T07:39:00.0000000",
+        "title":  "Top Story With Tom Llamas",
+        "desc":  "Reporting of breaking news and developing stories in real time.",
+        "end":  "2026-11-28T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T08:30:00.0000000",
+        "title":  "New York Live Tonight",
+        "desc":  "New York Live Tonight brings you celebrity interviews and discusses recipes, beauty, fashion and current events pertinent to the tri-state region.",
+        "end":  "2026-11-28T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T09:00:00.0000000",
+        "title":  "1st Look",
+        "desc":  "The battle continues to win the business of elite athletes Johnny Weir and Tara Lipinski as they discover Scotland.",
+        "end":  "2026-11-28T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T09:30:00.0000000",
+        "title":  "Paid Programming",
+        "desc":  "Paid programming.",
+        "end":  "2026-11-28T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T10:00:00.0000000",
+        "title":  "Open House Outrageous",
+        "desc":  "Open House Outrageous is a new series co-hosted by interior designer Megan Batoon and comedian Tim Chantarangsu. Friends and adventure junkies, Megan and Tim hit the road to discover some of America\u0027s most unique vacation properties and meet the creative minds behind them. From Highland castles and homes built under airplanes to hobbit homes and earth domes. They\u0027ll explore incredible spaces, unco",
+        "end":  "2026-11-28T10:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T10:30:00.0000000",
+        "title":  "Open House NYC",
+        "desc":  "Host Sara Gore presents a guide to upscale real estate in and around the Big Apple. In addition to a look at the hottest homes on the market, the show also provides interior design tips from specialists and a wealth of information on renovation and stylish living.",
+        "end":  "2026-11-28T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T11:00:00.0000000",
+        "title":  "Saturday Today in New York",
+        "desc":  "The local news, weather and investigative stories impacting your community.",
+        "end":  "2026-11-28T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T12:00:00.0000000",
+        "title":  "Saturday Today",
+        "desc":  "News headlines, interviews and stories intended to inform, entertain, inspire and set the agenda each morning for Americans and help viewers with their finances, health and well-being.",
+        "end":  "2026-11-28T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T13:30:00.0000000",
+        "title":  "Saturday Today in New York",
+        "desc":  "The local news, weather and investigative stories impacting your community.",
+        "end":  "2026-11-28T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T14:00:00.0000000",
+        "title":  "Saturday Today in New York",
+        "desc":  "The local news, weather and investigative stories impacting your community.",
+        "end":  "2026-11-28T14:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T14:30:00.0000000",
+        "title":  "Open House",
+        "desc":  "Real estate trends and opportunities; home design.",
+        "end":  "2026-11-28T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T15:00:00.0000000",
+        "title":  "Mutual of Omaha\u0027s Wild Kingdom Protecting the Wild",
+        "desc":  "Dr. Rae joins biologists in Zion National Park tracking elusive mountain lions to uncover how they navigate growing park visitation; in California, Peter meets a young mountain lion who lost her tail to injury and follows her rehabilitation journey.",
+        "end":  "2026-11-28T15:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T15:30:00.0000000",
+        "title":  "Earth Odyssey With Dylan Dreyer",
+        "desc":  "Dylan Dreyer heads to the wilds of Portugal, where she discovers a mysterious cat-like carnivore, playful wolf pups and a butterfly mystery.",
+        "end":  "2026-11-28T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T16:00:00.0000000",
+        "title":  "The Great American Journey",
+        "desc":  "Kelsey Grammer ventures into America\u0027s ever-changing frontiers, from the French Quarter and the Space Needle to the breakthroughs of aviation and the rise of hip-hop.",
+        "end":  "2026-11-28T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T16:30:00.0000000",
+        "title":  "Wild Child",
+        "desc":  "Sheinelle Jones shows off some of the black-and-white birds and monochrome mammals that make the world wild; she discovers doting giant panda parents in China, zippy zebra foals in Africa, plucky penguin hatchlings in the South Pole and plenty more.",
+        "end":  "2026-11-28T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T17:00:00.0000000",
+        "title":  "The Coach Harbaugh Show",
+        "desc":  "",
+        "end":  "2026-11-28T17:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T17:30:00.0000000",
+        "title":  "Live: FIS Alpine Skiing",
+        "desc":  "From Killington, Vt.",
+        "end":  "2026-11-28T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T19:00:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From Caesars Superdome in New Orleans.",
+        "end":  "2026-11-28T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T23:00:00.0000000",
+        "title":  "News4 NY at 6 Weekend",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-11-28T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T23:30:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+        "end":  "2026-11-29T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T00:00:00.0000000",
+        "title":  "Live: Big Ten Countdown",
+        "desc":  "Preseason breakdown of Big Ten football team expectations.",
+        "end":  "2026-11-29T00:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T00:30:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From Autzen Stadium in Eugene, Ore.",
+        "end":  "2026-11-29T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T04:00:00.0000000",
+        "title":  "Live: News 4 NY at 11",
+        "desc":  "Local and regional news.",
+        "end":  "2026-11-29T04:29:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T04:29:00.0000000",
+        "title":  "Saturday Night Live",
+        "desc":  "Host Druski; The Strokes perform.",
+        "end":  "2026-11-30T00:00:00.0000000"
     }
 ]
