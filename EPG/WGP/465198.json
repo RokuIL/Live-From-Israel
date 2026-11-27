@@ -1,197 +1,5 @@
 [
     {
-        "start":  "2026-11-26T00:35:00.0000000",
-        "title":  "Live: NBA Basketball",
-        "desc":  "From Paycom Center in Oklahoma City.",
-        "end":  "2026-11-26T03:05:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T03:05:00.0000000",
-        "title":  "Live: NBA Basketball",
-        "desc":  "From Moda Center in Portland, Ore.",
-        "end":  "2026-11-26T05:35:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T05:35:00.0000000",
-        "title":  "Live: Inside the NBA",
-        "desc":  "This Emmy Award-winning studio show, which airs following NBA telecasts on ESPN, is hosted by Ernie Johnson, with analysis from Hall of Famer Charles Barkley and NBA champions Kenny Smith and Shaquille O\u0027Neal. It\u0027s a mix of highlights, interviews and hijinks, notably the verbal sparring sessions between the outspoken Barkley and his straight man, Smith. The show also welcomes various guest analyst",
-        "end":  "2026-11-26T06:35:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T06:35:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-26T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T08:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-26T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T09:00:00.0000000",
-        "title":  "NBA Basketball",
-        "desc":  "From Moda Center in Portland, Ore.",
-        "end":  "2026-11-26T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T11:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-26T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T12:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-26T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T13:00:00.0000000",
-        "title":  "Live: Get Up",
-        "desc":  "ESPN\u0027s morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company\u0027s New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio\u0027s longt",
-        "end":  "2026-11-26T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T15:00:00.0000000",
-        "title":  "Live: First Take",
-        "desc":  "Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day\u0027s trending sports topics and under-the-radar news. They\u0027re regularly joined by veteran analysts and the top guests in sports and entertainment.",
-        "end":  "2026-11-26T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T16:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "The Georgia Bulldogs clash with the Cincinnati Bearcats at State Farm Field House in NCAA play. Georgia looks to stay unbeaten after an 88-82 win at Georgia Tech, while 5-1 Cincinnati aims for four straight wins after beating UMass Lowell 78-68.",
-        "end":  "2026-11-26T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T18:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "From Michelob ULTRA Arena in Las Vegas.",
-        "end":  "2026-11-26T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T20:00:00.0000000",
-        "title":  "College Basketball Live Scoreboard",
-        "desc":  "All the latest scores and highlights from college basketball.",
-        "end":  "2026-11-26T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T20:30:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "From Michelob ULTRA Arena in Las Vegas.",
-        "end":  "2026-11-26T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T22:30:00.0000000",
-        "title":  "College Basketball Live Scoreboard",
-        "desc":  "All the latest scores and highlights from college basketball.",
-        "end":  "2026-11-26T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-26T23:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "From T-Mobile Arena in Las Vegas.",
-        "end":  "2026-11-27T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T01:00:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "The TCU Horned Frogs visit the No. 12 Texas Tech Red Raiders for an NCAA Division I FBS conference game. TCU lost 38-17 to Utah on Nov. 21 with Jeremy Payne, while the Texas Tech Red Raiders ride a four-game win streak with Will Hammond.",
-        "end":  "2026-11-27T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T04:00:00.0000000",
-        "title":  "College Basketball Live Scoreboard",
-        "desc":  "All the latest scores and highlights from college basketball.",
-        "end":  "2026-11-27T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T04:30:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "From T-Mobile Arena in Las Vegas.",
-        "end":  "2026-11-27T06:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T06:30:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-27T07:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T07:30:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-27T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T08:30:00.0000000",
-        "title":  "College Football",
-        "desc":  "The TCU Horned Frogs visit the No. 12 Texas Tech Red Raiders for an NCAA Division I FBS conference game. TCU lost 38-17 to Utah on Nov. 21 with Jeremy Payne, while the Texas Tech Red Raiders ride a four-game win streak with Will Hammond.",
-        "end":  "2026-11-27T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T10:30:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-27T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T11:00:00.0000000",
-        "title":  "SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-27T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T12:00:00.0000000",
-        "title":  "Live: SportsCenter",
-        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
-        "end":  "2026-11-27T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T13:00:00.0000000",
-        "title":  "Live: Get Up",
-        "desc":  "ESPN\u0027s morning show features host Mike Greenberg with a rotating and diverse group of analysts opining about and analyzing the latest news from the world of sports. The two-hour, personality-driven show originates from Hudson Square in Lower Manhattan, a modern media hub for ESPN and The Walt Disney Company\u0027s New York-based teams. Greenberg, aka \"Greeny,\" is formerly one-half of ESPN Radio\u0027s longt",
-        "end":  "2026-11-27T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T15:00:00.0000000",
-        "title":  "Live: First Take",
-        "desc":  "Stephen A. Smith hosts this weekday morning sports debate show. Smith provides his expert takes on the day\u0027s trending sports topics and under-the-radar news. They\u0027re regularly joined by veteran analysts and the top guests in sports and entertainment.",
-        "end":  "2026-11-27T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T17:00:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "The UTSA Roadrunners meet the Tulsa Golden Hurricane at the Alamodome in Week 13. First-place UTSA enters at 9-2 after edging UAB 19-17 on Saturday, while 7-4 Tulsa arrives on three straight wins after beating Charlotte 42-14 at home.",
-        "end":  "2026-11-27T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T20:00:00.0000000",
-        "title":  "Live: College Football Scoreboard",
-        "desc":  "Presenting up-to-the-minute scores and highlights during the college football season.",
-        "end":  "2026-11-27T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T20:30:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "The Temple Owls (2-9, 1-6 American) take on the Memphis Tigers (8-3, 5-2) at Simmons Bank Liberty Stadium. Temple seeks to snap a six-game skid after falling 31-27 to Rice. Memphis snapped a three-game win streak with a 38-34 loss to Navy.",
-        "end":  "2026-11-27T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T23:30:00.0000000",
-        "title":  "To Be Announced",
-        "desc":  "Programming to be announced.",
-        "end":  "2026-11-28T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T00:00:00.0000000",
-        "title":  "Live: College Basketball",
-        "desc":  "From Spectrum Center in Charlotte, N.C.",
-        "end":  "2026-11-29T00:00:00.0000000"
-    },
-    {
         "start":  "2026-11-27T01:00:00.0000000",
         "title":  "Live: College Football",
         "desc":  "The TCU Horned Frogs visit the No. 12 Texas Tech Red Raiders for an NCAA Division I FBS conference game. TCU lost 38-17 to Utah on Nov. 21 with Jeremy Payne, while the Texas Tech Red Raiders ride a four-game win streak with Will Hammond.",
@@ -297,7 +105,85 @@
         "start":  "2026-11-28T04:00:00.0000000",
         "title":  "Live: College Basketball",
         "desc":  "From T-Mobile Arena in Las Vegas.",
+        "end":  "2026-11-28T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T06:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-28T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T07:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-28T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T08:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-28T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T09:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-28T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T10:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-28T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T11:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-28T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T12:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-28T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T14:00:00.0000000",
+        "title":  "Live: College GameDay",
+        "desc":  "Originating from the site of one of the day\u0027s best matchups, with a sea of fans cheering wildly in the background, host Rece Davis and analysts Lee Corso, Kirk Herbstreit and Desmond Howard talk college football for three hours, reporting on the top teams, games, players and storylines. David Pollack and Maria Taylor contribute reports, interviews and features. Davis replaced longtime host Chris F",
+        "end":  "2026-11-28T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T17:00:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "The Boston College Eagles visit the No. 7 Miami Hurricanes at Hard Rock Stadium. Boston College beat Syracuse 27-15 behind quarterback Mason McKenzie. The Miami Hurricanes rides a two-game win streak led by quarterback Darian Mensah.",
+        "end":  "2026-11-28T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T20:00:00.0000000",
+        "title":  "Live: College Football Scoreboard",
+        "desc":  "Presenting up-to-the-minute scores and highlights during the college football season.",
+        "end":  "2026-11-28T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T20:30:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From Allegacy Federal Credit Union Stadium in Winston Salem, N.C.",
+        "end":  "2026-11-28T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T23:30:00.0000000",
+        "title":  "Live: College Football Scoreboard",
+        "desc":  "Presenting up-to-the-minute scores and highlights during the college football season.",
         "end":  "2026-11-29T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T00:00:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From FirstBank Stadium in Nashville, Tenn.",
+        "end":  "2026-11-30T00:00:00.0000000"
     },
     {
         "start":  "2026-11-28T00:00:00.0000000",
@@ -315,6 +201,126 @@
         "start":  "2026-11-28T04:00:00.0000000",
         "title":  "Live: College Basketball",
         "desc":  "From T-Mobile Arena in Las Vegas.",
+        "end":  "2026-11-28T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T06:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-28T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T07:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-28T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T08:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-28T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T09:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-28T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T10:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-28T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T11:00:00.0000000",
+        "title":  "SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-28T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T12:00:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-28T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T14:00:00.0000000",
+        "title":  "Live: College GameDay",
+        "desc":  "Originating from the site of one of the day\u0027s best matchups, with a sea of fans cheering wildly in the background, host Rece Davis and analysts Lee Corso, Kirk Herbstreit and Desmond Howard talk college football for three hours, reporting on the top teams, games, players and storylines. David Pollack and Maria Taylor contribute reports, interviews and features. Davis replaced longtime host Chris F",
+        "end":  "2026-11-28T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T17:00:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "The Boston College Eagles visit the No. 7 Miami Hurricanes at Hard Rock Stadium. Boston College beat Syracuse 27-15 behind quarterback Mason McKenzie. The Miami Hurricanes rides a two-game win streak led by quarterback Darian Mensah.",
+        "end":  "2026-11-28T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T20:00:00.0000000",
+        "title":  "Live: College Football Scoreboard",
+        "desc":  "Presenting up-to-the-minute scores and highlights during the college football season.",
+        "end":  "2026-11-28T20:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T20:30:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From Allegacy Federal Credit Union Stadium in Winston Salem, N.C.",
+        "end":  "2026-11-28T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T23:30:00.0000000",
+        "title":  "Live: College Football Scoreboard",
+        "desc":  "Presenting up-to-the-minute scores and highlights during the college football season.",
         "end":  "2026-11-29T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T00:00:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From FirstBank Stadium in Nashville, Tenn.",
+        "end":  "2026-11-29T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T03:00:00.0000000",
+        "title":  "Live: College Football Scoreboard",
+        "desc":  "Presenting up-to-the-minute scores and highlights during the college football season.",
+        "end":  "2026-11-29T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T03:30:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "From Michelob ULTRA Arena in Las Vegas.",
+        "end":  "2026-11-29T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T05:30:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-30T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T00:00:00.0000000",
+        "title":  "Live: College Football",
+        "desc":  "From FirstBank Stadium in Nashville, Tenn.",
+        "end":  "2026-11-29T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T03:00:00.0000000",
+        "title":  "Live: College Football Scoreboard",
+        "desc":  "Presenting up-to-the-minute scores and highlights during the college football season.",
+        "end":  "2026-11-29T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T03:30:00.0000000",
+        "title":  "Live: College Basketball",
+        "desc":  "From Michelob ULTRA Arena in Las Vegas.",
+        "end":  "2026-11-29T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T05:30:00.0000000",
+        "title":  "Live: SportsCenter",
+        "desc":  "The latest news, highlights and inside information from every corner of the sports world is presented each day on \"SportsCenter,\" ESPN\u0027s first-ever program when the network debuted in September of 1979. The flagship series airs an evening edition and a brand new midnight show each weekday before the stage is cleared for a live \"SportsCenter\" morning block that emphasizes fast-paced, highlights-dri",
+        "end":  "2026-11-30T00:00:00.0000000"
     }
 ]
