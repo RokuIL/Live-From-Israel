@@ -1,353 +1,5 @@
 [
     {
-        "start":  "2026-11-27T00:00:00.0000000",
-        "title":  "News 4 NY at 7",
-        "desc":  "Stay informed with the breaking news and headlines.",
-        "end":  "2026-11-27T00:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T00:30:00.0000000",
-        "title":  "New York Live Tonight",
-        "desc":  "New York Live Tonight brings you celebrity interviews and discusses recipes, beauty, fashion and current events pertinent to the tri-state region.",
-        "end":  "2026-11-27T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T01:00:00.0000000",
-        "title":  "Live: Football Night in America",
-        "desc":  "\"Football Night in America\" features host Maria Taylor, former NFL head coach and quarterback Jason Garrett, former NFL head coach Mike Tomlin and NFL insider Mike Florio recapping the day\u0027s NFL highlights.",
-        "end":  "2026-11-27T01:15:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T01:15:00.0000000",
-        "title":  "Live: NFL Football",
-        "desc":  "The Bills host the Chiefs in NFL regular-season play at Highmark Stadium. Buffalo has won three of the last five meetings between these AFC rivals, including a 28-21 victory over Kansas City the last time they met in Buffalo.",
-        "end":  "2026-11-27T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T04:30:00.0000000",
-        "title":  "Live: News 4 NY at 11",
-        "desc":  "Local and regional news.",
-        "end":  "2026-11-27T05:05:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T05:05:00.0000000",
-        "title":  "The Tonight Show Starring Jimmy Fallon",
-        "desc":  "Justin Timberlake talks and performs.",
-        "end":  "2026-11-27T06:06:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T06:06:00.0000000",
-        "title":  "Late Night With Seth Meyers",
-        "desc":  "The Meyers Family; actresses Tina Fey and Amy Poehler.",
-        "end":  "2026-11-27T07:05:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T07:05:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-        "end":  "2026-11-27T07:09:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T07:09:00.0000000",
-        "title":  "News 4 NY at 11",
-        "desc":  "Local and regional news.",
-        "end":  "2026-11-27T07:43:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T07:43:00.0000000",
-        "title":  "Nightly News -- Great Americans",
-        "desc":  "",
-        "end":  "2026-11-27T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T08:30:00.0000000",
-        "title":  "New York Live Tonight",
-        "desc":  "New York Live Tonight brings you celebrity interviews and discusses recipes, beauty, fashion and current events pertinent to the tri-state region.",
-        "end":  "2026-11-27T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T09:00:00.0000000",
-        "title":  "Early Today",
-        "desc":  "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day\u0027s anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
-        "end":  "2026-11-27T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T09:30:00.0000000",
-        "title":  "Today in New York",
-        "desc":  "The local news, weather and investigative stories impacting your community.",
-        "end":  "2026-11-27T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T10:00:00.0000000",
-        "title":  "Today in New York",
-        "desc":  "The local news, weather and investigative stories impacting your community.",
-        "end":  "2026-11-27T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T11:00:00.0000000",
-        "title":  "Today in New York @ 6AM",
-        "desc":  "The latest local news, weather and investigative stories impacting the community.",
-        "end":  "2026-11-27T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T12:00:00.0000000",
-        "title":  "Today",
-        "desc":  "Black Friday deals strategy; actress Holly Robinson Peete; Today Bestsellers: Black Friday with Julie Ricevuto; Thanks \u0026 Giving with Marlo Thomas.",
-        "end":  "2026-11-27T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T14:00:00.0000000",
-        "title":  "Today 3rd Hour",
-        "desc":  "GrowNYC Greenmarkets turn 50; \"Hood Honey\" beekeepers; Augusta restaurant employing people with disabilities; movie popcorn marketing trends; On The Job: Turtle Back Zoo train engineer; Today Food: Thanksgiving leftovers recipes with Krissy Downey.",
-        "end":  "2026-11-27T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T15:00:00.0000000",
-        "title":  "Today With Jenna \u0026 Sheinelle",
-        "desc":  "Actress Gina Torres; holiday decor dilemmas with Preston Konrad; Black Friday gifts with Meaghan Murphy; Il Volo performs.",
-        "end":  "2026-11-27T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T16:00:00.0000000",
-        "title":  "Live: News 4 NY at 11AM",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-11-27T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T16:30:00.0000000",
-        "title":  "New York Live",
-        "desc":  "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
-        "end":  "2026-11-27T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T17:00:00.0000000",
-        "title":  "NBC News Daily",
-        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-        "end":  "2026-11-27T18:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T18:00:00.0000000",
-        "title":  "Dateline",
-        "desc":  "A mother searches for answers in the unsolved murder of her 14-year-old daughter until new DNA technology changes everything.",
-        "end":  "2026-11-27T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T19:00:00.0000000",
-        "title":  "NBC News Daily",
-        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
-        "end":  "2026-11-27T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T20:00:00.0000000",
-        "title":  "Live: News Zone",
-        "desc":  "News, as it happens; raw coverage and inside access from the tri-state and beyond.",
-        "end":  "2026-11-27T21:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T21:00:00.0000000",
-        "title":  "Live: News 4 NY at 4",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-11-27T21:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T21:30:00.0000000",
-        "title":  "Live: News 4 NY at 4:30",
-        "desc":  "NY news.",
-        "end":  "2026-11-27T22:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T22:00:00.0000000",
-        "title":  "Live: News 4 NY at 5",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-11-27T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T22:30:00.0000000",
-        "title":  "Live: News 4 NY at 5:30",
-        "desc":  "NY news.",
-        "end":  "2026-11-27T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T23:00:00.0000000",
-        "title":  "Live: News 4 NY at 6",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-11-27T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T23:30:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-        "end":  "2026-11-28T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T00:00:00.0000000",
-        "title":  "Live: Big Ten Countdown",
-        "desc":  "Preseason breakdown of Big Ten football team expectations.",
-        "end":  "2026-11-28T00:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T00:30:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "From Camp Randall Stadium in Madison, Wis.",
-        "end":  "2026-11-28T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T04:00:00.0000000",
-        "title":  "Live: News 4 NY at 11",
-        "desc":  "Local and regional news.",
-        "end":  "2026-11-28T04:34:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T04:34:00.0000000",
-        "title":  "The Tonight Show Starring Jimmy Fallon",
-        "desc":  "Hailing from Rockefeller Center in the heart of New York City, Jimmy has made it his mission to make sure viewers end the day with a smile; each weeknight, he hosts A-list guests, from movie stars to athletes, comedians, public figures and everyone in between; he also delivers a signature nightly monologue, performs in topical comedy sketches, plays fan-favorite games, and presents recurring segme",
-        "end":  "2026-11-28T05:35:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T05:35:00.0000000",
-        "title":  "Late Night With Seth Meyers",
-        "desc":  "Actor Dustin Hoffman; comic James Acaster.",
-        "end":  "2026-11-28T06:34:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T06:34:00.0000000",
-        "title":  "News 4 NY at 11",
-        "desc":  "Local and regional news.",
-        "end":  "2026-11-28T07:09:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T07:09:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-        "end":  "2026-11-28T07:39:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T07:39:00.0000000",
-        "title":  "Top Story With Tom Llamas",
-        "desc":  "Reporting of breaking news and developing stories in real time.",
-        "end":  "2026-11-28T08:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T08:30:00.0000000",
-        "title":  "New York Live Tonight",
-        "desc":  "New York Live Tonight brings you celebrity interviews and discusses recipes, beauty, fashion and current events pertinent to the tri-state region.",
-        "end":  "2026-11-28T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T09:00:00.0000000",
-        "title":  "1st Look",
-        "desc":  "The battle continues to win the business of elite athletes Johnny Weir and Tara Lipinski as they discover Scotland.",
-        "end":  "2026-11-28T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T09:30:00.0000000",
-        "title":  "Paid Programming",
-        "desc":  "Paid programming.",
-        "end":  "2026-11-28T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T10:00:00.0000000",
-        "title":  "Open House Outrageous",
-        "desc":  "Open House Outrageous is a new series co-hosted by interior designer Megan Batoon and comedian Tim Chantarangsu. Friends and adventure junkies, Megan and Tim hit the road to discover some of America\u0027s most unique vacation properties and meet the creative minds behind them. From Highland castles and homes built under airplanes to hobbit homes and earth domes. They\u0027ll explore incredible spaces, unco",
-        "end":  "2026-11-28T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T10:30:00.0000000",
-        "title":  "Open House NYC",
-        "desc":  "Host Sara Gore presents a guide to upscale real estate in and around the Big Apple. In addition to a look at the hottest homes on the market, the show also provides interior design tips from specialists and a wealth of information on renovation and stylish living.",
-        "end":  "2026-11-28T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T11:00:00.0000000",
-        "title":  "Saturday Today in New York",
-        "desc":  "The local news, weather and investigative stories impacting your community.",
-        "end":  "2026-11-28T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T12:00:00.0000000",
-        "title":  "Saturday Today",
-        "desc":  "News headlines, interviews and stories intended to inform, entertain, inspire and set the agenda each morning for Americans and help viewers with their finances, health and well-being.",
-        "end":  "2026-11-28T13:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T13:30:00.0000000",
-        "title":  "Saturday Today in New York",
-        "desc":  "The local news, weather and investigative stories impacting your community.",
-        "end":  "2026-11-28T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T14:00:00.0000000",
-        "title":  "Saturday Today in New York",
-        "desc":  "The local news, weather and investigative stories impacting your community.",
-        "end":  "2026-11-28T14:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T14:30:00.0000000",
-        "title":  "Open House",
-        "desc":  "Real estate trends and opportunities; home design.",
-        "end":  "2026-11-28T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T15:00:00.0000000",
-        "title":  "Mutual of Omaha\u0027s Wild Kingdom Protecting the Wild",
-        "desc":  "Dr. Rae joins biologists in Zion National Park tracking elusive mountain lions to uncover how they navigate growing park visitation; in California, Peter meets a young mountain lion who lost her tail to injury and follows her rehabilitation journey.",
-        "end":  "2026-11-28T15:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T15:30:00.0000000",
-        "title":  "Earth Odyssey With Dylan Dreyer",
-        "desc":  "Dylan Dreyer heads to the wilds of Portugal, where she discovers a mysterious cat-like carnivore, playful wolf pups and a butterfly mystery.",
-        "end":  "2026-11-28T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T16:00:00.0000000",
-        "title":  "The Great American Journey",
-        "desc":  "Kelsey Grammer ventures into America\u0027s ever-changing frontiers, from the French Quarter and the Space Needle to the breakthroughs of aviation and the rise of hip-hop.",
-        "end":  "2026-11-28T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T16:30:00.0000000",
-        "title":  "Wild Child",
-        "desc":  "Sheinelle Jones shows off some of the black-and-white birds and monochrome mammals that make the world wild; she discovers doting giant panda parents in China, zippy zebra foals in Africa, plucky penguin hatchlings in the South Pole and plenty more.",
-        "end":  "2026-11-28T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T17:00:00.0000000",
-        "title":  "The Coach Harbaugh Show",
-        "desc":  "",
-        "end":  "2026-11-28T17:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T17:30:00.0000000",
-        "title":  "Live: FIS Alpine Skiing",
-        "desc":  "From Killington, Vt.",
-        "end":  "2026-11-28T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T19:00:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "From Caesars Superdome in New Orleans.",
-        "end":  "2026-11-28T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T23:00:00.0000000",
-        "title":  "News4 NY at 6 Weekend",
-        "desc":  "The latest local news, weather and investigative stories impacting your community.",
-        "end":  "2026-11-28T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T23:30:00.0000000",
-        "title":  "NBC Nightly News With Tom Llamas",
-        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
-        "end":  "2026-11-29T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-29T00:00:00.0000000",
-        "title":  "Live: Big Ten Countdown",
-        "desc":  "Preseason breakdown of Big Ten football team expectations.",
-        "end":  "2026-11-30T00:00:00.0000000"
-    },
-    {
         "start":  "2026-11-28T00:00:00.0000000",
         "title":  "Live: Big Ten Countdown",
         "desc":  "Preseason breakdown of Big Ten football team expectations.",
@@ -867,6 +519,378 @@
         "start":  "2026-11-30T05:30:00.0000000",
         "title":  "Open House Outrageous",
         "desc":  "Open House Outrageous is a new series co-hosted by interior designer Megan Batoon and comedian Tim Chantarangsu. Friends and adventure junkies, Megan and Tim hit the road to discover some of America\u0027s most unique vacation properties and meet the creative minds behind them. From Highland castles and homes built under airplanes to hobbit homes and earth domes. They\u0027ll explore incredible spaces, unco",
+        "end":  "2026-11-30T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T06:00:00.0000000",
+        "title":  "Open House NYC",
+        "desc":  "Host Sara Gore presents a guide to upscale real estate in and around the Big Apple. In addition to a look at the hottest homes on the market, the show also provides interior design tips from specialists and a wealth of information on renovation and stylish living.",
+        "end":  "2026-11-30T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T06:30:00.0000000",
+        "title":  "Open House",
+        "desc":  "Real estate trends and opportunities; home design.",
+        "end":  "2026-11-30T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T07:00:00.0000000",
+        "title":  "In Touch With Dr. Charles Stanley",
+        "desc":  "Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.",
+        "end":  "2026-11-30T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T07:30:00.0000000",
+        "title":  "Meet the Press",
+        "desc":  "Interviews with public figures and those making news, setting the political agenda and spotlighting the impact Washington decision-making has on Americans.",
+        "end":  "2026-11-30T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T08:30:00.0000000",
+        "title":  "Early Today",
+        "desc":  "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day\u0027s anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+        "end":  "2026-11-30T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T09:00:00.0000000",
+        "title":  "Early Today",
+        "desc":  "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day\u0027s anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+        "end":  "2026-11-30T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T09:30:00.0000000",
+        "title":  "Today in New York",
+        "desc":  "The local news, weather and investigative stories impacting your community.",
+        "end":  "2026-11-30T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T10:00:00.0000000",
+        "title":  "Today in New York",
+        "desc":  "The local news, weather and investigative stories impacting your community.",
+        "end":  "2026-11-30T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T11:00:00.0000000",
+        "title":  "Today in New York @ 6AM",
+        "desc":  "The latest local news, weather and investigative stories impacting the community.",
+        "end":  "2026-11-30T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T12:00:00.0000000",
+        "title":  "Today",
+        "desc":  "News headlines, interviews, and stories intended to inform, entertain, inspire and set the agenda each morning for Americans and help viewers with their finances, health and well-being.",
+        "end":  "2026-11-30T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T14:00:00.0000000",
+        "title":  "Today 3rd Hour",
+        "desc":  "A news program intended to inform, entertain, inspire and set the agenda each morning, offering news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.",
+        "end":  "2026-11-30T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T15:00:00.0000000",
+        "title":  "Today With Jenna \u0026 Sheinelle",
+        "desc":  "America\u0027s feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.",
+        "end":  "2026-11-30T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T16:00:00.0000000",
+        "title":  "Live: News 4 NY at 11AM",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-11-30T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T16:30:00.0000000",
+        "title":  "New York Live",
+        "desc":  "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
+        "end":  "2026-11-30T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T17:00:00.0000000",
+        "title":  "NBC News Daily",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+        "end":  "2026-11-30T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T18:00:00.0000000",
+        "title":  "Dateline",
+        "desc":  "After filming wraps on an indie horror movie, the cast members learn their lead actress is not who she says she is and has been charged with killing her uncle.",
+        "end":  "2026-11-30T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T19:00:00.0000000",
+        "title":  "NBC News Daily",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+        "end":  "2026-11-30T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T20:00:00.0000000",
+        "title":  "Live: News Zone",
+        "desc":  "News, as it happens; raw coverage and inside access from the tri-state and beyond.",
+        "end":  "2026-11-30T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T21:00:00.0000000",
+        "title":  "News 4 NY at 4",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-11-30T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T21:30:00.0000000",
+        "title":  "News 4 NY at 4:30",
+        "desc":  "NY news.",
+        "end":  "2026-11-30T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T22:00:00.0000000",
+        "title":  "News 4 NY at 5",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-11-30T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T22:30:00.0000000",
+        "title":  "News 4 NY at 5:30",
+        "desc":  "NY news.",
+        "end":  "2026-11-30T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T23:00:00.0000000",
+        "title":  "News 4 NY at 6",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-11-30T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T23:30:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
         "end":  "2026-12-01T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-12-01T00:00:00.0000000",
+        "title":  "News 4 NY at 7",
+        "desc":  "Stay informed with the breaking news and headlines.",
+        "end":  "2026-12-02T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T00:00:00.0000000",
+        "title":  "Live: Football Night in America",
+        "desc":  "\"Football Night in America\" features host Maria Taylor, former NFL head coach and quarterback Jason Garrett, former NFL head coach Mike Tomlin and NFL insider Mike Florio recapping the day\u0027s NFL highlights.",
+        "end":  "2026-11-30T01:15:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T01:15:00.0000000",
+        "title":  "Live: NFL Football",
+        "desc":  "The Browns host the Raiders in NFL regular-season play at Huntington Bank Field. At 6-4, Cleveland welcomes a Las Vegas side that has dropped seven of its last eight and sits at 4-7.",
+        "end":  "2026-11-30T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T04:30:00.0000000",
+        "title":  "News 4 NY at 11:30",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-11-30T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T05:00:00.0000000",
+        "title":  "Sports Final",
+        "desc":  "News, scores, highlights.",
+        "end":  "2026-11-30T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T05:30:00.0000000",
+        "title":  "Open House Outrageous",
+        "desc":  "Open House Outrageous is a new series co-hosted by interior designer Megan Batoon and comedian Tim Chantarangsu. Friends and adventure junkies, Megan and Tim hit the road to discover some of America\u0027s most unique vacation properties and meet the creative minds behind them. From Highland castles and homes built under airplanes to hobbit homes and earth domes. They\u0027ll explore incredible spaces, unco",
+        "end":  "2026-11-30T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T06:00:00.0000000",
+        "title":  "Open House NYC",
+        "desc":  "Host Sara Gore presents a guide to upscale real estate in and around the Big Apple. In addition to a look at the hottest homes on the market, the show also provides interior design tips from specialists and a wealth of information on renovation and stylish living.",
+        "end":  "2026-11-30T06:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T06:30:00.0000000",
+        "title":  "Open House",
+        "desc":  "Real estate trends and opportunities; home design.",
+        "end":  "2026-11-30T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T07:00:00.0000000",
+        "title":  "In Touch With Dr. Charles Stanley",
+        "desc":  "Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.",
+        "end":  "2026-11-30T07:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T07:30:00.0000000",
+        "title":  "Meet the Press",
+        "desc":  "Interviews with public figures and those making news, setting the political agenda and spotlighting the impact Washington decision-making has on Americans.",
+        "end":  "2026-11-30T08:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T08:30:00.0000000",
+        "title":  "Early Today",
+        "desc":  "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day\u0027s anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+        "end":  "2026-11-30T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T09:00:00.0000000",
+        "title":  "Early Today",
+        "desc":  "This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day\u0027s anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.",
+        "end":  "2026-11-30T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T09:30:00.0000000",
+        "title":  "Today in New York",
+        "desc":  "The local news, weather and investigative stories impacting your community.",
+        "end":  "2026-11-30T10:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T10:00:00.0000000",
+        "title":  "Today in New York",
+        "desc":  "The local news, weather and investigative stories impacting your community.",
+        "end":  "2026-11-30T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T11:00:00.0000000",
+        "title":  "Today in New York @ 6AM",
+        "desc":  "The latest local news, weather and investigative stories impacting the community.",
+        "end":  "2026-11-30T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T12:00:00.0000000",
+        "title":  "Today",
+        "desc":  "News headlines, interviews, and stories intended to inform, entertain, inspire and set the agenda each morning for Americans and help viewers with their finances, health and well-being.",
+        "end":  "2026-11-30T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T14:00:00.0000000",
+        "title":  "Today 3rd Hour",
+        "desc":  "A news program intended to inform, entertain, inspire and set the agenda each morning, offering news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.",
+        "end":  "2026-11-30T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T15:00:00.0000000",
+        "title":  "Today With Jenna \u0026 Sheinelle",
+        "desc":  "America\u0027s feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.",
+        "end":  "2026-11-30T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T16:00:00.0000000",
+        "title":  "Live: News 4 NY at 11AM",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-11-30T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T16:30:00.0000000",
+        "title":  "New York Live",
+        "desc":  "Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.",
+        "end":  "2026-11-30T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T17:00:00.0000000",
+        "title":  "NBC News Daily",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+        "end":  "2026-11-30T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T18:00:00.0000000",
+        "title":  "Dateline",
+        "desc":  "After filming wraps on an indie horror movie, the cast members learn their lead actress is not who she says she is and has been charged with killing her uncle.",
+        "end":  "2026-11-30T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T19:00:00.0000000",
+        "title":  "NBC News Daily",
+        "desc":  "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.",
+        "end":  "2026-11-30T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T20:00:00.0000000",
+        "title":  "Live: News Zone",
+        "desc":  "News, as it happens; raw coverage and inside access from the tri-state and beyond.",
+        "end":  "2026-11-30T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T21:00:00.0000000",
+        "title":  "News 4 NY at 4",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-11-30T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T21:30:00.0000000",
+        "title":  "News 4 NY at 4:30",
+        "desc":  "NY news.",
+        "end":  "2026-11-30T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T22:00:00.0000000",
+        "title":  "News 4 NY at 5",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-11-30T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T22:30:00.0000000",
+        "title":  "News 4 NY at 5:30",
+        "desc":  "NY news.",
+        "end":  "2026-11-30T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T23:00:00.0000000",
+        "title":  "News 4 NY at 6",
+        "desc":  "The latest local news, weather and investigative stories impacting your community.",
+        "end":  "2026-11-30T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T23:30:00.0000000",
+        "title":  "NBC Nightly News With Tom Llamas",
+        "desc":  "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.",
+        "end":  "2026-12-01T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-12-01T00:00:00.0000000",
+        "title":  "News 4 NY at 7",
+        "desc":  "Stay informed with the breaking news and headlines.",
+        "end":  "2026-12-01T00:30:00.0000000"
+    },
+    {
+        "start":  "2026-12-01T00:30:00.0000000",
+        "title":  "New York Live Tonight",
+        "desc":  "New York Live Tonight brings you celebrity interviews and discusses recipes, beauty, fashion and current events pertinent to the tri-state region.",
+        "end":  "2026-12-01T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-12-01T01:00:00.0000000",
+        "title":  "Heal: A Princess of Wales Special",
+        "desc":  "In a deeply personal new documentary, The Princess of Wales explores life beyond diagnosis and the many ways people find comfort, strength and hope.",
+        "end":  "2026-12-01T01:32:00.0000000"
+    },
+    {
+        "start":  "2026-12-01T01:32:00.0000000",
+        "title":  "Live: The Voice",
+        "desc":  "The live shows continue as the top eight artists perform a selection of viral hits in a special TikTok-themed episode; viewers begin the vote for their favorite artists with results announced the same night.",
+        "end":  "2026-12-01T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-12-01T03:00:00.0000000",
+        "title":  "Christmas at Graceland",
+        "desc":  "Music\u0027s biggest stars celebrate Elvis Presley, his music and his favorite time of year, live from the Graceland Estate.",
+        "end":  "2026-12-01T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-12-01T04:00:00.0000000",
+        "title":  "Live: News 4 NY at 11",
+        "desc":  "Local and regional news.",
+        "end":  "2026-12-01T04:34:00.0000000"
+    },
+    {
+        "start":  "2026-12-01T04:34:00.0000000",
+        "title":  "The Tonight Show Starring Jimmy Fallon",
+        "desc":  "Actor Will Arnett; actress Hunter Schafer; Fran Lebowitz; Busta Rhymes ft. Common and Jon Bastiste perform.",
+        "end":  "2026-12-01T05:35:00.0000000"
+    },
+    {
+        "start":  "2026-12-01T05:35:00.0000000",
+        "title":  "Late Night With Seth Meyers",
+        "desc":  "Actress Rose Byrne; actor George Fouracres.",
+        "end":  "2026-12-02T00:00:00.0000000"
     }
 ]

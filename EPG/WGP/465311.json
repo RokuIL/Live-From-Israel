@@ -1,242 +1,248 @@
 [
     {
-        "start":  "2026-11-27T00:30:00.0000000",
+        "start":  "2026-11-28T00:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Steelers host the Broncos in NFL regular-season play at Acrisure Stadium. Denver arrives 8-2 and winners of six straight, while Pittsburgh sits 6-4 after back-to-back losses.",
+        "end":  "2026-11-28T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T03:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
+        "end":  "2026-11-28T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T04:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "From Ford Field in Detroit.",
+        "end":  "2026-11-28T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T07:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
+        "end":  "2026-11-28T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T08:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "Football action from around the National Football League.",
+        "end":  "2026-11-28T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T11:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Bills host the Chiefs in NFL regular-season play at Highmark Stadium. First in the AFC at 9-1, Buffalo has won nine of its last 10, while Kansas City arrives at 8-2 but has dropped two of its last five.",
+        "end":  "2026-11-28T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T13:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Steelers host the Broncos in NFL regular-season play at Acrisure Stadium. Denver arrives 8-2 and winners of six straight, while Pittsburgh sits 6-4 after back-to-back losses.",
+        "end":  "2026-11-28T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T16:00:00.0000000",
+        "title":  "NFL Matchup",
+        "desc":  "The show that brings viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
+        "end":  "2026-11-28T16:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T16:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Seahawks (3-1) host the 49ers (4-0) in NFL Week 5 at Lumen Field. San Francisco arrives atop the NFC West, but Seattle won the last meeting here 41-6 in January. Seattle looks to Sam Darnold, who has 560 passing yards and six TDs this season.",
+        "end":  "2026-11-28T19:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T19:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Detroit Lions host the Chicago Bears in an NFC North divisional game at Ford Field. Both teams enter at 8-2, with Detroit having won four straight meetings against Chicago.",
+        "end":  "2026-11-28T22:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-28T22:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Bills host the Chiefs in NFL regular-season play at Highmark Stadium. First in the AFC at 9-1, Buffalo has won nine of its last 10, while Kansas City arrives at 8-2 but has dropped two of its last five.",
+        "end":  "2026-11-29T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T01:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Seahawks (3-1) host the 49ers (4-0) in NFL Week 5 at Lumen Field. San Francisco arrives atop the NFC West, but Seattle won the last meeting here 41-6 in January. Seattle looks to Sam Darnold, who has 560 passing yards and six TDs this season.",
+        "end":  "2026-11-29T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T04:30:00.0000000",
+        "title":  "NFL Matchup",
+        "desc":  "The show that brings viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
+        "end":  "2026-11-29T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T05:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Steelers host the Broncos in NFL regular-season play at Acrisure Stadium. Denver arrives 8-2 and winners of six straight, while Pittsburgh sits 6-4 after back-to-back losses.",
+        "end":  "2026-11-29T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T08:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Bills host the Chiefs in NFL regular-season play at Highmark Stadium. First in the AFC at 9-1, Buffalo has won nine of its last 10, while Kansas City arrives at 8-2 but has dropped two of its last five.",
+        "end":  "2026-11-29T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T11:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Detroit Lions host the Chicago Bears in an NFC North divisional game at Ford Field. Both teams enter at 8-2, with Detroit having won four straight meetings against Chicago.",
+        "end":  "2026-11-29T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T13:30:00.0000000",
+        "title":  "NFL Matchup",
+        "desc":  "The show that brings viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
+        "end":  "2026-11-29T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T14:00:00.0000000",
+        "title":  "Live: NFL GameDay Morning",
+        "desc":  "Rich Eisen leads a cast of NFL talent through four hours of pregame hype, prepping viewers for the kickoffs of Sunday\u0027s games. Joining Eisen is Super Bowl champion Kurt Warner, former NFL head coach Steve Mariucci, and special guests each week to break down the matchups. The latest news from around the league, reports from game sites and interviews with players and coaches are featured, and inside",
+        "end":  "2026-11-29T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T18:00:00.0000000",
+        "title":  "NFL GameDay Live",
+        "desc":  "Expanding on NFL Network\u0027s \"GameDay\" programming on Sundays during football season, \"GameDay Live\" updates viewers on what\u0027s happening throughout the league. Beginning with kickoff of early-afternoon events and continuing throughout late-afternoon contests, the studio show offers nearly immediate highlights of scoring and other notable plays. But the program is about more than the action; it inter",
+        "end":  "2026-11-29T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T21:30:00.0000000",
+        "title":  "NFL GameDay Live",
+        "desc":  "Expanding on NFL Network\u0027s \"GameDay\" programming on Sundays during football season, \"GameDay Live\" updates viewers on what\u0027s happening throughout the league. Beginning with kickoff of early-afternoon events and continuing throughout late-afternoon contests, the studio show offers nearly immediate highlights of scoring and other notable plays. But the program is about more than the action; it inter",
+        "end":  "2026-11-30T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T01:30:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Seahawks (3-1) host the 49ers (4-0) in NFL Week 5 at Lumen Field. San Francisco arrives atop the NFC West, but Seattle won the last meeting here 41-6 in January. Seattle looks to Sam Darnold, who has 560 passing yards and six TDs this season.",
+        "end":  "2026-11-29T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T04:30:00.0000000",
+        "title":  "NFL Matchup",
+        "desc":  "The show that brings viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
+        "end":  "2026-11-29T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T05:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Steelers host the Broncos in NFL regular-season play at Acrisure Stadium. Denver arrives 8-2 and winners of six straight, while Pittsburgh sits 6-4 after back-to-back losses.",
+        "end":  "2026-11-29T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T08:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Bills host the Chiefs in NFL regular-season play at Highmark Stadium. First in the AFC at 9-1, Buffalo has won nine of its last 10, while Kansas City arrives at 8-2 but has dropped two of its last five.",
+        "end":  "2026-11-29T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T11:00:00.0000000",
+        "title":  "NFL Football",
+        "desc":  "The Detroit Lions host the Chicago Bears in an NFC North divisional game at Ford Field. Both teams enter at 8-2, with Detroit having won four straight meetings against Chicago.",
+        "end":  "2026-11-29T13:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T13:30:00.0000000",
+        "title":  "NFL Matchup",
+        "desc":  "The show that brings viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
+        "end":  "2026-11-29T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T14:00:00.0000000",
+        "title":  "Live: NFL GameDay Morning",
+        "desc":  "Rich Eisen leads a cast of NFL talent through four hours of pregame hype, prepping viewers for the kickoffs of Sunday\u0027s games. Joining Eisen is Super Bowl champion Kurt Warner, former NFL head coach Steve Mariucci, and special guests each week to break down the matchups. The latest news from around the league, reports from game sites and interviews with players and coaches are featured, and inside",
+        "end":  "2026-11-29T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T18:00:00.0000000",
+        "title":  "NFL GameDay Live",
+        "desc":  "Expanding on NFL Network\u0027s \"GameDay\" programming on Sundays during football season, \"GameDay Live\" updates viewers on what\u0027s happening throughout the league. Beginning with kickoff of early-afternoon events and continuing throughout late-afternoon contests, the studio show offers nearly immediate highlights of scoring and other notable plays. But the program is about more than the action; it inter",
+        "end":  "2026-11-29T21:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-29T21:30:00.0000000",
+        "title":  "NFL GameDay Live",
+        "desc":  "Expanding on NFL Network\u0027s \"GameDay\" programming on Sundays during football season, \"GameDay Live\" updates viewers on what\u0027s happening throughout the league. Beginning with kickoff of early-afternoon events and continuing throughout late-afternoon contests, the studio show offers nearly immediate highlights of scoring and other notable plays. But the program is about more than the action; it inter",
+        "end":  "2026-11-30T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T00:30:00.0000000",
         "title":  "Live: NFL GameDay Highlights",
         "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
-        "end":  "2026-11-27T01:30:00.0000000"
+        "end":  "2026-11-30T01:30:00.0000000"
     },
     {
-        "start":  "2026-11-27T01:30:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-11-27T04:30:00.0000000"
+        "start":  "2026-11-30T01:30:00.0000000",
+        "title":  "NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
+        "end":  "2026-11-30T02:30:00.0000000"
     },
     {
-        "start":  "2026-11-27T04:30:00.0000000",
+        "start":  "2026-11-30T02:30:00.0000000",
+        "title":  "NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
+        "end":  "2026-11-30T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T03:30:00.0000000",
+        "title":  "NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
+        "end":  "2026-11-30T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T04:30:00.0000000",
         "title":  "Live: NFL GameDay Final",
         "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
-        "end":  "2026-11-27T05:30:00.0000000"
+        "end":  "2026-11-30T05:30:00.0000000"
     },
     {
-        "start":  "2026-11-27T05:30:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Detroit Lions clash with Chicago Bears in their first NFC meeting of the season. Detroit looks to protect a 6-0 home record behind four sacks in a 31-21 victory, while 8-2 Chicago relies on five straight wins to claim sole possession of first.",
-        "end":  "2026-11-27T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T08:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Cowboys host the Eagles in NFL regular-season play at AT\u0026T Stadium. Dallas, at 5-6, beat Philadelphia 38-21 just a month ago, and the Eagles arrive at 3-7 after snapping a seven-game losing streak with a 19-16 win over the Steelers last week.",
-        "end":  "2026-11-27T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T10:30:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Bills host the Chiefs in NFL regular-season play at Highmark Stadium. First in the AFC at 9-1, Buffalo have won nine of their last ten; Kansas City arrives at 8-2 but have dropped two of their last five.",
-        "end":  "2026-11-27T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T13:00:00.0000000",
-        "title":  "Live: Good Morning Football",
-        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
-        "end":  "2026-11-27T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T15:00:00.0000000",
-        "title":  "Good Morning Football",
-        "desc":  "NFL Network enters the morning show fray with a three-hour live presentation. Each day, \"Good Morning Football\" brings viewers up-to-the-minute breaking NFL news and local NFL stories on a national platform. The show features a combination of headline-making interviews and a discussion of a wide array of issues in the areas of sports, news and entertainment. By booking celebrity guests and opinion",
-        "end":  "2026-11-27T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T17:00:00.0000000",
-        "title":  "Live: NFL Total Access",
-        "desc":  "The NFL Network\u0027s flagship program airs six nights a week, churning out the day\u0027s top headlines and much more covering all 32 teams. The show also provides fans with exclusive footage from inside team facilities and interviews with players and coaches. Joining hosts Dan Hellie and Amber Theoharis with analysis and insight are a deep roster of NFL Network personnel plus other former players as gues",
-        "end":  "2026-11-27T19:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T19:00:00.0000000",
-        "title":  "NFL Network",
-        "desc":  "",
-        "end":  "2026-11-27T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T20:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-11-27T23:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T23:00:00.0000000",
+        "start":  "2026-11-30T05:30:00.0000000",
         "title":  "NFL GameDay Final",
         "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
-        "end":  "2026-11-28T00:00:00.0000000"
+        "end":  "2026-12-01T00:00:00.0000000"
     },
     {
-        "start":  "2026-11-28T00:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Steelers host the Broncos in NFL regular-season play at Acrisure Stadium. Denver arrives 8-2 and winners of six straight, while Pittsburgh sits 6-4 after back-to-back losses.",
-        "end":  "2026-11-28T03:00:00.0000000"
+        "start":  "2026-11-30T00:30:00.0000000",
+        "title":  "Live: NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
+        "end":  "2026-11-30T01:30:00.0000000"
     },
     {
-        "start":  "2026-11-28T03:00:00.0000000",
+        "start":  "2026-11-30T01:30:00.0000000",
+        "title":  "NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
+        "end":  "2026-11-30T02:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T02:30:00.0000000",
+        "title":  "NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
+        "end":  "2026-11-30T03:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T03:30:00.0000000",
+        "title":  "NFL GameDay Highlights",
+        "desc":  "Breaking down all the highlights from Sunday\u0027s afternoon games.",
+        "end":  "2026-11-30T04:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T04:30:00.0000000",
+        "title":  "Live: NFL GameDay Final",
+        "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
+        "end":  "2026-11-30T05:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T05:30:00.0000000",
         "title":  "NFL GameDay Final",
         "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
-        "end":  "2026-11-28T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T04:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "From Ford Field in Detroit.",
-        "end":  "2026-11-28T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T07:00:00.0000000",
-        "title":  "NFL GameDay Final",
-        "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
-        "end":  "2026-11-28T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T08:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-11-28T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T11:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Bills host the Chiefs in NFL regular-season play at Highmark Stadium. First in the AFC at 9-1, Buffalo has won nine of its last 10, while Kansas City arrives at 8-2 but has dropped two of its last five.",
-        "end":  "2026-11-28T13:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T13:30:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Steelers host the Broncos in NFL regular-season play at Acrisure Stadium. Denver arrives 8-2 and winners of six straight, while Pittsburgh sits 6-4 after back-to-back losses.",
-        "end":  "2026-11-28T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T16:00:00.0000000",
-        "title":  "NFL Matchup",
-        "desc":  "The show that brings viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
-        "end":  "2026-11-28T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T16:30:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Seahawks (3-1) host the 49ers (4-0) in NFL Week 5 at Lumen Field. San Francisco arrives atop the NFC West, but Seattle won the last meeting here 41-6 in January. Seattle looks to Sam Darnold, who has 560 passing yards and six TDs this season.",
-        "end":  "2026-11-28T19:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T19:30:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Detroit Lions host the Chicago Bears in an NFC North divisional game at Ford Field. Both teams enter at 8-2, with Detroit having won four straight meetings against Chicago.",
-        "end":  "2026-11-28T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T22:30:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Bills host the Chiefs in NFL regular-season play at Highmark Stadium. First in the AFC at 9-1, Buffalo has won nine of its last 10, while Kansas City arrives at 8-2 but has dropped two of its last five.",
-        "end":  "2026-11-29T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T00:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Steelers host the Broncos in NFL regular-season play at Acrisure Stadium. Denver arrives 8-2 and winners of six straight, while Pittsburgh sits 6-4 after back-to-back losses.",
-        "end":  "2026-11-28T03:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T03:00:00.0000000",
-        "title":  "NFL GameDay Final",
-        "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
-        "end":  "2026-11-28T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T04:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "From Ford Field in Detroit.",
-        "end":  "2026-11-28T07:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T07:00:00.0000000",
-        "title":  "NFL GameDay Final",
-        "desc":  "The crew wraps up the day\u0027s NFL action with all the highlights and reactions from the game plus postgame interviews with the night\u0027s best performers.",
-        "end":  "2026-11-28T08:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T08:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "Football action from around the National Football League.",
-        "end":  "2026-11-28T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T11:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Bills host the Chiefs in NFL regular-season play at Highmark Stadium. First in the AFC at 9-1, Buffalo has won nine of its last 10, while Kansas City arrives at 8-2 but has dropped two of its last five.",
-        "end":  "2026-11-28T13:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T13:30:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Steelers host the Broncos in NFL regular-season play at Acrisure Stadium. Denver arrives 8-2 and winners of six straight, while Pittsburgh sits 6-4 after back-to-back losses.",
-        "end":  "2026-11-28T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T16:00:00.0000000",
-        "title":  "NFL Matchup",
-        "desc":  "The show that brings viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
-        "end":  "2026-11-28T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T16:30:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Seahawks (3-1) host the 49ers (4-0) in NFL Week 5 at Lumen Field. San Francisco arrives atop the NFC West, but Seattle won the last meeting here 41-6 in January. Seattle looks to Sam Darnold, who has 560 passing yards and six TDs this season.",
-        "end":  "2026-11-28T19:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T19:30:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Detroit Lions host the Chicago Bears in an NFC North divisional game at Ford Field. Both teams enter at 8-2, with Detroit having won four straight meetings against Chicago.",
-        "end":  "2026-11-28T22:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T22:30:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Bills host the Chiefs in NFL regular-season play at Highmark Stadium. First in the AFC at 9-1, Buffalo has won nine of its last 10, while Kansas City arrives at 8-2 but has dropped two of its last five.",
-        "end":  "2026-11-29T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-29T01:30:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Seahawks (3-1) host the 49ers (4-0) in NFL Week 5 at Lumen Field. San Francisco arrives atop the NFC West, but Seattle won the last meeting here 41-6 in January. Seattle looks to Sam Darnold, who has 560 passing yards and six TDs this season.",
-        "end":  "2026-11-29T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-29T04:30:00.0000000",
-        "title":  "NFL Matchup",
-        "desc":  "The show that brings viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
-        "end":  "2026-11-29T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-29T05:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Steelers host the Broncos in NFL regular-season play at Acrisure Stadium. Denver arrives 8-2 and winners of six straight, while Pittsburgh sits 6-4 after back-to-back losses.",
-        "end":  "2026-11-30T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-29T01:30:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Seahawks (3-1) host the 49ers (4-0) in NFL Week 5 at Lumen Field. San Francisco arrives atop the NFC West, but Seattle won the last meeting here 41-6 in January. Seattle looks to Sam Darnold, who has 560 passing yards and six TDs this season.",
-        "end":  "2026-11-29T04:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-29T04:30:00.0000000",
-        "title":  "NFL Matchup",
-        "desc":  "The show that brings viewers inside the film room for the X\u0027s and O\u0027s analysis of the weekend\u0027s NFL matchups.",
-        "end":  "2026-11-29T05:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-29T05:00:00.0000000",
-        "title":  "NFL Football",
-        "desc":  "The Steelers host the Broncos in NFL regular-season play at Acrisure Stadium. Denver arrives 8-2 and winners of six straight, while Pittsburgh sits 6-4 after back-to-back losses.",
-        "end":  "2026-11-30T00:00:00.0000000"
+        "end":  "2026-12-01T00:00:00.0000000"
     }
 ]

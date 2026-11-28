@@ -1,281 +1,5 @@
 [
     {
-        "start":  "2026-11-27T00:00:00.0000000",
-        "title":  "Jeopardy!",
-        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
-        "end":  "2026-11-27T00:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T00:30:00.0000000",
-        "title":  "Wheel of Fortune",
-        "desc":  "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
-        "end":  "2026-11-27T01:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T01:00:00.0000000",
-        "title":  "Mary Poppins",
-        "desc":  "When Jane (Karen Dotrice) and Michael (Matthew Garber), the children of the wealthy and uptight Banks family, are faced with the prospect of a new nanny, they are pleasantly surprised by the arrival of the magical Mary Poppins (Julie Andrews). Embarking on a series of fantastical adventures with Mary and her Cockney performer friend, Bert (Dick Van Dyke), the siblings try to pass on some of their ",
-        "end":  "2026-11-27T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T04:00:00.0000000",
-        "title":  "Eyewitness News at 11",
-        "desc":  "Breaking news.",
-        "end":  "2026-11-27T04:35:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T04:35:00.0000000",
-        "title":  "Jimmy Kimmel Live!",
-        "desc":  "Actor Bill Murray; author Andy Richter; Sy Smith sits in with The Cletones.",
-        "end":  "2026-11-27T05:37:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T05:37:00.0000000",
-        "title":  "Nightline",
-        "desc":  "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
-        "end":  "2026-11-27T06:06:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T06:06:00.0000000",
-        "title":  "ABC World News Tonight With David Muir",
-        "desc":  "Delivering the news that matters most.",
-        "end":  "2026-11-27T06:36:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T06:36:00.0000000",
-        "title":  "Live with Kelly and Mark",
-        "desc":  "Caitriona Balfe and Leo Woodall; recognizing skincare myths.",
-        "end":  "2026-11-27T07:36:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T07:36:00.0000000",
-        "title":  "Jeopardy!",
-        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
-        "end":  "2026-11-27T08:06:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T08:06:00.0000000",
-        "title":  "Tamron Hall",
-        "desc":  "Professional basketball player Jalen Brunson (book \"Jalen Plays It All\") and his parents, Rick and Sandra; rapper Darryl \"DMC\" McDaniels.",
-        "end":  "2026-11-27T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T09:00:00.0000000",
-        "title":  "Good Morning America First Look",
-        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
-        "end":  "2026-11-27T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T09:30:00.0000000",
-        "title":  "Eyewitness News This Morning",
-        "desc":  "News coverage to start the day.",
-        "end":  "2026-11-27T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T11:00:00.0000000",
-        "title":  "Eyewitness News This Morning",
-        "desc":  "News coverage to start the day.",
-        "end":  "2026-11-27T12:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T12:00:00.0000000",
-        "title":  "Good Morning America",
-        "desc":  "Comic Matt Rogers; Deals \u0026 Steals: Black Friday with Tory Johnson.",
-        "end":  "2026-11-27T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T14:00:00.0000000",
-        "title":  "Live with Kelly and Mark",
-        "desc":  "Nikki Glaser; Donnie Wahlberg; the hosts open up \"The Inbox.\".",
-        "end":  "2026-11-27T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T15:00:00.0000000",
-        "title":  "Eyewitness News Mornings at 10",
-        "desc":  "Stay informed with the latest breaking news and headlines.",
-        "end":  "2026-11-27T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T16:00:00.0000000",
-        "title":  "The View",
-        "desc":  "Actor LL Cool J; actress and author Sophia Bush.",
-        "end":  "2026-11-27T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T17:00:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "From Vaught-Hemingway Stadium in Oxford, Miss.",
-        "end":  "2026-11-27T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T20:00:00.0000000",
-        "title":  "Live: College Football Scoreboard",
-        "desc":  "All the latest news and analysis from the world of college football.",
-        "end":  "2026-11-27T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T20:30:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "From Doak S. Campbell Stadium in Tallahassee, Fla.",
-        "end":  "2026-11-27T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-27T23:30:00.0000000",
-        "title":  "Live: College Football Scoreboard",
-        "desc":  "All the latest news and analysis from the world of college football.",
-        "end":  "2026-11-28T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T00:00:00.0000000",
-        "title":  "Live: College Football Scoreboard",
-        "desc":  "All the latest news and analysis from the world of college football.",
-        "end":  "2026-11-28T00:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T00:30:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "From Kyle Field in College Station, Texas.",
-        "end":  "2026-11-28T04:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T04:00:00.0000000",
-        "title":  "Eyewitness News at 11",
-        "desc":  "Breaking news.",
-        "end":  "2026-11-28T04:35:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T04:35:00.0000000",
-        "title":  "Jimmy Kimmel Live!",
-        "desc":  "Actor Chris Pratt; chef Gordon Ramsay; Stephen Wilson Jr. performs; Sara Niemietz sits in with The Cletones.",
-        "end":  "2026-11-28T05:37:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T05:37:00.0000000",
-        "title":  "Nightline",
-        "desc":  "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
-        "end":  "2026-11-28T06:06:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T06:06:00.0000000",
-        "title":  "Live with Kelly and Mark",
-        "desc":  "Nikki Glaser; Donnie Wahlberg; the hosts open up \"The Inbox.\".",
-        "end":  "2026-11-28T07:06:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T07:06:00.0000000",
-        "title":  "Jeopardy!",
-        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
-        "end":  "2026-11-28T07:36:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T07:36:00.0000000",
-        "title":  "Jeopardy!",
-        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
-        "end":  "2026-11-28T08:06:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T08:06:00.0000000",
-        "title":  "Wheel of Fortune",
-        "desc":  "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
-        "end":  "2026-11-28T08:36:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T08:36:00.0000000",
-        "title":  "Beautiful Homes \u0026 Great Estates",
-        "desc":  "Mediterranean climate and spectacular views.",
-        "end":  "2026-11-28T09:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T09:00:00.0000000",
-        "title":  "Wildlife Nation With Jeff Corwin",
-        "desc":  "The fight against invasive Burmese pythons in Florida; biologists use tracking technology to uncover insights about the species; biologists from the Miccosukee Tribe of Indians of Florida work to conserve the Everglades ecosystem.",
-        "end":  "2026-11-28T09:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T09:30:00.0000000",
-        "title":  "Sports Stars of Tomorrow",
-        "desc":  "Profiles of the top rookie, college and high-school talent in sports; athletes share their experiences, advice and personal impressions of the road to stardom.",
-        "end":  "2026-11-28T10:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T10:00:00.0000000",
-        "title":  "Jeopardy!",
-        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
-        "end":  "2026-11-28T10:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T10:30:00.0000000",
-        "title":  "Wheel of Fortune",
-        "desc":  "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
-        "end":  "2026-11-28T11:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T11:00:00.0000000",
-        "title":  "Eyewitness News This Morning",
-        "desc":  "News coverage to start the day.",
-        "end":  "2026-11-28T13:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T13:00:00.0000000",
-        "title":  "Good Morning America",
-        "desc":  "Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.",
-        "end":  "2026-11-28T14:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T14:00:00.0000000",
-        "title":  "Eyewitness News This Morning",
-        "desc":  "News coverage to start the day.",
-        "end":  "2026-11-28T15:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T15:00:00.0000000",
-        "title":  "Good Morning America",
-        "desc":  "College GameDay Week 13 with ESPN football analyst Desmond Howard; founder Sabina Hitchen; Deals \u0026 Steals: Holiday Special with Tory Johnson.",
-        "end":  "2026-11-28T16:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T16:00:00.0000000",
-        "title":  "Jeff Corwin: Southern Wild",
-        "desc":  "Jeff celebrates the veterinarians, conservationists, teachers and students working to protect North Carolina\u0027s wildlife; returning the tangerine darter to the Swannanoa River; conservationists in training at the Elk Valley Preserve; the May Wildlife Rehabilitation Center.",
-        "end":  "2026-11-28T16:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T16:30:00.0000000",
-        "title":  "The Champion\u0027s Edge with Bonnie Bernstein",
-        "desc":  "Former UNC field hockey star and head coach Erin Matson steps into a new chapter of leadership; Erin reflects on the pressure of leading former teammates while building a culture rooted in accountability, empathy and team-first mentality.",
-        "end":  "2026-11-28T17:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T17:00:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "From JMA Dome in Syracuse, N.Y.",
-        "end":  "2026-11-28T20:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T20:00:00.0000000",
-        "title":  "Live: College Football Scoreboard",
-        "desc":  "All the latest news and analysis from the world of college football.",
-        "end":  "2026-11-28T20:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T20:30:00.0000000",
-        "title":  "Live: College Football",
-        "desc":  "From Sanford Stadium in Athens, Ga.",
-        "end":  "2026-11-28T23:30:00.0000000"
-    },
-    {
-        "start":  "2026-11-28T23:30:00.0000000",
-        "title":  "Live: College Football Scoreboard",
-        "desc":  "All the latest news and analysis from the world of college football.",
-        "end":  "2026-11-29T00:00:00.0000000"
-    },
-    {
-        "start":  "2026-11-29T00:00:00.0000000",
-        "title":  "Live: College Football Scoreboard",
-        "desc":  "All the latest news and analysis from the world of college football.",
-        "end":  "2026-11-30T00:00:00.0000000"
-    },
-    {
         "start":  "2026-11-28T00:00:00.0000000",
         "title":  "Live: College Football Scoreboard",
         "desc":  "All the latest news and analysis from the world of college football.",
@@ -729,6 +453,288 @@
         "start":  "2026-11-30T05:00:00.0000000",
         "title":  "The Rookie",
         "desc":  "The team mobilizes to locate a suspect after a deadly series of events affects one of their own; Celina takes on her first case with Bailey\u0027s help.",
+        "end":  "2026-11-30T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T06:00:00.0000000",
+        "title":  "The Rookie",
+        "desc":  "John, Lucy and Angela investigate the suspicious stabbing of three teenage girls; the team experiences technical difficulties while managing a group of prisoners and a wild animal.",
+        "end":  "2026-11-30T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T07:00:00.0000000",
+        "title":  "Murdoch Mysteries",
+        "desc":  "Murdoch and Watts\u0027 efforts to protect a priceless ruby are thwarted by a determined thief.",
+        "end":  "2026-11-30T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T08:00:00.0000000",
+        "title":  "This Week With George Stephanopoulos",
+        "desc":  "Anchor George Stephanopoulos and co-anchors Martha Raddatz and Jonathan Karl interview top newsmakers and officials, with reporting from across the country and roundtable debates over the hottest political issues.",
+        "end":  "2026-11-30T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T09:00:00.0000000",
+        "title":  "Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-11-30T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T09:30:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-11-30T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T11:00:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-11-30T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T12:00:00.0000000",
+        "title":  "Good Morning America",
+        "desc":  "Actor Will Arnett; \"GMA\" Game Day: Countdown to the Super Bowl -- Tampa Bay Buccaneers; Can\u0027t Miss This: Cyber Week Deals with Lori Bergamotto; Deals \u0026 Steals: Cyber Monday with Tory Johnson.",
+        "end":  "2026-11-30T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T14:00:00.0000000",
+        "title":  "Live with Kelly and Mark",
+        "desc":  "Michelle Yeoh; gift bargains with Monica Mangin; Liza Koshy.",
+        "end":  "2026-11-30T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T15:00:00.0000000",
+        "title":  "Eyewitness News Mornings at 10",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-11-30T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T16:00:00.0000000",
+        "title":  "The View",
+        "desc":  "Day of hot topics.",
+        "end":  "2026-11-30T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T17:00:00.0000000",
+        "title":  "Eyewitness News at Noon",
+        "desc":  "Midday news update.",
+        "end":  "2026-11-30T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T18:00:00.0000000",
+        "title":  "GMA3",
+        "desc":  "\"GMA\" Game Day: Countdown to the Super Bowl -- Tampa Bay Buccaneers; Deals \u0026 Steals: Cyber Monday with Tory Johnson.",
+        "end":  "2026-11-30T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T19:00:00.0000000",
+        "title":  "Tamron Hall",
+        "desc":  "A virtual assistant becomes a source of companionship and emotional support; being overly reliant on AI for business and personal decisions; people outsourcing their thinking to AI; a 12-year-old runs away from home after an exchange with a chatbot.",
+        "end":  "2026-11-30T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T20:00:00.0000000",
+        "title":  "General Hospital",
+        "desc":  "Michael and Willow have it out; Chase is gobsmacked; Britt cautions Jude; Josslyn explains her decision; Ric apologizes to Elizabeth.",
+        "end":  "2026-11-30T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T21:00:00.0000000",
+        "title":  "Eyewitness News First at 4",
+        "desc":  "Local and regional news coverage.",
+        "end":  "2026-11-30T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T22:00:00.0000000",
+        "title":  "Eyewitness News at 5",
+        "desc":  "Local and regional news.",
+        "end":  "2026-11-30T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T23:00:00.0000000",
+        "title":  "Eyewitness News at 6",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-11-30T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T23:30:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "desc":  "Delivering the news that matters most.",
         "end":  "2026-12-01T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-12-01T00:00:00.0000000",
+        "title":  "Jeopardy!",
+        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
+        "end":  "2026-12-02T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T00:00:00.0000000",
+        "title":  "The Sound of Music",
+        "desc":  "A tuneful, heartwarming story, it is based on the real life story of the Von Trapp Family singers, one of the world\u0027s best-known concert groups in the era immediately preceding World War II. Julie Andrews plays the role of Maria, the tomboyish postulant at an Austrian abbey who becomes a governess in the home of a widowed naval captain with seven children, and brings a new love of life and music i",
+        "end":  "2026-11-30T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T04:00:00.0000000",
+        "title":  "Eyewitness News at 11",
+        "desc":  "Breaking news.",
+        "end":  "2026-11-30T05:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T05:00:00.0000000",
+        "title":  "The Rookie",
+        "desc":  "The team mobilizes to locate a suspect after a deadly series of events affects one of their own; Celina takes on her first case with Bailey\u0027s help.",
+        "end":  "2026-11-30T06:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T06:00:00.0000000",
+        "title":  "The Rookie",
+        "desc":  "John, Lucy and Angela investigate the suspicious stabbing of three teenage girls; the team experiences technical difficulties while managing a group of prisoners and a wild animal.",
+        "end":  "2026-11-30T07:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T07:00:00.0000000",
+        "title":  "Murdoch Mysteries",
+        "desc":  "Murdoch and Watts\u0027 efforts to protect a priceless ruby are thwarted by a determined thief.",
+        "end":  "2026-11-30T08:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T08:00:00.0000000",
+        "title":  "This Week With George Stephanopoulos",
+        "desc":  "Anchor George Stephanopoulos and co-anchors Martha Raddatz and Jonathan Karl interview top newsmakers and officials, with reporting from across the country and roundtable debates over the hottest political issues.",
+        "end":  "2026-11-30T09:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T09:00:00.0000000",
+        "title":  "Good Morning America First Look",
+        "desc":  "ABC\u0027s \"Good Morning America First Look\" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.",
+        "end":  "2026-11-30T09:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T09:30:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-11-30T11:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T11:00:00.0000000",
+        "title":  "Eyewitness News This Morning",
+        "desc":  "News coverage to start the day.",
+        "end":  "2026-11-30T12:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T12:00:00.0000000",
+        "title":  "Good Morning America",
+        "desc":  "Actor Will Arnett; \"GMA\" Game Day: Countdown to the Super Bowl -- Tampa Bay Buccaneers; Can\u0027t Miss This: Cyber Week Deals with Lori Bergamotto; Deals \u0026 Steals: Cyber Monday with Tory Johnson.",
+        "end":  "2026-11-30T14:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T14:00:00.0000000",
+        "title":  "Live with Kelly and Mark",
+        "desc":  "Michelle Yeoh; gift bargains with Monica Mangin; Liza Koshy.",
+        "end":  "2026-11-30T15:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T15:00:00.0000000",
+        "title":  "Eyewitness News Mornings at 10",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-11-30T16:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T16:00:00.0000000",
+        "title":  "The View",
+        "desc":  "Day of hot topics.",
+        "end":  "2026-11-30T17:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T17:00:00.0000000",
+        "title":  "Eyewitness News at Noon",
+        "desc":  "Midday news update.",
+        "end":  "2026-11-30T18:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T18:00:00.0000000",
+        "title":  "GMA3",
+        "desc":  "\"GMA\" Game Day: Countdown to the Super Bowl -- Tampa Bay Buccaneers; Deals \u0026 Steals: Cyber Monday with Tory Johnson.",
+        "end":  "2026-11-30T19:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T19:00:00.0000000",
+        "title":  "Tamron Hall",
+        "desc":  "A virtual assistant becomes a source of companionship and emotional support; being overly reliant on AI for business and personal decisions; people outsourcing their thinking to AI; a 12-year-old runs away from home after an exchange with a chatbot.",
+        "end":  "2026-11-30T20:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T20:00:00.0000000",
+        "title":  "General Hospital",
+        "desc":  "Michael and Willow have it out; Chase is gobsmacked; Britt cautions Jude; Josslyn explains her decision; Ric apologizes to Elizabeth.",
+        "end":  "2026-11-30T21:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T21:00:00.0000000",
+        "title":  "Eyewitness News First at 4",
+        "desc":  "Local and regional news coverage.",
+        "end":  "2026-11-30T22:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T22:00:00.0000000",
+        "title":  "Eyewitness News at 5",
+        "desc":  "Local and regional news.",
+        "end":  "2026-11-30T23:00:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T23:00:00.0000000",
+        "title":  "Eyewitness News at 6",
+        "desc":  "Stay informed with the latest breaking news and headlines.",
+        "end":  "2026-11-30T23:30:00.0000000"
+    },
+    {
+        "start":  "2026-11-30T23:30:00.0000000",
+        "title":  "ABC World News Tonight With David Muir",
+        "desc":  "Delivering the news that matters most.",
+        "end":  "2026-12-01T00:00:00.0000000"
+    },
+    {
+        "start":  "2026-12-01T00:00:00.0000000",
+        "title":  "Jeopardy!",
+        "desc":  "The Emmy-winning quiz show features a unique answer-and-question format.",
+        "end":  "2026-12-01T00:30:00.0000000"
+    },
+    {
+        "start":  "2026-12-01T00:30:00.0000000",
+        "title":  "Wheel of Fortune",
+        "desc":  "In a classic game-show version of \"Hangman,\" contestants solve word puzzles for cash and prizes.",
+        "end":  "2026-12-01T01:00:00.0000000"
+    },
+    {
+        "start":  "2026-12-01T01:00:00.0000000",
+        "title":  "The Wonderful World of Disney: Holiday Spectacular",
+        "desc":  "All-new musical performances from Walt Disney World Resort and Disneyland Resort.",
+        "end":  "2026-12-01T03:00:00.0000000"
+    },
+    {
+        "start":  "2026-12-01T03:00:00.0000000",
+        "title":  "Santa Claus Is Comin\u0027 to Town",
+        "desc":  "A lanky mailman (voiced by Fred Astaire) tells the story of Santa Claus. Adopted by an elf family named Kringle, young Kris longs to restore the Kringle reputation as toymakers to the king, but the evil Burgermeister Meisterburger has outlawed toys in Sombertown. Overcoming the opposition of both the Burgermeister and the Winter Warlock, Kris begins delivering toys not only to the children on Somb",
+        "end":  "2026-12-01T04:00:00.0000000"
+    },
+    {
+        "start":  "2026-12-01T04:00:00.0000000",
+        "title":  "Eyewitness News at 11",
+        "desc":  "Breaking news.",
+        "end":  "2026-12-01T04:35:00.0000000"
+    },
+    {
+        "start":  "2026-12-01T04:35:00.0000000",
+        "title":  "Jimmy Kimmel Live!",
+        "desc":  "Actor TimothÃ©e Chalamet; rapper Snoop Dogg; Lucy Woodward sits in with The Cletones.",
+        "end":  "2026-12-01T05:37:00.0000000"
+    },
+    {
+        "start":  "2026-12-01T05:37:00.0000000",
+        "title":  "Nightline",
+        "desc":  "In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.",
+        "end":  "2026-12-02T00:00:00.0000000"
     }
 ]
